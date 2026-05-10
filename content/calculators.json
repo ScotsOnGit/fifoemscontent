@@ -1644,5 +1644,45 @@
     "relatedMedicationIDs": [],
     "isFreeContent": true,
     "version": 1
+  },
+  {
+    "id": "h2s-toxicology",
+    "name": "H2S Toxicology",
+    "shortName": "H2S",
+    "description": "Hydrogen sulphide clinical staging (I\u2013IV), ppm exposure reference, antidote decision aid, and knockdown management.",
+    "category": "toxicology",
+    "tags": [
+      "H2S",
+      "hydrogen sulphide",
+      "gas",
+      "poisoning",
+      "knockdown",
+      "mine site",
+      "toxicology"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "co-poisoning",
+    "name": "CO Poisoning",
+    "shortName": "CO",
+    "description": "Carbon monoxide COHb clinical staging, oxygen therapy half-life calculator, and HBO criteria (Weaver 2002).",
+    "category": "toxicology",
+    "tags": [
+      "CO",
+      "carbon monoxide",
+      "COHb",
+      "HBO",
+      "hyperbaric",
+      "poisoning",
+      "toxicology"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
   }
 ]
