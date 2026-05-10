@@ -1350,5 +1350,259 @@
     "relatedMedicationIDs": [],
     "isFreeContent": true,
     "version": 1
+  },
+  {
+    "id": "ba-team-air",
+    "name": "BA Team Air Calculator",
+    "shortName": "BA Team Air",
+    "description": "Team breathing apparatus duration based on each wearer's cylinder and work rate. Team duration = weakest link (lowest air wearer).",
+    "category": "eso",
+    "tags": [
+      "BA",
+      "breathing apparatus",
+      "SCBA",
+      "team air",
+      "cylinder",
+      "air duration",
+      "entry control",
+      "weakest link",
+      "mine rescue"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "pump-pressure",
+    "name": "Pump Pressure Calculator",
+    "shortName": "Pump Pressure",
+    "description": "Required pump outlet pressure based on nozzle pressure, hose friction loss by diameter and length, and elevation change.",
+    "category": "eso",
+    "tags": [
+      "pump pressure",
+      "fire fighting",
+      "hose",
+      "friction loss",
+      "nozzle",
+      "elevation",
+      "kPa",
+      "flow rate",
+      "appliance"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "fire-foam",
+    "name": "Fire Foam Proportioning",
+    "shortName": "Fire Foam",
+    "description": "Foam concentrate and water volumes for 1%, 3%, or 6% AFFF solution. Includes fuel coverage area and tank fill calculations.",
+    "category": "eso",
+    "tags": [
+      "foam",
+      "AFFF",
+      "proportioning",
+      "fire fighting",
+      "concentrate",
+      "FFFP",
+      "fuel fire",
+      "suppression",
+      "tank"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "confined-space-purge",
+    "name": "Confined Space Ventilation",
+    "shortName": "CS Ventilation",
+    "description": "Purge time to achieve target air changes from space dimensions and fan flow rate. Includes fresh air base (FAB) duration for occupants.",
+    "category": "eso",
+    "tags": [
+      "confined space",
+      "ventilation",
+      "purge",
+      "air changes",
+      "FAB",
+      "fresh air base",
+      "fan",
+      "CFM",
+      "entry",
+      "permit"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "hypothermia-staging",
+    "name": "Hypothermia Staging",
+    "shortName": "Hypothermia",
+    "description": "Swiss staging system (I–IV) from core temperature or clinical signs. Management and rewarming guidance per stage.",
+    "category": "scoring",
+    "tags": [
+      "hypothermia",
+      "Swiss staging",
+      "core temperature",
+      "cold",
+      "rewarming",
+      "environmental",
+      "offshore",
+      "altitude",
+      "night shift"
+    ],
+    "relatedGuidelineIDs": [
+      "hypothermia"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "txa-dosing",
+    "name": "TXA Dosing",
+    "shortName": "TXA",
+    "description": "Tranexamic acid dosing for haemorrhagic trauma (CRASH-2) and PPH. Tracks time since injury against the 3-hour treatment window.",
+    "category": "dosing",
+    "tags": [
+      "TXA",
+      "tranexamic acid",
+      "haemorrhage",
+      "trauma",
+      "CRASH-2",
+      "coagulation",
+      "bleeding",
+      "PPH",
+      "obstetric"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "blood-loss-class",
+    "name": "Blood Loss Classification",
+    "shortName": "Blood Loss Class",
+    "description": "Haemorrhagic shock Classes I–IV from vital signs. Estimates blood volume lost and guides immediate resuscitation actions.",
+    "category": "trauma",
+    "tags": [
+      "blood loss",
+      "haemorrhagic shock",
+      "class",
+      "classification",
+      "HR",
+      "BP",
+      "resuscitation",
+      "trauma",
+      "haemorrhage"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "opioid-titration",
+    "name": "Opioid Titration",
+    "shortName": "Opioid Titration",
+    "description": "Weight-based morphine and fentanyl loading doses with titration guide. Tracks doses given during extended patient care.",
+    "category": "dosing",
+    "tags": [
+      "morphine",
+      "fentanyl",
+      "opioid",
+      "analgesia",
+      "pain",
+      "titration",
+      "mg/kg",
+      "IV",
+      "prehospital",
+      "retrieval"
+    ],
+    "relatedGuidelineIDs": [
+      "pain-management"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "niosh-lifting",
+    "name": "NIOSH Lifting Equation",
+    "shortName": "NIOSH Lifting",
+    "description": "Recommended Weight Limit (RWL) and Lifting Index (LI) from task variables. Identifies manual handling injury risk for mine site tasks.",
+    "category": "physio",
+    "tags": [
+      "NIOSH",
+      "lifting",
+      "manual handling",
+      "RWL",
+      "lifting index",
+      "ergonomics",
+      "back",
+      "OHS",
+      "risk assessment",
+      "mine site"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "rtw-readiness",
+    "name": "RTW Readiness Score",
+    "shortName": "RTW Readiness",
+    "description": "Return to work readiness scoring across physical capacity and psychosocial factors. Outputs a recommendation from Full Duties to Not Ready.",
+    "category": "physio",
+    "tags": [
+      "RTW",
+      "return to work",
+      "readiness",
+      "fitness for duty",
+      "functional capacity",
+      "kinesiophobia",
+      "rehabilitation",
+      "clearance"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "grip-strength",
+    "name": "Grip Strength & Deficit",
+    "shortName": "Grip Strength",
+    "description": "Bilateral grip strength deficit percentage and comparison to Jamar normative data by age and sex. Supports fitness-for-duty and FCE decisions.",
+    "category": "physio",
+    "tags": [
+      "grip strength",
+      "Jamar",
+      "dynamometer",
+      "deficit",
+      "bilateral",
+      "normative",
+      "upper limb",
+      "hand",
+      "wrist",
+      "FCE",
+      "fitness for duty"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
   }
 ]
