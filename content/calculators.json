@@ -1684,5 +1684,51 @@
     "relatedMedicationIDs": [],
     "isFreeContent": true,
     "version": 1
+  },
+  {
+    "id": "blast-injury",
+    "name": "Blast Injury Assessment",
+    "shortName": "Blast",
+    "description": "Four-mechanism blast injury classification (primary/secondary/tertiary/quaternary), Leibovici blast lung staging (Grade I–III), and tympanic membrane grading as a primary blast indicator.",
+    "category": "trauma",
+    "tags": [
+      "blast",
+      "explosion",
+      "blast lung",
+      "barotrauma",
+      "fragmentation",
+      "tympanic membrane",
+      "Leibovici",
+      "primary blast",
+      "PBIED",
+      "mine site",
+      "trauma"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "atmist-handover",
+    "name": "ATMIST Handover Generator",
+    "shortName": "ATMIST",
+    "description": "Structured pre-hospital handover tool. Enter ATMIST elements and vital signs to generate a formatted handover text for sharing with retrieval, hospital, or receiving teams.",
+    "category": "retrieval",
+    "tags": [
+      "ATMIST",
+      "handover",
+      "retrieval",
+      "RFDS",
+      "pre-hospital",
+      "communication",
+      "vitals",
+      "transfer",
+      "prehospital"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
   }
 ]

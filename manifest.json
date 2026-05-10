@@ -1,10 +1,10 @@
 {
-  "version": 4,
-  "lastUpdated": "2026-05-10T07:12:25Z",
+  "version": 5,
+  "lastUpdated": "2026-05-10T07:48:14Z",
   "files": {
     "guidelines": 1,
     "medications": 1,
-    "calculators": 4,
+    "calculators": 5,
     "mnemonics": 1
   }
 }
