@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "drip-rate",
+    "name": "Drip Rate Calculator",
+    "shortName": "Drip Rate",
+    "description": "Calculate gravity drip rates (drops/min), IV pump rates (mL/hr), and weight-based infusion rates (mcg/kg/min).",
+    "category": "dosing",
+    "tags": [
+      "drip rate",
+      "infusion",
+      "IV",
+      "drops per minute",
+      "mL/hr",
+      "mcg/kg/min",
+      "gravity"
+    ],
+    "relatedGuidelineIDs": [
+      "pain-management"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "o2-cylinder-duration",
+    "name": "O₂ Cylinder Duration",
+    "shortName": "O₂ Duration",
+    "description": "Estimates how long a medical oxygen cylinder will last based on cylinder size (B, C, D, E, F, G, H/K), fill level or gauge pressure, and delivery flow rate.",
+    "category": "dosing",
+    "tags": [
+      "oxygen",
+      "O2",
+      "cylinder",
+      "duration",
+      "flow rate",
+      "B cylinder",
+      "C cylinder",
+      "D cylinder",
+      "E cylinder",
+      "F cylinder",
+      "G cylinder",
+      "H cylinder",
+      "K cylinder",
+      "nasal cannula",
+      "non-rebreather",
+      "BVM",
+      "prehospital"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "weight-based-dosing",
+    "name": "Weight-Based Dosing Calculator",
+    "shortName": "Dose Calc",
+    "description": "Calculate weight-based medication doses for adult and paediatric patients.",
+    "category": "dosing",
+    "tags": [
+      "dosing",
+      "weight",
+      "paediatric",
+      "mg/kg"
+    ],
+    "relatedGuidelineIDs": [
+      "pain-management"
+    ],
+    "relatedMedicationIDs": [
+      "fentanyl"
+    ],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "avpu",
+    "name": "AVPU Scale",
+    "shortName": "AVPU",
+    "description": "Rapid consciousness assessment: Alert, Voice, Pain, Unresponsive. Includes GCS correlation.",
+    "category": "scoring",
+    "tags": [
+      "consciousness",
+      "neuro",
+      "AVPU",
+      "alert",
+      "unresponsive",
+      "GCS"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-primary-survey"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "clinical-frailty-scale",
+    "name": "Clinical Frailty Scale",
+    "shortName": "CFS",
+    "description": "Rockwood 9-point Clinical Frailty Scale to support escalation and goals-of-care decisions.",
+    "category": "scoring",
+    "tags": [
+      "frailty",
+      "CFS",
+      "Rockwood",
+      "elderly",
+      "goals of care",
+      "escalation",
+      "aged care"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-functional-status-assessment"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "gcs",
+    "name": "Glasgow Coma Scale",
+    "shortName": "GCS",
+    "description": "Standardised assessment of conscious state using eye, verbal, and motor responses.",
+    "category": "scoring",
+    "tags": [
+      "consciousness",
+      "neuro",
+      "head injury",
+      "trauma",
+      "coma"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-brain-injury",
+      "skill-gcs"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "heat-stress",
+    "name": "Heat Stress Suite",
+    "shortName": "Heat Stress",
+    "description": "WBGT environmental heat risk assessment with Safe Work Australia action levels, plus clinical heat illness grading (heat cramps / exhaustion / stroke).",
+    "category": "scoring",
+    "tags": [
+      "heat stress",
+      "WBGT",
+      "heat stroke",
+      "heat exhaustion",
+      "heat cramps",
+      "dehydration",
+      "mining",
+      "industry",
+      "occupational",
+      "hyperthermia"
+    ],
+    "relatedGuidelineIDs": [
+      "hyperthermia-heat-stroke-heat-related-sickness",
+      "drug-induced-hyperthermia"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "news2",
+    "name": "NEWS2 (National Early Warning Score 2)",
+    "shortName": "NEWS2",
+    "description": "Standardised assessment of acute illness severity using six physiological parameters.",
+    "category": "scoring",
+    "tags": [
+      "early warning",
+      "deterioration",
+      "sepsis",
+      "observation",
+      "vital signs"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-primary-survey",
+      "skill-blood-pressure",
+      "skill-ecg"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "qsofa",
+    "name": "qSOFA (Quick Sequential Organ Failure Assessment)",
+    "shortName": "qSOFA",
+    "description": "Bedside screening tool for sepsis risk using mental status, respiratory rate, and blood pressure.",
+    "category": "scoring",
+    "tags": [
+      "sepsis",
+      "infection",
+      "SIRS",
+      "organ failure"
+    ],
+    "relatedGuidelineIDs": [
+      "sepsis-septic-shock",
+      "chest-infection"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "race-score",
+    "name": "RACE Score (Stroke LVO Screening)",
+    "shortName": "RACE",
+    "description": "Rapid Arterial oCclusion Evaluation — pre-hospital screening for large vessel occlusion stroke.",
+    "category": "scoring",
+    "tags": [
+      "stroke",
+      "LVO",
+      "RACE",
+      "large vessel occlusion",
+      "facial palsy",
+      "arm",
+      "leg",
+      "aphasia",
+      "agnosia"
+    ],
+    "relatedGuidelineIDs": [
+      "stroke-tia",
+      "rapid-arterial-occlusion-evaluation"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "revised-geneva",
+    "name": "Revised Geneva Score (PE)",
+    "shortName": "Geneva PE",
+    "description": "Clinical prediction rule for pulmonary embolism pretest probability. No ABG required — 8 objective variables.",
+    "category": "scoring",
+    "tags": [
+      "PE",
+      "pulmonary embolism",
+      "DVT",
+      "Geneva",
+      "pretest probability",
+      "dyspnoea",
+      "chest pain",
+      "thromboembolism"
+    ],
+    "relatedGuidelineIDs": [
+      "pulmonary-embolus"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "rass",
+    "name": "Richmond Agitation-Sedation Scale",
+    "shortName": "RASS",
+    "description": "10-point observational scale assessing depth of sedation and agitation in critically ill patients, ranging from +4 (combative) to -5 (unarousable).",
+    "category": "scoring",
+    "tags": [
+      "RASS",
+      "richmond",
+      "agitation",
+      "sedation",
+      "sedation scale",
+      "consciousness",
+      "ICU",
+      "critical care",
+      "mental state",
+      "delirium"
+    ],
+    "relatedGuidelineIDs": [
+      "high-risk-mental-health-presentations",
+      "low-risk-mental-health-presentations",
+      "richmond-agitation-sedation-scale-rass"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "wells-pe",
+    "name": "Wells Score (Pulmonary Embolism)",
+    "shortName": "Wells PE",
+    "description": "Clinical prediction rule for estimating the probability of pulmonary embolism.",
+    "category": "scoring",
+    "tags": [
+      "PE",
+      "pulmonary embolism",
+      "DVT",
+      "thromboembolism",
+      "chest pain",
+      "dyspnoea"
+    ],
+    "relatedGuidelineIDs": [
+      "pulmonary-embolus"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": false,
+    "version": 1
+  },
+  {
+    "id": "bazett-qtc",
+    "name": "Bazett QTc Calculator",
+    "shortName": "QTc",
+    "description": "Corrects the QT interval for heart rate using Bazett's formula: QTc = QT / √(RR interval).",
+    "category": "cardiac",
+    "tags": [
+      "ECG",
+      "QT",
+      "QTc",
+      "arrhythmia",
+      "long QT"
+    ],
+    "relatedGuidelineIDs": [
+      "cardiac-arrhythmia",
+      "acute-coronary-syndrome",
+      "hyperkalaemia"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "chadsvasc",
+    "name": "CHA₂DS₂-VASc Score",
+    "shortName": "CHA₂DS₂-VASc",
+    "description": "Stroke risk stratification in patients with atrial fibrillation.",
+    "category": "cardiac",
+    "tags": [
+      "AF",
+      "atrial fibrillation",
+      "stroke",
+      "anticoagulation"
+    ],
+    "relatedGuidelineIDs": [
+      "cardiac-arrhythmia",
+      "acute-decompensated-heart-failure"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": false,
+    "version": 1
+  },
+  {
+    "id": "ecg-axis",
+    "name": "ECG Axis Helper",
+    "shortName": "ECG Axis",
+    "description": "Determine cardiac axis deviation using Lead I, aVF, and Lead II QRS deflections.",
+    "category": "cardiac",
+    "tags": [
+      "ECG",
+      "axis",
+      "LAD",
+      "RAD",
+      "left axis",
+      "right axis",
+      "cardiac"
+    ],
+    "relatedGuidelineIDs": [
+      "cardiac-arrhythmia",
+      "acute-coronary-syndrome"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "heart-score",
+    "name": "HEART Score (Chest Pain)",
+    "shortName": "HEART",
+    "description": "Risk stratification for chest pain patients — predicts 6-week major adverse cardiac event (MACE) risk.",
+    "category": "cardiac",
+    "tags": [
+      "HEART",
+      "chest pain",
+      "ACS",
+      "MACE",
+      "troponin",
+      "ECG",
+      "risk stratification"
+    ],
+    "relatedGuidelineIDs": [
+      "acute-coronary-syndrome"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "sgarbossa-criteria",
+    "name": "Sgarbossa Criteria",
+    "shortName": "Sgarbossa",
+    "description": "Identifies acute MI in LBBB or paced rhythm. Includes both original (1996) weighted score and Modified Sgarbossa (Smith 2012) ST/S ratio.",
+    "category": "cardiac",
+    "tags": [
+      "Sgarbossa",
+      "LBBB",
+      "paced rhythm",
+      "MI",
+      "STEMI",
+      "ECG",
+      "left bundle branch block",
+      "ACS",
+      "ST elevation"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-ecg",
+      "acute-coronary-syndrome",
+      "cardiac-arrhythmia"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "paed-vitals",
+    "name": "Paediatric Reference & Resuscitation",
+    "shortName": "Paed Ref",
+    "description": "Paediatric baseline vitals, airway equipment sizes, ETT sizing, resuscitation drug doses, and fluid calculations by age.",
+    "category": "paediatric",
+    "tags": [
+      "paediatric",
+      "vitals",
+      "heart rate",
+      "blood pressure",
+      "respiratory rate",
+      "ETT",
+      "adrenaline",
+      "resuscitation",
+      "weight",
+      "Tinning",
+      "Acworth"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-pulse-respirations"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 2
+  },
+  {
+    "id": "batt-score",
+    "name": "BATT Score (TXA Decision Aid)",
+    "shortName": "BATT",
+    "description": "Prehospital traumatic haemorrhage risk score to identify patients likely to die from bleeding. Score ≥2 supports TXA administration.",
+    "category": "trauma",
+    "tags": [
+      "BATT",
+      "TXA",
+      "tranexamic acid",
+      "haemorrhage",
+      "bleeding",
+      "trauma",
+      "shock",
+      "triage"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "haemorrhage",
+      "chest-trauma",
+      "hypovolaemic-shock",
+      "pelvic-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "rule-of-nines-burns",
+    "name": "Burns — Rule of Nines (TBSA)",
+    "shortName": "Rule of Nines",
+    "description": "Tappable body diagram to calculate Total Body Surface Area (TBSA%) burned using the Rule of Nines. Automatically calculates Parkland formula fluid requirements.",
+    "category": "trauma",
+    "tags": [
+      "burns",
+      "rule of nines",
+      "TBSA",
+      "body surface area",
+      "Parkland",
+      "fluid",
+      "skin",
+      "burn assessment"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "canadian-cspine",
+    "name": "Canadian C-Spine Rule",
+    "shortName": "C-Spine",
+    "description": "Guided decision rule to determine whether cervical spine imaging or precautions are required following trauma.",
+    "category": "trauma",
+    "tags": [
+      "c-spine",
+      "cervical spine",
+      "trauma",
+      "immobilisation",
+      "Canadian C-spine",
+      "neck",
+      "collar"
+    ],
+    "relatedGuidelineIDs": [
+      "spinal-trauma-cord-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "crams",
+    "name": "CRAMS Scale",
+    "shortName": "CRAMS",
+    "description": "Quick field trauma triage: Circulation, Respiration, Abdomen/Thorax, Motor, Speech. Score ≤8 indicates major trauma.",
+    "category": "trauma",
+    "tags": [
+      "CRAMS",
+      "trauma",
+      "triage",
+      "field triage",
+      "circulation",
+      "respiration",
+      "major trauma",
+      "MCI"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "chest-trauma",
+      "abdominal-trauma"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "gap",
+    "name": "GAP Score",
+    "shortName": "GAP",
+    "description": "GCS–Age–SBP trauma severity score. Simplified version of MGAP without mechanism of injury.",
+    "category": "trauma",
+    "tags": [
+      "GAP",
+      "trauma",
+      "triage",
+      "severity",
+      "GCS",
+      "blood pressure",
+      "mortality"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "chest-trauma"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "mgap",
+    "name": "MGAP Score",
+    "shortName": "MGAP",
+    "description": "Mechanism–GCS–Age–SBP trauma severity score for predicting major trauma and in-hospital mortality.",
+    "category": "trauma",
+    "tags": [
+      "MGAP",
+      "trauma",
+      "triage",
+      "severity",
+      "GCS",
+      "blood pressure",
+      "mechanism",
+      "mortality"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "chest-trauma"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "nexus-criteria",
+    "name": "NEXUS Criteria (C-Spine)",
+    "shortName": "NEXUS",
+    "description": "National Emergency X-Radiography Utilization Study — five low-risk criteria to determine whether cervical spine imaging can be safely omitted after trauma.",
+    "category": "trauma",
+    "tags": [
+      "nexus",
+      "c-spine",
+      "cervical spine",
+      "trauma",
+      "imaging",
+      "neck",
+      "x-ray",
+      "clearance",
+      "low risk"
+    ],
+    "relatedGuidelineIDs": [
+      "nexus-criteria",
+      "spinal-trauma-cord-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "parkland-burns",
+    "name": "Parkland Formula (Burns)",
+    "shortName": "Parkland",
+    "description": "Calculate 24-hour fluid resuscitation requirements for burns using the Parkland formula (4 mL/kg/TBSA%).",
+    "category": "trauma",
+    "tags": [
+      "burns",
+      "TBSA",
+      "Parkland",
+      "fluid resuscitation",
+      "Hartmanns",
+      "rule of nines"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "revised-trauma-score",
+    "name": "Revised Trauma Score (T-RTS)",
+    "shortName": "T-RTS",
+    "description": "Triage-Revised Trauma Score using GCS, systolic BP, and respiratory rate for scene triage categorisation.",
+    "category": "trauma",
+    "tags": [
+      "trauma",
+      "triage",
+      "RTS",
+      "GCS",
+      "blood pressure",
+      "respiratory rate",
+      "MCI"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "chest-trauma",
+      "abdominal-trauma",
+      "haemorrhage",
+      "traumatic-brain-injury",
+      "hypovolaemic-shock",
+      "crush-injury",
+      "pelvic-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "speed-assessment",
+    "name": "S.P.E.E.D Assessment",
+    "shortName": "SPEED",
+    "description": "Spinal Emergency Evaluation of Deficits — rapid prehospital neurological assessment of sensation, pain response, upper and lower extremity motor function, and dermatomal level for suspected spinal cord injury.",
+    "category": "trauma",
+    "tags": [
+      "speed",
+      "spinal",
+      "cord",
+      "injury",
+      "neurological",
+      "dermatome",
+      "sensation",
+      "motor",
+      "prehospital",
+      "assessment"
+    ],
+    "relatedGuidelineIDs": [
+      "s-p-e-e-d-spinal-emergency-evaluation-of-deficits"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "ventilation-suite",
+    "name": "Ventilation Suite",
+    "shortName": "Vent Suite",
+    "description": "Protective tidal volume (IBW/ARDSnet), minute ventilation, O2 cylinder duration, compliance & driving pressure, FiO2 mixing, and in-flight PaO2 estimation.",
+    "category": "retrieval",
+    "tags": [
+      "ventilation",
+      "tidal volume",
+      "ARDSnet",
+      "ARDS",
+      "cylinder",
+      "oxygen",
+      "FiO2",
+      "compliance",
+      "driving pressure",
+      "in-flight",
+      "PaO2",
+      "retrieval",
+      "transfer",
+      "IBW"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-etco2-capnography"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "poc-cg4",
+    "name": "CG4+ (i-STAT)",
+    "shortName": "CG4+",
+    "description": "Point-of-care reference ranges for the i-STAT CG4+ cartridge: pH, pCO2, pO2, HCO3, BEecf, SO2, Lactate.",
+    "category": "pointOfCare",
+    "tags": [
+      "CG4",
+      "i-STAT",
+      "point of care",
+      "blood gas",
+      "ABG",
+      "pH",
+      "lactate",
+      "pCO2",
+      "pO2",
+      "bicarbonate",
+      "acid base"
+    ],
+    "relatedGuidelineIDs": [
+      "carbon-monoxide"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "poc-cg8plus",
+    "name": "CG8+ (i-STAT)",
+    "shortName": "CG8+",
+    "description": "Point-of-care reference ranges for the i-STAT CG8+ cartridge: pH, pCO2, pO2, HCO3, BEecf, SO2, Na, K, iCa, Glucose, Lactate, Hct, Hgb.",
+    "category": "pointOfCare",
+    "tags": [
+      "CG8",
+      "i-STAT",
+      "point of care",
+      "blood gas",
+      "ABG",
+      "full panel",
+      "pH",
+      "lactate",
+      "electrolytes",
+      "glucose",
+      "haematocrit"
+    ],
+    "relatedGuidelineIDs": [
+      "hyperglycaemia",
+      "hypoglycaemia",
+      "hyperkalaemia",
+      "crush-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "poc-chem8plus",
+    "name": "Chem8+ (i-STAT)",
+    "shortName": "Chem8+",
+    "description": "Point-of-care reference ranges for the i-STAT Chem8+ cartridge: Na, K, Cl, TCO2, AnGap, iCa, Glucose, BUN, Creatinine, Hct, Hgb.",
+    "category": "pointOfCare",
+    "tags": [
+      "Chem8",
+      "i-STAT",
+      "point of care",
+      "electrolytes",
+      "glucose",
+      "creatinine",
+      "potassium",
+      "sodium",
+      "haematocrit",
+      "BUN",
+      "blood gas"
+    ],
+    "relatedGuidelineIDs": [
+      "hyperglycaemia",
+      "hypoglycaemia",
+      "hyperkalaemia",
+      "altered-level-of-consciousness",
+      "crush-injury"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "berg-balance-scale",
+    "name": "Berg Balance Scale",
+    "shortName": "Berg Balance",
+    "description": "14-item functional balance assessment tool scored 0–56. Used to assess fall risk and guide rehabilitation in community and clinical settings.",
+    "category": "physio",
+    "tags": [
+      "berg",
+      "balance",
+      "fall risk",
+      "physiotherapy",
+      "functional assessment",
+      "elderly",
+      "rehabilitation",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "lefs-uefs",
+    "name": "LEFS / UEFS (Limb Function)",
+    "shortName": "LEFS / UEFS",
+    "description": "Lower Extremity Functional Scale and Upper Extremity Functional Scale — 20-item self-report tools for measuring lower or upper limb functional ability (0–80).",
+    "category": "physio",
+    "tags": [
+      "LEFS",
+      "UEFS",
+      "lower extremity",
+      "upper extremity",
+      "functional scale",
+      "physiotherapy",
+      "limb function",
+      "rehabilitation",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "limb-symmetry-index",
+    "name": "Limb Symmetry Index & H:Q Ratio",
+    "shortName": "LSI & H:Q",
+    "description": "Calculates Limb Symmetry Index (LSI) for comparing involved vs uninvolved limb strength, and Hamstring-to-Quadriceps (H:Q) ratio for knee injury return-to-sport assessment.",
+    "category": "physio",
+    "tags": [
+      "LSI",
+      "limb symmetry",
+      "hamstring",
+      "quadriceps",
+      "H:Q ratio",
+      "strength",
+      "return to sport",
+      "physiotherapy",
+      "ACL",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "neck-disability-index",
+    "name": "Neck Disability Index",
+    "shortName": "NDI",
+    "description": "10-section self-report questionnaire measuring the degree of disability in patients with neck pain. Scores 0–100% disability.",
+    "category": "physio",
+    "tags": [
+      "NDI",
+      "neck",
+      "cervical",
+      "disability",
+      "pain",
+      "physiotherapy",
+      "functional outcome",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "oswestry",
+    "name": "Oswestry Disability Index",
+    "shortName": "Oswestry",
+    "description": "10-section self-report questionnaire for measuring disability in patients with low back pain. Scores 0–100% disability across activities of daily living.",
+    "category": "physio",
+    "tags": [
+      "Oswestry",
+      "low back pain",
+      "lumbar",
+      "disability",
+      "physiotherapy",
+      "functional outcome",
+      "spinal",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "psfs",
+    "name": "Patient-Specific Functional Scale",
+    "shortName": "PSFS",
+    "description": "Patient-nominated functional activity assessment. Up to 5 personally relevant activities rated 0–10 (0 = unable, 10 = fully able). MCID = 2 points per activity.",
+    "category": "physio",
+    "tags": [
+      "PSFS",
+      "patient specific",
+      "functional scale",
+      "physiotherapy",
+      "outcome measure",
+      "activity",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "sppb",
+    "name": "Short Physical Performance Battery",
+    "shortName": "SPPB",
+    "description": "Three-part objective assessment of lower extremity function: standing balance, gait speed, and chair stand test. Scored 0–12.",
+    "category": "physio",
+    "tags": [
+      "SPPB",
+      "physical performance",
+      "balance",
+      "gait",
+      "chair stand",
+      "elderly",
+      "physiotherapy",
+      "functional assessment",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "tug",
+    "name": "Timed Up and Go Test",
+    "shortName": "TUG",
+    "description": "Single-task mobility assessment: time to rise from chair, walk 3 m, turn, walk back, and sit. Stratifies fall risk and mobility impairment.",
+    "category": "physio",
+    "tags": [
+      "TUG",
+      "timed up and go",
+      "mobility",
+      "fall risk",
+      "elderly",
+      "physiotherapy",
+      "gait",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "tinetti-poma",
+    "name": "Tinetti POMA (Balance & Gait)",
+    "shortName": "Tinetti",
+    "description": "Performance-Oriented Mobility Assessment: balance subscale (max 16) + gait subscale (max 12) = total 0–28. Stratifies fall risk in elderly patients.",
+    "category": "physio",
+    "tags": [
+      "Tinetti",
+      "POMA",
+      "balance",
+      "gait",
+      "fall risk",
+      "elderly",
+      "physiotherapy",
+      "mobility",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "scba-wear-time",
+    "name": "BA Wear Time",
+    "shortName": "BA Wear Time",
+    "description": "Estimates breathing apparatus cylinder duration from capacity, pressure, and breathing rate. Includes 1/3 rule reference.",
+    "category": "eso",
+    "tags": [
+      "SCBA",
+      "BA",
+      "breathing apparatus",
+      "wear time",
+      "cylinder",
+      "air supply",
+      "entry",
+      "confined space"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "erg-lookup",
+    "name": "ERG Hazmat Lookup",
+    "shortName": "ERG Lookup",
+    "description": "Emergency Response Guidebook reference — UN number lookup, Kemler hazard ID codes, and placard class guide.",
+    "category": "eso",
+    "tags": [
+      "ERG",
+      "hazmat",
+      "UN number",
+      "HAZCHEM",
+      "dangerous goods",
+      "placard",
+      "hazard ID",
+      "Kemler",
+      "emergency response",
+      "toxicology"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "gas-lel-uel",
+    "name": "Gas LEL / UEL Reference",
+    "shortName": "LEL/UEL",
+    "description": "Lower and Upper Explosive Limit reference for common hazardous gases. Includes vapour density, action levels, and confined space guidance.",
+    "category": "eso",
+    "tags": [
+      "LEL",
+      "UEL",
+      "gas",
+      "flammable",
+      "explosive",
+      "confined space",
+      "hazmat",
+      "methane",
+      "hydrogen sulphide",
+      "detector"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "hose-friction-loss",
+    "name": "Hose Friction Loss",
+    "shortName": "Friction Loss",
+    "description": "Estimates fire hose friction loss and required pump discharge pressure from hose diameter, length, and flow rate.",
+    "category": "eso",
+    "tags": [
+      "hose",
+      "friction loss",
+      "pump",
+      "pressure",
+      "fire",
+      "water supply",
+      "flow",
+      "kPa"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "rope-rescue-load",
+    "name": "Rope Rescue Load",
+    "shortName": "Rope Load",
+    "description": "Calculates theoretical and actual mechanical advantage, haul force, and anchor load for rope rescue systems. Training reference only.",
+    "category": "eso",
+    "tags": [
+      "rope rescue",
+      "mechanical advantage",
+      "Z-rig",
+      "pulley",
+      "anchor load",
+      "haul force",
+      "rigging",
+      "safety factor"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "spirometry-suite",
+    "name": "Spirometry Suite",
+    "shortName": "Spirometry",
+    "description": "GLI-2012 predicted values (FEV₁, FVC, FEV₁/FVC), severity grading (obstruction/restriction), longitudinal FEV₁ decline calculator, and pre/post bronchodilator response. For clinical decision support only.",
+    "category": "occHealth",
+    "tags": [
+      "spirometry",
+      "FEV1",
+      "FVC",
+      "lung function",
+      "GLI",
+      "predicted",
+      "obstruction",
+      "restriction",
+      "bronchodilator",
+      "occupational lung disease",
+      "COPD",
+      "asthma",
+      "longitudinal decline",
+      "occ health"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "audiometry-hearing",
+    "name": "Audiometry & Hearing Conservation",
+    "shortName": "Audiometry",
+    "description": "OSHA Standard Threshold Shift (STS) detection at 2/3/4 kHz, age-corrected STS using OSHA Appendix F tables, and NIOSH significant threshold shift (≥15 dB at any frequency). Bilateral ear assessment.",
+    "category": "occHealth",
+    "tags": [
+      "audiometry",
+      "STS",
+      "standard threshold shift",
+      "hearing loss",
+      "OSHA",
+      "NIOSH",
+      "hearing conservation",
+      "noise induced hearing loss",
+      "age correction",
+      "2kHz",
+      "4kHz",
+      "occ health"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "exposure-calculators",
+    "name": "Occupational Exposure Calculators",
+    "shortName": "Exposure Calcs",
+    "description": "Time-Weighted Average (TWA) calculator for chemicals and noise; OEL adjustment for extended/unusual shifts (Brief & Scala and OSHA pharmacokinetic models); exposure band classification vs OEL.",
+    "category": "occHealth",
+    "tags": [
+      "TWA",
+      "time weighted average",
+      "OEL",
+      "occupational exposure limit",
+      "noise TWA",
+      "extended shift",
+      "exposure band",
+      "Brief Scala",
+      "IRSST",
+      "occupational hygiene",
+      "chemical exposure",
+      "occ health"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "occ-health-misc",
+    "name": "OH Health Checks",
+    "shortName": "OH Checks",
+    "description": "BMI calculator with WHO categories and simplified cardiovascular risk tier; respirator fit-test scheduling decision helper with contraindications; return-to-work / fitness-for-duty logic for respiratory and hearing thresholds.",
+    "category": "occHealth",
+    "tags": [
+      "BMI",
+      "body mass index",
+      "cardiovascular risk",
+      "Framingham",
+      "respirator",
+      "fit test",
+      "fitness for duty",
+      "return to work",
+      "spirometry thresholds",
+      "hearing fitness",
+      "occ health",
+      "occupational health"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "shock-index",
+    "name": "Shock Index",
+    "shortName": "Shock Index",
+    "description": "Shock Index (HR ÷ SBP) and Modified Shock Index (HR ÷ MAP) for early haemorrhage and occult shock detection.",
+    "category": "trauma",
+    "tags": [
+      "shock index",
+      "shock",
+      "haemorrhage",
+      "hemorrhage",
+      "SI",
+      "perfusion",
+      "HR",
+      "SBP",
+      "blood pressure",
+      "occult shock",
+      "resuscitation"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "hemorrhagic-shock"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "map-calculator",
+    "name": "MAP / CPP Calculator",
+    "shortName": "MAP / CPP",
+    "description": "Mean Arterial Pressure ((SBP + 2×DBP) ÷ 3) and optional Cerebral Perfusion Pressure (MAP − ICP) for perfusion monitoring.",
+    "category": "scoring",
+    "tags": [
+      "MAP",
+      "mean arterial pressure",
+      "CPP",
+      "cerebral perfusion pressure",
+      "ICP",
+      "perfusion",
+      "blood pressure",
+      "monitoring",
+      "TBI",
+      "brain injury"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "fluid-bolus",
+    "name": "Fluid Bolus Calculator",
+    "shortName": "Fluid Bolus",
+    "description": "Calculate fluid bolus volume (mL/kg) for adult and paediatric resuscitation, with administration rate guide.",
+    "category": "dosing",
+    "tags": [
+      "fluid bolus",
+      "resuscitation",
+      "IV fluid",
+      "normal saline",
+      "Hartmann's",
+      "crystalloid",
+      "mL/kg",
+      "hypovolaemia",
+      "shock",
+      "paediatric fluid"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm",
+      "anaphylactic-shock"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "tourniquet-timer",
+    "name": "Tourniquet Timer",
+    "shortName": "TQ Timer",
+    "description": "Track tourniquet application time for one or more limbs. Warns at 60 and 90 minutes. Records time for handover.",
+    "category": "trauma",
+    "tags": [
+      "tourniquet",
+      "TQ",
+      "timer",
+      "haemorrhage control",
+      "extremity",
+      "limb",
+      "application time",
+      "crush",
+      "entrapment",
+      "handover"
+    ],
+    "relatedGuidelineIDs": [
+      "traumatic-resuscitation-algorithm"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "ketamine-dosing",
+    "name": "Ketamine Dosing Calculator",
+    "shortName": "Ketamine",
+    "description": "Weight-based ketamine dosing for sub-dissociative analgesia, procedural sedation, dissociative anaesthesia, and RSI induction (IV and IM).",
+    "category": "dosing",
+    "tags": [
+      "ketamine",
+      "dosing",
+      "analgesia",
+      "sedation",
+      "procedural sedation",
+      "dissociative",
+      "RSI",
+      "induction",
+      "pain",
+      "mg/kg",
+      "IV",
+      "IM"
+    ],
+    "relatedGuidelineIDs": [
+      "pain-management"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "rsi-calculator",
+    "name": "RSI Drug Calculator",
+    "shortName": "RSI",
+    "description": "Rapid Sequence Intubation drug doses — induction agents (Ketamine, Midazolam, Thiopentone), paralytics (Suxamethonium, Rocuronium), and adjuncts.",
+    "category": "dosing",
+    "tags": [
+      "RSI",
+      "rapid sequence intubation",
+      "intubation",
+      "suxamethonium",
+      "succinylcholine",
+      "rocuronium",
+      "ketamine",
+      "midazolam",
+      "paralytic",
+      "induction",
+      "airway"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  }
+]
