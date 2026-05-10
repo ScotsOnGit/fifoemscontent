@@ -1730,5 +1730,27 @@
     "relatedMedicationIDs": [],
     "isFreeContent": true,
     "version": 1
+  },
+  {
+    "id": "reba",
+    "name": "REBA — Rapid Entire Body Assessment",
+    "shortName": "REBA",
+    "description": "Whole-body ergonomic risk scoring using trunk, neck, leg, arm and wrist posture plus force/load and activity modifiers. Risk action levels 1–5 (negligible to very high). Hignett & McAtamney 2000.",
+    "category": "physio",
+    "tags": [
+      "REBA",
+      "ergonomics",
+      "posture",
+      "manual handling",
+      "whole body",
+      "HIPA",
+      "occ health",
+      "risk assessment",
+      "musculoskeletal"
+    ],
+    "relatedGuidelineIDs": [],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
   }
 ]
