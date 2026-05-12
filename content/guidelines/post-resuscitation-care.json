@@ -38,14 +38,14 @@
       "id": "post-resuscitation-care-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Re-evaluate Primary Survey\n- Re-evaluate oxygenation and ventilation\n- Provide supportive ventilation if required\n- Avoid trying to correct abnormally high EtCO2 in the first few minutes\n- Titrate oxygen delivery as required, aiming for SpO2 between 94 - 98%\n- Avoid hyperventilation / hyperinflation (as this can impede venous return and stimulate a vagal response, inhibiting the effective rise of mean arterial pressure)\n- Vital Sign Survey\n- Where practicable, attempt targeted temperature management (32°-36°)\n- If not already contacted, ensure consultation with on-call doctor",
+      "content": "- Re-evaluate Primary Survey\n- Re-evaluate oxygenation and ventilation\n- Provide supportive ventilation if required\n- Avoid trying to correct abnormally high EtCO2 in the first few minutes\n- Titrate oxygen delivery as required, aiming for SpO2 between 94 - 98%\n- Avoid hyperventilation / hyperinflation (as this can impede venous return and stimulate a vagal response, inhibiting the effective rise of mean arterial pressure)\n- Vital Sign Survey\n- In patients who remain comatose after ROSC, monitor temperature and actively prevent fever where feasible\n- If not already contacted, ensure consultation with on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "post-resuscitation-care-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12-lead ECGs, as reperfusion rhythms may not be of diagnostic quality\n- Manage hypotension in post-ROSC patients if BP is slow to rise:\n  - Hypotension = Systolic BP < 100 mmHg\n  - Administer Intravenous Crystalloid (Normal Saline)\n  - If hypotension persists post IV/IO fluids, administer Adrenaline 50mcg bolus (0.5ml 1:10,000 or 1ml 1:20,000) every 3–5 minutes to maintain SBP ≥ 90 mmHg\n  - Ensure persistent and frequent reassessments",
+      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12-lead ECGs, as reperfusion rhythms may not be of diagnostic quality\n- Manage hypotension in post-ROSC patients if BP is slow to rise:\n  - Hypotension = Systolic BP < 100 mmHg\n  - Consider IV/IO crystalloid while reassessing for fluid responsiveness and signs of overload\n  - Aim initially for SBP greater than 100 mmHg or MAP at least 60 to 65 mmHg, adjusted to the clinical context and premorbid state where known\n  - If hypotension persists, seek early medical advice regarding vasopressor support and continue frequent reassessment",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-12T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",
