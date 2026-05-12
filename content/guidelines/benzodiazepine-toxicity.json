@@ -31,7 +31,7 @@
       "id": "benzodiazepine-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- For isolated BZD overdoses, full recovery is expected when good supportive care is provided\n- Older persons, history of cardiorespiratory comorbidity and ingestion of other CNS depressants suggest a higher risk of complications\n- Illicit or non-prescription benzodiazepines are most dangerous and often required intubation when overdosed\n- Profound come suggests co-ingestion of a CNS depressing agent, e.g., alcohol, as they may compound toxicity\n- It is not uncommon for a BZD overdose to present with hypoglycaemia thus ensure a BGL is acquired",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- For isolated BZD overdoses, full recovery is expected when good supportive care is provided\n- Older persons, history of cardiorespiratory comorbidity and ingestion of other CNS depressants suggest a higher risk of complications\n- Illicit or non-prescription benzodiazepines are most dangerous and often required intubation when overdosed\n- Profound coma suggests co-ingestion of a CNS depressing agent, e.g., alcohol, as they may compound toxicity\n- Check BGL in all patients with reduced conscious state or suspected overdose",
       "sortOrder": 2
     },
     {
@@ -45,7 +45,7 @@
       "id": "benzodiazepine-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider glucose if indicated\n- Consider anti-emetic\n- Consider Flumazenil in consultation with on-call doctor (Alprazolam, illicit benzodiazepine, latrogenic causes)",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider glucose if indicated\n- Consider anti-emetic\n- Flumazenil should only be considered in highly selected cases of confirmed isolated benzodiazepine toxicity, after discussion with an appropriate senior clinician or toxicology service\n- Do not use Flumazenil when there is a risk of mixed overdose, seizure disorder, benzodiazepine dependence, or co-ingestion of pro-convulsant or dysrhythmogenic agents",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-12T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

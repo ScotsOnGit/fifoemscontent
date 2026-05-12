@@ -38,14 +38,14 @@
       "id": "opioid-toxicity-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately\n- Maintain and manage airway as required\n- IPPV with oxygen where necessary (SpO2 <92% indicates inadequate ventilation)\n- Consider intramuscular Narcan (Naloxone) if IPPV is not effective\n- Vital signs including continuous pulse oximetry (early respiratory depression indicator) and BGL\n- Consider secondary survey\n- Have a low threshold for contacting on-call doctor",
+      "content": "- Primary Survey\n- Position patient appropriately\n- Maintain and manage airway as required\n- IPPV with oxygen where necessary\n- Consider intramuscular Narcan (Naloxone) if IPPV is not effective\n- Monitor respiratory rate, depth of breathing, mental status, oxygen saturation, and BGL\n- Where available, use capnography because oxygen saturation may remain normal early in hypoventilation, especially if supplemental oxygen has been given\n- Consider secondary survey\n- Have a low threshold for contacting on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "opioid-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IV access\n- Consider IV fluids if indicated\n- Consider titrated IV Narcan if no previous IM dose given and no response to adequate ventilation\n- Consider ECG",
+      "content": "- Consider advanced airway\n- Consider IV access\n- Consider IV fluids if indicated\n- Consider titrated IV Narcan if no previous IM dose given and no response to adequate ventilation\n- Titrate Narcan to reversal of respiratory depression and restoration of protective airway reflexes, not necessarily to full wakefulness\n- Consider ECG",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-12T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

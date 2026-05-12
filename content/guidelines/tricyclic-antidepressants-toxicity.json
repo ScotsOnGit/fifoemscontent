@@ -32,7 +32,7 @@
       "id": "tricyclic-antidepressants-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- 10mg/kg or more can potentially be life-threatening\n- Large overdoses/toxicity can lead rapidly into seizures, coma and death\n- Tricyclics + Alcohol ≈ Torsade De Pointes\n- QRS widens due to fast sodium channel blockade, >100ms is predictive of seizures and >160ms is predictive of ventricular tachycardia\n- It is unlikely that defibrillation will work, amiodarone and beta-blockers are contraindicated. Anti-arrhythmic drugs should be avoided",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- 10mg/kg or more can potentially be life-threatening\n- Large overdoses/toxicity can lead rapidly into seizures, coma and death\n- Tricyclics + Alcohol ≈ Torsade De Pointes\n- QRS widens due to fast sodium channel blockade, >100ms is predictive of seizures and >160ms is predictive of ventricular tachycardia\n- Manage cardiac arrest or malignant ventricular dysrhythmias with standard resuscitation measures, including defibrillation when indicated, while simultaneously treating sodium channel blockade with sodium bicarbonate\n- Amiodarone and beta-blockers are generally avoided in this setting\n- Avoid routine use of antiarrhythmic agents that may worsen sodium channel blockade. Seek urgent expert advice for refractory dysrhythmias; selected agents may be appropriate in specific circumstances",
       "sortOrder": 2
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-12T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",
