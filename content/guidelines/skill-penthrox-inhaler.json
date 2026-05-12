@@ -1,0 +1,55 @@
+{
+  "id": "skill-penthrox-inhaler",
+  "title": "Penthrox Inhaler (Methoxyflurane)",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "Penthrox",
+    "methoxyflurane",
+    "pain relief",
+    "inhaled analgesia",
+    "green whistle"
+  ],
+  "synonyms": [
+    "Green Whistle",
+    "Methoxyflurane",
+    "Inhaled Analgesic"
+  ],
+  "sections": [
+    {
+      "id": "skill-penthrox-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Penthrox delivers methoxyflurane — a volatile halogenated analgesic — via a hand-held inhaler for rapid short-term pain relief. Onset of analgesia is within 6–10 breaths. It is self-administered under supervision and is particularly useful in trauma, procedural pain, and during extrication.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-penthrox-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Remove Penthrox from packaging; check device is assembled correctly\n\n2. Add 3 mL of methoxyflurane to the inhaler chamber\n\n3. Insert the activated charcoal absorber (black) into the side hole — reduces exhaled waste gas and clinician exposure\n\n4. Instruct patient: hold device, place mouthpiece in mouth, breathe in and out normally\n\n5. Patient controls their own inhalation rate — do not force deep breaths\n\n6. Cover the hole on the side with a finger to increase concentration; uncover for lower concentration\n\n7. Maximum dose per administration: 6 mL per occasion (2 × 3 mL inhalers)\n\n8. Do not use for more than 15 minutes continuously",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-penthrox-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Patient self-administration is the safety mechanism — sedation causes patient to drop device\n- Ensure adequate ventilation of the space (ambulance windows open)\n- Clinician should not inhale exhaled gas — stand clear of patient's exhalation\n- Contraindicated: hepatic impairment, renal impairment, malignant hyperthermia susceptibility, MSTeP history\n- Onset 6–10 breaths; peak effect 2–3 minutes; wears off rapidly on cessation",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "chest-trauma",
+    "abdominal-trauma"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

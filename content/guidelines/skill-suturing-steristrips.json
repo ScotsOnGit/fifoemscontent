@@ -1,0 +1,61 @@
+{
+  "id": "skill-suturing-steristrips",
+  "title": "Suturing & Steri-Strips",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "suturing",
+    "sutures",
+    "steri-strips",
+    "wound closure",
+    "laceration",
+    "skin closure"
+  ],
+  "synonyms": [
+    "Sutures",
+    "Skin Closure",
+    "Wound Suturing",
+    "Steri-Strips",
+    "Adhesive Strips"
+  ],
+  "sections": [
+    {
+      "id": "skill-suture-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Wound closure reduces bleeding, protects from contamination, and promotes healing. Prehospital suturing is appropriate for clean, simple lacerations where transport time is prolonged. Steri-strips (adhesive wound closure strips) are suitable for superficial, low-tension lacerations.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-suture-steri",
+      "type": "management_basic",
+      "title": "Steri-Strip Application",
+      "content": "1. Ensure wound is clean and haemostasis achieved; dry wound edges\n\n2. Approximate wound edges manually\n\n3. Apply Steri-strip across wound: half on each side perpendicular to the wound\n\n4. Start at centre; work toward each end alternating sides\n\n5. Apply parallel strips 3–4 mm apart\n\n6. Apply bridging strip along wound edges for extra support if required",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-suture-technique",
+      "type": "management_advanced",
+      "title": "Simple Interrupted Suturing",
+      "content": "1. Achieve haemostasis; irrigate wound; consider local anaesthetic (lignocaine 1%)\n\n2. Select appropriate suture: 4-0 nylon for face; 3-0 nylon for scalp/body; 2-0 for high tension\n\n3. Load needle driver with needle; grasp at 2/3 from tip\n\n4. Enter skin 3–5 mm from wound edge at 90°; pass through to opposite side equidistant\n\n5. Tie square knot: instrument tie technique (3 throws: 2 forward + 1 reverse)\n\n6. Cut tails 4–5 mm from knot\n\n7. Space sutures: 4–5 mm apart for face; 8–10 mm for scalp/body\n\n8. Document: site, number of sutures, suture material used, date",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-suture-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Do not close: contaminated wounds, bites, wounds > 6–8 hours old\n- Always irrigate before closure\n- Deep sutures for deep tissue tension before skin closure\n- Remove sutures: face 3–5 days; scalp 7–10 days; body 7–14 days",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "lignocaine-1"
+  ],
+  "relatedGuidelineIDs": [
+    "minor-injuries-epistaxis"
+  ],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "spinal-trauma-cord-injury",
+  "title": "Spinal Trauma & Cord Injury",
+  "category": "trauma",
+  "tags": [
+    "spinal",
+    "trauma",
+    "cord",
+    "injury"
+  ],
+  "synonyms": [
+    "Spinal Trauma & Cord Injury"
+  ],
+  "sections": [
+    {
+      "id": "spinal-trauma-cord-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Traumatic injury to the spine may result in damage to the vertebral column, the spinal cord, or both structures simultaneously. Spinal cord injury (SCI) is characterised by preserved neurological function above the level of insult, with absent or significantly impaired function below the site of injury; the clinical presentation varies according to the precise anatomical level and severity of the lesion. This guideline encompasses the assessment and management of injuries involving the entire spinal column, including the cervical, thoracic, and lumbar regions.",
+      "sortOrder": 0
+    },
+    {
+      "id": "spinal-trauma-cord-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Loss of sensation (numbness, tingling, loss of pain or temperature) below the injury level\n- Loss of motor function or weakness/paralysis in limbs (may be complete or partial)\n- Loss of bladder or bowel control\n- Loss of reflexes below the suspected level of injury\n- Priapism (persistent penile erection) in males\n- Hypotension and bradycardia (neurogenic shock)\n- Thermodysregulation\n- Respiratory distress (if injury above C5)\n- Pain or pressure in neck, back, or head\n- Deformity or abnormal positioning of the spine\n- Inability to move part(s) of the body immediately after trauma\n- Step-off or palpable gap over the vertebral column",
+      "sortOrder": 1
+    },
+    {
+      "id": "spinal-trauma-cord-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to immobilise the spine even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life- threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- All immersion patients without a GCS of 15 should be considered to have a potential spinal cord injury until proven otherwise\n - Paramedics can safely apply the nexus criteria and transport patients without spinal immobilisation but should do so with caution >65 years old\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due the working environment being remote",
+      "sortOrder": 2
+    },
+    {
+      "id": "spinal-trauma-cord-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey with C-Spine considerations\n- Vital Signs\n- Secondary Survey\n- Assess for signs of spinal trauma, such as pain, tenderness, obvious deformity, or neurological changes, consider Nexus Criteria\n\n **- Implement spinal precautions if ANY of the following criteria are met:**\n  - SPEED tool score of ≤1 in any category, indicating a potential neurological deficit\n  - Glasgow Coma Scale (GCS) less than 15\n  - Presence of spinal pain, tenderness, or deformity\n  - Observable neurological deficits (numbness, weakness)\n  **- Significant traumatic mechanism, especially if accompanied by:**\n  - Influence of alcohol or drugs\n  - Distracting injuries\n  - Inability to effectively communicate\n - Limb LEAD ECG\n - Utilise vacuum mattress where indicated\n - Have a low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "spinal-trauma-cord-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Gain IV access, 2 x large bore\n- Consider fluids if necessary\n- Administer antiemetic\n- Consider analgesia\n- Hypotensive and bradycardic; consider neurogenic shock\n  - Consideration of inotropic support in consultation with on-call doctor\n- Consider indwelling catheter (IDC) where trained and available",
+      "sortOrder": 4
+    },
+    {
+      "id": "spinal-trauma-cord-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Patients should be padded appropriately to achieve their individual neutral spinal alignment (i.e. Most adult patients require a small amount of padding under the head, children may require padding under the torso, patients with increased thoracic kyphosis may require additional padding under the head at achieve the correct alignment)\n- If a semi-rigid collar is indicated but unable to be applied (for example due to injury, patient habitus etc.) alternative options such as head blocks and/or in-line manual stabilisation should be considered and all considerations and decisions documented accordingly\n- Significant cervical spine injury due to hanging is uncommon. Routine cervical spine immobilisation is not required unless the body has fallen from a height greater to or equal to the height of the person\n- Cervical spine immobilisation is generally not required if there is an isolated penetrating injury to the neck (e.g. stabbing or gunshot). When multiple mechanisms of injury suggestive of spinal involvement are present immobilisation criteria should apply\n- When used the semi-rigid collar must be correctly sized and fitted to suit the patient. If this cannot be achieved the best approach should be reconsidered and alternative options such as head-blocks and/or manual in-line immobilisation should be considered. Patients may sit up on a slight incline (15 degrees) if they are having trouble breathing\n- Patients who are co-operative, ambulant and without neurological symptoms may self- extricate short distances and coached to keep their head and neck as still as possible\n- Head blocks should be used to limit lateral movement if spinal precautions are indicated. Whenever possible, patients should be removed from scoop stretchers or extrication boards prior to transport due to risk of pressure injury\n- Spinal shock is physiological response to spinal cord injury resulting in temporary loss or depression to most spinal reflex activity below the level of the injury (spinal cord concussion)",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "midazolam",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

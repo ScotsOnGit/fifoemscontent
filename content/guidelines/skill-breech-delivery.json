@@ -1,0 +1,53 @@
+{
+  "id": "skill-breech-delivery",
+  "title": "Breech Delivery",
+  "category": "skills",
+  "skillsSubcategory": "obstetrics",
+  "tags": [
+    "breech",
+    "breech delivery",
+    "obstetrics",
+    "feet first",
+    "frank breech"
+  ],
+  "synonyms": [
+    "Breech Presentation",
+    "Breech Birth",
+    "Buttocks Presentation"
+  ],
+  "sections": [
+    {
+      "id": "skill-breech-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Breech presentation (buttocks or feet presenting first) occurs in approximately 3–4% of term deliveries. Prehospital breech delivery requires a hands-off approach until the body is delivered to the umbilicus, then active assistance for head delivery. The key danger is head entrapment.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-breech-procedure",
+      "type": "management_advanced",
+      "title": "Management",
+      "content": "**If delivery is not imminent:** transport immediately — do not attempt to convert to cephalic\n\n**If delivery is imminent:**\n\n1. Position mother semi-recumbent with buttocks at edge of surface\n\n2. Hands off until baby delivered to umbilicus — allow passive descent\n\n3. Once at umbilicus: loop of cord — pull down gently to create slack\n\n4. Allow arms to deliver spontaneously; if arms are extended: sweep one arm across chest at a time (Lovset's manoeuvre)\n\n5. **Head delivery (Mauriceau-Smellie-Veit):**\n   - Place baby face-down on your forearm\n   - Insert two fingers of one hand into vagina, under jaw\n   - Other hand: two fingers on shoulders, middle finger on occiput\n   - Apply flexion to head; gentle downward traction to deliver occiput then face\n\n6. If head will not deliver: apply suprapubic pressure\n\n7. Dry and assess neonate; be prepared for resuscitation",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-breech-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Speed of transport vs delivery imminence: if head is visible, delivery will occur before arrival\n- Never pull on the body — risks arm elevation and head entrapment\n- After umbilicus delivered: maximum 3–5 minutes to head delivery before cord compression causes hypoxia\n- Have neonatal resuscitation equipment ready",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "postpartum-haemorrhage"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

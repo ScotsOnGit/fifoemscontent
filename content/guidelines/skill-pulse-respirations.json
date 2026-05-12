@@ -1,0 +1,59 @@
+{
+  "id": "skill-pulse-respirations",
+  "title": "Pulse & Respirations",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "pulse",
+    "respirations",
+    "heart rate",
+    "respiratory rate",
+    "vital signs",
+    "assessment"
+  ],
+  "synonyms": [
+    "Pulse & Respirations",
+    "Heart Rate",
+    "Respiratory Rate",
+    "Vital Signs"
+  ],
+  "sections": [
+    {
+      "id": "skill-pulse-respirations-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Assessment of pulse and respirations are fundamental vital signs that provide essential information about cardiovascular and respiratory status. Accurate measurement guides clinical decision-making and helps detect deterioration early.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-pulse-respirations-pulse",
+      "type": "management_basic",
+      "title": "Pulse Assessment",
+      "content": "**Technique**\n- Use fingertips (index and middle fingers) — never the thumb (has its own pulse)\n- Common sites: radial (wrist), carotid (neck), brachial (antecubital fossa), femoral (groin), dorsalis pedis (foot)\n- In cardiac arrest: check carotid or femoral pulse\n- Count for 60 seconds (or 30 seconds × 2 for regular rhythms)\n\n**Assess:**\n- **Rate**: beats per minute\n- **Rhythm**: regular, regularly irregular, irregularly irregular\n- **Character**: strong/bounding, normal, weak/thready\n\n**Normal Adult Ranges:**\n- Heart rate: 60–100 bpm\n- Tachycardia: > 100 bpm\n- Bradycardia: < 60 bpm\n\n**Paediatric Normal Ranges (approximate):**\n- Neonate: 120–160 bpm\n- Infant (< 1yr): 100–160 bpm\n- 1–5 years: 80–130 bpm\n- 5–12 years: 70–120 bpm\n- > 12 years: 60–100 bpm",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-pulse-respirations-resp",
+      "type": "management_advanced",
+      "title": "Respiratory Rate Assessment",
+      "content": "**Technique**\n- Observe chest rise and fall — ideally without the patient knowing (to avoid voluntary control)\n- Count each complete cycle (inspiration + expiration) as one breath\n- Count for 60 seconds (or 30 seconds × 2)\n- Assess immediately after pulse to maintain unawareness\n\n**Assess:**\n- **Rate**: breaths per minute\n- **Depth**: normal, shallow, deep\n- **Pattern**: regular, Cheyne-Stokes, Kussmaul, Biot's\n- **Effort**: accessory muscle use, nasal flaring, intercostal recession, tracheal tug\n\n**Normal Adult Ranges:**\n- 12–20 breaths per minute\n- Tachypnoea: > 20 bpm\n- Bradypnoea: < 12 bpm\n- Apnoea: absence of breathing\n\n**Paediatric Normal Ranges (approximate):**\n- Neonate: 40–60 bpm\n- Infant: 30–50 bpm\n- 1–5 years: 20–40 bpm\n- 5–12 years: 15–30 bpm\n- > 12 years: 12–20 bpm",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-pulse-respirations-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Respiratory rate is one of the most sensitive indicators of deterioration — do not omit or estimate\n- Irregular pulse (especially irregularly irregular) warrants ECG assessment\n- A weak, thready pulse with tachycardia suggests haemodynamic compromise\n- Absent distal pulses with preserved central pulses indicates poor perfusion\n- Always document pulse and respiratory rate with time",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "news2",
+    "paed-vitals"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "eye-injury",
+  "title": "Eye Injury",
+  "category": "trauma",
+  "tags": [
+    "eye",
+    "injury",
+    "trauma"
+  ],
+  "synonyms": [
+    "Eye Injury"
+  ],
+  "sections": [
+    {
+      "id": "eye-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Eye injuries refer to any harm or trauma affecting the eye or its surrounding structures, including the eyelids, eye socket, and nerves. These can vary in severity from minor surface abrasions and corneal scratches to serious penetrating injuries and chemical burns.\nPrompt recognition and appropriate management are essential in all cases to preserve vision and prevent serious complications, including permanent vision loss.",
+      "sortOrder": 0
+    },
+    {
+      "id": "eye-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Blunt Trauma: Caused by a direct blow to the eye (e.g., sports injuries or car accidents).\nThis can result in black eyes, orbital fractures, or damage to internal eye structures like the retina\n- Penetrating or Sharp Injuries: Occur when a sharp object punctures or cuts the eye, potentially causing serious damage\n- Chemical Burns: Result from exposure to harmful substances, such as cleaning products or industrial chemicals, which can irritate or damage the eye tissues\n- Foreign Objects: Small particles like dust, sand, or metal shavings can enter the eye and cause irritation, scratches, or infections\n- Thermal or Radiation Injuries: Caused by heat (e.g., explosions, fireworks) or exposure to harmful radiation (e.g., UV rays from the sun or welding arcs)\n- Infections: Sometimes, bacterial, viral, or fungal infections resulting from an injury can lead to complications like conjunctivitis or keratitis",
+      "sortOrder": 1
+    },
+    {
+      "id": "eye-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Significant eye injury may be present, despite benign appearance, normal vision and minimal symptoms\n- If eyelid oedema makes opening the lids difficult, attempt gentle assessment and document findings\n- Nausea associated with analgesia increases the risk of raised intraocular pressure.\nProphylactic antiemetic administration is recommended to avoid secondary injury\n- Avoid metoclopramide due to the risk of dystonic reaction perpetuating the injury\n- Avoid manipulating the eye as it may result in intraocular pressure (i.e. Eye lid retraction)\n- With penetrating injuries, manipulation may result in extrusion of intraocular contents or rupture of the globe\n- When flushing an eye, place injured eye down so as not to contaminate the other eye\n- For chemical injuries, irrigation takes priority over transport until completed\n- Suspect traumatic iritis if eye pain persists following trauma despite treatment with a topical anaesthetic\n - Dependant on nature of the injury, patients may require theatre management. Fast from food and water as needed\n- Patients being evacuated by air may require special requirements. Contact RFDS around any requirements",
+      "sortOrder": 2
+    },
+    {
+      "id": "eye-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey with c-spine consideration\n- Constant reassurance, keep at rest and discourage eye movement\n- Manage catastrophic bleeding (with haemorrhage control as required)\n- Do not attempt manipulation\n\n**For penetrating eye injury:**\n   - Do not remove any penetrating foreign body from globe. If tolerated, place raised protective eye shield over affected eye, do not pad\n\n**For chemical burns:**\n   - Irrigate with Diphoterine (5-15mins) if available or normal saline for a minimum of 30 minutes as early as possible\n   - If litmus paper available, test pH\n\n**For lid lacerations:**\n   - If required to control bleeding, place direct pressure around eye, avoiding pressure to the globe\n\n - Position patient supine with 30° head elevation to reduce intra-ocular pressure\n - Note vision, visual field, pupil size and reaction, movement and response to topical eye anaesthetic\n - Secondary / CNS Survey\n - Where appropriate, exam eye with fluorescein\n - Clinicians should have a low threshold for consult with current poison permit holder or RFDS",
+      "sortOrder": 3
+    },
+    {
+      "id": "eye-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Gain IV access\n- Administer prophylactic antiemetic\n- Consider analgesia\n- Monitor patient regularly, recording observations every 10 mins\n- Transport priority 1 if time critical, notify receiving facility, or evacuate as soon as is practicable",
+      "sortOrder": 4
+    },
+    {
+      "id": "eye-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Routine padding is no longer recommended. If padding is used, it must not place pressure on the globe. Do not pad an eye with a penetrating injury\n- Blunt trauma examples, eye lid injury, orbital blow-out fracture, corneal abrasion, anterior hyphema, traumatic mydriasis, lens dislocation, vitreous haemorrhage, retinal detachment, traumatic iritis, ruptured globe",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "skill-adrenaline-autoinjector",
+  "title": "Adrenaline Autoinjector (EpiPen)",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "EpiPen",
+    "adrenaline",
+    "autoinjector",
+    "anaphylaxis",
+    "epinephrine"
+  ],
+  "synonyms": [
+    "EpiPen",
+    "Adrenaline Autoinjector",
+    "Adrenaline Pen"
+  ],
+  "sections": [
+    {
+      "id": "skill-epipen-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The adrenaline autoinjector (EpiPen) delivers a fixed IM dose of adrenaline for the emergency treatment of severe allergic reactions and anaphylaxis. It is designed for rapid self-administration or administration by a bystander/clinician. EpiPen Jr (0.15 mg) for 15–30 kg; EpiPen (0.3 mg) for ≥ 30 kg.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-epipen-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Remove EpiPen from carrier; grip in dominant hand (fingers away from both ends)\n\n2. Remove blue safety cap (pull straight off — do not bend)\n\n3. Hold orange tip pointing downward\n\n4. With a smooth, swift motion, press orange tip firmly against outer mid-thigh (can be through clothing)\n\n5. Hold firmly in place for 3 seconds (until click heard and window turns orange)\n\n6. Remove and massage injection site for 10 seconds\n\n7. Note time of administration\n\n8. A second dose may be given after 5–15 minutes if no improvement\n\n9. Dispose of used device in sharps container (needle remains exposed after use)",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-epipen-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Outer mid-thigh is preferred — faster absorption than deltoid in anaphylaxis\n- Call for emergency help immediately — EpiPen buys time, it does not replace definitive care\n- Patient should be transported supine (or semi-recumbent if dyspnoeic) — do not allow standing\n- If accidentally injected into finger/hand: vasospasm risk — seek medical review\n- Repeat dose if symptoms recur or do not improve within 5–15 minutes",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-auto-injector",
+    "adrenaline-epinephrine"
+  ],
+  "relatedGuidelineIDs": [
+    "anaphylactic-shock"
+  ],
+  "relatedCalculatorIDs": [
+    "news2",
+    "avpu"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "skill-im-injection",
+  "title": "Intramuscular (IM) Injection",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "IM",
+    "intramuscular",
+    "injection",
+    "deltoid",
+    "vastus lateralis",
+    "medication administration"
+  ],
+  "synonyms": [
+    "IM Injection",
+    "Intramuscular Injection"
+  ],
+  "sections": [
+    {
+      "id": "skill-im-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Intramuscular injection delivers medication directly into muscle tissue for absorption into the systemic circulation. IM injection is used when IV access is unavailable, when rapid absorption is required, or for specific medications (e.g. adrenaline, morphine, ketamine, glucagon).",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-im-sites",
+      "type": "management_basic",
+      "title": "Injection Sites",
+      "content": "**Deltoid (preferred for most IM medications in adults):**\n- Locate by placing 3 fingers below acromion process\n- Inject into the triangle formed below — avoid deltoid if < 1 mL volume\n- Maximum volume: 1–2 mL\n\n**Vastus Lateralis (anterolateral thigh — preferred for adrenaline and paediatrics):**\n- Outer third of anterolateral thigh, middle third of the thigh length\n- Maximum volume: 3–5 mL adult; 1–3 mL child\n- Preferred for adrenaline in anaphylaxis\n\n**Ventrogluteal (adults only):**\n- Place hand on greater trochanter, index finger on ASIS, middle finger pointing to iliac crest — inject into the V\n- Lower risk of nerve/vessel injury than dorsogluteal",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-im-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Confirm medication, dose, route, and patient (5 rights)\n\n2. Draw up medication using appropriate syringe and needle (21–25G, 16–38 mm length depending on patient and site)\n\n3. Clean skin with alcohol swab; allow to dry\n\n4. Spread skin taut (Z-track technique for irritant drugs) or bunch if thin patient\n\n5. Insert needle at 90° (or 45° for deltoid in thin patients) with smooth swift motion\n\n6. Do not aspirate routinely (evidence does not support this for most sites)\n\n7. Inject at steady rate; withdraw smoothly\n\n8. Apply light pressure with gauze — do not rub (disperses medication)\n\n9. Dispose of needle directly into sharps container — do not resheath",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-im-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Needle length selection: obese patients require longer needle for muscle penetration\n- Adrenaline for anaphylaxis: always anterolateral thigh\n- Maximum volumes per site to avoid pain and tissue damage\n- Document: drug, dose, route, site, time, lot number",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "morphine-sulphate",
+    "ketamine",
+    "metoclopramide",
+    "ondansetron",
+    "midazolam",
+    "glucagon"
+  ],
+  "relatedGuidelineIDs": [
+    "anaphylactic-shock",
+    "pain-management"
+  ],
+  "relatedCalculatorIDs": [
+    "weight-based-dosing"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

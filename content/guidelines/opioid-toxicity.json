@@ -1,0 +1,72 @@
+{
+  "id": "opioid-toxicity",
+  "title": "Opioid Toxicity",
+  "category": "toxicology",
+  "tags": [
+    "opioid",
+    "toxicity",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Opioid Toxicity"
+  ],
+  "sections": [
+    {
+      "id": "opioid-toxicity-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Opiate toxicity (or opioid overdose) occurs when the ingestion or administration of opioids exceeds the individual's tolerance, leading to life-threatening central nervous system (CNS) and respiratory depression. Respiratory failure may lead to death. The aim of the responder is to ensure good supportive care (+/- naloxone) as this will ensure survival.",
+      "sortOrder": 0
+    },
+    {
+      "id": "opioid-toxicity-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Hypoxia, cyanosis, bradypnoea, apnoea\n- Hypotension, bradycardia\n- Miosis (constricted pupils)\n- Slurred speech\n- Confusion, sedation, coma\n- Hypothermia\n- Pulmonary oedema (late stage or severe cases)\n- Decreased bowel sounds\n- Seizures (Tramadol toxicity)\n- Serotonin toxicity in tramadol and oxycodone",
+      "sortOrder": 1
+    },
+    {
+      "id": "opioid-toxicity-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- In the apnoeic patient, ensure the patient is well oxygenated prior to Narcan (Naloxone) administration to avoid confusion and agitation\n- If giving Narcan intravenously, ensure it is titrated to effect (no large doses) to avoid acute opioid withdrawal\n- Paraphernalia may give early clues to the cause\n- The effect of Narcan can wane after a short period of time. All Opioid effected patients should be referred to further care and management, consent not withstanding",
+      "sortOrder": 2
+    },
+    {
+      "id": "opioid-toxicity-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Position patient appropriately\n- Maintain and manage airway as required\n- IPPV with oxygen where necessary (SpO2 <92% indicates inadequate ventilation)\n- Consider intramuscular Narcan (Naloxone) if IPPV is not effective\n- Vital signs including continuous pulse oximetry (early respiratory depression indicator) and BGL\n- Consider secondary survey\n- Have a low threshold for contacting on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "opioid-toxicity-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway\n- Consider IV access\n- Consider IV fluids if indicated\n- Consider titrated IV Narcan if no previous IM dose given and no response to adequate ventilation\n- Consider ECG",
+      "sortOrder": 4
+    },
+    {
+      "id": "opioid-toxicity-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Although highly unlikely to be encountered on site, methadone can cause QT prolongation\n- If required, ensure patient is given details for Mind Matters or EAP services",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "naloxone",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "avpu",
+    "gcs",
+    "news2"
+  ]
+}

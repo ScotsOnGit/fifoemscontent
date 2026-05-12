@@ -1,0 +1,64 @@
+{
+  "id": "back-pain-including-sprain-strain",
+  "title": "Back Pain (Including Sprain/Strain)",
+  "category": "medical",
+  "tags": [
+    "back",
+    "pain",
+    "sprain",
+    "strain",
+    "medical"
+  ],
+  "synonyms": [
+    "Back Pain (Including Sprain/Strain)"
+  ],
+  "sections": [
+    {
+      "id": "back-pain-including-sprain-strain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Back pain is a prevalent clinical complaint, frequently associated with benign, self-limiting, or chronic non-emergent conditions. Non-traumatic back pain refers to spinal discomfort without recent physical injury, typically arising from musculoskeletal strain, degenerative conditions, nerve compression, or systemic illnesses. It accounts for 74.4% of back pain cases presenting to emergency medical services. However, prompt recognition and intervention are critical, as certain spinal emergencies may rapidly progress to irreversible neurological impairment, including permanent sensory and motor deficits, loss of sphincter control, and sexual dysfunction.",
+      "sortOrder": 0
+    },
+    {
+      "id": "back-pain-including-sprain-strain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Recent onset of pain without trauma or lifting\n- Severe pain at rest or progressively worsening pain\n- Bilateral sciatic nerve pain\n- Obvious structural deformity\n- Urinary retention and/or incontinence\n- Bowel incontinence\n- Lower extremity neurological deficit\n- Fever, chills, night sweats or recent weight loss\n- Perineal, perianal or saddle sensory loss",
+      "sortOrder": 1
+    },
+    {
+      "id": "back-pain-including-sprain-strain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- New onset, pre-existing or chronic back pain patients can all develop spinal emergencies, therefore a current diagnosis regarding back pain does not rule out a spinal emergency\n- Age <20 years or > 50 years, history of cancer, recent infection or immunosuppression, IV drug use or recent steroid therapy\n- A Radiculopathy, often referred to as a \"pinched nerve,\" is a condition where a nerve root in the spinal column is compressed or irritated, leading to pain, numbness, tingling, or weakness in the area supplied by that nerve\n- Cauda Equina compression: altered bladder and/or bowel function (e.g., urinary retention, faecal incontinence). Reduced sensation or numbness in the saddle area.\nPersistent or progressive bilateral foot or leg weakness\n- Visceral disease (e.g., pancreatitis, aortic aneurysm [leak or rupture]) should be suspected if a patient presents sudden, unexplained onset of pain with an absence of aggravating features (e.g., pain not aggravated by spinal movement), associated collapse or hypotension and/or abdominal pain radiating to the back\n\n- Any evidence of serious pathology, spinal infection (osteomyelitis, epidural abscess), vertebral fracture, malignancy, or visceral disease should be treated under those guidelines\n- All health care providers should consider cardiac causes in non-traumatic back pain",
+      "sortOrder": 2
+    },
+    {
+      "id": "back-pain-including-sprain-strain-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs\n- Conduct secondary survey\n- Utilise heat therapy\n- Consider OTC pain relief (paracetamol, NSAIDS)\n- Consider inhaled analgesia if necessary (Methoxyflurane)\n- Position for comfort (e.g., \"knees-to-chest\" for discogenic pain)\n- Ensure Health and Injury prevention team/physiotherapist are involved from the earliest stage practicable to optimise recovery, minimise the risk of long-term complications and have the opportunity to provide education, assessment, and guidance for safe return to work duties",
+      "sortOrder": 3
+    },
+    {
+      "id": "back-pain-including-sprain-strain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider IV access\n- Consider Fluids (KVO) if necessary\n- Consider antiemetic (Ondansetron, Metoclopramide)\n- Consider further analgesia (Codeine containing medication, NSAIDS Celecoxib, Ketorolac, Naproxen, Fentanyl in severe pain)\n- Consider ECG",
+      "sortOrder": 4
+    },
+    {
+      "id": "back-pain-including-sprain-strain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- The assessment of back pain is complex and requires multi-model investigation\n- When assessing a patient with back pain, it is important to gather a full medical history including progression of symptoms and any changes in symptom presentation from pre- existing or chronic conditions",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

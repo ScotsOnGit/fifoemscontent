@@ -1,0 +1,61 @@
+{
+  "id": "vertigo",
+  "title": "Vertigo",
+  "category": "neurological",
+  "tags": [
+    "vertigo",
+    "neurological"
+  ],
+  "synonyms": [
+    "Vertigo"
+  ],
+  "sections": [
+    {
+      "id": "vertigo-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Vertigo is a sensation of movement, often described as spinning or a feeling of being pulled in one direction, even when you are standing still. Vertigo is a symptom, not a diagnosis, and results from disturbances in the vestibular system. Vertigo is categorised into peripheral (inner ear or vestibular nerve involvement) and central (brainstem or cerebellum involvement). The main causes are benign paroxysmal positional vertigo (BPPV), vestibular neuritis and cerebrovascular accidents (CVA)",
+      "sortOrder": 0
+    },
+    {
+      "id": "vertigo-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "Vertigo Peripheral Central\n- Spinning sensation (self or environment)\n- Worsened by head movement\n- Nausea/Vomiting\n- Unsteadiness/gait disturbance\n- Sudden onset\n- Severe intensity\n- Positional trigger (e.g., rolling over in bed)\n- Horizontal nystagmus\n- Hearing loss/tinnitus\n- No neurological deficits\n- Abnormal head impulse\n- Gradual or abrupt onset\n- Mild or constant intensity\n- Focal neurological signs (e.g., diplopia, dysarthria, ataxia)\n- Vertical or directional changing nystagmus\n- No hearing involvement\n- Unstable gait or inability to walk\n- Slurred speech and double vision (diplopia)",
+      "sortOrder": 1
+    },
+    {
+      "id": "vertigo-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Sudden onset of severe vertigo with other neurological signs warrants immediate medical attention and should always be transport to further care\n- The presence of other symptoms, such as hearing loss, tinnitus or neurological deficits can help in differentiating between different causes\n- Hearing loss is a common feature vertigo. However, sudden hearing loss in acute vestibular syndrome can be a sign of an anterior inferior cerebellar infarct, due to involvement of the internal auditory artery. Hearing loss is not typical of vestibular neuritis\n- A thorough medical history, including any previous head injuries or neurological conditions is important\n- Patients whose vertigo is initiated by movement and only lasts less than 2 minutes at a time are most likely suffering from benign paroxysmal positional vertigo (BPPV) and would benefit from a Dix-Hallpike test followed by treatment with an Epley manoeuvre\n- Reg flags: LOC or seizure, headache, neck pain or recent trauma, sudden persistent vertigo unrelieved by rest, visual disturbances\n- Underlying causes of vertigo to be considered:\n\n- Peripheral Vertigo, caused by BBPV, Meniere’s disease, vestibular neuritis/labyrinthitis\n- Central Vertigo, which can have associated symptoms such as neurological deficits, ataxia and headache, stroke, brain tumour or multiple sclerosis",
+      "sortOrder": 2
+    },
+    {
+      "id": "vertigo-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Consider positioning for comfort\n- Vital signs (postural BP included where appropriate, BGL)\n- Complete Secondary Survey\n- Consider FAST\n- Consider HINTS (head impulse, nystagmus, and test of skew) exam\n- Check for nystagmus\n- Consider otoscope if trained and symptomatic\n- Consider Dix-Hallpike test if appropriate (i.e., nil trauma, neck stiffness, etc.)\n- Consider Epley manoeuvre if symptoms consistent with BPPV",
+      "sortOrder": 3
+    },
+    {
+      "id": "vertigo-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider ECG\n- Consider vascular access if required, especially if central vertigo suspected\n- Consider IV fluids if required\n- Consider antiemetics\n- Consider IM Prochlorperazine in consultation with current poison permit holder",
+      "sortOrder": 4
+    },
+    {
+      "id": "vertigo-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Patient education: advise around positional triggers and safety measures such as driving, working at heights, operating machinery, etc during episodes\n- HINTS Exam (for Acute Vestibular Syndrome): Used to differentiate central vs. peripheral vertigo in continuous vertigo with spontaneous nystagmus:\n  - Head-Impulse Test: Abnormal suggests peripheral\n  - Nystagmus: Unidirectional = peripheral; bidirectional/vertical = central\n  - Test of Skew, cover/uncover eye test: Eye misalignment suggests central\n  - All 3 negative suggests peripheral. If 1 or more positive, treat as central 18 CARDIAC",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

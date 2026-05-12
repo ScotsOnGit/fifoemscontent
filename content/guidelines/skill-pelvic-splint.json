@@ -1,0 +1,58 @@
+{
+  "id": "skill-pelvic-splint",
+  "title": "Pelvic Splints",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "pelvic binder",
+    "pelvic splint",
+    "pelvic fracture",
+    "haemorrhage",
+    "SAM sling"
+  ],
+  "synonyms": [
+    "Pelvic Binder",
+    "SAM Pelvic Sling",
+    "Pelvic Stabilisation"
+  ],
+  "sections": [
+    {
+      "id": "skill-pelvis-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Pelvic binders are applied to unstable pelvic fractures to reduce the pelvic volume and tamponade venous and arterial haemorrhage. They are indicated for suspected open-book (AP compression) and vertical shear pelvic fractures following significant trauma with haemodynamic compromise.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-pelvis-procedure",
+      "type": "management_advanced",
+      "title": "Application (SAM Pelvic Sling / Commercial Binder)",
+      "content": "**Contraindications:** Lateral compression fractures (may worsen with binder)\n\n1. Assess pelvis gently once only — do not repeatedly rock or compress\n\n2. Position binder centre over greater trochanters (NOT over iliac crests)\n\n3. Slide binder under patient at level of greater trochanters\n\n4. Close binder and apply tension per device instructions — adequate tension is firm, not maximal\n\n5. Tie/lock per device design\n\n6. Reassess haemodynamic status and leg length discrepancy\n\n7. Do not log roll patient with suspected unstable pelvic fracture\n\n**Improvised sheet binder:**\n\n- Fold sheet to 30 cm width; position at greater trochanter level; twist to tighten and tie securely",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-pelvis-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Greater trochanter landmark — NOT over iliac crest\n- Apply early — do not wait for hypotension\n- Internally rotate feet and tape together after binder application\n- Document: time of application, haemodynamic status before and after",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "tranexamic-acid",
+    "hartmanns-solution",
+    "intravenous-normal-saline"
+  ],
+  "relatedGuidelineIDs": [
+    "pelvic-injury",
+    "haemorrhage"
+  ],
+  "relatedCalculatorIDs": [
+    "batt-score",
+    "revised-trauma-score",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

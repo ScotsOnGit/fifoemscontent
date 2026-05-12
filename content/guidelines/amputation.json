@@ -1,0 +1,55 @@
+{
+  "id": "amputation",
+  "title": "Amputation",
+  "category": "trauma",
+  "tags": [
+    "amputation",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "Amputation"
+  ],
+  "sections": [
+    {
+      "id": "amputation-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Traumatic amputation refers to the partial or complete removal of a limb or part of a limb, typically resulting from severe trauma such as motor vehicle collisions, industrial accidents, agricultural incidents, or machinery injuries.",
+      "sortOrder": 0
+    },
+    {
+      "id": "amputation-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Visible loss or mutilation of limb segment\n- Severe bleeding or haemorrhagic shock\n- Pain, distress, agitation\n- Soft tissue injury, exposed bone, possible contamination\n- Entrapment of the limb\n- Signs of hypovolaemia: tachycardia, pallor, hypotension\n- Potential for traumatic shock (altered mental status, cold, clammy skin)",
+      "sortOrder": 1
+    },
+    {
+      "id": "amputation-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Ensure scene safety. Responder safety is paramount\n- If entrapped, activate backup early, including RFDS\n- If entrapped for extended period with crushing force, be mindful of crush syndrome and reperfusion injuries on release\n- Rapid Assessment: Time-critical, focus on airway, breathing, circulation (ABC), and catastrophic haemorrhage control\n- Pain Management: Severed nerves are exquisitely painful, multi-modal analgesia is essential, including psychological support\n- Preservation of amputated part: If possible, recover and preserve the amputated limb for possible replantation\n- Always treat an amputated part as if it may be reimplanted. It may at least be useful for achieving skin coverage of a wound\n- Reimplantation is less likely to be successful if warm ischemia time exceeds 6 hours\n- Psychological Impact: Amputations are distressing; communicate clearly and compassionately with patient, friends, colleagues",
+      "sortOrder": 2
+    },
+    {
+      "id": "amputation-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Haemorrhage control. Stop any catastrophic bleeding, e.g., proximal tourniquet, direct pressure\n- Persistent reassurance\n- Consider c-spine\n- Vital Signs\n- Multimodal pain relief approach where practicable, including positioning for comfort where practicable\n- Try and maintain patient warmth, consider trauma triad\n- Gently irrigate (saline) and dress exposed area (stump) with sterile dressings\n- Reassess frequently, monitor for haemorrhagic shock\n- Secondary Survey\n- Retrieve amputated part where possible, place in a sealed bag and place that bag in another bag or container with cool substance. Do not allow direct contact with ice",
+      "sortOrder": 3
+    },
+    {
+      "id": "amputation-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Establish Vascular access\n- Consider IV Fluids\n- Consider IV pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider (prophylactic) anti-emetic (Ondansetron, Metoclopramide)\n- Consider (prophylactic) IV antibiotics (e.g., cephazolin)\n- Consider ADT",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

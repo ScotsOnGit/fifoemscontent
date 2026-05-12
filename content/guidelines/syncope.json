@@ -1,0 +1,69 @@
+{
+  "id": "syncope",
+  "title": "Syncope",
+  "category": "neurological",
+  "tags": [
+    "syncope",
+    "neurological"
+  ],
+  "synonyms": [
+    "Syncope"
+  ],
+  "sections": [
+    {
+      "id": "syncope-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Syncope, also referred to as transient loss of consciousness (T-LOC), is defined as a rapid, self-limited loss of consciousness due to global cerebral hypoperfusion, resulting in spontaneous and complete recovery after the event. Syncope is a common prehospital presentation.\nPresyncope describes symptoms such as dizziness, light-headedness, or weakness that may precede syncope but do not result in actual loss of consciousness.\nPatients may describe syncopal episodes using terms such as “faint,” “black out,” “collapse,” or “passing out.” Syncope can be classified into the following major categories:\n- Orthostatic syncope: Occurs secondary to postural changes, typically due to a failure of compensatory mechanisms to maintain blood pressure upon standing\n- Reflex (neurally mediated) syncope: Results from an inappropriate autonomic nervous system response to a trigger or stimulus (e.g., vasovagal, situational, carotid sinus hypersensitivity)\n- Cardiac syncope: Caused by a reduction in cardiac output due to arrhythmias or structural heart disease, leading to global cerebral hypoperfusion\n- PLUS: SYNCOPE WITH additional provisional diagnosis i.e., syncope plus shortness of breath (PE), syncope plus abdominal or flank pain (AAA), syncope plus severe headache (Subarachnoid)",
+      "sortOrder": 0
+    },
+    {
+      "id": "syncope-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Sudden, brief loss of consciousness with spontaneous return to baseline\n- Rapid onset and short duration (typically less than a minute)\n- Loss of postural tone (patient may fall)\n- Prodromal symptoms: Light-headedness, dizziness, nausea, sweating, visual changes, or palpitations\n- Post-event: Brief confusion or disorientation is common; most patients recover quickly and completely\n- May complain of pain\n- Injuries: May occur due to fall (e.g., head trauma, fractures)",
+      "sortOrder": 1
+    },
+    {
+      "id": "syncope-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- A 12 lead ECG should be acquired in most, if not all these patients\n- Syncope is most commonly caused by a transient reduction in systemic blood pressure, typically not due to cardiac pathology. Promptly positioning the patient supine is generally sufficient to restore cerebral perfusion and consciousness\n\n- Sustained unconsciousness following an episode of fainting is not consistent with syncope. If a patient remains unresponsive, alternative or additional diagnoses must be considered and managed accordingly\n- Maintaining a patient in an upright position after syncope can result in prolonged cerebral hypoperfusion, increasing the risk of brain injury or death. Therefore, supine positioning is strongly recommended\n- Syncopal episodes occurring while the patient is supine or recumbent are highly suggestive of a cardiac aetiology and warrant urgent evaluation\n- Persistent confusion lasting longer than 30 seconds post-event may indicate a postictal state, raising suspicion for seizure rather than syncope\n- Patients over 40 years of age who present with a first episode of syncope require thorough assessment, as the likelihood of underlying pathology is increased\n- The presence of abnormal vital signs following syncope, or associated symptoms such as chest pain, dyspnoea, severe headache, neurological deficits, or exertional onset, should prompt consideration of alternative or additional diagnoses beyond straightforward vasovagal syncope\n- Although cardiac arrhythmias may be transient, clinical management should be guided by the patient’s condition rather than the specific rhythm identified on ECG\n- While most cases of syncope (fainting) are not life-threatening, a small percentage (around 10%) are caused by serious underlying cardiac conditions\n- Sudden severe blood loss; external or internal\n- Postural hypotension (sometimes due to medication)\n- Hypoglycaemia, (diabetic or due to low food intake)\n- Cerebro-vascular Accidents (C.V.A.) or Transient Ischaemic Attacks (T.I.A.)\n- T.I.A. resembles a C.V.A. (stroke), but is of short duration; even if recovered, always transport to medical care for assessment\n- Can it be a seizure? Look for signs…",
+      "sortOrder": 2
+    },
+    {
+      "id": "syncope-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey (correct any issues identified)\n- Consider airway management if still unconscious, place patient in lateral position (left lateral position for pregnant women)\n- If conscious, place supine\n- Consider Oxygen if indicated\n- Vital Sign Survey, particularly blood pressure and blood glucose\n- Consider oral glucose intake if suitable, or IM glucagon if low BGL is a cause Limb LEAD ECG\n\n- Secondary/CNS Survey, (BE)FAST, cranial nerve assessment, etc\n- Clinicians should have low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "syncope-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Apply cardiac monitor\n- Manage cardiac arrhythmia\n- Consider establishing vascular access\n- Consider blood draw for i-STAT: Chem8, check electrolytes, lactate, haemoglobin) where available\n- Consider fluid therapy\n- Consider appropriate antiemetic\n- Consider IV glucose\n- Consider analgesia if pain is a cause",
+      "sortOrder": 4
+    },
+    {
+      "id": "syncope-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- The initial evaluation of patients with syncope should be focused on the early identification and management of serious and life-threatening non-cardiac or cardiac causes\n- Non-lethal strangulation in domestic and family abuse may be a cause of unexplained syncope\n- Determining the cause of a syncope can be complex in some patients and clinicians should have a low threshold for referring these patients for further medical review\n- For some possible causes, consider AEIOUTIPS\n- Alcohol, Arrhythmia, Epilepsy, Electrolytes, Insulin, Overdose, Oxygen, Opiates, Trauma, Temperature, Infection, Poisons, Psychiatric, Stroke, Shock, Syncope\n- Patient Education: Advise on prevention of recurrence (e.g., avoid triggers, stay hydrated, rise slowly from sitting/lying)",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "intravenous-normal-saline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "avpu",
+    "gcs"
+  ]
+}

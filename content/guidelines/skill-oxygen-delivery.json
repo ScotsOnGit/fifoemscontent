@@ -1,0 +1,68 @@
+{
+  "id": "skill-oxygen-delivery",
+  "title": "Oxygen Delivery",
+  "category": "skills",
+  "skillsSubcategory": "breathing",
+  "tags": [
+    "oxygen",
+    "O2",
+    "delivery",
+    "nasal cannula",
+    "non-rebreather",
+    "venturi",
+    "high-flow"
+  ],
+  "synonyms": [
+    "O2 Therapy",
+    "Supplemental Oxygen",
+    "Oxygen Administration"
+  ],
+  "sections": [
+    {
+      "id": "skill-o2-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Supplemental oxygen corrects or prevents hypoxaemia. The appropriate delivery device and flow rate depends on the patient's clinical condition, target SpO₂, and the FiO₂ required. Oxygen is a medication and should be titrated to target SpO₂ — routine high-flow oxygen is not appropriate for all patients.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-o2-devices",
+      "type": "management_basic",
+      "title": "Delivery Devices & FiO₂",
+      "content": "**Nasal Cannula (NC):**\n- Flow: 1–6 L/min\n- FiO₂: ~24–44%\n- Use: mild hypoxaemia, patient comfort, chronic respiratory conditions\n\n**Simple Face Mask:**\n- Flow: 5–10 L/min (minimum 5 L/min to prevent CO₂ rebreathing)\n- FiO₂: ~35–50%\n- Use: moderate hypoxaemia\n\n**Non-Rebreather Mask (NRB):**\n- Flow: 10–15 L/min\n- FiO₂: ~60–90%\n- Use: severe hypoxaemia, CO poisoning, anaphylaxis, major trauma\n\n**Venturi Mask:**\n- Fixed FiO₂: 24%, 28%, 31%, 35%, 40%, 60%\n- Use: COPD, when precise FiO₂ titration is required\n\n**BVM with O₂ reservoir:**\n- Flow: 15 L/min\n- FiO₂: ~85%\n- Use: apnoea, pre-oxygenation for intubation",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-o2-targets",
+      "type": "considerations",
+      "title": "Target SpO₂",
+      "content": "**General target: SpO₂ 94–98%**\n\n**COPD / chronic hypercapnia: SpO₂ 88–92%** — high-flow oxygen can suppress hypoxic drive and worsen hypercapnia\n\n**Carbon monoxide poisoning: 100% O₂ (NRB or BVM) regardless of SpO₂** — SpO₂ is falsely normal due to CO-Hb\n\n**Post-ROSC: SpO₂ 94–98%** — avoid hyperoxia which worsens neurological outcomes\n\n**Neonates: SpO₂ 91–95%** — hyperoxia causes retinopathy",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-o2-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Titrate to target — do not apply maximum flow by default\n- SpO₂ probe unreliable in: poor perfusion, hypothermia, nail polish, CO poisoning, methaemoglobinaemia\n- Document: device, flow rate, initial and post-treatment SpO₂\n- Humidification for flows > 4 L/min if prolonged use",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "asthma",
+    "dyspnoea",
+    "carbon-monoxide",
+    "anaphylactic-shock",
+    "chest-trauma",
+    "post-resuscitation-care"
+  ],
+  "relatedCalculatorIDs": [
+    "news2",
+    "paed-vitals"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

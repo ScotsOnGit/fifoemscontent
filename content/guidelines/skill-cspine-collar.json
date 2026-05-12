@@ -1,0 +1,55 @@
+{
+  "id": "skill-cspine-collar",
+  "title": "C-Spine Collar",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "cervical collar",
+    "C-spine",
+    "neck brace",
+    "spinal immobilisation",
+    "trauma"
+  ],
+  "synonyms": [
+    "Cervical Collar",
+    "Neck Collar",
+    "C-Collar",
+    "Philadelphia Collar"
+  ],
+  "sections": [
+    {
+      "id": "skill-collar-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "A cervical collar limits flexion, extension, and lateral rotation of the cervical spine. It is used as an adjunct to manual stabilisation when spinal precautions are indicated. A collar alone does not fully immobilise the cervical spine — manual stabilisation remains essential until full immobilisation is achieved.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-collar-sizing",
+      "type": "management_basic",
+      "title": "Sizing & Application",
+      "content": "**Sizing (Stifneck / equivalent):**\n\n1. Measure from top of shoulder to chin with neck in neutral position\n\n2. Match measurement to collar size markings\n\n3. Select: no-neck (for large neck), short, regular, tall\n\n**Application:**\n\n1. Rescuer 1 maintains manual cervical stabilisation in neutral alignment\n\n2. Rescuer 2 fits collar: slide posterior piece behind neck (or position front piece first per brand instructions)\n\n3. Secure chin cup under chin; fasten velcro firmly\n\n4. Ensure airway is not compromised and collar is not too tight\n\n5. Maintain manual stabilisation until full immobilisation is achieved (vacuum mattress / LBB)\n\n6. Reassess neurological status after application",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-collar-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Collar does NOT replace manual immobilisation\n- Never apply collar if: patient resists or has muscle spasm (force increases injury risk)\n- Remove if: patient vomits, airway needs management, causes distress that worsens outcome\n- Document: indications, collar size, patient tolerance and any neurological changes",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury",
+    "skill-spinal-assessment"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "canadian-cspine",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "skill-lateral-trauma-position",
+  "title": "Lateral Trauma Position",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "lateral trauma position",
+    "recovery position",
+    "unconscious patient",
+    "trauma",
+    "airway"
+  ],
+  "synonyms": [
+    "Recovery Position",
+    "Lateral Position",
+    "Left Lateral"
+  ],
+  "sections": [
+    {
+      "id": "skill-ltp-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The lateral trauma position (modified recovery position) is used to maintain an open airway and prevent aspiration in an unconscious or obtunded trauma patient when spinal injury has been cleared or is considered unlikely. It is preferable to supine positioning when the patient cannot protect their airway.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-ltp-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Confirm spinal precautions are not required (or cannot be maintained with supine positioning due to airway risk)\n\n2. Kneel beside patient; extend near arm at right angles to body\n\n3. Bring far arm across chest; place patient's hand against their near cheek\n\n4. Flex far knee; use this as a lever to roll patient toward you in a controlled manner\n\n5. Adjust top knee and arm to stabilise position\n\n6. Tilt head back slightly to maintain open airway; mouth facing down for drainage\n\n7. Monitor airway continuously; have suction ready",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-ltp-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Airway patency takes precedence over spinal precautions in the unconscious patient — 'airway first'\n- Left lateral preferred for late pregnancy (relieves aortocaval compression)\n- Reassess neurological status and airway position frequently\n- Document: position used, reason for lateral over supine, GCS, and airway management",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "traumatic-brain-injury",
+    "unconsciousness",
+    "post-submersion"
+  ],
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

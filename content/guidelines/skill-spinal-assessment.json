@@ -1,0 +1,64 @@
+{
+  "id": "skill-spinal-assessment",
+  "title": "Spinal Assessment",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "spinal",
+    "cervical",
+    "assessment",
+    "clearance",
+    "NEXUS",
+    "immobilisation",
+    "c-spine"
+  ],
+  "synonyms": [
+    "Spinal Assessment",
+    "C-Spine Assessment",
+    "Spinal Clearance"
+  ],
+  "sections": [
+    {
+      "id": "skill-spinal-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Spinal assessment in the prehospital setting involves determining whether spinal precautions are required based on mechanism, symptoms, and clinical findings. The goal is to avoid unnecessary immobilisation (which carries risks) while not missing a clinically significant spinal injury. Tools such as the NEXUS criteria and Canadian C-Spine Rule guide clinical decision-making.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-spinal-assessment-indications",
+      "type": "considerations",
+      "title": "Indications for Spinal Precautions",
+      "content": "**Apply spinal precautions if ANY of the following are present:**\n- Significant mechanism: high-speed MVC, fall from height, axial loading, diving injury, hanging\n- Complaint of neck or back pain or tenderness\n- Neurological symptoms: paraesthesia, weakness, numbness in any limb\n- Altered level of consciousness (GCS < 15)\n- Distracting injury\n- Intoxication (alcohol or drugs)\n- Inability to communicate reliably\n- Pre-existing spinal pathology (e.g. ankylosing spondylitis, rheumatoid arthritis, prior spinal surgery)\n\n**Spinal precautions may not be required if ALL of the following are met (NEXUS Low-Risk Criteria):**\n- No midline cervical tenderness\n- No altered alertness\n- No evidence of intoxication\n- No distracting injury\n- No focal neurological deficit",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-spinal-assessment-steps",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "**1. Scene Assessment**\n- Determine mechanism of injury\n- Identify forces involved (direction, magnitude)\n\n**2. Primary Survey**\n- Maintain manual in-line stabilisation if spinal injury suspected during airway management\n\n**3. Clinical Assessment**\n- Ask about neck/back pain, tenderness, numbness, tingling, weakness\n- Assess GCS and level of alertness\n- Palpate posterior midline cervical and thoracolumbar spine for tenderness or step-off\n- Assess for distracting injuries\n- Assess neurological function: limb movement, grip strength, sensation\n\n**4. Decision**\n- If spinal precautions indicated: apply semi-rigid cervical collar (if appropriate) and maintain spinal alignment throughout transport\n- If clinically cleared per NEXUS/protocol: document reasoning clearly\n\n**5. Immobilisation**\n- Maintain neutral spinal alignment with appropriate padding\n- Use head blocks to limit lateral movement\n- Minimise time on extrication board; transfer to trolley as soon as practical\n- Consider patient comfort and airway management needs throughout",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-spinal-assessment-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Routine immobilisation of all trauma patients is not evidence-based\n- Semi-rigid collar alone does not adequately immobilise the cervical spine\n- Patients with penetrating neck injury generally do not require cervical immobilisation\n- Cooperative, ambulant patients without neurological symptoms may self-extricate short distances with coaching\n- Document all assessment findings and clinical reasoning for any decision to apply or withhold spinal precautions",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "nexus-criteria",
+    "spinal-trauma-cord-injury",
+    "s-p-e-e-d-spinal-emergency-evaluation-of-deficits"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "canadian-cspine",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

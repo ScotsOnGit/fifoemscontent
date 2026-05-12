@@ -1,0 +1,59 @@
+{
+  "id": "skill-pain-assessment",
+  "title": "Pain Assessment",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "pain",
+    "assessment",
+    "NRS",
+    "OLDCARTS",
+    "analgesia",
+    "pain score",
+    "visual analogue scale"
+  ],
+  "synonyms": [
+    "Pain Assessment",
+    "Pain Score",
+    "NRS",
+    "Numeric Rating Scale"
+  ],
+  "sections": [
+    {
+      "id": "skill-pain-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Pain is a subjective, multidimensional experience and is the most common presenting complaint in the prehospital setting. Systematic pain assessment guides analgesic decisions, helps establish a therapeutic relationship, and provides a baseline for monitoring treatment response. Pain should be assessed and documented at every contact.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-pain-assessment-tools",
+      "type": "management_basic",
+      "title": "Assessment Tools",
+      "content": "**Numeric Rating Scale (NRS) — Adults and children ≥ 8 years**\n- Ask: 'On a scale of 0 to 10, where 0 is no pain and 10 is the worst pain you can imagine, what is your pain right now?'\n- 0: No pain\n- 1–3: Mild\n- 4–6: Moderate\n- 7–10: Severe\n\n**Wong-Baker FACES — Children 3–8 years**\n- Six faces ranging from smiling (0) to crying (10)\n- Patient points to face that best represents their pain\n\n**Behavioural Pain Scale — Non-verbal / unconscious patients**\n- Observe: facial grimacing, vocalisation (moaning/crying), body posturing, movement\n- Use FLACC scale (Face, Legs, Activity, Cry, Consolability) for children\n\n**OLDCARTS — Characterising Pain**\n- **O**nset: when did it start? sudden or gradual?\n- **L**ocation: where is it? does it radiate?\n- **D**uration: how long has it been present?\n- **C**haracter: sharp, dull, burning, crushing, cramping, stabbing, aching?\n- **A**ggravating factors: what makes it worse?\n- **R**elieving factors: what makes it better?\n- **T**reatment: what has been tried? did it help?\n- **S**everity: current score and worst/best score",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-pain-assessment-reassessment",
+      "type": "considerations",
+      "title": "Reassessment & Documentation",
+      "content": "- Reassess pain score after every analgesic intervention: 5–10 minutes post-administration\n- Clinically meaningful improvement = reduction of 2 or more points on NRS\n- Document: initial score, interventions given (drug, dose, route, time), reassessment score\n- Pain that is not responding to appropriate analgesia warrants clinical review\n- Consider non-pharmacological measures: positioning, immobilisation, ice, reassurance, distraction (especially in paediatrics)",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-pain-assessment-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Pain is subjective — accept the patient's self-report as valid\n- Culture, age, anxiety, and prior experiences influence pain expression\n- Adequate analgesia does not mask signs of surgical abdomen or serious injury in the prehospital setting\n- Untreated pain causes physiological stress, worsens outcomes, and erodes trust\n- Document pain scores with timestamps at assessment, post-intervention, and on handover",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

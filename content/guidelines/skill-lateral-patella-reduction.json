@@ -1,0 +1,54 @@
+{
+  "id": "skill-lateral-patella-reduction",
+  "title": "Lateral Patella Reduction",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "patella",
+    "dislocation",
+    "reduction",
+    "knee",
+    "patella reduction"
+  ],
+  "synonyms": [
+    "Patella Reduction",
+    "Kneecap Reduction",
+    "Patella Dislocation"
+  ],
+  "sections": [
+    {
+      "id": "skill-patella-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Lateral patellar dislocation is the most common direction of patella dislocation, with the patella displacing laterally. Reduction is often achieved with minimal intervention and is within prehospital scope when neurovascular compromise is present or when transport time is prolonged.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-patella-procedure",
+      "type": "management_basic",
+      "title": "Reduction Technique",
+      "content": "**Assessment first:** confirm lateral displacement of patella, neurovascular status of limb\n\n**Milch / extension technique:**\n\n1. Provide analgesia (methoxyflurane, fentanyl, or Entonox)\n\n2. Patient supine; extend knee fully while gently applying medial pressure to the lateral edge of the patella\n\n3. As the knee extends, the quadriceps relaxes and the patella often relocates spontaneously\n\n4. A click or clunk is felt/heard on reduction\n\n5. Assess neurovascular status post-reduction\n\n6. Apply splint in extension for transport; ice if available",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-patella-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Adequate analgesia improves success and reduces patient distress\n- Do not attempt reduction if: suspected fracture on palpation, mechanism inconsistent with simple dislocation\n- Document: pre- and post-reduction neurovascular status, number of attempts, analgesia used",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane",
+    "fentanyl"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

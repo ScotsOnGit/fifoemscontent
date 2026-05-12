@@ -1,0 +1,61 @@
+{
+  "id": "skill-spinal-immobilisation",
+  "title": "Spinal Immobilisation",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "spinal immobilisation",
+    "spinal precautions",
+    "long board",
+    "vacuum mattress",
+    "C-spine"
+  ],
+  "synonyms": [
+    "Spinal Immobilisation",
+    "Full Spinal Precautions",
+    "Spinal Packaging"
+  ],
+  "sections": [
+    {
+      "id": "skill-spinal-immo-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Spinal immobilisation is indicated when clinical assessment suggests a risk of unstable spinal injury. Contemporary evidence supports selective immobilisation using validated clinical decision tools rather than universal immobilisation. When indicated, the goal is to maintain spinal alignment and prevent secondary cord injury during extrication and transport.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-spinal-immo-indications",
+      "type": "considerations",
+      "title": "Indications",
+      "content": "Spinal precautions indicated when NEXUS or Canadian C-Spine criteria are not cleared:\n- Altered level of consciousness (GCS < 15) following trauma\n- Midline spinal tenderness or pain on palpation\n- Distracting injury\n- Focal neurological deficit\n- Intoxication\n- Mechanism: high-energy trauma, axial load, diving/submersion",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-spinal-immo-procedure",
+      "type": "management_basic",
+      "title": "Full Immobilisation Package",
+      "content": "1. Manual cervical stabilisation maintained throughout\n\n2. Apply appropriately sized cervical collar\n\n3. Extricate using suitable technique (log roll, scoop stretcher, Kendrick Extrication Device)\n\n4. Position on vacuum mattress (preferred) or long spinal board\n\n5. Apply head blocks / head immobiliser on vacuum mattress or board\n\n6. Secure straps: chest, hips, lower extremities\n\n7. Reassess neurological status before and after immobilisation",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-spinal-immo-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Do not delay extrication for a conscious, time-critical patient to apply full immobilisation\n- Vacuum mattress preferred over hard board — reduces pain and pressure injury\n- Consider patient's ability to protect own airway when supine — may need head-of-bed elevation\n- Document: NEXUS/Canadian C-Spine assessment result, neurological status, immobilisation device used",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury",
+    "traumatic-brain-injury"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "canadian-cspine",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

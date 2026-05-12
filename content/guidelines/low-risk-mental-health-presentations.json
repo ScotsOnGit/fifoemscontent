@@ -1,0 +1,69 @@
+{
+  "id": "low-risk-mental-health-presentations",
+  "title": "Low Risk Mental Health Presentations",
+  "category": "mental_health",
+  "tags": [
+    "low",
+    "risk",
+    "mental",
+    "health",
+    "presentations",
+    "mental health",
+    "psychiatric"
+  ],
+  "synonyms": [
+    "Low Risk Mental Health Presentations"
+  ],
+  "sections": [
+    {
+      "id": "low-risk-mental-health-presentations-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Low-risk mental health conditions are mild to moderate psychological or emotional disturbances that do not usually present immediate risks of harm to self or others. These conditions commonly include:\n- Adjustment disorders\n- Mild anxiety or depressive symptoms\n- Situational stress reactions\n- Low-grade mood disturbance Patients typically maintain functional capacity with some distress, but without psychosis, suicidality, or immediate risk of violence",
+      "sortOrder": 0
+    },
+    {
+      "id": "low-risk-mental-health-presentations-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Increased anxiety or irritability\n- Difficulty concentrating or decision making\n- Changes in appetite or sleep patterns (insomnia, hypersomnia)\n- General lack of motivation or withdrawal from social interactions\n- Feelings of sadness, hopelessness, or low mood\n- Mild somatic complaints such as headaches or fatigue\n- Often oriented, cooperative, and able to communicate concerns coherently",
+      "sortOrder": 1
+    },
+    {
+      "id": "low-risk-mental-health-presentations-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Safety first: Exclude any immediate risk factors (suicidal ideation, self-harm intent, aggression, hallucinations). If present, escalate care appropriately and refer to High Risk Mental Health Presentation CPG\n- Confidentiality and rapport: Establish a trusting relationship; provide non-judgmental, empathetic support\n- Holistic assessment: Consider physical causes (intoxication, infection) or medication effects\n- Cultural sensitivity: Recognise cultural differences in expression of distress and stigma surrounding mental health\n- Capacity and consent: Assess decision-making capacity, especially if referral or transport is required\n- Support systems: Identify protective factors such as family or community supports\n\n- Documentation: Record findings, assessments, and advice given carefully\n- All personnel must be fully aware of, and operate strictly within, the boundaries of their professional scope of practice when involved in mental health-related cases. While it is both appropriate and important to provide initial support, perform basic assessments, and assist with triage, the offering of advice, diagnoses, or interventions that exceed formal qualifications or competencies must be avoided. Acting outside one's scope of practice can lead to unintended harm and may compromise the safety, well-being, and trust of the individuals seeking help",
+      "sortOrder": 2
+    },
+    {
+      "id": "low-risk-mental-health-presentations-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Psychological support: Provide reassurance, active listening, and validation of feelings\n- Environment: Reduce sensory stimuli, provide calm, private surroundings if possible\n- Self-care advice: Encourage routines, balanced diet, sleep hygiene, and gradual return to social activities\n- Referral: Provide information on MinRes provided Employee Assistance Program (Assure), Mind Matters team where available or follow-up pathways\n- Consider advising patient to lean on work group/supervisor where appropriate\n- Vital Sign Survey, including BSL\n- Consider escalation or further advice from the on-call doctor where required\n- Complete the MinRes “Mental State Examination Tool”\n- Consider on-call doctor for further advice where required",
+      "sortOrder": 3
+    },
+    {
+      "id": "low-risk-mental-health-presentations-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider oral diazepam for acute situational anxiety (if within SASA) otherwise consult with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "low-risk-mental-health-presentations-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Refer to Mental Health Triage TARP for quick reference\n- Initiate de-brief with Mind matters team or EAP where relevant and appropriate. Be aware that these pathways are also bound by patient confidentiality",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "rass"
+  ]
+}

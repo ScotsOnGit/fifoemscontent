@@ -1,0 +1,71 @@
+{
+  "id": "neurogenic-shock",
+  "title": "Neurogenic Shock",
+  "category": "shock",
+  "tags": [
+    "neurogenic",
+    "shock",
+    "haemodynamic"
+  ],
+  "synonyms": [
+    "Neurogenic Shock"
+  ],
+  "sections": [
+    {
+      "id": "neurogenic-shock-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Neurogenic shock is a distributive shock resulting from acute spinal cord injury (SCI) or central nervous system (CNS) trauma, leading to loss of sympathetic tone, systemic vasodilation, and impaired haemodynamic stability. It is characterised by hypotension, bradycardia, and warm peripheries due to unopposed parasympathetic activity.",
+      "sortOrder": 0
+    },
+    {
+      "id": "neurogenic-shock-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Hypotension: Systolic BP <90 mmHg or >30% below baseline\n- Bradycardia: Heart rate <60 bpm (unlike hypovolemic shock, which typically causes tachycardia)\n- Warm, dry and flushed skin due to peripheral vasodilation, especially below level of injury)\n- Possible hypothermia due to vasodilation\n- Respiratory distress (if injury involves cervical spine or brainstem)\n- Altered mental status (confusion, lethargy)\n- Priapism (in males) or loss of reflexes",
+      "sortOrder": 1
+    },
+    {
+      "id": "neurogenic-shock-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider other forms of shock, cardiogenic, hypovolaemic\n- Be aware of respiratory depression\n- Patients may appear \"well perfused\" peripherally but are at high risk of central hypoperfusion (e.g., cerebral, renal ischemia)\n- Beware of fluid overload\n- Any hypotension in a trauma patient should be assumed to be hypovolaemic in origin until proven otherwise, even in a patient with an overt spinal injury. Sources of bleeding must be aggressively sought and controlled. Neurogenic shock is rare in comparison\n- Neurogenic shock must be differentiated from \"spinal\" shock as their managements differ\n- Spinal shock: Flaccid paralysis and areflexia below the injury level\n- Neurogenic shock: Haemodynamic instability (hypotension + bradycardia)\n- As the likely cause on site would be from injury, it is important to ensure spinal precautions are taken\n- Vagal stimuli, such as suctioning, nasogastric tube insertion, or intubation may exacerbate neurogenic shock",
+      "sortOrder": 2
+    },
+    {
+      "id": "neurogenic-shock-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Consider IPPV if necessary\n- Consider Oxygen\n- Maintain spinal precautions and immobilisation\n- Vital Sign Survey\n- Ensure patient is kept warm\n- Consider Secondary/CNS Survey\n- Keep patient warm and comfortable (as temperature regulation may be impaired)\n- Consider early consultation with RFDS for evacuation",
+      "sortOrder": 3
+    },
+    {
+      "id": "neurogenic-shock-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Apply cardiac monitor/defibrillator\n- Establish vascular access\n- Administer IV fluid cautiously (aiming for 90mmHg)\n- Consider atropine in consultation with on-call doctor\n- Consider prophylactic antiemetic\n- Consider analgesia\n- Consider adrenaline use in persistent hypotension only in consultation with on-call doctor\n- Consider atropine (0.6mg IV boluses)\n- If available and trained to do so, insert indwelling catheter",
+      "sortOrder": 4
+    },
+    {
+      "id": "neurogenic-shock-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Ensure patient is correctly packed to be received by RFDS, i.e., Patient is immobilised within a vacuum mattress where available",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "hartmanns-solution",
+    "metaraminol-tartrate",
+    "noradrenaline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "speed-assessment"
+  ]
+}

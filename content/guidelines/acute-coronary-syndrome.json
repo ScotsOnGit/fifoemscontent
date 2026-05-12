@@ -1,0 +1,77 @@
+{
+  "id": "acute-coronary-syndrome",
+  "title": "Acute Coronary Syndrome",
+  "category": "cardiac",
+  "tags": [
+    "acute",
+    "coronary",
+    "syndrome",
+    "cardiac",
+    "heart"
+  ],
+  "synonyms": [
+    "Acute Coronary Syndrome"
+  ],
+  "sections": [
+    {
+      "id": "acute-coronary-syndrome-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Acute coronary syndrome (ACS) represents a myriad of clinical presentations sharing common symptoms, ranging from worsening angina through to ST-elevation MI (STEMI).\nMost patients present with prolonged (>10mins) or recurrent central or left sided chest discomfort described as tightness, heaviness, squeezing or crushing. The absence of these symptoms does not rule out ACS. Patients suffering from Acute Coronary Syndromes do not always present with chest pain and are subsequently frequently misdiagnosed.",
+      "sortOrder": 0
+    },
+    {
+      "id": "acute-coronary-syndrome-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Signs & Symptoms Suggestive of ACS:**\n- Chest pain or discomfort of presumed cardiac origin (pressure, tightness, heaviness, or burning sensation)\n- Acute or subacute shortness of breath without clear alternative explanation (notably, up to one-third of ACS patients may present without chest pain)\n- Referred pain, i.e., to the jaw/teeth, interscapular pain (pain between the shoulder blades), epigastric pain or discomfort\n- Unexplained upper limb or neck discomfort (especially in female patients)\n- Dizziness, light-headedness, or transient loss of consciousness\n- Nausea, vomiting, or diaphoresis (excessive sweating) without obvious cause\n- Palpitations or dysrhythmias (abnormal heart rhythms)\n- Generalized weakness or malaise\n- Right-sided chest pain (less common but possible)\n- Feeling of impending doom",
+      "sortOrder": 1
+    },
+    {
+      "id": "acute-coronary-syndrome-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Suspicion of acute myocardial ischemia (AMI) should be based on a thorough patient history and their clinical presentation. A normal or non-diagnostic ECG does not exclude ACS, and ongoing assessment is essential in patients with persistent symptoms\n- Multiple 12-lead ECGs are recommended in patients with ongoing symptoms and high clinical suspicion for ACS. If the initial ECG is non-diagnostic, repeat ECGs should be performed at least every 15 minutes to capture evolving ischemic changes. The absence of ischaemic signs on the ECG does not exclude AMI. AMI is diagnosed by presenting history, serial ECGs and serial enzyme tests\n- Early defibrillator pad placement is advised for all cases of confirmed STEMI to facilitate rapid defibrillation if required\n\n- Right ventricular and inferior STEMIs (ST elevation in leads II, III, and aVF) are commonly associated with significant hypotension and bradycardia. Glyceryl trinitrate (GTN) should be avoided unless specifically directed by the on-call medical officer or Royal Flying Doctor Service (RFDS). Early fluid resuscitation should be initiated if indicated\n- Patients with a history of diabetes are at increased risk of atypical ACS presentations, including the absence of chest pain. High clinical suspicion is warranted in these patients, even in the absence of classic symptoms\n- Glyceryl Trinitrate (GTN) Administration and Risk of Hypotension\n- GTN administration can precipitate severe hypotension in susceptible patients, particularly those with right ventricular, inferior STEMI, bradycardia, though this is a rare event. Careful patient selection and monitoring are required\n- New onset angina should be considered unstable until proven otherwise, and managed promptly with appropriate risk stratification and intervention\n- Suspected ACS-related pain that has spontaneously resolved warrants investigation in hospital\n- If within the window for reperfusion, rapid transport or evacuation should organised",
+      "sortOrder": 2
+    },
+    {
+      "id": "acute-coronary-syndrome-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Reassurance (continuous)\n- Consider Oxygen (titrate to 95%)\n- Limit patients’ exertion as much as practically possible\n- Vital Sign Survey (monitor regularly including pre-and-post intervention pain scores)\n- 12 lead ECG where trained to do so\n- If STEMI or STEMI Equivalent, consider placement of defibrillation pads\n- Send ECG to on-call doctor for review\n- Aspirin (300mg)\n- Early Glyceryl Trinitrate (GTN) (if BP suitable)\n- Consider Secondary Survey",
+      "sortOrder": 3
+    },
+    {
+      "id": "acute-coronary-syndrome-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- 12 lead ECG\n- Consider alternative views (inferior V4R, V5R, V6R) (posterior V7, V8, V9, MCL1) where indicated\n- Gain vascular access, bilateral cannulas, 18g or wider bore Management Cont.\n- Consider appropriate analgesia (Fentanyl preferred in consultation with on-call doctor)\n- Consider antiemetic if required\n- Consider Enoxaparin in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "acute-coronary-syndrome-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- ESO’s should hold a low threshold for requesting further medical support\n- The terminology used in this cohort of presentations continues to change with STEMI also known as STEACS (ST segment elevation acute coronary syndrome) and NSTEACS (non- ST segment elevation acute coronary syndrome)",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "aspirin",
+    "glyceryl-trinitrate",
+    "heparin-sodium",
+    "morphine-sulphate",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "heart-score",
+    "sgarbossa-criteria",
+    "bazett-qtc",
+    "ecg-axis",
+    "news2"
+  ]
+}

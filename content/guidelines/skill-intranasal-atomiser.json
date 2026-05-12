@@ -1,0 +1,60 @@
+{
+  "id": "skill-intranasal-atomiser",
+  "title": "Intranasal Atomiser (MAD)",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "intranasal",
+    "MAD",
+    "mucosal atomiser",
+    "IN",
+    "fentanyl",
+    "midazolam",
+    "naloxone"
+  ],
+  "synonyms": [
+    "MAD",
+    "Mucosal Atomisation Device",
+    "IN Route",
+    "Intranasal Drug Delivery"
+  ],
+  "sections": [
+    {
+      "id": "skill-mad-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The mucosal atomisation device (MAD) delivers medication as a fine mist to the nasal mucosa for rapid systemic absorption, bypassing the need for IV access. Highly vascularised nasal mucosa allows absorption comparable to IM injection for many drugs. Commonly used for fentanyl, midazolam, and naloxone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-mad-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Draw up prescribed dose into syringe; attach MAD atomiser tip\n\n2. Tilt patient's head slightly back\n\n3. Insert MAD nozzle just inside one nostril (1 cm) — point toward the top/outer wall of nasal passage\n\n4. Apply firm, fast plunger pressure to atomise the dose (rapid, not slow push)\n\n5. If volume > 0.5 mL per nostril: split dose between both nostrils to maximise absorption surface area\n\n6. Maximum volume per nostril: 0.5–1 mL\n\n7. Gently press on the nostril for a few seconds after administration\n\n8. Document drug, dose, nostril(s) used, and time",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-mad-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Absolute maximum per nostril: 1 mL (larger volumes run off and reduce bioavailability)\n- If patient is bleeding from nose or has nasal congestion: reduced absorption — consider alternative route\n- Onset: fentanyl 5–10 min; midazolam 5–10 min; naloxone 5–10 min\n- Highly concentrated solutions are preferred (smaller volume = better absorption)\n- Do not use with patients who cannot breathe through nose (blocked, trauma)",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "midazolam",
+    "naloxone"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "opioid-toxicity",
+    "seizures"
+  ],
+  "relatedCalculatorIDs": [
+    "weight-based-dosing"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

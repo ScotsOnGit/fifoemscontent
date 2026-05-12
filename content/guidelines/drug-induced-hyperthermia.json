@@ -1,0 +1,72 @@
+{
+  "id": "drug-induced-hyperthermia",
+  "title": "Drug Induced Hyperthermia",
+  "category": "toxicology",
+  "tags": [
+    "drug",
+    "induced",
+    "hyperthermia",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Drug Induced Hyperthermia"
+  ],
+  "sections": [
+    {
+      "id": "drug-induced-hyperthermia-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Drug Induced Hyperthermia refers to elevated body temperature (>38.5°C or >101.3°F), resulting from pharmacologic agents that disrupt normal thermoregulation through increased heat production, reduced heat dissipation, or altered central control mechanisms, examples of which can be found in the additional information section of this guideline.",
+      "sortOrder": 0
+    },
+    {
+      "id": "drug-induced-hyperthermia-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Elevated core body temperature (>38.5°C; often >40°C in severe cases)\n- Tachycardia, hypertension, tachypnoea\n- Altered mental status (agitation, confusion, delirium)\n- Diaphoresis or hot, red, dry (in anticholinergic syndrome)\n- Seizures, myoclonus, tremors, rigidity, or clonus (depending on syndrome)\n- Rhabdomyolysis, renal failure, DIC, multiorgan failure (late/severe stages)",
+      "sortOrder": 1
+    },
+    {
+      "id": "drug-induced-hyperthermia-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigation why/how the overdose occurred is important to rule out self-harm\n- Objective is early identification, temperature control and supportive care\n- Antipyretics are ineffective in drug-induced hyperthermia (mechanism is non- pyrogenic)\n- Airway protection may be needed in severe agitation or seizure activity\n- Delay in cooling increases mortality initiate active cooling early",
+      "sortOrder": 2
+    },
+    {
+      "id": "drug-induced-hyperthermia-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey (continuous pulse oximetry)\n- Undress patient and initiate cooling (spray water over bare skin, fan, ice packs to neck, axilla and groin)\n- Consider cool oral fluids if tolerated (and no risk of aspiration)\n- Have a low threshold for consulting with on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "drug-induced-hyperthermia-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway where required\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG, continuous monitoring\n- Gain IV access\n- Cooled IV fluids (1ltr normal saline) where practicable\n- Consider Midazolam in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "drug-induced-hyperthermia-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "Syndrome Causative Drugs Serotonin Syndrome SSRIs, SNRIS, MAOIs, tramadol Neuroleptic Malignant Syndrome Antipsychotics (haloperidol), antiemetics (metoclopramide) Malignant Hyperthermia Inhaled anaesthetics (methoxyflurane) Sympathomimetic Toxicity Cocaine, amphetamines, MDMA, synthetic cathinones (bath salts) Anticholinergic Toxicity Antihistamines, tricyclic antidepressants, atropine, scopolamine Salicylate Toxicity Aspirin\n- Always offer engagement with Mind Matters or EAP if applicable",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "midazolam",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "heat-stress"
+  ]
+}

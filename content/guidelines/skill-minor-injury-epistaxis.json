@@ -1,0 +1,62 @@
+{
+  "id": "skill-minor-injury-epistaxis",
+  "title": "Minor Injury & Epistaxis",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "epistaxis",
+    "nosebleed",
+    "minor injury",
+    "laceration",
+    "wound",
+    "abrasion"
+  ],
+  "synonyms": [
+    "Nosebleed",
+    "Epistaxis",
+    "Minor Wounds",
+    "Minor Trauma"
+  ],
+  "sections": [
+    {
+      "id": "skill-epistaxis-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Epistaxis (nosebleed) is most commonly anterior (Little's area — Kiesselbach's plexus) and self-limiting. Posterior epistaxis is less common but more serious. Minor injuries include abrasions, lacerations, and contusions that do not require surgical intervention.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-epistaxis-procedure",
+      "type": "management_basic",
+      "title": "Epistaxis Management",
+      "content": "**Anterior epistaxis:**\n\n1. Patient sitting upright, leaning forward (prevents swallowing blood)\n\n2. Pinch the soft part of the nose (not the bony bridge) firmly\n\n3. Apply continuous pressure for 10–15 minutes\n\n4. Apply ice pack to bridge of nose\n\n5. Do not blow nose after bleeding stops\n\n**Persistent / posterior epistaxis:**\n- Nasal packing with ribbon gauze or epistaxis balloon (per scope)\n- Consider tranexamic acid (topical or systemic) per local protocol\n- Supine with airway monitoring if posterior bleed suspected",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-minor-wounds",
+      "type": "management_basic",
+      "title": "Minor Wound Management",
+      "content": "1. Apply direct pressure with sterile dressing\n\n2. Irrigate wound with normal saline under pressure\n\n3. Remove gross contamination with saline-soaked gauze\n\n4. Apply appropriate dressing\n\n5. Assess for retained foreign body, tendon or vessel injury\n\n6. Refer for formal wound closure if gaping, deep, or complex",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-epistaxis-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Consider anticoagulation / antiplatelet medication as a contributing factor\n- Posterior bleeds: blood visible in oropharynx, bilateral bleeding, failed anterior packing\n- Facial fracture: do not pack blindly — refer early\n- Document: site, duration, interventions, and clinical response",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [
+    "minor-injuries-epistaxis"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

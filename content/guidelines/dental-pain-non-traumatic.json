@@ -1,0 +1,63 @@
+{
+  "id": "dental-pain-non-traumatic",
+  "title": "Dental Pain (Non-Traumatic)",
+  "category": "common_presentations",
+  "tags": [
+    "dental",
+    "pain",
+    "traumatic",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Dental Pain (Non-Traumatic)"
+  ],
+  "sections": [
+    {
+      "id": "dental-pain-non-traumatic-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Dental pain (also known as odontogenic pain) refers to discomfort or pain originating from the teeth or their supporting structures. It is one of the most common reasons patients seek dental care and is a very common presentation to mine site clinics. Causes can include tooth decay, wisdom teeth eruption, dental abscess and gum disease.",
+      "sortOrder": 0
+    },
+    {
+      "id": "dental-pain-non-traumatic-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain ranges from mild ache to severe, throbbing pain; may be sharp, constant, or intermittent.\n- Sensitivity pain on exposure to hot/cold/sweet stimuli.\n- Swelling of the gum or face near the affected tooth.\n- Redness around the tooth or gums.\n- Difficulty chewing and aggravation of pain with biting or pressure.\n- Fever can sometimes be present with infection.\n- Pus or bad taste indicates possible abscess or infection.\n- Enlarged lymph nodes may be palpable in the jaw or neck region.",
+      "sortOrder": 1
+    },
+    {
+      "id": "dental-pain-non-traumatic-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Mine site clinics cannot provide effective dental care and gold standard care from a dentist (offsite) should be sought as first line. Medics can treat the symptoms in the first instance\n- Any suspected dental abscess should prompt offsite treatment\n- Consider utilising the Dentist in a Box Dental Emergency Kit if applicable/available for caries\n- Advise patients who smoke to try and avoid it whilst afflicted\n- Gargling salt water may provide some relief from mild toothache (don’t swallow)\n- Codeine: there is no good evidence that codeine (even in doses of 60 mg) is any more effective than paracetamol or NSAIDs, or improves analgesia when combined with paracetamol or an NSAID\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where appropriate",
+      "sortOrder": 2
+    },
+    {
+      "id": "dental-pain-non-traumatic-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs COMMONPRESENNCE\n\n- Secondary Survey (intra oral exam)\n- Consider over the counter analgesia if required (Paracetamol, Ibuprofen, benzocaine [Oral Eze])\n- Consider cold compress on the side of the face if swollen",
+      "sortOrder": 3
+    },
+    {
+      "id": "dental-pain-non-traumatic-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider stronger analgesia (Oxycodone, Tapentadol) in consultation with on-call doctor\n- Consider antimicrobials (Metronidazole) or antibiotics (Amoxycillin, Augmentin Duo Forte), if infective, only in consultation with on-call doctor\n- Consider ECG if pain is atypical COMMONPRESENNCE",
+      "sortOrder": 4
+    },
+    {
+      "id": "dental-pain-non-traumatic-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Sometimes lying flat can increase dental pain, if this is the case, advise to rest propped up on a pillow\n- Rarely, dental pain can be referred pain from other conditions such as sinusitis, temporomandibular disorders or cardiac pain, so reevaluate if symptoms are atypical",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

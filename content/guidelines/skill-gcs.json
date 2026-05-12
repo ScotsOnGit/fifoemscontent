@@ -1,0 +1,59 @@
+{
+  "id": "skill-gcs",
+  "title": "Glasgow Coma Scale (GCS)",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "GCS",
+    "Glasgow Coma Scale",
+    "consciousness",
+    "neurological",
+    "level of consciousness",
+    "disability"
+  ],
+  "synonyms": [
+    "Glasgow Coma Scale",
+    "GCS",
+    "Level of Consciousness"
+  ],
+  "sections": [
+    {
+      "id": "skill-gcs-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The Glasgow Coma Scale (GCS) is a standardised neurological assessment tool used to objectively measure and communicate a patient's level of consciousness. It assesses three components: Eye opening, Verbal response, and Motor response. Scores range from 3 (no response) to 15 (fully alert and oriented). It should be used in conjunction with pupil assessment and a clinical neurological examination.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-gcs-scoring",
+      "type": "management_basic",
+      "title": "Scoring",
+      "content": "**Eye Opening (E) — max 4**\n- 4: Spontaneous — eyes open without stimulation\n- 3: To voice — eyes open in response to verbal command\n- 2: To pain — eyes open to painful stimulus\n- 1: None — no eye opening\n- C: Eyes closed due to swelling (document as C, not scored)\n\n**Verbal Response (V) — max 5**\n- 5: Oriented — knows person, place, date\n- 4: Confused — sentences but disoriented\n- 3: Words — intelligible words but not sentences\n- 2: Sounds — incomprehensible sounds (moaning, groaning)\n- 1: None — no verbal response\n- T: Intubated / tracheostomy (document as T, not scored)\n\n**Motor Response (M) — max 6**\n- 6: Obeys commands — follows 2-step command\n- 5: Localises pain — moves purposefully toward pain source\n- 4: Withdraws — pulls away from pain in normal flexion\n- 3: Abnormal flexion (Decorticate) — flexion at elbow, wrist; adduction\n- 2: Extension (Decerebrate) — extension at elbow, wrist; internal rotation\n- 1: None — no motor response\n\n**Total GCS = E + V + M (3–15)**\n- 13–15: Mild impairment\n- 9–12: Moderate impairment\n- ≤ 8: Severe impairment — consider airway protection\n- 3: Deepest measurable unconsciousness",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-gcs-technique",
+      "type": "considerations",
+      "title": "Assessment Technique",
+      "content": "**Applying Painful Stimuli (if needed)**\n- Central stimulus (for motor): sternal rub, trapezius pinch, supraorbital ridge pressure\n- Peripheral stimulus (for localisation): nail-bed pressure using pen\n- Use minimal force necessary; document site used\n\n**Considerations:**\n- Assess before giving sedative or analgesic medications where possible\n- Intoxication, hypoglycaemia, hypothermia, and postictal state all affect GCS — document contributing factors\n- AVPU is a rapid screening tool; GCS provides more precise and reproducible detail\n- Serial GCS measurements are more valuable than a single score — document with timestamps\n- Deterioration of 2 or more GCS points is clinically significant",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-gcs-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Always document component scores (e.g. E3V4M5) not just the total\n- GCS ≤ 8: patient unable to protect airway — consider advanced airway management\n- In paediatric patients: use Paediatric GCS (modified verbal scoring for pre-verbal children)\n- GCS is not valid immediately post-seizure (postictal state) — reassess after recovery\n- Pupils are not part of the GCS but must always be assessed alongside it",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

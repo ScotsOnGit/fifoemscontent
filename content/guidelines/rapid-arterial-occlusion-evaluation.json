@@ -1,0 +1,32 @@
+{
+  "id": "rapid-arterial-occlusion-evaluation",
+  "title": "Rapid Arterial Occlusion Evaluation",
+  "category": "neurological",
+  "tags": [
+    "rapid",
+    "arterial",
+    "occlusion",
+    "evaluation",
+    "neurological"
+  ],
+  "synonyms": [
+    "Rapid Arterial Occlusion Evaluation"
+  ],
+  "sections": [
+    {
+      "id": "rapid-arterial-occlusion-evaluation-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The RACE scale is a tool used by paramedics and other prehospital personnel to quickly assess patients with suspected stroke and determine if they have a large vessel occlusion (LVO), a major cause of stroke. The scale includes five criteria, facial palsy, arm motor impairment, leg motor impairment, head and gaze deviation and aphasia-agnosia, The RACE scale has a higher sensitivity than other simpler scales.",
+      "sortOrder": 0
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "race-score"
+  ]
+}

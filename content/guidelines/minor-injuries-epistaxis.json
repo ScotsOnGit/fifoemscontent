@@ -1,0 +1,67 @@
+{
+  "id": "minor-injuries-epistaxis",
+  "title": "Minor Injuries & Epistaxis",
+  "category": "trauma",
+  "tags": [
+    "minor",
+    "injuries",
+    "epistaxis",
+    "trauma",
+    "injury",
+    "bleeding"
+  ],
+  "synonyms": [
+    "Minor Injuries & Epistaxis"
+  ],
+  "sections": [
+    {
+      "id": "minor-injuries-epistaxis-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "**Minor Injuries:**\n Minor injuries include superficial wounds, abrasions, minor lacerations, contusions, sprains, and simple fractures. These injuries are not immediately life-threatening but require appropriate assessment and management to prevent complications such as infection, further tissue damage, or functional loss.\n\n **Epistaxis:**\n Epistaxis, or nosebleed, is bleeding from the nasal cavity, nasopharynx, or nostrils. It is common, affecting up to 60% of people at least once in their lifetime. Most cases are benign and self-limiting, but severe or recurrent episodes may indicate underlying pathology or require advanced intervention",
+      "sortOrder": 0
+    },
+    {
+      "id": "minor-injuries-epistaxis-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Minor Injuries:**\n - Localized pain, swelling, or tenderness\n- Bruising (contusion)\n- Superficial bleeding (abrasion or laceration)\n- Limited range of motion (sprain)\n- Mild deformity (simple fracture)\n- No signs of shock or major trauma\n\n **Epistaxis:**\n - Bleeding from one or both nostrils\n- Blood in the throat or mouth\n- Swallowing or spitting blood\n- Nasal congestion or blockage\n- Dizziness or light-headedness (if blood loss is significant)\n- Pallor or signs of shock (rare, in severe cases\n- Nausea and Vomiting (frank blood)",
+      "sortOrder": 1
+    },
+    {
+      "id": "minor-injuries-epistaxis-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Aseptic technique should be used in the treatment of all open wounds\n- Swelling, bruising and deformity are classic signs of fractures. Grade 3 sprains can present this way, and you cannot go wrong treating these as fractures until proven otherwise\n- Epistaxis can be a result of increased blood pressure with no other signs\n- In terms of epistaxis, consider if the patient is on anticoagulant\n- If bleeding persists despite anterior measures, suspect posterior bleeding\n- Patients with posterior epistaxis may be bleeding more than can be seen\n- In a head-to-head study comparing TXA versus anterior packing with lignocaine/epinephrine alone, patients in the TXA group were more than twice as likely to experience cessation in bleeding with 10 minutes\n- Do not pack both nostrils simultaneously unless airway is secured",
+      "sortOrder": 2
+    },
+    {
+      "id": "minor-injuries-epistaxis-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n\n**Wound care:**\n - Control any external haemorrhage with direct pressure\n - Consider CoPhenylcaine the area for analgesia prior to cleaning\n - Ensure wounds cleaned with sterile water, chlorhexidine or other suitable solution\n - Remove visible debris (do not probe too deeply)\n - Cover wounds with suitable dressing (plaster, sterile gauze, etc.)\n\n**Sprains/strains:**\n - Grade I - Mild degree of ankle sprain: Slight tearing of the ligament with mild swelling\n - Grade II - Moderate degree of ankle sprain: incomplete tearing of the ligament with moderate pain and bruising\n - Grade III - Severe degree of ankle sprain: Complete tearing of the ligament with severe swelling, pain (walking is likely impossible), and bruising\n  - Consider compression for sprains, strains\n  - Elevate injury where practicable\n  - Consider ice to area for 2 minutes every 2 hours\n  - Advise rest\n - Ensure, where available, consultation with the onsite Health & Injury Prevention Advisor or Physio takes place\n\n**Simple fracture:**\n - Splint simple fractures\n\n**Epistaxis:**\n  - Sit patient in appropriate position, discourage swallowing blood to avoid nausea/vomiting\n  - Apply firm pressure with finger and thumb, or have patient perform this, to the nares (soft part of nose) for 10min\n  - Consider bolster beneath the nose to catch any blood\n  - Consider nasal spray containing oxymetazoline if stocked\n  - Consider CoPhenylcaine if bleeding continues\n  - Consider nasal packing if epistaxis continues\n\n - Consider OTC pain relief (paracetamol, ibuprofen [not in active bleeding])\n - Consider Methoxyflurane for pain\n - Assess for distal neurovascular compromise where appropriate\n - Vital signs in all patients\n - Consider secondary survey\n - Enquire about tetanus status where relevant",
+      "sortOrder": 3
+    },
+    {
+      "id": "minor-injuries-epistaxis-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "**Wound Care:**\n  - Consider Steri-strips, wound glue or suturing where appropriate\n\n **- Epistaxis**\n  - If direct pressure has failed, consider nasal packing with sterile dressing\n  - Consider applying IV preparation TXA to packing material in consultation with on- call doctor\n  - If bleeding persists despite anterior measures, suspect posterior bleeding\n - Consider antibiotics only in consultation with the on-call doctor\n - Consider analgesia",
+      "sortOrder": 4
+    },
+    {
+      "id": "minor-injuries-epistaxis-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Lithium dust, commonly generated during mining, can cause irritation and inflammation of the nasal passages, potentially leading to epistaxis\n- Epistaxis Patient education on prevention: humidification, gentle nose care, avoid trauma",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

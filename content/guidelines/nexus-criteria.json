@@ -1,0 +1,40 @@
+{
+  "id": "nexus-criteria",
+  "title": "Nexus Criteria",
+  "category": "trauma",
+  "tags": [
+    "nexus",
+    "criteria",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "Nexus Criteria"
+  ],
+  "sections": [
+    {
+      "id": "nexus-criteria-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The NEXUS Criteria (National Emergency X-Radiology Utilisation Study) represent a well- validated clinical decision aid that can be used to safely rule out cervical spine injury in alert, stable trauma patients without the need to obtain radiographic images.",
+      "sortOrder": 0
+    },
+    {
+      "id": "nexus-criteria-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- The NEXUS Criteria were developed to help physicians determine whether cervical spine imaging could be safely avoided in appropriate patients\n- Validation study included a prospective, observational sample of 34,069 patients, aged 1 to 101 years, presenting to 21 US trauma centres. 1.7% of those studied had clinically significant c-spine injuries (CSI). NEXUS Criteria found to have sensitivity of\n99.6% for ruling out CSI (2/578)\n- Also detected 99.0% (8/818) of ALL c-spine injuries (6 of which were injuries that didn’t require stabilization or specialised treatment)\n- Adopting this rule could decrease imaging in these patients by 12.6%\n- Subsequent studies have found a sensitivity of 83-100% for CSI with majority finding 90- 100% sensitivity",
+      "sortOrder": 1
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "nexus-criteria"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

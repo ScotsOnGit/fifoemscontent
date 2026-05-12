@@ -1,0 +1,73 @@
+{
+  "id": "tricyclic-antidepressants-toxicity",
+  "title": "Tricyclic Antidepressants Toxicity",
+  "category": "toxicology",
+  "tags": [
+    "tricyclic",
+    "antidepressants",
+    "toxicity",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Tricyclic Antidepressants Toxicity"
+  ],
+  "sections": [
+    {
+      "id": "tricyclic-antidepressants-toxicity-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Tricyclic antidepressants (TCAs) are used to treat depression, chronic pain, and other psychiatric or neurological conditions and be common medication. Examples include Examples include amitriptyline, nortriptyline, imipramine, and clomipramine. TCA toxicity most commonly results from intentional overdose and can be a life-threatening medical emergency due to its cardiotoxic and neurotoxic effects.",
+      "sortOrder": 0
+    },
+    {
+      "id": "tricyclic-antidepressants-toxicity-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Arrhythmias (tachycardia, heart blocks, VF, VT, asystole), ECG changes, Hypotension\n- Reduced level of consciousness, agitation, confusion, nystagmus\n- Dry, warm, flushed skin, hyperthermia, dilated pupils\n- Hyperreflexia, seizure, coma, death",
+      "sortOrder": 1
+    },
+    {
+      "id": "tricyclic-antidepressants-toxicity-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- 10mg/kg or more can potentially be life-threatening\n- Large overdoses/toxicity can lead rapidly into seizures, coma and death\n- Tricyclics + Alcohol ≈ Torsade De Pointes\n- QRS widens due to fast sodium channel blockade, >100ms is predictive of seizures and >160ms is predictive of ventricular tachycardia\n- It is unlikely that defibrillation will work, amiodarone and beta-blockers are contraindicated. Anti-arrhythmic drugs should be avoided",
+      "sortOrder": 2
+    },
+    {
+      "id": "tricyclic-antidepressants-toxicity-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey\n- Consider activated charcoal if presenting within one hour of ingestion and patient is GCS 15\n- Have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "tricyclic-antidepressants-toxicity-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway (Patients with a reduced GCS and increased heart rate and history of TCA exposure in the past 1-2 hours require immediate intubation. Contact on-call doctor or RFDS immediately)\n- Consider IPPV if required\n- Continuous cardiac monitoring, 12 LEAD ECG (ECG changes indicate sodium channel blockade)\n- R wave in LEAD AVR\n- Sinus Tachycardia\n- Increased QRS/QTc duration (QRS duration 120ms+ increases risk of seizures, 160ms+ increases risk of ventricular arrhythmias)\n- Gain IV access\n- Consider blood draw for i-STAT testing\n- Consider IV fluids if indicated\n- Consider sodium bicarbonate 8.4% in consultation with on-call doctor (1ml/kg repeated every 1-2 minutes to restore a perfusing rhythm)\n- IM/IV midazolam if seizure is evident (0.2mg/KG to a maximum of 10mg, titrated to effect)",
+      "sortOrder": 4
+    },
+    {
+      "id": "tricyclic-antidepressants-toxicity-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Always offer engagement with Mind Matters or EAP if applicable",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen",
+    "sodium-bicarbonate"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "news2"
+  ]
+}

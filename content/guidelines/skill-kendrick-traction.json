@@ -1,0 +1,54 @@
+{
+  "id": "skill-kendrick-traction",
+  "title": "Kendrick Traction Splint",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "Kendrick",
+    "traction splint",
+    "femur",
+    "midshaft femur fracture",
+    "KTS"
+  ],
+  "synonyms": [
+    "KTS",
+    "Kendrick Splint"
+  ],
+  "sections": [
+    {
+      "id": "skill-kts-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The Kendrick Traction Splint (KTS) is a compact, lightweight traction splint used for isolated midshaft femur fractures. Its compact folding design makes it suitable for confined-space rescue and air medical transport.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-kts-procedure",
+      "type": "management_advanced",
+      "title": "Application",
+      "content": "1. Provide analgesia\n\n2. Unfold and extend KTS to appropriate length (measured against uninjured leg)\n\n3. Position ischial pad at ischial tuberosity; secure proximal strap\n\n4. Apply ankle strap around foot/ankle\n\n5. Connect traction cord to ankle strap\n\n6. Apply gentle, steady traction by tightening ratchet or winch mechanism until pain is reduced\n\n7. Secure support straps along thigh\n\n8. Reassess neurovascular status",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-kts-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Same indications and contraindications as Fernotrac\n- Preferred in confined spaces and air transport due to compact design\n- Reassess traction during patient movement",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane",
+    "fentanyl"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "haemorrhage"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

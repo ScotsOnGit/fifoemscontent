@@ -1,0 +1,74 @@
+{
+  "id": "pelvic-injury",
+  "title": "Pelvic Injury",
+  "category": "trauma",
+  "tags": [
+    "pelvic",
+    "injury",
+    "trauma"
+  ],
+  "synonyms": [
+    "Pelvic Injury"
+  ],
+  "sections": [
+    {
+      "id": "pelvic-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Pelvic injuries are high-risk, potentially life-threatening occurrences in trauma, often resulting from significant energy transfer (e.g., crush, falls, vehicle incidents). Injuries can range from minor fractures to life-threatening injuries. Pelvic fractures are associated with significant morbidity and mortality due to potential haemorrhage, organ damage, and long-term functional impairment. Early recognition, accurate diagnosis, and timely management are critical in improving patient outcomes. This guideline provides evidence-based recommendations for the diagnosis, treatment, and management of pelvic injuries.",
+      "sortOrder": 0
+    },
+    {
+      "id": "pelvic-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Mechanism: High-energy trauma, crush, fall from height, or major vehicle incidents\n- Pain: Pelvic, lower back, hip, or groin pain—especially with movement or palpation\n- Visible signs: Bruising, swelling, deformity, wounds, or seatbelt marks over pelvis/lower abdomen\n- Leg features: Unequal leg length, abnormal external rotation, or inability to move lower limbs\n- Haemodynamic instability: Hypotension, tachycardia, or signs of shock with trauma history\n- Bleeding: Perineal, rectal, vaginal, or urethral bleeding or haematoma\n- Difficulty urinating or blood in urine\n- Neurological changes: Numbness, weakness, or loss of rectal tone (rare)\n- Undifferentiated / uncontrolled hypotension in significant trauma should be a high index of suspicion for intra-pelvic haemorrhage",
+      "sortOrder": 1
+    },
+    {
+      "id": "pelvic-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Any patient with hypotension and relevant mechanism of injury MUST be considered to have a TIME-CRITICAL pelvic injury\n- Haemorrhage from pelvic fracture is essentially bleeding into a free space, potentially capable of accommodating the patients entire blood volume without gaining sufficient pressure-dependent tamponade\n- High-energy mechanisms such as motor vehicle crashes or a fall from a height are major risk factors\n- Delayed recognition: Subtle signs may be missed, and clinical examination is unreliable, err on the side of caution if there is significant suggestive mechanism to cause a pelvic injury but the patient shows no signs of haemodynamic compromise/hypovolaemic shock and place the pelvic binder under the patient but leave open\n- Unnecessary movement and log rolling must be avoided where possible with less than a 15° tilt if required\n- Use of the scoop stretcher should be used to avoid log rolling\n - Abdominal, chest, femur, or head trauma are common with high-energy mechanisms\n- Where concurrent femur fracture is suspected prioritise pelvis treatment\n- Pelvic binders must be applied direct to skin (or nothing more than light underwear)\n- Ensure correct position over the greater trochanters prior to tension\n- Pelvic binders are often over-tensioned. Be cautious not to reduce the pelvis beyond its normal anatomical position\n- Prolonged tension can induce pressure necrosis\n- The use of the scoot stretcher is recommended to avoid log rolling the patient, unless extrication requires an extrication board\n- Pelvic springing must not be performed, repeated movement or palpation (“springing the pelvis”) increases bleeding risk",
+      "sortOrder": 2
+    },
+    {
+      "id": "pelvic-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic external haemorrhaging, consider pelvic injury as possible catastrophic bleed\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- If possible, expose and inspect for bruising, deformity, or bleeding, but limit further assessment if unstable\n- Utilise pelvic binder\n- Secondary / CNS Survey\n- Consider methoxyflurane\n- Consider sublingual antiemetic (Ondansetron Wafer 4mg)\n- Apply limb LEAD ECG\n- Have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "pelvic-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway management as required\n- Gain IV (2 x large bore)/ IO access\n- Consider Tranexamic Acid\n- Consider IV fluids\n- Consider further pain relief (Fentanyl, Morphine, Ketamine)\n- Consider IV antiemetic (Ondansetron 4mg/2ml)",
+      "sortOrder": 4
+    },
+    {
+      "id": "pelvic-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Hypotension\n- Urogenital injuries\n- In most instances, considerable force is required to fracture the pelvic bones, therefore associated intra-thoracic and intra-abdominal injuries should always be considered\n- Consider distracting injuries as part of the assessment",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "morphine-sulphate",
+    "oxygen",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "batt-score",
+    "news2"
+  ]
+}

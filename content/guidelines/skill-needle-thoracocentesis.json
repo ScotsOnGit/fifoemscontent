@@ -1,0 +1,52 @@
+{
+  "id": "skill-needle-thoracocentesis",
+  "title": "Needle Thoracocentesis",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "needle decompression",
+    "tension pneumothorax",
+    "thoracocentesis",
+    "chest decompression"
+  ],
+  "synonyms": [
+    "Needle Decompression",
+    "Needle Thoracocentesis",
+    "Chest Decompression"
+  ],
+  "sections": [
+    {
+      "id": "skill-ntc-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Needle thoracocentesis is an emergency procedure to decompress a life-threatening tension pneumothorax. It involves inserting a large-bore needle/cannula into the pleural space to release trapped air and relieve mediastinal shift. It is a temporising measure — finger thoracostomy is preferred in intubated patients.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-ntc-procedure",
+      "type": "management_advanced",
+      "title": "Procedure",
+      "content": "**Clinical diagnosis of tension pneumothorax:**\n- Haemodynamically compromised + respiratory distress\n- Absent or reduced breath sounds unilaterally\n- Tracheal deviation (late sign)\n- Distended neck veins (may be absent in hypovolaemia)\n- Mechanism consistent with pneumothorax\n\n**Site 1 — 2nd ICS, MCL (traditional):**\n\n1. Identify: 2nd intercostal space, midclavicular line\n\n2. Insert 14G (adult) or 16G (child) IV cannula over superior border of 3rd rib\n\n3. Rush of air confirms diagnosis\n\n4. Remove needle, leave cannula open (may apply flutter valve — Heimlich valve or glove finger)\n\n**Site 2 — 4th/5th ICS, AAL (preferred in obese/muscular patients):**\n- Same ICS as finger thoracostomy — better reliability",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-ntc-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Needle decompression may fail due to chest wall thickness — finger thoracostomy is more reliable\n- Monitor for re-tension — cannula can kink or clot\n- Do NOT wait for all classic signs — haemodynamic compromise + unilateral absent breath sounds in trauma is sufficient\n- Document: side, site, clinical findings, air released, patient response",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "pneumothorax",
+    "chest-trauma"
+  ],
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "unconsciousness",
+  "title": "Unconsciousness",
+  "category": "neurological",
+  "tags": [
+    "unconsciousness",
+    "neurological"
+  ],
+  "synonyms": [
+    "Unconsciousness"
+  ],
+  "sections": [
+    {
+      "id": "unconsciousness-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Unconsciousness refers to a state where a patient cannot be roused or do not respond to external stimuli, including sound, touch or other activities. Clinical unconsciousness can range from Syncope to coma. It is often associated with the patient having a Glasgow Coma Scale of 8 or less or being unresponsive on the AVPU scale. The condition requires immediate medical attention to address the underlying causes and stabilise the patient.",
+      "sortOrder": 0
+    },
+    {
+      "id": "unconsciousness-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Unarousable and unresponsive: No purposeful response to verbal or tactile stimuli; patient may only exhibit reflex movements\n- Absent or abnormal protective reflexes: Such as gag, cough, or swallowing\n- Varied respiratory patterns: Normal, irregular or absent breathing\n- Altered vital signs: May include hypotension, tachycardia, bradycardia, low or high blood sugar depending on underlying cause\n- Possible associated features: Seizures, trauma, incontinence, tongue biting, abnormal posturing, or evidence of drug/toxin exposure\n- Patients that cannot be roused or do not respond appropriately to external stimuli due to:\n  - Hypovolaemia\n  - Dysrhythmia\n  - Hypoxia\n  - Hypo/hyperglycaemia (hypoglycaemia may present as a focal neurological deficit or coma, whilst hyperglycaemia can lead to complications that can also result in unconsciousness.)\n  - Toxins / Overdose\n  - Hypo/hyperthermia\n  - Sepsis\n  - CVA / brain injury / infection / malignancy",
+      "sortOrder": 1
+    },
+    {
+      "id": "unconsciousness-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "**Scene Safety:**\n  - Prioritise the safety of all responders and bystanders before patient assessment or intervention\n  - Where feasible, establish the likely cause of unconsciousness before approaching, especially in confined spaces or hazardous environments. Atmospheric testing is recommended prior to entry if exposure to toxic gases, chemicals, or other environmental hazards are suspected\n\n- Obtain a detailed history from bystanders or witnesses regarding the onset of symptoms, preceding events, and any relevant environmental factors\n- Document current medications, recent drug or alcohol intake, and be alert to the possibility of polypharmacy or overdose\n- Identify relevant medical history, including chronic conditions, allergies, and the presence of medical alert devices or identification\n- Assess and manage airway compromise early\n- Assess and manage airway compromise as a priority. Consider both acute obstruction and aspiration risk, particularly in patients with active vomiting, excessive secretions, or altered mental status\n- All patients with an altered GCS (i.e. abnormal for the individual) should have a BGL test preformed and managed appropriately if symptomatic\n\n**Common causes:**\n  - Low brain oxygen: Hypoxia, cardiac arrest, respiratory failure\n  - Cardiovascular: Arrhythmias, myocardial infarction, syncope\n  - Metabolic: Hypoglycaemia, diabetic ketoacidosis, overdose, intoxication\n  - Neurological: Stroke, seizure, head injury, brain tumour, infection\n  - Potential for multi-system involvement: Trauma, intoxication, and medical conditions often coexist",
+      "sortOrder": 2
+    },
+    {
+      "id": "unconsciousness-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey with c-spine consideration\n- Manage catastrophic haemorrhage\n- Open, clear and maintain the airway\n- Suction if required\n- Insert oropharyngeal or nasopharyngeal airway (OPA/NPA)\n- Consider breathing pattern\n- Lateral position if unresponsive (use left lateral position for pregnant women). In unconscious trauma patients consider the Lateral Trauma Position\n- Oxygen, with assisted ventilation if required (be aware of inadequate tidal volume)\n- Full Vital Signs Survey, particularly GCS, BGL and Pulse Oximetry\n- Limb LEAD ECG\n- Complete Secondary Survey and manage injuries as required\n- Keep patient warm/initiate cooling where appropriate\n- Clinicians should have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "unconsciousness-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway if tolerating OPA/NPA\n- Apply cardiac monitor\n- Manage cardiac dysrhythmia where possible and acquire 12 lead ECG\n- Establishing vascular access\n- Consider obtaining blood for i-STAT sampling if time permits. Chem8 in all patients where practicable and available\n\n**Manage any abnormalities:**\n  - Medication, drug or other toxin toxicity\n  - Vital sign abnormalities\n  - Consider IV fluids",
+      "sortOrder": 4
+    },
+    {
+      "id": "unconsciousness-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Some pre-hospital procedures such as injections may precipitate dizziness in susceptible patients. Patient position should be considered to avoid potential injury\n- Unconsciousness of unknown cause should be presumed stroke until proven otherwise\n- Beware of QTc intervals >460msec in polypharmacy overdose and TBI; can be an early warning sign of dangerous dysrhythmia\n- See AEIOUTIPS for more information on possible cause",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "glucagon",
+    "glucose-10-intravenous",
+    "naloxone",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2"
+  ]
+}

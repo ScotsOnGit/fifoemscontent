@@ -1,0 +1,50 @@
+{
+  "id": "skill-rapid-antigen-testing",
+  "title": "Rapid Antigen Testing",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "rapid antigen test",
+    "RAT",
+    "COVID-19",
+    "influenza",
+    "point of care",
+    "infection",
+    "screening"
+  ],
+  "synonyms": [
+    "Rapid Antigen Test",
+    "RAT",
+    "Point of Care Testing",
+    "POCT"
+  ],
+  "sections": [
+    {
+      "id": "skill-rat-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Rapid Antigen Tests (RATs) are point-of-care diagnostic tests that detect specific antigens — most commonly for SARS-CoV-2 (COVID-19) and influenza A/B — in minutes using nasopharyngeal, nasal, or throat swabs. In the prehospital setting, RATs inform PPE decisions, infection control measures, transport destination planning, and clinical management.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-rat-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "**Equipment**\n- RAT kit (check expiry date and storage conditions)\n- PPE: gloves, mask, eye protection (standard precautions minimum)\n- Appropriate swab as per kit instructions (nasal, throat, or combined)\n\n**Procedure (Nasal Swab — most common):**\n1. Don appropriate PPE\n2. Explain procedure to patient; obtain consent\n3. Remove swab from sealed packaging\n4. Insert swab approximately 2–3 cm into one nostril\n5. Rotate swab 5 times against the nasal wall; repeat in second nostril with same swab\n6. Remove swab, insert into extraction tube and rotate 5 times while pressing against tube walls\n7. Squeeze out liquid from swab before withdrawing\n8. Apply 3–4 drops to the test device window as directed\n9. Read result at the time specified by the manufacturer (typically 15 minutes)\n10. Do not read after the specified time window\n\n**Result Interpretation:**\n- **Positive (2 lines — C and T)**: Antigen detected — treat as positive, apply appropriate infection control\n- **Negative (1 line — C only)**: Antigen not detected — does not exclude infection; correlate with clinical presentation\n- **Invalid (no C line or no lines)**: Test failed — repeat with new kit",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-rat-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Sensitivity of RATs is lower than PCR — a negative RAT does not exclude infection\n- Positive RAT has high specificity — treat as confirmed in symptomatic patients\n- A negative RAT in a patient with high clinical suspicion should be managed as if positive until confirmed otherwise\n- Follow local health authority guidelines for mandatory reporting of positive results\n- Dispose of all test materials as per biohazard/infectious waste protocols\n- Document result, time, and kit lot number in patient record",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "acute-aortic-dissection",
+  "title": "Acute Aortic Dissection",
+  "category": "cardiac",
+  "tags": [
+    "acute",
+    "aortic",
+    "dissection",
+    "cardiac",
+    "heart"
+  ],
+  "synonyms": [
+    "Acute Aortic Dissection"
+  ],
+  "sections": [
+    {
+      "id": "acute-aortic-dissection-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Acute Aortic Dissection is a rare but extremely serious vascular emergency that can be challenging to diagnose in the pre-hospital setting. Occurs when the innermost layer of the aorta tears, resulting in the separation of the vessel layers and creation of a false lumen in the aorta wall. Any abrupt chest, back or abdominal pain described as ripping or tearing in nature and that is associated with evidence of perfusion deficits or focal neurological signs (nerve, spinal cord, or brain) should be considered as an acute aortic dissection until proven otherwise. Chest pain in the presence of an upper limb weakness is aortic dissection until proven otherwise.",
+      "sortOrder": 0
+    },
+    {
+      "id": "acute-aortic-dissection-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Sudden acute chest pain that is excruciating at onset and is often described as sharp, ripping or tearing in quality, but is sometimes tight in nature and can be difficult to distinguish from angina\n- Pain is linked to the location of the dissection:\n  - Anterior: ascending aorta\n  - Neck / jaw: arch of aorta\n  - Interscapular: descending aorta\n  - Lumbar / abdominal: Subdiaphragmatic\n  - Pulse deficits between heart beats\n  - Significant systolic BP differences between limbs may be present\n  - Pallor, vomiting and diaphoresis\n  - Neurological deficits: limb weakness, numbness, tingling, pain or paraplegia\n  - Chest pain with associated neurological symptoms\n  - Syncope\n  - Shock (hypotension, hypovolaemia, tamponade)",
+      "sortOrder": 1
+    },
+    {
+      "id": "acute-aortic-dissection-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Proximal acute aortic dissection may affect coronary arteries and potentially mimic an acute myocardial infarction (AMI)\n- Differential diagnosis include AMI, pulmonary embolism, spontaneous pneumothorax, pleurisy, Pericarditis/Myocarditis, CVA, and acute abdomen\n- Lethal complications associated with acute aortic dissection include aortic rupture, cardiac tamponade and visceral ischemia",
+      "sortOrder": 2
+    },
+    {
+      "id": "acute-aortic-dissection-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary survey\n- Position patient appropriately\n- Conduct vital sign survey, particularly bilateral BP\n- Consider oxygen therapy if indicated\n- Consider antiemetic\n- Contact on-call Dr as soon as practicable",
+      "sortOrder": 3
+    },
+    {
+      "id": "acute-aortic-dissection-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Apply cardiac monitor\n- Apply defib pads\n- Establish large bore vascular access\n- Consider fluid therapy if hypotensive\n- Administer suitable pain relief as soon as practicable",
+      "sortOrder": 4
+    },
+    {
+      "id": "acute-aortic-dissection-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Increased risk in males, >50 years of age, history of hypertension, cardiac or valvular surgery, cardiac catheterisation, drug use, stress and blunt trauma\n- Medical conditions affecting the connective tissue, for example, Marfan’s syndrome\n- Increased risk in pregnancy\n- Risk of rapid clinical deterioration\n- Risk of cardiac arrest\n- There is little direct evidence of the effectiveness of TXA for dissecting aortic aneurysm",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "morphine-sulphate",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "ecg-axis"
+  ]
+}

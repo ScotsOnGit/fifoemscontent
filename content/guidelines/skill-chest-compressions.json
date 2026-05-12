@@ -1,0 +1,65 @@
+{
+  "id": "skill-chest-compressions",
+  "title": "Chest Compressions (CPR)",
+  "category": "skills",
+  "skillsSubcategory": "circulation",
+  "tags": [
+    "CPR",
+    "chest compressions",
+    "cardiac arrest",
+    "resuscitation",
+    "BLS"
+  ],
+  "synonyms": [
+    "CPR",
+    "Cardiopulmonary Resuscitation",
+    "BLS",
+    "Basic Life Support"
+  ],
+  "sections": [
+    {
+      "id": "skill-cpr-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "High-quality chest compressions are the cornerstone of resuscitation. They generate approximately 25–30% of normal cardiac output and maintain cerebral and myocardial perfusion during cardiac arrest. Minimising interruptions to compressions is one of the most important modifiable factors in survival.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-cpr-adult",
+      "type": "management_basic",
+      "title": "Adult Technique",
+      "content": "**Position:**\n\n1. Patient supine on firm surface\n\n2. Kneel beside patient at chest level\n\n3. Place heel of hand on lower half of sternum (centre of chest)\n\n4. Place second hand on top; interlace fingers; keep fingers off chest\n\n**Compressions:**\n\n- Depth: 5–6 cm\n- Rate: 100–120/min\n- Full chest recoil between compressions — do not lean\n- Compression:ventilation ratio: 30:2 (BLS); continuous compressions with 1 breath/6 sec (advanced airway)\n- Minimise interruptions — pause < 5 seconds for any intervention",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-cpr-paed",
+      "type": "management_basic",
+      "title": "Paediatric Technique",
+      "content": "**Infant (< 1 year):**\n- Two-finger technique (single rescuer) or two-thumb encircling technique (two rescuers)\n- Depth: 4 cm (approximately ⅓ AP diameter)\n- Rate: 100–120/min\n- Ratio: 15:2 (two rescuers) or 30:2 (single rescuer)\n\n**Child (1 year to puberty):**\n- One or two-hand technique depending on size\n- Depth: 5 cm (approximately ⅓ AP diameter)\n- Rate: 100–120/min\n- Ratio: 15:2 (two rescuers)",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-cpr-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Rotate compressor every 2 minutes to maintain quality\n- Use feedback device if available (metronome, CPR prompt)\n- Do not stop compressions to check rhythm unless defibrillator is charged and ready\n- Consider mechanical CPR device for prolonged resuscitation or during transport\n- CPR fraction > 80% is associated with improved survival",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "amiodarone",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "adult-resuscitation",
+    "traumatic-resuscitation-algorithm"
+  ],
+  "relatedCalculatorIDs": [
+    "avpu",
+    "gcs"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "skill-bvm-ventilation",
+  "title": "Bag Valve Mask (BVM) Ventilation",
+  "category": "skills",
+  "skillsSubcategory": "breathing",
+  "tags": [
+    "BVM",
+    "bag valve mask",
+    "ventilation",
+    "airway",
+    "resuscitation",
+    "manual ventilation"
+  ],
+  "synonyms": [
+    "BVM",
+    "Bag Mask Ventilation",
+    "Manual Ventilation"
+  ],
+  "sections": [
+    {
+      "id": "skill-bvm-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Bag valve mask (BVM) ventilation delivers positive-pressure breaths to patients who are apnoeic or have inadequate respiratory effort. It is a fundamental airway skill used in resuscitation and pre-intubation management. Effective BVM ventilation requires a patent airway, a good mask seal, and appropriate tidal volume.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-bvm-equipment",
+      "type": "management_basic",
+      "title": "Equipment",
+      "content": "- BVM device (adult: 1500 mL bag; paediatric: 500 mL bag)\n- Appropriate mask size (fits bridge of nose to chin cleft)\n- Oxygen supply and tubing\n- Oropharyngeal (OPA) or nasopharyngeal (NPA) airway adjunct\n- Suction available",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-bvm-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "**Single-rescuer technique:**\n\n1. Position patient supine; open airway with head-tilt chin-lift (or jaw thrust if spinal precautions)\n\n2. Insert OPA/NPA if tolerated\n\n3. Select correct mask size\n\n4. Apply mask using C-E grip: thumb and index finger form 'C' over mask; remaining three fingers form 'E' under mandible to lift jaw\n\n5. Maintain seal while squeezing bag with other hand\n\n6. Deliver breath over 1 second — enough to produce visible chest rise\n\n7. Rate: 10–12/min adult (1 breath every 5–6 seconds); 12–20/min paediatric\n\n**Two-rescuer technique (preferred):**\n\n1. Rescuer 1: applies mask with both hands using two-thumb technique for superior seal\n\n2. Rescuer 2: squeezes bag\n\n**Tidal volume:** ~500–600 mL adult (approximately half to two-thirds bag squeeze)",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-bvm-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Avoid over-ventilation — excessive tidal volume causes gastric insufflation and aspiration risk\n- Attach oxygen at 15 L/min with reservoir bag for FiO₂ ~0.85\n- If chest does not rise: reposition head, reassess seal, check for obstruction, suction\n- Consider 2-person technique whenever possible — significantly improves tidal volume delivery\n- During CPR: 30:2 ratio (unsynchronised) or 1 breath per 6 seconds with continuous compressions (advanced airway in place)",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "adult-resuscitation",
+    "dyspnoea",
+    "asthma"
+  ],
+  "relatedCalculatorIDs": [
+    "ventilation-suite",
+    "paed-vitals"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

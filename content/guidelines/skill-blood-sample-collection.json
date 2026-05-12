@@ -1,0 +1,63 @@
+{
+  "id": "skill-blood-sample-collection",
+  "title": "Prehospital Blood Sample Collection",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "blood sample",
+    "venepuncture",
+    "blood tubes",
+    "pathology",
+    "phlebotomy",
+    "prehospital"
+  ],
+  "synonyms": [
+    "Blood Draw",
+    "Venepuncture",
+    "Phlebotomy",
+    "Blood Tubes"
+  ],
+  "sections": [
+    {
+      "id": "skill-blood-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Prehospital blood collection allows early laboratory processing, reducing time to diagnosis on arrival at hospital. Samples are typically collected during IV cannulation to avoid a second venepuncture. Common panels include FBC, UEC, coagulation, blood culture, lactate, and crossmatch.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-blood-tubes",
+      "type": "management_basic",
+      "title": "Common Blood Tubes",
+      "content": "**Order of draw (to prevent additive cross-contamination):**\n1. Yellow/gold (SST — Serum Separator): biochemistry, LFTs, troponin\n2. Blue (Citrate): coagulation, INR, APTT\n3. Green (Lithium Heparin): urgent biochemistry, ionised calcium\n4. Purple/lavender (EDTA): FBC, crossmatch\n5. Pink (EDTA for blood bank): group & crossmatch (separate tube)\n6. Grey (Fluoride Oxalate): glucose, lactate\n\n**Common prehospital request:** FBC, UEC, coagulation, crossmatch, troponin, lactate",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-blood-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Collect during IV cannulation when possible (wastes less blood, one venepuncture)\n\n2. Prior to connecting giving set: attach blood tube holder to cannula hub\n\n3. Insert tubes in correct order of draw\n\n4. Fill each tube to fill line — invert additive tubes gently 8–10 times to mix\n\n5. Label tubes immediately at bedside with: patient name, DOB, date, time, collector ID\n\n6. Store per local protocol (room temperature or refrigerated depending on test)\n\n7. Document sample collection in patient record",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-blood-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Mislabelling is the most common and serious error in phlebotomy\n- Do not collect from same limb as IV infusion (dilutes sample)\n- Haemolysis (from excessive vacuum, vigorous mixing, or difficult draw) invalidates potassium, LDH, and some other results\n- Crossmatch samples must be labelled at the bedside — never away from the patient",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "sepsis-septic-shock",
+    "haemorrhage",
+    "acute-coronary-syndrome"
+  ],
+  "relatedCalculatorIDs": [
+    "poc-chem8plus",
+    "poc-cg8plus"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

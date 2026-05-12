@@ -1,0 +1,76 @@
+{
+  "id": "chest-trauma",
+  "title": "Chest Trauma",
+  "category": "trauma",
+  "tags": [
+    "chest",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "Chest Trauma"
+  ],
+  "sections": [
+    {
+      "id": "chest-trauma-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Chest trauma refers to injury to the chest wall, lungs, heart, or major blood vessels, caused by blunt or penetrating mechanisms. Penetrating trauma involves an object piercing the chest, potentially causing direct injury to internal organs and structures. Both blunt and penetrating chest trauma can rapidly become life-threatening without prompt recognition and intervention. Half of all traumatic deaths have some form of chest injury with most thoracic trauma resulting from blunt force.",
+      "sortOrder": 0
+    },
+    {
+      "id": "chest-trauma-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Penetrating trauma: entry/exit wound, external bleeding may be evident, internal bleed may be occult\n- Blunt trauma: Contusions/abrasions, haematoma, obvious fractures\n- Extreme Tachypnoea, haemoptysis\n- Bubbling or sucking wounds, surgical emphysema, unequal air entry, asymmetrical or paradoxical chest wall movement, chest hypomobility\n- Tracheal shift, jugular vein distension\n- Altered level of consciousness\n- Cardiac dysrhythmias, ECG changes, hypotension, muffled heart sounds\n- Signs of shock: confusion, agitation, decreased consciousness, low blood pressure, rapid weak pulses, pale, cool, clammy",
+      "sortOrder": 1
+    },
+    {
+      "id": "chest-trauma-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not delay transport for minor interventions if the patient is unstable. Definitive care is in hospital\n- Life-threatening injuries may not be initially apparent, and the mechanism of injury is important in guiding further management. Mechanism of injury can predict severity and associated injuries\n- Chest injuries may coexist with abdominal, head, or spinal injuries\n- Penetrating trauma increases risk for pneumothorax, hemothorax, cardiac tamponade, and major vessel injury\n- Penetrating injuries to the chest can cause rapid decompensation. Early recognition and intervention are critical\n- Lack of obvious fractures does not exclude injury\n- Injuries sustained depend on the mechanism\n- Chest pain in trauma can be due can be due to myocardial ischemia, but blunt trauma can precipitate ECG changes as seen in myocardial contusion\n - Adequate analgesia may improve ventilation by allowing improved chest wall expansion, but high dose of opioids may induce respiratory depression\n- Pain inhibits effective coughing, making it difficult for patients to clear airway secretions.\nRetained secretions further increase the risk of atelectasis (collapsed lung segments) and create an environment for bacterial growth. Analgesia is crucial for adequate ventilation and prevention of pneumonia. It is considered an essential component of chest trauma management and should be initiated as early as possible",
+      "sortOrder": 2
+    },
+    {
+      "id": "chest-trauma-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure the scene is safe, responder safety is paramount\n- Control catastrophic haemorrhage\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Immobilisation of impaled objects and positioning if required (do no remove object)\n- Cover open chest wounds with a chest seal\n- Secondary / CNS Survey\n- Clinicians should have a low threshold for calling current poison permit holder or RFDS",
+      "sortOrder": 3
+    },
+    {
+      "id": "chest-trauma-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advance airway if indicated\n- Gain 2 x large bore IV access\n- Consider fluids where indicated\n- Administer pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Consider IV antibiotics\n- Patients in cardiac arrest with suspected tension pneumothorax caused by trauma (with torso involvement) to receive needle thoracentesis if trained to do so\n- Arrested and non-arrested patients with signs of pulmonary barotrauma and are suspected of having tension pneumothorax should receive surgical decompression by finger thoracostomy if trained to do so",
+      "sortOrder": 4
+    },
+    {
+      "id": "chest-trauma-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "**Open chest wounds:**\n   - Covering with an occlusive dressing taped on 3 sides only allow air to escape but not enter the chest\n   - If signs of respiratory distress worsen (indicating tension pneumothorax) try removing the dressing from the wound. If this does not help, treat as an absolute emergency\n\n**Impaled objects:**\n   - Leave them in place and stabilise, seal around the base of the object with sterile dressings\n\n**Closed injury:**\n   - Stabilise rib fractures with patient positioned towards injured side, in a position of comfort\n   - Stabilise a flail sternum with the flat of a gentle supporting hand\n  - The major life-threatening injuries in thoracic trauma can be found in the mnemonic ATOMFC (airway obstruction/aortic injuries, tension pneumothorax, open pneumothorax with sucking chest wound, massive haemothorax, flail chest and/or cardiac tamponade",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "methoxyflurane",
+    "morphine-sulphate",
+    "oxygen",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "mgap",
+    "gap",
+    "crams",
+    "batt-score",
+    "news2"
+  ]
+}

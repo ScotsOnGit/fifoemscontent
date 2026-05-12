@@ -1,0 +1,52 @@
+{
+  "id": "skill-functional-status-assessment",
+  "title": "Functional Status Assessment",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "functional status",
+    "ADL",
+    "frailty",
+    "activities of daily living",
+    "baseline",
+    "chronic illness",
+    "rehabilitation"
+  ],
+  "synonyms": [
+    "Functional Status Assessment",
+    "ADL Assessment",
+    "Frailty Assessment",
+    "Baseline Function"
+  ],
+  "sections": [
+    {
+      "id": "skill-functional-status-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Functional status assessment evaluates a patient's ability to perform activities of daily living (ADLs) and instrumental activities of daily living (IADLs) at their baseline. In the prehospital setting, it provides essential context for interpreting clinical findings, guides resuscitation goals discussion, informs transport decisions, and helps identify acute deterioration from baseline.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-functional-status-adl",
+      "type": "management_basic",
+      "title": "Assessment Domains",
+      "content": "**Basic ADLs (physical self-care):**\n- Mobility: walking unaided, use of walking aid, wheelchair dependent, bed-bound\n- Transfers: independent, requires assistance, hoisted\n- Continence: continent, uses pads, catheterised, incontinent\n- Feeding: independent, requires assistance\n- Bathing/grooming: independent, requires assistance\n- Dressing: independent, requires assistance\n\n**Instrumental ADLs (complex daily activities):**\n- Meal preparation, shopping, housework\n- Medication management: takes independently, supervised, administered by carer\n- Financial management, telephone use\n- Driving / use of transport\n\n**Cognitive Baseline:**\n- Lives alone or with carer?\n- Known dementia or cognitive impairment?\n- Usual orientation and communication ability\n- Any recent change in cognitive function\n\n**Frailty Screening (Clinical Frailty Scale):**\n- 1–2: Fit to mildly vulnerable\n- 3–4: Managing well to vulnerable (some dependence)\n- 5–6: Mildly to moderately frail\n- 7–8: Severely frail to very severely frail\n- 9: Terminally ill\n\n**Current vs Baseline Comparison:**\n- Key question: 'How does this compare to how they normally function?'\n- Acute decline from baseline is clinically significant regardless of absolute score",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-functional-status-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Functional status provides essential context for frail, elderly, and chronically ill patients\n- A previously independent patient who is now bed-bound indicates significant acute illness\n- Functional status informs resuscitation decisions — document baseline carefully\n- Collateral history from family, carers, or residential facility staff is often invaluable\n- Advance care directives, DNAR orders, or resuscitation plans should be identified and documented\n- The Clinical Frailty Scale score should be documented for all patients > 65 years or those with chronic illness",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "clinical-frailty-scale"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

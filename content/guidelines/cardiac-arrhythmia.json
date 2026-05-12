@@ -1,0 +1,75 @@
+{
+  "id": "cardiac-arrhythmia",
+  "title": "Cardiac Arrhythmia",
+  "category": "cardiac",
+  "tags": [
+    "cardiac",
+    "arrhythmia",
+    "heart"
+  ],
+  "synonyms": [
+    "Cardiac Arrhythmia"
+  ],
+  "sections": [
+    {
+      "id": "cardiac-arrhythmia-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cardiac arrhythmias are abnormal heart rhythms that occur when the electrical signals that coordinate the heart's beats do not work properly. The normal heart rate is usually between 60 and 100 beats per minute. These disturbances can cause the heart to beat too fast (tachycardia), too slow (bradycardia), or irregularly. Arrhythmias can be harmless or life-threatening, depending on their type and severity. Management strategies depend on the type and severity of the arrhythmia, including pharmacologic therapy, electrical cardioversion, or electrical pacing as examples.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cardiac-arrhythmia-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Unstable Bradycardia** (HR <60 bpm):\n  - Signs: Hypotension (<90 mmHg), altered mental status, cool/pale skin, poor perfusion\n  - Symptoms: Dizziness, chest pain, shortness of breath, fatigue, syncope\n\n**Unstable Tachycardia** (HR >100 bpm, often >150 bpm):\n  - Signs: Hypotension (<90 mmHg), signs of shock, altered mental status\n  - Symptoms: Chest pain, palpitations, shortness of breath, syncope\n\n**Supraventricular Tachycardia (SVT)**:\n  - Regular, narrow complex tachycardia\n  - Symptoms: Palpitations, lightheadedness, chest discomfort\n\n**Atrial Fibrillation (AF)**:\n  - Irregular, narrow complex tachycardia\n  - Symptoms: Palpitations, fatigue, breathlessness, dizziness\n\n**Broad Complex Tachycardia** (suspected VT):\n  - Regular, wide complex tachycardia — treat as VT until proven otherwise\n\n**Torsades de Pointes**:\n  - Polymorphic VT, associated with prolonged QT interval",
+      "sortOrder": 1
+    },
+    {
+      "id": "cardiac-arrhythmia-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Any of the following management should be made with consultation with either the current MinRes poison permit holder or with the Royal Flying Doctor Service (RFDS)\n- All patients that present with bradycardia of cardiac aetiology must receive a comprehensive clinical assessment that includes dynamically assessing all pertinent vital signs, performing a 12 LEAD ECG and attaining a thorough patient history\n- Bradycardia can be induced by numerous processes which include ACS, toxicology/toxinology exposure, sepsis, trauma, environmental exposure, electrolyte imbalance and endocrine disorders\n- All anti-arrhythmic treatments (physical [vagal] manoeuvres, drugs, cardioversion, pacing) have the potential to make the rhythm worse rather than better, causing clinical deterioration. Furthermore, most anti-arrhythmic drugs cause myocardial depression, which may worsen heart failure or hypotension",
+      "sortOrder": 2
+    },
+    {
+      "id": "cardiac-arrhythmia-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Continuous reassurance\n- Limit patients’ exertion as much as is practicable\n- Vital Signs (monitor regularly including pre-and-post intervention pain scores)\n- Consider Oxygen if indicated\n- ECG\n- Consider Secondary Survey",
+      "sortOrder": 3
+    },
+    {
+      "id": "cardiac-arrhythmia-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- 12 lead ECG\n- Vascular access\n- Consider blood draw for troponin if not time critical\n- Consider appropriate analgesia\n- Consider anti-emetic\n\n**Unstable Bradycardia:**\n  - Address reversible causes\n  - If inferior/right ventricular MI with bradycardia and hypotension, consider Atropine and IV fluids for cardiogenic shock (in consultation with on-call doctor)\n  - Manage hypovolaemia, hypoxia and toxins as indicated\n  - Consider atropine and/or electrical pacing (in consultation with on-call doctor)\n\n**Unstable Tachycardia:**\n  - Consider patient in peri-arrest state; apply defib pads\n  - Synchronised cardioversion with appropriate sedation (in consultation with on-call doctor)\n\n**Supraventricular Tachycardia (regular, narrow complex):**\n  - Modified Valsalva in the first instance where appropriate\n  - Consider Metoprolol (in consultation with on-call doctor)\n  - Consider Adenosine only in unstable patient (in consultation with on-call doctor)\n\n**Narrow Complex Tachycardia (irregular):**\n  - If Atrial Fibrillation, IV fluids may cause reversion to sinus rhythm\n  - Consider Amiodarone (in consultation with on-call doctor)\n  - Consider Metoprolol for rate control (in consultation with on-call doctor)\n  - IV Magnesium may be considered (in consultation with on-call doctor)\n\n**Broad Complex Tachycardia (regular):**\n  - Synchronised cardioversion with appropriate sedation (in consultation with on-call doctor)\n  - If cardioversion unsuccessful, consider Amiodarone (in consultation with on-call doctor)\n\n**Torsades de Pointes:**\n  - Consider Magnesium Sulphate (in consultation with on-call doctor)",
+      "sortOrder": 4
+    },
+    {
+      "id": "cardiac-arrhythmia-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Resuscitation equipment should be at hand for any of the above presentations\n- Consideration should be made that any unstable patient is peri-arrest and time critical.\n- ESO’s should have a very low threshold for calling for help\n- Clinical deterioration is likely\n- Adenosine has a very short half-life. It should be administered rapidly, via a 3-way tap, followed by a saline flush, through a large bore IV (18 – 14g) as close to the heart as practicable, such as the cubital fossa",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "amiodarone",
+    "atropine-sulphate",
+    "lignocaine-1",
+    "midazolam",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "sgarbossa-criteria",
+    "chadsvasc",
+    "news2"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "altered-level-of-consciousness",
+  "title": "Altered Level of Consciousness",
+  "category": "neurological",
+  "tags": [
+    "altered",
+    "level",
+    "consciousness",
+    "neurological"
+  ],
+  "synonyms": [
+    "Altered Level of Consciousness"
+  ],
+  "sections": [
+    {
+      "id": "altered-level-of-consciousness-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Altered level of consciousness (ALOC) refers to any change from a patient’s baseline alertness, orientation, or responsiveness. It may range from mild confusion to complete unresponsiveness (coma). ALOC is not a diagnosis but a symptom of an underlying condition which can include metabolic disturbances (hypo/hyperglycaemia), hypoxia, head injuries, CVA/TIA, seizures, intoxication (drugs, alcohol), infection, shock or toxins.",
+      "sortOrder": 0
+    },
+    {
+      "id": "altered-level-of-consciousness-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Reduced alertness or responsiveness, patient may be confused, dizzy or light-headed, drowsy, or unrousable\n- Disorientated with inability to recognise time, place, or people\n- Abnormal behaviour, anxious, restless, sleepy, sleep like state or comatose\n- Inability to follow commands, may be unable to respond to verbal or painful stimuli\n- Abnormal motor responses and may include posturing, seizures, or flaccidity\n- Pupillary abnormalities, abnormal breathing patterns, or evidence of trauma\n- Pallor, sweaty, nausea, palpitations\n- Full recovery after a few minutes",
+      "sortOrder": 1
+    },
+    {
+      "id": "altered-level-of-consciousness-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The differential for ALOC can be broad\n\n**Consideration should be given to:**\n  - Intracranial pathologies such as CVA, subarachnoid haemorrhage, intracerebral haemorrhage, meningitis, encephalitis, post-ictal, status epilepticus, Wernicke- Korsakoff, hypertensive encephalopathy\n  - Extra-Cranial pathologies such as dys/arrythmia, blood glucose deficits, electrolyte imbalances, sedatives, opiate, or anticonvulsant medications, infection, sepsis, environmental conditions, hypoxia, substance abuse, substance/medication withdrawal, factitious or psychiatric disorder",
+      "sortOrder": 2
+    },
+    {
+      "id": "altered-level-of-consciousness-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey\n- Consider patient positioning, spinal precautions if indicated\n- Consider Oxygen if indicated Vital Sign Survey\n- Manage reversible causes (i.e., blood glucose, arrythmia, hypoxia, hypo/hyperthermia) if found to be evident\n\n- Consider IM naloxone in suspected opiate toxicity in consultation with on-call doctor\n- Keep patient warm\n- Secondary/CNS Survey, FAST, cranial nerve assessment\n- Clinicians should have low threshold for calling the on-call doctor if there are no improvement to simple procedures and/or treatments",
+      "sortOrder": 3
+    },
+    {
+      "id": "altered-level-of-consciousness-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway where indicated\n- Apply cardiac monitor\n- Manage cardiac dysrhythmia\n- A 12 lead ECG should be acquired in most, if not all these patients\n- If indicated, gain vascular access\n- Consider obtaining pre-hospital blood sample for i-STAT if time permits\n- Consider IV fluids if indicated\n- Consider IV naloxone, titrate to effect (no large boluses) in suspected opiate toxicity, if IM not previously given, in consultation with on-call doctor\n- Consider benzodiazepines (titrated to effect) if seizure activity evident in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "altered-level-of-consciousness-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- ALOC may fluctuate with time and response to treatment",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "glucagon",
+    "glucose-10-intravenous",
+    "glucose-oral-gel",
+    "naloxone",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2",
+    "poc-chem8plus"
+  ]
+}

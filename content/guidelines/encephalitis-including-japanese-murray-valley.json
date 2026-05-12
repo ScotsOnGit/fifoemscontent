@@ -1,0 +1,64 @@
+{
+  "id": "encephalitis-including-japanese-murray-valley",
+  "title": "Encephalitis (Including Japanese & Murray Valley)",
+  "category": "medical",
+  "tags": [
+    "encephalitis",
+    "japanese",
+    "murray",
+    "valley",
+    "medical"
+  ],
+  "synonyms": [
+    "Encephalitis (Including Japanese & Murray Valley)"
+  ],
+  "sections": [
+    {
+      "id": "encephalitis-including-japanese-murray-valley-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "MURRAY VALLY)\n\nEncephalitis is inflammation of the brain and can result from various causes including viral, bacterial, fungal, parasitic, post-infectious or auto-immune triggers. It can cause a range of symptoms, including headaches, seizures, and mental confusion. In severe cases, encephalitis can lead to brain damage, stroke, or death. Some of the causes include viruses, bacteria, fungi, parasites, post infection and auto immune conditions. Some recent mosquito related causes in Western Australia include:\n- Japanese Encephalitis Virus (JEV)\n- Flavivirus Encephalitis\n- Murray Valley Encephalitis Virus (MVEV) JEV, MVEV and Flavivirus are rare but serious forms of encephalitis. JEV and MVEV are types of flavivirus but not all flavivirus’ are JEV or MVEV. The focus in the prehospital setting is on treating the symptoms.",
+      "sortOrder": 0
+    },
+    {
+      "id": "encephalitis-including-japanese-murray-valley-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Headache\n- Fever\n- Decreased consciousness, confusion or altered mental state\n- Neurological deficits, paralysis\n- Seizures or convulsions, coma, death\n- Photophobia or neck stiffness (less common)",
+      "sortOrder": 1
+    },
+    {
+      "id": "encephalitis-including-japanese-murray-valley-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Travel in rural areas and undertaking outdoor activities are associated with an increased risk of mosquito bites (such as camping and hiking), or staying in accommodation without air-conditioning, screens or bed nets\n- Most people with JEV will be asymptomatic, however those with severe infection may experience neck stiffness, coma, and more rarely, permanent neurological complications or death\n- Herpes Simplex Virus can be a cause with Herpes simplex encephalitis being the commonest cause in Australasia. Acyclovir should be started as soon as the diagnosis is suspected\n- Infection during pregnancy can result in an increased risk of miscarriage and other complications\n- Early recognition is critical. Site based treatment in the worst-case scenarios will be around management of symptoms\n- Maintain a low threshold for urgent evacuation",
+      "sortOrder": 2
+    },
+    {
+      "id": "encephalitis-including-japanese-murray-valley-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Insert appropriate airway if required\n- Consider Oxygen\n- If actively seizing, and trained to do so, administer IM midazolam\n- Administer in an emergency and consult with current poison permit holder or RFDS after\n- Consider OTC pain relief if able to be taken orally\n- Consider antipyretics if able to be taken orally",
+      "sortOrder": 3
+    },
+    {
+      "id": "encephalitis-including-japanese-murray-valley-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider IV access\n- Consider fluids if necessary\n- Consider IV Midazolam titrated to effect\n- Consider analgesia\n- Consider Acyclovir, if herpes simplex is a likely diagnosis, in consultation with the on-call doctor\n- Consider IV Antibiotics only in consultation with on-call doctor\n- Consider ECG",
+      "sortOrder": 4
+    },
+    {
+      "id": "encephalitis-including-japanese-murray-valley-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- JEV is a vaccine-preventable disease. Persons who are at risk and that are eligible for vaccination are encouraged to get vaccinated\n- JEV and MVEV are reportable conditions. Staff must report this via department of health",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

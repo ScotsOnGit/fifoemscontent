@@ -1,0 +1,68 @@
+{
+  "id": "hypertension",
+  "title": "Hypertension",
+  "category": "cardiac",
+  "tags": [
+    "hypertension",
+    "cardiac",
+    "heart"
+  ],
+  "synonyms": [
+    "Hypertension"
+  ],
+  "sections": [
+    {
+      "id": "hypertension-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Hypertension (high blood pressure) is defined as a persistent elevation of blood pressure (BP) in the arteries and is typically asymptomatic (“silent killer”). Hypertension can be primary (essential [90-95% of cases]) where it has no single identifiable cause and may develop due to genetic and lifestyle factors, or secondary which is caused by an underlying medical condition.",
+      "sortOrder": 0
+    },
+    {
+      "id": "hypertension-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Headache, (especially occipital in the mornings)\n- Visual disturbances, dizziness\n- Chest pain, palpitations\n- Shortness of breath\n- Peripheral oedema\n- Epistaxis (nose bleeds)\n- ECG changes (hypertrophy, LBBB, etc)",
+      "sortOrder": 1
+    },
+    {
+      "id": "hypertension-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Some patients’ BP may be elevated in certain medical situations (“white coat”)\n- Allow the patient to rest, seated or semi-recumbent for example, for 5 minutes before taking their BP\n- Consider taking a manual BP first as a baseline\n- Ensure medics are using the correct size BP cuff for the patient\n- There is NO place for a systolic only BP measurement in this context\n- Patients with severely elevated BP associated with life-threatening complications, myocardial or cerebral ischaemia for example, must be treated urgently\n- Severely elevated BP (180/100 mmHg) without symptoms can be treated semi-urgently within days\n- Hypertensive urgency, BP ≥ 180/110 mmHg with symptoms (headache/dizziness), should be treated within hours\n- Hypertensive emergency, BP ≥ 220/140 mmHg, with or without symptoms, require urgent treatment\n- Rapid reduction of a severely elevated BP or hypertensive urgency may cause more harm than good",
+      "sortOrder": 2
+    },
+    {
+      "id": "hypertension-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs\n- Take multiple BP readings, several minutes apart\n- Limb LEAD ECG\n- Consider Secondary Survey\n- Consider urinalysis (specifically protein)\n- Consider pregnancy test if females\n- Consider GTN in hypertensive emergency in consultation with on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "hypertension-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- 12 LEAD ECG\n- Consider anti-hypertensive medication depending on cause in consultation with on- call doctor\n- Amlodipine, Metoprolol, Frusemide\n- Consider IV metoprolol in hypertensive emergency in consultation with on-call doctor\n- Consider analgesia if hypertensive secondary to pain",
+      "sortOrder": 4
+    },
+    {
+      "id": "hypertension-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Reference Ranges\n- Normal: <120/80 mmHg\n- Elevated: 120–129/<80 mmHg\n- Stage 1 Hypertension: 130–139/80–89 mmHg\n- Stage 2 Hypertension: ≥140/90 mmHg\n- If available, patients can take a blood pressure machine away and record their own BP morning, noon and night for several days for a more accurate estimation of their BP 19 RESPIRATORY",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "glyceryl-trinitrate",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2"
+  ]
+}

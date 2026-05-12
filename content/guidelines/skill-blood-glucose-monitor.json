@@ -1,0 +1,55 @@
+{
+  "id": "skill-blood-glucose-monitor",
+  "title": "Blood Glucose Monitor (BGM)",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "blood glucose",
+    "BGL",
+    "BGM",
+    "CBG",
+    "glucometer",
+    "hypoglycaemia",
+    "hyperglycaemia",
+    "diabetes"
+  ],
+  "synonyms": [
+    "Blood Glucose Monitor",
+    "BGL",
+    "CBG",
+    "Blood Sugar",
+    "Glucometer"
+  ],
+  "sections": [
+    {
+      "id": "skill-bgm-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Blood glucose monitoring (BGM) is used to measure the concentration of glucose in capillary blood. It is an essential assessment tool in any patient with altered consciousness, known diabetes, or when metabolic disturbance is suspected. Normal fasting blood glucose is 3.9–5.5 mmol/L.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-bgm-steps",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "**Equipment**\n- Glucometer with calibrated test strips (check expiry date)\n- Lancet device and lancets\n- Alcohol wipe\n- Gloves\n- Sharps container\n\n**Procedure**\n1. Explain the procedure and obtain consent\n2. Don PPE (gloves)\n3. Select site: fingertip (lateral aspect preferred — less painful), heel in neonates\n4. Clean site with alcohol wipe and allow to dry completely\n5. Lance the fingertip with a single motion; wipe away the first drop of blood\n6. Apply second drop to test strip (do not smear)\n7. Read result and record with timestamp\n8. Apply pressure to puncture site\n9. Dispose of lancet immediately into sharps container\n\n**Interpretation:**\n- < 2.8 mmol/L: Severe hypoglycaemia — treat immediately\n- 2.8–3.9 mmol/L: Mild–moderate hypoglycaemia — treat\n- 3.9–7.8 mmol/L: Normal (fasting / pre-meal)\n- 7.9–11.1 mmol/L: Elevated — monitor, assess context\n- > 11.1 mmol/L: Hyperglycaemia — assess for DKA/HHS\n- > 33.3 mmol/L: Critical — HHS likely; urgent management",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-bgm-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Always check BGL in any patient with altered consciousness, seizure, or unexplained behaviour change\n- Cold, poorly perfused, or oedematous fingers may give falsely low readings — use alternative site\n- Alcohol not fully dried will falsely lower result\n- Glucometers calibrated for plasma give results ~10–15% higher than whole blood readings\n- Glucometers are not accurate in patients with severe anaemia or haematocrit abnormalities\n- Always treat the patient, not the number — correlate with clinical findings",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "poc-chem8plus",
+    "poc-cg8plus"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

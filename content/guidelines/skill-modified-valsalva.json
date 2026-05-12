@@ -1,0 +1,53 @@
+{
+  "id": "skill-modified-valsalva",
+  "title": "Modified Valsalva Manoeuvre",
+  "category": "skills",
+  "skillsSubcategory": "circulation",
+  "tags": [
+    "Valsalva",
+    "SVT",
+    "supraventricular tachycardia",
+    "vagal manoeuvre",
+    "REVERT"
+  ],
+  "synonyms": [
+    "Valsalva",
+    "REVERT Trial",
+    "Vagal Manoeuvre"
+  ],
+  "sections": [
+    {
+      "id": "skill-valsalva-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The modified Valsalva manoeuvre (REVERT technique) is a first-line vagal manoeuvre for haemodynamically stable supraventricular tachycardia (SVT). It increases vagal tone via reflex baroreceptor activation, slowing AV nodal conduction and terminating re-entrant SVT. The modified technique (with leg raise) doubles conversion rates compared to standard Valsalva.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-valsalva-procedure",
+      "type": "management_basic",
+      "title": "Procedure (REVERT Method)",
+      "content": "**Indications:** Haemodynamically stable regular narrow-complex tachycardia (presumed SVT)\n\n**Contraindications:** Haemodynamic instability, suspected MI, carotid artery disease\n\n1. Patient semi-recumbent (45°)\n\n2. Instruct patient to blow hard into 10 mL syringe for 15 seconds (generating 40 mmHg strain) — plunger should be difficult to move\n\n3. Immediately lay patient flat and passively raise legs to 45° for 15 seconds (to increase venous return and augment the reflex)\n\n4. Return to semi-recumbent position\n\n5. Monitor ECG continuously — conversion typically occurs within 30–60 seconds\n\n6. If unsuccessful after 1 attempt: repeat once, then proceed to adenosine per protocol",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-valsalva-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- REVERT trial (2015) showed 43% conversion rate vs 17% for standard Valsalva\n- Document: pre- and post-manoeuvre ECG strip\n- Do not use carotid sinus massage prehospital without experienced supervision\n- If haemodynamically unstable: proceed directly to synchronised cardioversion",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

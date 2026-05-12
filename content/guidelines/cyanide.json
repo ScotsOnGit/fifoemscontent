@@ -1,0 +1,73 @@
+{
+  "id": "cyanide",
+  "title": "Cyanide",
+  "category": "toxicology",
+  "tags": [
+    "cyanide",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Cyanide"
+  ],
+  "sections": [
+    {
+      "id": "cyanide-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cyanide is a rapidly acting and potentially fatal chemical that inhibits cellular respiration by blocking the mitochondrial enzyme cytochrome c oxidase. This leads to histotoxic hypoxia, where cells cannot utilise oxygen, despite its adequate supply. The most likely situation on a MinRes site to result in cyanide toxicity will be from a fire (up to and including 2025). Cyanide is produced from melting plastics and those enclosed in fires are at considerable risk.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cyanide-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Headache, confusion, altered mental state\n- Tachycardia, hyperpnoea & hypertension in early stages, bradycardia, apnoea & hypotension in late stages\n- Chest pain, cardiovascular collapse, arrythmia\n- Nausea and/or vomiting\n- Mydriasis (dilated and unreactive pupils)\n- Metabolic acidosis\n- Seizure, coma, death",
+      "sortOrder": 1
+    },
+    {
+      "id": "cyanide-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Gas detection must take place prior to entering any area suspect of being contaminated with any hazardous atmosphere\n- Investigating why/how the overdose occurred is important to rule out self-harm\n- Co-exposure with carbon monoxide is a risk factor for severe toxicity, i.e. in a fire\n- May present with a bitter almond smell to the breath\n- All patients in this cohort must be referred off site for further review and management",
+      "sortOrder": 2
+    },
+    {
+      "id": "cyanide-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- If non-life-threatening exposure (skin or hair contact), decontaminate (remove clothing and wash with soap and water for 20 minutes)\n- Position patient appropriately\n- High flow oxygen through a non-rebreather mask whether conscious or unconscious for at least 30 minutes or until asymptomatic",
+      "sortOrder": 3
+    },
+    {
+      "id": "cyanide-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider blood draw for i-STAT (CG4+: Lactate) testing where applicable\n- Consider fluids if indicated\n- Consider antiemetic\n- Consider Hydroxocobalamin in consultation with on- call doctor\n- Consider Sodium Bicarbonate, in severe metabolic acidosis, in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "cyanide-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life- threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
+      "sortOrder": 5
+    },
+    {
+      "id": "cyanide-management-basic-2",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Vital Sign Survey\n- Secondary Survey\n- Contact poisons information/toxicologist on 131126\n- Have a low threshold for calling on-call doctor for all cases",
+      "sortOrder": 6
+    }
+  ],
+  "relatedMedicationIDs": [
+    "hydroxocobalamin",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

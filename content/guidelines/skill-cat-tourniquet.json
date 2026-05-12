@@ -1,0 +1,57 @@
+{
+  "id": "skill-cat-tourniquet",
+  "title": "Combat Application Tourniquet (CAT)",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "CAT",
+    "tourniquet",
+    "haemorrhage",
+    "limb",
+    "TCCC",
+    "CoTCCC"
+  ],
+  "synonyms": [
+    "CAT",
+    "Tourniquet",
+    "Combat Tourniquet"
+  ],
+  "sections": [
+    {
+      "id": "skill-cat-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The Combat Application Tourniquet (CAT) is the most widely used military and prehospital tourniquet for life-threatening limb haemorrhage. Early tourniquet application before haemorrhagic shock occurs is associated with significantly improved survival.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-cat-procedure",
+      "type": "management_basic",
+      "title": "Application",
+      "content": "**Self-application / one-handed:**\n\n1. Route limb through loop; position 5–7 cm above wound (or as high as possible for junctional injuries)\n\n2. Pull free end of self-adhering band tight; secure\n\n3. Twist windlass until bleeding stops (typically 3–5 turns)\n\n4. Lock windlass in clip; secure tail strap over windlass\n\n5. Note time of application on white label on windlass clip\n\n**Two-handed application:**\n\n1. Open CAT; pass limb through loop\n\n2. Position 5–7 cm above wound\n\n3. Tighten band by pulling free end; secure\n\n4. Twist windlass until bleeding stops; lock and secure\n\n5. Mark time",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-cat-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Apply tight enough to stop bleeding — partial occlusion worsens blood loss and increases pain without benefit\n- Effective tourniquet is painful — reassure patient\n- Do not remove prehospital — hospital will assess and manage\n- Mark time of application on tourniquet and in patient record\n- Maximum recommended application time before ischaemic injury risk increases: up to 2 hours (survival benefit outweighs limb risk)",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [
+    "haemorrhage",
+    "traumatic-resuscitation-algorithm"
+  ],
+  "relatedCalculatorIDs": [
+    "batt-score",
+    "revised-trauma-score",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

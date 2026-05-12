@@ -1,0 +1,75 @@
+{
+  "id": "crush-injury",
+  "title": "Crush Injury",
+  "category": "trauma",
+  "tags": [
+    "crush",
+    "injury",
+    "trauma"
+  ],
+  "synonyms": [
+    "Crush Injury"
+  ],
+  "sections": [
+    {
+      "id": "crush-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Crush injury occurs when a body part is subjected to a high degree of force or pressure, usually after being squeezed between two heavy objects. This can result in damage to skin, muscle, nerves, blood vessels, and bones. Crush injuries include simple mechanical crush injury, compartment syndrome, and crush syndrome. There are many causes ranging from isolated limb injuries, multisystem trauma, envenomation, drug and toxin exposure, heat stroke, burns and some bacteria/infections. Left untreated, these can lead to tissue necrosis, permanent impairment and crush syndrome.",
+      "sortOrder": 0
+    },
+    {
+      "id": "crush-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Compartment syndrome is characterised by:**\n   - Palpable tension of swelling of an anatomical compartment\n   - Pain disproportionate to the injury\n   - Pain on passive stretching of muscles within the anatomical compartment\n   - Paraesthesia of skin and paresis of muscles supplied by nerves traversing the compartment\n   - Pallor of skin over the compartment\n   - Pulses diminishing as the condition develops is common, but normal peripheral pulses and capillary refill is not uncommon\n\n**Crush syndrome is characterised by:**\n   - Compartment syndrome\n   - Haemodynamic instability\n   - Reperfusion injuries leading to:\n   - Lactic acidosis and hyperkalaemia\n   - Dysrhythmias\n   - Myoglobinuria (dark “tea” coloured urine) leading to renal failure\n   - Shock\n   - Hypothermia",
+      "sortOrder": 1
+    },
+    {
+      "id": "crush-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- A duration of compression >1 hour significantly increases risk of crush syndrome\n- Larger muscle groups (thigh, pelvis) carry higher risk\n- High-energy trauma (building collapse, industrial/farm accidents, vehicle entrapment), or prolonged immobilization (unconscious patients)\n - Crush injury should be suspected whenever there is a crushing force. A crush injury should be suspected whenever a part of the body is crushed or compressed or when you are unable to fully see or examine a part of the body\n- Prolonged ischaemic and muscular damage = rhabdomyolysis and reperfusion injury on release\n- Limbs that present initially numb with a peripheral pulse can lead to rapid swelling with compartment syndrome\n- Anticipate hypovolaemic shock post removal of crushing force\n- Chest involvement requires immediate removal of crushing force\n- Hypothermia is a potential risk for patients suffering crush injuries\n- There is insufficient evidence to recommend the routine use of a tourniquet prior to the release of a crushing force to delay the onset of reperfusion injury. The application of a tourniquet is recommended where there is life-threatening bleeding from a limb before or immediately following the removal of the crushing force. Bleeding may be significant following the release of a crushing force\n- Compartment syndrome is a surgical emergency. If not diagnosed quickly and treated appropriately it is associated with a high morbidity\n- Complications: Acute kidney injury, hyperkalaemia, hypovolemia, sepsis, compartment syndrome, arrhythmias, death",
+      "sortOrder": 2
+    },
+    {
+      "id": "crush-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety. Responder safety is paramount\n- Persistent reassurance\n- Manage catastrophic bleeding/prepare for bleeding with a tourniquet\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Vital signs\n- Apply limb LEAD ECG\n- Secondary / CNS Survey, Monitor for tense, swollen limb with pain out of proportion\n- Manage temperature\n- Consider patient positioning, i.e., elevate limbs\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "crush-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway if indicated\n- IV access should be gained, 2 x large bore where possible\n- If compression >1 hour, ensure fluids are running before release of the trapped part to reduce risk of sudden toxin release\n- Manage and prevent hypotension with IV fluids\n   - Early and aggressive fluids are the cornerstone of preventing acute kidney injury\n- Administer pain relief\n- Consider antiemetic\n- Consider IV antibiotics in consultation with the on-call doctor\n - Anticipate reperfusion injuries:\n   - Hyperkalaemia (manage as per that guideline), dysrhythmia, shock",
+      "sortOrder": 4
+    },
+    {
+      "id": "crush-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- A person with a crush injury may not complain of pain and there may be no external signs of injury. Any person who has been subjected to crush injury, including from their own body weight, should be taken to hospital for further review and management",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "morphine-sulphate",
+    "oxygen",
+    "sodium-bicarbonate"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "revised-trauma-score",
+    "poc-chem8plus",
+    "poc-cg8plus"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "urinary-tract-infection",
+  "title": "Urinary Tract Infection",
+  "category": "common_presentations",
+  "tags": [
+    "urinary",
+    "tract",
+    "infection",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Urinary Tract Infection"
+  ],
+  "sections": [
+    {
+      "id": "urinary-tract-infection-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "A urinary tract infection (UTI) is an infection of the urinary system, most commonly caused by bacteria (such as Escherichia coli). It can occur in any part of the urinary tract, including the bladder (cystitis), urethra (urethritis), or kidneys (pyelonephritis).",
+      "sortOrder": 0
+    },
+    {
+      "id": "urinary-tract-infection-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Fever, chills, rigors\n\n**Lower UTI:**\n  - Dysuria (painful or burning urination)\n  - Increased frequency and urgency of urination\n  - Suprapubic discomfort or pain\n  - Cloudy or malodorous urine\n  - Occasionally haematuria (blood in urine)\n  - Some patients may present without any lower UTI symptoms\n\n**Upper UTI:**\n\n**Above symptoms PLUS:**\n  - Fever and chills\n  - Flank or costovertebral angle pain\n  - Nausea and vomiting",
+      "sortOrder": 1
+    },
+    {
+      "id": "urinary-tract-infection-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- More common in women than in men\n- Risk factors can include sexual activity, use of spermicides, pregnancy, postmenopausal status, diabetes, urinary catheters, urinary tract abnormalities\n- Always consider sexually transmitted infections\n- Consider referral of pregnant women who are symptomatic or bacteriuric, or patients not responding to first line treatment for further review and management\n- Urinary alkalinising agents (Ural) significantly reduce the antimicrobial effect of Nitrofurantoin\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable COMMONPRESENNCE",
+      "sortOrder": 2
+    },
+    {
+      "id": "urinary-tract-infection-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs\n- Urinalysis: Look for leukocyte, nitrites, protein, blood\n- Consider antipyretic medication only if temperature is causing discomfort\n- Consider “over the counter” analgesia if required (Paracetamol, Ibuprofen)\n- Consider Ural\n- Advise ample oral hydration\n- Secondary Survey if required",
+      "sortOrder": 3
+    },
+    {
+      "id": "urinary-tract-infection-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Considered appropriate antiemetic if required\n- Consider antibiotics only in consultation with on-call doctor\n- Nitrofurantoin (now first line as of May 2025), Cefalexin, Trimethoprim\n- If septic, treat as per that guideline",
+      "sortOrder": 4
+    },
+    {
+      "id": "urinary-tract-infection-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Symptoms should improve within 48–72 hours; lack of improvement warrants reassessment\n- Cystitis in males is uncommon; its prevalence increases with age and is often related to abnormalities of the urinary tract, prostatic disease\n- The efficacy of urinary alkalinising agents for the symptomatic treatment of acute cystitis has not been established in trials, but some patients find them useful for symptom relief\n\n**Patient education:**\n  - Educate where necessary around appropriate hygiene practices (wiping front to back, urinating after intercourse, avoiding irritating feminine products, etc.)\n  - Advise all male patients to follow up with their GP for further testing (ultrasound/STI/Urine Culture and Sensitivity test)\n  - Advise patient to complete the full course of antibiotics even if symptoms resolve early 21 ENVIRONMENTAL",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

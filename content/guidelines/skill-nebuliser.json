@@ -1,0 +1,59 @@
+{
+  "id": "skill-nebuliser",
+  "title": "Nebuliser",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "nebuliser",
+    "nebulization",
+    "salbutamol",
+    "ipratropium",
+    "asthma",
+    "COPD",
+    "aerosolised"
+  ],
+  "synonyms": [
+    "Neb",
+    "Nebulization",
+    "Aerosolised Medication"
+  ],
+  "sections": [
+    {
+      "id": "skill-neb-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "A nebuliser converts liquid medication into a fine aerosol for inhalation into the lower airways. It is used for bronchodilators in acute asthma, COPD, anaphylaxis with bronchospasm, and for nebulised analgesics. Oxygen-driven nebulisation (6–8 L/min) is standard in most prehospital settings.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-neb-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Assemble nebuliser chamber and attach mouthpiece or mask\n\n2. Add medication to nebuliser cup (add normal saline diluent if required to reach 3–5 mL total volume)\n\n3. Connect oxygen tubing at 6–8 L/min (or compressed air if clinically indicated)\n\n4. Confirm aerosol mist is produced\n\n5. Patient sits upright if able and breathes normally through mouthpiece or mask\n\n6. Continue until nebuliser chamber is empty (spluttering indicates near-complete delivery — approximately 10–15 minutes)\n\n7. Reassess: SpO₂, respiratory rate, breath sounds, work of breathing\n\n8. May repeat per protocol",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-neb-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Oxygen-driven nebulisation preferred for most patients; use air-driven for COPD if at risk of hypercapnia\n- Keep patient upright — improves aerosol delivery to lower airways\n- Continuous nebulisation may be used in severe asthma under direct clinical supervision\n- Document: drug, dose, diluent, flow rate, and response",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "salbutamol-sulphate",
+    "ipratropium-bromide",
+    "adrenaline-epinephrine"
+  ],
+  "relatedGuidelineIDs": [
+    "asthma",
+    "anaphylactic-shock",
+    "dyspnoea"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

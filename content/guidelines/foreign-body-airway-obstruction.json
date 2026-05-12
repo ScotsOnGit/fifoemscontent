@@ -1,0 +1,65 @@
+{
+  "id": "foreign-body-airway-obstruction",
+  "title": "Foreign Body Airway Obstruction",
+  "category": "respiratory",
+  "tags": [
+    "foreign",
+    "body",
+    "airway",
+    "obstruction",
+    "respiratory",
+    "breathing"
+  ],
+  "synonyms": [
+    "Foreign Body Airway Obstruction"
+  ],
+  "sections": [
+    {
+      "id": "foreign-body-airway-obstruction-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Foreign Body Airway Obstruction (FBAO), also known as foreign body aspiration, is a medical emergency that occurs when a foreign object becomes lodged in the airway, blocking the flow of air. FBAO is a serious medical emergency that requires prompt treatment. With a complete foreign body airway obstruction, unconsciousness can occur within 3 to 6 minutes, with death likely within 5 to 10 minutes if the obstruction isn't cleared.",
+      "sortOrder": 0
+    },
+    {
+      "id": "foreign-body-airway-obstruction-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "Mild (Partial Obstruction) Severe (Complete) Obstruction\n- Effective Cough\n- Audible breathing/air movement\n- Ability to speak or vocalise\n- Wheeze, stridor\n- Dysphagia, drooling\n- Anxiety, agitation, gasping, clutching at throat\n- Paradoxical chest / abdominal movement\n- Ineffective or absent cough\n- Inability to speak or vocalise\n- Silent Chest\n- Cyanosis\n- Clutching at throat\n- Rapid deterioration in consciousness\n- Apnoea or cardiac arrest if unresolved\n- Difficulty when moving air during IPPV\n- History of event that can cause FBAO, e.g., eating, or playing with smaller objects.",
+      "sortOrder": 1
+    },
+    {
+      "id": "foreign-body-airway-obstruction-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The severity of the airway obstruction can be determined by the patient’s ability to cough\n- Effective cough indicates mild obstruction\n- Nil cough indicates a severe obstruction\n- Ensure airway suctioning devices are always readily available\n- Abdominal thrusts are not recommended due to potential life-threatening complications\n- Do not delay intervention for suspected severe FBAO as hypoxia can develop rapidly\n- Do not leave the patient unattended at any stage",
+      "sortOrder": 2
+    },
+    {
+      "id": "foreign-body-airway-obstruction-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n\n**Effective cough:**\n  - Place patient in a position of comfort\n  - Encourage coughing\n  - Continuous reassurance\n  - Closely monitor for deterioration\n\n**Sever obstruction:**\n  - Conscious\n  - 5 x Back blows (check obstruction has be relieved between each blow), if un\n  - 5 x chest thrusts\n  - If the obstruction is still not relieved and the person remains responsive, continue alternating 5 x back blows with 5 x chest thrusts. Repeat if necessary\n  - Ensure ongoing assessment\n  - Consider use of LifeVac if readily available\n  - Unconscious\n  - Commence CPR\n  - Prepare for patient deterioration and cardiac arrest\n  - Clinicians should have a very low threshold for consultation with on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "foreign-body-airway-obstruction-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider laryngoscope for removal under direct visualisation\n- Consider Transtracheal Airway with insufflation device\n- Consider Vertical Surgical Cricothyroidotomy",
+      "sortOrder": 4
+    },
+    {
+      "id": "foreign-body-airway-obstruction-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Commonly, a foreign body may be lodged at the top of the oesophagus mimicking an airway obstruction",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

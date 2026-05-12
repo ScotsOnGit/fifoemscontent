@@ -1,0 +1,67 @@
+{
+  "id": "skill-synchronised-cardioversion",
+  "title": "Synchronised Cardioversion",
+  "category": "skills",
+  "skillsSubcategory": "circulation",
+  "tags": [
+    "cardioversion",
+    "synchronised shock",
+    "SVT",
+    "AF",
+    "atrial flutter",
+    "VT",
+    "DCCV"
+  ],
+  "synonyms": [
+    "DCCV",
+    "DC Cardioversion",
+    "Synchronised Shock",
+    "Electrical Cardioversion"
+  ],
+  "sections": [
+    {
+      "id": "skill-cardio-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Synchronised cardioversion delivers an electrical shock timed to the R-wave of the QRS complex to avoid delivery during the relative refractory period (T-wave), which could induce VF. It is used for haemodynamically unstable tachyarrhythmias with a pulse.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-cardio-indications",
+      "type": "considerations",
+      "title": "Indications & Contraindications",
+      "content": "**Indications (haemodynamically unstable with pulse):**\n- Atrial fibrillation / flutter\n- SVT refractory to vagal manoeuvres and adenosine\n- VT with pulse\n\n**Contraindications:**\n- Pulseless (use unsynchronised defibrillation)\n- Digoxin toxicity (relative — risk of VF)\n- Multifocal atrial tachycardia (will not cardiovert)\n\n**Signs of haemodynamic instability:** altered conscious state, chest pain, acute heart failure, hypotension (SBP < 90 mmHg)",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-cardio-procedure",
+      "type": "management_advanced",
+      "title": "Procedure",
+      "content": "1. Confirm haemodynamic instability — if stable, pharmacological cardioversion preferred\n\n2. Sedate if time permits and patient is conscious — midazolam ± ketamine per protocol\n\n3. Apply pads (same positions as defibrillation)\n\n4. Confirm synchronise mode is active (should see sync marker on R-waves)\n\n5. Energy selection:\n   - AF/flutter: 100–200 J biphasic\n   - SVT / regular narrow complex: 50–100 J\n   - VT with pulse: 100–200 J\n\n6. Charge; confirm all clear\n\n7. Deliver shock (device may delay briefly to synchronise with R-wave)\n\n8. Reassess rhythm and haemodynamic status",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-cardio-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- After each shock the monitor may revert to unsynchronised mode — reactivate sync before each subsequent shock\n- Document: pre- and post-shock rhythm strip, energy used, number of shocks, patient response\n- If patient loses pulse: switch to unsynchronised defibrillation immediately\n- Anticoagulation considerations for AF > 48 hours duration — hospital decision, not prehospital",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "midazolam",
+    "ketamine"
+  ],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "chadsvasc",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

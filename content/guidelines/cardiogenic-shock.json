@@ -1,0 +1,71 @@
+{
+  "id": "cardiogenic-shock",
+  "title": "Cardiogenic Shock",
+  "category": "shock",
+  "tags": [
+    "cardiogenic",
+    "shock",
+    "haemodynamic"
+  ],
+  "synonyms": [
+    "Cardiogenic Shock"
+  ],
+  "sections": [
+    {
+      "id": "cardiogenic-shock-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cardiogenic shock is a severe haemodynamic syndrome marked by inadequate cardiac output, resulting in persistent tissue hypoperfusion and a high risk of multiorgan failure and mortality. It is clinically defined by persistent hypotension lasting more than 30 minutes, with a systolic blood pressure below 90 mmHg or a reduction in mean arterial pressure (MAP) of more than 30 mmHg from the patient’s baseline resulting from cardiac causes such as but not limited MI, Myocarditis, or Arrythmias.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cardiogenic-shock-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Patient History and Risk Factors\n- Patient in shock, all other causes ruled out, and identification of predisposing conditions such as acute myocardial infarction, cardiomyopathy, or prior cardiac events is essential\n- Respiratory Findings\n- Tachypnoea and/or hypoxia\n- Pulmonary congestion\n- Cardiovascular Manifestations\n- Sustained hypotension\n- Jugular venous distension\n- Signs of Poor Perfusion\n- Poor peripheral perfusion\n- Oliguria\n- Other Features\n- Peripheral oedema\n- Chest pain or discomfort",
+      "sortOrder": 1
+    },
+    {
+      "id": "cardiogenic-shock-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Patient management should focus on cardiorespiratory support\n- Monitor for and address potential complications such as arrhythmias, worsening hypotension, or respiratory failure\n- The risk of developing cardiogenic shock during or after AMI is higher in older adults, diabetics, those with previous AMI, and those presenting with hypotension\n- Titrate fluid to manage symptomatic hypotension and do not fluid overload",
+      "sortOrder": 2
+    },
+    {
+      "id": "cardiogenic-shock-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Position patient appropriately\n- Consider IIPV where indicated\n- Titrate Oxygen\n- Vital Sign Survey and close haemodynamic monitoring (recording vital signs at least every 5 minutes)\n- Apply Limb LEAD ECG, monitor for arrythmia\n- Consider Aspirin\n- Monitor for deterioration\n- Consider other causes of shock",
+      "sortOrder": 3
+    },
+    {
+      "id": "cardiogenic-shock-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Perform 12-lead ECG\n- If due to arrythmia, follow that guideline\n- If due to ischemic, follow that guideline\n- Establish vascular access, large bore if possible\n- Consider IV fluid (generally not effective due to pump failure)\n- Ensure defib pads are attached to patient\n- Consider Adrenaline bolus in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "cardiogenic-shock-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- A high percentage of this cohort of patients end up in cardiac arrest\n\n**Cardiogenic Shock can be caused by:**\n  - Impaired contractility\n  - Myocardial ischemia and complications\n  - Myocarditis\n  - Myocardial contusion – Trauma\n  - Takotsubo Cardiomyopathy\n  - Septic shock\n  - Dysrhythmia\n  - Tachycardia\n  - Bradycardia\n  - Valvular dysfunction\n  - Hypertrophic cardiomyopathy (HOCM)",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "noradrenaline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "bazett-qtc",
+    "ecg-axis"
+  ]
+}

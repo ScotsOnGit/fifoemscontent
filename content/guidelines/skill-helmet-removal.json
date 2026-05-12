@@ -1,0 +1,55 @@
+{
+  "id": "skill-helmet-removal",
+  "title": "Helmet Removal",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "helmet",
+    "removal",
+    "spinal",
+    "C-spine",
+    "trauma",
+    "motorcycle",
+    "motorbike"
+  ],
+  "synonyms": [
+    "Helmet Removal",
+    "Motorcycle Helmet Removal"
+  ],
+  "sections": [
+    {
+      "id": "skill-helmet-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Helmet removal may be required to access the airway or assess an unconscious trauma patient. It requires a two-person technique to maintain cervical spine immobilisation throughout the procedure. Helmets should NOT be removed if: the patient is conscious with no airway compromise, the helmet fits snugly, or removal would cause further injury.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-helmet-procedure",
+      "type": "management_advanced",
+      "title": "Two-Person Technique",
+      "content": "**When to remove:** Airway compromise, respiratory arrest, cardiac arrest, inability to maintain airway\n**When to leave:** Helmet fits well, conscious patient, no airway compromise (immobilise with helmet on)\n\n1. Rescuer 1 (head): kneel at head; stabilise cervical spine by placing hands on each side of helmet, thumbs on mandible, fingers on occiput\n\n2. Rescuer 2 (chin): kneel beside patient; unfasten or cut chin strap; place one hand on mandible (thumb on one side, fingers on other); place other hand at occiput, taking over cervical spine control\n\n3. Rescuer 1: expand sides of helmet slightly to clear ears; tilt helmet backward to clear nose, then forward and backward off head in a rocking motion; remove slowly\n\n4. Rescuer 1: immediately takes over cervical spine control\n\n5. Apply cervical collar once airway is accessible",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-helmet-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Communication between rescuers is essential throughout\n- Remove at the pace of the slowest step — do not rush\n- Pad behind head after removal to maintain neutral alignment (helmet elevates occiput)\n- Full-face helmet: visor must be raised or removed before starting",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury",
+    "traumatic-brain-injury"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "canadian-cspine",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

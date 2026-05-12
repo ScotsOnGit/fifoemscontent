@@ -1,0 +1,76 @@
+{
+  "id": "beta-blockers-toxicity",
+  "title": "Beta Blockers Toxicity",
+  "category": "toxicology",
+  "tags": [
+    "beta",
+    "blockers",
+    "toxicity",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Beta Blockers Toxicity"
+  ],
+  "sections": [
+    {
+      "id": "beta-blockers-toxicity-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Beta blockers, also known as β-blockers, are a class of medications primarily used to manage heart and circulatory system conditions. They work by blocking beta-adrenergic receptors, which reduce the effects of stress hormones like adrenaline and noradrenaline on the heart and blood vessels. Toxicity from accidental or intentional overdose is not uncommon, causing bradycardia that is associated with significant mortality. Commonly used beta blockers include Bisoprolol, Atenolol, Metoprolol, Propranolol and Sotalol.",
+      "sortOrder": 0
+    },
+    {
+      "id": "beta-blockers-toxicity-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Cardiovascular effects:**\n  - Bradycardia\n  - Heart block, sinus node dysfunction\n  - Hyperkalaemia\n  - Hypotension\n  - Cardiogenic shock\n  - Other effects can include, hypo/hyperglycaemia, pulmonary oedema, seizures, coma",
+      "sortOrder": 1
+    },
+    {
+      "id": "beta-blockers-toxicity-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- Onset of toxicity is often delayed in modified release preparations\n- Propranolol and Sotalol are particularly toxic in overdose and can result in:\n  - Propranolol: Seizures, coma and QRS widening\n  - Sotalol: QT prolongation which can lead to Torsades De Pointes\n  - Ingestion of 2g of Propranolol are associated with severe toxicity\n  - Effects can be compounded when co-ingested with other cardiac drugs\n  - Have IV fluids, atropine and adrenaline prepared and at hand\n  - Increased volumes of IV fluids can lead to pulmonary oedema; hence these patients require inotropes (adrenaline) to manage shock",
+      "sortOrder": 2
+    },
+    {
+      "id": "beta-blockers-toxicity-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Vital Sign Survey (especially BGL)\n- Consider Oxygen if indicated\n- Consider activated charcoal\n- Have a low threshold for calling current poison permit holder or RFDS",
+      "sortOrder": 3
+    },
+    {
+      "id": "beta-blockers-toxicity-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Apply cardiac monitor\n- Gain IV access in all patients\n- Consider fluids if indicated, given in 250ml boluses to avoid overload and pulmonary oedema\n- Consider Atropine in consultation with on-call doctor\n- Consider Adrenaline in consultation with on-call doctor\n- Consider Sodium Bicarbonate (if QRS widening) in consultation with on-call doctor\n- Consider Glucose if indicated\n- Consider transcutaneous pacing, with appropriate sedation, in consultation with on- call doctor\n- Consider Magnesium Sulphate (Torsades de Pointes) in consultation with on-call doctor\n- Consider anti-emetic, being aware of QT prolongation in cases of Sotalol toxicity",
+      "sortOrder": 4
+    },
+    {
+      "id": "beta-blockers-toxicity-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Clinical features typically manifest within 4 hours of ingestion\n- Activated Charcoal: Mixed data on its efficacy; however, considered low harm intervention for potential benefits\n- Atropine: Atropine alone is usually not enough for reversal in beta blocker overdose\n- Always offer engagement with Mind Matters or EAP if applicable\n- Vasoplegia, also known as Vasoplegic Syndrome, is a condition characterised by abnormally low systemic vascular resistance (SVR) and profound vasodilation leading to hypotension despite a normal or increased cardiac output\n\n- Glucagon is still considered an antidote in beta blocker overdose. Glucagon activates cardiac glucagon receptors, which are coupled to Gs proteins and thereby increase intracellular cyclic AMP (cAMP) independent of beta receptor activity. This results in positive inotropic and chronotropic effects, helping to counteract the negative cardiac effects of beta blockers. However, it is unlikely that any site will carry enough Glucagon to follow this treatment through as a large volume is needed as an initial bolus dose, 5-10mg over 10 minutes and then an additional 1-5mg per hour infusion",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "atropine-sulphate",
+    "calcium-gluconate",
+    "glucagon",
+    "oxygen",
+    "sodium-bicarbonate"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "news2"
+  ]
+}

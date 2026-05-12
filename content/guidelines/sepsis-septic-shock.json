@@ -1,0 +1,73 @@
+{
+  "id": "sepsis-septic-shock",
+  "title": "Sepsis (Septic Shock)",
+  "category": "shock",
+  "tags": [
+    "sepsis",
+    "septic",
+    "shock",
+    "haemodynamic"
+  ],
+  "synonyms": [
+    "Sepsis (Septic Shock)"
+  ],
+  "sections": [
+    {
+      "id": "sepsis-septic-shock-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Sepsis is a life-threatening organ dysfunction due to a dysregulated host response to infection. Septic shock is a subset of sepsis and is a severe and potentially life-threatening condition that occurs as a result. Septic shock is an underlying circulatory and cellular/metabolic abnormalities are profound enough to substantially increase mortality.",
+      "sortOrder": 0
+    },
+    {
+      "id": "sepsis-septic-shock-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**General:** Fever or hypothermia, chills, rigors, malaise, altered mental status (GCS <15, confusion, lethargy, coma)\n**Cardiovascular:** Hypotension (systolic BP <100 mmHg or MAP <65 mmHg), tachycardia, weak or thready pulses, delayed capillary refill, cool or mottled extremities\n**Respiratory:** Tachypnoea, hypoxia, dyspnoea, possible respiratory distress or failure\n**Renal:** Oliguria or anuria\n**Metabolic:** Elevated lactate, metabolic acidosis\n**Other:** Evidence of infection (local or systemic), possible skin mottling, cyanosis, or non- blanching rash",
+      "sortOrder": 1
+    },
+    {
+      "id": "sepsis-septic-shock-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Identify source of infection: Pneumonia, urinary tract infection, intra-abdominal infection, skin/soft tissue infection, indwelling devices, or toxin-mediated sepsis\n\n**People with impaired immune systems:**\n  - people being treated for cancer with chemotherapy\n  - people with diabetes, people who have had a splenectomy, or people with sickle cell disease, ongoing illnesses or misuse drugs intravenously\n  - people taking long-term steroids\n  - people taking immunosuppressant drugs to treat non-malignant disorders such as rheumatoid arthritis\n  - people who have had surgery, or other invasive procedures, in the past 6 weeks\n  - people with any breach of skin integrity (for example, cuts, burns, blisters or skin infections)\n  - Pregnant women who have given birth, had a termination of pregnancy or miscarriage, or have continued vaginal bleeding or offensive discharge (consider prolonged rupture of membranes, retained products of conception, caesarean section, etc.)\n  - People who have or have been in close contact with people with group A streptococcal infection, for example, scarlet fever\n  - Monitor for rapid deterioration: Septic shock can progress quickly; frequent reassessment is critical",
+      "sortOrder": 2
+    },
+    {
+      "id": "sepsis-septic-shock-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Oxygen as indicated\n- Vital Sign Survey, with frequent reassessment of A to E\n- Utilise qSOFA tool (additional information)\n- Minimise on scene time\n- Be prepared for deterioration and possible cardiac arrest",
+      "sortOrder": 3
+    },
+    {
+      "id": "sepsis-septic-shock-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Obtain IV access, 2x large bore\n- Collect pre-hospital blood sample where appropriate\n- Measure lactate via i-STAT CG4+* where applicable and if not time critical (*see addition information)\n- Consider fluid therapy if indicated, reassess fluid therapy requirements often\n- Consider early IV antibiotics only in consultation with on-call doctor\n- Apply cardiac monitoring\n- Consider adrenaline for hypotension only in consultation with on-call doctor (by infusion pump only were applicable)",
+      "sortOrder": 4
+    },
+    {
+      "id": "sepsis-septic-shock-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- The qSOFA (quick Sequential Organ Failure Assessment) score is a bedside tool used to rapidly identify patients with suspected sepsis who may be at risk of a poor outcome.\nThe qSOFA score is based on three clinical criteria, each worth one point:\n1. Respiratory Rate: A respiratory rate of 22 or more breaths per minute\n2. Altered Mental Status: Measured by a drop in the Glasgow Coma Scale (GCS) score of 1 or more points\n3. Systolic Blood Pressure: A systolic blood pressure (SBP) of 100 mmHg or less\n- A score of 2 or more points suggests a higher risk of sepsis and may prompt further investigation and intervention\n- The majority of the sepsis 6 protocol can be initiated on site (blood cultures excepted):\n1. Administer oxygen\n2. Blood cultures*\n3. Administer broad spectrum intravenous antibiotics\n4. Administer intravenous fluids\n5. Measure lactate\n6. Measure urine output\n\n- I-STAT Lactate Testing (reference range 0.30 to 20.00 mmol/L):\n  - Normal Range: Less than 1.0 mmol/L.\n  - Hyperlactatemia (elevated lactate) 2.0 to 4.0 mmol/L: amber flag, review by on- call doctor.\n24 TOXINS",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "cefazolin",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "noradrenaline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "qsofa",
+    "news2"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "skill-direct-pressure-bandages",
+  "title": "Direct Pressure & Trauma Bandages",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "direct pressure",
+    "haemorrhage control",
+    "bandaging",
+    "Israeli bandage",
+    "pressure bandage",
+    "haemostasis"
+  ],
+  "synonyms": [
+    "Direct Pressure",
+    "Pressure Bandage",
+    "Israeli Bandage",
+    "Emergency Bandage"
+  ],
+  "sections": [
+    {
+      "id": "skill-dp-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Direct pressure is the most fundamental haemorrhage control technique. Combined with trauma/pressure bandages (e.g. Israeli Emergency Bandage, rolled gauze), it provides sustained compressive force to control compressible external haemorrhage in areas where tourniquets cannot be applied.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-dp-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "**Direct pressure:**\n\n1. Apply sterile dressing or clean cloth directly to wound\n\n2. Apply firm, continuous pressure with flat hand and body weight\n\n3. Maintain for minimum 5–10 minutes without lifting to check — lifting disrupts clot formation\n\n**Israeli Emergency Bandage (Pressure Bandage):**\n\n1. Place non-woven pad directly over wound\n\n2. Wrap elastic bandage around limb/body part with moderate tension\n\n3. Thread elastic through pressure bar applicator; pull back over bandage to create pressure point\n\n4. Continue wrapping and secure with closure clip\n\n**Wound packing (junctional / deep wounds):**\n\n- Pack gauze into wound starting at bleeding source\n- Apply firm pressure with fist for 3 minutes\n- Secure with bandage",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-dp-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Do not remove first dressing if soaked — add additional dressing on top\n- Pelvic and abdominal wounds: direct pressure plus wound packing; transport immediately\n- Haemostatic gauze preferred over standard gauze for junctional wounds\n- Document: estimated blood loss, interventions, time of application",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [
+    "haemorrhage",
+    "traumatic-resuscitation-algorithm"
+  ],
+  "relatedCalculatorIDs": [
+    "batt-score",
+    "revised-trauma-score",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

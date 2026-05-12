@@ -1,0 +1,71 @@
+{
+  "id": "seizures",
+  "title": "Seizures",
+  "category": "neurological",
+  "tags": [
+    "seizures",
+    "neurological"
+  ],
+  "synonyms": [
+    "Seizures"
+  ],
+  "sections": [
+    {
+      "id": "seizures-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "A seizure is abnormal electrical activity in the brain causing transient changes in behaviour, movement, sensation, or awareness. These discharges are typically spontaneous, uncontrolled and transitory. Seizures are a sign of an underlying disorder.\n- Idiopathic (self-originating and without known cause, most epileptics)\n- Symptomatic (known medical or traumatic cause) Status epilepticus (SE) is defined as:\n  - A seizure lasting >5 minutes, or\n  - Recurrent seizures without return to baseline consciousness between episodes.",
+      "sortOrder": 0
+    },
+    {
+      "id": "seizures-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Motor: Tonic-clonic movements (stiffening/jerking), focal limb twitching, head nodding\n- Non-motor: Staring, confusion, lip-smacking, sensory hallucinations, unresponsiveness\n- Autonomic: Tachycardia, hypersalivation, apnoea, incontinence\n- Post-ictal phase: Fatigue, confusion, headache, amnesia\n- Prolonged seizures or SE can be associated with hypoxia, hypercarbia, lactic/respiratory acidosis, hyperthermia, hypertension, tachycardia, hypo/hyperglycaemia, hyperkalaemia",
+      "sortOrder": 1
+    },
+    {
+      "id": "seizures-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Anticipate potential airway obstruction; while tongue trauma typically poses minimal risk, dental fracture carries significant aspiration hazard\n- Midazolam can be administered intravenously, intramuscularly, intranasally, or via the buccal routes\n- Pharmacological management of non-convulsive or atypical seizure types requires consultation with the on-call doctor or RFDS medical support\n- Implement environmental safety measures by removing hazards and providing head protection with padding. Apply physical restraint only when necessary to prevent immediate injury\n- Continuous airway assessment and intervention are required throughout ictal and post- ictal phases to ensure patency and prevent aspiration\n- Generalised seizure activity should be considered an emergency where:\n  - The seizure is prolonged (> 5 minutes), or\n  - Multiple seizures occur, or\n  - The patient doesn’t regain consciousness\n\n**Focal seizure activity associated where:**\n  - The seizure is prolonged (> 5 minutes) and is associated with a GCS ≤ 12\n  - Common causes: Epilepsy, hypoglycaemia, CNS infection, head trauma, drug toxicity, stroke, alcohol withdrawal\n  - Red flags: First seizure, trauma during seizure, signs of infection (fever, rash), persistent post-ictal unresponsiveness",
+      "sortOrder": 2
+    },
+    {
+      "id": "seizures-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Protect from injury whilst patient seizing\n- Consider IM Midazolam in consultation with on-call doctor\n- 5mg Intramuscular, intranasally or buccally if appropriate\n- Complete Primary Survey\n- Open (where possible), clear and maintain the airway. Never stick fingers in the mouth\n- Suction if required and where possible\n- Insert appropriate airway adjunct; consider NPA if trismus present (do not attempt to force an airway into the seizing patient's mouth)\n- Lateral position if unresponsive (use left lateral position for pregnant women)\n- Oxygen with assisted ventilation if indicated\n- Identify and address cause where possible\n- Full Vital Signs Survey, particularly GCS, BGL, Pulse Oximetry and Temperature\n- Note length of time\n- Complete Secondary Survey once seizure has terminated\n- Limb LEAD ECG, being mindful of muscular artefact\n- Consider urinalysis where appropriate, i.e., pregnant woman\n- ESO’s, MESOs and other similar levels should have a low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "seizures-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Establish Vascular access\n- Consider blood draw, where appropriate, for i-STAT testing: Chem8 (lactate and electrolytes)\n- Consider IV Midazolam, titrated to effect, in consultation with on-call doctor\n- Consider IV glucose if related to low BGL",
+      "sortOrder": 4
+    },
+    {
+      "id": "seizures-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Complications and side effects of seizures can include:\n  - Incontinence\n  - Secondary injury (including intra-oral trauma)\n  - Aspiration\n  - Hypoxia\n  - Hyperthermia\n  - Dysrhythmias\n  - Brain damage\n  - Death\n  - ESO’s, MESOs and other similar levels should have a low threshold for calling the current poison permit holder or RFDS",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "glucose-10-intravenous",
+    "levetiracetam",
+    "midazolam",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2"
+  ]
+}

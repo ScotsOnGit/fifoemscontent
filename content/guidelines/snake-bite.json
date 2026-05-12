@@ -1,0 +1,64 @@
+{
+  "id": "snake-bite",
+  "title": "Snake Bite",
+  "category": "environmental",
+  "tags": [
+    "snake",
+    "bite",
+    "environmental"
+  ],
+  "synonyms": [
+    "Snake Bite"
+  ],
+  "sections": [
+    {
+      "id": "snake-bite-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Snakes produce venom in modified salivary glands, administering this through fangs which pierce the skin. Many snakes in Australia (including sea snakes) can deliver doses of toxin lethal to humans and due this potential, all patients should be managed with a time critical, robust approach regardless of clinical appearance\n- Life-threatening effects of toxins include:\n  - Neurotoxic muscle paralysis leading to respiratory arrest\n  - Coagulation failure leading to excessive bleeding\n  - Muscle damage which leads to kidney failure\n  - Several snake species in WA pose a threat to humans. Tiger, Coastal Taipan, King Brown, Dugite and Death Adder snakes are all highly venomous",
+      "sortOrder": 0
+    },
+    {
+      "id": "snake-bite-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Puncture mark(s) or scratch\n- Bite may be painless, without any visible marks (localized bruising or redness is uncommon in Australian snake bites)\n- Headache, nausea/vomiting, abdominal pain\n- Swollen or tender lymphatic glands at groin/axilla of bitten limb\n- Symptoms can resemble dysfunction of the CNS:\n  - Confusion\n  - Collapse\n  - Visual disturbances\n  - Drooping eyelids\n  - Difficulty speaking\n  - Swallowing or breathing\n  - Weakness/paralysis\n  - Respiratory weakness/arrest\n  - Seizure",
+      "sortOrder": 1
+    },
+    {
+      "id": "snake-bite-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The size of the patient in relation to the volume of venom will be determinants in predicting the rate of envenomation\n- All potential snake bite victims should be transported to a medical facility for assessment\n\n- Most venom reaches the blood stream via the lymphatic system. Research by the ARC indicates little venom reaches the circulation, even after several hours, if a Pressure Immobilization Technique is applied immediately, and maintained. These patients are NOT considered time critical, unless signs of envenomation are evident\n- Anti-venom is available for all venomous Australian snake bites\n- Paralysis may be long lasting and where possible treatment for respiratory or cardiac arrest should continue until arrival at an appropriate medical facility\n- The aim over the next 12 hours (post bite) is to determine if the patient has been envenomed and if so, which snake is responsible. This is based on the history, examination and investigations. This can only be done in hospital\n\n**Do not:**\n  - Walk the patient\n  - Apply a Pressure Immobilisation Technique if the bite did not occur on a limb\n  - Cut, wash or suck the site of the bite\n  - Utilise an artery tourniquet\n  - Trap/catch or kill the snake. Medical services do not rely on visual identification for anti-venom selection",
+      "sortOrder": 2
+    },
+    {
+      "id": "snake-bite-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Assist ventilations as required\n- Manage cardiac arrest (basic life support)\n- Keep patient at rest and prevent movement (immobilise the patient, in bed)\n- Continuous reassurance\n- Apply Pressure Immobilisation Technique to bitten limb as per clinical skill, local pressure if on the torso\n- Monitor closely for respiratory depression\n- DO NOT remove bandages or splints prior to arrival at a suitable hospital unless authorised by the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "snake-bite-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider 12 lead ECG\n- Consider vascular access\n- Transport all suspected snake bites to hospital",
+      "sortOrder": 4
+    },
+    {
+      "id": "snake-bite-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Caring for the patients in the hours following envenomation (e.g. including inter-hospital transfer care) will include monitoring for signs of coagulopathy (bleeding from bite site or cannula) and renal impairment. This may include measuring urine output where possible",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

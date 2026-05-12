@@ -1,0 +1,73 @@
+{
+  "id": "carbon-monoxide",
+  "title": "Carbon Monoxide",
+  "category": "toxicology",
+  "tags": [
+    "carbon",
+    "monoxide",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Carbon Monoxide"
+  ],
+  "sections": [
+    {
+      "id": "carbon-monoxide-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Carbon monoxide (CO) is a poisonous, colourless, odorless, and tasteless gas produced by the incomplete combustion of fuels such as gas, wood, coal, and, in some cases, plastics. CO binds to haemoglobin, reducing oxygen delivery to tissues and impairing cellular respiration, which causes tissue hypoxia. This can result in acute organ injury and, in some cases, chronic neurological dysfunction through inflammatory and oxidative mechanisms. Common hazardous sources of CO include contained fires, car exhausts, operating petrol-powered machinery, industrial exposure, and working in confined spaces (where increased CO generation and poor ventilation increases the risk of exposure).",
+      "sortOrder": 0
+    },
+    {
+      "id": "carbon-monoxide-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Headache, confusion, dizziness, syncope\n- Tachycardia, palpitations, arrythmia, hypotension, myocardial ischemia\n- Pulmonary oedema, dyspnoea\n- Nausea/vomiting\n- Fatigue, malaise, ataxia\n- Seizure, coma, death",
+      "sortOrder": 1
+    },
+    {
+      "id": "carbon-monoxide-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Gas detection must take place prior to entering any area suspect of being contaminated with any hazardous atmosphere\n- Investigating why/how the overdose occurred is important to rule out self-harm\n- The classic “red-faced” presentation is very rarely seen except in severe/late poisoning\n- SpO2 readings can be unreliable in CO poisoning due to the increased affinity when binding with haemoglobin (pulse oximetry gap)\n- Patients with underlying cardiovascular disease are particularly at risk\n- Given the long-term neurological conditions and delay in presentation of symptoms, it is important to have a low threshold for suspicion\n- All patients need a blood gas, venous or arterial, and must be transported to hospital if there is suspected exposure",
+      "sortOrder": 2
+    },
+    {
+      "id": "carbon-monoxide-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey (Responder safety is paramount)\n- High flow Oxygen through a non-rebreather mask, 15L per min\n- Manage airway if required\n- Remove patient from hazardous atmosphere as soon as is safe to do so\n- Vital Sign Survey\n- Secondary Survey",
+      "sortOrder": 3
+    },
+    {
+      "id": "carbon-monoxide-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway if required\n- 12 LEAD ECG\n- IV Access\n- Consider blood draw for i-STAT testing (CG8+: Carboxyhemoglobin) and/or Troponin if cardiac symptoms present, where applicable\n- Consider anti-emetic\n- Manage emergent presentations as per that clinical guideline",
+      "sortOrder": 4
+    },
+    {
+      "id": "carbon-monoxide-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Up to 40% may develop delayed neuropsychiatric syndrome (DNS) days to weeks after exposure—memory loss, personality change, movement disorders, depression",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "hydroxocobalamin",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "gcs",
+    "avpu",
+    "poc-cg4"
+  ]
+}

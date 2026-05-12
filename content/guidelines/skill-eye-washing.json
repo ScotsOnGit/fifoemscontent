@@ -1,0 +1,56 @@
+{
+  "id": "skill-eye-washing",
+  "title": "Eye Washing & Irrigation",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "eye",
+    "irrigation",
+    "washing",
+    "chemical",
+    "foreign body",
+    "ocular"
+  ],
+  "synonyms": [
+    "Eye Irrigation",
+    "Ocular Lavage",
+    "Eye Wash"
+  ],
+  "sections": [
+    {
+      "id": "skill-eye-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Eye irrigation is indicated for chemical exposure (acid or alkali), foreign body removal, and thermal injury to the eye. Alkali burns are more severe than acid burns due to liquefactive necrosis — prolonged irrigation is critical. Copious, continuous irrigation with normal saline or water is the primary treatment.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-eye-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Ensure personal protective equipment (gloves, eye protection for irrigant splash)\n\n2. Remove contact lenses if present (chemical irrigation will damage lenses and impair flushing)\n\n3. Position patient supine or semi-recumbent, head turned slightly toward affected eye\n\n4. Hold eyelids open (Morgan lens or IV giving set for continuous irrigation; alternatively use gloved fingers)\n\n5. Direct a continuous steady stream of normal saline from inner canthus to outer canthus\n\n6. Chemical irrigation: minimum 1 litre (alkali) to 30 minutes continuous irrigation; reassess pH with litmus paper — target pH 7\n\n7. Foreign body: irrigate to flush out loose particles; do not attempt to remove embedded foreign body\n\n8. Pad eye after irrigation if required for comfort",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-eye-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Do not delay irrigation for triage — begin immediately at scene for chemical exposure\n- Alkali burns (cement, lime, bleach) require far longer irrigation than acid burns\n- Never apply pressure to a suspected open globe injury (ruptured globe)\n- Document: substance, time of exposure, duration of irrigation, post-irrigation visual acuity if assessable",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "intravenous-normal-saline"
+  ],
+  "relatedGuidelineIDs": [
+    "corrosives",
+    "eye-injury",
+    "eye-presentations"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

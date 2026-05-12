@@ -1,0 +1,72 @@
+{
+  "id": "organophosphates",
+  "title": "Organophosphates",
+  "category": "toxicology",
+  "tags": [
+    "organophosphates",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Organophosphates"
+  ],
+  "sections": [
+    {
+      "id": "organophosphates-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Organophosphates are a common cause of poisoning within the developing world and result in a cholinergic crisis. Organophosphates can be found in readily available preparations such as insecticides, surface and room sprays, head lice shampoo, fumigation and crop protection",
+      "sortOrder": 0
+    },
+    {
+      "id": "organophosphates-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- SLUDGEM: salivation, lacrimation, urination, defaecation, emesis, miosis\n- DUMBBELS: diarrhoea, urination, miosis, bronchorrhea, bradycardia, emesis, lacrimation, salivation\n- Agitation, seizure, coma",
+      "sortOrder": 1
+    },
+    {
+      "id": "organophosphates-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Responder safety is paramount. Do not enter any area that risks the safety of the responders\n- Universal precautions such as gowns and gloves are suitable\n- Inhalation or dermal exposure is rarely life-threatening, and the smell of an agent does not indicate exposure. The smell is usually the solvent and poses no toxicity risk to responders\n- Investigating why/how the toxicity occurred is important to rule out self-harm\n- Oral consumption produces multi-system toxicity. Respiratory muscle weakness and bronchorrhea causes early deaths. Atropine is your first line\n- Onset of symptoms can be delayed up to 12 hours",
+      "sortOrder": 2
+    },
+    {
+      "id": "organophosphates-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Remove contaminated clothing\n- Wash/Shower with soap where appropriate\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "organophosphates-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Consider IV atropine in consultation with the on-call doctor (1-2mg, repeated every 5 minutes)\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider fluids if indicated\n- Consider antiemetic",
+      "sortOrder": 4
+    },
+    {
+      "id": "organophosphates-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Always offer engagement with Mind Matters or EAP if applicable",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "atropine-and-pralidoxime-duodote",
+    "atropine-sulphate",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "avpu",
+    "gcs",
+    "news2"
+  ]
+}

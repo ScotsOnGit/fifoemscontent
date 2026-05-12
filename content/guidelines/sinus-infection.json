@@ -1,0 +1,55 @@
+{
+  "id": "sinus-infection",
+  "title": "Sinus Infection",
+  "category": "common_presentations",
+  "tags": [
+    "sinus",
+    "infection",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Sinus Infection"
+  ],
+  "sections": [
+    {
+      "id": "sinus-infection-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Sinus infections (acute rhinosinusitis) are common, generally self-limiting upper respiratory conditions but may become significant in remote environments where access to further healthcare is delayed.",
+      "sortOrder": 0
+    },
+    {
+      "id": "sinus-infection-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Facial pain or pressure (particularly over the sinuses—forehead, cheeks, behind eyes)\n- Nasal congestion or obstruction\n- Purulent (green/yellow) nasal discharge\n- Fever (low-grade, sometimes absent)\n- Reduced or lost sense of smell\n- Maxillary tooth pain\n- Postnasal drip and/or sore throat\n- Headache, especially worse when leaning forward\n- Fatigue, malaise",
+      "sortOrder": 1
+    },
+    {
+      "id": "sinus-infection-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Risk of progression to severe infection: Rare complications include orbital cellulitis, intracranial infection (meningitis, abscess)\n- Antibiotic resistance: Overuse of antibiotics should be avoided; most cases are viral\n- Environmental hazards: Dust, irritants, or extreme dryness contribute to chronic or recurrent symptoms\n- Red flag features (suggesting complication or alternate diagnoses—immediate escalation required):\n  - Severe headache unresponsive to analgesia\n  - Periorbital swelling or erythema\n  - Visual changes (blurred, double vision, loss of vision)\n  - Altered mental status or persistent vomiting\n  - High fever and neck stiffness\n  - Focal neurological deficits\n  - It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where appropriate COMMONPRESENNCE",
+      "sortOrder": 2
+    },
+    {
+      "id": "sinus-infection-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs\n- Secondary Survey\n- Assess for red flag features\n- Consider warm compress to sinuses\n- Consider over the counter analgesia (Paracetamol, Ibuprofen)\n- Consider nasal sprays where available (for example, oxymetazoline 0.05% nasal spray)\n- Consider antihistamines if allergy related\n- Consultation with on-call doctor for advice and review if further management is required",
+      "sortOrder": 3
+    },
+    {
+      "id": "sinus-infection-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider stronger analgesia if required\n- Consider Antibiotics only in consultation with on-call doctor COMMONPRESENNCE",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

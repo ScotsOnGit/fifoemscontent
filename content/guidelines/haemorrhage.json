@@ -1,0 +1,75 @@
+{
+  "id": "haemorrhage",
+  "title": "Haemorrhage",
+  "category": "trauma",
+  "tags": [
+    "haemorrhage",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "Haemorrhage"
+  ],
+  "sections": [
+    {
+      "id": "haemorrhage-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Haemorrhage is a potentially life-threatening emergency that requires the early identification of actual and/or potential bleeding sources. Prompt interventions at the scene and early rapid transport to definitive care, where possible, positively impact patient outcomes. Catastrophic bleeding must be managed as a priority. Assess for blood loss in five places:\n- External\n- Chest\n- Abdomen\n- Pelvis\n- Long bones",
+      "sortOrder": 0
+    },
+    {
+      "id": "haemorrhage-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**External Haemorrhage:**\n   - Visible bleeding from wounds or body orifices\n   - Bruising, swelling, or expanding haematoma\n   - Pain at the injury site\n\n **Internal Haemorrhage:**\n  - Abdominal pain or swelling\n   - Chest tightness or pain\n   - Blood in vomit, urine, or stool (may appear as bright red or dark/tarry)\n   - Unexplained bruising\n- When considering hypovolaemic shock, refer to that guideline",
+      "sortOrder": 1
+    },
+    {
+      "id": "haemorrhage-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Catastrophic haemorrhage refers to severe, life-threatening bleeding that can be fatal within minutes if not rapidly controlled by immediate intervention\n- In the majority of cases, direct pressure will be sufficient to control external bleeding.\n - Tourniquets should only be used as a last resort in truly non-compressible extremity bleeding, such as mangled limbs\n- In adult patients with traumatic haemorrhage (without traumatic brain injury), permissive hypotension typically aims for a systolic blood pressure of 80–90 mmHg\n- In adult patients with traumatic brain injury, a systolic blood pressure of at least 110 mmHg should be targeted\n- In adults, hypotension is often defined as a systolic blood pressure below 90 mmHg, or a decrease greater than 30% from the patient's baseline level\n- Monitor for the “triad of death”: hypothermia, acidosis, and coagulopathy\n - Older patients can have blunted physiological response, and younger patients can have strong compensatory reflexes\n- Decompensating patients might present with Bradycardia and is a late, preterminal sign\n- Vagal response to trauma: in some patients’ blood loss can trigger a cardiac reflex and vagal stimulation, causing hypotension and bradycardia. Pain from injuries and procedures (e.g. IV access, intercostal catheter insertion) can also trigger a vagal response\n- Some medications, e.g., beta-blockers and calcium channel blockers can prevent a tachycardic response to blood loss",
+      "sortOrder": 2
+    },
+    {
+      "id": "haemorrhage-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Address any catastrophic haemorrhage, arresting external haemorrhage by:\n   - Direct pressure\n   - Limbs: CAT Tourniquet (catastrophic or uncontrolled), document application time, reassess frequently\n   - For junctional (groin, axilla, neck) bleeding, use wound packing with haemostatic dressings and direct pressure\n   - Elevate the bleeding limb if possible\n- Primary Survey with c-spine consideration\n - Airway management/ventilatory support (as required)\n - Consider Oxygen if required\n - Consider posture, lateral, head/limb elevation\n - Haemostatic dressing, Israeli bandage\n - Consider wound packing\n - Consider pelvic binder and/or splinting\n - Keep patient warm\n - Secondary / CNS Survey\n - Minimise on scene time\n - Clinicians should have a low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "haemorrhage-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Establish vascular access, 2 x large bore (14g or 16g) cannula\n - The following patients may benefit from fluid therapy:\n   - Adult patients with blunt trauma and / or isolated head injury with hypotension and signs of impaired organ perfusion\n   - Adult patients with a head injury and penetrating trauma with hypotension and signs of impaired organ perfusion\n - Consider Tranexamic Acid if within time frame (no later than 3 hours post injury)\n - Consider finger thoracotomy in haemothorax differentials\n - Consider analgesia\n - Consider antiemetic",
+      "sortOrder": 4
+    },
+    {
+      "id": "haemorrhage-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Adult patients with penetrating trauma, ectopic pregnancy or aortic aneurysm with hypotension and signs of impaired organ perfusion may benefit from permissive hypotension (systolic blood pressure of 80mmHg)\n- If major veins of the neck are severed, do not sit the patient up as air may be sucked in and develop into a venous air embolism. If air embolism occurs (sudden deterioration, collapse, neurological changes), lie the patient down and administer high concentration oxygen. Apply local pressure with broad pad and hand\n- Patient posture to reduce airway complications attributed to ongoing bleeding must be prioritised over spinal motion restriction\n- To reduce the risk of clot dislodgment during extrication, patient movement should be minimised and coordinated\n- Penetrating or embedded objects must not be removed in the pre-hospital setting\n- Realignment and extension of long bone fractures minimise the tissue space into which bleeding may occur\n- Despite significant blood loss, trauma patients may appear well with normal vital signs, due to various factors including:\n   - Beta blocker medication\n   - The usually hypertensive patient\n   - Coagulopathic patient\n - Compensating pregnant/paediatric patient",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fibrinogen",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "oxygen",
+    "packed-red-blood-cells",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "batt-score",
+    "crams",
+    "news2"
+  ]
+}

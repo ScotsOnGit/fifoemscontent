@@ -1,0 +1,61 @@
+{
+  "id": "gastroenteritis",
+  "title": "Gastroenteritis",
+  "category": "common_presentations",
+  "tags": [
+    "gastroenteritis",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Gastroenteritis"
+  ],
+  "sections": [
+    {
+      "id": "gastroenteritis-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Gastroenteritis (gastro) is an inflammation of the stomach and intestines that causes acute onset of diarrhoea, often with vomiting, abdominal pain, and sometimes fever. It is typically self-limiting. The most common causes are the virus’s (70%) norovirus and rotavirus, however, can be caused by bacteria (20%) or protozoa (10%).",
+      "sortOrder": 0
+    },
+    {
+      "id": "gastroenteritis-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "Viral Bacterial Protozoal\n- Prominent upper gastrointestinal symptoms\n- Diarrhoea, vomiting and nausea\n- Symptom onset is typically acute and resolves within 24 to 48 hours\n- Fever\n- Tenesmus\n- Severe abdominal cramps\n- Mucus and or bloody stool\n- Symptom onset typically acute with typical duration of 4 to 7 days\n- Abdominal distension\n- Flatulence\n- Nausea and anorexia\n- Symptom onset is typically gradual (over several weeks) but can be acute\n- Sudden onset of abdominal cramping, watery diarrhoea, nausea and/or vomiting\n- Fever, rigors, headache, signs and symptoms of dehydration (tachycardia, hypotension, reduced skin turgor, sunken eyes)\n- Malaise, muscle aches, weakness, loss of appetite\n- Red flag symptoms: Bloody stools (dysentery) high fever (>38.5°C), signs of severe dehydration",
+      "sortOrder": 1
+    },
+    {
+      "id": "gastroenteritis-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Gastroenteritis is a highly infectious and transmissible condition\n- If tachycardia does not resolve with intravenous fluids, surgical or life-threatening causes should be considered\n- Abdominal examination must be performed in all patients to ensure cause is not a surgical abdomen (colitis/diverticulitis/appendicitis)\n- Inferior STEMIs can present with GI symptoms (consider ECG if cardiac risk factors are present)\n- Anti-emetic and anti-diarrhoeal medication should be avoided in the first 24-48 hours unless necessary to retain fluids\n- Consider any recent international travel\n- Some causes and scenarios of gastro are a notifiable disease; mine site outbreaks are reportable to WorkSafe WA COMMONPRESENNCE\n\n- Advise patients around proper hygiene\n- Due to nature of a mine site, i.e., close quarters, shared dining, remote setting etc., the site should be considered “high risk” in relation to gastro. Patients treated as or suspected of gastro should not return to work until 48 hours after symptoms stop\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable",
+      "sortOrder": 2
+    },
+    {
+      "id": "gastroenteritis-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs (including BGL)\n- Secondary Survey if required\n- Abdominal Assessment\n- Abdominal Auscultation\n- Advise rest\n- Consider “over the counter” analgesia (Paracetamol, ibuprofen)\n- Consider oral fluids with replacement electrolytes",
+      "sortOrder": 3
+    },
+    {
+      "id": "gastroenteritis-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider ECG\n- Consider IV access\n- Consider IV fluids\n- Consider Anti-emetic: Metoclopramide, Ondansetron, Prochlorperazine\n- Consider Anti-diarrhoeal: Loperamide\n- Consider antibiotics (Ciprofloxacin, Azithromycin), if possible bacterial cause, only in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "gastroenteritis-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Bare below the elbows when treating patients with communicable illnesses\n- Patient education on hygiene and room cleaning, changing bedding, etc.\n- Bacterial gastroenteritis can cause some serious complications. Complications specific to the cause of acute gastroenteritis such as Haemolytic Uraemic Syndrome (HUS) (E coli, Salmonella) and Guillain-Barré (Campylobacter) COMMONPRESENNCE",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

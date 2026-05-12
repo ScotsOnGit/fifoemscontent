@@ -1,0 +1,71 @@
+{
+  "id": "traumatic-brain-injury",
+  "title": "Traumatic Brain Injury",
+  "category": "trauma",
+  "tags": [
+    "traumatic",
+    "brain",
+    "injury",
+    "trauma"
+  ],
+  "synonyms": [
+    "Traumatic Brain Injury"
+  ],
+  "sections": [
+    {
+      "id": "traumatic-brain-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Traumatic Brain Injury (TBI) is a significant cause of morbidity and mortality worldwide. It can result from external forces leading to damage to the brain. The severity of TBI can vary from mild concussions to severe, life-threatening brain damage. Early identification, prompt management, and effective rehabilitation are essential for improving outcomes in patients with TBI.",
+      "sortOrder": 0
+    },
+    {
+      "id": "traumatic-brain-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Altered level of consciousness (confusion, agitation, drowsiness, unresponsiveness)\n- Glasgow Coma Scale (GCS) less than 15\n- Loss of consciousness (even transient)\n- Vomiting (especially repeated)\n- Severe or worsening headache\n- Amnesia (antegrade or retrograde)\n- Focal neurological deficits (e.g., limb weakness, facial droop, slurred speech)\n- Unequal or unreactive pupils, sensitivity to light or noise\n- Seizures\n- Signs of skull fracture (periorbital ecchymosis, mastoid bruising, CSF leak from nose/ears)\n- Penetrating head injury or visible scalp lacerations\n- Bleeding from ears or nose\n- Difficulty sleeping or staying asleep",
+      "sortOrder": 1
+    },
+    {
+      "id": "traumatic-brain-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Suggestive indicators of raised ICP and imminent brain herniation:\n  - Systolic hypertension / widening pulse pressure\n  - Bradycardia, abnormal respirations. i.e. “Cushing’s triad”\n - Hypoxia, hypotension, and hypothermia can worsen TBI outcomes\n - Hyperventilation should be avoided as it exacerbates cerebral ischaemia and can reduce venous return. It is generally used as a last resort where signs of impending cerebral herniation are evident\n - Exercise caution when considering Nasopharyngeal Airway during treatment of a patient with a suspected base of skull fracture\n - Patients receiving anti-coagulant and/or antiplatelet therapy will have an increased risk of haemorrhage\n- Excluding hypoglycaemia is essential\n- It is important to avoid raised ICP from impaired venous return. Ensure constricting tapes, ties and collars are loosened from around the neck and patient is positioned head up to 30° if possible\n- Do not use the 30° elevation in the hypovolaemic patient\n- Reassess airway, breathing, circulation, and neurological status frequently during delays or long transports",
+      "sortOrder": 2
+    },
+    {
+      "id": "traumatic-brain-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic bleeding\n- Primary Survey with c-spine consideration, avoid head tilt, utilise jaw thrust\n- Airway management/ventilatory support if required\n- Consider Oxygen where indicated, maintaining SpO2 above 90%\n- Immobilise when mechanism is suggestive of spinal involvement\n- Secondary Survey\n- Position patient with 30° head elevation if condition permits to improve venous drainage\n- As much as is possible, prepare patient for rapid evacuation; prioritise safe, timely transport\n- Clinicians should have a very low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "traumatic-brain-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway management, spinal precaution considerations\n- Establish vascular access, 2 x large bore\n- Consider fluids, avoid hypotension with judicious use of crystalloids if needed to maintain a systolic blood pressure > 110mmHg\n- Use IV Glucose 10% as required to maintain blood glucose level >4mmol/L\n- Apply cardiac monitoring\n- Consider Tranexamic Acid\n- Consider pain relief\n- Consider Ondansetron\n- Consider Midazolam\n- Consider Ketamine for patients exhibiting combative TBI (if in scope)\n- Consider 12 lead (Cranial changes to ECG are a late sign)",
+      "sortOrder": 4
+    },
+    {
+      "id": "traumatic-brain-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Primary injury is generally irreversible therefore the aim of treatment is to prevent secondary injury by supporting cerebral haemodynamic and metabolism. Hypoxia and hypotension cause the most prominent secondary injuries and may more than double mortality\n- Seizures\n- Combativeness or agitation\n- Clinical deterioration\n- Death\n- NICE head injury guidance recommends TXA is administered as soon as possible to patients of all ages with a GCS of 12 or less. TXA is administered 62 minutes earlier if given in the pre-hospital setting, this will be even longer in the remote setting, highlighting the importance of pre-hospital administration",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "hypertonic-saline-3",
+    "midazolam",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score"
+  ]
+}

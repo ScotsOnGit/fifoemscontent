@@ -1,0 +1,61 @@
+{
+  "id": "headache",
+  "title": "Headache",
+  "category": "neurological",
+  "tags": [
+    "headache",
+    "neurological"
+  ],
+  "synonyms": [
+    "Headache"
+  ],
+  "sections": [
+    {
+      "id": "headache-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Headache is a generalised term given to any pain or discomfort in the region of the head, scalp, neck or face. The pain associated with a headache may vary by type and underlying cause, ranging from sharp, throbbing, dull, or vice-like in nature and may occur on one or both sides of the head, be isolated to single location, or extend as a band across the skull. Headaches are categorised as:\n- Primary: Benign, with no structural cause (e.g., tension-type, migraine, cluster headaches)\n- Secondary: Symptoms of underlying conditions (e.g., stroke, infection, haemorrhage, tumour)",
+      "sortOrder": 0
+    },
+    {
+      "id": "headache-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Tension-type: Bilateral, pressing pain (mild-moderate), without nausea or photophobia\n- Migraine: Unilateral, throbbing pain (moderate-severe) with nausea/vomiting, photophobia, phonophobia, or aura\n- Cluster: Severe orbital/temporal pain lasting 15–180 minutes, with autonomic features (lacrimation, nasal congestion)\n- Other features: Neck stiffness, fever, confusion, weakness, or changes in consciousness (red flags for serious pathology) Green Flags Amber Flags Red Flags\n- Symptoms associated with influenza like illnesses\n- Previous history of headaches presenting with their usual symptoms and triggers\n- Normal vital signs, normal assessment using the FAST technique and able to walk normally\n- Worsening headache following trauma\n- Headache/migraine different in presentation to usual\n- Taking an antiplatelet /anticoagulant medication\n- HTN during pregnancy\n- Post partum\n- Previous history of intercranial haemorrhage\n- Onset during sexual activity\n- Familial history of cerebral vascular abnormalities\n- Thunderclap headache\n- Focal neurological deficits\n- Fever, rash or ALOC association\n- Meningeal signs\n- New onset of severe pain in greater than 50yrs\n- Headaches worsening over time\n- Headache associated with postural changes\n- Aura that lasts longer than an hour\n- Headache with ALOC\n- Substance abuse with amphetamines or cocaine\n- Headache + blood pressure ≥180 mmHg (systolic) or 120 mmHg (diastolic)",
+      "sortOrder": 1
+    },
+    {
+      "id": "headache-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Relief of symptoms with analgesia is not evident of a benign cause\n- Consideration should be given before administration of narcotics to patients with a history of chronic headaches as it has not been proven to be a successful intervention and may potentially increase the risk of reliance on such medication\n- Management of headaches that are considered red flags should be treated under any relevant CPG\n- Differential diagnosis: Migraine, tension-type headache, cluster headache, subarachnoid haemorrhage, meningitis, temporal arteritis, intracranial mass, or medication overuse headache",
+      "sortOrder": 2
+    },
+    {
+      "id": "headache-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- FAST assessment\n- Limb LEAD ECG\n- Consider cranial nerve Assessment if appropriate\n- Consider “over the counter” analgesia (paracetamol, ibuprofen, aspirin, diclofenac, Anagraine)\n- Secondary Survey if applicable\n- Consider cool compress\n- Consider rest in a dark, quiet room if available",
+      "sortOrder": 3
+    },
+    {
+      "id": "headache-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- 12 LEAD ECG (Cranial changes to ECG are a late sign)\n- Consider IV access\n- Consider IV fluids\n- Consider appropriate antiemetic (IM Metoclopramide in migraine) in consultation with on-call doctor\n- Consider further migraine related therapies in consult with on-call doctor, (triptans, IM metoclopramide)\n- Consider further analgesia in consultation with the on-call doctor (Aspalgin, Ibudeine, Naproxen, Celecoxib, Indomethacin)\n- Consider further parenteral analgesia, IM or IV if oral route not feasible in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "headache-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Clinical studies and systematic reviews have shown that parenteral metoclopramide (commonly 10 mg intramuscularly) can provide significant pain relief in acute migraine attacks, independent of its antiemetic effects\n- Common migraine triggers can include Illness, poor sleep, exercise, menstruation, stress, sun glare, food (citrus, MSG, artificial sweeteners, nuts, onion, salty foods, caffeine, chocolate), skipped meals, missed mediation, medication overdose/overuse\n\n**Headache patterns:**\n  - Acute Recurrent: Migraine\n  - Chronic Non-progressive: Tension type headache, anxiety, depression, somatisation\n  - Chronic Progressive: Tumour, benign intracranial hypertension, brain abscess, hydrocephalus\n  - Acute on chronic non-progressive: Tension headache with co-existing migraine\n  - Migraine induced long QT changes should be considered before medication administration (triptans, ondansetron). This is often linked to autonomic nervous system dysfunction during the migraine. While usually resolving after the migraine, it's important to be aware of this potential association due to the risk of arrhythmia ECG Change Frequency During Migraine Attack Clinical Relevance Rhythm abnormalities ~30% Arrhythmia risk (AF, PVC, APC) Prolonged PR interval ~20% Conduction delay, arrhythmia Prolonged QTc interval ~40% Ventricular arrhythmia risk T wave inversion ~66% Repolarization abnormality ST-segment abnormalities ~40% Ischemic/repolarization change Increased QTc/P- wave dispersion Yes Predicts arrhythmia risk",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "skill-intraosseous-access",
+  "title": "Intraosseous (IO) Access",
+  "category": "skills",
+  "skillsSubcategory": "medications",
+  "tags": [
+    "IO",
+    "intraosseous",
+    "EZ-IO",
+    "FAST1",
+    "bone access",
+    "cardiac arrest",
+    "shock"
+  ],
+  "synonyms": [
+    "IO Access",
+    "Intraosseous",
+    "EZ-IO",
+    "Bone Drill"
+  ],
+  "sections": [
+    {
+      "id": "skill-io-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Intraosseous (IO) access provides rapid vascular access via the medullary cavity of bone when IV access cannot be established. It can be used in all ages and for all resuscitation drugs and fluids. The EZ-IO drill is the most commonly used device in prehospital settings.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-io-sites",
+      "type": "management_basic",
+      "title": "Sites",
+      "content": "**Proximal tibia (first choice — all ages):**\n- 2 cm below tibial tuberosity on anteromedial flat surface\n- Needle length: 15 mm (paediatric/lean adult), 25 mm (standard adult), 45 mm (obese/large)\n\n**Proximal humerus (adults — useful in arrest with CPR in progress):**\n- Greater tubercle: 2 cm above surgical neck on anterolateral surface\n- Patient arm adducted, hand on abdomen\n- Higher flow rates than tibia\n\n**Distal tibia:**\n- 3 cm proximal to medial malleolus\n- Alternative when proximal tibia is inaccessible\n\n**Distal femur (paediatric):**\n- 1–3 cm above the lateral femoral condyle",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-io-procedure",
+      "type": "management_advanced",
+      "title": "Procedure (EZ-IO)",
+      "content": "1. Identify site; cleanse with antiseptic\n\n2. Select appropriate needle length (must penetrate cortex and enter marrow)\n\n3. Prime EZ-IO: attach needle set to driver; position tip at insertion site\n\n4. Apply firm downward pressure; engage power driver until decreased resistance (marrow entry)\n\n5. Remove stylet with counterclockwise rotation; attach primed extension set\n\n6. Confirm placement: needle is firm in bone, does not rock; 10 mL NaCl flushes without resistance or extravasation\n\n7. Aspirate to confirm marrow (not always achieved — absence does not confirm misplacement)\n\n8. Secure with EZ-IO stabiliser\n\n9. If conscious: flush with 2% lignocaine (40 mg) 2 minutes before first medication\n\n10. For drugs: administer followed by 10 mL NaCl flush and elevate limb",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-io-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- All IV drugs and fluids can be given IO — same doses as IV\n- Fluids require pressure bag or syringe to infuse against bone marrow pressure\n- Maximum dwell time: 24 hours (hospital to establish definitive IV)\n- Contraindicated: fracture proximal to insertion site, previous IO in same site within 24h, infection at site, osteogenesis imperfecta\n- Document: site, needle size, ease of insertion, flush confirmation",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "amiodarone",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "lignocaine-1"
+  ],
+  "relatedGuidelineIDs": [
+    "adult-resuscitation",
+    "hypovolaemic-shock",
+    "sepsis-septic-shock"
+  ],
+  "relatedCalculatorIDs": [
+    "weight-based-dosing"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

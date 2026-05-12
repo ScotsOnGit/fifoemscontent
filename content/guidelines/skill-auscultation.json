@@ -1,0 +1,56 @@
+{
+  "id": "skill-auscultation",
+  "title": "Auscultation",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "auscultation",
+    "breath sounds",
+    "lung sounds",
+    "heart sounds",
+    "stethoscope",
+    "assessment"
+  ],
+  "synonyms": [
+    "Auscultation",
+    "Lung Sounds",
+    "Breath Sounds",
+    "Heart Sounds"
+  ],
+  "sections": [
+    {
+      "id": "skill-auscultation-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Auscultation is the process of listening to sounds produced by the body, most commonly the lungs and heart, using a stethoscope. In the prehospital setting it is used to assess ventilation, identify abnormal breath sounds, confirm endotracheal tube placement, and assess cardiac rhythm.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-auscultation-technique",
+      "type": "management_basic",
+      "title": "Technique",
+      "content": "**Stethoscope**\n- Use the diaphragm (flat side) for high-pitched sounds: breath sounds, bowel sounds, normal heart sounds\n- Use the bell (concave side) for low-pitched sounds: heart murmurs, extra heart sounds\n- Ensure earpieces are angled forward to match ear canal direction\n- Eliminate background noise where possible\n\n**Lung Auscultation**\n1. Expose the chest; ask patient to breathe deeply through mouth\n2. Auscultate bilaterally — at least 2 sites per side anteriorly (apices, bases)\n3. Compare left and right sides at each level\n4. Posterior auscultation preferred when accessible\n\n**Breath Sound Landmarks (Anterior)**\n- Upper lobes: 2nd intercostal space, mid-clavicular line\n- Lower lobes: 4th–5th intercostal space, anterior axillary line\n\n**Heart Auscultation**\n- Aortic: 2nd ICS, right sternal border\n- Pulmonary: 2nd ICS, left sternal border\n- Tricuspid: 4th ICS, left sternal border\n- Mitral (Apex): 5th ICS, mid-clavicular line",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-auscultation-findings",
+      "type": "considerations",
+      "title": "Interpretation of Findings",
+      "content": "**Normal Breath Sounds:**\n- Vesicular: soft, rustling, heard over most lung fields\n- Bronchial: loud, hollow, heard over trachea and mainstem bronchi\n- Bronchovesicular: intermediate, heard over main bronchi\n\n**Abnormal Breath Sounds:**\n- **Absent / reduced**: pneumothorax, haemothorax, pleural effusion, mucous plug, endobronchial intubation\n- **Crackles (rales)**: fine = pulmonary oedema, pneumonia; coarse = secretions, bronchitis\n- **Wheezes (rhonchi)**: bronchospasm (asthma, COPD, anaphylaxis) — high-pitched; secretions — low-pitched\n- **Stridor**: upper airway obstruction — inspiratory, high-pitched\n- **Pleural rub**: pleurisy — leathery, scratching sound\n\n**Confirming ETT Placement:**\n- Auscultate epigastrium first (absent gurgling)\n- Then bilateral chest (equal breath sounds)\n- Combine with waveform capnography for definitive confirmation",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-auscultation-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Prehospital environments are noisy — use clinical context alongside auscultation findings\n- Unilateral absent breath sounds after trauma = pneumothorax until proven otherwise\n- Always auscultate before and after any airway intervention\n- Document findings as bilateral equal air entry, or describe specific abnormalities",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "skill-postpartum-haemorrhage",
+  "title": "Postpartum Haemorrhage (PPH)",
+  "category": "skills",
+  "skillsSubcategory": "obstetrics",
+  "tags": [
+    "PPH",
+    "postpartum haemorrhage",
+    "obstetric haemorrhage",
+    "uterine atony",
+    "4Ts"
+  ],
+  "synonyms": [
+    "PPH",
+    "Post-Partum Bleeding",
+    "Obstetric Haemorrhage"
+  ],
+  "sections": [
+    {
+      "id": "skill-pph-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Postpartum haemorrhage (PPH) is defined as blood loss > 500 mL within 24 hours of vaginal delivery (> 1000 mL for caesarean). Primary PPH (within 24 hours) is most common, usually due to uterine atony (4Ts: Tone, Trauma, Tissue, Thrombin). It is a leading cause of maternal mortality.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-pph-assessment",
+      "type": "considerations",
+      "title": "4T Causes",
+      "content": "**Tone (70–80%):** Uterine atony — uterus soft and boggy\n**Trauma (20%):** Laceration of cervix, vagina, perineum\n**Tissue (5%):** Retained placenta or membranes\n**Thrombin (1%):** Coagulopathy (pre-existing or acquired)",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-pph-management",
+      "type": "management_advanced",
+      "title": "Management",
+      "content": "**Uterine atony (most common):**\n\n1. Bimanual uterine massage: one hand on fundus abdominally; other hand internally (hospital only) — or external massage only prehospital\n\n2. Encourage breastfeeding (stimulates oxytocin release)\n\n3. Administer oxytocin per protocol (IM or slow IV infusion)\n\n4. IV access (large bore ×2); fluid resuscitation with Hartmann's\n\n5. Administer tranexamic acid if blood loss > 500 mL or coagulopathy suspected\n\n6. Elevate legs; keep warm\n\n7. Rapid transport — PPH is an emergency\n\n**Retained placenta:**\n- Do not pull on cord\n- Transport for manual removal under anaesthesia",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-pph-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Estimate blood loss: weigh pads if possible; pool of blood on surface ≈ 500 mL\n- Oxytocin: give IM (10 IU) if IV not available\n- Uterine atony: fundus should be firm at or below umbilicus after delivery; if soft and high: atony\n- Always reassess mother and neonate simultaneously\n- Document: estimated blood loss, oxytocin given, time, haemodynamic status",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxytocin",
+    "tranexamic-acid",
+    "hartmanns-solution",
+    "fibrinogen",
+    "packed-red-blood-cells"
+  ],
+  "relatedGuidelineIDs": [
+    "postpartum-haemorrhage",
+    "hypovolaemic-shock"
+  ],
+  "relatedCalculatorIDs": [
+    "news2",
+    "batt-score"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

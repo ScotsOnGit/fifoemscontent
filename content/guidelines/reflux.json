@@ -1,0 +1,61 @@
+{
+  "id": "reflux",
+  "title": "Reflux",
+  "category": "common_presentations",
+  "tags": [
+    "reflux",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Reflux"
+  ],
+  "sections": [
+    {
+      "id": "reflux-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Gastroesophageal reflux (GER) involves the involuntary retrograde flow of gastric contents into the oesophagus, which may cause symptoms or complications. Common causes can include, delayed gastric emptying, obesity, pregnancy, medications or hiatal hernia.",
+      "sortOrder": 0
+    },
+    {
+      "id": "reflux-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Heartburn, regurgitation, vomiting\n- Belching, acid taste in mouth, tooth decay\n- Chest pain\n- Cough (that can increase at night), wheezing, hoarseness, increasing/worsening Asthma symptoms\n- Feeling a lump in the or and/or sore throat",
+      "sortOrder": 1
+    },
+    {
+      "id": "reflux-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Chest pain as the primary symptom, difficulty and/or painful swallowing, gastrointestinal bleeding anaemia and/or persistent vomiting should be considered as red flags and warrant further offsite investigation\n- Consider cause from cardiac origin\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable",
+      "sortOrder": 2
+    },
+    {
+      "id": "reflux-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Vital Signs\n- Secondary Survey: auscultation, intra oral exam where required\n- Consider antacids: Mylanta, Gaviscon",
+      "sortOrder": 3
+    },
+    {
+      "id": "reflux-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Consider “Pink Lady” *\n- Consider Proton Pump Inhibitors (PPI) (Esomeprazole, Pantoprazole) in consultation with on-call doctor COMMONPRESENNCE",
+      "sortOrder": 4
+    },
+    {
+      "id": "reflux-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- When symptoms or mucosal injury are more severe it’s termed gastroesophageal reflux disease (GERD)\n- Some patient medication can worsen symptoms of GER, discuss with on-call doctor if concerned\n- Reflux symptoms are commonly induced by high-fat meals, alcohol, coffee, chocolate, citrus fruit, tomato products, spicy foods and carbonated beverages\n- Patient education on possible lifestyle modifications, i.e., weight loss, avoiding dietary triggers, avoiding meals 2-3 hours before bedtime, smoking cessation, avoiding tight clothing\n- Pink Lady can be made from 1:1 up to 1:3 but if unsure, speak to the on-call doctor\n- 1:1 Viscous Xylocaine 15mls : Gastrogel/Mylanta 15mls\n- 1:3 Viscous Xylocaine 10mls : Gastrogel/Mylanta 30mls COMMONPRESENNCE",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

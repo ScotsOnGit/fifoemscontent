@@ -1,0 +1,53 @@
+{
+  "id": "skill-vacuum-mattress",
+  "title": "Vacuum Mattress",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "vacuum mattress",
+    "bean bag splint",
+    "full body immobilisation",
+    "spinal",
+    "trauma"
+  ],
+  "synonyms": [
+    "Vacuum Mattress",
+    "Bean Bag Splint",
+    "Vacuum Splint"
+  ],
+  "sections": [
+    {
+      "id": "skill-vac-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The vacuum mattress conforms to the patient's body shape and provides full-body immobilisation superior to a long spinal board for suspected spinal injuries. On suction, polystyrene beads pack together creating a rigid custom-fitted shell. Preferred over long board for primary immobilisation of suspected spinal injury.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-vac-procedure",
+      "type": "management_basic",
+      "title": "Procedure",
+      "content": "1. Position deflated mattress flat; spread beads evenly\n\n2. Log roll or scoop patient onto mattress in neutral supine position\n\n3. Mould mattress up around sides of patient and under head/neck while maintaining cervical stabilisation\n\n4. Apply suction valve; pump until mattress is rigid\n\n5. Check: mattress is firm throughout; patient is fully supported in neutral alignment\n\n6. Apply straps: chest, hips, lower legs\n\n7. Reassess neurological status\n\n8. Transfer to stretcher — minimum 4 rescuers for lift",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-vac-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- If mattress loses rigidity during transport: re-apply suction immediately\n- Carry pump in ambulance at all times\n- Adjust head positioning to maintain neutral alignment — pad if required\n- Avoid prolonged immobilisation of conscious patient if possible — pressure injury risk",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "canadian-cspine",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

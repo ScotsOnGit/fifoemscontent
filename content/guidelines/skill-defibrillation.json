@@ -1,0 +1,59 @@
+{
+  "id": "skill-defibrillation",
+  "title": "Defibrillation",
+  "category": "skills",
+  "skillsSubcategory": "circulation",
+  "tags": [
+    "defibrillation",
+    "AED",
+    "VF",
+    "pVT",
+    "cardiac arrest",
+    "shock",
+    "ALS"
+  ],
+  "synonyms": [
+    "Defib",
+    "AED",
+    "Defibrillator",
+    "Unsynchronised Shock"
+  ],
+  "sections": [
+    {
+      "id": "skill-defib-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Defibrillation delivers a high-energy unsynchronised electrical shock to terminate ventricular fibrillation (VF) or pulseless ventricular tachycardia (pVT). Early defibrillation is one of the strongest predictors of survival from cardiac arrest — survival decreases approximately 10% per minute without defibrillation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-defib-procedure",
+      "type": "management_advanced",
+      "title": "Procedure",
+      "content": "**AED (Automated External Defibrillator):**\n\n1. Power on AED\n\n2. Attach pads: right — upper right chest (below clavicle); left — left mid-axillary line (V6 position / apex)\n\n3. Follow voice/visual prompts — stand clear during analysis\n\n4. If shock advised: ensure all clear, press shock button\n\n5. Immediately resume CPR for 2 minutes before next rhythm check\n\n**Manual Defibrillator:**\n\n1. Confirm shockable rhythm (VF/pVT)\n\n2. Apply pads in same positions (or paddles with conductive gel)\n\n3. Select energy: biphasic 150–200 J (first shock); 150–360 J (subsequent) — per device recommendation\n\n4. Charge while CPR continues\n\n5. Clear — confirm all clear verbally and visually\n\n6. Deliver shock\n\n7. Immediately resume CPR — do not pause to check rhythm",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-defib-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Pre-charge defibrillator before rhythm check to minimise pause\n- Do not shock in water or near flammable gases\n- Remove transdermal patches before pad placement\n- Implanted pacemaker/ICD: position pads ≥ 8 cm from device\n- Consider anteroposterior pad placement for obesity or poor response",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "amiodarone"
+  ],
+  "relatedGuidelineIDs": [
+    "adult-resuscitation",
+    "cardiac-arrhythmia"
+  ],
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

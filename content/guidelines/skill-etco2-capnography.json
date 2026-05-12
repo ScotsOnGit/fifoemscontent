@@ -1,0 +1,60 @@
+{
+  "id": "skill-etco2-capnography",
+  "title": "End-Tidal CO₂ Waveform Capnography",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "capnography",
+    "EtCO2",
+    "end-tidal CO2",
+    "waveform",
+    "intubation confirmation",
+    "ventilation monitoring",
+    "PETCO2"
+  ],
+  "synonyms": [
+    "Capnography",
+    "EtCO2",
+    "End-Tidal CO2",
+    "PETCO2",
+    "Waveform Capnography"
+  ],
+  "sections": [
+    {
+      "id": "skill-etco2-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Waveform capnography continuously measures the concentration of carbon dioxide (CO₂) in exhaled breath. It is the gold standard for confirming and monitoring endotracheal tube (ETT) placement and provides real-time data on ventilation, perfusion, and metabolic status. EtCO₂ reflects CO₂ produced by metabolism, transported by the circulation, and excreted by the lungs.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-etco2-application",
+      "type": "management_basic",
+      "title": "Application & Setup",
+      "content": "**Methods:**\n- **Mainstream**: sensor positioned directly in the airway circuit (ETT, BVM with adapter)\n- **Sidestream**: small sample of exhaled gas aspirated via nasal cannula or inline adapter — usable in non-intubated patients\n\n**For intubated patients:**\n1. Connect inline EtCO₂ adapter between ETT and ventilation circuit\n2. Confirm waveform: should show characteristic rectangular capnogram with Phase I (baseline), Phase II (expiratory upstroke), Phase III (alveolar plateau), Phase 0 (inspiratory downstroke)\n3. Note EtCO₂ value (normal: 35–45 mmHg / 4.6–6.0 kPa)\n\n**For non-intubated patients (nasal cannula):**\n1. Apply EtCO₂ nasal cannula\n2. EtCO₂ values may be 2–5 mmHg lower than in intubated patients due to air dilution\n3. Use to assess respiratory rate and trend rather than absolute values",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-etco2-interpretation",
+      "type": "considerations",
+      "title": "Waveform Interpretation",
+      "content": "**Normal Capnogram:** Rectangular waveform with a flat alveolar plateau\n\n**Normal EtCO₂:** 35–45 mmHg (4.6–6.0 kPa)\n\n**Abnormal Findings:**\n- **No waveform after intubation**: oesophageal intubation — reintubate immediately\n- **Gradually decreasing EtCO₂**: hyperventilation, hypothermia, reducing cardiac output, pulmonary embolism\n- **Suddenly absent waveform (intubated)**: ETT displacement, circuit disconnect, cardiac arrest\n- **Elevated EtCO₂ (> 45 mmHg)**: hypoventilation, increased metabolism, CO₂ rebreathing\n- **Shark fin waveform (oblique Phase III)**: bronchospasm — asthma, COPD\n- **Cleft in Phase III**: spontaneous breathing efforts during positive pressure ventilation\n- **Rising EtCO₂ during CPR**: indicates improving ROSC — consider pulse check\n- **EtCO₂ < 10 mmHg during CPR**: poor prognosis; reassess CPR quality and reversible causes\n\n**ROSC Indicator:** Sudden sustained rise in EtCO₂ ≥ 35 mmHg during CPR = likely ROSC",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-etco2-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Waveform capnography is the gold standard for ETT confirmation — use in addition to clinical assessment\n- CO poisoning: EtCO₂ may be low despite elevated carboxyhaemoglobin\n- Target EtCO₂ in TBI: 35–40 mmHg — avoid hyper or hypoventilation\n- In CPR: aim for chest compressions that generate EtCO₂ ≥ 20 mmHg\n- Always document EtCO₂ value and waveform quality at time of reading",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "ventilation-suite"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

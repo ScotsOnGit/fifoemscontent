@@ -1,0 +1,53 @@
+{
+  "id": "skill-log-roll",
+  "title": "Log Roll",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "log roll",
+    "spinal precautions",
+    "examination",
+    "back assessment",
+    "trauma"
+  ],
+  "synonyms": [
+    "Log Roll",
+    "Spinal Log Roll"
+  ],
+  "sections": [
+    {
+      "id": "skill-lr-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The log roll is a controlled coordinated technique to turn a patient while maintaining spinal alignment. It is used for posterior examination, patient transfer, placement of a long spinal board or vacuum mattress, and management of patients found prone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-lr-procedure",
+      "type": "management_basic",
+      "title": "Procedure (3+ Rescuers)",
+      "content": "1. Rescuer 1 (team lead — at head): manually immobilises cervical spine in neutral alignment; directs the roll\n\n2. Rescuer 2 and 3 (and 4 if available): position beside patient\n\n3. Rescuer 2: controls near shoulder and hip; Rescuer 3: controls hip and lower leg\n\n4. Extend the arm away from roll direction along patient's side\n\n5. On team lead command: roll patient in one smooth motion toward rescuers, maintaining spinal alignment\n\n6. Inspect back for wounds, deformity, and haematoma\n\n7. Place board or equipment as needed\n\n8. On command: roll back to supine",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-lr-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Team leader at head controls timing — do not roll until commanded\n- Minimum 3 rescuers for log roll; 4 for obese patients or femur fracture\n- Do not log roll suspected unstable pelvic fractures — scoop or lateral transfer instead\n- Document: findings on posterior inspection",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury",
+    "traumatic-brain-injury",
+    "abdominal-trauma"
+  ],
+  "relatedCalculatorIDs": [
+    "nexus-criteria",
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

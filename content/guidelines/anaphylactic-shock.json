@@ -1,0 +1,76 @@
+{
+  "id": "anaphylactic-shock",
+  "title": "Anaphylactic Shock",
+  "category": "shock",
+  "tags": [
+    "anaphylactic",
+    "shock",
+    "haemodynamic"
+  ],
+  "synonyms": [
+    "Anaphylactic Shock"
+  ],
+  "sections": [
+    {
+      "id": "anaphylactic-shock-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Anaphylaxis is a severe, acute, and potentially life-threatening systemic allergic reaction, characterised by rapid onset and multisystem involvement. It can present with a wide range of clinical features, including respiratory (bronchospasm or upper airway obstruction), cardiovascular (tachycardia, bradycardia, hypotension), cutaneous (urticarial rash or erythema/flushing, and/or angioedema), and gastrointestinal symptoms (diarrhoea, vomiting).",
+      "sortOrder": 0
+    },
+    {
+      "id": "anaphylactic-shock-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Cutaneous:**\n  - Swelling of lips, face, or eyes\n  - Urticaria (hives)\n  - Itching and welts (weal-like swellings)\n  - Flushed skin\n\n**Oral:**\n  - Tingling sensation in the mouth\n  - Gastrointestinal (Note: These symptoms, while listed here, may indicate more severe reactions, especially in insect or medication allergies.):\n  - Abdominal pain\n  - Nausea and/or vomiting\n\n**Respiratory:**\n  - Chest tightness\n  - Subjective airway impairment (swollen tongue, laryngeal oedema, stridor)\n  - Swelling or tightness in the throat\n  - Difficult or noisy breathing\n  - Difficulty talking and/or hoarse voice\n  - Wheeze or persistent cough\n  - Runny nose\n\n**Neurologic:**\n  - Decreased mental status\n\n**Cardiovascular:**\n  - Hypotension (may present as isolated hypotension in patients with known allergies)\n  - Tachy/Bradycardia",
+      "sortOrder": 1
+    },
+    {
+      "id": "anaphylactic-shock-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Ascertain whether a non-sedating or sedating antihistamine was administered before arrival. If a non-drowsy antihistamine was given and the patient exhibits decreased alertness, consider anaphylaxis as a potential diagnosis\n- Maintain a high index of suspicion for anaphylaxis in patients with unexplained hypotension, particularly when non-traumatic and non-cardiogenic causes have been excluded\n\n- In adults, hypotension is defined as a systolic blood pressure below 90 mmHg or a decrease of more than 30% from the patient’s known baseline and patients without respiratory distress should be positioned supine if possible\n- Anticipate and prepare for the possible need for advanced airway management early during treatment\n- Do not mobilise patients until the patient has been thoroughly assessed and circulatory stability can be ascertained. Assessment should not occur until at least one hour after a single dose of adrenaline, or four hours if more than one dose of adrenaline has been administered\n- Position the patient to facilitate dependent drainage of secretions, typically in the lateral position. Avoid the sitting position unless clinically necessary; consider a semi- recumbent position if required. Ensure legs are outstretched (not flexed in a chair), and do not allow the patient to stand or walk, even if symptoms appear to resolve\n- Multiple doses of adrenaline may be required due to biphasic reactions and thus, all patients should be transported for further review and management\n- Injection sites should not be close together. Consider rotating injection sites",
+      "sortOrder": 2
+    },
+    {
+      "id": "anaphylactic-shock-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Administer Adrenaline via Auto-Injector if available\n- Primary survey\n- Position patient appropriately (i.e. lateral position, unless respiratory distress predominates)\n- Left lateral position for pregnant patients\n- Remove trigger / injection mechanism if possible\n- Conduct vital sign survey, particularly respiratory rate, blood pressure and pulse oximetry\n- Consider oxygen\n- Limb LEAD ECG\n- ESO’s should have a low threshold for contacting the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "anaphylactic-shock-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Administer intramuscular adrenaline 500mcg (anterior lateral thigh) and repeat if required\n- Apply cardiac monitoring, if peri-arrest, apply defib pads\n- Obtain large bore vascular access in all patients\n- Consider fluid therapy if required for treatment of anaphylactic shock\n- Consider Salbutamol if required for persistent wheeze (lower airway, not to be used as first line)\n- Consider Hydrocortisone if persistent wheeze\n- If peri-arrest / life-threatening and unresponsive to 3x IM Adrenaline doses and fluid therapy, consider intravenous Adrenaline infusion (the correct IV presentation is important, please ensure prepared appropriately)\n- If angioedema / stridor / airway obstruction (upper airway) unresponsive to 2x IM Adrenaline doses, consider nebulised Adrenaline\n- If persistently hypotensive OR unresponsive to adrenaline, consider Glucagon IV. Only in consultation with on-call doctor, RFDS or another specialist",
+      "sortOrder": 4
+    },
+    {
+      "id": "anaphylactic-shock-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Patient should be taken to a medical facility where they can be monitored for 4 hours after the last dose of adrenaline",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-auto-injector",
+    "adrenaline-epinephrine",
+    "hydrocortisone",
+    "intravenous-normal-saline",
+    "ipratropium-bromide",
+    "loratadine",
+    "oxygen",
+    "prednisolone",
+    "salbutamol-sulphate"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "avpu"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "skill-sager-traction",
+  "title": "Sager Traction Splint",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "Sager",
+    "traction splint",
+    "femur",
+    "bilateral femur",
+    "midshaft fracture"
+  ],
+  "synonyms": [
+    "Sager Splint"
+  ],
+  "sections": [
+    {
+      "id": "skill-sager-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The Sager traction splint is positioned medially and can be used for bilateral femur fractures (unlike most unilateral splints). It applies countertraction via a perineal strap against the ischium.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-sager-procedure",
+      "type": "management_advanced",
+      "title": "Application",
+      "content": "1. Provide analgesia\n\n2. Position Sager along medial aspect of injured leg; ischial pad against ischial tuberosity\n\n3. Secure thigh strap\n\n4. Apply ankle strap\n\n5. Extend traction bar and apply traction via ankle coupling until pain relief — generally 10% of body weight, maximum 15 kg\n\n6. Secure calf and thigh straps\n\n7. Reassess neurovascular status",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-sager-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Bilateral application possible with a single Sager splint (unique to Sager design)\n- Reassess traction and neurovascular status frequently during transport\n- Same contraindications as other traction splints",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane",
+    "fentanyl"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "haemorrhage"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

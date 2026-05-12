@@ -1,0 +1,56 @@
+{
+  "id": "skill-fernotrac-traction",
+  "title": "Fernotrac Traction Splint",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "Fernotrac",
+    "traction splint",
+    "femur",
+    "midshaft femur fracture",
+    "traction"
+  ],
+  "synonyms": [
+    "Fernotrac",
+    "Traction Splint",
+    "Femur Splint"
+  ],
+  "sections": [
+    {
+      "id": "skill-fernotrac-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The Fernotrac (Thomas splint variant) is a traction splint that applies countertraction to reduce pain, restore length, and reduce haematoma in isolated closed midshaft femur fractures. Traction splints are contraindicated for hip, knee, ankle, open femur fractures, and avulsion injuries.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-fernotrac-procedure",
+      "type": "management_advanced",
+      "title": "Application",
+      "content": "**Indications:** Isolated closed midshaft femur fracture, no contraindications\n**Contraindications:** Open fracture, hip/pelvis fracture, knee/ankle injury, avulsion\n\n1. Provide analgesia before application\n\n2. Measure splint against uninjured leg: ischial tuberosity to 15 cm beyond heel\n\n3. Apply ischial strap snugly at proximal thigh\n\n4. Apply ankle strap or traction hitch to foot\n\n5. Extend ratchet/traction mechanism until patient reports pain relief — approximately 10% of body weight\n\n6. Apply support straps along length of thigh\n\n7. Reassess neurovascular status",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-fernotrac-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Traction should reduce not worsen pain — if pain increases, reassess application and confirm diagnosis\n- Do not apply more than 15 kg traction\n- Remove and reassess on hospital arrival\n- Document: pre/post neurovascular status, traction force applied",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane",
+    "fentanyl",
+    "ketamine"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "haemorrhage"
+  ],
+  "relatedCalculatorIDs": [
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

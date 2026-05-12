@@ -1,0 +1,33 @@
+{
+  "id": "s-p-e-e-d-spinal-emergency-evaluation-of-deficits",
+  "title": "S.P.E.E.D Assessment",
+  "category": "trauma",
+  "tags": [
+    "spinal",
+    "emergency",
+    "evaluation",
+    "deficits",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "S.P.E.E.D – Spinal Emergency Evaluation of Deficits"
+  ],
+  "sections": [
+    {
+      "id": "s-p-e-e-d-spinal-emergency-evaluation-of-deficits-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The S.P.E.E.D (Spinal Emergency Evaluation of Deficits) assessment is a rapid neurological assessment tool used to evaluate acute spinal cord injuries, focusing on motor and sensory function to determine injury severity and level. It's designed for use in the first hour’s post-injury, helping identify patients who may benefit from early intervention.",
+      "sortOrder": 0
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "speed-assessment"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

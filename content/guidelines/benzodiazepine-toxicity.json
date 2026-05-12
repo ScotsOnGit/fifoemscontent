@@ -1,0 +1,71 @@
+{
+  "id": "benzodiazepine-toxicity",
+  "title": "Benzodiazepine Toxicity",
+  "category": "toxicology",
+  "tags": [
+    "benzodiazepine",
+    "toxicity",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Benzodiazepine Toxicity"
+  ],
+  "sections": [
+    {
+      "id": "benzodiazepine-toxicity-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Benzodiazepines (BZD) are sedative agents which act by potentiating the effects of the inhibitory neurotransmitter GABA within the central nervous system. They are one of the most common prescription drugs used in self-poisoning.",
+      "sortOrder": 0
+    },
+    {
+      "id": "benzodiazepine-toxicity-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Symptoms usually manifest within 4-6 hours:\n  - Ataxia\n  - Drowsiness\n  - Slurred Speech\n  - Decreased GCS\n  - Hypotension, bradycardia and hypothermia are possible with large ingestions",
+      "sortOrder": 1
+    },
+    {
+      "id": "benzodiazepine-toxicity-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- For isolated BZD overdoses, full recovery is expected when good supportive care is provided\n- Older persons, history of cardiorespiratory comorbidity and ingestion of other CNS depressants suggest a higher risk of complications\n- Illicit or non-prescription benzodiazepines are most dangerous and often required intubation when overdosed\n- Profound come suggests co-ingestion of a CNS depressing agent, e.g., alcohol, as they may compound toxicity\n- It is not uncommon for a BZD overdose to present with hypoglycaemia thus ensure a BGL is acquired",
+      "sortOrder": 2
+    },
+    {
+      "id": "benzodiazepine-toxicity-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "benzodiazepine-toxicity-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider glucose if indicated\n- Consider anti-emetic\n- Consider Flumazenil in consultation with on-call doctor (Alprazolam, illicit benzodiazepine, latrogenic causes)",
+      "sortOrder": 4
+    },
+    {
+      "id": "benzodiazepine-toxicity-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "**Examples of BZD’s include:**\n  - Alprazolam (Xanax)\n  - Clonazepam\n  - Diazepam (Valium)\n  - Midazolam\n  - Nitrazepam\n  - Oxazepam\n  - Temazepam\n  - Lorazepam (Ativan)\n  - Flumazenil administration carries the risk or precipitating a toxidrome or a seizure in someone who has either taken a mixed overdose or has a history of epilepsy or chronic benzodiazepine use. If the patient has a seizure, you are now unable to give a benzodiazepine to terminate the seizure\n  - Illicit non-prescription benzodiazepines are especially dangerous because the actual content and strength of the drug are often unknown and can vary widely.\nNovel/designer benzodiazepines can be much more potent than prescription versions, increasing the risk of overdose, severe sedation, amnesia, and withdrawal. These types of benzodiazepines may contain other drugs or toxic substances, including synthetic opioids\n  - Always offer engagement with Mind Matters or EAP if applicable",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "avpu",
+    "gcs",
+    "news2"
+  ]
+}

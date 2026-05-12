@@ -1,0 +1,60 @@
+{
+  "id": "skill-secondary-cns-survey",
+  "title": "Secondary & CNS Survey",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "secondary survey",
+    "CNS",
+    "head to toe",
+    "neurological",
+    "assessment",
+    "history",
+    "SAMPLE"
+  ],
+  "synonyms": [
+    "Secondary Survey",
+    "CNS Survey",
+    "Head-to-Toe Assessment"
+  ],
+  "sections": [
+    {
+      "id": "skill-secondary-cns-survey-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "The secondary survey is a systematic head-to-toe examination performed after life threats identified in the primary survey have been addressed. It aims to identify all injuries and abnormalities. The CNS (Central Nervous System) component focuses on neurological status, cranial nerve assessment, and focal deficits.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-secondary-cns-survey-history",
+      "type": "considerations",
+      "title": "History (SAMPLE)",
+      "content": "**S** — Signs & Symptoms: Chief complaint and current symptoms\n**A** — Allergies: Medications, environmental, food\n**M** — Medications: Current medications including OTC and supplements\n**P** — Pertinent past history: Previous illnesses, hospitalisations, surgeries\n**L** — Last oral intake: Food and drink, time\n**E** — Events leading to presentation: Mechanism, onset, duration",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-secondary-cns-survey-steps",
+      "type": "management_basic",
+      "title": "Head-to-Toe Examination",
+      "content": "**Head & Face**\n- Inspect and palpate scalp for lacerations, haematoma, deformity\n- Eyes: pupils (size, equality, reactivity), periorbital bruising (raccoon eyes), Battle's sign\n- Ears: blood, CSF otorrhoea\n- Nose: bleeding, CSF rhinorrhoea, septal deviation\n- Mouth: airway, dentition, lip/tongue injuries\n\n**Neck**\n- Tracheal position, JVD, surgical emphysema, tenderness\n- Apply cervical collar if indicated\n\n**Chest**\n- Inspect for symmetry, deformity, paradoxical movement\n- Palpate ribs, sternum, clavicles\n- Auscultate: bilateral breath sounds, heart sounds\n\n**Abdomen**\n- Inspect for distension, guarding, bruising (seat belt sign)\n- Palpate all four quadrants: tenderness, rigidity, masses\n- Pelvis: gentle compression for instability (do not rock)\n\n**Perineum & Genitalia**\n- Priapism (spinal cord injury indicator)\n- Urethral blood, scrotal bruising\n\n**Extremities**\n- Inspect for deformity, swelling, open wounds\n- Assess CSM (circulation, sensation, movement) distally\n- Pulses: radial, posterior tibial\n\n**Posterior**\n- Log roll maintaining spinal alignment\n- Inspect spine for tenderness, deformity, step-off\n- Buttocks, posterior thighs\n\n**CNS Survey**\n- GCS: Eyes, Verbal, Motor (document score and components)\n- Pupils: direct and consensual light reflex\n- Limb power: grip strength bilaterally, lower limb movement\n- Sensation: light touch, pinprick in all limbs\n- Reflexes if indicated\n- Coordination: finger-nose, heel-shin if patient able",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-secondary-cns-survey-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Secondary survey must not delay definitive care for life threats\n- Document all findings with timestamps\n- Reassess after every intervention and during transport\n- In an unresponsive patient, CNS survey focuses on GCS, pupils, and limb response to pain\n- Deterioration in GCS of 2 or more points is clinically significant",
+      "sortOrder": 3
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "gcs",
+    "avpu",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

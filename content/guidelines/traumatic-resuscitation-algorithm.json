@@ -1,0 +1,46 @@
+{
+  "id": "traumatic-resuscitation-algorithm",
+  "title": "Traumatic Resuscitation Algorithm",
+  "category": "resuscitation",
+  "tags": [
+    "traumatic",
+    "resuscitation",
+    "algorithm",
+    "CPR",
+    "cardiac arrest"
+  ],
+  "synonyms": [
+    "Traumatic Resuscitation Algorithm"
+  ],
+  "sections": [
+    {
+      "id": "traumatic-resuscitation-algorithm-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Refer to the Traumatic Resuscitation Algorithm chart in the MRL Clinical Practice Guidelines Manual.",
+      "sortOrder": 0
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "fibrinogen",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "oxygen",
+    "packed-red-blood-cells",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "mgap",
+    "gap",
+    "crams",
+    "batt-score",
+    "gcs",
+    "avpu"
+  ]
+}

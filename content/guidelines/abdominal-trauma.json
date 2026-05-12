@@ -1,0 +1,75 @@
+{
+  "id": "abdominal-trauma",
+  "title": "Abdominal Trauma",
+  "category": "trauma",
+  "tags": [
+    "abdominal",
+    "trauma",
+    "injury"
+  ],
+  "synonyms": [
+    "Abdominal Trauma"
+  ],
+  "sections": [
+    {
+      "id": "abdominal-trauma-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Abdominal trauma refers to any injury to the abdomen, resulting from blunt or penetrating mechanisms. It may involve damage to solid organs (e.g., liver, spleen), hollow viscera (e.g., bowel), blood vessels, or the abdominal wall. Abdominal trauma can lead to life- threatening internal bleeding and organ dysfunction. Many serious abdominal injuries my appear insignificant thus making it difficult to predict severity. The proximity of the organs within the torso makes distinguishing between abdomen, chest and pelvic injuries difficult.\nAssociated injuries outside that cavity should be considered in all patients.",
+      "sortOrder": 0
+    },
+    {
+      "id": "abdominal-trauma-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- History: Blunt trauma (e.g., motor vehicle collision, fall, assault) or penetrating trauma (e.g., stabbing, gunshot)\n- Visible injuries: Bruising (such as seat belt signs), abrasions, lacerations, open wounds, evisceration\n- Signs of shock: Tachycardia, hypotension, pallor, diaphoresis, cool peripheries, delayed capillary refill\n- Distension (swollen and firm, late sign), nausea/vomiting\n- Localised or diffuse abdominal pain/discomfort, guarding, rigidity, or tenderness on palpation\n- Referred pain: Shoulder tip pain, (Kehr’s sign – may indicate splenic injury)\n- Associated injuries such as pelvic fractures, chest injuries, long bone fractures",
+      "sortOrder": 1
+    },
+    {
+      "id": "abdominal-trauma-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Some presentations may only have unexplained shock as the only sign of abdominal trauma\n- Significant abdominal injuries may present but may not be apparent and show little to no signs of external of trauma or a trivial pattern of injury or mechanism\n- Use minimal fluid resuscitation to achieve a systolic BP of 90mmHg or perfusion of vital organs\n- Shoulder tip pain may be indicative of an injury that is irritating the diaphragm\n- Be mindful that upper abdominal wounds, especially penetrating trauma, may also cause major thoracic damage\n- Motor vehicle accidents: Lap belts have a 30% chance of causing mesenteric or intestinal injury\n- Any left upper quadrant pain requires an ultrasound to rule out spleen injury",
+      "sortOrder": 2
+    },
+    {
+      "id": "abdominal-trauma-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Manage catastrophic bleeding with haemorrhage control if required\n- Primary Survey with c-spine consideration\n- Airway management with c-spine considerations\n- Oxygen administration if indicated\n- Cover exposed viscera with moist, sterile, non-adherent dressing and plastic wrap. Do not attempt to replace organs\n- Immobilisation of impaled objects and positioning if required\n- Consider pelvic binder if indicated\n- Perform remainder of vital sign survey\n- Secondary / CNS Survey\n- Urinalysis where appropriate\n- Pregnancy test where appropriate\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "abdominal-trauma-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway management as required\n- Gain IV Access\n- Consider IV fluids (permissive)\n- Consider tranexamic acid in consultation with the on-call doctor\n- Consider antiemetic\n- Administer appropriate pain relief\n- Apply cardiac monitoring",
+      "sortOrder": 4
+    },
+    {
+      "id": "abdominal-trauma-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Pattern bruising, such as Cullen’s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "methoxyflurane",
+    "oxygen",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "crams",
+    "batt-score",
+    "news2"
+  ]
+}

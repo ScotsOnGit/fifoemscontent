@@ -1,0 +1,76 @@
+{
+  "id": "calcium-channel-blockers-toxicity",
+  "title": "Calcium Channel Blockers Toxicity",
+  "category": "toxicology",
+  "tags": [
+    "calcium",
+    "channel",
+    "blockers",
+    "toxicity",
+    "toxicology",
+    "poisoning",
+    "overdose"
+  ],
+  "synonyms": [
+    "Calcium Channel Blockers Toxicity"
+  ],
+  "sections": [
+    {
+      "id": "calcium-channel-blockers-toxicity-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Calcium channel blockers (CCBs) are a class of medications that lower blood pressure by reducing the amount of calcium entering cells of the heart and blood vessels. They work by blocking calcium from entering through specific channels in these cells, which relaxes blood vessels and reduces the heart's workload. Overdose is associated with vasoplegia and cardiovascular collapse. Overdose can lead to potentially life-threatening cardiovascular, metabolic, and neurological effects.",
+      "sortOrder": 0
+    },
+    {
+      "id": "calcium-channel-blockers-toxicity-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Hypotension, bradycardia, AV block or other arrhythmias, shock (cardiogenic, distributive)\n- Altered mental state, seizures (rare, usually secondary to hypoperfusion)\n- Pulmonary oedema, respiratory depression\n- Nausea and vomiting, decreased bowel sounds/ileus\n- Hyperglycaemia, lactic acidosis, warm, flushed skin",
+      "sortOrder": 1
+    },
+    {
+      "id": "calcium-channel-blockers-toxicity-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- CCB toxicity is potentially life-threatening, particularly if Verapamil or diltiazem is taken.\nThese are more cardio selective\n- Those with underlying cardiovascular disease are more at risk of severe toxicity\n- Ingestion of other cardiac medications, such as ACE inhibitors, beta blockers or digoxin can cause severe CCB toxicity if taken together",
+      "sortOrder": 2
+    },
+    {
+      "id": "calcium-channel-blockers-toxicity-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Signs, BSL\n- Consider activated charcoal if presented within first hour of ingestion\n- Have a low threshold for calling on-call doctor",
+      "sortOrder": 3
+    },
+    {
+      "id": "calcium-channel-blockers-toxicity-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Gain IV access\n- Consider Blood draw for i-STAT, check potassium and acid base (CG8+) where applicable\n- Consider fluids if indicated\n- Consider calcium gluconate in consultation with on-call doctor\n- Consider Atropine (often ineffective) in consultation with on-call doctor\n- Consider Adrenaline in consultation with on-call doctor\n- Consider insulin/glucose bolus dose if indicated (and available) in consultation with on- call doctor\n- Consider sodium bicarbonate (if metabolic acidosis evident) in consultation with on- call doctor\n- Consider transthoracic pacing with adequate sedation in consultation with on-call doctor",
+      "sortOrder": 4
+    },
+    {
+      "id": "calcium-channel-blockers-toxicity-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "**Examples of CCB’s include:**\n  - Amlodipine, Nifedipine, Felodipine, Verapamil, Diltiazem\n  - Glucagon promotes calcium entry into cells via stimulation of a receptor that is considered to be separate from adrenergic receptors. Glucagon can be considered (in consultation only) in the treatment of CCB for this reason; however, it is unlikely that any site will carry enough Glucagon to follow this through\n  - Always offer EAP services where necessary",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "atropine-sulphate",
+    "calcium-gluconate",
+    "noradrenaline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "bazett-qtc",
+    "ecg-axis",
+    "news2"
+  ]
+}

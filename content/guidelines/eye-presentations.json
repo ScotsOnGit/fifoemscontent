@@ -1,0 +1,83 @@
+{
+  "id": "eye-presentations",
+  "title": "Eye Presentations",
+  "category": "common_presentations",
+  "tags": [
+    "eye",
+    "eyes",
+    "ocular",
+    "conjunctivitis",
+    "foreign body",
+    "corneal abrasion",
+    "eye wash",
+    "red eye",
+    "subconjunctival haemorrhage",
+    "stye",
+    "blepharitis",
+    "chemical splash",
+    "fluorescein",
+    "common presentation"
+  ],
+  "synonyms": [
+    "Eye Complaints",
+    "Ocular Complaints",
+    "Red Eye",
+    "Eye Problems"
+  ],
+  "sections": [
+    {
+      "id": "eye-presentations-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Eye presentations in the remote and prehospital setting range from minor irritations to conditions requiring urgent medical review. Common non-emergent presentations include conjunctivitis (bacterial or viral), corneal foreign bodies, superficial corneal abrasions, subconjunctival haemorrhage, styes, blepharitis, and chemical or environmental irritants. Thorough assessment is essential to differentiate between minor, self-limiting conditions and those requiring escalation to the on-call doctor or urgent off-site transfer.",
+      "sortOrder": 0
+    },
+    {
+      "id": "eye-presentations-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "**Bacterial Conjunctivitis**\n- Unilateral or bilateral red/pink eye\n- Purulent (yellow/green) discharge, often crusting on lids\n- Gritty or burning sensation; eyelids may be stuck together on waking\n- Vision generally unaffected\n\n**Viral Conjunctivitis**\n- Typically bilateral (may start unilateral)\n- Watery or serous discharge\n- Associated with URTI, sore throat, lymphadenopathy\n- Highly contagious\n\n**Corneal Foreign Body / Abrasion**\n- Sudden onset pain, photophobia, foreign body sensation\n- Excessive tearing (epiphora)\n- Blepharospasm (difficulty keeping eye open)\n- History of trauma, grinding, or exposure to wind/dust\n- May have visible foreign body on cornea or under eyelid\n\n**Subconjunctival Haemorrhage**\n- Painless bright red patch on the white of the eye\n- No discharge, no change in vision\n- Often noticed incidentally; may follow coughing, sneezing, or Valsalva\n\n**Stye (Hordeolum)**\n- Localised painful swelling on the eyelid margin\n- May have central yellow/white point (abscess)\n- Tenderness to palpation\n\n**Blepharitis**\n- Chronic bilateral lid margin inflammation\n- Crusting, scaling, or greasy deposits at lash base\n- Burning, itching, mild redness; worse in the morning\n\n**Chemical / Environmental Irritation**\n- History of exposure (dust, smoke, chemicals, UV light)\n- Burning, stinging, redness, tearing",
+      "sortOrder": 1
+    },
+    {
+      "id": "eye-presentations-considerations",
+      "type": "considerations",
+      "title": "Considerations & Red Flags",
+      "content": "**Contact the on-call doctor for any of the following:**\n- Significant reduction in visual acuity\n- Severe eye pain not relieved with irrigation or topical anaesthetic\n- Penetrating or perforating eye injury\n- Chemical splash (strong acid or alkali) — irrigate first, then contact doctor\n- Hyphaema (blood in anterior chamber)\n- Corneal ulceration or suspected herpetic keratitis (dendrites on fluorescein)\n- Pupil abnormalities (irregular, non-reactive, or unequal pupils)\n- Proptosis or periorbital swelling suggestive of orbital cellulitis\n- Recent intraocular surgery\n- Photophobia with headache and neck stiffness (consider meningitis)\n\n**Assessment Considerations:**\n- Always check and document visual acuity (using Snellen chart if available, or a near-vision card)\n- Examine both eyes systematically: lids, lashes, conjunctiva, cornea, anterior chamber, pupils\n- Use a torch and, where available, fluorescein staining to identify corneal epithelial defects\n- Evert the upper eyelid to check for sub-tarsal foreign bodies\n- Ask about contact lens use — lens wearers with a red eye warrant heightened concern and on-call doctor contact\n- Ascertain any history of trauma, chemical exposure, or recent URTI",
+      "sortOrder": 2
+    },
+    {
+      "id": "eye-presentations-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "**All Eye Presentations**\n- Primary Survey\n- Vital Signs (including temperature if infection suspected)\n- Document visual acuity in both eyes\n- Inspect eye(s): lids, lashes, conjunctiva, cornea, pupils — compare both eyes\n- If contact lenses worn, remove prior to any examination or treatment\n\n**Foreign Body / Superficial Abrasion**\n- Irrigate the eye thoroughly with sterile normal saline or sterile water (minimum 250mL)\n- Evert the upper eyelid and inspect for sub-tarsal foreign body\n- If a visible, loose, superficial foreign body is present on the conjunctiva, attempt removal with a moistened cotton bud or gentle irrigation — do NOT attempt to remove embedded corneal foreign bodies\n- Consider fluorescein staining to identify corneal abrasions or residual foreign body\n- Advise the patient to avoid rubbing the eye\n\n**Bacterial Conjunctivitis**\n- Advise gentle cleansing of lid margins with clean water or saline-soaked gauze\n- Consider chloramphenicol 0.5% eye drops — in consultation with on-call doctor\n- Advise strict hand hygiene and avoidance of sharing towels or pillowcases\n\n**Viral Conjunctivitis**\n- Supportive care only; antibiotics are not indicated\n- Cool compresses for comfort\n- Advise strict hand hygiene; highly contagious\n\n**Subconjunctival Haemorrhage**\n- Reassure the patient — this is typically benign and self-limiting\n- Resolves over 1–2 weeks without treatment\n- Advise to return if vision changes, pain develops, or haemorrhage recurs frequently\n\n**Stye (Hordeolum)**\n- Advise warm compress 3–4 times per day for 10–15 minutes\n- Advise against squeezing or attempting to drain\n- Consider chloramphenicol eye ointment (topical) if spreading cellulitis — in consultation with on-call doctor\n\n**Blepharitis**\n- Advise warm compress and gentle lid margin hygiene (cotton bud with dilute baby shampoo)\n- Long-term lid hygiene is the mainstay of management\n\n**Chemical / UV Irritation**\n- Immediate copious irrigation with sterile normal saline (minimum 1 litre for chemical exposure)\n- Continue irrigation until pH of conjunctival sac is 7.0–7.4 (test with pH paper if available)\n- Contact on-call doctor for all significant chemical splash injuries",
+      "sortOrder": 3
+    },
+    {
+      "id": "eye-presentations-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider topical anaesthetic (proxymetacaine / tetracaine) to facilitate examination — in consultation with on-call doctor; NOT to be used for ongoing pain relief (delays healing, masks worsening)\n- Fluorescein staining to identify and document corneal epithelial defects\n- Consider cycloplegic agent (e.g. cyclopentolate) for ciliary spasm pain — on-call doctor order required\n- Consider oral analgesia (ibuprofen, paracetamol) for pain management\n- Consider oral antibiotics for periorbital or orbital cellulitis — on-call doctor order required\n- IV access and IV antibiotics may be required for severe orbital or periorbital cellulitis — on-call doctor order required\n- Arrange off-site transfer where indicated (see Red Flags above)",
+      "sortOrder": 4
+    },
+    {
+      "id": "eye-presentations-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- **Chloramphenicol eye drops** are a broad-spectrum topical antibiotic for bacterial conjunctivitis. Supplied as 0.5% drops; instil 1 drop into the affected eye(s) every 2 hours while awake for the first 48 hours, reducing to 4 times daily thereafter for up to 5 days total. Requires on-call doctor authorisation.\n- **Sodium fluorescein** is a diagnostic dye used topically to detect corneal epithelial defects. Apply 1 drop of 2% fluorescein solution or use a fluorescein-impregnated strip moistened with saline; view under cobalt blue light. Normal corneal epithelium does not take up the dye; defects (abrasions, ulcers, foreign body tracks, herpetic dendrites) fluoresce bright green.\n- Do NOT patch corneal abrasions — current evidence does not support patching and it may increase infection risk.\n- Contact lens wearers should not return to wearing lenses until fully healed and after review by a doctor or optometrist.\n- Fluorescein will temporarily stain soft contact lenses; remove them before use.\n- Document findings clearly: which eye(s), degree of visual acuity, nature of discharge, fluorescein findings, and any treatment administered.\n- Encourage return to clinic if symptoms worsen or fail to improve within 48 hours.",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "chloramphenicol-eye-drops",
+    "sodium-fluorescein"
+  ],
+  "relatedGuidelineIDs": [
+    "skill-eye-washing",
+    "skill-fluorescein"
+  ],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}

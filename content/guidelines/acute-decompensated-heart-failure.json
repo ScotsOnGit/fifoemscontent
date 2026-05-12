@@ -1,0 +1,66 @@
+{
+  "id": "acute-decompensated-heart-failure",
+  "title": "Acute Decompensated Heart Failure",
+  "category": "cardiac",
+  "tags": [
+    "acute",
+    "decompensated",
+    "heart",
+    "failure",
+    "cardiac"
+  ],
+  "synonyms": [
+    "Acute Decompensated Heart Failure"
+  ],
+  "sections": [
+    {
+      "id": "acute-decompensated-heart-failure-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Acute Decompensated Heart Failure (ADHF) is the sudden or gradual worsening of signs and symptoms of heart failure, resulting in acute respiratory distress and/or systemic congestion. It often occurs in patients with pre-existing chronic heart failure but can also be the initial presentation of cardiac dysfunction from a myocardial infarction (MI) for example. ADHF can be a result of right (peripheral), left (pulmonary) or biventricular failure.",
+      "sortOrder": 0
+    },
+    {
+      "id": "acute-decompensated-heart-failure-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "Right Ventricular Failure Left Ventricular Failure Additional Signs & Symptoms\n- Peripheral Oedema\n- Hypotension\n- Jugular vein distention\n- Hepatomegaly (enlarged liver)\n- Ascites (in advanced cases)\n- Acute Dyspnoea (SOB)\n- Paroxysmal nocturnal dyspnoea\n- Orthopnoea (worse lying flat)\n- Tachypnoea\n- Crepes on auscultation\n- Hypoxia or low o2 saturation\n- Pink frothy sputum\n- Chest discomfort (MI, ischemia possible)\n- Tachycardia\n- Cool, clammy skin\n- Cyanosis\n- Altered mental status\n- Cardiac Arrhythmia\n- Lethargy",
+      "sortOrder": 1
+    },
+    {
+      "id": "acute-decompensated-heart-failure-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Right sided failure: Avoid GTN (or other nitrates) as this can lessen preload and exacerbate symptoms\n- Ensure oxygen is administered, even if the patient is trying to reject it as rejection may be due to hypoxia. Patience and coaching are essential in that circumstance\n- Mental confusion or altered level of consciousness may occur due to hypoxia\n- Ensure oxygen is administered, even if the patient tries to reject it; rejection may be due to hypoxia. Patience and coaching are essential in that circumstance\n- Coughing is a frequent complaint that is suggestive of LVF\n- Do not allow patient to walk\n- Use clinical judgment to differentiate from sepsis, pneumonia, or other causes of dyspnoea\n\n- Causes to consider include infarction, valvular regurgitation, myocarditis, cardiomyopathy, medication toxicity, PE, dysrhythmias, anaemia, drowning, high altitude or decompression illnesses, burns, pancreatitis, or pregnancy\n- Regardless of the causes of pulmonary oedema (cardiogenic or non-cardiogenic), the presenting features of dyspnoea and tachycardia remain the same",
+      "sortOrder": 2
+    },
+    {
+      "id": "acute-decompensated-heart-failure-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Open, clear and maintain the airway\n- Administer oxygen with assisted ventilation if required or patient is exhausted\n- If blood pressure permits, position sitting or semi-recumbent, preferably with legs hanging down\n- Vital Signs\n- Limb LEAD ECG",
+      "sortOrder": 3
+    },
+    {
+      "id": "acute-decompensated-heart-failure-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- 12 LEAD ECG\n- Establish large bore vascular access\n- Consider fluid therapy if hypovolaemia is clearly indicated (cautiously administered)\n- Consider Aspirin if cardiogenic cause such as MI\n- Consider GTN in uncontrolled hypertension (acute cardiac pulmonary oedema) in consultation with on-call doctor\n- Consider frusemide in consultation with on-call doctor\n- Consider Clexane (enoxaparin) in consultation with on-call doctor\n- Manage underlying condition if known as per relevant",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "glyceryl-trinitrate",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z",
+  "relatedCalculatorIDs": [
+    "news2",
+    "chadsvasc",
+    "bazett-qtc"
+  ]
+}

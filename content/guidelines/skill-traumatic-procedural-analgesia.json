@@ -1,0 +1,59 @@
+{
+  "id": "skill-traumatic-procedural-analgesia",
+  "title": "Traumatic Procedural Analgesia",
+  "category": "skills",
+  "skillsSubcategory": "trauma",
+  "tags": [
+    "procedural analgesia",
+    "trauma pain",
+    "ketamine",
+    "fentanyl",
+    "methoxyflurane",
+    "pain management"
+  ],
+  "synonyms": [
+    "Procedural Analgesia",
+    "Trauma Analgesia",
+    "Pre-procedure Pain Relief"
+  ],
+  "sections": [
+    {
+      "id": "skill-tpa-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Traumatic procedural analgesia provides pain relief prior to and during painful prehospital procedures including splinting, reduction, extrication, and wound management. Multimodal analgesia combining different classes reduces doses and side effects. Adequate analgesia improves patient cooperation, reduces physiological stress response, and facilitates better procedure outcomes.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-tpa-agents",
+      "type": "management_basic",
+      "title": "Analgesic Options",
+      "content": "**Methoxyflurane (Penthrox):**\n- Onset: 6–10 breaths\n- Duration: 25–30 min per 3 mL\n- Use: mild–moderate procedural pain; self-administered\n\n**Fentanyl (IN / IV / IM):**\n- Onset: IN 5–10 min; IV 2–3 min\n- Dose: 1–2 mcg/kg IV/IN; 2 mcg/kg IM\n- Use: moderate pain; adjunct for procedures\n\n**Ketamine (sub-dissociative):**\n- Dose: 0.1–0.3 mg/kg IV; 0.5–1 mg/kg IM\n- Onset: IV 1–2 min; IM 5–10 min\n- Use: moderate–severe pain; maintains airway and haemodynamics; synergistic with opioids\n- Monitor: emergence reaction — can be reduced with midazolam\n\n**Methoxyflurane + ketamine (combination):**\n- Effective for extrication analgesia",
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-tpa-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Perform a pain score before and after every analgesic administration\n- Ketamine preserves respiratory drive and blood pressure — preferred in haemodynamically unstable patients\n- Multimodal approach (non-opioid + opioid) reduces opioid requirements\n- Document: agent, dose, route, time, VAS/NRS pain score before and after",
+      "sortOrder": 2
+    }
+  ],
+  "relatedMedicationIDs": [
+    "methoxyflurane",
+    "fentanyl",
+    "ketamine",
+    "morphine-sulphate"
+  ],
+  "relatedGuidelineIDs": [
+    "pain-management",
+    "fractures-dislocations"
+  ],
+  "relatedCalculatorIDs": [
+    "weight-based-dosing",
+    "news2"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2025-01-15T00:00:00Z"
+}
