@@ -15,42 +15,42 @@
       "id": "nausea-and-vomiting-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Vomiting, or emesis, is the forceful expulsion of gastric contents from the stomach.\nNausea is often described as a stomach unease and is the unpleasant sensation that often precedes vomiting and can have the following characteristics.\n- Nausea can occur with or without vomiting.\n- Both nausea and vomiting can be signs of various underlying conditions.\nDetermination of cause requires careful assessment of symptoms.",
+      "content": "Nausea and vomiting are common symptoms with many possible causes, ranging from self-limited gastroenteritis to bowel obstruction, pregnancy-related illness, toxic exposure, or serious intracranial and cardiac disease.",
       "sortOrder": 0
     },
     {
       "id": "nausea-and-vomiting-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Common features include: hypersalivation, retching, clamminess, seating, pallor, or abdominal discomfort\n- Associated symptoms include headache, dizziness, fever, diarrhoea or abdominal pain\n- Possible causes to consider: Gastroenteritis, gastritis, cyclical vomiting, pregnancy, pregnancy induced hyperemesis, bowel obstruction, migraine, vertigo, opioid induced, medication side effects [SSRI’s, chemotherapy/radiation], subarachnoid haemorrhage/space occupying lesion)\n- Red Flags: Intractable vomiting (uncontrolled), haematemesis, ALOC, bilious (green) or faecal vomit (obstructions), signs of dehydration",
+      "content": "- Hypersalivation, retching, clamminess, sweating, pallor, or abdominal discomfort\n- Associated headache, dizziness, fever, diarrhoea, or abdominal pain\n- Red flags include intractable vomiting, haematemesis, altered conscious state, bilious or faeculent vomit, and significant dehydration",
       "sortOrder": 1
     },
     {
       "id": "nausea-and-vomiting-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Low- level evidence suggests that Ondansetron can prolong the Q-T interval, with a subsequent risk of VT. If Long Q-T Syndrome is known or suspected, then Ondansetron should not be administered\n- Administration of ondansetron to patients in their first trimester is controversial, with contemporary literature indicating administration is associated with cardiac and cleft palate defects. Administration of ondansetron should only be considered in extreme and uncontrolled hyperemesis where other therapies aren’t an option\n- The preferred treatment for nausea and vomiting in the pregnant patient with signs of dehydration is fluid rehydration where appropriate\n- Pregnant patients suffering from uncontrolled hyperemesis are not suitable to remain on site\n- Nausea and vomiting are common adverse effects of many drugs (e.g., opioids, tramadol, oestrogens, metformin, antibiotics such as erythromycin and metronidazole)\n- Ondansetron should not be given to a patient who feel nauseated / are vomiting due to tramadol administration\n- Prochlorperazine must only be given via the IM route\n- If antiemetics are required for isolated symptoms, oral wafer is preferred\n- If the cause of symptoms cannot be determined and is undifferentiated, the presence of serious medical cause must be considered\n- Consider and ask if patients are taking Wegovy, Ozempic, Mounjaro\n- Patients who have a history of diabetes should be monitored closely and adjusting their insulin dosage may be required (by the patient). Most of these patients will be well versed with their regime, however, consultation with the on-call doctor may be required in these circumstances",
+      "content": "- Ondansetron can prolong the QT interval; use caution in known or suspected long-QT syndrome or other significant QT-risk settings\n- Use of ondansetron in early pregnancy should follow local policy and clinician judgement; dehydration and inability to tolerate fluids are higher prehospital priorities\n- Pregnant patients with uncontrolled hyperemesis are not suitable to remain on site\n- Nausea and vomiting may be medication related, including GLP-1 agonists such as semaglutide or tirzepatide\n- If the cause cannot be determined, consider serious underlying disease",
       "sortOrder": 2
     },
     {
       "id": "nausea-and-vomiting-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Provide reassurance\n- Complete vital sign survey\n- Particularly heart rate, blood pressure, temperature and blood glucose in all patients\n- Consider cause and appropriate antiemetic if within scope, else try olfactory distraction with alcohol swabs for short term relief of nausea as per additional information below\n- Consider urinalysis if fluid intake has been reduced due to symptoms testing specific gravity\n- Consider oral rehydration and electrolytes if required\n- Consider analgesia where appropriate and tolerated\n- Secondary survey where appropriate\n- Consider call to on-call doctor if IV fluids are required and not within scope",
+      "content": "- Primary Survey\n- Provide reassurance\n- Complete Vital Sign Survey, including blood glucose where appropriate\n- Consider likely cause and appropriate antiemetic if within scope; otherwise consider non-pharmacological relief such as isopropyl alcohol inhalation where appropriate\n- Consider urinalysis if reduced fluid intake or dehydration is suspected\n- Consider oral rehydration if tolerated\n- Consider analgesia where appropriate and tolerated\n- Secondary survey where appropriate\n- Consult the on-call doctor if IV fluids are required and not within scope",
       "sortOrder": 3
     },
     {
       "id": "nausea-and-vomiting-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider IV fluids (1ltr over 1 hour)\n- Consider ECG\n- Consider i-STAT bloods where appropriate (e.g., troponin, if undifferentiated)\n- Consider other causes and treat accordingly\n- Transport off site for further review and management if any red flags evident",
+      "content": "- Consider IV access\n- Consider IV fluids where indicated, guided by dehydration severity and comorbidity\n- Consider ECG where indicated\n- Consider point-of-care bloods where appropriate\n- Consider other causes and treat accordingly\n- Transport for further review and management if any red flags are evident",
       "sortOrder": 4
     },
     {
       "id": "nausea-and-vomiting-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Approximately 1 in 2,500 patients will have Long Q-T Syndrome, whether diagnosed or not. If VT (including Torsade de Pointe) follows Ondansetron administration, Amiodarone should NOT be administered as it can further prolong Q-T. Treatment should be focussed on transport with cardioversion or (if unconscious or pulseless) defibrillation\n- Ondansetron is ineffective for vestibular causes of nausea and vomiting\n- Repetitive smelling of isopropyl alcohol from a swab can be initiated as a primary adjunct. This should be initiated by holding the swab 2.5cm under the nose and taking deep inhalations for 60 seconds\n- Undifferentiated nausea and vomiting may include but is not limited to:\n  - secondary to Acute Coronary Syndrome\n  - secondary to opioid analgesia\n  - secondary to cytotoxic drugs or radiotherapy\n  - severe gastroenteritis 23 MENTAL HEALTH",
+      "content": "- Ondansetron is less effective for vestibular causes of nausea and vomiting\n- Isopropyl alcohol swab inhalation may provide short-term nausea relief in some patients\n- Undifferentiated nausea and vomiting may reflect ACS, opioid effects, intracranial disease, severe gastroenteritis, or bowel obstruction",
       "sortOrder": 5
     }
   ],
@@ -60,6 +60,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

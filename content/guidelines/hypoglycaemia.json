@@ -4,6 +4,7 @@
   "category": "medical",
   "tags": [
     "hypoglycaemia",
+    "diabetes",
     "medical"
   ],
   "synonyms": [
@@ -14,56 +15,50 @@
       "id": "hypoglycaemia-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "There is no universally accepted definition of hypoglycaemia (low blood glucose).\nClinically significant hypoglycaemia is confirmed by the presence of a blood glucose level (BGL) low enough to cause signs and/or symptoms of impaired brain function and neurogenic response, generally a BGL <3.3–4.0 mmol/L. In clinical practice, any patient with symptoms and a BGL <4.0 mmol/L should be considered hypoglycaemic and treated accordingly.",
+      "content": "Clinically significant hypoglycaemia is present when blood glucose is low enough to cause neuroglycopenic or autonomic symptoms. In practice, symptomatic patients with BGL below about 4.0 mmol/L should be treated promptly.",
       "sortOrder": 0
     },
     {
       "id": "hypoglycaemia-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Weakness, trembling, shaking\n- Diaphoresis\n- Headache\n- Abnormal behaviour\n- Altered conscious state\n- Tachycardia\n- Seizure",
+      "content": "- Weakness, shaking, diaphoresis\n- Headache\n- Abnormal behaviour\n- Altered conscious state\n- Tachycardia\n- Seizure",
       "sortOrder": 1
     },
     {
       "id": "hypoglycaemia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Relative hypoglycaemia occurs when a patient with chronic, poorly controlled diabetes (for example) reports hypoglycaemic symptoms, but the blood glucose remains above 3.8 mmol/L (70 mg/dL) due to altered glucose threshold adaptation.\nThis still requires treatment. Patients with diabetes presenting with altered mental status should be presumed to have hypoglycaemia until proven otherwise\n- Patients on Acarbose (Glucobay) therapy may require larger glucose doses for hypoglycaemic correction, as acarbose delays carbohydrate absorption and does not stimulate pancreatic insulin release; however, oral glucose may be less effective, and IV dextrose is preferred if available\n- The underlying cause of hypoglycaemia should guide therapeutic selection, for example, glucagon administration is ineffective if hepatic glycogen stores are depleted\n- Following initial treatment, ongoing clinical assessment and management are essential to ensure resolution and prevent recurrence of hypoglycaemia\n- In cases of persistent hypoglycaemia secondary to insulin overdose (accidental or intentional), repeated IV glucose boluses may be necessary to achieve and maintain normoglycaemia; it is important to note that neurological recovery (as indicated by GCS) may be delayed despite correction of blood glucose levels\n- Patients experiencing recurrent or prolonged episodes of hypoglycaemia may develop hypoglycaemia unawareness, resulting in diminished or absent warning symptoms\n- Conversion of Blood Glucose: 1 mmol/L = 18 mg/dL, 1 mg/dL = 0.056 mmol/L",
+      "content": "- Relative hypoglycaemia can occur in patients with chronically elevated glucose who develop symptoms at a higher BGL\n- Patients with diabetes presenting with altered mental status should be presumed hypoglycaemic until proven otherwise\n- Patients taking acarbose should be treated with pure glucose rather than sucrose-containing foods if oral therapy is used\n- Glucagon may be less effective when glycogen stores are depleted\n- Rebound or recurrent hypoglycaemia may occur, especially after insulin overdose",
       "sortOrder": 2
     },
     {
       "id": "hypoglycaemia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Ensure airway patency by inserting an appropriate airway adjunct and providing assisted ventilations as clinically indicated\n- Administer supplemental oxygen if indicated\n- Vital Sign Survey (monitor regularly including pre-and-post intervention blood glucose levels)\n\n**If conscious (GCS 15):**\n  - Administer oral glucose in the form of a sugary drink (e.g., fruit juice, non-diet soft drink) or carbohydrate-rich food (e.g., toast with jam, biscuit)\n  - Consider administration of Glucose Oral Gel\n  - Reassess GCS and BGL after 10 minutes to evaluate response to treatments\n  - Provide a complex carbohydrate meal (e.g., sandwich) if further carbohydrate supplementation is required\n\n**If Impaired Conscious State (GCS <15):**\n  - Withhold oral intake if patient is unable to maintain airway protection\n  - Administer intramuscular glucagon\n  - If within scope, consider advanced management\n  - Monitor closely and reassess conscious state and BGL following intervention",
+      "content": "- Primary Survey\n- Ensure airway patency and provide assisted ventilations as clinically indicated\n- Administer supplemental oxygen if indicated\n- Vital Sign Survey with repeat BGL checks\n\n**If conscious and able to swallow safely:**\n- Administer oral glucose, sugary drink, or glucose gel\n- Reassess GCS and BGL after 10 minutes\n- Provide follow-up complex carbohydrate if needed\n\n**If impaired conscious state:**\n- Withhold oral intake if airway protection is impaired\n- Administer intramuscular glucagon if within scope\n- Consider advanced management\n- Monitor closely and reassess conscious state and BGL",
       "sortOrder": 3
     },
     {
       "id": "hypoglycaemia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Obtain intravenous (IV) access if readily achievable\n- Confirm IV-line patency by flushing with an increased volume of normal saline prior to glucose administration\n- Administer intravenous glucose (5% or 10% dextrose solution), titrating the dose to clinical effect\n- Reassess GCS and BGL after 10 minutes\n- If the BGL is still low and the patient is symptomatic encourage oral intake of complex carbohydrates if appropriate or administer repeat dose of intravenous glucose 10% /repeat dose of intramuscular glucagon (consult with on-call doctor)\n- Consider benzodiazepines if seizing\n- Consider cardiac monitoring",
+      "content": "- Obtain IV access if achievable\n- Confirm IV patency before glucose administration\n- Administer intravenous glucose, preferably 10% dextrose where available, titrating the dose to clinical effect\n- Reassess GCS and BGL after 10 minutes\n- If BGL remains low or symptoms persist, repeat treatment and seek senior advice\n- Consider benzodiazepines if seizing\n- Consider cardiac monitoring",
       "sortOrder": 4
     },
     {
       "id": "hypoglycaemia-additional-notes-2",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Causes to consider in patients who present with hypoglycaemia without the history of DM:\n- Exogenous drugs (e.g., insulin, oral hypoglycaemics, ethanol intoxication, quinine, chloroquine, beta-blocker overdose, valproate overdose, salicylate overdose, pentamidine)\n- Pituitary insufficiency\n- Post-prandial hypoglycaemia (e.g. ’late dumping’ after gastric surgery)\n- Liver disease (e.g., hepatocellular cancer, hepatitis and rare genetic defects)\n- Addison’s disease\n- Islet cell tumours (e.g. insulinomas)\n- Immune hypoglycaemia (e.g. anti-insulin receptor antibodies in Hodgkin’s disease or anti-insulin antibodies that release insulin when insulin levels are relatively low)\n- Infection (e.g. severe sepsis, malaria)\n- Non-pancreatic neoplasms (e.g., fibromas, sarcomas, mesotheliomas, and small cell carcinomas that produce IGF-2; extensive metastases that overwhelm the body’s ability to produce glucose)\n- Nesidioblastosis or noninsulinoma pancreatogenous hypoglycaemia (NIPH) syndrome (islet cell hyperplasia, which can be congenital or acquired, e.g. post- gastric surgery)\n- Starvation and malnutrition\n- Hypothyroidism (myxoedema coma)",
+      "content": "- Consider other causes of hypoglycaemia in patients without known diabetes, including sepsis, liver disease, alcohol, endocrine disease, starvation, and medication effects",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "dextrose-5",
-    "glucagon",
-    "glucose-10-intravenous",
-    "glucose-oral-gel",
-    "oxygen"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "poc-chem8plus",
     "poc-cg8plus",

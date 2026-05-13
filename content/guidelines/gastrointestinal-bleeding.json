@@ -15,48 +15,48 @@
       "id": "gastrointestinal-bleeding-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Gastrointestinal Bleeds are categorised by their location. Upper gastrointestinal bleeds (UGIB) originate from the oesophagus, stomach, or duodenum, while lower gastrointestinal bleeds (LGIB) stem from the small intestine, colon, rectum, or anus. They can present with similar symptoms however the type of blood (bright red vs. dark) and its location (vomiting, stool) can provide clues to its origin.",
+      "content": "Gastrointestinal bleeding may arise from the upper or lower GI tract. It can range from self-limited bleeding to life-threatening haemorrhage with shock, aspiration risk, and need for urgent endoscopic or surgical management.",
       "sortOrder": 0
     },
     {
       "id": "gastrointestinal-bleeding-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Abdominal Pain (example, UGI – Epigastric, LGI – hypogastric)\n- Dizziness, syncope\n- Dyspnoea\n- Hypotension, pallor tachycardia, (signs of hypovolaemic shock)\n- Fatigue, weakness\n- Upper GI\n- Nausea\n- Coffee ground/frank blood vomit (Haematemesis)\n- Dark tarry like stool (Melena)\n- May have evidence of blood in and/or around mouth\n- Lower GI\n- Bright red blood from rectum (Hematochezia)\n- Maroon coloured stools (seen with slow bleeding from the colon)",
+      "content": "- Abdominal pain\n- Dizziness or syncope\n- Dyspnoea\n- Hypotension, pallor, tachycardia, or shock\n- Haematemesis or coffee-ground vomit\n- Melena\n- Haematochezia or maroon stool",
       "sortOrder": 1
     },
     {
       "id": "gastrointestinal-bleeding-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- All patients must receive a thorough clinical assessment that determines the following pertinent information:\n  - Upper GI\n  - History of liver or renal disease\n  - Chronic alcohol consumption\n  - Recent use of aspirin, ibuprofen, or other non-steroidal anti-inflammatory drugs\n  - Previous history of pylori infection\n  - Previous endoscopy or surgical investigation\n  - History of gastric or duodenal ulcers or previous episodes of variceal bleeding\n\n- Lower GI\n- History of Diverticulitis\n- History of inflammatory bowel diseases, example, Crohn’s disease, Ulcerative colitis\n- History of Angiodysplasia\n- History of haemorrhoids (more commonly a PR bleed as opposed to GI bleed)\n- All patients that present with evidence of a suspected UGIB must be transported to hospital for further examination. This includes instances where the patient is not actively bleeding on examination\n- Risk factors can include NSAID use (aspirin, ibuprofen), anticoagulant therapy (warfarin, clopidogrel), liver disease, history of ulcers, or recent GI procedures or surgery\n- Some country hospitals may not have the facilities to receive a patient suffering UGIB and may require RFDS transport to definitive care however clinical judgement around stabilisation, if necessary, is paramount",
+      "content": "- Consider liver disease, alcohol use, NSAID or anticoagulant exposure, ulcer history, prior variceal bleeding, and recent GI procedures\n- All suspected upper GI bleeds require hospital assessment even if bleeding is not active at the time of review\n- Some smaller hospitals may not be definitive receiving centres for significant UGIB",
       "sortOrder": 2
     },
     {
       "id": "gastrointestinal-bleeding-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital signs, monitor heart rate and BP, including postural BP, often\n- Have a low threshold for calling the on-call doctor\n- Position patient for comfort, generally upright, if possible, to avoid aspiration\n- Secondary Survey (abdominal assessment, including palpation, percussion and auscultation",
+      "content": "- Primary Survey\n- Monitor vital signs frequently\n- Have a low threshold for calling the on-call doctor\n- Position for airway protection and comfort; in active haematemesis or reduced conscious state, lateral positioning may be safer than upright positioning\n- Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "gastrointestinal-bleeding-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain large bore IV access\n- Consider Fluids if necessary (titrate to >90mmHg)\n- Consider antiemetic\n- Consider analgesia\n- Consider prophylactic antibiotics only in consultation with on-call doctor\n- Consider administration of PPI in consultation with on-call doctor\n- Apply ECG",
+      "content": "- Gain large bore IV access\n- Consider fluids if necessary, titrated to perfusion rather than aggressive normalisation of blood pressure\n- Consider antiemetic\n- Consider analgesia\n- Consider antibiotics only in consultation with on-call doctor, particularly if variceal bleeding is suspected\n- Consider PPI administration in consultation with on-call doctor\n- Apply ECG",
       "sortOrder": 4
     },
     {
       "id": "gastrointestinal-bleeding-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- All patients with suspected UIGB must remain nil by mouth\n\n- Where practical, patients should be positioned upright\n- Acute variceal bleeding is associated with high rates of infection due to bacterial translocation and prophylactic administration of antibiotics should be considered\n- Currently, there is not enough evidence or study into the benefits of administering tranexamic acid in this cohort of patients, however, can be discussed with on-call doctor or RFDS\n- As these patients require emergency review by a gastroenterologist, consideration should be given if the sites local hospital facility can receive UGIB patients",
+      "content": "- All patients with suspected UGIB should remain nil by mouth\n- Positioning should prioritise airway protection, especially in ongoing haematemesis\n- Acute variceal bleeding is associated with higher infection risk, so antibiotic use may be appropriate after senior consultation\n- TXA is not routine standard therapy in GI bleeding",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

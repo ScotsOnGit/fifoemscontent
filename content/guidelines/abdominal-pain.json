@@ -15,48 +15,48 @@
       "id": "abdominal-pain-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Abdominal pain is a very common symptom experienced by patients. In the majority of patients, the cause is benign and/or self-limiting. However, many causes can be time critical and may require urgent intervention.\n- Time critical abdominal emergencies can include:\n  - Ectopic pregnancy\n  - Ruptured abdominal aortic aneurism (AAA)\n  - Peritonitis and sepsis\n  - Testicular/ovarian torsion\n  - Uncontrolled GI bleeding\n  - Bowel obstruction\n  - Acute pancreatitis",
+      "content": "Abdominal pain is a very common symptom experienced by patients. In many patients the cause is benign or self-limiting, but some causes are time critical and may require urgent intervention.\n- Time critical abdominal emergencies can include:\n  - Ectopic pregnancy\n  - Ruptured abdominal aortic aneurysm (AAA)\n  - Peritonitis and sepsis\n  - Testicular or ovarian torsion\n  - Uncontrolled GI bleeding\n  - Bowel obstruction\n  - Acute pancreatitis",
       "sortOrder": 0
     },
     {
       "id": "abdominal-pain-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Severe abdominal pain and/or tenderness suggestive of peritonism\n- Abdominal distention\n- Constipation\n- Altered Vital Signs, fever, diaphoresis, pallor, signs of sepsis\n- Nausea and/or vomiting haematemesis, melena\n- History of haematemesis and/or melaena or haematochezia\n- Vaginal discharge/bleeding",
+      "content": "- Severe abdominal pain and/or tenderness suggestive of peritonism\n- Abdominal distention\n- Constipation\n- Altered vital signs, fever, diaphoresis, pallor, or signs of sepsis\n- Nausea and/or vomiting, haematemesis, melena\n- History of haematemesis, melaena, or haematochezia\n- Vaginal discharge or bleeding",
       "sortOrder": 1
     },
     {
       "id": "abdominal-pain-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Cardiac pain can mimic gastro-oesophageal pain. Any patient with pain above the naval should get a 12 lead ECG, consent not withstanding\n- The presence of normal vital signs does not preclude serious abdominal disease\n- AAAs may masquerade as renal colic pain, especially in older patients\n\n- Red Flags Requiring Immediate Attention\n- Haemodynamic instability (shock, hypotension)\n- Rigid abdomen (peritonitis)\n- Severe, sudden-onset pain (\"worst ever\")\n- Gastrointestinal bleeding (haematemesis, melena, haematochezia)\n- Persistent vomiting or signs of bowel obstruction\n- Positive pregnancy test with abdominal pain (risk of ectopic pregnancy)\n- Known AAA with abdominal/back pain\n\n**Conditions by region could be:**\n\n**Right Hypochondriac:**\nGallstones or cholecystitis, hepatitis or liver abscess, duodenal ulcers, kidney stones or infection, trauma (#’s)\n\n**Epigastric:**\nGastroesophageal reflux, gastritis, gastric ulcers, pancreatitis, cholecystitis, overeating\n\n**Left Hypochondriac:**\nSplenic enlargement or rupture, gastric ulcers, pancreatitis, kidney stones, trauma (#’s)\n\n**Right Lumbar:**\nKidney stones or pyelonephritis, appendicitis (retrocecal), colon disorders (e.g., Crohn’s)\n\n**Umbilical:**\nUmbilical hernia, early appendicitis, gastroenteritis, small bowel disorders including obstruction or inflammation, AAA\n\n**Left Lumbar:**\nKidney stones or pyelonephritis, diverticulitis, constipation or impaction\n\n**Right Iliac Fossa:**\nAppendicitis, Crohn’s disease, ovarian issues (e.g., cysts, torsions or ectopic pregnancy), hernias\n\n**Hypogastric:**\nCystitis, pelvic inflammatory disease (PID), endometriosis, ectopic pregnancy, bladder distension\n\n**Left Iliac Fossa:**\nDiverticulitis, irritable bowel syndrome (IBS), pelvic inflammatory disease (PID), ovarian issues (e.g., cysts, torsions or ectopic pregnancy), hernia",
+      "content": "- Cardiac ischaemia can mimic gastro-oesophageal or upper abdominal pain. Maintain a low threshold for 12 lead ECG in epigastric or upper abdominal pain, especially in older patients or those with cardiac risk factors\n- The presence of normal vital signs does not preclude serious abdominal disease\n- AAA may masquerade as renal colic or back pain, especially in older patients\n\n- Red flags requiring immediate attention\n- Haemodynamic instability\n- Rigid abdomen or peritonism\n- Severe sudden-onset pain\n- Gastrointestinal bleeding\n- Persistent vomiting or signs of bowel obstruction\n- Positive pregnancy test with abdominal pain\n- Known AAA with abdominal or back pain",
       "sortOrder": 2
     },
     {
       "id": "abdominal-pain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital signs\n- Keep patient at rest and prevent movement, allow patient to find comfortable position\n- Secondary Survey (including distal colour, temp, sensation, movement and pulses/cap refill)\n- Abdominal auscultation, palpation, percussion\n- Consider “special signs” (Murphy’s, McBurney’s, Rovsing, Psaos)\n- Consider “over the counter” pain relief (Paracetamol, Ibuprofen)\n- Urinalysis and pregnancy test where appropriate",
+      "content": "- Primary Survey\n- Vital signs\n- Keep patient at rest and allow a position of comfort\n- Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Consider simple analgesia if appropriate\n- Urinalysis and pregnancy test where appropriate",
       "sortOrder": 3
     },
     {
       "id": "abdominal-pain-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider fluid resuscitation\n- Consider appropriate analgesia\n- 12 lead ECG",
+      "content": "- Consider IV access\n- Consider fluid resuscitation if indicated\n- Consider appropriate analgesia\n- 12 lead ECG where indicated",
       "sortOrder": 4
     },
     {
       "id": "abdominal-pain-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The target of fluid resuscitation in a dissecting or ruptured AAA, GI Bleed or ruptured ectopic pregnancy is to maintain perfusion to vital organs. Radial pulses can be used as a marker of perfusion\n- Patients who have a dissecting AAA are usually in severe pain and require IV narcotic analgesia which should not be delayed or withheld\n- Cardiac ischemia may present with abdominal pain, therefore all patients with abdominal pain should have a 12 lead ECG acquired and interpreted for risk stratification\n- The assessment of abdominal pain is complex and requires multi-modal investigation\n- Patient education: Explain warning signs that require emergency care (e.g., worsening pain, bleeding, fever). Advise follow up for further review and management",
+      "content": "- In ruptured AAA, major GI bleeding, or ruptured ectopic pregnancy, the goal of early fluid therapy is maintenance of vital-organ perfusion rather than normalisation of blood pressure\n- Patients with leaking or ruptured AAA are often in severe pain and may require timely opioid analgesia\n- Cardiac ischaemia may present with abdominal pain, especially epigastric pain, so ECG use should remain liberal in appropriate patients\n- The assessment of abdominal pain is complex and requires multi-modal investigation\n- Patient education: explain warning signs that require emergency care and advise follow-up where appropriate",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

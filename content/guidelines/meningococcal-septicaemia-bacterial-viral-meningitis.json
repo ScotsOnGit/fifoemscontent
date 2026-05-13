@@ -4,10 +4,8 @@
   "category": "medical",
   "tags": [
     "meningococcal",
-    "septicaemia",
-    "bacterial",
-    "viral",
     "meningitis",
+    "septicaemia",
     "medical"
   ],
   "synonyms": [
@@ -18,53 +16,50 @@
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "BACTERIAL & VIRAL MENINGITIS\n\nMeningococcal septicaemia is a severe bloodstream infection caused by the bacterium Neisseria Meningitidis. When the bacteria enter the blood stream they multiply rapidly, damaging blood vessel walls and causing bleeding into the skin and organs. This condition can progress quickly and is life-threatening if not treated promptly.\nBacterial Meningitis is inflammation of the meninges (brain and spinal cord membranes) due to bacterial infection, most commonly caused by Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae.\nViral Meningitis is an inflammation of the meninges caused by viral infection. It is the most common type of meningitis and is generally less severe than bacterial. Causes can come from the viruses that cause herpes simplex, shingles, measles, mumps, and gastroenteritis.\nBacterial & Viral meningitis both prevent with similar symptoms and thus should be treated as bacterial in first instance.",
+      "content": "Meningococcal septicaemia is a severe bloodstream infection caused by Neisseria meningitidis and can progress rapidly to shock, purpura, organ failure, and death. Bacterial meningitis is inflammation of the meninges due to bacterial infection. Viral meningitis is often less severe, but may initially resemble bacterial disease. In the prehospital setting, early recognition, droplet precautions, symptom support, and urgent transport are key.",
       "sortOrder": 0
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- The following conditions cannot be distinguished on clinical grounds alone and diagnosis requires lumbar puncture with cerebrospinal fluid (CSF) analysis, however they may present with:\nMeningococcal Septicaemia Bacterial Meningitis Viral Meningitis\n  - Rapid onset of fever, malaise, myalgia, headache, vomiting\n  - Non-blanching, purpuric rash, especially in young adults\n  - Tachycardia, tachypnoea, hypotension, poor perfusion, altered mental state (septic shock)\n  - Joint pain, cold extremities, respiratory distress\n  - Same as septicaemia, but also\n  - Fever, headache, neck stiffness (nuchal rigidity)\n  - Photophobia, vomiting, lethargy, irritability\n  - Altered mental state, confusion, seizures\n  - Kernig’s or Brudzinski’s signs (if assessed)\n  - Nausea/Vomiting are often prominent\n  - Fever, headache, neck stiffness\n  - Photophobia, nausea, vomiting\n  - Generally milder symptoms and self- limiting (compared to bacterial meningitis)\n  - No rash or shock (unless co-infection or underlying condition)\n  - Usually follows viral infections (enteroviruses, herpesviruses)",
+      "content": "- Fever, headache, malaise, vomiting\n- Non-blanching or purpuric rash\n- Tachycardia, tachypnoea, hypotension, poor perfusion, altered mental state\n- Neck stiffness, photophobia, lethargy, seizures\n- Shock or rapidly progressive sepsis in severe disease",
       "sortOrder": 1
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- The presence of rapid onset symptoms of sepsis +/- rash may be a sign of meningococcal septicaemia\n- Meningococcal is transmitted by close personal exposure to airway secretions / droplets\n- Viral Meningitis does not require antibiotics, generally only supportive care, however, discuss with the on-call doctor around the prophylactic administration if unsure of cause\n- Meningitis can be Bacterial or Aseptic. Aseptic: meningeal inflammation with negative bacterial cultures and the most common cause is viral (enteroviruses)\n- Ensure face mask protection especially during intubation / suctioning\n- All patients suspected of meningitis from any cause must be transported to further care",
+      "content": "- Rapid-onset sepsis with or without a non-blanching rash may indicate meningococcal disease\n- Meningococcal disease is transmitted by close contact and respiratory droplets\n- Because bacterial and viral meningitis may be difficult to distinguish clinically at first presentation, suspected bacterial meningitis or meningococcal disease should be treated as time critical\n- Ensure appropriate PPE, especially during airway procedures\n- All patients with suspected meningitis or meningococcal disease require urgent transport",
       "sortOrder": 2
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Consider oxygen\n- Vital signs (especially BP, SPO2 and temp)\n- Consider intramuscular antibiotics (Benzylpenicillin, Ceftriaxone) as soon as suspected only in consultation with on-call doctor\n- Consider pain relief if suitable\n- Clinicians should have a low threshold for calling current poisons permit holder or RFDS",
+      "content": "- Primary Survey\n- Consider oxygen\n- Record vital signs, especially BP, SpO2, temperature, and conscious state\n- Consider early IM antibiotics only in consultation with on-call doctor and local protocol where meningococcal disease is strongly suspected\n- Consider pain relief if suitable\n- Maintain a low threshold for RFDS or senior consultation",
       "sortOrder": 3
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- Administer intravenous fluids, monitor for overload\n- Administer intravenous antibiotics (Benzylpenicillin, Cefotaxime, Ceftriaxone, Vancomycin) only in consultation with on-call doctor (if IM administration not already given)\n- Administer antiemetic if required\n- Consider further analgesia\n- Apply ECG",
+      "content": "- Gain IV access\n- Administer intravenous fluids if indicated, with reassessment for shock and overload\n- Administer IV antibiotics only in consultation with on-call doctor and local protocol\n- Administer antiemetic if required\n- Consider further analgesia\n- Apply ECG if indicated",
       "sortOrder": 4
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Ensure medical follow up for staff post exposure\n- Ensure public health notification is complete\n- Vancomycin is not considered a first-line treatment for bacterial meningitis in most cases. It is primarily used as an alternative or adjunctive therapy under specific circumstances particularly when there is suspicion or confirmation of infection by highly penicillin- or cephalosporin-resistant strains of bacteria such as certain Streptococcus pneumoniae",
+      "content": "- Ensure appropriate staff follow-up after significant exposure\n- Ensure public health notification requirements are completed",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "cefazolin",
-    "oxygen"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

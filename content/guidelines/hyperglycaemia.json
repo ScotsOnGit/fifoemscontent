@@ -4,6 +4,7 @@
   "category": "medical",
   "tags": [
     "hyperglycaemia",
+    "diabetes",
     "medical"
   ],
   "synonyms": [
@@ -14,54 +15,50 @@
       "id": "hyperglycaemia-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Hyperglycaemia, also known as high blood sugar, is a condition where the level of glucose (sugar) in the blood is elevated beyond the normal range (4mmol - 9mmol). This often occurs when the body doesn’t have enough insulin, or when the body can’t use insulin effectively. In the prehospital setting, it is most commonly encountered in patients with diabetes mellitus (DM) and may be associated with diabetic emergencies such as diabetic ketoacidosis (DKA) or hyperosmolar hyperglycaemic state (HHS).",
+      "content": "Hyperglycaemia is elevated blood glucose and may occur in diabetes due to insulin deficiency, intercurrent illness, missed therapy, or impaired insulin action. Severe hyperglycaemia may accompany diabetic ketoacidosis (DKA) or hyperosmolar hyperglycaemic state (HHS).",
       "sortOrder": 0
     },
     {
       "id": "hyperglycaemia-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- General: Polyuria, polydipsia, polyphagia, fatigue, malaise, blurred vision\n- Gastrointestinal: Nausea, vomiting, abdominal pain (tetany, particularly in DKA)\n- Neurological: Confusion, drowsiness, altered mental state, weakness\n- Respiratory: Kussmaul respirations (deep, rapid breathing in DKA), fruity, acetone breath\n- Severe (BSL >15mmol/L)/Complicated: Dehydration, hypotension, tachycardia, shock, coma",
+      "content": "- Polyuria, polydipsia, fatigue, blurred vision\n- Nausea, vomiting, abdominal pain\n- Confusion, drowsiness, weakness\n- Kussmaul respirations or acetone breath in DKA\n- Dehydration, hypotension, shock, or coma in severe cases",
       "sortOrder": 1
     },
     {
       "id": "hyperglycaemia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Common causes of hyperglycaemia can include inadequate levels of insulin or incorrect doses of diabetes oral medications, infections, excess carbohydrate intake, and stressful situations\n- HHS usually presents in older patients with type 2 diabetes mellitus and carries a higher mortality rate and is less common than DKA\n- Ketoacidosis occurs mainly in patients with type 1 DM and is not normally seen with type 2 diabetic patients as they have some insulin production preventing severe lipolysis.\nHowever, it can happen in patients with type 2 DM, particularly when taking sodium- glucose co-transporter 2 (SGLT2) inhibitors (examples below) and may occur without hyperglycaemia\n- Dapagliflozin (Forxiga)\n- Empagliflozin (Jardiance)\n- Ertugliflozin (Steglatro)\n- If the patient has any of the following, they must be transported to hospital\n- Newly diagnosed diabetes\n- Suspected cause of hyperglycaemia is due to an illness that requires further review and management\n- Inability to keep oral fluids down\n- Moderate to severe dehydration\n- Pregnant\n\n- Treatment for severe dehydration may be required; however correcting fluid deficits too quickly can cause cerebral oedema",
+      "content": "- HHS is more common in older patients with type 2 diabetes and carries high mortality\n- DKA classically occurs in type 1 diabetes but can also occur in type 2 diabetes, including euglycaemic DKA with SGLT2 inhibitors\n- Newly diagnosed diabetes, inability to tolerate fluids, moderate to severe dehydration, pregnancy, or suspected intercurrent illness all require hospital review",
       "sortOrder": 2
     },
     {
       "id": "hyperglycaemia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patent to maintain airway if indicated\n- Consider Oxygen\n- Vital Sign Survey (monitor regularly including pre-and-post intervention blood glucose levels)\n- Monitor closely BGL, GCS, SpO2, and Ketones\n- Assess hydration where appropriate\n- ESO’s should have a low threshold for consulting with on-call doctor",
+      "content": "- Primary Survey\n- Position patient to maintain airway if indicated\n- Consider Oxygen\n- Vital Sign Survey with regular monitoring of BGL and clinical state\n- Monitor closely BGL, GCS, SpO2, and ketones where available\n- Assess hydration where appropriate\n- Maintain a low threshold for consulting the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "hyperglycaemia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- Establish vascular access\n- Correction of fluid loss with aggressive intravenous fluid replacement (500ml).\nConsultation with on-call doctor after initial fluid stat bolus dose to guide fluid replacement\n- Consider subcutaneous insulin administration (0.2 IU/kg) in consultation with on-call doctor (must be self-administered unless patient is physically or visually impaired)",
+      "content": "- 12 lead ECG\n- Establish vascular access\n- Consider cautious IV fluid replacement where dehydration is present, with ongoing reassessment and senior review\n- Insulin therapy for DKA or HHS should be hospital-led or specifically doctor-directed; do not make routine field insulin administration part of standard prehospital hyperglycaemia care",
       "sortOrder": 4
     },
     {
       "id": "hyperglycaemia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- DKA is more common in type 1 diabetes; HHS is more common in type 2 and elderly\n- Both conditions are medical emergencies with high morbidity and mortality if untreated",
+      "content": "- DKA is more common in type 1 diabetes; HHS is more common in type 2 diabetes and older patients\n- Both are medical emergencies with high morbidity and mortality if untreated",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "insulin",
-    "intravenous-normal-saline",
-    "oxygen"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "poc-chem8plus",
     "poc-cg8plus",

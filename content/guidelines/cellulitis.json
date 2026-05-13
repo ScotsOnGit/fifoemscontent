@@ -4,6 +4,8 @@
   "category": "medical",
   "tags": [
     "cellulitis",
+    "skin",
+    "infection",
     "medical"
   ],
   "synonyms": [
@@ -14,48 +16,48 @@
       "id": "cellulitis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Cellulitis is a localised, bacterial infection of the skin that involves the dermis and subcutaneous tissue, most commonly caused by Staphylococcus aureus and Streptococcus. It usually results from a break in the skin such as a scratch, abrasion, laceration, or insect bite. Cellulitis is common in certain remote settings as a result.",
+      "content": "Cellulitis is a bacterial infection of the dermis and subcutaneous tissue, commonly caused by streptococci or Staphylococcus aureus, usually after a break in the skin.",
       "sortOrder": 0
     },
     {
       "id": "cellulitis-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Marked area of erythema with associated warmth, swelling and/or tenderness\n- Reported rapid spread or erythema in the affected area, lymphangitis (red streaks spreading from the lesion), regional lymphadenopathy (swollen lymph nodes)\n- Discharge of clear or yellow fluid and/or exudate\n- Fevers, chills, rigor, evidence of sepsis (typically a late sign)",
+      "content": "- Erythema, warmth, swelling, and tenderness\n- Lymphangitis or regional lymphadenopathy\n- Possible discharge or exudate\n- Fever, rigors, or sepsis in more severe disease",
       "sortOrder": 1
     },
     {
       "id": "cellulitis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Presence of high-risk comorbidities such as diabetes, lymphoedema, immunosuppression, peripheral vascular disease, cirrhosis increase likelihood\n- Previous history of cellulitis\n- Evidence or deficits to the skin such as animal, bites, human bites, eczema, ulcers, psoriasis\n- Social factors such as inability of selfcare, intravenous drug use, obesity, poor personal hygiene\n- Cellulitis involving the face (especially periorbital region) or joints requires urgent evaluation and transport",
+      "content": "- Risk is increased by diabetes, lymphoedema, immunosuppression, vascular disease, skin disease, bites, ulcers, and poor self-care\n- Facial, periorbital, hand, or joint-related infection needs urgent review\n- Many conditions can mimic cellulitis, especially when itch predominates or pain is minimal",
       "sortOrder": 2
     },
     {
       "id": "cellulitis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital signs (specifically temperature, heart rate, BSL, blood pressure, Spo2)\n- Secondary Survey\n- Consider outlining the affected area to monitor potential spread\n- Consider images, with consent, for review by on-call doctor\n- Consider oxygen (if septic and indicated)\n- Consider antipyretic only if temperature causing discomfort (paracetamol, ibuprofen, aspirin)",
+      "content": "- Primary Survey\n- Vital signs, including temperature, heart rate, BGL, blood pressure, and SpO2\n- Secondary Survey\n- Consider outlining the affected area to monitor spread\n- Consider images, with consent, for review by on-call doctor\n- Consider oxygen if septic and indicated\n- Consider simple analgesia or antipyretic if needed for discomfort",
       "sortOrder": 3
     },
     {
       "id": "cellulitis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider blood draw and i-STAT (CG4+) use\n- Consider fluid resuscitation if indicated\n- 12 lead ECG if indicated\n- Consider antibiotics (Bactrim, Cephalexin, Clindamycin, Dicloxacillin, Flucloxacillin, Metronidazole [penicillin allergy]) only in consultation with on-call doctor\n- If septic, follow sepsis pathway",
+      "content": "- Consider IV access\n- Consider blood draw and point-of-care testing if indicated\n- Consider fluid resuscitation if indicated\n- 12 lead ECG if indicated\n- Antibiotic choice should be guided by the on-call doctor and local protocol\n- If septic, follow sepsis pathway",
       "sortOrder": 4
     },
     {
       "id": "cellulitis-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Erysipelas is a superficial infection of the upper dermis; the affected area is raised, with a clear line of demarcation between infected and noninfected tissue. It classically involves the facial skin in a butterfly pattern, but also commonly affects a lower limb.\nCellulitis is an infection extending further into the dermis than erysipelas and involves subcutaneous tissue\n- There are many conditions that can mimic cellulitis and should be considered\n- Continual pruritus (itch) and no pain\n- Contact dermatitis\n- Allergic reaction\n- Cellulitis can affect any part of the body but most commonly presents on the\n- Lower extremities\n- Feet and toes\n- Hands and arms\n- Face, particularly around the eyes\n- Any images taken must be consented to. Any images must be uploaded to the patient’s medical record for the use of comparison and further management",
+      "content": "- Erysipelas is more superficial and often well demarcated; cellulitis is deeper and more diffuse\n- Mimics include contact dermatitis, allergic reaction, venous stasis change, gout, and other inflammatory dermatoses\n- Any clinical images must be consented to and handled per record policy",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

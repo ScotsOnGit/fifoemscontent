@@ -16,48 +16,48 @@
       "id": "acute-dystonic-reactions-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "An acute dystonic reaction (ADR) is an extrapyramidal side effect characterised by sudden, involuntary abnormal postures or repetitive movements, resulting from sustained contractions of opposing muscle groups. It is caused by dopamine receptor blockade in the basal ganglia, which leads to a relative excess of cholinergic activity. ADR typically occurs within hours to days after the initiation or dose increase of causative medications, such as antipsychotics or antiemetics.",
+      "content": "An acute dystonic reaction is an extrapyramidal side effect characterised by sudden involuntary abnormal postures or repetitive movements due to dopamine receptor blockade, often after antipsychotics or antiemetics.",
       "sortOrder": 0
     },
     {
       "id": "acute-dystonic-reactions-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Laryngospasm (Potentially life-threatening) with stridor, dysphonia, throat pain, and/or dyspnoea\n- Deviated eye gaze (upward/sideways), with or without eyelid spasm\n- Torticollis (neck tightness and/or tilting/twisting)\n- Opisthotonus (extreme back arching) with Arm flexion, leg extension and/or arched back\n- Macroglossia, where the tongue feels enlarged, but is not, and protrudes from the mouth\n- May present with trismus, dysarthria (slurred or slowing speech) and/or grimacing\n- May involve hips, pelvis and abdominal wall muscles (tortipelvic crisis)\n- Spasticity (softening and contraction) of trunk and limbs\n- The patient will have normal mental status\n\n**Other features may include:**\n  - Anxiety\n  - Agitation\n  - Diaphoresis\n  - Tachycardia\n  - Tachypnoea",
+      "content": "- Laryngospasm or upper-airway spasm with stridor or dyspnoea\n- Oculogyric crisis or abnormal eye deviation\n- Torticollis\n- Opisthotonus\n- Jaw spasm, tongue protrusion, dysarthria, grimacing\n- Anxiety, agitation, diaphoresis, tachycardia\n- Mental status is usually preserved",
       "sortOrder": 1
     },
     {
       "id": "acute-dystonic-reactions-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Often an unusual reaction, but more common in young males, especially if prior history\n- Can onset shortly after administration of medication but usually onsets hours to days later\n- ADR may mimic several other conditions such as seizures, meningitis or hyperventilation, for example and is often misdiagnosed as anaphylaxis or seizures; focus on medication history and characteristic spasms\n- History of Antipsychotic medication (haloperidol, risperidone and especially when used with young males), antiemetics (metoclopramide, prochlorperazine) antibiotics (erythromycin), antihistamines (ranitidine) or antidepressants (SSRI’s)\n\n**Classifications to consider:**\n  - Focal: Sudden involuntary contractions in one region (e.g., eyes, neck)\n  - Segmental: Simultaneous involvement of two or more adjacent regions\n  - Generalised: Widespread involvement; multiple body parts affected",
+      "content": "- More common in younger patients and after dopamine-blocking medications such as metoclopramide, prochlorperazine, haloperidol, or risperidone\n- Can be mistaken for seizure, meningitis, tetanus, anaphylaxis, or behavioural disturbance\n- Medication history is essential",
       "sortOrder": 2
     },
     {
       "id": "acute-dystonic-reactions-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position for airway protection (upright, head tilted back, chin lifted, if laryngospasm is suspected)\n- Consider oxygen\n- Be prepared to assist ventilations if required\n- Limb LEAD ECG (be aware of muscular artefact)",
+      "content": "- Primary Survey\n- Position for airway support as clinically indicated\n- Consider oxygen\n- Be prepared to assist ventilations if required\n- Consider ECG if diagnosis is unclear or significant medication exposure is suspected",
       "sortOrder": 3
     },
     {
       "id": "acute-dystonic-reactions-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider vascular access\n- Consider fluid resuscitation\n- Consider IM/IV Benzatropine (1-2mg) in consultation with on-call doctor\n- Consider promethazine (25 mg to 50 mg IM) in consultation with on-call doctor\n- Consider benzodiazepines in for persistent spasms in consultation with on-call doctor",
+      "content": "- Consider vascular access\n- Consider fluid resuscitation if indicated\n- Consider IM/IV benztropine (1-2 mg) in consultation with on-call doctor\n- Consider promethazine (25-50 mg IM) in consultation with on-call doctor if appropriate\n- Consider benzodiazepines for persistent or severe spasms in consultation with on-call doctor",
       "sortOrder": 4
     },
     {
       "id": "acute-dystonic-reactions-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Focal: Blepharospasm, Oculogyric crisis, spasmodic torticollis (wry neck)\n- Segmental: Hemiballismus\n- Generalised: Chorea, Tardive Dyskinesia",
+      "content": "- Common acute dystonic patterns include oculogyric crisis, torticollis, jaw spasm, tongue protrusion, and opisthotonus\n- Tardive dyskinesia and chorea are different movement disorders and should not be confused with acute dystonia",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
