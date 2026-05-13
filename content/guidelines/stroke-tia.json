@@ -36,21 +36,21 @@
       "id": "stroke-tia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Oxygen if indicated\n- Consider patient position (45 degrees, head up)\n- Complete Vital Sign Survey, especially BGL\n- Conduct (BE)FAST assessment If\n- FAST- but history is suggestive of TIA, the patient is at risk and should still be considered for off-site transfer and hospital assessment at an appropriate facility\n- Consider cranial nerve assessment\n- Consider RACE score\n- FAST+, stroke is the likely diagnosis; conduct the RACE assessment tool to identify Large Vessel Occlusion\n- Clinicians should have a very low threshold for calling the on-call doctor and alert RFDS as this cohort of patients will require transfer to a suitable acute stroke centre\n- Keep patient warm and comfortable",
+      "content": "- Primary Survey\n- Oxygen only if indicated\n- Position the patient to protect the airway and optimise comfort; avoid delaying transfer for positioning preferences alone\n- Complete Vital Sign Survey, especially BGL\n- Establish and document the exact time the patient was last known well\n- Conduct (BE)FAST assessment\n- If FAST is negative but the history is suggestive of TIA, the patient remains at risk and still requires urgent hospital assessment\n- Consider cranial nerve assessment\n- Consider RACE score as an adjunct to identify possible large vessel occlusion\n- FAST positive: treat stroke as a time-critical emergency, pre-notify the receiving service, and escalate early for transfer to an appropriate acute stroke centre\n- Keep patient warm and comfortable",
       "sortOrder": 3
     },
     {
       "id": "stroke-tia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Cardiac monitoring (arrythmias), 12 LEAD ECG if concurrent chest pain and/or time permits\n- Consider advanced airway if required\n- Gain IV Access, 2 x large bore\n- Collect pre-hospital blood sample for i-STAT testing where appropriate\n- Consider IV fluids\n- Consider benzodiazepines if actively seizing, (titrated to effect), in consultation with on- call doctor\n- Consider prophylactic antiemetic to reduce aspiration risk\n- Consider appropriate analgesia in consultation with on-call doctor",
+      "content": "- Cardiac monitoring, with 12 lead ECG where this does not delay transfer\n- Consider advanced airway if required\n- Gain IV access\n- Collect pre-hospital blood sample for i-STAT testing where appropriate\n- Consider IV fluids only if clinically indicated\n- Consider benzodiazepines if actively seizing, titrated to effect, in consultation with on-call doctor\n- Consider antiemetic only if clinically indicated\n- Consider appropriate analgesia in consultation with on-call doctor",
       "sortOrder": 4
     },
     {
       "id": "stroke-tia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Maintain a high index of suspicion of CVA in persons presenting with neurological symptoms over the past 24 hours, excluding obvious causes for these neurological symptoms such as hypoglycaemia\n\n- Patients should have continuous limb lead cardiac monitoring throughout to capture arrythmias, specifically AF which increases the risk of stroke, do not delay transfer / transport to capture a 12 lead unless there are specific reasons such as concurrent chest pain\n- The timing of the onset of symptoms needs to be clearly defined so that the suitability for IV thrombolysis (≤9 hours) or Endovascular Treatment (within 24 hours) can be determined",
+      "content": "- Maintain a high index of suspicion for stroke in patients with new focal neurological symptoms once obvious mimics such as hypoglycaemia have been excluded\n- Patients should have continuous limb lead cardiac monitoring where feasible to capture arrhythmias, especially AF, but transport should not be delayed to obtain a 12 lead ECG unless there is a specific indication such as concurrent chest pain\n- The timing of symptom onset or last-known-well time must be clearly defined so suitability for reperfusion therapy can be assessed by the receiving stroke service",
       "sortOrder": 5
     }
   ],
@@ -60,8 +60,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "race-score",
     "gcs",

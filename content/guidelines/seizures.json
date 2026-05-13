@@ -35,14 +35,14 @@
       "id": "seizures-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Protect from injury whilst patient seizing\n- Consider IM Midazolam in consultation with on-call doctor\n- 5mg Intramuscular, intranasally or buccally if appropriate\n- Complete Primary Survey\n- Open (where possible), clear and maintain the airway. Never stick fingers in the mouth\n- Suction if required and where possible\n- Insert appropriate airway adjunct; consider NPA if trismus present (do not attempt to force an airway into the seizing patient's mouth)\n- Lateral position if unresponsive (use left lateral position for pregnant women)\n- Oxygen with assisted ventilation if indicated\n- Identify and address cause where possible\n- Full Vital Signs Survey, particularly GCS, BGL, Pulse Oximetry and Temperature\n- Note length of time\n- Complete Secondary Survey once seizure has terminated\n- Limb LEAD ECG, being mindful of muscular artefact\n- Consider urinalysis where appropriate, i.e., pregnant woman\n- ESO’s, MESOs and other similar levels should have a low threshold for calling the on-call doctor",
+      "content": "- Protect from injury whilst the patient is seizing\n- If the seizure is prolonged or recurrent, consider midazolam via the approved route and dose under local protocol and in consultation with on-call doctor where required\n- Complete Primary Survey\n- Open, clear, and maintain the airway where possible. Never put fingers or objects in the patient's mouth during active seizure activity\n- Suction if required and where possible\n- Insert an appropriate airway adjunct once safe to do so; consider NPA if trismus is present\n- Lateral position if unresponsive (use left lateral position for pregnant women)\n- Oxygen with assisted ventilation if indicated\n- Identify and address the cause where possible\n- Full Vital Signs Survey, particularly GCS, BGL, Pulse Oximetry and Temperature\n- Note seizure onset time and total duration\n- Complete Secondary Survey once seizure activity has terminated\n- Limb lead ECG, being mindful of muscular artefact\n- Consider urinalysis where appropriate, e.g. in pregnancy\n- ESOs, MESOs and other similar levels should have a low threshold for calling the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "seizures-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Establish Vascular access\n- Consider blood draw, where appropriate, for i-STAT testing: Chem8 (lactate and electrolytes)\n- Consider IV Midazolam, titrated to effect, in consultation with on-call doctor\n- Consider IV glucose if related to low BGL",
+      "content": "- Establish vascular access\n- Consider blood draw, where appropriate, for i-STAT testing: Chem8 (lactate and electrolytes)\n- Consider IV midazolam, titrated to effect, in consultation with on-call doctor\n- Consider IV glucose if related to low BGL",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "gcs",
     "avpu",

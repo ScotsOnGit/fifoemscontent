@@ -35,27 +35,27 @@
       "id": "headache-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- FAST assessment\n- Limb LEAD ECG\n- Consider cranial nerve Assessment if appropriate\n- Consider “over the counter” analgesia (paracetamol, ibuprofen, aspirin, diclofenac, Anagraine)\n- Secondary Survey if applicable\n- Consider cool compress\n- Consider rest in a dark, quiet room if available",
+      "content": "- Primary Survey\n- FAST assessment\n- Consider cranial nerve assessment if appropriate\n- If red flags are present, treat as possible secondary headache and escalate accordingly\n- In patients with a typical benign headache pattern and no red flags, consider simple analgesia such as paracetamol or ibuprofen if not contraindicated\n- Secondary Survey if applicable\n- Consider cool compress\n- Consider rest in a dark, quiet room if available",
       "sortOrder": 3
     },
     {
       "id": "headache-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 LEAD ECG (Cranial changes to ECG are a late sign)\n- Consider IV access\n- Consider IV fluids\n- Consider appropriate antiemetic (IM Metoclopramide in migraine) in consultation with on-call doctor\n- Consider further migraine related therapies in consult with on-call doctor, (triptans, IM metoclopramide)\n- Consider further analgesia in consultation with the on-call doctor (Aspalgin, Ibudeine, Naproxen, Celecoxib, Indomethacin)\n- Consider further parenteral analgesia, IM or IV if oral route not feasible in consultation with on-call doctor",
+      "content": "- Consider IV access\n- Consider IV fluids if clinically indicated\n- Consider appropriate antiemetic in migraine, in consultation with on-call doctor\n- Consider further migraine-related therapies in consultation with on-call doctor\n- Consider further analgesia in consultation with the on-call doctor if oral treatment is not feasible",
       "sortOrder": 4
     },
     {
       "id": "headache-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Clinical studies and systematic reviews have shown that parenteral metoclopramide (commonly 10 mg intramuscularly) can provide significant pain relief in acute migraine attacks, independent of its antiemetic effects\n- Common migraine triggers can include Illness, poor sleep, exercise, menstruation, stress, sun glare, food (citrus, MSG, artificial sweeteners, nuts, onion, salty foods, caffeine, chocolate), skipped meals, missed mediation, medication overdose/overuse\n\n**Headache patterns:**\n  - Acute Recurrent: Migraine\n  - Chronic Non-progressive: Tension type headache, anxiety, depression, somatisation\n  - Chronic Progressive: Tumour, benign intracranial hypertension, brain abscess, hydrocephalus\n  - Acute on chronic non-progressive: Tension headache with co-existing migraine\n  - Migraine induced long QT changes should be considered before medication administration (triptans, ondansetron). This is often linked to autonomic nervous system dysfunction during the migraine. While usually resolving after the migraine, it's important to be aware of this potential association due to the risk of arrhythmia ECG Change Frequency During Migraine Attack Clinical Relevance Rhythm abnormalities ~30% Arrhythmia risk (AF, PVC, APC) Prolonged PR interval ~20% Conduction delay, arrhythmia Prolonged QTc interval ~40% Ventricular arrhythmia risk T wave inversion ~66% Repolarization abnormality ST-segment abnormalities ~40% Ischemic/repolarization change Increased QTc/P- wave dispersion Yes Predicts arrhythmia risk",
+      "content": "- Parenteral metoclopramide may help with nausea and can also improve pain in acute migraine\n- Common migraine triggers can include illness, poor sleep, exercise, menstruation, stress, sun glare, some foods, skipped meals, and medication overuse\n\n**Headache patterns:**\n  - Acute recurrent: Migraine\n  - Chronic non-progressive: Tension type headache, anxiety, depression, somatisation\n  - Chronic progressive: Tumour, benign intracranial hypertension, brain abscess, hydrocephalus\n  - Acute on chronic non-progressive: Tension headache with co-existing migraine",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

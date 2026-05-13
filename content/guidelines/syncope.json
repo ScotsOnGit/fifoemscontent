@@ -35,7 +35,7 @@
       "id": "syncope-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey (correct any issues identified)\n- Consider airway management if still unconscious, place patient in lateral position (left lateral position for pregnant women)\n- If conscious, place supine\n- Consider Oxygen if indicated\n- Vital Sign Survey, particularly blood pressure and blood glucose\n- Consider oral glucose intake if suitable, or IM glucagon if low BGL is a cause Limb LEAD ECG\n\n- Secondary/CNS Survey, (BE)FAST, cranial nerve assessment, etc\n- Clinicians should have low threshold for calling the on-call doctor",
+      "content": "- Primary Survey (correct any issues identified)\n- Consider airway management if still unconscious; place the patient in the lateral position (left lateral position for pregnant women)\n- If conscious, place supine initially\n- Consider Oxygen if indicated\n- Vital Sign Survey, particularly blood pressure and blood glucose\n- If hypoglycaemia is identified, treat according to the hypoglycaemia guideline\n- Limb lead ECG\n- Secondary/CNS Survey, (BE)FAST, cranial nerve assessment, etc\n- Clinicians should have a low threshold for calling the on-call doctor",
       "sortOrder": 3
     },
     {
@@ -59,8 +59,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu",
