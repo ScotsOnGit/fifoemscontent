@@ -29,7 +29,7 @@
       "id": "abdominal-trauma-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Some presentations may only have unexplained shock as the only sign of abdominal trauma\n- Significant abdominal injuries may present but may not be apparent and show little to no signs of external of trauma or a trivial pattern of injury or mechanism\n- Use minimal fluid resuscitation to achieve a systolic BP of 90mmHg or perfusion of vital organs\n- Shoulder tip pain may be indicative of an injury that is irritating the diaphragm\n- Be mindful that upper abdominal wounds, especially penetrating trauma, may also cause major thoracic damage\n- Motor vehicle accidents: Lap belts have a 30% chance of causing mesenteric or intestinal injury\n- Any left upper quadrant pain requires an ultrasound to rule out spleen injury",
+      "content": "- Some presentations may only have unexplained shock as the only sign of abdominal trauma\n- Significant abdominal injuries may be present despite minimal external signs or an apparently trivial pattern of injury\n- If active hemorrhage is suspected and there is no traumatic brain injury, use cautious resuscitation aimed at preserving vital-organ perfusion rather than normalising blood pressure\n- Shoulder tip pain may be indicative of diaphragmatic irritation\n- Be mindful that upper abdominal wounds, especially penetrating trauma, may also cause major thoracic damage\n- Motor vehicle accidents: lap-belt injury increases suspicion for mesenteric or intestinal injury\n- Left upper quadrant pain or tenderness should raise suspicion for splenic injury and prompt urgent definitive assessment and imaging in hospital",
       "sortOrder": 2
     },
     {
@@ -43,7 +43,7 @@
       "id": "abdominal-trauma-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway management as required\n- Gain IV Access\n- Consider IV fluids (permissive)\n- Consider tranexamic acid in consultation with the on-call doctor\n- Consider antiemetic\n- Administer appropriate pain relief\n- Apply cardiac monitoring",
+      "content": "- Consider advanced airway management as required\n- Gain IV access\n- Consider IV fluids cautiously; if hemorrhage is suspected, use permissive resuscitation unless contraindicated by traumatic brain injury or other specific factors\n- Consider tranexamic acid within 3 hours of injury in patients with suspected significant traumatic bleeding, in line with local protocol and senior advice\n- Consider antiemetic\n- Administer appropriate pain relief\n- Apply cardiac monitoring",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "crams",

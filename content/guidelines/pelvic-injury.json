@@ -29,7 +29,7 @@
       "id": "pelvic-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Any patient with hypotension and relevant mechanism of injury MUST be considered to have a TIME-CRITICAL pelvic injury\n- Haemorrhage from pelvic fracture is essentially bleeding into a free space, potentially capable of accommodating the patients entire blood volume without gaining sufficient pressure-dependent tamponade\n- High-energy mechanisms such as motor vehicle crashes or a fall from a height are major risk factors\n- Delayed recognition: Subtle signs may be missed, and clinical examination is unreliable, err on the side of caution if there is significant suggestive mechanism to cause a pelvic injury but the patient shows no signs of haemodynamic compromise/hypovolaemic shock and place the pelvic binder under the patient but leave open\n- Unnecessary movement and log rolling must be avoided where possible with less than a 15° tilt if required\n- Use of the scoop stretcher should be used to avoid log rolling\n - Abdominal, chest, femur, or head trauma are common with high-energy mechanisms\n- Where concurrent femur fracture is suspected prioritise pelvis treatment\n- Pelvic binders must be applied direct to skin (or nothing more than light underwear)\n- Ensure correct position over the greater trochanters prior to tension\n- Pelvic binders are often over-tensioned. Be cautious not to reduce the pelvis beyond its normal anatomical position\n- Prolonged tension can induce pressure necrosis\n- The use of the scoot stretcher is recommended to avoid log rolling the patient, unless extrication requires an extrication board\n- Pelvic springing must not be performed, repeated movement or palpation (“springing the pelvis”) increases bleeding risk",
+      "content": "- Any patient with hypotension and relevant mechanism of injury should be considered to have a time-critical pelvic injury until proven otherwise\n- Haemorrhage from pelvic fracture is essentially bleeding into a free space, potentially capable of accommodating the patient's entire blood volume without gaining sufficient pressure-dependent tamponade\n- High-energy mechanisms such as motor vehicle crashes or a fall from a height are major risk factors\n- Delayed recognition: subtle signs may be missed, and clinical examination is unreliable. If mechanism and presentation are suggestive, err on the side of early binder application rather than repeated examination\n- Unnecessary movement and log rolling must be avoided where possible with less than a 15 degree tilt if required\n- Use of the scoop stretcher is recommended to avoid log rolling\n- Abdominal, chest, femur, or head trauma are common with high-energy mechanisms\n- Where concurrent femur fracture is suspected prioritise pelvis treatment\n- Pelvic binders should be applied directly to skin, or over only very light clothing/underwear where necessary\n- Ensure correct position over the greater trochanters prior to tension\n- Pelvic binders are often over-tensioned. Be cautious not to reduce the pelvis beyond its normal anatomical position\n- Prolonged tension can induce pressure necrosis\n- Pelvic springing must not be performed; repeated movement or palpation increases bleeding risk",
       "sortOrder": 2
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "batt-score",

@@ -36,14 +36,14 @@
       "id": "crush-injury-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure scene safety. Responder safety is paramount\n- Persistent reassurance\n- Manage catastrophic bleeding/prepare for bleeding with a tourniquet\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Vital signs\n- Apply limb LEAD ECG\n- Secondary / CNS Survey, Monitor for tense, swollen limb with pain out of proportion\n- Manage temperature\n- Consider patient positioning, i.e., elevate limbs\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "content": "- Ensure scene safety. Responder safety is paramount\n- Persistent reassurance\n- Manage catastrophic bleeding/prepare for bleeding with a tourniquet\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Vital signs\n- Apply limb lead ECG\n- Secondary / CNS Survey, monitor for tense swollen limb with pain out of proportion\n- Manage temperature\n- Position the patient for comfort while minimising further tissue injury\n- Clinicians should have a low threshold for calling the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "crush-injury-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway if indicated\n- IV access should be gained, 2 x large bore where possible\n- If compression >1 hour, ensure fluids are running before release of the trapped part to reduce risk of sudden toxin release\n- Manage and prevent hypotension with IV fluids\n   - Early and aggressive fluids are the cornerstone of preventing acute kidney injury\n- Administer pain relief\n- Consider antiemetic\n- Consider IV antibiotics in consultation with the on-call doctor\n - Anticipate reperfusion injuries:\n   - Hyperkalaemia (manage as per that guideline), dysrhythmia, shock",
+      "content": "- Consider advanced airway if indicated\n- Gain IV access, 2 x large bore where possible\n- If compression >1 hour, commence IV fluids before release of the trapped part where feasible to reduce the impact of reperfusion injury\n- Manage and prevent hypotension with IV fluids\n   - Early fluids are important in reducing the risk of acute kidney injury, but reassessment is essential\n- Administer pain relief\n- Consider antiemetic\n- Anticipate reperfusion injuries:\n   - Hyperkalaemia (manage as per that guideline), dysrhythmia, shock",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "revised-trauma-score",

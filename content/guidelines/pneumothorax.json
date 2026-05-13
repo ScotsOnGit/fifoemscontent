@@ -43,7 +43,7 @@
       "id": "pneumothorax-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider analgesia (Fentanyl, Morphine, Ketamine)\n- Consider cardiac monitoring\n- Consider needle thoracocentesis in traumatic cardiac arrest with torso involvement\n- Indications for Immediate Needle Decompression:\n  - Severe respiratory distress and hypoxia (SpO₂ <93%) unresponsive to oxygen\n  - Significant hypotension (SBP <80 mmHg) with suspected chest injury\n  - Cardiac arrest following chest trauma where tension pneumothorax cannot be excluded\n - Consider finger thoracostomy in consultation with on-call doctor\n- Apply ECG\n- Consider IV Antibiotics (Cefazoline) in open pneumothorax in consultation with on-call doctor",
+      "content": "- Consider IV access\n- Consider analgesia (Fentanyl, Morphine, Ketamine)\n- Consider cardiac monitoring\n- Consider immediate thoracic decompression if tension pneumothorax is suspected in a patient with severe respiratory distress, worsening hypoxia, shock, or traumatic cardiac arrest\n- Needle thoracocentesis or finger thoracostomy should be performed only within local scope and protocol\n- Apply ECG",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
