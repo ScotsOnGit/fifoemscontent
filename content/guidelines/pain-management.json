@@ -30,21 +30,21 @@
       "id": "pain-management-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Patients at risk of under-reporting pain and therefore being undertreated for their pain include:\n  - Older patients\n  - Patients with mental health diagnosis\n  - Language or cultural barriers\n  - Patients who are pregnant\n - Administration of pain relief can have adverse side effects, such as respiratory depression, hypotension and nausea and/or vomiting\n - Be aware of synergistic effects of combining medications\n - Pain management should be undertaken with a multimodal approach, including reassurance, positioning, splinting, oral, inhaled, topical and intravenous pain relief as examples\n- Pain can present in several ways for example somatic, visceral, neuropathic, inflammatory. The presentation of pain should dictate the choice of pain relief given, for exampe:\n\n - Pain Score: 0 - 3 (examples: Minor sprain, headache):\n   - Recommended Management: Paracetamol, NSAID, low dose Codeine\n- Pain Score: 4 – 6 (examples: Moderate soft tissue injury):\n   - Recommended Management: Tramadol, Codeine, consider IM NSAIDS or IV if oral not tolerated, Methoxyflurane\n- Pain Score: 7 – 10 (examples: Major trauma, large fracture):\n   - Recommended Management: IV/IM Fentanyl, Morphine, Methoxyflurane (initially)\n\n**Red flags (escalation required):**\n  - Pain unrelieved after 2-step management (such as positioning and pain relief)\n  - Abdominal pain with guarding and rigidity\n  - Headache with confusion/altered GCS\n  - Sudden onset of severe headache\n  - Chest pain with cardiac risk or SOB\n  - Back pain numbness, weakness, or incontinence",
+      "content": "- Patients at risk of under-reporting pain and being undertreated include older patients, patients with communication barriers, and some pregnant or mental-health patients\n- Analgesics can cause respiratory depression, hypotension, sedation, and nausea or vomiting\n- Be aware of synergistic effects when combining sedating medications\n- Pain management should use a multimodal approach, including reassurance, positioning, splinting, cooling, and pharmacological analgesia where appropriate\n- Choice of analgesia should be guided by pain severity, likely cause, comorbidity, and local scope/protocol rather than a rigid score-to-drug list\n\n**Red flags (escalation required):**\n- Pain unrelieved after appropriate early measures\n- Abdominal pain with guarding or rigidity\n- Headache with confusion or altered GCS\n- Sudden onset severe headache\n- Chest pain with cardiac risk or shortness of breath\n- Back pain with numbness, weakness, or incontinence",
       "sortOrder": 2
     },
     {
       "id": "pain-management-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Record vitals, particularly pain score before and after administration of analgesia\n- Secondary Survey\n- Consider non-pharmacological strategies such as positioning, distraction, reassurance, empathy, immobilisation, splinting, cooling or icing\n- Consider over the counter analgesia, paracetamol, ibuprofen, diclofenac if appropriate\n- Consider methoxyflurane where appropriate\n- Call to on-call doctor for advice and review if stronger pain relief is required and/or is out of scope",
+      "content": "- Primary Survey\n- Record vital signs, including pain score before and after analgesia\n- Secondary Survey\n- Consider non-pharmacological strategies such as positioning, reassurance, immobilisation, splinting, and cooling where appropriate\n- Consider simple analgesia such as paracetamol or an NSAID if appropriate and not contraindicated\n- Consider methoxyflurane where appropriate\n- Call the on-call doctor for advice if stronger analgesia is required or if treatment is outside scope",
       "sortOrder": 3
     },
     {
       "id": "pain-management-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider further oral analgesia (Celecoxib, Codeine containing medications, etc)\n- Consider IM analgesia (Ketorolac, Morphine, etc)\n- Consider IN analgesia (Fentanyl via a 1ml syringe with atomiser, 25 – 50 mcg, repeated 10-15mins)\n\n- Consider IV analgesia (Fentanyl, Morphine, etc)\n   - Morphine: 1-2mg, every 15 minutes as required up to maximum of 5 doses in 60 minutes\n   - Fentanyl: 1mg per kg initial bolus dose then 20-25mcg every 10 minutes as required to a maximum 200mcgs\n- Consider antiemetic (Ondansetron, Metoclopramide, Prochlorperazine, etc)\n- Consider cardiac monitoring",
+      "content": "- Consider IV access\n- Consider further oral, intranasal, IM, or IV analgesia in line with local protocol and scope\n- Intranasal fentanyl may be appropriate where available and indicated\n- IV opioids should be titrated carefully to effect with close monitoring for respiratory depression, hypotension, and sedation\n- Consider antiemetic where required\n- Consider cardiac monitoring when using parenteral opioids or when clinically indicated",
       "sortOrder": 4
     },
     {
@@ -71,8 +71,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "weight-based-dosing"

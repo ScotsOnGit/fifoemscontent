@@ -18,7 +18,7 @@
       "id": "burns-assessment-rule-of-nines-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The “Rule of Nines” is a method used to estimate the total body surface area (TBSA) affected by burns. This rule divides the body into sections, each representing approximately 9% (or a multiple thereof) of the total body surface area. It is particularly useful for quickly assessing burn severity and determining fluid resuscitation needs in emergency situations.\n\n - **Rule of 9’s***\n - Head (front & back) 18%\n - Chest (9%), Abdomen (9%) Total 18%\n - Back (Upper 9%, Lower 9%) Total 18%\n - Right Arm 9%\n - Left Arm 9%\n - Perineum 1%\n - Right Leg Whole Limb 14%\n - Left Leg Whole Limb 14%",
+      "content": "The Rule of Nines is a rapid method for estimating the total body surface area (TBSA) affected by burns in adults. It is useful for early burn-size estimation and guiding escalation and fluid-resuscitation decisions.\n\n- Adult Rule of Nines:\n- Head and neck 9%\n- Each arm 9%\n- Anterior trunk 18%\n- Posterior trunk 18%\n- Each leg 18%\n- Perineum 1%\n- For children, the Rule of Nines is less accurate; use a paediatric chart such as Lund and Browder where available",
       "sortOrder": 0
     }
   ],
@@ -29,6 +29,6 @@
     "parkland-burns"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

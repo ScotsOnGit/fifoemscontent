@@ -32,21 +32,21 @@
       "id": "minor-injuries-epistaxis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Aseptic technique should be used in the treatment of all open wounds\n- Swelling, bruising and deformity are classic signs of fractures. Grade 3 sprains can present this way, and you cannot go wrong treating these as fractures until proven otherwise\n- Epistaxis can be a result of increased blood pressure with no other signs\n- In terms of epistaxis, consider if the patient is on anticoagulant\n- If bleeding persists despite anterior measures, suspect posterior bleeding\n- Patients with posterior epistaxis may be bleeding more than can be seen\n- In a head-to-head study comparing TXA versus anterior packing with lignocaine/epinephrine alone, patients in the TXA group were more than twice as likely to experience cessation in bleeding with 10 minutes\n- Do not pack both nostrils simultaneously unless airway is secured",
+      "content": "- Aseptic technique should be used in the treatment of all open wounds\n- Swelling, bruising, and deformity are classic signs of fracture. Severe sprains can present similarly and should be treated cautiously\n- In epistaxis, consider anticoagulant use, recent trauma, recurrent bleeding, or posterior bleeding\n- Patients with posterior epistaxis may bleed more than is externally visible\n- Topical tranexamic acid may be a useful adjunct in persistent anterior epistaxis where available and clinically appropriate\n- Do not pack both nostrils simultaneously unless the airway is secured",
       "sortOrder": 2
     },
     {
       "id": "minor-injuries-epistaxis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n\n**Wound care:**\n - Control any external haemorrhage with direct pressure\n - Consider CoPhenylcaine the area for analgesia prior to cleaning\n - Ensure wounds cleaned with sterile water, chlorhexidine or other suitable solution\n - Remove visible debris (do not probe too deeply)\n - Cover wounds with suitable dressing (plaster, sterile gauze, etc.)\n\n**Sprains/strains:**\n - Grade I - Mild degree of ankle sprain: Slight tearing of the ligament with mild swelling\n - Grade II - Moderate degree of ankle sprain: incomplete tearing of the ligament with moderate pain and bruising\n - Grade III - Severe degree of ankle sprain: Complete tearing of the ligament with severe swelling, pain (walking is likely impossible), and bruising\n  - Consider compression for sprains, strains\n  - Elevate injury where practicable\n  - Consider ice to area for 2 minutes every 2 hours\n  - Advise rest\n - Ensure, where available, consultation with the onsite Health & Injury Prevention Advisor or Physio takes place\n\n**Simple fracture:**\n - Splint simple fractures\n\n**Epistaxis:**\n  - Sit patient in appropriate position, discourage swallowing blood to avoid nausea/vomiting\n  - Apply firm pressure with finger and thumb, or have patient perform this, to the nares (soft part of nose) for 10min\n  - Consider bolster beneath the nose to catch any blood\n  - Consider nasal spray containing oxymetazoline if stocked\n  - Consider CoPhenylcaine if bleeding continues\n  - Consider nasal packing if epistaxis continues\n\n - Consider OTC pain relief (paracetamol, ibuprofen [not in active bleeding])\n - Consider Methoxyflurane for pain\n - Assess for distal neurovascular compromise where appropriate\n - Vital signs in all patients\n - Consider secondary survey\n - Enquire about tetanus status where relevant",
+      "content": "- Primary Survey\n\n**Wound care:**\n- Control external bleeding with direct pressure\n- Clean wounds with sterile water or other appropriate solution\n- Remove visible superficial debris only\n- Cover wounds with a suitable dressing\n\n**Sprains/strains:**\n- Consider compression where appropriate\n- Elevate the injury where practicable\n- Consider intermittent cooling\n- Advise rest and follow-up where available\n\n**Simple fracture:**\n- Splint simple fractures\n\n**Epistaxis:**\n- Sit the patient upright and leaning slightly forward\n- Discourage swallowing blood to reduce nausea and vomiting\n- Apply firm pressure to the soft part of the nose continuously for at least 10 minutes\n- Consider a bolster or towel beneath the nose to collect blood\n- Consider a topical vasoconstrictor if stocked and appropriate\n- If bleeding persists, consider anterior packing or topical TXA in consultation with the on-call doctor where appropriate\n\n- Consider simple analgesia; avoid NSAIDs during active bleeding\n- Assess for distal neurovascular compromise where appropriate\n- Record vital signs\n- Consider secondary survey\n- Enquire about tetanus status where relevant",
       "sortOrder": 3
     },
     {
       "id": "minor-injuries-epistaxis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "**Wound Care:**\n  - Consider Steri-strips, wound glue or suturing where appropriate\n\n **- Epistaxis**\n  - If direct pressure has failed, consider nasal packing with sterile dressing\n  - Consider applying IV preparation TXA to packing material in consultation with on- call doctor\n  - If bleeding persists despite anterior measures, suspect posterior bleeding\n - Consider antibiotics only in consultation with the on-call doctor\n - Consider analgesia",
+      "content": "**Wound care:**\n- Consider Steri-strips, wound glue, or suturing where appropriate\n\n**Epistaxis:**\n- If direct pressure has failed, consider anterior nasal packing\n- Consider applying topical TXA to packing material in consultation with the on-call doctor\n- If bleeding persists despite anterior measures, suspect posterior bleeding and escalate\n- Consider analgesia",
       "sortOrder": 4
     },
     {
@@ -62,6 +62,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

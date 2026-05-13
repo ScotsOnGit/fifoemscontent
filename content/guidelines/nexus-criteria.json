@@ -16,14 +16,14 @@
       "id": "nexus-criteria-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The NEXUS Criteria (National Emergency X-Radiology Utilisation Study) represent a well- validated clinical decision aid that can be used to safely rule out cervical spine injury in alert, stable trauma patients without the need to obtain radiographic images.",
+      "content": "The NEXUS Criteria (National Emergency X-Radiography Utilisation Study) are a validated clinical decision aid that can help identify low-risk alert, stable blunt-trauma patients who may not require cervical spine imaging. It is an adjunct to clinical judgement and should not be applied outside the rule's scope.",
       "sortOrder": 0
     },
     {
       "id": "nexus-criteria-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The NEXUS Criteria were developed to help physicians determine whether cervical spine imaging could be safely avoided in appropriate patients\n- Validation study included a prospective, observational sample of 34,069 patients, aged 1 to 101 years, presenting to 21 US trauma centres. 1.7% of those studied had clinically significant c-spine injuries (CSI). NEXUS Criteria found to have sensitivity of\n99.6% for ruling out CSI (2/578)\n- Also detected 99.0% (8/818) of ALL c-spine injuries (6 of which were injuries that didn’t require stabilization or specialised treatment)\n- Adopting this rule could decrease imaging in these patients by 12.6%\n- Subsequent studies have found a sensitivity of 83-100% for CSI with majority finding 90- 100% sensitivity",
+      "content": "- The NEXUS Criteria were developed to help clinicians determine whether cervical spine imaging may be safely avoided in appropriate blunt-trauma patients\n- The five low-risk criteria are: no midline cervical tenderness, no focal neurological deficit, normal alertness, no intoxication, and no painful distracting injury\n- NEXUS should be used cautiously in older adults and does not replace clinical judgement or local spinal-motion-restriction guidance\n- Other validated tools such as the Canadian C-Spine Rule also exist, but whichever tool is used should be applied correctly and within scope",
       "sortOrder": 1
     }
   ],
@@ -35,6 +35,6 @@
     "nexus-criteria"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

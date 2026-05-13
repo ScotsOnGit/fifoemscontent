@@ -16,7 +16,7 @@
       "id": "electric-shock-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Electrical injuries occur when electrical current passes through the body, causing tissue damage. Injuries are classified as:\n\n **- High voltage:** >1,000 volts (e.g., industrial, power lines)\n\n **- Low voltage:** <1,000 volts (e.g., household sources)\n\n Severity increases with higher voltage, duration of contact, and current pathway. As an example, 0.1mA to the myocardium can result if VF, 1000A can cause sever burn, loss of limb or high-tension injury and >12000A, such as lightning, can cause coma, severe burns and death. Injuries may result from direct contact, electrical arc, or flame/flash burns.\nAlternating current (AC) is typically more hazardous than direct current (DC), as AC can cause sustained muscle contraction and cardiac arrhythmias.",
+      "content": "Electrical injuries occur when electrical current passes through the body, causing tissue damage. Injuries are often classified as high voltage (>1,000 volts) or low voltage (<1,000 volts). Severity depends on voltage, current pathway, duration of contact, and associated trauma. Injuries may result from direct contact, electrical arc, lightning, or flame/flash burns. Alternating current is often more hazardous than direct current because it can cause sustained muscle contraction and arrhythmias.",
       "sortOrder": 0
     },
     {
@@ -30,21 +30,21 @@
       "id": "electric-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Scene safety: Confirm source is de-energised before approaching. Avoid water, downed wires, and unstable structures\n- Be aware, patients can still be in contact with live wires\n- Voltage level: High voltage increases risk of deep tissue and systemic injury that may not be readily obvious ad these need to be sought out\n- Damage to underlying structures (e.g. myolysis) is always a possibility and should be investigated\n- Patients with entry / exit wounds or cardiac arrhythmia and patients with high voltage injury must be transported to hospital\n- All these patients need hospital transfer for bloods\n - Type of current: AC (household/industrial) is more hazardous (lock-in effect) than DC (batteries, lightning) that will throw you away from the source\n- Duration of exposure: Longer contact increases severity\n- Current pathway: Transthoracic (hand-to-hand/foot) increases risk of cardiac involvement)\n- Delayed arrhythmias are rare and occur mostly following cardiac arrest or after exposure to high voltage (>1000V). In these cases, cardiac monitoring is imperative\n- Body tissues involved: Muscle, nerve, heart, and vascular structures are most susceptible\n- Lightning strike: May cause immediate cardiac and respiratory arrest\n- Associated trauma: Falls, blast injuries, secondary injuries\n- Moist tissue or wet skin increases conduction and therefore may result in a more severe injury\n- Always try and ascertain tetanus status\n- Electrical source, voltage, duration of contact, environmental factors at scene are important factors to note",
+      "content": "- Scene safety: confirm the source is de-energised before approaching. Avoid water, downed wires, and unstable structures\n- Patients may still be in contact with live current\n- High-voltage injury increases the risk of deep tissue damage, compartment syndrome, cardiac arrest, and occult trauma\n- Transthoracic current path increases the risk of cardiac involvement\n- Delayed arrhythmias are uncommon after low-voltage exposure with a normal assessment, but cardiac monitoring is important after high-voltage injury, loss of consciousness, chest symptoms, or ECG abnormality\n- Lightning strike may cause immediate cardiac and respiratory arrest\n- Associated trauma from falls or blast effects should be actively sought\n- Tetanus status should be reviewed where relevant",
       "sortOrder": 2
     },
     {
       "id": "electric-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Responder safety is paramount. Do not approach until the source is confirmed de- energised\n- Primary Survey with c-spine consideration\n- Consider oxygen with ventilatory support if required\n- Burn injury assessment & management\n- Perform vital sign survey\n- Secondary / CNS survey\n  - Remove clothing where necessary and assess for burns and any entry and/or exit wounds\n  - Assess for fractures and or muscle contraction\n- Urinalysis to detect myoglobinuria",
+      "content": "- Responder safety is paramount. Do not approach until the source is confirmed de-energised\n- Primary Survey with c-spine consideration where indicated\n- Consider oxygen and ventilatory support if required\n- Assess and treat burns as per burns guideline\n- Perform Vital Sign Survey\n- Secondary / CNS survey\n- Remove clothing where necessary and assess for burns and any entry and/or exit wounds\n- Assess for fractures, dislocations, or muscle injury",
       "sortOrder": 3
     },
     {
       "id": "electric-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply and assess 12 LEAD ECG\n- Manage arrythmia accordingly\n  - If in cardiac arrest, follow that guideline\n- Consider analgesia\n- Consider antiemetic\n- Consider IV access and fluids",
+      "content": "- Apply and assess 12 LEAD ECG\n- Manage arrhythmia accordingly\n- If in cardiac arrest, follow that guideline\n- Consider analgesia\n- Consider antiemetic\n- Consider IV access and fluids where indicated",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc",

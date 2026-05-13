@@ -29,21 +29,21 @@
       "id": "eye-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Significant eye injury may be present, despite benign appearance, normal vision and minimal symptoms\n- If eyelid oedema makes opening the lids difficult, attempt gentle assessment and document findings\n- Nausea associated with analgesia increases the risk of raised intraocular pressure.\nProphylactic antiemetic administration is recommended to avoid secondary injury\n- Avoid metoclopramide due to the risk of dystonic reaction perpetuating the injury\n- Avoid manipulating the eye as it may result in intraocular pressure (i.e. Eye lid retraction)\n- With penetrating injuries, manipulation may result in extrusion of intraocular contents or rupture of the globe\n- When flushing an eye, place injured eye down so as not to contaminate the other eye\n- For chemical injuries, irrigation takes priority over transport until completed\n- Suspect traumatic iritis if eye pain persists following trauma despite treatment with a topical anaesthetic\n - Dependant on nature of the injury, patients may require theatre management. Fast from food and water as needed\n- Patients being evacuated by air may require special requirements. Contact RFDS around any requirements",
+      "content": "- Significant eye injury may be present despite a relatively benign appearance\n- If eyelid oedema makes opening the lids difficult, attempt only gentle assessment and document findings\n- Avoid manipulating the globe or retracting lids forcefully\n- With penetrating injury or suspected globe rupture, manipulation may cause extrusion of ocular contents\n- When irrigating one eye, keep the affected side dependent where possible to avoid contaminating the other eye\n- For chemical injury, immediate copious irrigation takes priority and should begin as early as possible\n- Depending on the injury, urgent ophthalmic or surgical care may be required",
       "sortOrder": 2
     },
     {
       "id": "eye-injury-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey with c-spine consideration\n- Constant reassurance, keep at rest and discourage eye movement\n- Manage catastrophic bleeding (with haemorrhage control as required)\n- Do not attempt manipulation\n\n**For penetrating eye injury:**\n   - Do not remove any penetrating foreign body from globe. If tolerated, place raised protective eye shield over affected eye, do not pad\n\n**For chemical burns:**\n   - Irrigate with Diphoterine (5-15mins) if available or normal saline for a minimum of 30 minutes as early as possible\n   - If litmus paper available, test pH\n\n**For lid lacerations:**\n   - If required to control bleeding, place direct pressure around eye, avoiding pressure to the globe\n\n - Position patient supine with 30° head elevation to reduce intra-ocular pressure\n - Note vision, visual field, pupil size and reaction, movement and response to topical eye anaesthetic\n - Secondary / CNS Survey\n - Where appropriate, exam eye with fluorescein\n - Clinicians should have a low threshold for consult with current poison permit holder or RFDS",
+      "content": "- Primary Survey with c-spine consideration where indicated\n- Reassure the patient, keep them at rest, and discourage eye movement\n- Manage catastrophic bleeding as required\n- Do not manipulate the injured eye\n\n**For penetrating eye injury or suspected globe rupture:**\n- Do not remove any penetrating foreign body from the globe\n- If tolerated, place a rigid protective eye shield over the affected eye; do not pad the eye\n\n**For chemical burns:**\n- Start immediate irrigation with water, saline, or other suitable irrigant; if Diphoterine is immediately available it may be used, but irrigation should not be delayed\n- Continue irrigation during transport where required\n- If litmus paper is available, pH testing may help guide ongoing irrigation\n\n**For lid lacerations:**\n- If bleeding control is required, apply pressure around the eye while avoiding pressure on the globe\n\n- Position the patient comfortably; slight head elevation may be helpful if tolerated\n- Document vision, pupil findings, eye movements, and major symptoms where assessment is possible\n- Secondary / CNS Survey\n- Fluorescein assessment should not be used if globe rupture is suspected\n- Clinicians should have a low threshold for consultation with Poisons Information, RFDS, or ophthalmology support where relevant",
       "sortOrder": 3
     },
     {
       "id": "eye-injury-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- Administer prophylactic antiemetic\n- Consider analgesia\n- Monitor patient regularly, recording observations every 10 mins\n- Transport priority 1 if time critical, notify receiving facility, or evacuate as soon as is practicable",
+      "content": "- Gain IV access if indicated\n- Consider antiemetic if nausea or vomiting is present\n- Consider analgesia\n- Monitor the patient regularly, recording observations every 10 minutes where appropriate\n- Escalate and transport urgently for chemical injury, penetrating injury, suspected globe rupture, significant visual loss, or time-critical trauma",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
