@@ -36,21 +36,21 @@
       "id": "burns-management-basic-2",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey with c-spine consideration (mechanism dependant)\n- Frequent airway assessments with airway management/ventilatory support if required\n- Oxygen therapy (note: carbon monoxide inhalation may provide false SpO2 readings)\n- Burn injury assessment (Rule of 9’s or palm of patient = 1% TBSA)\n - Cool burn area for a minimum of 20 minutes, (be wary of hypothermia [cool burn, warm patient])\n   - Facial burns, apply a thin layer of emollient, aloe vera for example. NO silver dressings to face\n   - Do not attempt to wipe off semisolids (wax, tar, grease, etc.)\n   - Dry chemical burns, brush off dry powder then wash with copious amounts of water\n   - Consider Diphoterine for chemical burns (not hydrofluoric acid)\n   - Hydrofluoric acid, rinse with copious amounts of water until calcium gluconate treatment can be given\n- Consider methoxyflurane\n- Consider OTC pain relief (paracetamol, ibuprofen)\n- Remove jewellery, clothing/constrictions unless adhered to wound\n- Apply damp sterile dressings after cooling and/or hydrogels\n- Perform Vital Sign Survey\n- Elevate all affected areas, when possible, to reduce oedema and infection risk\n- Secondary / CNS Survey",
+      "content": "- Primary Survey with c-spine consideration (mechanism dependant)\n- Frequent airway assessments with airway management/ventilatory support if required\n- Oxygen therapy (note: carbon monoxide inhalation may provide false SpO2 readings)\n- Burn injury assessment (Rule of 9’s or palm of patient = 1% TBSA)\n - Cool burn area with cool running water for 20 minutes if within 3 hours of injury, while avoiding hypothermia (cool the burn, warm the patient)\n   - Facial burns, apply a thin layer of emollient, aloe vera for example. NO silver dressings to face\n   - Do not attempt to wipe off semisolids (wax, tar, grease, etc.)\n   - Dry chemical burns, brush off dry powder then wash with copious amounts of water\n   - Consider Diphoterine for chemical burns (not hydrofluoric acid)\n   - Hydrofluoric acid, rinse with copious amounts of water until calcium gluconate treatment can be given\n- Consider methoxyflurane\n- Consider OTC pain relief (paracetamol, ibuprofen)\n- Remove jewellery, clothing/constrictions unless adhered to wound\n- After cooling, cover with cling film or a clean dry dressing; use hydrogels only if running water is unavailable or impractical\n- Perform Vital Sign Survey\n- Elevate all affected areas, when possible, to reduce oedema and infection risk\n- Secondary / CNS Survey",
       "sortOrder": 3
     },
     {
       "id": "burns-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider/be prepared to place advanced airway if signs of airway burns are evident\n- Consider salbutamol\n- Establish vascular access (intact skin area)\n- Administer fluid replacement, (Hartmann’s preferred)\n  - 2ml x %TBSA x weight of patient: 50% of total amount over first 8 hours, 50% over 16 hours\n  - Normal daily oral fluids to be given concurrently where appropriate\n- Administer appropriate pain relief (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Consider debridement of dead skin/non-viable tissue and blisters",
+      "content": "- Consider/be prepared to place advanced airway if signs of airway burns are evident\n- Consider salbutamol\n- Establish vascular access (intact skin area)\n- For larger burns, begin fluid resuscitation with Hartmann's solution in consultation with local protocol/medical advice; use burn formulas as a guide only and reassess frequently to avoid over-resuscitation\n- Administer appropriate pain relief (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Do not routinely debride burns or deroof blisters in the prehospital setting unless specifically required by local protocol",
       "sortOrder": 4
     },
     {
       "id": "burns-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Debridement may improve accuracy of TBSA calculation, and reduce risk of oedema and infection\n\n- Compartment syndrome; signs of ischaemia include:\n   - Pain\n   - Pallor\n   - Paraesthesia\n   - Pulselessness or >2 seconds CRT\n   - Cool or cold limb\n- Referral criteria to state Adult Burn Unit at FSH:\n   - Burns greater than 10% total body surface area, full thickness > 5% TBSA\n   - Circumferential partial thickness or full thickness burns\n   - Burns in conjunction with major trauma\n   - Inhalation burns\n   - Chemical burns\n   - Electrical burns\n  - Special area burns i.e. face, neck, hands, feet, perineum/genitalia, joints",
+      "content": "- Compartment syndrome; signs of ischaemia include:\n   - Pain\n   - Pallor\n   - Paraesthesia\n   - Pulselessness or >2 seconds CRT\n   - Cool or cold limb\n- Referral criteria to state Adult Burn Unit at FSH:\n   - Burns greater than 10% total body surface area, full thickness > 5% TBSA\n   - Circumferential partial thickness or full thickness burns\n   - Burns in conjunction with major trauma\n   - Inhalation burns\n   - Chemical burns\n   - Electrical burns\n  - Special area burns i.e. face, neck, hands, feet, perineum/genitalia, joints",
       "sortOrder": 5
     }
   ],
@@ -68,6 +68,6 @@
     "parkland-burns"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

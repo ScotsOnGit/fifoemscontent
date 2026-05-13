@@ -36,21 +36,21 @@
       "id": "chest-trauma-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure the scene is safe, responder safety is paramount\n- Control catastrophic haemorrhage\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Immobilisation of impaled objects and positioning if required (do no remove object)\n- Cover open chest wounds with a chest seal\n- Secondary / CNS Survey\n- Clinicians should have a low threshold for calling current poison permit holder or RFDS",
+      "content": "- Ensure the scene is safe, responder safety is paramount\n- Control catastrophic haemorrhage\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Immobilisation of impaled objects and positioning if required (do not remove object)\n- Manage open chest wounds with a vented chest seal where available, or a clean non-occlusive dressing, and monitor closely for deterioration\n- Secondary / CNS Survey\n- Clinicians should have a low threshold for calling the on-call doctor or RFDS",
       "sortOrder": 3
     },
     {
       "id": "chest-trauma-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advance airway if indicated\n- Gain 2 x large bore IV access\n- Consider fluids where indicated\n- Administer pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Consider IV antibiotics\n- Patients in cardiac arrest with suspected tension pneumothorax caused by trauma (with torso involvement) to receive needle thoracentesis if trained to do so\n- Arrested and non-arrested patients with signs of pulmonary barotrauma and are suspected of having tension pneumothorax should receive surgical decompression by finger thoracostomy if trained to do so",
+      "content": "- Consider advanced airway if indicated\n- Gain 2 x large bore IV access\n- Consider fluids where indicated\n- Administer pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Patients in cardiac arrest with suspected tension pneumothorax caused by trauma (with torso involvement) should receive thoracic decompression if trained to do so, in accordance with local scope and protocol\n- Arrested and non-arrested patients with signs of tension pneumothorax may require needle thoracostomy or finger thoracostomy if trained to do so and authorised by local protocol",
       "sortOrder": 4
     },
     {
       "id": "chest-trauma-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "**Open chest wounds:**\n   - Covering with an occlusive dressing taped on 3 sides only allow air to escape but not enter the chest\n   - If signs of respiratory distress worsen (indicating tension pneumothorax) try removing the dressing from the wound. If this does not help, treat as an absolute emergency\n\n**Impaled objects:**\n   - Leave them in place and stabilise, seal around the base of the object with sterile dressings\n\n**Closed injury:**\n   - Stabilise rib fractures with patient positioned towards injured side, in a position of comfort\n   - Stabilise a flail sternum with the flat of a gentle supporting hand\n  - The major life-threatening injuries in thoracic trauma can be found in the mnemonic ATOMFC (airway obstruction/aortic injuries, tension pneumothorax, open pneumothorax with sucking chest wound, massive haemothorax, flail chest and/or cardiac tamponade",
+      "content": "**Open chest wounds:**\n   - Prefer a vented chest seal where available. A clean non-occlusive dressing is an acceptable alternative.\n   - Avoid relying on a fully occlusive three-sided dressing as standard practice.\n   - If breathing worsens after a dressing is applied, loosen or remove it and treat suspected tension pneumothorax as an emergency\n\n**Impaled objects:**\n   - Leave them in place and stabilise, seal around the base of the object with sterile dressings\n\n**Closed injury:**\n   - Stabilise rib fractures with patient positioned towards injured side, in a position of comfort\n   - Stabilise a flail sternum with the flat of a gentle supporting hand\n  - The major life-threatening injuries in thoracic trauma can be found in the mnemonic ATOMFC (airway obstruction/aortic injuries, tension pneumothorax, open pneumothorax with sucking chest wound, massive haemothorax, flail chest and/or cardiac tamponade)",
       "sortOrder": 5
     }
   ],
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "mgap",

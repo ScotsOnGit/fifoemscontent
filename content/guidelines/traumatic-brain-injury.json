@@ -37,21 +37,21 @@
       "id": "traumatic-brain-injury-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic bleeding\n- Primary Survey with c-spine consideration, avoid head tilt, utilise jaw thrust\n- Airway management/ventilatory support if required\n- Consider Oxygen where indicated, maintaining SpO2 above 90%\n- Immobilise when mechanism is suggestive of spinal involvement\n- Secondary Survey\n- Position patient with 30° head elevation if condition permits to improve venous drainage\n- As much as is possible, prepare patient for rapid evacuation; prioritise safe, timely transport\n- Clinicians should have a very low threshold for calling on-call doctor",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic bleeding\n- Primary Survey with c-spine consideration, avoid head tilt, utilise jaw thrust\n- Airway management/ventilatory support if required\n- Administer oxygen and ventilatory support as required to avoid hypoxemia; where advanced ventilation is used, target ETCO2 35-40 mmHg unless there are signs of impending cerebral herniation\n- Apply spinal precautions when mechanism or examination suggests spinal involvement\n- Secondary Survey\n- Position patient with 30° head elevation if condition permits to improve venous drainage\n- As much as is possible, prepare patient for rapid evacuation; prioritise safe, timely transport\n- Clinicians should have a very low threshold for calling on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "traumatic-brain-injury-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway management, spinal precaution considerations\n- Establish vascular access, 2 x large bore\n- Consider fluids, avoid hypotension with judicious use of crystalloids if needed to maintain a systolic blood pressure > 110mmHg\n- Use IV Glucose 10% as required to maintain blood glucose level >4mmol/L\n- Apply cardiac monitoring\n- Consider Tranexamic Acid\n- Consider pain relief\n- Consider Ondansetron\n- Consider Midazolam\n- Consider Ketamine for patients exhibiting combative TBI (if in scope)\n- Consider 12 lead (Cranial changes to ECG are a late sign)",
+      "content": "- Consider advanced airway management, spinal precaution considerations\n- Establish vascular access, 2 x large bore\n- Consider fluids, avoid hypotension with judicious use of isotonic crystalloids if needed to maintain systolic blood pressure at or above 110 mmHg where feasible\n- Use IV Glucose 10% as required to maintain blood glucose level >4mmol/L\n- Apply cardiac monitoring\n- Consider Tranexamic Acid in eligible patients within 2 hours of injury\n- Consider pain relief\n- Consider Ondansetron\n- Consider Midazolam\n- Consider Ketamine for patients exhibiting combative TBI (if in scope)\n- Consider 12 lead (cranial ECG changes are a late sign)",
       "sortOrder": 4
     },
     {
       "id": "traumatic-brain-injury-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Primary injury is generally irreversible therefore the aim of treatment is to prevent secondary injury by supporting cerebral haemodynamic and metabolism. Hypoxia and hypotension cause the most prominent secondary injuries and may more than double mortality\n- Seizures\n- Combativeness or agitation\n- Clinical deterioration\n- Death\n- NICE head injury guidance recommends TXA is administered as soon as possible to patients of all ages with a GCS of 12 or less. TXA is administered 62 minutes earlier if given in the pre-hospital setting, this will be even longer in the remote setting, highlighting the importance of pre-hospital administration",
+      "content": "- Primary injury is generally irreversible therefore the aim of treatment is to prevent secondary injury by supporting cerebral haemodynamics and metabolism. Hypoxia and hypotension are among the most important preventable secondary insults\n- Seizures\n- Combativeness or agitation\n- Clinical deterioration\n- Death\n- NICE head injury guidance advises considering TXA as soon as possible and within 2 hours of injury for eligible patients with moderate or severe traumatic brain injury",
       "sortOrder": 5
     }
   ],
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score"
   ]

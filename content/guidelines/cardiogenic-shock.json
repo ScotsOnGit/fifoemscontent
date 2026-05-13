@@ -15,7 +15,7 @@
       "id": "cardiogenic-shock-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Cardiogenic shock is a severe haemodynamic syndrome marked by inadequate cardiac output, resulting in persistent tissue hypoperfusion and a high risk of multiorgan failure and mortality. It is clinically defined by persistent hypotension lasting more than 30 minutes, with a systolic blood pressure below 90 mmHg or a reduction in mean arterial pressure (MAP) of more than 30 mmHg from the patient’s baseline resulting from cardiac causes such as but not limited MI, Myocarditis, or Arrythmias.",
+      "content": "Cardiogenic shock is a severe haemodynamic syndrome marked by inadequate cardiac output, resulting in persistent tissue hypoperfusion and a high risk of multiorgan failure and mortality. It is commonly associated with sustained hypotension and signs of end-organ hypoperfusion due to a primary cardiac cause such as acute myocardial infarction, myocarditis, or dysrhythmia.",
       "sortOrder": 0
     },
     {
@@ -36,14 +36,14 @@
       "id": "cardiogenic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately\n- Consider IIPV where indicated\n- Titrate Oxygen\n- Vital Sign Survey and close haemodynamic monitoring (recording vital signs at least every 5 minutes)\n- Apply Limb LEAD ECG, monitor for arrythmia\n- Consider Aspirin\n- Monitor for deterioration\n- Consider other causes of shock",
+      "content": "- Primary Survey\n- Position patient appropriately\n- Consider IPPV where indicated\n- Titrate Oxygen\n- Vital Sign Survey and close haemodynamic monitoring (recording vital signs at least every 5 minutes)\n- Apply limb lead ECG and monitor for arrhythmia\n- Consider Aspirin\n- Monitor for deterioration\n- Consider other causes of shock",
       "sortOrder": 3
     },
     {
       "id": "cardiogenic-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Perform 12-lead ECG\n- If due to arrythmia, follow that guideline\n- If due to ischemic, follow that guideline\n- Establish vascular access, large bore if possible\n- Consider IV fluid (generally not effective due to pump failure)\n- Ensure defib pads are attached to patient\n- Consider Adrenaline bolus in consultation with on-call doctor",
+      "content": "- Perform 12-lead ECG\n- If due to arrhythmia, follow that guideline\n- If due to ischaemia, follow that guideline\n- Establish vascular access, large bore if possible\n- Assess volume status carefully; if hypovolaemia is not suspected, avoid routine fluid loading and use only small cautious fluid challenges when clinically indicated\n- Ensure defib pads are attached to patient\n- Seek early senior advice regarding vasoactive or inotropic support in persistent hypotension",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-12T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc",

@@ -30,14 +30,14 @@
       "id": "spinal-trauma-cord-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to immobilise the spine even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life- threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- All immersion patients without a GCS of 15 should be considered to have a potential spinal cord injury until proven otherwise\n - Paramedics can safely apply the nexus criteria and transport patients without spinal immobilisation but should do so with caution >65 years old\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due the working environment being remote",
+      "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to restrict spinal motion even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life-threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- In immersion incidents, suspect spinal injury particularly after diving into shallow water, dumping surf, rocks, or aquatic craft incidents, but do not delay rescue or airway management for spinal precautions alone\n- Paramedics can safely apply the NEXUS criteria and transport some patients without full spinal immobilisation, but caution is advised in older patients and when assessment is unreliable\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due to the remote working environment",
       "sortOrder": 2
     },
     {
       "id": "spinal-trauma-cord-injury-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey with C-Spine considerations\n- Vital Signs\n- Secondary Survey\n- Assess for signs of spinal trauma, such as pain, tenderness, obvious deformity, or neurological changes, consider Nexus Criteria\n\n **- Implement spinal precautions if ANY of the following criteria are met:**\n  - SPEED tool score of ≤1 in any category, indicating a potential neurological deficit\n  - Glasgow Coma Scale (GCS) less than 15\n  - Presence of spinal pain, tenderness, or deformity\n  - Observable neurological deficits (numbness, weakness)\n  **- Significant traumatic mechanism, especially if accompanied by:**\n  - Influence of alcohol or drugs\n  - Distracting injuries\n  - Inability to effectively communicate\n - Limb LEAD ECG\n - Utilise vacuum mattress where indicated\n - Have a low threshold for calling the on-call doctor",
+      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey with C-Spine considerations\n- Vital Signs\n- Secondary Survey\n- Assess for signs of spinal trauma, such as pain, tenderness, obvious deformity, or neurological changes, and consider NEXUS Criteria\n\n **- Implement spinal motion restriction if ANY of the following criteria are met:**\n  - SPEED tool score of ≤1 in any category, indicating a potential neurological deficit\n  - Glasgow Coma Scale (GCS) less than 15\n  - Presence of spinal pain, tenderness, or deformity\n  - Observable neurological deficits (numbness, weakness)\n  **- Significant traumatic mechanism, especially if accompanied by:**\n  - Influence of alcohol or drugs\n  - Distracting injuries\n  - Inability to effectively communicate\n - Limb lead ECG\n - Utilise vacuum mattress where indicated\n - Have a low threshold for calling the on-call doctor",
       "sortOrder": 3
     },
     {
@@ -66,6 +66,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
