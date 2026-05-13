@@ -4,60 +4,62 @@
   "category": "common_presentations",
   "tags": [
     "influenza",
-    "like",
-    "illness",
-    "common presentation"
+    "flu",
+    "ili",
+    "viral illness",
+    "covid"
   ],
   "synonyms": [
-    "Influenza Like Illness"
+    "Influenza Like Illness",
+    "ILI"
   ],
   "sections": [
     {
       "id": "influenza-like-illness-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Influenza-like illness (ILI) describes a set of symptoms that resemble those of influenza (the flu) but can be caused by a variety of respiratory viruses and, less commonly, bacteria. ILI is typically characterised by the sudden onset of fever, cough, and often other symptoms such as sore throat, muscle aches, fatigue, and headache, usually lasting for several days.\nCommon viral causes include influenza viruses, respiratory syncytial virus (RSV), rhinovirus, adenovirus, parainfluenza viruses, and human coronaviruses.",
+      "content": "Influenza-like illness describes an acute febrile respiratory syndrome commonly caused by influenza, COVID-19, RSV, or other respiratory viruses. Prehospital care should focus on infection control, hydration, symptom relief, and recognition of complications such as pneumonia, sepsis, myocarditis, or respiratory failure.",
       "sortOrder": 0
     },
     {
       "id": "influenza-like-illness-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "Symptoms Cold Influenza COVID19 Symptoms begin gradually acutely within 14 days ofexposure Symptoms last 4-10 days 5-7 days Varies by person Body aches ✓ ✓ sometimes Chills less common ✓ sometimes Dry cough ✓ ✓ ✓ Exposure to germs ✓ ✓ ✓ Fatigue/weakness ✓ ✓ ✓ Fever less common ✓ ✓ Headaches less common ✓ sometimes Itchy eyes - - sometimes Nasal congestion ✓ ✓ sometimes Nausea/vomiting/diarrhoea sometimes sometimes sometimes New onset of loss of smell and/or taste sometimes sometimes ✓ Rigors (shivering) sometimes sometimes sometimes Runny nose ✓ ✓ sometimes Sneezing ✓ ✓ sometimes Sore throat ✓ ✓ sometimes Shortness of breath less common ✓ ✓ Symptom progression/get worse - ✓ ✓ COMMONPRESENNCE",
+      "content": "- Fever, chills, myalgia, headache, fatigue, or malaise\n- Cough, sore throat, congestion, or coryza\n- Nausea, vomiting, or diarrhoea in some patients\n- Dyspnoea, chest pain, confusion, or persistent vomiting in more severe illness",
       "sortOrder": 1
     },
     {
       "id": "influenza-like-illness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable\n- Do not rule out influenza in patients with a current history of seasonal influenza vaccination\n- Several cardiac conditions can present with symptoms that overlap with those of influenza. For example, myocarditis often mimics the flu, producing fever, fatigue, and muscle aches. Other heart conditions, such as heart failure and myocardial infarction (heart attack), can also cause symptoms like shortness of breath, chest pain, and fatigue, which may be mistaken for influenza\n- Most influenza infections are uncomplicated and self-limiting, typically lasting less than 7 days. However, complicated illness (e.g., sepsis, pneumonia, acute respiratory distress syndrome [ARDS]) or atypical presentations (e.g., neurological manifestations, myositis) without significant fever or respiratory features can occur\n- Hydration status is important information, used to guide further management.\nTachycardia, increased resp rate, decreased urine output - important to determine if IV hydration is required, also the urgency to evacuate (logistics)\n- Influenza is a reportable illness\n- Antibiotics have no benefit in treating viral illnesses\n- Severe Symptoms Requiring Urgent Assessment:\n  - Hypoxia (SpO₂ <94%)\n  - Tachypnoea (>22 breaths/min)\n  - Haemodynamic instability (e.g., hypotension)\n  - Altered mental status\n  - Chest pain or persistent vomiting\n  - Cyanosis or respiratory distress COMMONPRESENNCE",
+      "content": "- Use appropriate PPE and consider local infection-control requirements\n- Do not exclude influenza or COVID-19 simply because vaccination has occurred\n- Severe symptoms such as hypoxia, tachypnoea, haemodynamic instability, altered mental status, chest pain, or dehydration warrant escalation\n- Antibiotics do not treat uncomplicated viral illness",
       "sortOrder": 2
     },
     {
       "id": "influenza-like-illness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Appropriate PPE\n- Primary Survey\n- Vital Signs\n- Secondary Survey if required\n- Auscultation\n- Hydration testing\n- Consider RAT, Influenza A/B testing where available\n- Provide ILI information sheet where appropriate",
+      "content": "- Apply appropriate infection-control precautions\n- Primary Survey and Vital Sign Survey\n- Encourage oral fluids if safe and tolerated\n- Consider simple analgesia or antipyretic treatment for fever, myalgia, or headache\n- Provide clear safety-net advice and local return-to-work or isolation advice where relevant",
       "sortOrder": 3
     },
     {
       "id": "influenza-like-illness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG\n- Consider IV access\n- Consider IV fluids where required\n- Consider antiemetic where required\n- Consider analgesia where required\n- Consider Ritonavir (COVID) only in consultation with on-call doctor\n- Consider Oseltamivir (Tamiflu)(Influenza) only in consultation with on-call doctor\n- Consider antibiotics where bacterial infection may be the cause, only in consultation with on-call doctor",
+      "content": "- Consider ECG if chest pain, syncope, or myocarditis or ACS is a concern\n- Consider IV fluids for clinically important dehydration\n- Consider antiemetic treatment for troublesome vomiting\n- Antivirals or doctor-directed antimicrobials may be appropriate in selected high-risk or severe cases according to local protocol and timing of illness",
       "sortOrder": 4
     },
     {
-      "id": "influenza-like-illness-additional-notes",
+      "id": "influenza-like-illness-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "**Patient education:**\n  - Wear a mask where required or appropriate\n  - Take away meals preferred where available\n  - Viral infections of an ILI nature tend to last for 7-10 days\n  - Viral coughs can last longer than the original virus, sometimes up to 16 weeks\n  - Studies have shown that individuals are significantly more likely to experience a heart attack within a week of a confirmed flu infection, particularly in older adults and those experiencing their first heart attack so having a baseline ECG to compare to could prove beneficial COMMONPRESENNCE",
+      "content": "- Viral cough may persist after the acute illness has improved\n- Community outbreaks or high-risk workplace settings may require local reporting or additional infection-control measures",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

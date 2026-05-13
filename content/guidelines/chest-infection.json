@@ -3,67 +3,63 @@
   "title": "Chest Infection",
   "category": "common_presentations",
   "tags": [
-    "chest",
-    "infection",
-    "common presentation"
+    "chest infection",
+    "pneumonia",
+    "bronchitis",
+    "lower respiratory tract infection",
+    "cough"
   ],
   "synonyms": [
-    "Chest Infection"
+    "Chest Infection",
+    "Lower Respiratory Tract Infection"
   ],
   "sections": [
     {
       "id": "chest-infection-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Chest infection is a general term used to describe an infection that affects the lower parts of the respiratory system, specifically the lungs and airways (bronchi). Many different bacteria, fungi, and viruses can cause infection, but the two main types of chest infections are bronchitis (typically viral) and pneumonia (typically bacterial).",
+      "content": "Chest infection is a broad term covering lower respiratory tract infection, including acute bronchitis and pneumonia. In the prehospital setting, the key tasks are recognising respiratory compromise, sepsis, or alternate serious diagnoses, then providing supportive care and appropriate escalation.",
       "sortOrder": 0
     },
     {
       "id": "chest-infection-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Fever, Rigors\n- a persistent cough, can be productive with yellow/green phlegm or coughing up blood\n- Wheezing, breathlessness and/or rapid and shallow breathing\n- Chest pain or tightness when taking a breath\n- Feeling confused and disorientated",
+      "content": "- Cough, which may be dry or productive\n- Fever, rigors, malaise, or pleuritic chest discomfort\n- Dyspnoea, tachypnoea, or increased work of breathing\n- Wheeze or crackles on auscultation\n- Confusion, hypoxia, or hypotension in more severe infection",
       "sortOrder": 1
     },
     {
       "id": "chest-infection-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider off site transfer (home) if suitable\n- Tachycardia (≥100 bpm), Tachypnoea (≥22 rpm), reduced on air saturation (≤ 94%), hypotension (≤ 90mmHg), acute onset confusion should raise concern for sepsis\n- Severe illness signs: Dyspnoea, chest pain, altered mental status, hypoxia, signs of sepsis or organ dysfunction and need urgent review and management off site\n- Patient history of Asthma (or other COPD) and/or smoking is important for management, i.e., antibiotic choice +/- steroids +/- Ventolin\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where appropriate",
+      "content": "- Consider pneumonia, sepsis, asthma or COPD exacerbation, pulmonary embolus, heart failure, or acute coronary syndrome where clinically relevant\n- Abnormal vital signs, focal chest findings, hypoxia, altered mental status, or hypotension increase concern for significant illness\n- Cough suppressants and routine antibiotics are not standard prehospital treatment for uncomplicated viral illness\n- Escalate early if there are features of sepsis, respiratory failure, or inability to maintain hydration",
       "sortOrder": 2
     },
     {
       "id": "chest-infection-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Auscultation\n- Consider antipyretic medications only if temperature causing discomfort\n- Consider “over the counter” analgesia\n- Secondary Survey if required COMMONPRESENNCE",
+      "content": "- Primary Survey and Vital Sign Survey\n- Auscultate the chest where practicable\n- Administer oxygen only if clinically indicated\n- Encourage oral fluids if safe and appropriate\n- Consider simple antipyretic or analgesic treatment for discomfort or fever\n- Safety-net or arrange transport according to clinical severity and local disposition pathways",
       "sortOrder": 3
     },
     {
       "id": "chest-infection-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG\n- Consider IV access\n- Consider blood draw for i-STAT test in severe cases (Blood Urea Nitrogen, BUN and lactate where applicable)\n- Consider IV fluids where required\n- Consider oral antibiotics (Amoxicillin, Augmentin Duo Forte) only in consultation with on- call doctor\n- Consider IM/IV antibiotics in severe cases (Ceftriaxone) only in consultation with on-call doctor",
+      "content": "- Consider ECG if chest pain, arrhythmia, significant tachycardia, or alternate cardiopulmonary pathology is suspected\n- Establish IV access and give fluids only when clinically indicated, with reassessment for fluid overload\n- If severe infection, sepsis, or prolonged transport is likely, discuss doctor-directed antimicrobials or destination planning according to local protocol\n- Pre-notify receiving services for significant respiratory compromise or suspected sepsis",
       "sortOrder": 4
     },
     {
-      "id": "chest-infection-additional-notes",
+      "id": "chest-infection-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Cough suppressants SHOULD NOT be supplied/administered if production is evident\n- i-STAT Chem8+ BUN reference range 3-140 mg/dL (normal range 7-20mg/dL)\n- i-STAT Lactate of > 2 mmol/L should prompt review\n- The CRB-65 and CURB-65 scores are both used to assess the severity of community- acquired pneumonia (CAP). 1 point for each:\n  - Confusion (new disorientation in person, place, or time, etc.)\n  - BUN testing (where available)\n  - Raised respiratory rate (30 breaths per minute or more)\n  - Low blood pressure (systolic less than 90 mmHg or diastolic 60 mmHg or less)\n  - Age 65 years or more COMMONPRESENNCE",
+      "content": "- Routine antibiotics are not indicated for uncomplicated acute bronchitis\n- Persistent haemoptysis, severe pleuritic pain, focal neurology, or significant deterioration should prompt urgent reassessment",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "cefazolin",
-    "oxygen"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "news2",
-    "qsofa"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

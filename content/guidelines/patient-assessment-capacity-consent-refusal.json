@@ -1,0 +1,64 @@
+{
+  "id": "patient-assessment-capacity-consent-refusal",
+  "title": "Patient Assessment, Capacity, Consent & Refusal",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "capacity",
+    "consent",
+    "refusal",
+    "assessment",
+    "VIRCA",
+    "decision making"
+  ],
+  "synonyms": [
+    "Patient Assessment, Capacity, Consent & Refusal",
+    "Capacity and Consent",
+    "Refusal of Treatment"
+  ],
+  "sections": [
+    {
+      "id": "patient-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Prehospital clinicians must perform a dynamic patient assessment and obtain valid consent before treatment or transport wherever practicable. Decisions about acceptance or refusal of care should be grounded in clinical assessment, capacity evaluation, clear explanation of risk, and careful documentation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "patient-assessment-domains",
+      "type": "management_basic",
+      "title": "Assessment Framework",
+      "content": "- Assessment is dynamic and should be repeated as the patient's condition or circumstances change\n- Primary survey identifies immediate threats to life or limb\n- Secondary assessment adds focused history, examination, vital signs, collateral information, and relevant social or environmental risk factors\n- Consider whether delirium, intoxication, hypoxia, hypoglycaemia, head injury, severe pain, or mental illness may impair decision-making",
+      "sortOrder": 1
+    },
+    {
+      "id": "patient-assessment-capacity",
+      "type": "management_basic",
+      "title": "Capacity & Consent",
+      "content": "- Adults with decision-making capacity may accept or refuse treatment, even if others think the decision is unwise\n- Capacity is decision-specific and can fluctuate\n- A patient should be able to understand relevant information, retain it long enough to use it, weigh the options, and communicate a choice\n- Consent should be voluntary, informed, and relevant to the treatment or transport being proposed\n- If the patient lacks capacity, seek a legally authorised substitute decision-maker where available",
+      "sortOrder": 2
+    },
+    {
+      "id": "patient-assessment-refusal",
+      "type": "management_advanced",
+      "title": "Refusal Process",
+      "content": "- When a patient refuses recommended care, assess whether the refusal is voluntary, informed, relevant to the decision, and supported by adequate capacity\n- Explain the suspected condition, recommended treatment or transport, material risks of refusal, and alternative options within your expertise\n- If capacity is impaired and there is imminent risk to life or health, provide necessary treatment and transport in accordance with law, local policy, and senior clinical support\n- If validity cannot be determined in a time-critical situation, escalate urgently and err toward preserving life and health",
+      "sortOrder": 3
+    },
+    {
+      "id": "patient-assessment-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Document the assessment findings, the capacity assessment, who provided information, what risks were explained, the patient's exact decision, and any advice or safety-netting provided\n- Use interpreters, communication aids, family, or carers appropriately, but watch for coercion or undue influence\n- Children and young people require age-appropriate assessment of maturity, best interests, and lawful decision-making arrangements",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "high-risk-mental-health-presentations",
+    "low-risk-mental-health-presentations"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-14T00:00:00Z"
+}

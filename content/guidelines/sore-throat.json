@@ -3,60 +3,62 @@
   "title": "Sore Throat",
   "category": "common_presentations",
   "tags": [
-    "sore",
-    "throat",
-    "common presentation"
+    "sore throat",
+    "pharyngitis",
+    "tonsillitis",
+    "quinsy"
   ],
   "synonyms": [
-    "Sore Throat"
+    "Sore Throat",
+    "Acute Sore Throat"
   ],
   "sections": [
     {
       "id": "sore-throat-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Sore throat refers to pain, discomfort, or scratchiness in the throat, often worse on swallowing. It can involve the pharynx, tonsils, or larynx and is common in both adults and children. Sore throat has several causes, not limited to rhinovirus, coronavirus, adenovirus, influenza, herpes simplex, strep throat, candida, allergies, irritants, reflux and vocal strain.",
+      "content": "Acute sore throat is usually viral and self-limiting, but some patients have streptococcal infection or a deeper space or airway problem. Prehospital care should focus on airway assessment, hydration, analgesia, and recognition of red flags such as quinsy, epiglottitis, or neck space infection.",
       "sortOrder": 0
     },
     {
       "id": "sore-throat-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Sore or scratchy throat, pain with swallowing (odynophagia)\n- Red, inflamed pharynx and/or tonsils\n- Hoarseness if larynx involved, bad breath\n- Swollen lymph nodes around area\n- Fever, rigors, headache, malaise, fatigue, tonsillar exudate",
+      "content": "- Throat pain, painful swallowing, fever, headache, or malaise\n- Erythematous pharynx or tonsils, exudate, cervical lymphadenopathy\n- Hoarse voice or coryzal symptoms in viral illness\n- Drooling, trismus, stridor, muffled voice, or neck swelling in more serious disease",
       "sortOrder": 1
     },
     {
       "id": "sore-throat-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Otoscopy and sore throat are related because a sore throat can sometimes be a symptom of an ear infection, particularly otitis media (middle ear infection)\n- Distinguishing between viral and streptococcal pharyngitis and tonsillitis based on clinical features can be challenging\n- Red flags: Difficulty in breathing or swallowing, drooling, trismus, stridor, neck swelling and tightness, signs of dehydration\n- Suspected peritonsillar abscess (“quinsy”) should prompt urgent offsite ENT referral\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable",
+      "content": "- Viral symptoms such as cough, coryza, conjunctivitis, or diarrhoea make bacterial pharyngitis less likely\n- Clinical features alone do not reliably distinguish all bacterial from viral causes\n- Red flags include airway compromise, drooling, trismus, stridor, unilateral swelling, severe dehydration, or toxic appearance",
       "sortOrder": 2
     },
     {
       "id": "sore-throat-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Secondary Survey\n- Intra oral assessment\n- Otoscopy\n- If any abnormalities detected, gain imaging, with consent, for the doctor to review\n- Advise rest and fluids COMMONPRESENNCE\n\n- Consider throat lozenges\n- Consider warm saltwater gargle\n- Consider Cepacaine/Betadine throat gargle\n- Consider “over the counter” analgesia",
+      "content": "- Assess airway and hydration first\n- Provide simple analgesia, fluids, and supportive care\n- Warm saline gargles, lozenges, or local symptomatic measures may help if tolerated\n- Escalate promptly if red flags or inability to swallow fluids are present",
       "sortOrder": 3
     },
     {
       "id": "sore-throat-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider aspirin and water gargle\n- Consider stronger analgesia (if in scope) otherwise in consultation with on-call doctor\n- Consider antibiotics (Phenoxymethylpenicillin, Amoxycillin, Cephalexin) only in consultation with on-call doctor\n- Consider Prednisolone in consultation with the on-call doctor (patients with severe symptoms, sever pain, dysphagia, drooling)",
+      "content": "- Consider stronger analgesia within scope for severe pain\n- Corticosteroid or antibiotic therapy should be reserved for selected severe or bacterial-suspected cases after medical consultation or according to local protocol\n- Pre-notify or transport urgently for suspected peritonsillar abscess, epiglottitis, deep neck infection, or airway compromise",
       "sortOrder": 4
     },
     {
-      "id": "sore-throat-additional-notes",
+      "id": "sore-throat-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Severe cases should be referred offsite at next available opportunity\n- Complications of untreated Group A Strep: Rheumatic fever (rare in developed nations), post-streptococcal glomerulonephritis, peritonsillar/parapharyngeal abscess\n- Patient education: Most sore throats resolve in 5–7 days without antibiotics; antibiotics do not shorten duration for viral infections\n- If images are taken, ensure they are added to the patient’s medical record for comparison on review\n- Viral pharyngitis and tonsillitis are strongly suggested by the presence of any one of the following clinical features: cough, hoarse voice, conjunctivitis, nasal congestion, anterior stomatitis, viral exanthema and diarrhoea\n- Streptococcal pharyngitis and tonsillitis are difficult to diagnose based on clinical features alone. The clinical features traditionally associated with streptococcal infection are abrupt onset of symptoms, fever (above 38Â°C), tender cervical lymphadenopathy, tonsillar exudate, and the absence of cough, rhinorrhoea or nasal congestion COMMONPRESENNCE",
+      "content": "- Most uncomplicated sore throats resolve within about a week without antibiotics\n- Avoid routine antibiotic use in straightforward low-risk sore throat",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

@@ -1,0 +1,62 @@
+{
+  "id": "psychosocial-hazards-work-health-safety",
+  "title": "Psychosocial Hazards (WHS)",
+  "category": "skills",
+  "skillsSubcategory": "assessment",
+  "tags": [
+    "psychosocial hazards",
+    "whs",
+    "work health and safety",
+    "fatigue",
+    "violence",
+    "bullying",
+    "trauma exposure"
+  ],
+  "synonyms": [
+    "Psychosocial Hazards (WHS)",
+    "Psychosocial Hazards",
+    "WHS Psychosocial Hazards"
+  ],
+  "sections": [
+    {
+      "id": "psychosocial-hazards-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Psychosocial hazards are work-related factors that can cause psychological or physical harm. In prehospital practice these may include exposure to traumatic events, remote or isolated work, fatigue, excessive workload, aggression or violence, poor support, bullying, and poor organisational change or role clarity.",
+      "sortOrder": 0
+    },
+    {
+      "id": "psychosocial-hazards-identify",
+      "type": "management_basic",
+      "title": "Identify & Assess",
+      "content": "- Look for hazards arising from job demands, workload, rostering, poor support, conflict, violence, remote work, or repeated traumatic exposure\n- Assess both the immediate risk and the cumulative effect on workers or teams\n- Psychosocial risks should not be dismissed as just part of the job\n- Check whether there is immediate risk of self-harm, violence, cognitive overload, unsafe fatigue, or inability to continue work safely",
+      "sortOrder": 1
+    },
+    {
+      "id": "psychosocial-hazards-manage",
+      "type": "management_basic",
+      "title": "Immediate Management",
+      "content": "- Remove or reduce immediate hazards where practicable, such as withdrawing from violence, unsafe scenes, or extreme fatigue situations\n- Escalate urgent concerns to a supervisor or designated support pathway early\n- Encourage breaks, peer support, debrief, and practical workload adjustments when indicated\n- If a worker is acutely distressed or appears unsafe to continue, prioritise immediate safety over operational continuity",
+      "sortOrder": 2
+    },
+    {
+      "id": "psychosocial-hazards-escalation",
+      "type": "management_advanced",
+      "title": "Escalation & Ongoing Control",
+      "content": "- Serious or repeated psychosocial hazards require formal reporting, risk assessment, and organisational controls rather than relying only on individual resilience\n- Consider controls such as staffing changes, rostering review, supervision, training, violence prevention measures, access to specialist support, and clearer escalation pathways\n- If there is imminent risk of self-harm, suicide, aggression, or mental health crisis, manage as an emergency and arrange urgent clinical assessment",
+      "sortOrder": 3
+    },
+    {
+      "id": "psychosocial-hazards-notes",
+      "type": "additional_notes",
+      "title": "Key Points",
+      "content": "- Documentation should record the hazard identified, the risk created, the actions taken, and who was notified\n- Support services such as EAP or peer support can help, but they do not replace the duty to eliminate or minimise workplace psychosocial risk where reasonably practicable\n- Remote and isolated work is both a psychosocial and operational safety concern in prehospital services",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-14T00:00:00Z"
+}

@@ -3,13 +3,16 @@
   "title": "Low Risk Mental Health Presentations",
   "category": "mental_health",
   "tags": [
-    "mental",
-    "health",
-    "low",
-    "risk"
+    "mental health",
+    "anxiety",
+    "stress",
+    "low mood",
+    "adjustment",
+    "distress"
   ],
   "synonyms": [
-    "Low Risk Mental Health Presentations"
+    "Low Risk Mental Health Presentations",
+    "Low Risk Mental Health"
   ],
   "sections": [
     {
@@ -30,34 +33,37 @@
       "id": "low-risk-mental-health-presentations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Exclude immediate risk factors such as suicidality, self-harm intent, aggression, hallucinations, or serious organic illness\n- Use a respectful, non-judgemental approach and assess support systems\n- Stay within scope and avoid providing care beyond training or authority\n- Document findings and advice clearly",
+      "content": "- Exclude immediate suicide risk, aggression, psychosis, severe intoxication, or serious organic illness\n- Use a respectful, non-judgemental approach and assess supports, current stressors, and immediate safety\n- Capacity, consent, and confidentiality still matter in low-risk presentations\n- Sedation is not routine care for low-risk presentations",
       "sortOrder": 2
     },
     {
       "id": "low-risk-mental-health-presentations-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Provide reassurance, active listening, and validation\n- Reduce sensory stimuli and offer a calm environment where possible\n- Encourage practical supports and appropriate follow-up pathways such as EAP or local mental health support\n- Perform Vital Sign Survey including BGL where relevant\n- Escalate to the on-call doctor if risk is uncertain or the presentation is deteriorating",
+      "content": "- Provide reassurance, active listening, and a calm environment where possible\n- Primary Survey and focused Vital Sign Survey, including BGL where relevant\n- Encourage practical supports and appropriate follow-up pathways such as local mental health services, GP review, EAP, or trusted supports\n- Escalate if risk is uncertain, the patient cannot be safely left in place, or the presentation is deteriorating",
       "sortOrder": 3
     },
     {
       "id": "low-risk-mental-health-presentations-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Sedating medication should not be routine for low-risk presentations and should only be considered within scope and after senior discussion when truly necessary",
+      "content": "- Sedating medication should only be considered if the situation has changed and the patient is now an immediate danger to themselves or others, or there is another clear clinical indication within scope\n- If escalation is required, reassess whether the patient now fits a high-risk mental health or medical presentation and manage accordingly",
       "sortOrder": 4
     },
     {
       "id": "low-risk-mental-health-presentations-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Debrief and referral pathways should respect confidentiality and patient autonomy where possible",
+      "content": "- Document the risk assessment, supports offered, safety-net advice, and agreed follow-up\n- Respect patient autonomy and confidentiality wherever possible",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
+  "relatedGuidelineIDs": [
+    "patient-assessment-capacity-consent-refusal",
+    "domestic-and-family-violence"
+  ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

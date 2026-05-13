@@ -3,60 +3,62 @@
   "title": "Otitis Externa",
   "category": "common_presentations",
   "tags": [
-    "otitis",
-    "externa",
-    "common presentation"
+    "otitis externa",
+    "swimmer ear",
+    "ear pain",
+    "otorrhoea"
   ],
   "synonyms": [
-    "Otitis Externa"
+    "Otitis Externa",
+    "Swimmer Ear"
   ],
   "sections": [
     {
       "id": "otitis-externa-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Otitis externa, also known as “swimmer’s ear”, is an inflammation or infection of the external ear canal, the pathway from the outer ear to the eardrum. It is often caused by bacterial or fungal infections and can be triggered by prolonged moisture in the ear canal, such as after swimming.",
+      "content": "Otitis externa is inflammation or infection of the external auditory canal, often associated with moisture, local trauma, or debris. Prehospital care should focus on confirming the likely canal source, excluding red flags, providing analgesia, and arranging appropriate follow-up or escalation.",
       "sortOrder": 0
     },
     {
       "id": "otitis-externa-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Earache\n- Discharge\n- Itching\n- Hearing difficulties (due to canal obstruction)\n- Feeling of fullness/blocked sensation in the ear\n- Swelling/redness\n- In acute diffuse otitis externa, the external ear canal (if visible) appears inflamed, with erythema and oedema\n- In otomycosis, fungal debris is typically visualised in the canal on otoscopy (having the appearance of wet newspaper)",
+      "content": "- Ear pain, often worse when the pinna or tragus is moved\n- Itch, fullness, reduced hearing, or otorrhoea\n- Erythema or oedema of the external canal\n- Fungal infection may present with itch, debris, and less severe pain than bacterial infection",
       "sortOrder": 1
     },
     {
       "id": "otitis-externa-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Persistent symptoms despite adequate topical treatment may indicate complications such as cellulitis\n- Red flags can include severe symptoms > 48 hours despite treatment, cranial nerve involvement, facial paralysis, granulation, immunosuppression, diabetes\n- Consider fungal (Otomycosis) or resistant bacteria in non-resolving symptoms. Fungal infections are more likely to present with itch and a blocked ear (from fungal debris) than from pain\n- Avoid ear drops containing an aminoglycoside (e.g., Framycetin, Neomycin) in a tympanic membrane that is known or suspected to be perforated. Instead consider oral therapies\n- Follow up 48-72 hours\n- Imaging must be consented to\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable",
+      "content": "- Red flags include cranial nerve findings, spreading cellulitis, severe systemic illness, immunosuppression, diabetes, severe canal swelling preventing topical therapy, or concern for malignant otitis externa\n- If the tympanic membrane is perforated or status is uncertain, avoid potentially ototoxic topical agents unless specifically directed\n- Do not syringe the ear",
       "sortOrder": 2
     },
     {
       "id": "otitis-externa-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Assess vital signs COMMONPRESENNCE\n\n- Assess around outer ear for erythema, swelling, discharge, oedema and signs of periauricular cellulitis\n- Otalgia (ear pain) can be elicited by tugging the pinna to retract it\n\n**Perform bilateral otoscopy, looking for:**\n  - Tenderness and pain on advancing speculum (care to be taken)\n  - Swelling, oedema, moisture (may not be able to visualise External Auditory Canal)\n  - Debris and discharge (fungal causes can be distinguished)\n  - Obstruction\n  - If possible, and with consent, perform imaging for comparison or review by current poison permit holder\n  - Consider “over the counter” analgesia (Paracetamol, Ibuprofen)\n  - Consider over the counter topical treatment, e.g., Aqua Ear",
+      "content": "- Primary Survey only if clinically indicated, then focused ear assessment\n- Inspect the external ear and perform gentle otoscopy if tolerated\n- Provide simple analgesia\n- Keep the ear dry and avoid further trauma such as cotton buds or scratching\n- Consider simple acetic-acid or drying preparations only where appropriate and the tympanic membrane is thought to be intact",
       "sortOrder": 3
     },
     {
       "id": "otitis-externa-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider analgesia\n- Consider topical antibiotics (Ciprofloxacin [Ciproxin], Kenacomb Otic) only in consultation with on-call doctor\n- Consider ear wick if available, but must be removed after 72 hours\n- Consider Oral antibiotics (Augmentin Duo Forte) in severe cases or no improvement after 48 hours of topical treatment only in consultation with on-call doctor\n- Consider removal of discharge or other debris by dry aural toilet (cotton wool on a probe) if trained to do so. The aim of aural toilet is to facilitate ear drop administration.\nDo not syringe the ear with water or other fluids",
+      "content": "- Topical antimicrobial or antifungal drops may be considered within local protocol or after doctor consultation\n- An ear wick may be appropriate for marked canal oedema if within scope and supported locally\n- Escalate for oral or IV therapy only when there is spreading infection, severe pain, systemic illness, or failure of topical management",
       "sortOrder": 4
     },
     {
-      "id": "otitis-externa-additional-notes",
+      "id": "otitis-externa-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Patient education to finish complete course of antibiotics, avoid scratching, red flags, avoid inserting anything into ear (cue tip, ear plugs for example), keep ears dry and clean\n- If images are taken, ensure they are added to the patient’s medical record for comparison on review\n- Fungal infection (otomycosis) occurs less frequently than bacterial infection\n- Pseudomonas aeruginosa and Staphylococcus aureus are the most common causes of acute diffuse otitis externa; other bacterial causes are much less common\n- Otocomb/Otodex/Sofradex are not effective against Pseudomonas infection. Hence a better choice for ear drops is Ciprofloxacin COMMONPRESENNCE",
+      "content": "- Reassessment is important if symptoms are worsening or not improving over 48 to 72 hours\n- Pain out of proportion, granulation tissue, or cranial neuropathy should prompt urgent specialist consideration",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

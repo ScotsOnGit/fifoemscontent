@@ -1,0 +1,70 @@
+{
+  "id": "domestic-and-family-violence",
+  "title": "Domestic & Family Violence",
+  "category": "mental_health",
+  "tags": [
+    "domestic violence",
+    "family violence",
+    "dfv",
+    "ipv",
+    "coercive control",
+    "safeguarding"
+  ],
+  "synonyms": [
+    "Domestic & Family Violence",
+    "Domestic Violence",
+    "Family Violence"
+  ],
+  "sections": [
+    {
+      "id": "domestic-and-family-violence-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Domestic and family violence can present with physical injury, fear, coercion, psychological distress, sexual violence, social control, or threats to children and dependants. Paramedics may be the first health professionals to identify risk, support disclosure, and help the patient access immediate safety and ongoing care.",
+      "sortOrder": 0
+    },
+    {
+      "id": "domestic-and-family-violence-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Injuries inconsistent with the stated mechanism or repeated unexplained injuries\n- Fearful, guarded, withdrawn, or hypervigilant behaviour\n- A controlling partner or family member who will not leave the patient alone or answers for them\n- Strangulation history, escalating threats, stalking, sexual violence, or threats involving children or weapons\n- Anxiety, depression, self-harm, substance use, or somatic complaints related to abuse",
+      "sortOrder": 1
+    },
+    {
+      "id": "domestic-and-family-violence-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Speak with the patient alone if it is safe and practicable\n- Validate the disclosure and avoid blaming or pressuring the patient to leave immediately if that may increase risk\n- Consider immediate threats to the patient, children, dependants, and clinicians\n- Strangulation, pregnancy, escalating violence, weapons, and threats to kill are particularly high-risk features\n- Follow local safeguarding, mandatory reporting, and police-notification obligations",
+      "sortOrder": 2
+    },
+    {
+      "id": "domestic-and-family-violence-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety and request police if there is ongoing danger\n- Treat urgent injuries and complete a focused physical and mental health assessment\n- Ask simple, private, trauma-informed questions and believe the patient\n- If the patient discloses abuse, explore immediate safety needs, safe destination options, and whether children or other vulnerable people are at risk\n- Respect autonomy where capacity is intact, while providing information about support services and safety planning",
+      "sortOrder": 3
+    },
+    {
+      "id": "domestic-and-family-violence-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Escalate early for significant injury, sexual assault, strangulation, suicidality, severe mental distress, or unclear capacity\n- Doctor or senior clinician involvement may help with disposition, forensic considerations, or risk management where available\n- Document objective findings carefully, including the patient's words where possible, observed injuries, and safety concerns",
+      "sortOrder": 4
+    },
+    {
+      "id": "domestic-and-family-violence-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Do not give written material or make phone calls that could place the patient at greater risk unless it is safe to do so\n- Be alert to clinician wellbeing needs after distressing DFV presentations",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "high-risk-mental-health-presentations",
+    "patient-assessment-capacity-consent-refusal"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-14T00:00:00Z"
+}

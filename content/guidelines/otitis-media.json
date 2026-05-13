@@ -3,60 +3,62 @@
   "title": "Otitis Media",
   "category": "common_presentations",
   "tags": [
-    "otitis",
-    "media",
-    "common presentation"
+    "otitis media",
+    "ear infection",
+    "middle ear infection",
+    "ear pain"
   ],
   "synonyms": [
-    "Otitis Media"
+    "Otitis Media",
+    "Middle Ear Infection"
   ],
   "sections": [
     {
       "id": "otitis-media-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Otitis media, also known as a middle ear infection, is an inflammation or infection of the middle ear, the space behind the tympanic membrane (eardrum), often follows a cold or upper respiratory infection and caused by fluid buildup. There are two main types:\nacute otitis media (a sudden, painful infection) and otitis media with effusion (fluid in the middle ear without signs of infection, sometimes called \"glue ear\").",
+      "content": "Otitis media is infection or inflammation of the middle ear, often following an upper respiratory tract infection. Many cases improve without antibiotics, but severe pain, mastoid complications, systemic illness, or high-risk patients warrant escalation.",
       "sortOrder": 0
     },
     {
       "id": "otitis-media-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Earache, headache\n- Fever\n- Fluid draining, feeling of fullness in the ear, hearing difficulties\n- Nausea/Vomiting, Vertigo",
+      "content": "- Earache, pressure, fever, or reduced hearing\n- Recent upper respiratory symptoms\n- Irritability, poor feeding, or sleep disturbance in children\n- Otorrhoea may indicate tympanic membrane perforation",
       "sortOrder": 1
     },
     {
       "id": "otitis-media-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Ear effusion, also known as glue ear or otitis media with effusion (OME), is a condition where fluid builds up in the middle ear, often after an ear infection, and can cause temporary hearing loss or other symptoms. Watch and wait is a good approach\n- It often starts with a cold and will usually go away by itself without antibiotics\n- Signs of runny nose, sore throat can suggest patient may have a cold resulting in OME\n- Complications include tympanic membrane perforation, mastoiditis, cholesteatoma, hearing loss and meningitis\n- Risk factors: recent URTI, smoking, eustachian tube dysfunction, allergies\n- A watch and wait approach is suitable in mild cases, must be reviewed within 48-72 hours\n- Red flags can include severe pain despite treatment, dizziness and vertigo, facial droop/ weakness, mastoiditis (pain over the mastoid bone), underlying immunosuppression or diabetes, sudden hearing loss or purulent ear discharge\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable COMMONPRESENNCE",
+      "content": "- Mastoid tenderness, pinna displacement, facial weakness, severe vertigo, meningism, or systemic toxicity are red flags\n- Most uncomplicated cases are managed with analgesia and observation rather than immediate antibiotics\n- Consider alternate causes of otalgia if the tympanic membrane findings do not fit acute otitis media",
       "sortOrder": 2
     },
     {
       "id": "otitis-media-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Assess around outer ear, including mastoid\n- Redness\n- Size, shape, colour\n- Feel mastoid for tenderness, redness, swelling or affect ear position\n- Assess sinuses for tenderness\n\n**Perform bilateral otoscopy, looking for:**\n  - Redness, bulging membranes, loss of landmarks\n  - Fluid behind the tympanic membrane\n  - If possible, and with consent, perform imaging for comparison or review by on-call doctor\n  - Consider “over the counter” analgesia (paracetamol, Ibuprofen)\n  - Consider topical analgesia (Auralgan)",
+      "content": "- Focused assessment including otoscopy where tolerated\n- Provide simple analgesia and encourage fluids\n- Safety-net for worsening pain, ongoing fever, new discharge, or deterioration\n- Arrange review if the diagnosis is uncertain or symptoms are not settling",
       "sortOrder": 3
     },
     {
       "id": "otitis-media-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider analgesia\n- Consider antiemetic\n- Consider IM Stemetil if indicated in consultation with on-call doctor\n- Consider oral antibiotics (Amoxycillin, Augmentin Duo Forte, Doxycycline) only in consultation with on-call doctor only",
+      "content": "- Antiemetic treatment may be considered if nausea or vertigo is significant\n- Doctor-directed antibiotics may be appropriate for selected severe, persistent, high-risk, or systemically unwell patients\n- Escalate for suspected mastoiditis, intracranial spread, severe dehydration, or sepsis",
       "sortOrder": 4
     },
     {
-      "id": "otitis-media-additional-notes",
+      "id": "otitis-media-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Patient education to finish complete course of antibiotics, red flags, avoid inserting anything into ear (cue tip, ear plugs for example)\n- If images are taken, ensure they are added to the patient’s medical record for comparison on review\n\n**Patient education:**\n  - Otorrhoea is suggestive of tympanic membrane perforation and middle ear effusion, provided that acute diffuse otitis externa has been excluded. In such cases, the patient may use a rolled tissue spear or similar device to gently dry mop the ear canal every six hours until the external ear canal is dry\n  - Advise patient not to use any ear drops, in particular, Sofradex, Otodex, and Otocomb\n  - Aminoglycoside-containing ear drops should be avoided because of safety concerns, in particular the risk of auditory and vestibular toxicity COMMONPRESENNCE",
+      "content": "- Avoid ototoxic ear drops if perforation is suspected unless specifically directed\n- Persistent unilateral symptoms, hearing loss, or recurrent presentations warrant further review",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

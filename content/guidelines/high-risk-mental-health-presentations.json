@@ -3,13 +3,17 @@
   "title": "High Risk Mental Health Presentations",
   "category": "mental_health",
   "tags": [
-    "mental",
-    "health",
-    "high",
-    "risk"
+    "mental health",
+    "behavioural disturbance",
+    "agitation",
+    "psychosis",
+    "suicide risk",
+    "sedation"
   ],
   "synonyms": [
-    "High Risk Mental Health Presentations"
+    "High Risk Mental Health Presentations",
+    "Acute Behavioural Disturbance",
+    "Severe Agitation"
   ],
   "sections": [
     {
@@ -30,34 +34,38 @@
       "id": "high-risk-mental-health-presentations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Personal safety and bystander safety come first\n- Assess for weapons, escalating behaviour, and need for police or other agencies\n- Always consider organic causes of behavioural disturbance such as hypoxia, hypoglycaemia, intoxication, overdose, TBI, seizure, or stroke\n- Maintain dignity, privacy, and the least restrictive approach possible\n- Sedation and restraint are high risk and should be last-resort, proportionate, and carefully documented\n- Positive RASS alone does not mandate sedation",
+      "content": "- Personal safety and bystander safety come first\n- Always consider organic causes of behavioural disturbance such as hypoxia, hypoglycaemia, intoxication, overdose, TBI, seizure, stroke, infection, or delirium\n- Use the least restrictive approach that is safe and practicable\n- Positive RASS alone does not mandate sedation\n- Physical restraint and sedation are high-risk interventions and require clear justification, close monitoring, and documentation",
       "sortOrder": 2
     },
     {
       "id": "high-risk-mental-health-presentations-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure safety and remove hazards where possible\n- Primary Survey, including BGL and SpO2 where possible\n- Use calm, non-confrontational de-escalation and clear communication\n- Conduct frequent RASS assessment where relevant\n- Restrain only if essential to protect the patient or others, using the minimum force necessary\n- If suicide risk is identified, do not leave the patient alone\n- Seek early support from the on-call doctor and relevant mental health pathways",
+      "content": "- Ensure scene safety, remove hazards where possible, and request police or additional resources early if needed\n- Primary Survey and Vital Sign Survey, including BGL and SpO2 where possible\n- Use calm, non-confrontational communication and verbal de-escalation\n- Do not leave a high-risk suicidal patient alone if it is unsafe to do so\n- If immediate physical restraint is required to prevent serious harm, use the minimum force and duration necessary within local policy\n- Escalate early to senior clinical support or the on-call doctor when risk, capacity, or disposition is unclear",
       "sortOrder": 3
     },
     {
       "id": "high-risk-mental-health-presentations-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Address organic causes as soon as practicable\n- Sedation must be discussed with the on-call doctor and should follow failed de-escalation, clear risk, and careful reassessment\n- Pharmacologic options should be guided by local protocol, clinician skill, age, comorbidity, and pregnancy status\n- Monitor closely after any sedation, including airway, breathing, circulation, and level of consciousness",
+      "content": "- Address reversible medical contributors as soon as practicable\n- In the prehospital setting, a paramedic may decide on clinical grounds to sedate a patient when the patient poses an immediate danger to themselves or others and less restrictive measures have failed or are unsafe\n- Any sedation must remain within local scope, training, and protocol, with clinician judgment based on the whole presentation rather than a score alone\n- After sedation, closely monitor airway, breathing, circulation, oxygenation, ventilation, temperature, and level of consciousness, and be prepared to manage complications",
       "sortOrder": 4
     },
     {
       "id": "high-risk-mental-health-presentations-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Debrief and staff support may be appropriate after significant incidents\n- Documentation should clearly record risk, capacity, de-escalation attempts, sedation rationale, and any restraint used",
+      "content": "- Documentation should record the risk posed, capacity concerns, de-escalation attempts, why restraint or sedation was necessary, what was used, and the patient response\n- Debrief and staff support may be appropriate after significant incidents",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
+  "relatedGuidelineIDs": [
+    "richmond-agitation-sedation-scale-rass",
+    "patient-assessment-capacity-consent-refusal",
+    "domestic-and-family-violence"
+  ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

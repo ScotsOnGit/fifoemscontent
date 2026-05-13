@@ -3,61 +3,63 @@
   "title": "Urinary Tract Infection",
   "category": "common_presentations",
   "tags": [
-    "urinary",
-    "tract",
-    "infection",
-    "common presentation"
+    "uti",
+    "urinary tract infection",
+    "cystitis",
+    "pyelonephritis",
+    "dysuria"
   ],
   "synonyms": [
-    "Urinary Tract Infection"
+    "Urinary Tract Infection",
+    "UTI"
   ],
   "sections": [
     {
-      "id": "urinary-tract-infection-overview",
+      "id": "uti-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "A urinary tract infection (UTI) is an infection of the urinary system, most commonly caused by bacteria (such as Escherichia coli). It can occur in any part of the urinary tract, including the bladder (cystitis), urethra (urethritis), or kidneys (pyelonephritis).",
+      "content": "Urinary tract infection ranges from uncomplicated cystitis to upper tract infection with sepsis risk. Prehospital assessment should identify systemic illness, pregnancy, urinary obstruction, or complicated infection, while providing symptom relief and appropriate escalation.",
       "sortOrder": 0
     },
     {
-      "id": "urinary-tract-infection-presentation",
+      "id": "uti-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Fever, chills, rigors\n\n**Lower UTI:**\n  - Dysuria (painful or burning urination)\n  - Increased frequency and urgency of urination\n  - Suprapubic discomfort or pain\n  - Cloudy or malodorous urine\n  - Occasionally haematuria (blood in urine)\n  - Some patients may present without any lower UTI symptoms\n\n**Upper UTI:**\n\n**Above symptoms PLUS:**\n  - Fever and chills\n  - Flank or costovertebral angle pain\n  - Nausea and vomiting",
+      "content": "**Lower UTI:**\n- Dysuria, frequency, urgency, suprapubic discomfort\n- Cloudy or malodorous urine\n- Occasional haematuria\n\n**Upper UTI or complicated infection:**\n- Fever, rigors, flank pain, nausea, or vomiting\n- Hypotension, tachycardia, confusion, or sepsis features",
       "sortOrder": 1
     },
     {
-      "id": "urinary-tract-infection-considerations",
+      "id": "uti-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- More common in women than in men\n- Risk factors can include sexual activity, use of spermicides, pregnancy, postmenopausal status, diabetes, urinary catheters, urinary tract abnormalities\n- Always consider sexually transmitted infections\n- Consider referral of pregnant women who are symptomatic or bacteriuric, or patients not responding to first line treatment for further review and management\n- Urinary alkalinising agents (Ural) significantly reduce the antimicrobial effect of Nitrofurantoin\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where practicable COMMONPRESENNCE",
+      "content": "- Men, pregnant patients, catheterised patients, immunocompromised patients, and those with systemic features need a lower threshold for escalation\n- Consider STI, pyelonephritis, renal colic, urinary retention, or sepsis in the differential diagnosis\n- Urinary alkalinisers can reduce the activity of nitrofurantoin and should not be started casually if antimicrobial treatment is being considered",
       "sortOrder": 2
     },
     {
-      "id": "urinary-tract-infection-management-basic",
+      "id": "uti-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Urinalysis: Look for leukocyte, nitrites, protein, blood\n- Consider antipyretic medication only if temperature is causing discomfort\n- Consider “over the counter” analgesia if required (Paracetamol, Ibuprofen)\n- Consider Ural\n- Advise ample oral hydration\n- Secondary Survey if required",
+      "content": "- Primary Survey and Vital Sign Survey\n- Urinalysis may help support the assessment where available but should not replace clinical judgement\n- Encourage oral fluids if tolerated\n- Consider simple analgesia or antipyretics for discomfort or fever\n- Safety-net clearly for worsening pain, fever, vomiting, confusion, or reduced urine output",
       "sortOrder": 3
     },
     {
-      "id": "urinary-tract-infection-management-advanced",
+      "id": "uti-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Considered appropriate antiemetic if required\n- Consider antibiotics only in consultation with on-call doctor\n- Nitrofurantoin (now first line as of May 2025), Cefalexin, Trimethoprim\n- If septic, treat as per that guideline",
+      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- Consider IV access and fluids for dehydration or sepsis risk\n- Antibiotics should be doctor-directed or protocol-led, especially in pregnancy, male patients, systemic illness, or upper UTI\n- Manage septic presentations according to the sepsis pathway",
       "sortOrder": 4
     },
     {
-      "id": "urinary-tract-infection-additional-notes",
+      "id": "uti-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Symptoms should improve within 48–72 hours; lack of improvement warrants reassessment\n- Cystitis in males is uncommon; its prevalence increases with age and is often related to abnormalities of the urinary tract, prostatic disease\n- The efficacy of urinary alkalinising agents for the symptomatic treatment of acute cystitis has not been established in trials, but some patients find them useful for symptom relief\n\n**Patient education:**\n  - Educate where necessary around appropriate hygiene practices (wiping front to back, urinating after intercourse, avoiding irritating feminine products, etc.)\n  - Advise all male patients to follow up with their GP for further testing (ultrasound/STI/Urine Culture and Sensitivity test)\n  - Advise patient to complete the full course of antibiotics even if symptoms resolve early 21 ENVIRONMENTAL",
+      "content": "- Lack of improvement within 48 to 72 hours, or recurrent symptoms, warrants reassessment\n- New confusion in older adults should not be attributed to UTI without a broader assessment",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

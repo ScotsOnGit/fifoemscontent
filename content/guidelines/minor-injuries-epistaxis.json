@@ -3,65 +3,63 @@
   "title": "Minor Injuries & Epistaxis",
   "category": "trauma",
   "tags": [
-    "minor",
-    "injuries",
+    "minor injuries",
+    "wounds",
+    "sprains",
     "epistaxis",
-    "trauma",
-    "injury",
-    "bleeding"
+    "nosebleed"
   ],
   "synonyms": [
-    "Minor Injuries & Epistaxis"
+    "Minor Injuries & Epistaxis",
+    "Minor Injuries and Epistaxis"
   ],
   "sections": [
     {
       "id": "minor-injuries-epistaxis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "**Minor Injuries:**\n Minor injuries include superficial wounds, abrasions, minor lacerations, contusions, sprains, and simple fractures. These injuries are not immediately life-threatening but require appropriate assessment and management to prevent complications such as infection, further tissue damage, or functional loss.\n\n **Epistaxis:**\n Epistaxis, or nosebleed, is bleeding from the nasal cavity, nasopharynx, or nostrils. It is common, affecting up to 60% of people at least once in their lifetime. Most cases are benign and self-limiting, but severe or recurrent episodes may indicate underlying pathology or require advanced intervention",
+      "content": "Minor injuries include superficial wounds, abrasions, minor lacerations, contusions, sprains, and simple fractures that do not immediately threaten life or limb. Epistaxis is usually anterior and self-limiting, but ongoing bleeding, posterior bleeding, anticoagulation, or associated trauma may increase risk.",
       "sortOrder": 0
     },
     {
       "id": "minor-injuries-epistaxis-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Minor Injuries:**\n - Localized pain, swelling, or tenderness\n- Bruising (contusion)\n- Superficial bleeding (abrasion or laceration)\n- Limited range of motion (sprain)\n- Mild deformity (simple fracture)\n- No signs of shock or major trauma\n\n **Epistaxis:**\n - Bleeding from one or both nostrils\n- Blood in the throat or mouth\n- Swallowing or spitting blood\n- Nasal congestion or blockage\n- Dizziness or light-headedness (if blood loss is significant)\n- Pallor or signs of shock (rare, in severe cases\n- Nausea and Vomiting (frank blood)",
+      "content": "**Minor injuries:**\n- Localised pain, swelling, bruising, tenderness, or reduced movement\n- Superficial bleeding or small lacerations\n- Mild deformity in uncomplicated fractures\n\n**Epistaxis:**\n- Bleeding from one or both nostrils\n- Blood in the throat or mouth\n- Swallowing blood, nausea, or vomiting\n- Dizziness or signs of significant blood loss in more severe cases",
       "sortOrder": 1
     },
     {
       "id": "minor-injuries-epistaxis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Aseptic technique should be used in the treatment of all open wounds\n- Swelling, bruising, and deformity are classic signs of fracture. Severe sprains can present similarly and should be treated cautiously\n- In epistaxis, consider anticoagulant use, recent trauma, recurrent bleeding, or posterior bleeding\n- Patients with posterior epistaxis may bleed more than is externally visible\n- Topical tranexamic acid may be a useful adjunct in persistent anterior epistaxis where available and clinically appropriate\n- Do not pack both nostrils simultaneously unless the airway is secured",
+      "content": "- Use aseptic technique for open wounds\n- Consider anticoagulant or antiplatelet use, recurrent bleeding, recent trauma, posterior bleeding, or coagulopathy\n- Posterior epistaxis may bleed more than is externally visible\n- Do not pack both nostrils unless advanced airway control and senior support are available",
       "sortOrder": 2
     },
     {
       "id": "minor-injuries-epistaxis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n\n**Wound care:**\n- Control external bleeding with direct pressure\n- Clean wounds with sterile water or other appropriate solution\n- Remove visible superficial debris only\n- Cover wounds with a suitable dressing\n\n**Sprains/strains:**\n- Consider compression where appropriate\n- Elevate the injury where practicable\n- Consider intermittent cooling\n- Advise rest and follow-up where available\n\n**Simple fracture:**\n- Splint simple fractures\n\n**Epistaxis:**\n- Sit the patient upright and leaning slightly forward\n- Discourage swallowing blood to reduce nausea and vomiting\n- Apply firm pressure to the soft part of the nose continuously for at least 10 minutes\n- Consider a bolster or towel beneath the nose to collect blood\n- Consider a topical vasoconstrictor if stocked and appropriate\n- If bleeding persists, consider anterior packing or topical TXA in consultation with the on-call doctor where appropriate\n\n- Consider simple analgesia; avoid NSAIDs during active bleeding\n- Assess for distal neurovascular compromise where appropriate\n- Record vital signs\n- Consider secondary survey\n- Enquire about tetanus status where relevant",
+      "content": "- Primary Survey and focused Vital Sign Survey\n- Control wound bleeding with direct pressure and dress appropriately\n- Clean wounds with sterile water or saline and remove visible superficial debris only\n- Splint simple fractures and support sprains or strains with rest, compression, elevation, or intermittent cooling as appropriate\n- For epistaxis, sit the patient upright and leaning forward, discourage swallowing blood, and apply continuous pressure to the soft part of the nose for at least 10 minutes\n- Consider simple analgesia where appropriate and avoid NSAIDs during active bleeding",
       "sortOrder": 3
     },
     {
       "id": "minor-injuries-epistaxis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "**Wound care:**\n- Consider Steri-strips, wound glue, or suturing where appropriate\n\n**Epistaxis:**\n- If direct pressure has failed, consider anterior nasal packing\n- Consider applying topical TXA to packing material in consultation with the on-call doctor\n- If bleeding persists despite anterior measures, suspect posterior bleeding and escalate\n- Consider analgesia",
+      "content": "- Consider Steri-Strips, wound adhesive, or suturing for suitable wounds within scope\n- If epistaxis persists after correct direct pressure, consider a topical vasoconstrictor or anterior nasal packing within scope and local protocol\n- Consider topical tranexamic acid as an adjunct for persistent anterior epistaxis only after initial pressure measures have failed and where local protocol or senior direction supports its use\n- Escalate early if bleeding continues, posterior epistaxis is suspected, the patient is anticoagulated, or there are signs of haemodynamic compromise",
       "sortOrder": 4
     },
     {
-      "id": "minor-injuries-epistaxis-additional-notes",
+      "id": "minor-injuries-epistaxis-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Lithium dust, commonly generated during mining, can cause irritation and inflammation of the nasal passages, potentially leading to epistaxis\n- Epistaxis Patient education on prevention: humidification, gentle nose care, avoid trauma",
+      "content": "- Enquire about tetanus status where relevant\n- Provide prevention advice for recurrent anterior epistaxis such as humidification, gentle nose care, and avoidance of digital trauma",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "tranexamic-acid"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

@@ -4,7 +4,9 @@
   "category": "common_presentations",
   "tags": [
     "constipation",
-    "common presentation"
+    "faecal impaction",
+    "bowel habit",
+    "hard stool"
   ],
   "synonyms": [
     "Constipation"
@@ -14,48 +16,48 @@
       "id": "constipation-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Constipation is a condition where bowel movements become infrequent and difficult, often characterised by passing fewer than three stools a week, or having hard, dry, or difficult-to-pass stools, or a sensation of incomplete evacuation.",
+      "content": "Constipation is infrequent, difficult, or uncomfortable passage of stool. Most cases are benign, but prehospital assessment should focus on excluding bowel obstruction, peritonitis, systemic illness, medication-related causes, or faecal impaction with complications.",
       "sortOrder": 0
     },
     {
       "id": "constipation-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Bloating, abdominal discomfort or pain\n- Infrequent bowel movements (less than the patients’ normal regime)\n- Straining to defecate, hard and/or dry stools\n- Light-headedness, dizziness, syncope\n- Rectal bleeding, nausea and/or vomiting, faecal impaction, haemorrhoids, abdominal mass",
+      "content": "- Reduced stool frequency relative to the patient's usual pattern\n- Hard stool, straining, bloating, or abdominal discomfort\n- Nausea or reduced appetite\n- Overflow diarrhoea, urinary retention, or rectal discomfort in faecal impaction\n- Vomiting, severe pain, or marked distension in more concerning presentations",
       "sortOrder": 1
     },
     {
       "id": "constipation-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Some medications can cause constipation, for example opioids, anticholinergics, calcium channel blockers, iron supplements, antidepressants, etc.\n- Ozempic, Wegovy (semaglutide), Mounjaro all can cause constipation\n- Failure to respond (void) after treatment warrants offsite referral for further review and management\n- Red flags, severe unremitting abdominal pain, recurrent vomiting unresponsive to antiemetics\n- It is perfectly reasonable to advise patients to purchase their own medications (paracetamol, ibuprofen, cold and flu, nasal sprays, antihistamines, etc.) from the village store where appropriate",
+      "content": "- Ask about opioid use, anticholinergics, iron, calcium channel blockers, antidepressants, and GLP-1 receptor agonists\n- Red flags include severe or worsening abdominal pain, peritonism, persistent vomiting, marked distension, fever, inability to pass flatus, GI bleeding, or unexplained weight loss\n- In older or frail patients, constipation may coexist with delirium, dehydration, urinary retention, or faecal impaction",
       "sortOrder": 2
     },
     {
       "id": "constipation-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Secondary Survey\n- Abdominal Assessment\n- Abdominal Auscultation\n- Consider laxatives and/or stool softeners if available (Lactulose, Docusate Sodium {Coloxyl, Coloxyl with senna}, etc.) COMMONPRESENNCE",
+      "content": "- Primary Survey and focused Vital Sign Survey\n- Perform abdominal assessment and consider rectal history if relevant and within scope\n- Encourage oral fluids if appropriate and advise mobilisation where safe\n- Consider simple analgesia for discomfort\n- Mild uncomplicated constipation may be managed with conservative advice or simple aperients within local practice, provided red flags are absent",
       "sortOrder": 3
     },
     {
       "id": "constipation-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider antiemetic (metoclopramide with consultation)",
+      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- If faecal impaction, obstruction, severe pain, dehydration, or systemic illness is suspected, escalate for medical review and transport rather than persisting with symptomatic treatment\n- IV fluids may be appropriate when dehydration is clinically significant",
       "sortOrder": 4
     },
     {
-      "id": "constipation-additional-notes",
+      "id": "constipation-additional",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Diet and lifestyle factors can be discussed to reduce further incidences, consider consultation with Health and Injury Prevention Adviser COMMONPRESENNCE",
+      "content": "- Provide advice on hydration, fibre, activity, and review of constipating medicines where appropriate\n- Lack of response to simple measures or recurrent presentations warrants further medical review",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
