@@ -15,7 +15,7 @@
       "id": "snake-bite-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Snakes produce venom in modified salivary glands, administering this through fangs which pierce the skin. Many snakes in Australia (including sea snakes) can deliver doses of toxin lethal to humans and due this potential, all patients should be managed with a time critical, robust approach regardless of clinical appearance\n- Life-threatening effects of toxins include:\n  - Neurotoxic muscle paralysis leading to respiratory arrest\n  - Coagulation failure leading to excessive bleeding\n  - Muscle damage which leads to kidney failure\n  - Several snake species in WA pose a threat to humans. Tiger, Coastal Taipan, King Brown, Dugite and Death Adder snakes are all highly venomous",
+      "content": "Snakes produce venom in modified salivary glands and inject it through fangs which pierce the skin. Many Australian snakes, including sea snakes, can cause life-threatening envenomation, so all suspected snake bites should be managed cautiously regardless of initial appearance.\n- Life-threatening effects include:\n  - Neurotoxic paralysis leading to respiratory failure\n  - Coagulopathy with bleeding\n  - Myotoxicity leading to renal injury\n- Several snake species in WA pose a serious threat to humans, including tiger snakes, coastal taipans, mulga snakes, dugites, and death adders",
       "sortOrder": 0
     },
     {
@@ -29,21 +29,21 @@
       "id": "snake-bite-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- The size of the patient in relation to the volume of venom will be determinants in predicting the rate of envenomation\n- All potential snake bite victims should be transported to a medical facility for assessment\n\n- Most venom reaches the blood stream via the lymphatic system. Research by the ARC indicates little venom reaches the circulation, even after several hours, if a Pressure Immobilization Technique is applied immediately, and maintained. These patients are NOT considered time critical, unless signs of envenomation are evident\n- Anti-venom is available for all venomous Australian snake bites\n- Paralysis may be long lasting and where possible treatment for respiratory or cardiac arrest should continue until arrival at an appropriate medical facility\n- The aim over the next 12 hours (post bite) is to determine if the patient has been envenomed and if so, which snake is responsible. This is based on the history, examination and investigations. This can only be done in hospital\n\n**Do not:**\n  - Walk the patient\n  - Apply a Pressure Immobilisation Technique if the bite did not occur on a limb\n  - Cut, wash or suck the site of the bite\n  - Utilise an artery tourniquet\n  - Trap/catch or kill the snake. Medical services do not rely on visual identification for anti-venom selection",
+      "content": "- All suspected snake bite patients should be transported for medical assessment\n- Most venom reaches the circulation via the lymphatic system, so early pressure immobilisation and rest are key first-aid measures for limb bites\n- Paralysis may be prolonged, and respiratory or cardiac arrest management may need to continue until definitive care\n- Definitive identification of envenomation and antivenom selection is hospital-based\n\n**Do not:**\n  - Walk the patient\n  - Cut, wash, suck, or interfere with the bite site\n  - Use an arterial tourniquet\n  - Remove pressure bandages or splints before medical review unless specifically directed\n  - Attempt to catch or kill the snake for identification",
       "sortOrder": 2
     },
     {
       "id": "snake-bite-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Assist ventilations as required\n- Manage cardiac arrest (basic life support)\n- Keep patient at rest and prevent movement (immobilise the patient, in bed)\n- Continuous reassurance\n- Apply Pressure Immobilisation Technique to bitten limb as per clinical skill, local pressure if on the torso\n- Monitor closely for respiratory depression\n- DO NOT remove bandages or splints prior to arrival at a suitable hospital unless authorised by the on-call doctor",
+      "content": "- Primary Survey\n- Assist ventilations as required\n- Manage cardiac arrest as per resuscitation guidelines\n- Keep the patient completely still and reassure them\n- For bites to a limb, apply a pressure immobilisation bandage and splint the limb as per clinical skill\n- For bites to the trunk, apply firm local pressure where feasible and keep the patient still\n- Monitor closely for respiratory depression, evolving weakness, and bleeding\n- Do not remove bandages or splints before hospital assessment unless specifically directed",
       "sortOrder": 3
     },
     {
       "id": "snake-bite-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider 12 lead ECG\n- Consider vascular access\n- Transport all suspected snake bites to hospital",
+      "content": "- Consider 12 lead ECG\n- Consider vascular access\n- Transport all suspected snake bites to hospital and escalate early if envenomation signs are present",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

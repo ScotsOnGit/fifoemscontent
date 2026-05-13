@@ -21,35 +21,35 @@
       "id": "hypothermia-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "Mild hypothermia (32-35°C): Moderate hypothermia (30-32°C):\nSevere hypothermia (<30°C):\n- Decreased respiratory rate\n- Lethargy\n- Weakness\n- Slurred speech\n- Ataxia\n- Shivering may cease\n- Muscle rigidity\n- Poor reflexes\n- Dilated pupils\n- Hypotension\n- Bradycardia\n- Flaccid muscles\n- Fixed pupils\n- Arrhythmias\n- Cardiac arrest",
+      "content": "- Mild hypothermia (32-35°C): shivering, lethargy, weakness, slurred speech, ataxia\n- Moderate hypothermia (30-32°C): decreasing level of consciousness, reduced respiratory rate, shivering may lessen or stop, muscle rigidity, poor reflexes\n- Severe hypothermia (<30°C): hypotension, bradycardia, arrhythmias, flaccidity, fixed or dilated pupils, cardiac arrest",
       "sortOrder": 1
     },
     {
       "id": "hypothermia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Avoid sudden movements (may trigger ventricular arrhythmia in moderate to severe hypothermia)\n- Hypothermia generally develops more rapidly in immersion and in patients where thermo-regulation is impaired (i.e., spinal cord injuries, TBI’s, diabetics, etc.) Osborne (J) waves may be present. An Osborne wave is a slow, positive deflection at the end of the QRS complex, most prominent in lead II and V3-V6. These can resolve as the patient is rewarmed\n- The onset and duration of medications is prolonged during hypothermia. In cardiac arrest if the patient has a temperature <30°C, the interval between doses of adrenaline or amiodarone is doubled\n- Atrial arrhythmias, bradycardias or A-V blocks will generally resolve on rewarming.\nAntiarrhythmic medications or trans-thoracic pacing are usually not required unless decompensation has occurred\n- Potential major trauma patients should receive thermal management under this guideline, irrespective of their temperature\n- Shivering peaks at around 34°C and is minimal/stops around 31-32°C\n- Rubbing the skin causes vasodilation and my increase heat loss",
+      "content": "- Handle the patient gently and avoid sudden movements, especially in moderate or severe hypothermia\n- Hypothermia develops more rapidly in immersion and in patients with impaired thermoregulation\n- Osborne (J) waves and atrial arrhythmias may occur and often improve with rewarming\n- Potential major trauma patients should receive active thermal protection irrespective of measured temperature\n- Do not massage or rub the patient, as this may worsen heat loss and discomfort",
       "sortOrder": 2
     },
     {
       "id": "hypothermia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- When safe to do so, remove the patient from the cold environment\n- Position patient recumbent if appropriate or a position of comfort\n- Vital Sign Survey (closely monitor patients’ temperature and BGL)\n- Consider Oxygen if indicated\n- Provide warm oral fluids to drink if appropriate\n- Remove wet/cold clothing\n- Passively re-warm with blankets and warm surroundings\n- The target temperature for the patient compartment of the ambulance for patients suffering or at risk of hypothermia is 24°C or higher.\n- Secondary Survey",
+      "content": "- Primary Survey\n- When safe to do so, remove the patient from the cold environment and protect them from further heat loss\n- Position the patient recumbent if appropriate or in a position of comfort\n- Vital Sign Survey, including close temperature and BGL monitoring where available\n- Consider Oxygen if indicated\n- Remove wet clothing and dry the patient gently\n- Use passive rewarming with insulation, blankets, a warm environment, and protection from wind or further cold exposure\n- Offer warm sweet oral fluids only if the patient is awake, able to swallow safely, and not nauseated\n- Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "hypothermia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- 12 LEAD ECG",
+      "content": "- Gain IV access if indicated\n- 12 LEAD ECG\n- Consider warmed IV fluids if available and clinically indicated",
       "sortOrder": 4
     },
     {
       "id": "hypothermia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Cardiac arrest secondary to hypothermia (hypothermic cardiac arrest guideline):\n  - Hypothermia in Western Australia as a cause of cardiac arrest is extremely rare and mostly accidental e.g. locked in a cool room. If you suspect that the cardiac arrest was secondary to hypothermia, the emphasis is on high performance CPR and transport\n  - Defibrillation and cardioactive medications may not be effective at temperatures < 30°C. VF may resolve spontaneously upon rewarming\n  - DO NOT STOP RESUSCITATION IN THE FIELD UNLESS TOLD TO BY A DOCTOR\n  - Foil blankets radiate heat and as such are only useful in mild cases\n  - Some foil blankets may only have one reflective surface so must be placed the right way round",
+      "content": "- Severe hypothermia with absent or very slow signs of life can be difficult to distinguish from cardiac arrest; assess carefully and follow the hypothermic cardiac arrest guideline when relevant\n- In suspected hypothermic cardiac arrest, prioritise high-quality CPR, careful handling, and transport according to local resuscitation guidance\n- Defibrillation and vasoactive medications may be less effective at very low temperatures, but resuscitation should continue according to the relevant hypothermic arrest guideline",
       "sortOrder": 5
     }
   ],
@@ -59,8 +59,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc"
