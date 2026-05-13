@@ -5,8 +5,7 @@
   "tags": [
     "postpartum",
     "haemorrhage",
-    "obstetric",
-    "pregnancy"
+    "obstetric"
   ],
   "synonyms": [
     "Postpartum Haemorrhage"
@@ -16,61 +15,48 @@
       "id": "postpartum-haemorrhage-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Postpartum Haemorrhage (PPH) is defined as blood loss > 500ml after childbirth / or blood loss that significantly compromises the mother anytime up to 6 weeks after birth.\nThere is very low to no risk of site medics attending a primary or secondary PPH on site however there may be a memorandum of understanding with our state emergency services that may require a response to any medical emergency.",
+      "content": "Postpartum haemorrhage (PPH) is significant bleeding after birth, commonly defined as blood loss greater than 500 mL after vaginal birth or any blood loss that causes haemodynamic compromise. It may occur in the first 24 hours or up to 6 weeks postpartum and is a major obstetric emergency.",
       "sortOrder": 0
     },
     {
       "id": "postpartum-haemorrhage-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "Primary PPH Secondary PPH\n- Blood loss of ≥500 mL (vaginal birth) or ≥1000 mL (caesarean birth) within the first 24 hours after delivery\n\n**Severity:**\n  - Minor: 500–1000 mL\n  - Major: >1000 mL (with further subclassification as severe if >2000 mL)\n\n**Common Causes (the \"4 Ts\"):**\n  - Tone: Uterine atony (most common)\n  - Tissue: Retained placental tissue\n  - Trauma: Lacerations, uterine rupture, episiotomy\n  - Thrombin: Coagulopathies\n  - Definition: Abnormal or excessive bleeding after 24 hours and up to 6 weeks postpartum\n\n**Causes:**\n  - Retained products of conception (RPOC)\n  - Infection (endometritis)\n  - Subinvolution of the uterus\n  - Vascular abnormalities (e.g., arteriovenous malformations)\n  - Lower abdominal or pelvic pain\n  - Signs of shock (hypovolaemic or septic); tachycardia, hypotension, fever, confusion, pallor",
+      "content": "- Heavy vaginal bleeding or passage of large clots\n- Lower abdominal or pelvic pain\n- Tachycardia, hypotension, pallor, dizziness, or shock\n- Fever or offensive lochia in secondary PPH with infection\n- Consider the 4 Ts: Tone, Tissue, Trauma, Thrombin",
       "sortOrder": 1
     },
     {
       "id": "postpartum-haemorrhage-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Blood loss from PPH is frequently underestimated\n- Consideration should be given when elevating the patients’ legs in cases of hypotension as this may conceal further haemorrhage\n- Due to the physiology of pregnancy and increased maternal circulation, patients can tolerate larger volume losses before declining rapidly and as such, signs of haemodynamic compromise do not normally show until significant blood loss has occurred\n\n- Atony may be present if you fail to locate the fundus, or it feels soft\n- Risk factors can include retained products of conception (POC), infection, subinvolution, trauma, coagulopathy, history of PPH, or C-section\n- Be aware that the on-call doctor may ask you to perform bi-manual compression, however if you are not trained to do so you can say no",
+      "content": "- Blood loss is often underestimated\n- Pregnant and postpartum patients can compensate for major blood loss before showing obvious shock signs\n- If the uterus is difficult to locate or feels soft, uterine atony may be present\n- Retained products, infection, trauma, and coagulopathy are important causes",
       "sortOrder": 2
     },
     {
       "id": "postpartum-haemorrhage-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Continuous support and reassurance\n- Keep the patient warm\n- Perform vital sign survey\n- Consider oxygen\n- Apply direct pressure to any visible bleed, such as tear of perineum\n- Secondary / CNS Survey (as required)\n- Collect any passed clots or tissue for hospital evaluation",
+      "content": "- Primary Survey\n- Continuous support and reassurance\n- Keep the patient warm\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Apply direct pressure to visible external bleeding where appropriate\n- Collect clots or tissue for hospital evaluation if possible",
       "sortOrder": 3
     },
     {
       "id": "postpartum-haemorrhage-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access, 2 x large bore cannula where possible\n- Consider blood draw for i-STAT testing. Chem8 if practicable and available\n- Fluid resuscitation with normal saline\n- Consider TXA in consultation with on-call doctor\n- Consider oral (Augmentin Duo) or intravenous (metronidazole) antibiotics only in consultation with on-call doctor\n- Erythromycin is suitable for penicillin sensitive patients only in consultation with on- call doctor\n- Consider external aortic compression\n- Monitor patient persistently, recording full observations every 10 minutes",
+      "content": "- ECG\n- Gain IV access, ideally two large-bore cannulas where possible\n- Consider point-of-care haemoglobin if available\n- Begin fluid resuscitation while expediting transfer and definitive care\n- Consider TXA in consultation with the on-call doctor where clinically appropriate\n- Consider antibiotic therapy only in consultation with the on-call doctor when secondary PPH or infection is suspected\n- Monitor closely and record observations frequently",
       "sortOrder": 4
     },
     {
       "id": "postpartum-haemorrhage-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- It is a clinician’s objective to manage tone, trauma, tissue, temperature and/or thrombin’s\n- Blood flow to the placental bed is approx. 750ml/min",
+      "content": "- The main management targets are tone, tissue, trauma, and thrombin\n- Escalate early to obstetric and retrieval support for any significant haemorrhage or shock",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "fibrinogen",
-    "hartmanns-solution",
-    "intravenous-normal-saline",
-    "magnesium-sulphate",
-    "oxygen",
-    "oxytocin",
-    "packed-red-blood-cells",
-    "tranexamic-acid"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "news2",
-    "batt-score"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

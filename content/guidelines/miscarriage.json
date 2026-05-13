@@ -4,8 +4,8 @@
   "category": "obstetric",
   "tags": [
     "miscarriage",
-    "obstetric",
-    "pregnancy"
+    "pregnancy",
+    "obstetric"
   ],
   "synonyms": [
     "Miscarriage"
@@ -15,48 +15,48 @@
       "id": "miscarriage-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "In Australia miscarriage is defined as the spontaneous loss of a foetus before 20 weeks’ gestation. 1 in 4 pregnancies would have PV bleeding and out of those with PV bleeding 30-50% of pregnancies with first-trimester bleeding do unfortunately end in miscarriage with the majority being in the first 8 weeks.",
+      "content": "Miscarriage is the spontaneous loss of a pregnancy before 20 weeks' gestation. Early pregnancy bleeding is common and does not always indicate pregnancy loss, but heavy bleeding, shock, severe pain, or uncertain diagnosis require urgent review.",
       "sortOrder": 0
     },
     {
       "id": "miscarriage-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Vaginal bleeding (light to heavy)\n- Lower abdominal pain or cramping\n- Passage of tissue or clots\n- Loss of pregnancy symptoms (e.g. breast tenderness, nausea)\n- In missed miscarriage: often asymptomatic\n- Hypotension and tachycardia suggest significant blood loss, whereas,\n- Hypotension and relative bradycardia may indicate cervical shock\n- In septic miscarriage: fever, offensive discharge, tachycardia, hypotension",
+      "content": "- Vaginal bleeding\n- Lower abdominal pain or cramping\n- Passage of tissue or clots\n- Loss of pregnancy symptoms\n- Hypotension or tachycardia if significant blood loss is present\n- Fever or offensive discharge if septic miscarriage is suspected",
       "sortOrder": 1
     },
     {
       "id": "miscarriage-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Early pregnancy loss cannot be prevented\n- Early pregnancy bleeding does NOT always result in miscarriage, and some can go onto have a normal pregnancy\n- Ectopic pregnancy should be suspected in ALL sexually active women presenting with any of the associated features, i.e., significant abdominal tenderness is suggestive of ectopic pregnancy\n- Prehospital diagnosis of miscarriage can be difficult, particularly when the products of conception (POC) are not obvious\n- If hypotensive and bradycardic - it would need removal or POC from Cervix (Cervical shock)\n- Risk factors can include advanced maternal age, previous miscarriage, smoking, alcohol and/or drug use, infections or chronic illnesses (e.g., diabetes)\n\n**Important questions to ask:**\n  - Last menstrual period to ascertain possible gestation\n  - If patient has had an ultrasound confirmation of intra-uterine pregnancy (as otherwise ectopic needs to be ruled out as priority)\n  - Blood group (consideration for anti-D)\n  - If a miscarriage happens later in gestation the foetus may be well developed.\nAcknowledging/referring to this as the mother’s baby may help with mum’s psychological care",
+      "content": "- Early pregnancy bleeding does not always result in miscarriage\n- Ectopic pregnancy must be considered in all sexually active patients with abdominal pain and bleeding in early pregnancy\n- Prehospital diagnosis may be uncertain, especially if products of conception are not obvious\n- Ask about gestation, prior ultrasound confirmation of intrauterine pregnancy, and severity of bleeding or pain",
       "sortOrder": 2
     },
     {
       "id": "miscarriage-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance\n- Vital Sign Survey\n- Consider Oxygen if indicated\n- Always offer engagement with Mind Matters or EAP\n- Have a low threshold for calling the on-call doctor\n- If a foetus is passed out of the vagina later in gestation, the placenta may not separate.\nIn this case, cut and clamp the cord, wrap the pre-term infant and allow mother to hold baby if she wishes",
+      "content": "- Primary Survey\n- Offer support and reassurance\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Maintain a low threshold for calling the on-call doctor\n- If tissue or fetus is passed later in gestation, preserve respectfully and transport with the patient if possible",
       "sortOrder": 3
     },
     {
       "id": "miscarriage-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Ensure constant reassurance\n- Consider IV access\n- Consider blood draw for i-STAT testing. Chem8 (HB) if bleeding where practicable and available\n- Consider IV fluids if clinically indicated\n- Consider pain relief\n- Consider anti-emetic\n- Consider antibiotics only in consultation with on-call doctor if suspecting uterine infection (septic abortion)\n- Manage suspected sepsis as per that guideline",
+      "content": "- ECG if indicated\n- Consider IV access\n- Consider point-of-care haemoglobin where available if bleeding is significant\n- Consider IV fluids if clinically indicated\n- Consider pain relief and antiemetic\n- Consider antibiotics only in consultation with the on-call doctor if septic miscarriage is suspected\n- Manage suspected sepsis as per the sepsis guideline",
       "sortOrder": 4
     },
     {
       "id": "miscarriage-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The only definitive way to diagnose miscarriage is by confirming passage of POC or by ultrasound\n- If possible, all tissues and large clots should be retained and transported with the patient\n- Miscarriage can have a profound effect on the patient’s mental health. Clinicians must be sensitive in their approach\n- Patient education: Bleeding and cramping are expected but should ease",
+      "content": "- Definitive diagnosis often requires ultrasound or confirmed passage of products of conception\n- Retain large clots or tissue for hospital review if possible\n- Miscarriage can have a profound psychological impact and care should remain sensitive and respectful",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

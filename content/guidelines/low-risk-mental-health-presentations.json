@@ -3,13 +3,10 @@
   "title": "Low Risk Mental Health Presentations",
   "category": "mental_health",
   "tags": [
-    "low",
-    "risk",
     "mental",
     "health",
-    "presentations",
-    "mental health",
-    "psychiatric"
+    "low",
+    "risk"
   ],
   "synonyms": [
     "Low Risk Mental Health Presentations"
@@ -19,51 +16,48 @@
       "id": "low-risk-mental-health-presentations-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Low-risk mental health conditions are mild to moderate psychological or emotional disturbances that do not usually present immediate risks of harm to self or others. These conditions commonly include:\n- Adjustment disorders\n- Mild anxiety or depressive symptoms\n- Situational stress reactions\n- Low-grade mood disturbance Patients typically maintain functional capacity with some distress, but without psychosis, suicidality, or immediate risk of violence",
+      "content": "Low-risk mental health presentations involve distress or functional impairment without immediate risk of suicide, violence, psychosis, or inability to care for self. Examples include adjustment reactions, situational stress, and mild anxiety or depressive symptoms.",
       "sortOrder": 0
     },
     {
       "id": "low-risk-mental-health-presentations-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Increased anxiety or irritability\n- Difficulty concentrating or decision making\n- Changes in appetite or sleep patterns (insomnia, hypersomnia)\n- General lack of motivation or withdrawal from social interactions\n- Feelings of sadness, hopelessness, or low mood\n- Mild somatic complaints such as headaches or fatigue\n- Often oriented, cooperative, and able to communicate concerns coherently",
+      "content": "- Anxiety, irritability, low mood, or sleep disturbance\n- Difficulty concentrating or making decisions\n- Mild somatic complaints such as headache or fatigue\n- Usually oriented, cooperative, and able to engage in discussion",
       "sortOrder": 1
     },
     {
       "id": "low-risk-mental-health-presentations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Safety first: Exclude any immediate risk factors (suicidal ideation, self-harm intent, aggression, hallucinations). If present, escalate care appropriately and refer to High Risk Mental Health Presentation CPG\n- Confidentiality and rapport: Establish a trusting relationship; provide non-judgmental, empathetic support\n- Holistic assessment: Consider physical causes (intoxication, infection) or medication effects\n- Cultural sensitivity: Recognise cultural differences in expression of distress and stigma surrounding mental health\n- Capacity and consent: Assess decision-making capacity, especially if referral or transport is required\n- Support systems: Identify protective factors such as family or community supports\n\n- Documentation: Record findings, assessments, and advice given carefully\n- All personnel must be fully aware of, and operate strictly within, the boundaries of their professional scope of practice when involved in mental health-related cases. While it is both appropriate and important to provide initial support, perform basic assessments, and assist with triage, the offering of advice, diagnoses, or interventions that exceed formal qualifications or competencies must be avoided. Acting outside one's scope of practice can lead to unintended harm and may compromise the safety, well-being, and trust of the individuals seeking help",
+      "content": "- Exclude immediate risk factors such as suicidality, self-harm intent, aggression, hallucinations, or serious organic illness\n- Use a respectful, non-judgemental approach and assess support systems\n- Stay within scope and avoid providing care beyond training or authority\n- Document findings and advice clearly",
       "sortOrder": 2
     },
     {
       "id": "low-risk-mental-health-presentations-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Psychological support: Provide reassurance, active listening, and validation of feelings\n- Environment: Reduce sensory stimuli, provide calm, private surroundings if possible\n- Self-care advice: Encourage routines, balanced diet, sleep hygiene, and gradual return to social activities\n- Referral: Provide information on MinRes provided Employee Assistance Program (Assure), Mind Matters team where available or follow-up pathways\n- Consider advising patient to lean on work group/supervisor where appropriate\n- Vital Sign Survey, including BSL\n- Consider escalation or further advice from the on-call doctor where required\n- Complete the MinRes “Mental State Examination Tool”\n- Consider on-call doctor for further advice where required",
+      "content": "- Provide reassurance, active listening, and validation\n- Reduce sensory stimuli and offer a calm environment where possible\n- Encourage practical supports and appropriate follow-up pathways such as EAP or local mental health support\n- Perform Vital Sign Survey including BGL where relevant\n- Escalate to the on-call doctor if risk is uncertain or the presentation is deteriorating",
       "sortOrder": 3
     },
     {
       "id": "low-risk-mental-health-presentations-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider oral diazepam for acute situational anxiety (if within SASA) otherwise consult with on-call doctor",
+      "content": "- Sedating medication should not be routine for low-risk presentations and should only be considered within scope and after senior discussion when truly necessary",
       "sortOrder": 4
     },
     {
       "id": "low-risk-mental-health-presentations-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Refer to Mental Health Triage TARP for quick reference\n- Initiate de-brief with Mind matters team or EAP where relevant and appropriate. Be aware that these pathways are also bound by patient confidentiality",
+      "content": "- Debrief and referral pathways should respect confidentiality and patient autonomy where possible",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "rass"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

@@ -3,13 +3,11 @@
   "title": "Richmond Agitation Sedation Scale (RASS)",
   "category": "mental_health",
   "tags": [
-    "richmond",
+    "rass",
     "agitation",
     "sedation",
-    "scale",
-    "rass",
-    "mental health",
-    "psychiatric"
+    "mental",
+    "health"
   ],
   "synonyms": [
     "Richmond Agitation Sedation Scale (RASS)"
@@ -19,16 +17,13 @@
       "id": "richmond-agitation-sedation-scale-rass-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "(RASS)\n\nThe Richmond Agitation-Sedation Scale (RASS) is a 10-point observational scale used to assess and guide the depth of sedation in critically ill patients, ranging from +4 (combative) to -5 (unarousable).",
+      "content": "The Richmond Agitation-Sedation Scale (RASS) is a 10-point observational scale ranging from +4 (combative) to -5 (unarousable). It helps describe agitation or sedation severity and can support monitoring, documentation, and reassessment, but it does not by itself determine whether sedation is required.",
       "sortOrder": 0
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "rass"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

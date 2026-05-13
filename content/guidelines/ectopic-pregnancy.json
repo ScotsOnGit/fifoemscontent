@@ -15,48 +15,48 @@
       "id": "ectopic-pregnancy-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "An ectopic pregnancy occurs when a fertilised egg implants outside the uterine cavity, most commonly in the fallopian tube (~95% of cases). Less commonly, it may occur in the ovary, cervix, or abdominal cavity. Ectopic pregnancies are non-viable and potentially life-threatening due to the risk of tubal rupture and internal haemorrhage. A suspected ruptured ectopic pregnancy is considered a medical emergency.",
+      "content": "An ectopic pregnancy occurs when a fertilised egg implants outside the uterine cavity, most commonly in the fallopian tube. It is non-viable and may become life-threatening due to tubal rupture and internal haemorrhage. Suspected ruptured ectopic pregnancy is a medical emergency.",
       "sortOrder": 0
     },
     {
       "id": "ectopic-pregnancy-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Abdominal pain (in 80-90% of women)\n- Vaginal bleeding (in 75% of women)\n- Amenorrhoea\n\n**Other symptoms may include:**\n  - Abdominal pain may radiate to the neck or shoulder (Kehr’s Sign)\n  - Episodes of syncope or presyncope in early pregnancy\n  - Lower abdominal tenderness or palpable mass\n  - Common non-specific symptoms include vomiting and diarrhoea, mimicking gastroenteritis\n  - Tachycardia/ pallor/ hypotension/ shock/ syncope/ orthostatic hypotension\n  - Patient in hypovolaemic shock that is disproportionate to visible blood loss",
+      "content": "- Abdominal or pelvic pain\n- Vaginal bleeding\n- Amenorrhoea or recent missed period\n- Shoulder-tip pain or syncope in internal bleeding\n- Hypotension, tachycardia, pallor, shock, or pain out of proportion to visible blood loss",
       "sortOrder": 1
     },
     {
       "id": "ectopic-pregnancy-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Clinicians should consider a differential diagnosis of ectopic pregnancy in all women of reproductive age who present with abdominal pain, with a high suspicion when is accompanied by vaginal bleeding\n- Clinical manifestations generally occur 6-8 weeks after last normal menstrual period\n- Consider a pregnancy test in women of childbearing age who are symptomatic of gastroenteritis\n- Any patient with an index of suspicion should not be allowed to transport themselves unless the patient has specifically refused treatment and/or transport\n- Risk factors: Previous ectopic pregnancy, pelvic inflammatory disease (PID), tubal surgery, intrauterine device (IUD) in situ, assisted reproductive technologies (e.g., IVF), endometriosis",
+      "content": "- Consider ectopic pregnancy in any patient of reproductive age with abdominal pain and/or vaginal bleeding\n- Symptoms often occur around 6-8 weeks after the last menstrual period\n- Risk factors include prior ectopic pregnancy, PID, tubal surgery, IVF, endometriosis, and an IUD in situ\n- If suspicion is significant, the patient should not self-transport unless refusing care",
       "sortOrder": 2
     },
     {
       "id": "ectopic-pregnancy-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Support and reassurance\n- Perform vital sign survey\n- Consider oxygen\n- Secondary / CNS Survey (as required)\n- Consider pregnancy test where appropriate\n- Liaise with the on-call doctor or RFDS and pre-alert local hospital in suitable country areas, recording all advice in the patients record",
+      "content": "- Primary Survey\n- Support and reassurance\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Consider pregnancy test where appropriate\n- Liaise early with the on-call doctor or RFDS and pre-alert the receiving hospital where relevant",
       "sortOrder": 3
     },
     {
       "id": "ectopic-pregnancy-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- IV access (2x large bore cannulas)\n- Fluid resuscitation with emphasis on permissive hypotension\n- Consider analgesia in consultation with on-call doctor\n- Consider antiemetic in consultation with on-call doctor\n- Ensure patient is kept warm if signs of shock are present",
+      "content": "- ECG\n- IV access, including two large-bore cannulas where possible if shock is suspected\n- Fluid resuscitation should focus on preserving perfusion while expediting transport and definitive care\n- Consider analgesia and antiemetic in consultation with the on-call doctor\n- Keep the patient warm if shocked",
       "sortOrder": 4
     },
     {
       "id": "ectopic-pregnancy-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The available evidence for the use of tranexamic acid in management of ruptured ectopic pregnancy is weak\n- Ensure patient has offer of support from mind matters and/or EAP",
+      "content": "- Evidence for TXA in ruptured ectopic pregnancy is limited and it should not be routine prehospital therapy\n- Sensitive communication and psychological support are important",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

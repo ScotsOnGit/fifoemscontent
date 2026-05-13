@@ -3,13 +3,10 @@
   "title": "High Risk Mental Health Presentations",
   "category": "mental_health",
   "tags": [
-    "high",
-    "risk",
     "mental",
     "health",
-    "presentations",
-    "mental health",
-    "psychiatric"
+    "high",
+    "risk"
   ],
   "synonyms": [
     "High Risk Mental Health Presentations"
@@ -19,55 +16,48 @@
       "id": "high-risk-mental-health-presentations-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "High-risk mental health conditions are severe psychological states or acute crises where there is an imminent risk of harm to self or others, loss of capacity, or profound disturbance of reality. Conditions commonly include:\n- Suicidal ideation or suicide attempt\n- Active or recent self-harm\n- Psychosis (hallucinations, delusions, severe thought disorganisation)\n- Severe mania or agitation\n- Acute behavioural disturbance or aggression\n- Severe depressive episode with loss of function\n- Patients in a state of mental health crisis, including those at risk of violence, exploitation, or unable to care for themselves",
+      "content": "High-risk mental health presentations involve imminent risk of harm to self or others, severe behavioural disturbance, loss of reality testing, or inability to care for basic needs. Examples include suicidal crisis, severe agitation, psychosis, violent behaviour, or severe self-neglect.",
       "sortOrder": 0
     },
     {
       "id": "high-risk-mental-health-presentations-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Expressing intent to self-harm or commit suicide\n- Acts of self-injury or overdose\n- Delusions, hallucinations (auditory, visual), paranoia, or thought disorder\n- Severe agitation, restlessness, or unprovoked aggression\n- Disorganised, confused, or bizarre behaviour\n- Gross neglect of basic needs (food, shelter, hygiene)\n- Unco-operative, withdrawn, or catatonic presentation\n- Lack of insight into illness\n- Recent marked deterioration in mood or function",
+      "content": "- Suicidal ideation, recent self-harm, or suicide attempt\n- Severe agitation, aggression, paranoia, or psychosis\n- Marked disorganisation, bizarre behaviour, or loss of insight\n- Catatonia or profound withdrawal\n- Inability to maintain basic safety or self-care",
       "sortOrder": 1
     },
     {
       "id": "high-risk-mental-health-presentations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Personal Safety: Prioritise your own safety and that of bystanders; do not place yourself in danger\n- Assess for weapons, hazardous materials, or escalating behaviours\n- Triage early if assistance from other agencies may be required. They may take time to get on scene\n- Always address organic causes for behavioural presentations, e.g., CVA, Hypoglycaemia, Hypoxia, TBI\n- Be aware of local mental health legislation enabling involuntary transport if the patient lacks capacity or poses risk\n- Only the police and Mental Health Transport Officers have legislated authority to apprehend persons in mental health circumstances (section 156 (1) Mental Health Act 2014)\n- Section 243 of Criminal Code (7.4.2) states it is lawful for any person to use such force as is necessary to prevent a mentally impaired person from doing violence to any person or property\n- The patient’s dignity should be maintained during the period of restraint and, where possible, the method of restraint should be individualised so that dignity can be respected, and the amount of force/restriction applied should be no more than is necessary\n- Do not allow police or security officers to handcuff a patient to the stretcher. Clearly document reasons if this cannot be achieved and the service number of the Police Officer\n- Evaluate whether the patient can understand, retain, weigh, and communicate decisions regarding care\n- Respect privacy but prioritise safety and share information with relevant professionals as permitted\n- Where possible, recognise cultural factors influencing expression, stigma, and support\n- Record all risks, capacity, assessment, actions taken, and collateral information provided\n- If emergency treatment (sedation) is unnecessary, do as little as possible except to reassure while transporting. Be very aware of the patient’s personal space\n- Positive RASS score does not automatically infer a need to sedate\n- Sedation is HIGH RISK and must only be carried out after careful deliberation between medic and the on-call Doctor and must not be based primarily at the request or influence of other staff members/agencies on scene\n- Have a low threshold for contacting the on-call doctor, Mind Matters team (especially if on site) or EAP\n- All personnel must be fully aware of, and operate strictly within, the boundaries of their professional scope of practice when involved in mental health-related cases. While it is both appropriate and important to provide initial support, perform basic assessments, and assist with triage, the offering of advice, diagnoses, or interventions that exceed formal qualifications or competencies must be avoided. Acting outside one's scope of practice can lead to unintended harm and may compromise the safety, well-being, and trust of the individuals seeking help",
+      "content": "- Personal safety and bystander safety come first\n- Assess for weapons, escalating behaviour, and need for police or other agencies\n- Always consider organic causes of behavioural disturbance such as hypoxia, hypoglycaemia, intoxication, overdose, TBI, seizure, or stroke\n- Maintain dignity, privacy, and the least restrictive approach possible\n- Sedation and restraint are high risk and should be last-resort, proportionate, and carefully documented\n- Positive RASS alone does not mandate sedation",
       "sortOrder": 2
-    },
-    {
-      "id": "high-risk-mental-health-presentations-management-advanced",
-      "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider and address organic causes for disturbed behaviour as soon as practicable (including but not limited to TBI, hypoxia, hypoglycaemia and overdose)\n- Sedation requires sound judgment on a case-by-case basis and should normally align with post de-escalation RASS score and must be discussed with the on-call doctor\n- Consider Olanzapine for RASS = 1-3\n- Consider Droperidol for RASS = 1-3\n- Consider Midazolam for RASS ≥ 3 in consultation with on-call doctor\n- Consider Ketamine for RASS = 4 (where available)\n- Sedation requires sound judgment on a case-by-case basis and should normally align with post de-escalation RASS score and must be discussed with the on-call doctor Note: IM Midazolam is not indicated for primary sedation. It is only to be used IV for maintenance of sedation unless directed otherwise by the on-call doctor. These patients should be sedated with ketamine where available",
-      "sortOrder": 3
     },
     {
       "id": "high-risk-mental-health-presentations-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure Safety: Remove hazards, engage additional emergency services as required (police, specialist teams)\n- Primary Survey, including BSL and Spo2 where possible to rule out organic causes\n- Initial De-escalation, offering reassurance, maintain a non-threatening posture, utilise de-escalation techniques. Approach calmly, use clear and simple language, avoid confrontation or escalation\n- Conduct RASS Score Assessment frequently Restrain only if essential to protect yourself and the patient using the minimum force necessary\n- Restraint may be verbal and/or physical depending on the individual circumstances\n- If appropriate, enquire sensitively about possible depression, helplessness and thoughts of suicide\n- If patient expresses suicidal thoughts, do not leave patient alone\n- Always garner additional support from the on-call doctor\n- Consider completion of Suicidal Risk Tool where applicable",
+      "content": "- Ensure safety and remove hazards where possible\n- Primary Survey, including BGL and SpO2 where possible\n- Use calm, non-confrontational de-escalation and clear communication\n- Conduct frequent RASS assessment where relevant\n- Restrain only if essential to protect the patient or others, using the minimum force necessary\n- If suicide risk is identified, do not leave the patient alone\n- Seek early support from the on-call doctor and relevant mental health pathways",
+      "sortOrder": 3
+    },
+    {
+      "id": "high-risk-mental-health-presentations-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Address organic causes as soon as practicable\n- Sedation must be discussed with the on-call doctor and should follow failed de-escalation, clear risk, and careful reassessment\n- Pharmacologic options should be guided by local protocol, clinician skill, age, comorbidity, and pregnancy status\n- Monitor closely after any sedation, including airway, breathing, circulation, and level of consciousness",
       "sortOrder": 4
     },
     {
       "id": "high-risk-mental-health-presentations-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Initiate de-brief with Mind matters team or EAP where relevant and appropriate. Be aware that these pathways are also bound by patient confidentiality\n- Example causes for high-risk presentations:\nIndividual Relationship Social\n  - Job loss/unemployment\n  - Legal/criminal issues\n  - Financial issues\n  - Stressful life events\n  - Previous suicide attempts\n  - Serious illness\n  - Mental health illness\n  - Substance misuse\n  - Social isolation\n  - Relationship break-up or loss\n  - Bullying\n  - Exposure to violence\n  - Adverse childhood events\n  - Family history of suicide\n  - Barriers to accessing health care\n  - Suicide cluster\n  - Stigma associated with seeking help\n  - Access to lethal means Red bolded items are seen regularly within remote mining settings",
+      "content": "- Debrief and staff support may be appropriate after significant incidents\n- Documentation should clearly record risk, capacity, de-escalation attempts, sedation rationale, and any restraint used",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "droperidol",
-    "midazolam",
-    "olanzapine-oral-dispersible"
-  ],
+  "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "rass"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
