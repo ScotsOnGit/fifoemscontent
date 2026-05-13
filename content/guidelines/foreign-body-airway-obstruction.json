@@ -32,21 +32,21 @@
       "id": "foreign-body-airway-obstruction-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- The severity of the airway obstruction can be determined by the patient’s ability to cough\n- Effective cough indicates mild obstruction\n- Nil cough indicates a severe obstruction\n- Ensure airway suctioning devices are always readily available\n- Abdominal thrusts are not recommended due to potential life-threatening complications\n- Do not delay intervention for suspected severe FBAO as hypoxia can develop rapidly\n- Do not leave the patient unattended at any stage",
+      "content": "- The severity of the airway obstruction can be determined by the patient's ability to cough\n- Effective cough indicates mild obstruction\n- Ineffective or absent cough indicates severe obstruction\n- Ensure airway suctioning devices are always readily available\n- Manage severe FBAO according to the current ANZCOR choking algorithm and local protocol\n- Do not delay intervention for suspected severe FBAO as hypoxia can develop rapidly\n- Do not leave the patient unattended at any stage\n- Evidence for suction-based anti-choking devices is limited, and they should not delay standard recommended maneuvers",
       "sortOrder": 2
     },
     {
       "id": "foreign-body-airway-obstruction-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n\n**Effective cough:**\n  - Place patient in a position of comfort\n  - Encourage coughing\n  - Continuous reassurance\n  - Closely monitor for deterioration\n\n**Sever obstruction:**\n  - Conscious\n  - 5 x Back blows (check obstruction has be relieved between each blow), if un\n  - 5 x chest thrusts\n  - If the obstruction is still not relieved and the person remains responsive, continue alternating 5 x back blows with 5 x chest thrusts. Repeat if necessary\n  - Ensure ongoing assessment\n  - Consider use of LifeVac if readily available\n  - Unconscious\n  - Commence CPR\n  - Prepare for patient deterioration and cardiac arrest\n  - Clinicians should have a very low threshold for consultation with on-call doctor",
+      "content": "- Primary Survey\n\n**Effective cough:**\n  - Place patient in a position of comfort\n  - Encourage coughing\n  - Continuous reassurance\n  - Closely monitor for deterioration\n\n**Severe obstruction:**\n  - Conscious\n  - 5 back blows, checking after each blow to see if the obstruction is relieved\n  - If still obstructed, give 5 chest thrusts\n  - Continue alternating back blows and chest thrusts while the patient remains conscious and the obstruction persists, in line with current ANZCOR guidance\n  - Ensure ongoing assessment\n  - Unconscious\n  - Commence CPR\n  - Prepare for patient deterioration and cardiac arrest\n  - Clinicians should have a very low threshold for consultation with on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "foreign-body-airway-obstruction-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider laryngoscope for removal under direct visualisation\n- Consider Transtracheal Airway with insufflation device\n- Consider Vertical Surgical Cricothyroidotomy",
+      "content": "- Consider laryngoscope for removal only if the foreign body is directly visualised and within scope/protocol\n- Consider front-of-neck airway options only within local scope, equipment, and protocol for a cannot-oxygenate situation",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

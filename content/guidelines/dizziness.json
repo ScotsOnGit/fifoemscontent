@@ -28,7 +28,7 @@
       "id": "dizziness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Patients presenting with vertigo should be managed under that clinical guideline\n- Dizziness can appear insignificant on presentation but may have a serious underlying medical condition. A thorough assessment should be undertaken on all presentations of dizziness\n- Dizziness can be caused by some of the following and should be managed accordingly:\n  - Vertigo or B.P.P.V/Labyrinthitis/Eardrum perforation/Meniere’s Disease\n  - Stroke/T.I.A/migraine/brain tumours/Parkinson’s disease/multiple sclerosis\n  - Cervicogenic issues (neck issues)\n  - ACS/arrhythmias\n  - Alcohol withdrawal\n  - Medication side effects\n  - Sepsis\n  - Dehydration/heat related illness\n  - Hypoglycaemia\n- Anaemia\n- Postural Issues\n- Anxiety/stress/depression\n- Recent trauma/pain Red flags\n- Sudden onset of debilitating dizziness with associated neurological symptoms should raise the possibility of stroke\n- Sudden onset of dizziness with associated hearing loss and/or tinnitus\n- Sudden onset of dizziness with ear pain/discharge/trauma/barotrauma (please also contact the ENT registrar to advise patient will present to ED",
+      "content": "- Patients presenting with true vertigo should be managed under that clinical guideline\n- Dizziness can appear insignificant on presentation but may have a serious underlying medical condition. A thorough assessment should be undertaken on all presentations of dizziness\n- Dizziness can be caused by some of the following and should be managed accordingly:\n  - Vertigo or BPPV/labyrinthitis/eardrum perforation/Meniere's disease\n  - Stroke/TIA/migraine/brain tumours/Parkinson's disease/multiple sclerosis\n  - Cervicogenic issues\n  - ACS/arrhythmias\n  - Alcohol withdrawal\n  - Medication side effects\n  - Sepsis\n  - Dehydration/heat related illness\n  - Hypoglycaemia\n  - Anaemia\n  - Postural issues\n  - Anxiety/stress/depression\n  - Recent trauma/pain\n- Red flags:\n  - Sudden onset of debilitating dizziness with associated neurological symptoms should raise the possibility of stroke\n  - Sudden onset of dizziness with associated hearing loss and/or tinnitus\n  - Sudden onset of dizziness with ear pain, discharge, trauma, or barotrauma requires medical review",
       "sortOrder": 2
     },
     {
@@ -56,6 +56,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

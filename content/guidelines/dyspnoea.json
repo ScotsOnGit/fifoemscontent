@@ -36,7 +36,7 @@
       "id": "dyspnoea-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Continuous reassurance\n- Treat airway obstruction\n- If respiratory distress is caused by exposure to any hazardous substance, remove substance or patient if safe to do so. Assistance from site-based Emergency Response Teams, Emergency Service (DFES) or other appropriate resource may be required\n- Position patient appropriately (sitting patient upright or in a position of comfort; lateral position if unconscious, consider appropriate position in suspected spinal injury)\n- Conduct Vital Sign Survey, particularly respiratory rate and pulse oximetry\n- Consider oxygen therapy; titrate SpO2 using the appropriate mask to a target of 94– 98%\n- Ventilate the patient if required\n- Auscultate for diagnostic clues: Wheezing [asthma], crackles [infection, oedema], pleuritic rub, silent chest [severe asthma]\n- Limb LEAD ECG\n- Consider Secondary Survey",
+      "content": "- Primary Survey\n- Continuous reassurance\n- Treat airway obstruction\n- If respiratory distress is caused by exposure to any hazardous substance, remove substance or patient if safe to do so. Assistance from site-based Emergency Response Teams, Emergency Service (DFES) or other appropriate resource may be required\n- Position patient appropriately (sitting upright or in a position of comfort; lateral position if unconscious, consider appropriate position in suspected spinal injury)\n- Conduct Vital Sign Survey, particularly respiratory rate and pulse oximetry\n- Consider oxygen therapy and titrate to clinical need\n- Ventilate the patient if required\n- Auscultate for diagnostic clues: wheeze, crackles, pleuritic rub, silent chest\n- Limb lead ECG\n- Consider Secondary Survey",
       "sortOrder": 3
     },
     {
@@ -54,8 +54,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu"

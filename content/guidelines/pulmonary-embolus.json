@@ -30,21 +30,21 @@
       "id": "pulmonary-embolus-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Previous history of DVT, PE or Cancer\n- Recent long-haul flights or prolonged periods of immobilisation\n- Currently pregnant or post-partum\n- Recent trauma or surgery\n- Oral contraceptive use\n- Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) are generally avoided in PE due to risk of bleeding\n- Suspect PE: chest pain + dyspnoea + tachycardia, syncope, new hypoxia, haemoptysis, unilateral leg swelling suggestive of DVT\n- Differentials may include myocardial infarction, pneumonia, pericarditis, pleurisy, pneumothorax, pericardial tamponade, or complete heart failure\n- Risk of sudden deterioration: Unstable PE may rapidly progress to cardiac arrest Antibiotic resistance: Overuse of antibiotics should be avoided; most cases are viral\n- A 12 lead ECG can show changes relate to PE, listed in additional information",
+      "content": "- Previous history of DVT, PE or cancer\n- Recent long-haul flights or prolonged periods of immobilisation\n- Currently pregnant or post-partum\n- Recent trauma or surgery\n- Oral contraceptive or oestrogen use\n- NSAIDs are generally avoided in PE due to bleeding risk and lack of acute therapeutic benefit\n- Suspect PE with chest pain plus dyspnoea, tachycardia, syncope, new hypoxia, haemoptysis, or unilateral leg swelling suggestive of DVT\n- Differentials may include myocardial infarction, pneumonia, pericarditis, pleurisy, pneumothorax, pericardial tamponade, or acute heart failure\n- Risk of sudden deterioration: unstable PE may rapidly progress to cardiac arrest\n- A 12 lead ECG can show changes related to PE, but a normal ECG does not exclude it",
       "sortOrder": 2
     },
     {
       "id": "pulmonary-embolus-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Prioritise airway, breathing, and circulation\n- Oxygen, high flow aiming for ≥ 94% saturation\n- Position patient to optimise breathing (usually sitting upright)\n- Vital Signs\n- Over the counter pain relief\n- Limb LEAD ECG\n- Secondary Survey",
+      "content": "- Primary Survey\n- Prioritise airway, breathing, and circulation\n- Oxygen if required, titrated to clinical need\n- Position patient to optimise breathing (usually sitting upright)\n- Vital Signs\n- Provide appropriate analgesia if required\n- Limb lead ECG\n- Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "pulmonary-embolus-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- Consider small bolus dose fluids (250mls)\n- Consider stronger analgesia if required\n- Consider antiemetic if required\n- Consider enoxaparin\n- 12 LEAD ECG",
+      "content": "- Gain IV access\n- Consider small fluid boluses only if hypotensive and reassess frequently\n- Consider stronger analgesia if required\n- Consider antiemetic if required\n- 12 lead ECG\n- Anticoagulation decisions should be made under local protocol and senior medical direction rather than used routinely from this guideline alone",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "wells-pe",
     "revised-geneva",

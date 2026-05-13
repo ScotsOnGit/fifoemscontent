@@ -35,7 +35,7 @@
       "id": "vertigo-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Consider positioning for comfort\n- Vital signs (postural BP included where appropriate, BGL)\n- Complete Secondary Survey\n- Consider FAST\n- Consider HINTS (head impulse, nystagmus, and test of skew) exam\n- Check for nystagmus\n- Consider otoscope if trained and symptomatic\n- Consider Dix-Hallpike test if appropriate (i.e., nil trauma, neck stiffness, etc.)\n- Consider Epley manoeuvre if symptoms consistent with BPPV",
+      "content": "- Primary Survey\n- Consider positioning for comfort\n- Vital signs (postural BP included where appropriate, BGL)\n- Complete Secondary Survey\n- Consider FAST\n- Check for nystagmus\n- Consider HINTS only in acute vestibular syndrome and only if specifically trained in its use\n- Consider otoscope if trained and symptomatic\n- Consider Dix-Hallpike test if appropriate (e.g. no trauma, significant neck pain, or other contraindication)\n- Consider Epley manoeuvre only when the presentation is consistent with BPPV and the clinician is trained to perform it",
       "sortOrder": 3
     },
     {
@@ -49,13 +49,13 @@
       "id": "vertigo-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Patient education: advise around positional triggers and safety measures such as driving, working at heights, operating machinery, etc during episodes\n- HINTS Exam (for Acute Vestibular Syndrome): Used to differentiate central vs. peripheral vertigo in continuous vertigo with spontaneous nystagmus:\n  - Head-Impulse Test: Abnormal suggests peripheral\n  - Nystagmus: Unidirectional = peripheral; bidirectional/vertical = central\n  - Test of Skew, cover/uncover eye test: Eye misalignment suggests central\n  - All 3 negative suggests peripheral. If 1 or more positive, treat as central 18 CARDIAC",
+      "content": "- Patient education: advise around positional triggers and safety measures such as driving, working at heights, and operating machinery during episodes\n- HINTS is an expert bedside examination for acute vestibular syndrome and should not be used in isolation by untrained clinicians to rule out stroke\n- If examination is central or equivocal, or if there are additional neurological red flags, treat as possible central vertigo and escalate urgently",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
