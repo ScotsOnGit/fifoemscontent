@@ -31,28 +31,28 @@
       "id": "hyperthermia-heat-stroke-heat-related-sickness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider using any facilities that are on scene to help rapidly cool the patient before transporting to hospital\n- In the initial stages of heat stroke, CNS dysfunction is observed. These are the first signs of thermoregulatory failure\n- Improvements in the patients’ conscious state is the most promising sign that active cooling is working but may happen slowly\n- The young and elderly are more prone to heat induced illness\n- Tympanic temperature readings may not provide a true representation of a patient’s core body temperature in heat extremes\n- Assess patients left in cars for heat induced illness\n- Cardiac dysfunction and tachyarrhythmias generally resolve with cooling\n- Hyperthermia is a medical emergency with the degree and duration being a predictor of the outcome\n- Patients can become hypothermic when cooled too rapidly. If the patient begins shivering, cool to touch or peripherally shut down, cooling should discontinue\n- Avoid the patient shivering as this will increase core body temperature\n- Where appropriate, unlimited salted foods with cool water\n- Do not use antipyretic medication for temperature control",
+      "content": "- Hyperthermia is a medical emergency; rapid cooling should begin as soon as practicable and should not be delayed while waiting for transport\n- In the early stages of heat stroke, CNS dysfunction may be the first sign of thermoregulatory failure\n- The young and elderly are more prone to heat-induced illness\n- Tympanic temperature may underestimate true core temperature in heat illness\n- Assess patients left in cars or enclosed hot environments carefully for heat-induced illness\n- Cardiac dysfunction and tachyarrhythmias often improve with cooling and supportive care\n- Avoid shivering where possible, as it increases heat production\n- Antipyretic medications do not treat heat stroke and should not be used for temperature control",
       "sortOrder": 2
     },
     {
       "id": "hyperthermia-heat-stroke-heat-related-sickness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- When safe to do so, move the patient into a cool environment or shade\n- Position patient supine if appropriate\n- Vital Sign Survey (closely monitor patients’ temperature and BGL)\n- Consider Oxygen if indicated\n- Provide water to drink if fully conscious\n- Urinalysis (myoglobinuria)\n\n**Apply critical treatment points:**\n  - Strip clothing off patient\n  - Soak or spray the patient with tepid water\n  - Fan the patient to promote heat loss\n  - Apply ice packs to neck, groin and armpits\n  - Cover the patient with wet cold cloths and continue to fan.\n  - Consider delaying transport to ensure the patient is adequately cooled (approximately 15 minutes)\n  - Consider antiemetics\n  - Continue cooling the patient during transport",
+      "content": "- Primary Survey\n- Move the patient to a cool environment or shade when safe to do so\n- Position patient supine if appropriate\n- Vital Sign Survey, including close monitoring of temperature and BGL where available\n- Consider Oxygen if indicated\n- Provide water only if the patient is fully conscious and not at risk of aspiration\n\n**Apply critical treatment points:**\n  - Remove excess clothing\n  - Start rapid active cooling immediately\n  - If feasible and safe, consider whole-body cold-water immersion for severe exertional heat stroke\n  - If immersion is not feasible, use evaporative cooling with water spray plus fanning, and apply ice packs to the neck, axillae, and groin\n  - Continue cooling during preparation for transport and during transport where possible\n  - Do not delay ambulance activation, but do prioritise early cooling",
       "sortOrder": 3
     },
     {
       "id": "hyperthermia-heat-stroke-heat-related-sickness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- If unconscious, consider advanced airway management\n- Establish vascular access\n- Consider fluid therapy (administering cool IV fluids if possible)",
+      "content": "- 12 lead ECG\n- If unconscious, seizing, or unable to protect their airway, consider advanced airway management\n- Establish vascular access\n- Consider fluid therapy if indicated, including cooled IV fluids where practical\n- Consider antiemetic if required",
       "sortOrder": 4
     },
     {
       "id": "hyperthermia-heat-stroke-heat-related-sickness-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Seizures are common in patients suffering from hyperthermia\n- Mortality > 60%, permanent neurological deficit – 7-15% Condition Cause Heat Syncope Fainting due to peripheral vasodilation secondary to high ambient temperature Heat Cramp Muscle cramping occurring during exercise in heat, which is related to salt deficiency and is usually benign Heat Exhaustion Occurs when an individual develops salt and/or water depletion, dehydration and hypovolaemia from heat stress. Nausea, vomiting, fatigue and excessive sweating are typical. Core temperature may or may not be raised and tissue damage does not occur Heat Stroke Hyperthermia with neurological dysfunction due to the failing thermoregulatory system",
+      "content": "- Seizures can occur in severe hyperthermia\n- Heat syncope: fainting due to peripheral vasodilation in a hot environment\n- Heat cramp: exercise-associated muscle cramping, often with salt and fluid depletion\n- Heat exhaustion: salt and/or water depletion with nausea, vomiting, fatigue, and excessive sweating; tissue injury does not usually occur\n- Heat stroke: hyperthermia with neurological dysfunction due to failure of thermoregulation",
       "sortOrder": 5
     }
   ],
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "heat-stress",
     "news2"

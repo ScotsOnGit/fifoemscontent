@@ -32,21 +32,21 @@
       "id": "drug-induced-hyperthermia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigation why/how the overdose occurred is important to rule out self-harm\n- Objective is early identification, temperature control and supportive care\n- Antipyretics are ineffective in drug-induced hyperthermia (mechanism is non- pyrogenic)\n- Airway protection may be needed in severe agitation or seizure activity\n- Delay in cooling increases mortality initiate active cooling early",
+      "content": "- Investigate why/how the overdose or exposure occurred to rule out self-harm\n- Priorities are early recognition, rapid active cooling, sedation where indicated, and supportive care\n- Antipyretics are ineffective in drug-induced hyperthermia because the mechanism is non-pyrogenic\n- Airway protection may be needed in severe agitation, rigidity, or seizure activity\n- Delay in cooling increases mortality",
       "sortOrder": 2
     },
     {
       "id": "drug-induced-hyperthermia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey (continuous pulse oximetry)\n- Undress patient and initiate cooling (spray water over bare skin, fan, ice packs to neck, axilla and groin)\n- Consider cool oral fluids if tolerated (and no risk of aspiration)\n- Have a low threshold for consulting with on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey with continuous pulse oximetry\n- Remove excess clothing and start active cooling immediately with water spray, fanning, and ice packs to the neck, axillae, and groin\n- Consider cool oral fluids only if tolerated and there is no aspiration risk\n- Have a low threshold for consulting with on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "drug-induced-hyperthermia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway where required\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG, continuous monitoring\n- Gain IV access\n- Cooled IV fluids (1ltr normal saline) where practicable\n- Consider Midazolam in consultation with on-call doctor",
+      "content": "- Consider advanced airway where required\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG, and continuous monitoring\n- Gain IV access\n- Consider cooled IV fluids where practicable\n- Consider midazolam in consultation with the on-call doctor for agitation, seizures, or muscle overactivity that is worsening hyperthermia",
       "sortOrder": 4
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "heat-stress"

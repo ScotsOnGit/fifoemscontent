@@ -30,21 +30,21 @@
       "id": "corrosives-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Responder safety is paramount. Do not approach an unsafe scene\n- One or more patients may indicate a hazardous atmosphere. Do not approach until the scene is declared safe by the ESO/ERT after gas monitoring has been conducted\n- Investigating why/how the overdose occurred is important to rule out self-harm\n- The absence of lip or oral burns does not exclude significant gastro-oesophageal injury\n- The extent of a direct chemical injury depends on the pH, concentration and volume\n- In cases of ingestion, do not induce or encourage vomiting\n- Oxygen administration should be withheld in paraquat toxicity unless patient is hypoxic.\nAim for 88%-92% saturation\n\n- All patients with exposure to hydrofluoric acid must be transferred to hospital and not managed on site passed initial treatment. This applies to both inhalation and dermal exposure due to dermal injury ranging from nil visible injury to full thickness burns and must be observed/treated in hospital",
+      "content": "- Responder safety is paramount. Do not approach an unsafe scene\n- One or more patients may indicate a hazardous atmosphere. Do not approach until the scene has been declared safe after appropriate monitoring\n- Investigating why/how the exposure occurred is important to rule out self-harm\n- The absence of lip or oral burns does not exclude significant gastro-oesophageal injury\n- The extent of direct chemical injury depends on the pH, concentration, physical form, and duration of contact\n- In cases of ingestion, do not induce vomiting and do not attempt neutralisation\n- Oxygen should generally be withheld in paraquat toxicity unless the patient is hypoxic; if used, titrate to the minimum required to treat hypoxaemia\n- All patients with hydrofluoric acid exposure require hospital transfer after initial treatment",
       "sortOrder": 2
     },
     {
       "id": "corrosives-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance\n- Position patient appropriately\n- Consider Oxygen if indicated\n- IPPV if required\n- Remove any clothing and constrictive jewellery\n- Consider Diphoterine if available and close by (not for use on hydrofluoric acid)\n- Initiate irrigation of the affected area for minimum 20 minutes. Continue during transport\n- Vital Sign Survey\n- Secondary Survey\n- Have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance\n- Position patient appropriately\n- Consider Oxygen if indicated\n- IPPV if required\n- Remove contaminated clothing and constrictive jewellery\n- Consider Diphoterine if available and immediately accessible, but do not delay copious water irrigation\n- For dermal or ocular exposure, initiate irrigation immediately and continue during transport where required\n- For ingestion, do not induce vomiting; seek urgent medical advice and monitor closely for airway compromise\n- Vital Sign Survey\n- Secondary Survey\n- Have a low threshold for calling on-call doctor or Poisons Information",
       "sortOrder": 3
     },
     {
       "id": "corrosives-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider antiemetics\n- Consider IV analgesia in consultation with on-call doctor\n- Consider calcium gluconate gel/solution/nebuliser depending on exposure route of hydrofluoric acid\n- Consider prophylactic antibiotics only in consultation with on-call doctor",
+      "content": "- Consider advanced airway\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider antiemetics\n- Consider IV analgesia in consultation with on-call doctor\n- Consider calcium gluconate gel, solution, or nebuliser depending on the exposure route of hydrofluoric acid\n- Escalate early for stridor, dysphagia, chest symptoms, suspected perforation, or significant pain",
       "sortOrder": 4
     },
     {
@@ -58,6 +58,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

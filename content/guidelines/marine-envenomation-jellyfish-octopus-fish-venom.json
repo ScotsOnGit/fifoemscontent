@@ -33,21 +33,21 @@
       "id": "marine-envenomation-jellyfish-octopus-fish-venom-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Most bites occur when the octopus is handled\n- Do not apply a pressure immobilisation bandage (PIB)\n- Vinegar will deactivate non-discharged nematocysts but not reduce the pain of venom already injected\n- Patients initially stable but suffering severe symptoms within 30 minutes may have an Irukandji sting and require immediate medical attention\n- Irukandji syndrome should be considered in any patient presenting with clinical features during or shortly after swimming in tropical coastal waters",
+      "content": "- Most blue-ringed octopus bites occur when the animal is handled\n- Do not use pressure immobilisation for jellyfish stings or fish-spine injuries\n- Use pressure immobilisation for suspected blue-ringed octopus or cone shell envenomation where feasible\n- Treat sea snake bites as for Australian snake bite with pressure bandaging and immobilisation\n- Vinegar may help inactivate non-discharged nematocysts in suspected box jellyfish or Irukandji stings, but should not be used for bluebottle stings\n- Patients who initially appear stable but develop severe symptoms within 30 minutes may have Irukandji syndrome and require urgent medical attention",
       "sortOrder": 2
     },
     {
       "id": "marine-envenomation-jellyfish-octopus-fish-venom-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Keep patient at rest and limit movement where possible\n- Assist ventilations as required\n- Manage cardiac arrest as per guidelines\n- Observe patient closely for signs of anaphylaxis; if identified, treat accordingly\n- Refer to treatment for (Non)Tropical Jellyfish sting or Venomous Fish below\n- Use cold compress to reduce pain and swelling at the site if specific treatment cannot be carried out\n- Conduct Vital Sign Survey\n- Tropical Jellyfish\n- Soak area with vinegar for 30 seconds to neutralise visible stinging cells\n- If no vinegar is available: remove tentacles with gloved hands and wash well with sea water, NOT fresh water\n- Antivenom is available for some box jellyfish\n- Non-Tropical Jellyfish\n- Remove any visible tentacles and rinse well with sea water, NOT fresh water\n- Where possible, place the affected area in water as hot as the patient can comfortably tolerate for 20 minutes\n- If pain not relieved by heat or hot water unavailable, apply cold pack\n- Venomous Fish\n- Treat for haemorrhage or impaled object if required\n- If stung on a limb, immerse stung area in water as hot as the patient can comfortably tolerate",
+      "content": "- Primary Survey\n- Remove the patient from the water and keep them at rest\n- Watch closely for respiratory failure or cardiac arrest; start CPR if required\n- Assist ventilations as required\n- Observe closely for signs of anaphylaxis; if identified, treat accordingly\n- Conduct Vital Sign Survey\n- Suspected tropical box jellyfish or Irukandji sting:\n  - If the patient is unwell, has more than a small localised sting, or the species is uncertain, call for urgent transport\n  - Douse the sting area with household vinegar for 30 seconds if available\n  - Remove remaining tentacles carefully and rinse with seawater, not fresh water\n  - Apply a cold pack in a dry bag for analgesia\n- Clearly localised bluebottle or other minor jellyfish sting:\n  - Do not apply vinegar\n  - Remove visible tentacles, rinse with seawater, and immerse the area in hot water that the patient can tolerate for up to 20 to 30 minutes\n  - If heat is unavailable or ineffective, apply a cold pack\n- Venomous fish or stingray injury:\n  - Treat major bleeding or any impaled object first\n  - If the sting is to a limb, immerse the affected area in hot water that the patient can tolerate\n  - Do not use pressure immobilisation for fish-spine injuries\n- Suspected blue-ringed octopus or cone shell envenomation:\n  - Apply pressure immobilisation if possible\n  - Be prepared to support breathing early and continue resuscitation until definitive care",
       "sortOrder": 3
     },
     {
       "id": "marine-envenomation-jellyfish-octopus-fish-venom-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitoring\n- Consider advanced airway where required\n- Gain IV Access\n- Consider blood draw, troponin if indicated\n- Consider pain relief\n- Relative to pain score, (1-3: Paracetamol, Ibuprofen) (4-6: Panadeine Fort, Oxycodone, Methoxy) (7-10: Fentanyl 1mg/Kg to max 100mcg, Methoxy)\n- Consider antiemetic\n- Consider prophylactic antibiotics only in consultation with on-call doctor",
+      "content": "- Apply cardiac monitoring\n- Consider advanced airway where required\n- Gain IV Access\n- Consider blood draw and troponin if indicated\n- Consider pain relief\n- Relative to pain score, (1-3: Paracetamol, Ibuprofen) (4-6: Panadeine Fort, Oxycodone, Methoxy) (7-10: Fentanyl 1mcg/Kg to max 100mcg, Methoxy)\n- Consider antiemetic\n- Escalate early for respiratory compromise, shock, or severe systemic features",
       "sortOrder": 4
     },
     {
@@ -63,6 +63,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

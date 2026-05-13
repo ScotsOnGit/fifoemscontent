@@ -31,21 +31,21 @@
       "id": "serotonin-syndrome-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- Typically manifests via changes in mental status, autonomic hyperactivity and neuromuscular excitation\n- More severe serotonin toxicity with symptoms of progressive hyperthermia, rigidity and seizures is life-threatening. Sedation and rapid cooling are the care priorities\n- Citalopram and escitalopram can also affect the QT interval and increases the risk of Torsades De Pointes (TdP)",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- Serotonin syndrome typically presents with altered mental state, autonomic hyperactivity, and neuromuscular excitation, especially clonus and hyperreflexia\n- More severe serotonin toxicity with progressive hyperthermia, rigidity, and seizures is life-threatening; sedation and rapid cooling are key priorities\n- Citalopram and escitalopram can prolong the QT interval and increase the risk of torsades de pointes",
       "sortOrder": 2
     },
     {
       "id": "serotonin-syndrome-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Initiate cooling if patient is hyperthermic\n\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Initiate active cooling if the patient is hyperthermic\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor or Poisons Information",
       "sortOrder": 3
     },
     {
       "id": "serotonin-syndrome-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Consider fluids if indicated\n- Consider Midazolam in consultation with on-call doctor\n- Apply cardiac monitor, 12 LEAD ECG for QTc prolongation (be aware of tremor causing artefact)",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Consider fluids if indicated\n- Consider midazolam in consultation with the on-call doctor for agitation, clonus, or seizures\n- Apply cardiac monitor and 12 LEAD ECG for QTc prolongation; be aware that tremor may cause artefact",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc",

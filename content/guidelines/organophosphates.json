@@ -30,21 +30,21 @@
       "id": "organophosphates-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Responder safety is paramount. Do not enter any area that risks the safety of the responders\n- Universal precautions such as gowns and gloves are suitable\n- Inhalation or dermal exposure is rarely life-threatening, and the smell of an agent does not indicate exposure. The smell is usually the solvent and poses no toxicity risk to responders\n- Investigating why/how the toxicity occurred is important to rule out self-harm\n- Oral consumption produces multi-system toxicity. Respiratory muscle weakness and bronchorrhea causes early deaths. Atropine is your first line\n- Onset of symptoms can be delayed up to 12 hours",
+      "content": "- Responder safety is paramount. Do not enter any area that risks the safety of responders\n- Use appropriate PPE and remove the patient from ongoing contamination before treatment where possible\n- Investigating why/how the toxicity occurred is important to rule out self-harm\n- Respiratory failure from bronchorrhoea, bronchospasm, and muscle weakness is an early cause of death\n- Atropine is first-line treatment for clinically significant cholinergic toxicity and should be titrated to drying of secretions and improved oxygenation rather than to heart rate alone\n- Symptom onset may be delayed after some exposures, so ongoing observation is important",
       "sortOrder": 2
     },
     {
       "id": "organophosphates-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Remove contaminated clothing\n- Wash/Shower with soap where appropriate\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Remove contaminated clothing and wash exposed skin with soap and water where appropriate\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor or Poisons Information",
       "sortOrder": 3
     },
     {
       "id": "organophosphates-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Consider IV atropine in consultation with the on-call doctor (1-2mg, repeated every 5 minutes)\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider fluids if indicated\n- Consider antiemetic",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV atropine in consultation with the on-call doctor; repeat and escalate promptly until bronchorrhoea and wheeze improve and oxygenation is stabilised\n- Consider fluids if indicated\n- Consider benzodiazepines for seizures or severe agitation in consultation with the on-call doctor\n- Oxime therapy, if used, should be guided by the on-call doctor or toxicology service",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

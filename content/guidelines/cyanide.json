@@ -30,21 +30,21 @@
       "id": "cyanide-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Gas detection must take place prior to entering any area suspect of being contaminated with any hazardous atmosphere\n- Investigating why/how the overdose occurred is important to rule out self-harm\n- Co-exposure with carbon monoxide is a risk factor for severe toxicity, i.e. in a fire\n- May present with a bitter almond smell to the breath\n- All patients in this cohort must be referred off site for further review and management",
+      "content": "- Gas detection must take place before entering any area with a suspected hazardous atmosphere\n- Investigating why/how the exposure occurred is important to rule out self-harm\n- Co-exposure with carbon monoxide is a major risk in smoke inhalation from enclosed-space fires\n- A bitter almond smell may be absent and is not reliable diagnostically\n- All suspected cyanide exposures require off-site medical review and management",
       "sortOrder": 2
     },
     {
       "id": "cyanide-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- If non-life-threatening exposure (skin or hair contact), decontaminate (remove clothing and wash with soap and water for 20 minutes)\n- Position patient appropriately\n- High flow oxygen through a non-rebreather mask whether conscious or unconscious for at least 30 minutes or until asymptomatic",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- If non-life-threatening skin or hair exposure has occurred, remove contaminated clothing and wash exposed skin with soap and water\n- Position patient appropriately\n- Give high-flow oxygen immediately and continue it until handover or toxicology-directed change in management\n- Vital Sign Survey\n- Secondary Survey\n- Contact Poisons Information on 131126\n- Have a low threshold for calling the on-call doctor for all cases",
       "sortOrder": 3
     },
     {
       "id": "cyanide-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider blood draw for i-STAT (CG4+: Lactate) testing where applicable\n- Consider fluids if indicated\n- Consider antiemetic\n- Consider Hydroxocobalamin in consultation with on- call doctor\n- Consider Sodium Bicarbonate, in severe metabolic acidosis, in consultation with on-call doctor",
+      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV access\n- Consider blood draw for i-STAT or lactate testing where applicable\n- Consider fluids if indicated\n- Consider antiemetic\n- Consider hydroxocobalamin in consultation with the on-call doctor, especially for high-risk smoke inhalation with altered mental state, hypotension, or cardiovascular collapse\n- Consider sodium bicarbonate for severe metabolic acidosis in consultation with the on-call doctor",
       "sortOrder": 4
     },
     {
@@ -53,13 +53,6 @@
       "title": "Additional Information",
       "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life- threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
       "sortOrder": 5
-    },
-    {
-      "id": "cyanide-management-basic-2",
-      "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Vital Sign Survey\n- Secondary Survey\n- Contact poisons information/toxicologist on 131126\n- Have a low threshold for calling on-call doctor for all cases",
-      "sortOrder": 6
     }
   ],
   "relatedMedicationIDs": [
@@ -68,6 +61,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }

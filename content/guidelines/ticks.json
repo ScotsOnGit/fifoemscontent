@@ -28,14 +28,14 @@
       "id": "ticks-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Tweezers and/or solvents of any kind should never be used to remove a tick. Allergic reactions are more likely to occur if the tick is disturbed by trying to remove it with tweezers or applying methylated spirits or kerosene, as this causes the tick to inject more allergen containing saliva\n- If signs and symptoms of rickettsial infection, fever, headache, and a characteristic rash, often accompanied by an eschar (a small, black sore) at the bite site do not disturb the tick(s)\n- Tick paralysis requires that the tick be attached for 4 to 5 days and is therefore rare; it takes a few days to manifest, presenting as an ascending paralysis, initially with leg weakness and an unsteady gait",
+      "content": "- Disturbing a tick can trigger further allergen release and can precipitate anaphylaxis, including in people without a prior history of tick allergy\n- Do not apply methylated spirits, kerosene, petroleum jelly, or other irritants to the tick\n- If there are symptoms suggestive of rickettsial infection such as fever, headache, rash, or eschar, arrange medical review\n- Tick paralysis is uncommon but should be considered if progressive weakness, ataxia, or cranial nerve symptoms develop",
       "sortOrder": 2
     },
     {
       "id": "ticks-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Keep patient at rest and prevent movement\n\n**Management of sting:**\n  - if no history of allergy, remove immediately (Tick Removal Skill)\n  - If known allergy, tick must remain in place to prevent further envenomation occurring on removal. The hospital will kill the tick in position prior to removal\n  - Conduct Vital Sign Survey\n  - Observe patient closely for signs of anaphylaxis; if identified, treat accordingly\n  - Permethrin cream (used for scabies treatment) available on site can be used to remove tick, pour onto tick",
+      "content": "- Primary Survey\n- Keep patient at rest and observe closely for anaphylaxis\n- Conduct Vital Sign Survey\n- If signs of anaphylaxis develop, treat immediately as per anaphylaxis guideline\n- For small ticks (larvae or nymphs), apply permethrin cream if available\n- For adult ticks, freeze the tick in place with an ether-containing freezing spray if available and allow it to drop off\n- Avoid freezing sprays and permethrin near the eyes, genitals, or ear canal; seek medical assistance for these sites\n- If the patient has known tick anaphylaxis, or if safe in-situ killing/removal is not possible, arrange urgent medical assessment rather than forcibly removing the tick\n- If remote and professional help is unavailable, and there is no history of tick anaphylaxis, careful removal with very fine forceps close to the skin may be a last resort",
       "sortOrder": 3
     },
     {
@@ -49,13 +49,13 @@
       "id": "ticks-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- There is no current evidence that Australian tick bites can cause Lyme Disease-like syndromes\n- If the patient is asymptomatic 20 mins after tick removal, then advise patient to re- present or seek medical advice if condition changes 22 MEDICAL",
+      "content": "- There is no accepted evidence that Australian tick bites cause Lyme disease acquired in Australia\n- Advise review if fever, rash, eschar, progressive weakness, or allergic symptoms develop after the bite",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-13T00:00:00Z"
 }
