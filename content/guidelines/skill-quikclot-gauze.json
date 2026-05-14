@@ -29,14 +29,14 @@
       "id": "skill-qc-procedure",
       "type": "management_advanced",
       "title": "Procedure (Wound Packing)",
-      "content": "1. Identify wound and control gross haemorrhage with initial direct pressure\n\n2. Remove packaging; identify the radiopaque marker strip (ensures visibility on X-ray)\n\n3. If possible, identify the bleeding point within the wound\n\n4. Pack gauze directly into wound, starting at the point of haemorrhage — not superficially\n\n5. Use your fingers to pack as deeply as possible, layering gauze into the wound\n\n6. Continue packing until wound is fully filled\n\n7. Apply firm direct pressure over the packed wound for minimum 3 minutes\n\n8. If bleeding persists through packing: add more gauze on top; do not remove initial gauze\n\n9. Apply pressure bandage over packed wound to maintain compression",
+      "content": "1. Identify wound and control gross haemorrhage with initial direct pressure\n\n2. Remove packaging; identify the radiopaque marker strip (ensures visibility on X-ray)\n\n3. If possible, identify the bleeding point within the wound\n\n4. Pack gauze directly into wound, starting at the point of haemorrhage - not superficially\n\n5. Use your fingers to pack as deeply as possible, layering gauze into the wound\n\n6. Continue packing until wound is fully filled\n\n7. Apply firm direct pressure over the packed wound for minimum 3 minutes\n\n8. If bleeding persists through packing: add more gauze on top; do not remove initial gauze\n\n9. Apply pressure bandage over packed wound to maintain compression",
       "sortOrder": 1
     },
     {
       "id": "skill-qc-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Superficial packing does not work — gauze must reach the bleeding source\n- 3 minutes of direct pressure minimum — inform the patient and maintain counting\n- Leave packing in situ for hospital removal\n- Document: wound site, number of gauze pads used, duration of pressure, bleeding control achieved",
+      "content": "- Superficial packing does not work - gauze must reach the bleeding source\n- 3 minutes of direct pressure minimum - inform the patient and maintain counting\n- Leave packing in situ for hospital removal\n- Document: wound site, number of gauze pads used, duration of pressure, bleeding control achieved",
       "sortOrder": 2
     }
   ],
@@ -52,6 +52,6 @@
     "revised-trauma-score"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

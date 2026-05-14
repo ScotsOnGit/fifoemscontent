@@ -27,14 +27,14 @@
       "id": "skill-pit-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Indications:** Suspected elapid snake bite; funnel-web spider bite\n**Not indicated:** Red-back spider, marine envenomation, bee/wasp stings, or if bite site is torso/face/neck\n\n1. Keep patient calm and still — movement accelerates venom absorption\n\n2. Apply firm crepe bandage directly over bite site (do not remove clothing; cut away if necessary)\n\n3. Extend bandage as far up the limb as possible (entire limb)\n\n4. Bandage should be firm (similar to a sprain bandage) — you should not be able to slide a finger under it easily, but it should not cause pain or impair arterial flow\n\n5. Immobilise the limb with a splint or sling (rigid immobilisation is critical)\n\n6. Keep patient supine and do not allow walking\n\n7. Do NOT: wash the bite site (venom identification), cut or suck the wound, apply tourniquet",
+      "content": "**Indications:** Suspected elapid snake bite; funnel-web spider bite\n**Not indicated:** Red-back spider, marine envenomation, bee/wasp stings, or if bite site is torso/face/neck\n\n1. Keep patient calm and still - movement accelerates venom absorption\n\n2. Apply firm crepe bandage directly over bite site (do not remove clothing; cut away if necessary)\n\n3. Extend bandage as far up the limb as possible (entire limb)\n\n4. Bandage should be firm (similar to a sprain bandage) - you should not be able to slide a finger under it easily, but it should not cause pain or impair arterial flow\n\n5. Immobilise the limb with a splint or sling (rigid immobilisation is critical)\n\n6. Keep patient supine and do not allow walking\n\n7. Do NOT: wash the bite site (venom identification), cut or suck the wound, apply tourniquet",
       "sortOrder": 1
     },
     {
       "id": "skill-pit-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not remove bandages until patient is in a hospital with antivenom and resuscitation facilities\n- Mark the bite site on the bandage with a pen\n- Venom swab from bite site can be used for identification kit — do not wash\n- Transport supine with limb elevated if tolerated",
+      "content": "- Do not remove bandages until patient is in a hospital with antivenom and resuscitation facilities\n- Mark the bite site on the bandage with a pen\n- Venom swab from bite site can be used for identification kit - do not wash\n- Transport supine with limb elevated if tolerated",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

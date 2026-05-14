@@ -31,21 +31,21 @@
       "id": "skill-ecg-limb-leads",
       "type": "management_basic",
       "title": "Electrode Placement",
-      "content": "**Limb Leads (4 electrodes)**\n- RA (Right Arm): right wrist or right shoulder/upper arm\n- LA (Left Arm): left wrist or left shoulder/upper arm\n- RL (Right Leg): right ankle or right lower abdomen / hip\n- LL (Left Leg): left ankle or left lower abdomen / hip\n\n**Precordial Leads (6 electrodes) — 12-Lead**\n- V1: 4th ICS, right sternal border\n- V2: 4th ICS, left sternal border\n- V3: Between V2 and V4\n- V4: 5th ICS, mid-clavicular line\n- V5: Anterior axillary line, horizontal to V4\n- V6: Mid-axillary line, horizontal to V4 and V5\n\n**Right-Sided Leads (RV infarct screening)**\n- V3R–V6R: Mirror image of left precordial leads on right chest\n- Indicated when: inferior STEMI (II, III, aVF elevation), bradycardia, hypotension\n\n**Posterior Leads (posterior STEMI)**\n- V7: Posterior axillary line\n- V8: Tip of left scapula\n- V9: Left paraspinal region\n- Indicated when: ST depression in V1–V3 (may represent posterior STEMI)\n\n**MCL1 (Modified Chest Lead 1 — continuous monitoring)**\n- Positive electrode: 4th ICS, right sternal border (V1 position)\n- Negative electrode: left shoulder / outer left clavicle\n- Ground electrode: right shoulder / outer right clavicle\n- Use: single-lead continuous rhythm monitoring when a full 12-lead is not in place; resembles V1 and is optimal for P wave identification, bundle branch block morphology, and differentiating supraventricular from ventricular rhythms",
+      "content": "**Limb Leads (4 electrodes)**\n- RA (Right Arm): right wrist or right shoulder/upper arm\n- LA (Left Arm): left wrist or left shoulder/upper arm\n- RL (Right Leg): right ankle or right lower abdomen / hip\n- LL (Left Leg): left ankle or left lower abdomen / hip\n\n**Precordial Leads (6 electrodes) - 12-Lead**\n- V1: 4th ICS, right sternal border\n- V2: 4th ICS, left sternal border\n- V3: Between V2 and V4\n- V4: 5th ICS, mid-clavicular line\n- V5: Anterior axillary line, horizontal to V4\n- V6: Mid-axillary line, horizontal to V4 and V5\n\n**Right-Sided Leads (RV infarct screening)**\n- V3R–V6R: Mirror image of left precordial leads on right chest\n- Indicated when: inferior STEMI (II, III, aVF elevation), bradycardia, hypotension\n\n**Posterior Leads (posterior STEMI)**\n- V7: Posterior axillary line\n- V8: Tip of left scapula\n- V9: Left paraspinal region\n- Indicated when: ST depression in V1–V3 (may represent posterior STEMI)\n\n**MCL1 (Modified Chest Lead 1 - continuous monitoring)**\n- Positive electrode: 4th ICS, right sternal border (V1 position)\n- Negative electrode: left shoulder / outer left clavicle\n- Ground electrode: right shoulder / outer right clavicle\n- Use: single-lead continuous rhythm monitoring when a full 12-lead is not in place; resembles V1 and is optimal for P wave identification, bundle branch block morphology, and differentiating supraventricular from ventricular rhythms",
       "sortOrder": 1
     },
     {
       "id": "skill-ecg-acquisition",
       "type": "management_advanced",
       "title": "Acquisition & Troubleshooting",
-      "content": "**For quality 12-lead:**\n1. Prepare skin: clip chest hair if necessary; dry skin; use abrasive pad if poor contact\n2. Apply electrodes to correct anatomical positions\n3. Ensure patient is still and warm — shivering causes artefact\n4. Enter patient demographics before acquisition if time permits\n5. Acquire tracing; assess quality before transmitting or printing\n6. Record time of acquisition\n\n**Artefact Sources:**\n- Patient movement or shivering: muscle/motion artefact — baseline wander\n- Loose electrode or poor contact: wandering baseline, flat line on one lead\n- Electrical interference (60 Hz): regular fine oscillations\n- Reversed limb leads: inverted P waves and QRS in Lead I; check aVR\n\n**STEMI Criteria (for cath lab activation):**\n- ST elevation ≥ 1 mm in ≥ 2 contiguous limb leads\n- ST elevation ≥ 2 mm in ≥ 2 contiguous precordial leads (V1–V4)\n- New LBBB with clinical presentation consistent with ACS\n- Posterior changes: ST depression V1–V3 + tall R waves (posterior STEMI)",
+      "content": "**For quality 12-lead:**\n1. Prepare skin: clip chest hair if necessary; dry skin; use abrasive pad if poor contact\n2. Apply electrodes to correct anatomical positions\n3. Ensure patient is still and warm - shivering causes artefact\n4. Enter patient demographics before acquisition if time permits\n5. Acquire tracing; assess quality before transmitting or printing\n6. Record time of acquisition\n\n**Artefact Sources:**\n- Patient movement or shivering: muscle/motion artefact - baseline wander\n- Loose electrode or poor contact: wandering baseline, flat line on one lead\n- Electrical interference (60 Hz): regular fine oscillations\n- Reversed limb leads: inverted P waves and QRS in Lead I; check aVR\n\n**STEMI Criteria (for cath lab activation):**\n- ST elevation ≥ 1 mm in ≥ 2 contiguous limb leads\n- ST elevation ≥ 2 mm in ≥ 2 contiguous precordial leads (V1–V4)\n- New LBBB with clinical presentation consistent with ACS\n- Posterior changes: ST depression V1–V3 + tall R waves (posterior STEMI)",
       "sortOrder": 2
     },
     {
       "id": "skill-ecg-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- A 12-lead ECG should be acquired and transmitted within 10 minutes of patient contact in suspected ACS\n- Electrode placement errors are the most common cause of diagnostic inaccuracy\n- Always print or transmit with patient ID, time, and clinical context\n- Serial ECGs are essential — initial ECG may be normal in evolving STEMI\n- Reciprocal changes (ST depression in opposite leads) increase diagnostic confidence for STEMI",
+      "content": "- A 12-lead ECG should be acquired and transmitted within 10 minutes of patient contact in suspected ACS\n- Electrode placement errors are the most common cause of diagnostic inaccuracy\n- Always print or transmit with patient ID, time, and clinical context\n- Serial ECGs are essential - initial ECG may be normal in evolving STEMI\n- Reciprocal changes (ST depression in opposite leads) increase diagnostic confidence for STEMI",
       "sortOrder": 3
     }
   ],
@@ -58,6 +58,6 @@
     "sgarbossa-criteria"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

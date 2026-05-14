@@ -27,7 +27,7 @@
       "id": "skill-ft-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "**Indications:** Suspected tension pneumothorax in a patient who is intubated, unconscious, or needle decompression has failed\n\n1. Identify insertion site: 4th or 5th ICS, anterior axillary line (same as chest drain site)\n\n2. Prepare: gloves, scalpel (10 blade), curved haemostat\n\n3. Make a 2–3 cm incision through skin and subcutaneous tissue directly over the superior aspect of the rib (avoid neurovascular bundle inferior to rib)\n\n4. Use curved haemostat to blunt-dissect through intercostal muscles into the pleural space\n\n5. A rush of air confirms correct placement and diagnosis\n\n6. Insert finger to confirm pleural space entry and sweep to clear clot or tissue\n\n7. Do not close — leave open; cover with non-occlusive dressing for transport\n\n8. Proceed to formal chest drain insertion at hospital",
+      "content": "**Indications:** Suspected tension pneumothorax in a patient who is intubated, unconscious, or needle decompression has failed\n\n1. Identify insertion site: 4th or 5th ICS, anterior axillary line (same as chest drain site)\n\n2. Prepare: gloves, scalpel (10 blade), curved haemostat\n\n3. Make a 2–3 cm incision through skin and subcutaneous tissue directly over the superior aspect of the rib (avoid neurovascular bundle inferior to rib)\n\n4. Use curved haemostat to blunt-dissect through intercostal muscles into the pleural space\n\n5. A rush of air confirms correct placement and diagnosis\n\n6. Insert finger to confirm pleural space entry and sweep to clear clot or tissue\n\n7. Do not close - leave open; cover with non-occlusive dressing for transport\n\n8. Proceed to formal chest drain insertion at hospital",
       "sortOrder": 1
     },
     {
@@ -49,6 +49,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

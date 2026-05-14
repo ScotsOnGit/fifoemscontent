@@ -3,9 +3,11 @@
   "title": "Hypovolaemic Shock",
   "category": "shock",
   "tags": [
-    "hypovolaemic",
+    "hypovolaemia",
     "shock",
-    "haemodynamic"
+    "haemorrhage",
+    "dehydration",
+    "resuscitation"
   ],
   "synonyms": [
     "Hypovolaemic Shock"
@@ -15,60 +17,52 @@
       "id": "hypovolaemic-shock-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Hypovolaemic shock is a life-threatening condition resulting from a significant reduction in circulating blood volume, leading to inadequate tissue perfusion and oxygen delivery.\nIt is most commonly caused by acute blood loss but can also result from severe fluid losses due to burns, vomiting, diarrhoea, or third-space fluid shifts. Early detection is imperative.",
+      "content": "Hypovolaemic shock is life-threatening circulatory failure caused by reduced intravascular volume. It is most commonly due to haemorrhage but may also follow major fluid loss from burns, vomiting, diarrhoea, or third-space losses. Early recognition and cause-directed treatment are critical.",
       "sortOrder": 0
     },
     {
       "id": "hypovolaemic-shock-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Early (Compensated)\n- Tachycardia\n- Tachypnoea\n- Pale, cool, or clammy skin\n- Weak or thready pulse\n- Mild hypotension (may be absent initially)\n- Delayed capillary refill (>2 seconds)\n- Anxiety or confusion (especially in the elderly or children)\n- Late (Decompensated)\n- Marked hypotension (systolic BP <90 mmHg or >30% below baseline)\n- Altered mental status (lethargy, confusion, unconsciousness)\n- Oliguria or anuria\n- Profound pallor\n- Peripheral cyanosis\n- Marked tachycardia or bradycardia (terminal stages)\n- Metabolic acidosis (elevated lactate, base deficit)",
+      "content": "- Tachycardia, tachypnoea, cool peripheries, weak pulse, pallor, or delayed capillary refill\n- Altered mental state, anxiety, or reduced conscious level\n- Hypotension is a late and concerning sign\n- Reduced urine output may be present if known\n- In trauma, assume occult haemorrhage until proven otherwise",
       "sortOrder": 1
     },
     {
       "id": "hypovolaemic-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Level of consciousness is a good indicator of cerebral perfusion\n- Hypotension is a late sign of shock\n- Beta blockers blunt cardiovascular responses to hypovolaemia\n- Aggressive fluid management may dislodge clots from micro circulation\n- In non-traumatic hypovolaemic shock (e.g., dehydration), aggressive fluid resuscitation is indicated (e.g., 60 mL/kg in the first 15 minutes in severe cases)\n- Minimise on scene time as much as is practical with ongoing management undertaken during transport\n- Remember: Blood pressure and heart rate may not always reflect the severity of shock, especially in young or fit individuals, with hypotension being a late sign\n- Fluid loss can be from excessive diaphoresis (heat related), diabetic ketoacidosis, burns, pancreatitis, sepsis, anaphylaxis (third spacing)",
+      "content": "- Shock severity cannot be judged by blood pressure alone\n- Young, fit, pregnant, medicated, or elderly patients may compensate differently\n- Haemorrhagic and non-haemorrhagic hypovolaemia are not managed identically\n- Minimise scene time in time-critical cases and continue management during transport where feasible\n- Prevent hypothermia and address the underlying cause early",
       "sortOrder": 2
     },
     {
       "id": "hypovolaemic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Stem any life-threatening bleeding, consider CT tourniquet where appropriate\n- Primary Survey\n- Position patient appropriately, supine with raised legs, elevate affected area where possible\n- Consider Oxygen\n- Vital Sign Survey\n- Secondary Survey\n- Consider “triad of death” (hypothermia + acidosis + coagulopathy) and keep patient warm\n- Be prepared for deterioration and possible cardiac arrest",
+      "content": "- Control life-threatening external bleeding immediately\n- Perform primary survey and frequent reassessment\n- Position the patient according to injury pattern, airway needs, and tolerance rather than automatically elevating the legs\n- Keep the patient warm and minimise further heat loss\n- Give oxygen only when clinically indicated\n- Expedite access to definitive care when the patient is time critical",
       "sortOrder": 3
     },
     {
       "id": "hypovolaemic-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway where required\n- Establish IV vascular access, 2 x large bore\n- Consider blood draw (lactate)\n- Consider fluid therapy, targeting 90mmHg (haemorrhagic shock), 110mmHg for head injury\n- Administer pain relief as soon as practicable\n- Consider antiemetic\n- Transport Priority 1 to hospital if patient time critical AND the time taken to arrive would be quicker than calling and transporting via RFDS, pre-notifying receiving facility",
+      "content": "- Obtain vascular access when it can be done without delaying more important interventions\n- Use fluid therapy judiciously according to the likely cause, the patient response, and any competing priorities such as traumatic brain injury\n- Consider point-of-care testing where available and useful, but do not delay treatment for it\n- Provide analgesia and antiemetic therapy as appropriate within the broader resuscitation plan\n- Pre-notify the receiving service for time-critical shock or major haemorrhage",
       "sortOrder": 4
     },
     {
-      "id": "hypovolaemic-shock-additional-notes",
+      "id": "hypovolaemic-shock-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Monitoring urine output is important\n- Hypovolaemic shock is a medical emergency requiring rapid recognition and intervention. Early control of bleeding, judicious fluid resuscitation, and prompt transfer to definitive care are essential for optimal outcomes\n**Detrimental effects of hypovolaemia:**\n  - Oliguria à Acute renal failure\n  - Cerebral Ischemia à confusion à decreased LOC à infarction\n  - Myocardial ischemia à cardiogenic shock à heart failure\n  - Gastrointestinal ischemia, hepatic failure, limb ischemia or lactic acidosis",
+      "content": "- In traumatic haemorrhagic shock, early haemorrhage control and rapid transfer are often more important than large-volume crystalloid administration\n- In non-haemorrhagic fluid loss, more liberal fluid replacement may be appropriate depending on the clinical context",
       "sortOrder": 5
     }
   ],
-  "relatedMedicationIDs": [
-    "fibrinogen",
-    "hartmanns-solution",
-    "intravenous-normal-saline",
-    "oxygen",
-    "packed-red-blood-cells",
-    "tranexamic-acid"
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "haemorrhage",
+    "burns",
+    "gastroenteritis"
   ],
-  "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "news2",
-    "revised-trauma-score",
-    "batt-score"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

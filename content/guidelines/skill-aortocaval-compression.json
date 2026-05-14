@@ -20,14 +20,14 @@
       "id": "skill-acc-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "In the supine position, the gravid uterus (> 20 weeks gestation) can compress the inferior vena cava (IVC) and aorta, reducing venous return and cardiac output by up to 30%. This causes supine hypotension syndrome — maternal hypotension, faintness, and foetal compromise. Left lateral displacement or tilt relieves compression.",
+      "content": "In the supine position, the gravid uterus (> 20 weeks gestation) can compress the inferior vena cava (IVC) and aorta, reducing venous return and cardiac output by up to 30%. This causes supine hypotension syndrome - maternal hypotension, faintness, and foetal compromise. Left lateral displacement or tilt relieves compression.",
       "sortOrder": 0
     },
     {
       "id": "skill-acc-procedure",
       "type": "management_basic",
       "title": "Techniques",
-      "content": "**Conscious patient:**\n- Position in full left lateral position for transport\n- If supine required (resuscitation): apply left lateral tilt\n\n**Left lateral tilt for supine patient (e.g. CPR, trauma):**\n\nMethod 1 — Manual displacement:\n- Assistant stands beside patient and manually displaces uterus to the left (preferred during CPR — maintains flat surface for compressions)\n\nMethod 2 — Wedge/tilt:\n- Place wedge (foam, rolled blanket, equipment bag) under right hip/lower back to tilt patient 15–30° to the left\n- Ensures left lateral displacement of uterus\n\n**During CPR:**\n- Manual left uterine displacement by a dedicated rescuer is preferred over tilting the patient — maintains firm surface for compressions",
+      "content": "**Conscious patient:**\n- Position in full left lateral position for transport\n- If supine required (resuscitation): apply left lateral tilt\n\n**Left lateral tilt for supine patient (e.g. CPR, trauma):**\n\nMethod 1 - Manual displacement:\n- Assistant stands beside patient and manually displaces uterus to the left (preferred during CPR - maintains flat surface for compressions)\n\nMethod 2 - Wedge/tilt:\n- Place wedge (foam, rolled blanket, equipment bag) under right hip/lower back to tilt patient 15–30° to the left\n- Ensures left lateral displacement of uterus\n\n**During CPR:**\n- Manual left uterine displacement by a dedicated rescuer is preferred over tilting the patient - maintains firm surface for compressions",
       "sortOrder": 1
     },
     {
@@ -51,6 +51,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

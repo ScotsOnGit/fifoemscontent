@@ -27,14 +27,14 @@
       "id": "skill-ej-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "1. Position patient supine (or Trendelenburg 15°) — distends EJ vein\n\n2. Turn patient's head away from insertion site\n\n3. Identify EJ vein: runs from angle of jaw to clavicle midpoint\n\n4. Apply gentle finger occlusion just above the clavicle to distend the vein\n\n5. Clean skin with alcohol swab\n\n6. Insert cannula (14–16G preferred) bevel up, aimed toward ipsilateral shoulder, at 15–30°\n\n7. Advance on flashback; thread cannula; release occlusion\n\n8. Connect and flush; secure firmly (EJ cannulae dislodge easily with head movement)\n\n9. Note: position may affect flow — flush during patient movement",
+      "content": "1. Position patient supine (or Trendelenburg 15°) - distends EJ vein\n\n2. Turn patient's head away from insertion site\n\n3. Identify EJ vein: runs from angle of jaw to clavicle midpoint\n\n4. Apply gentle finger occlusion just above the clavicle to distend the vein\n\n5. Clean skin with alcohol swab\n\n6. Insert cannula (14–16G preferred) bevel up, aimed toward ipsilateral shoulder, at 15–30°\n\n7. Advance on flashback; thread cannula; release occlusion\n\n8. Connect and flush; secure firmly (EJ cannulae dislodge easily with head movement)\n\n9. Note: position may affect flow - flush during patient movement",
       "sortOrder": 1
     },
     {
       "id": "skill-ej-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Line may kink when patient turns head — acceptable for short-term access\n- Intraosseous access is preferred over EJ when rapid high-flow resuscitation is needed\n- Caution in suspected cervical spine injury — limit neck manipulation\n- May not be accessible with cervical collar in place",
+      "content": "- Line may kink when patient turns head - acceptable for short-term access\n- Intraosseous access is preferred over EJ when rapid high-flow resuscitation is needed\n- Caution in suspected cervical spine injury - limit neck manipulation\n- May not be accessible with cervical collar in place",
       "sortOrder": 2
     }
   ],
@@ -45,6 +45,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

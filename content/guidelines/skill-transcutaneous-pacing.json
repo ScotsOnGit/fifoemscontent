@@ -28,14 +28,14 @@
       "id": "skill-tcp-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "**Indications:** Haemodynamically unstable bradycardia, complete heart block, atropine-refractory symptomatic bradycardia\n\n1. Apply pacing pads: anterior — left precordium (V3–V4 position); posterior — left infrascapular region\n\n2. Connect to defibrillator/pacing unit in pacing mode\n\n3. Set rate: 60–80 bpm (or higher per clinical need)\n\n4. Start output at minimum (0 mA); increase in 5–10 mA increments\n\n5. Identify electrical capture: pacing spike followed by broad QRS on monitor\n\n6. Confirm mechanical capture: palpate femoral pulse coinciding with each QRS (radial pulse unreliable due to artefact)\n\n7. Set output at 10% above capture threshold\n\n8. Provide analgesia/sedation — pacing is painful (muscle contractions at 50–90 mA typical)",
+      "content": "**Indications:** Haemodynamically unstable bradycardia, complete heart block, atropine-refractory symptomatic bradycardia\n\n1. Apply pacing pads: anterior - left precordium (V3–V4 position); posterior - left infrascapular region\n\n2. Connect to defibrillator/pacing unit in pacing mode\n\n3. Set rate: 60–80 bpm (or higher per clinical need)\n\n4. Start output at minimum (0 mA); increase in 5–10 mA increments\n\n5. Identify electrical capture: pacing spike followed by broad QRS on monitor\n\n6. Confirm mechanical capture: palpate femoral pulse coinciding with each QRS (radial pulse unreliable due to artefact)\n\n7. Set output at 10% above capture threshold\n\n8. Provide analgesia/sedation - pacing is painful (muscle contractions at 50–90 mA typical)",
       "sortOrder": 1
     },
     {
       "id": "skill-tcp-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Electrical capture without mechanical capture = pseudo-capture — always confirm by palpating femoral pulse\n- Sedate/analgese patient if conscious — consider ketamine or midazolam per protocol\n- Concurrent pharmacological therapy (atropine, adrenaline infusion) may be needed\n- Capture threshold typically 50–100 mA",
+      "content": "- Electrical capture without mechanical capture = pseudo-capture - always confirm by palpating femoral pulse\n- Sedate/analgese patient if conscious - consider ketamine or midazolam per protocol\n- Concurrent pharmacological therapy (atropine, adrenaline infusion) may be needed\n- Capture threshold typically 50–100 mA",
       "sortOrder": 2
     }
   ],
@@ -53,6 +53,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

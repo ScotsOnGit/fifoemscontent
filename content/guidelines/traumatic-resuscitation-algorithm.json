@@ -3,44 +3,59 @@
   "title": "Traumatic Resuscitation Algorithm",
   "category": "resuscitation",
   "tags": [
-    "traumatic",
+    "trauma",
     "resuscitation",
-    "algorithm",
-    "CPR",
-    "cardiac arrest"
+    "traumatic arrest",
+    "algorithm"
   ],
   "synonyms": [
-    "Traumatic Resuscitation Algorithm"
+    "Traumatic Resuscitation Algorithm",
+    "Traumatic Cardiac Arrest"
   ],
   "sections": [
     {
-      "id": "traumatic-resuscitation-algorithm-overview",
+      "id": "traumatic-resus-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Refer to the Traumatic Resuscitation Algorithm chart in the MRL Clinical Practice Guidelines Manual.",
+      "content": "Traumatic cardiac arrest and peri-arrest states require immediate correction of reversible causes while performing resuscitation. Management priorities differ from medical cardiac arrest and focus on catastrophic haemorrhage control, oxygenation and ventilation, tension pneumothorax relief, pelvic stabilisation where indicated, and rapid access to definitive trauma care.",
       "sortOrder": 0
+    },
+    {
+      "id": "traumatic-resus-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Assume a reversible cause until proven otherwise\n- Chest compressions alone will not correct exsanguination, tension physiology, or obstructed ventilation\n- Interventions should be directed at likely traumatic causes of arrest such as haemorrhage, hypoxia, tension pneumothorax, or tamponade\n- Follow the current traumatic resuscitation algorithm used by your service for sequencing of interventions",
+      "sortOrder": 1
+    },
+    {
+      "id": "traumatic-resus-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Control catastrophic external haemorrhage immediately\n- Manage airway and provide oxygenation or ventilation as required\n- Consider chest injury, pelvic injury, and mechanism when prioritising interventions\n- Apply pelvic binder, direct pressure, tourniquet, or haemostatic measures where indicated\n- Coordinate urgent transport to definitive trauma care when feasible and appropriate",
+      "sortOrder": 2
+    },
+    {
+      "id": "traumatic-resus-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Perform advanced trauma interventions within scope and protocol, such as thoracic decompression, blood product therapy, or advanced airway management, when indicated\n- Prioritise treatment of reversible traumatic causes over routine cardiac-arrest algorithms alone\n- Engage retrieval or trauma services early when prolonged transport or definitive intervention is likely to be required",
+      "sortOrder": 3
+    },
+    {
+      "id": "traumatic-resus-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- This guideline should be read together with your local traumatic resuscitation chart and related trauma guidelines such as haemorrhage, pneumothorax, and pelvic injury",
+      "sortOrder": 4
     }
   ],
-  "relatedMedicationIDs": [
-    "adrenaline-epinephrine",
-    "fibrinogen",
-    "hartmanns-solution",
-    "intravenous-normal-saline",
-    "oxygen",
-    "packed-red-blood-cells",
-    "tranexamic-acid"
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "haemorrhage",
+    "pneumothorax",
+    "pelvic-injury"
   ],
-  "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "revised-trauma-score",
-    "mgap",
-    "gap",
-    "crams",
-    "batt-score",
-    "gcs",
-    "avpu"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

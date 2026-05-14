@@ -28,7 +28,7 @@
       "id": "skill-cpr-adult",
       "type": "management_basic",
       "title": "Adult Technique",
-      "content": "**Position:**\n\n1. Patient supine on firm surface\n\n2. Kneel beside patient at chest level\n\n3. Place heel of hand on lower half of sternum (centre of chest)\n\n4. Place second hand on top; interlace fingers; keep fingers off chest\n\n**Compressions:**\n\n- Depth: 5–6 cm\n- Rate: 100–120/min\n- Full chest recoil between compressions — do not lean\n- Compression:ventilation ratio: 30:2 (BLS); continuous compressions with 1 breath/6 sec (advanced airway)\n- Minimise interruptions — pause < 5 seconds for any intervention",
+      "content": "**Position:**\n\n1. Patient supine on firm surface\n\n2. Kneel beside patient at chest level\n\n3. Place heel of hand on lower half of sternum (centre of chest)\n\n4. Place second hand on top; interlace fingers; keep fingers off chest\n\n**Compressions:**\n\n- Depth: 5–6 cm\n- Rate: 100–120/min\n- Full chest recoil between compressions - do not lean\n- Compression:ventilation ratio: 30:2 (BLS); continuous compressions with 1 breath/6 sec (advanced airway)\n- Minimise interruptions - pause < 5 seconds for any intervention",
       "sortOrder": 1
     },
     {
@@ -60,6 +60,6 @@
     "gcs"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

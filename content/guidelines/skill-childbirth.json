@@ -35,21 +35,21 @@
       "id": "skill-childbirth-procedure",
       "type": "management_basic",
       "title": "Delivery Procedure",
-      "content": "1. Position mother semi-recumbent or left lateral; maintain privacy\n\n2. Prepare: gloves, sterile drapes, cord clamps (×2), scissors, bulb syringe, warm blanket for neonate, oxytocin\n\n3. As head crowns: apply gentle counter-pressure (do not forcibly hold back) with one hand to prevent explosive delivery\n\n4. Support head as it delivers — typically face down, then rotates\n\n5. Check for nuchal cord: feel for cord around neck; if present: slip loop over head or double-clamp and cut if tight\n\n6. Support head downward to deliver anterior shoulder; then upward for posterior shoulder\n\n7. Support body as it delivers; hold securely (neonates are slippery)\n\n8. Note time of delivery\n\n9. Place baby on mother's abdomen, dry thoroughly with warm towel, skin-to-skin\n\n10. Clamp cord at 2 cm and 5 cm from neonatal umbilicus; cut between clamps (delay clamping 1–3 min if baby is vigorous)\n\n11. Administer oxytocin per protocol after placental delivery\n\n12. Deliver placenta with gentle controlled cord traction once signs of separation (cord lengthens, uterus firms)",
+      "content": "1. Position mother semi-recumbent or left lateral; maintain privacy\n\n2. Prepare: gloves, sterile drapes, cord clamps (×2), scissors, bulb syringe, warm blanket for neonate, oxytocin\n\n3. As head crowns: apply gentle counter-pressure (do not forcibly hold back) with one hand to prevent explosive delivery\n\n4. Support head as it delivers - typically face down, then rotates\n\n5. Check for nuchal cord: feel for cord around neck; if present: slip loop over head or double-clamp and cut if tight\n\n6. Support head downward to deliver anterior shoulder; then upward for posterior shoulder\n\n7. Support body as it delivers; hold securely (neonates are slippery)\n\n8. Note time of delivery\n\n9. Place baby on mother's abdomen, dry thoroughly with warm towel, skin-to-skin\n\n10. Clamp cord at 2 cm and 5 cm from neonatal umbilicus; cut between clamps (delay clamping 1–3 min if baby is vigorous)\n\n11. Administer oxytocin per protocol after placental delivery\n\n12. Deliver placenta with gentle controlled cord traction once signs of separation (cord lengthens, uterus firms)",
       "sortOrder": 2
     },
     {
       "id": "skill-childbirth-neonate",
       "type": "management_basic",
       "title": "Neonatal Assessment (APGAR)",
-      "content": "**APGAR Score** (at 1 and 5 minutes):\n- Appearance (skin colour): 0 = blue/pale; 1 = blue extremities; 2 = pink\n- Pulse: 0 = absent; 1 = < 100; 2 = ≥ 100\n- Grimace (reflex): 0 = none; 1 = grimace; 2 = cry/cough\n- Activity (muscle tone): 0 = limp; 1 = some flexion; 2 = active\n- Respiration: 0 = absent; 1 = irregular; 2 = strong cry\n\n**Score 7–10:** Normal — routine care\n**Score 4–6:** Moderate depression — stimulate, supplemental O₂\n**Score 0–3:** Severe depression — begin neonatal resuscitation",
+      "content": "**APGAR Score** (at 1 and 5 minutes):\n- Appearance (skin colour): 0 = blue/pale; 1 = blue extremities; 2 = pink\n- Pulse: 0 = absent; 1 = < 100; 2 = ≥ 100\n- Grimace (reflex): 0 = none; 1 = grimace; 2 = cry/cough\n- Activity (muscle tone): 0 = limp; 1 = some flexion; 2 = active\n- Respiration: 0 = absent; 1 = irregular; 2 = strong cry\n\n**Score 7–10:** Normal - routine care\n**Score 4–6:** Moderate depression - stimulate, supplemental O₂\n**Score 0–3:** Severe depression - begin neonatal resuscitation",
       "sortOrder": 3
     },
     {
       "id": "skill-childbirth-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not pull on the head — guide, do not force\n- If placenta does not deliver within 30 minutes: transport without waiting\n- Estimate blood loss accurately — > 500 mL PPH\n- Keep baby warm — hypothermia is a major risk for neonates\n- Document: time of delivery, APGAR scores, cord clamping time, complications",
+      "content": "- Do not pull on the head - guide, do not force\n- If placenta does not deliver within 30 minutes: transport without waiting\n- Estimate blood loss accurately - > 500 mL PPH\n- Keep baby warm - hypothermia is a major risk for neonates\n- Document: time of delivery, APGAR scores, cord clamping time, complications",
       "sortOrder": 4
     }
   ],
@@ -66,6 +66,6 @@
     "paed-vitals"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

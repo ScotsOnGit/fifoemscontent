@@ -3,28 +3,57 @@
   "title": "Hypothermic Cardiac Arrest",
   "category": "resuscitation",
   "tags": [
-    "hypothermic",
-    "cardiac",
-    "arrest",
-    "CPR",
+    "hypothermia",
     "cardiac arrest",
-    "resuscitation"
+    "resuscitation",
+    "rewarming"
   ],
   "synonyms": [
     "Hypothermic Cardiac Arrest"
   ],
   "sections": [
     {
-      "id": "hypothermic-cardiac-arrest-overview",
+      "id": "hypothermic-arrest-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Refer to the Hypothermic Cardiac Arrest chart in the MRL Clinical Practice Guidelines Manual.",
+      "content": "Hypothermic cardiac arrest is managed according to ANZCOR hypothermia and adult resuscitation guidance. Resuscitation priorities remain CPR, airway and oxygenation support, careful handling, prevention of further heat loss, and rapid access to definitive rewarming capability where appropriate.",
       "sortOrder": 0
+    },
+    {
+      "id": "hypothermic-arrest-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Severe hypothermia can mimic death, so continue careful assessment and manage according to established hypothermia and cardiac arrest principles\n- Handle the patient gently and minimise unnecessary movement\n- Temperature measurement and rhythm interpretation should be integrated with the whole clinical picture\n- Refer to the current ANZCOR hypothermia guidance and your local hypothermic cardiac arrest algorithm for detailed management steps",
+      "sortOrder": 1
+    },
+    {
+      "id": "hypothermic-arrest-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Start or continue CPR if cardiac arrest is confirmed\n- Protect the airway and provide oxygenation or ventilation as required\n- Prevent further heat loss with insulation and environmental control\n- Avoid rough handling and unnecessary pauses\n- Expedite access to definitive care capable of advanced rewarming",
+      "sortOrder": 2
+    },
+    {
+      "id": "hypothermic-arrest-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Advanced airway, vascular access, defibrillation strategy, and medication timing should follow the current hypothermic cardiac arrest algorithm and ANZCOR guidance\n- Use core temperature and the overall resuscitation context to guide ongoing decisions where available\n- Consider specialist retrieval early if extracorporeal or advanced rewarming pathways may be relevant",
+      "sortOrder": 3
+    },
+    {
+      "id": "hypothermic-arrest-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- This guideline should be read together with the hypothermia guideline and the current local hypothermic cardiac arrest chart",
+      "sortOrder": 4
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
+  "relatedGuidelineIDs": [
+    "hypothermia",
+    "adult-resuscitation"
+  ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

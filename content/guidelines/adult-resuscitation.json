@@ -3,74 +3,69 @@
   "title": "Adult Resuscitation",
   "category": "resuscitation",
   "tags": [
-    "adult",
+    "cardiac arrest",
     "resuscitation",
+    "ALS",
     "CPR",
-    "cardiac arrest"
+    "defibrillation"
   ],
   "synonyms": [
-    "Adult Resuscitation"
+    "Adult Resuscitation",
+    "Adult Cardiac Arrest"
   ],
   "sections": [
     {
       "id": "adult-resuscitation-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Cardiac arrest is a medical emergency that occurs when the heart suddenly stops beating effectively, leading to a cessation of blood flow to the brain and other vital organs. This condition can result in loss of consciousness and, if not treated immediately, can lead to death within minutes.\nA coordinated, well-rehearsed resuscitation attempt, with a team leader and all team members effectively delivering specific roles, will improve the effectiveness of CPR and the overall resuscitation.\nFour people with a minimum skillset of basic life support (BLS) and defibrillation should attend patients in cardiac arrest where possible. This should include at least one registered healthcare professional with advanced life support (ALS) competencies. One person with clinical decision making and leadership skills should form part of the team.\nSome members may not be part of the emergency response, for example, a first aider with CPR training.",
+      "content": "Adult cardiac arrest is a time-critical emergency. Management should follow current ANZCOR adult advanced life support principles, with immediate recognition, high-quality chest compressions, timely defibrillation when indicated, minimisation of interruptions, and active consideration of reversible causes.",
       "sortOrder": 0
     },
     {
       "id": "adult-resuscitation-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Unresponsive with no signs of life\n- Inadequate or no respirations\n- No palpable pulses\n- As soon as Cardiac Arrest is established, commence resuscitation. If in doubt, start resuscitative efforts until facts are established\n- If obvious death has occurred or injuries incompatible with life, cease resuscitation efforts",
+      "content": "- Unresponsive and not breathing normally\n- No signs of life\n- Agonal respirations may be present and should not be mistaken for effective breathing\n- If in doubt, begin resuscitation while the rhythm and situation are clarified unless obvious death or injuries incompatible with life are present",
       "sortOrder": 1
     },
     {
       "id": "adult-resuscitation-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Depending on the cause, ensure scene safety. Responder safety is paramount\n- Move patient if in confined space that prohibits initiation of rescue efforts\n- Take over compressions from bystanders on arrival\n- If you have no back up, stick to BLS. Do not compromise compressions, oxygenation and defibrillation for ALS skills\n- Interventions such as vascular access, medications or advanced airway management are not a priority and should only occur prior to the arrival of further clinicians if they do not interrupt high quality CPR\n- Once back up has arrived, work as a team, communicate well and establish a ‘hands- off’ overview position once advanced skills have been administered\n- Minimise interruptions in chest compressions\n- Pulse checks should be performed only when there is evidence of an organised rhythm\n\n- Pulse checks should be performed only when there is evidence of an organised rhythm\n- Early preparation for transport is de-emphasised in most cases, except where there are compelling circumstances",
+      "content": "- Responder safety comes first\n- High-quality CPR and defibrillation remain the core priorities\n- Advanced interventions must not create unnecessary interruptions in compressions\n- Pulse checks are only appropriate when an organised rhythm is present or when there are signs of ROSC\n- Team leadership, role allocation, and clear communication improve resuscitation quality",
       "sortOrder": 2
     },
     {
       "id": "adult-resuscitation-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey, especially danger checks\n- Apply defibrillator (Zoll X Series or Corpuls) and utilise manual mode if trained:\n  - 200J if using a biphasic defibrillator\n  - 360J if using a monophasic defibrillator\n- If using an AED, follow device prompts\n- Continue CPR at ratio of 30 compressions – 2 breaths\n- Assess rhythm every 2 minutes; defibrillate when indicated with minimal pause",
+      "content": "- Confirm cardiac arrest and call for appropriate help\n- Start chest compressions immediately and provide ventilations using the current recommended approach\n- Attach a defibrillator or AED as early as possible\n- Deliver shocks when indicated with minimal interruption to compressions\n- Continue two-minute CPR cycles with rhythm assessment and reassessment according to ANZCOR principles",
       "sortOrder": 3
     },
     {
-      "id": "adult-resuscitation-management-advanced-2",
+      "id": "adult-resuscitation-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- A supraglottic airway should be the first-line adjunct in most cases unless contraindicated\n  - Do not attempt endotracheal intubation where a supraglottic device is adequate\n- Without compromising high-performance CPR:\n  - Gain IV/IO access\n\n**Shockable rhythm (VF / Pulseless VT):**\n  - Adrenaline after the second shock, then every second loop\n  - Amiodarone after a total of 3 shocks (including pre-arrival AED shocks) if VF/pVT does not respond to defibrillation\n\n**Non-shockable rhythm (Asystole / PEA):**\n  - Adrenaline as soon as IV/IO access is established, then every second loop\n  - Do not administer Amiodarone\n\n- Consider alternate pad positioning (anterior/posterior) if still in VF/VT after 3 shocks and anti-arrhythmic medication\n- Consider magnesium for torsades de pointes\n- Consider reversible causes. Assess for all whilst performing high quality CPR:\n\n**The Hs:**\n- Hypovolaemia\n- Hypoxia\n- Hypo/Hyperkalaemia\n- Hypo/Hyperthermia\n- Hypoglycaemia\n\n**The Ts:**\n- Toxins\n- Thrombosis\n- Tamponade\n- Tension Pneumothorax",
+      "content": "- Advanced airway, vascular access, and medications should only be introduced when they do not significantly interrupt high-quality CPR\n- Use adrenaline and amiodarone according to the current ANZCOR adult ALS algorithm\n- Consider a supraglottic airway first where appropriate and within scope\n- Actively search for and treat reversible causes throughout the arrest\n- Transport during active arrest should only occur when there is a clear clinical or operational reason and it will not significantly worsen CPR quality",
       "sortOrder": 4
     },
     {
-      "id": "adult-resuscitation-additional-notes",
+      "id": "adult-resuscitation-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The treatment for cardiac arrest patients revolves around core requirements; excellent quality chest compressions that are never interrupted unnecessarily, oxygenation and timely defibrillation",
+      "content": "- Refer to the current ANZCOR adult advanced life support algorithm for exact sequencing of shocks, medications, and post-ROSC transition\n- Excellent compressions, timely defibrillation, and treatment of reversible causes have the greatest effect on outcome",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [
-    "adrenaline-epinephrine",
-    "amiodarone",
-    "atropine-sulphate",
-    "calcium-gluconate",
-    "lignocaine-1",
-    "oxygen",
-    "sodium-bicarbonate"
+    "adrenaline",
+    "amiodarone"
   ],
-  "relatedGuidelineIDs": [],
+  "relatedGuidelineIDs": [
+    "post-resuscitation-care",
+    "termination-of-resuscitation"
+  ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "gcs",
-    "avpu",
-    "news2"
-  ]
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

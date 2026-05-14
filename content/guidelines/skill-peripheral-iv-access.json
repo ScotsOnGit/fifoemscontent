@@ -28,7 +28,7 @@
       "id": "skill-iv-sites",
       "type": "management_basic",
       "title": "Site Selection",
-      "content": "**Preferred sites (proximal to distal):**\n- Antecubital fossa (cephalic, basilic, median cubital veins) — large bore access, rapid infusion\n- Forearm (cephalic, basilic)\n- Dorsum of hand\n- External jugular (for difficult access or cardiac arrest)\n\n**Avoid:**\n- Injured limb, limb with dialysis fistula, post-mastectomy limb\n- Over joints (increases dislodgement risk)\n- Lower extremities (risk of thrombophlebitis)",
+      "content": "**Preferred sites (proximal to distal):**\n- Antecubital fossa (cephalic, basilic, median cubital veins) - large bore access, rapid infusion\n- Forearm (cephalic, basilic)\n- Dorsum of hand\n- External jugular (for difficult access or cardiac arrest)\n\n**Avoid:**\n- Injured limb, limb with dialysis fistula, post-mastectomy limb\n- Over joints (increases dislodgement risk)\n- Lower extremities (risk of thrombophlebitis)",
       "sortOrder": 1
     },
     {
@@ -61,6 +61,6 @@
     "weight-based-dosing"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

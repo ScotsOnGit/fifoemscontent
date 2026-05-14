@@ -29,14 +29,14 @@
       "id": "skill-wound-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Apply direct pressure with sterile gauze to control haemorrhage\n\n2. Expose wound; remove gross contamination\n\n3. Irrigate copiously with normal saline under pressure (10–20 mL syringe + 18G IV catheter) — reduces infection risk\n\n4. Assess: wound depth, neurovascular status distal, tendon visibility, foreign body risk\n\n5. Apply appropriate dressing: non-adherent primary layer; absorbent secondary; bandage\n\n6. Steri-strips may be applied to small superficial lacerations for temporary closure\n\n7. Elevate if a limb wound",
+      "content": "1. Apply direct pressure with sterile gauze to control haemorrhage\n\n2. Expose wound; remove gross contamination\n\n3. Irrigate copiously with normal saline under pressure (10–20 mL syringe + 18G IV catheter) - reduces infection risk\n\n4. Assess: wound depth, neurovascular status distal, tendon visibility, foreign body risk\n\n5. Apply appropriate dressing: non-adherent primary layer; absorbent secondary; bandage\n\n6. Steri-strips may be applied to small superficial lacerations for temporary closure\n\n7. Elevate if a limb wound",
       "sortOrder": 1
     },
     {
       "id": "skill-wound-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not close contaminated wounds prehospital — risk of abscess\n- Bites (human, animal): high infection risk; irrigate thoroughly; do not close\n- Scalp wounds bleed profusely — direct pressure effective; rarely dangerous in isolation\n- Document: mechanism, wound site and dimensions, neurovascular status, interventions",
+      "content": "- Do not close contaminated wounds prehospital - risk of abscess\n- Bites (human, animal): high infection risk; irrigate thoroughly; do not close\n- Scalp wounds bleed profusely - direct pressure effective; rarely dangerous in isolation\n- Document: mechanism, wound site and dimensions, neurovascular status, interventions",
       "sortOrder": 2
     }
   ],
@@ -49,6 +49,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

@@ -22,7 +22,7 @@
       "id": "skill-epistaxis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Epistaxis (nosebleed) is most commonly anterior (Little's area — Kiesselbach's plexus) and self-limiting. Posterior epistaxis is less common but more serious. Minor injuries include abrasions, lacerations, and contusions that do not require surgical intervention.",
+      "content": "Epistaxis (nosebleed) is most commonly anterior (Little's area - Kiesselbach's plexus) and self-limiting. Posterior epistaxis is less common but more serious. Minor injuries include abrasions, lacerations, and contusions that do not require surgical intervention.",
       "sortOrder": 0
     },
     {
@@ -43,7 +43,7 @@
       "id": "skill-epistaxis-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Consider anticoagulation / antiplatelet medication as a contributing factor\n- Posterior bleeds: blood visible in oropharynx, bilateral bleeding, failed anterior packing\n- Facial fracture: do not pack blindly — refer early\n- Document: site, duration, interventions, and clinical response",
+      "content": "- Consider anticoagulation / antiplatelet medication as a contributing factor\n- Posterior bleeds: blood visible in oropharynx, bilateral bleeding, failed anterior packing\n- Facial fracture: do not pack blindly - refer early\n- Document: site, duration, interventions, and clinical response",
       "sortOrder": 3
     }
   ],
@@ -57,6 +57,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
