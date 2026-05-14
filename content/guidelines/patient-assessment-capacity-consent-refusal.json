@@ -42,14 +42,14 @@
       "id": "patient-assessment-refusal",
       "type": "management_advanced",
       "title": "Refusal Process",
-      "content": "- When a patient refuses recommended care, assess whether the refusal is voluntary, informed, relevant to the decision, and supported by adequate capacity\n- Explain the suspected condition, recommended treatment or transport, material risks of refusal, and alternative options within your expertise\n- If capacity is impaired and there is imminent risk to life or health, provide necessary treatment and transport in accordance with law, local policy, and senior clinical support\n- If validity cannot be determined in a time-critical situation, escalate urgently and err toward preserving life and health",
+      "content": "- When a patient refuses recommended care, assess whether the refusal is voluntary, informed, relevant to the decision, and supported by adequate capacity, then provide clear safety advice\n- Explain the suspected condition, recommended treatment or transport, material risks of refusal, and alternative options within your expertise\n- If capacity is impaired and there is imminent risk to life or health, provide necessary treatment and transport in accordance with law, local policy, and senior clinical support\n- If validity cannot be determined in a time-critical situation, escalate urgently and err toward preserving life and health",
       "sortOrder": 3
     },
     {
       "id": "patient-assessment-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Document the assessment findings, the capacity assessment, who provided information, what risks were explained, the patient's exact decision, and any advice or safety-netting provided\n- Use interpreters, communication aids, family, or carers appropriately, but watch for coercion or undue influence\n- Children and young people require age-appropriate assessment of maturity, best interests, and lawful decision-making arrangements",
+      "content": "- Document the assessment findings, the capacity assessment, who provided information, what risks were explained, the patient's exact decision, and any advice or safety-netting provided\n- A practical refusal framework is to confirm the decision is Voluntary, Informed, Relevant to the proposed treatment or transport, supported by Capacity, and followed by clear Advice\n- Use interpreters, communication aids, family, or carers appropriately, but watch for coercion or undue influence\n- Children and young people require age-appropriate assessment of maturity, best interests, and lawful decision-making arrangements",
       "sortOrder": 4
     }
   ],
@@ -59,6 +59,6 @@
     "low-risk-mental-health-presentations"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-14T00:00:00Z"
 }

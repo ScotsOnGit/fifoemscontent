@@ -48,7 +48,7 @@
       "id": "high-risk-mental-health-presentations-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Address reversible medical contributors as soon as practicable\n- In the prehospital setting, a paramedic may decide on clinical grounds to sedate a patient when the patient poses an immediate danger to themselves or others and less restrictive measures have failed or are unsafe\n- Any sedation must remain within local scope, training, and protocol, with clinician judgment based on the whole presentation rather than a score alone\n- After sedation, closely monitor airway, breathing, circulation, oxygenation, ventilation, temperature, and level of consciousness, and be prepared to manage complications",
+      "content": "- Address reversible medical contributors as soon as practicable\n- In the prehospital setting, the decision to sedate should be made on paramedic clinical judgment when the patient poses an immediate danger to themselves or others and less restrictive measures have failed or are unsafe\n- Where more than one suitably qualified clinician is present, the most senior clinician on scene should lead the sedation decision and plan\n- Any sedation must remain within local scope, training, and protocol, with clinician judgment based on the whole presentation rather than a score alone\n- After sedation, closely monitor airway, breathing, circulation, oxygenation, ventilation, temperature, and level of consciousness, and be prepared to manage complications",
       "sortOrder": 4
     },
     {
@@ -66,6 +66,6 @@
     "domestic-and-family-violence"
   ],
   "isFreeContent": true,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-14T00:00:00Z"
 }

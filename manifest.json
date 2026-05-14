@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-13T23:43:46Z",
+  "lastUpdated": "2026-05-14T02:15:33Z",
   "files": {
     "guidelines/abdominal-pain": 2,
     "guidelines/abdominal-trauma": 2,
@@ -44,7 +44,7 @@
     "guidelines/gastrointestinal-bleeding": 2,
     "guidelines/haemorrhage": 2,
     "guidelines/headache": 2,
-    "guidelines/high-risk-mental-health-presentations": 3,
+    "guidelines/high-risk-mental-health-presentations": 4,
     "guidelines/hyperglycaemia": 2,
     "guidelines/hyperkalaemia": 2,
     "guidelines/hypertension": 2,
@@ -67,7 +67,7 @@
     "guidelines/otitis-externa": 2,
     "guidelines/otitis-media": 2,
     "guidelines/pain-management": 2,
-    "guidelines/patient-assessment-capacity-consent-refusal": 1,
+    "guidelines/patient-assessment-capacity-consent-refusal": 2,
     "guidelines/pelvic-injury": 2,
     "guidelines/pneumothorax": 2,
     "guidelines/post-resuscitation-care": 2,
