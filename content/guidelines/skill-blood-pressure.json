@@ -5,56 +5,50 @@
   "skillsSubcategory": "assessment",
   "tags": [
     "blood pressure",
-    "BP",
-    "NIBP",
-    "sphygmomanometer",
-    "systolic",
-    "diastolic",
-    "hypertension",
-    "hypotension"
+    "bp",
+    "vital signs",
+    "nibp",
+    "manual bp",
+    "shock"
   ],
   "synonyms": [
     "Blood Pressure",
-    "BP",
-    "NIBP",
-    "Manual Blood Pressure"
+    "BP Measurement",
+    "NIBP"
   ],
   "sections": [
     {
       "id": "skill-blood-pressure-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Blood pressure (BP) measurement quantifies the force of blood against arterial walls and is a fundamental vital sign. It is expressed as systolic (peak pressure during contraction) over diastolic (pressure during relaxation) in mmHg. BP can be measured manually (auscultatory method) or by automated non-invasive blood pressure (NIBP) device.",
+      "content": "Blood pressure is a core vital sign that helps assess perfusion, shock, cardiovascular risk, and response to treatment. In prehospital care, the number must always be interpreted in context with the patient's overall presentation, trend over time, and the reliability of the measurement.",
       "sortOrder": 0
     },
     {
-      "id": "skill-blood-pressure-manual",
+      "id": "skill-blood-pressure-procedure",
       "type": "management_basic",
-      "title": "Procedure — Manual (Auscultatory)",
-      "content": "**Equipment**\n- Sphygmomanometer (mercury or aneroid)\n- Stethoscope\n- Cuff sized appropriately: bladder should encircle ≥ 80% of arm\n\n**Procedure**\n\n1. Patient seated or supine; arm at heart level, palm up, elbow slightly flexed\n\n2. Apply cuff to bare upper arm, 2–3 cm above antecubital fossa\n\n3. Palpate radial pulse; inflate cuff until pulse disappears; note pressure, then add 30 mmHg\n\n4. Place stethoscope diaphragm over brachial artery in antecubital fossa\n\n5. Deflate cuff at 2–3 mmHg/sec\n\n6. **Systolic**: first regular Korotkoff sound (tapping)\n\n7. **Diastolic**: sounds become muffled then disappear (Phase V)\n\n8. Deflate fully, remove cuff, record result\n\n**Procedure — Palpatory (field / noisy environments)**\n\n1. Palpate radial pulse\n\n2. Inflate cuff until pulse disappears; deflate slowly\n\n3. Pressure at which pulse returns = systolic BP (palpatory)\n\n4. Note: diastolic BP cannot be determined by this method\n\n5. Palpatory SBP is typically 5–10 mmHg lower than auscultatory",
+      "title": "Procedure - Manual (Auscultatory)",
+      "content": "**Equipment**\n- Sphygmomanometer and stethoscope\n- Appropriately sized cuff\n\n**Procedure**\n1. Position the patient and arm as well as conditions allow\n2. Apply the cuff to the bare upper arm where practicable\n3. Estimate systolic pressure first if needed, then auscultate over the brachial artery\n4. Deflate slowly and record systolic and diastolic values\n5. Use palpatory or automated methods when noise, movement, or urgency make auscultation impractical\n6. Repeat abnormal readings when clinically appropriate and trend over time",
       "sortOrder": 1
     },
     {
       "id": "skill-blood-pressure-interpretation",
       "type": "considerations",
       "title": "Interpretation",
-      "content": "**Adult Normal:** Systolic 100–139 mmHg, Diastolic 60–89 mmHg\n\n**Classification:**\n- Hypotension: SBP < 90 mmHg (or > 40 mmHg drop from baseline)\n- Normal: SBP 90–139 mmHg\n- Stage 1 Hypertension: SBP 140–159 / DBP 90–99 mmHg\n- Stage 2 Hypertension: SBP ≥ 160 / DBP ≥ 100 mmHg\n- Hypertensive Emergency: SBP ≥ 180 with end-organ damage symptoms\n\n**Shock Indicators (Adults):**\n- SBP < 90 mmHg — definitive hypotension, aggressive intervention\n- SBP 90–100 mmHg — borderline; correlate with clinical signs\n- Narrowing pulse pressure (SBP–DBP < 25): early shock indicator\n\n**Paediatric BP targets:**\n- Minimum SBP = 70 + (2 × age in years)\n- Hypotension = SBP below age-appropriate minimum",
+      "content": "- Hypotension should always be interpreted alongside pulse, skin signs, conscious state, mechanism, and likely pathology\n- A single normal BP does not exclude evolving shock\n- Severe hypertension matters most when there is evidence of acute end-organ dysfunction rather than the number alone\n- Pulse pressure and BP trend may be clinically useful, especially in trauma, sepsis, and cardiac presentations\n- In children, age-appropriate thresholds and the overall clinical picture are essential",
       "sortOrder": 2
     },
     {
       "id": "skill-blood-pressure-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Use correct cuff size — too small gives falsely high readings; too large gives falsely low\n- Avoid measuring on affected limb (IV, injury, dialysis fistula, mastectomy side)\n- In noisy environments, palpatory method is more reliable than auscultatory\n- Bilateral BP difference > 15 mmHg may indicate aortic dissection or vascular injury\n- NIBP is unreliable in patients with atrial fibrillation or severe vasoconstriction\n- Document arm used and patient position",
+      "content": "- Use the correct cuff size because undersized cuffs over-read and oversized cuffs under-read\n- Repeat abnormal readings and trend them over time rather than relying on one measurement\n- Avoid affected limbs where possible, such as major injury, vascular access, dialysis fistula, or post-mastectomy side\n- In noisy or moving environments, palpatory or automated readings may be more practical, but reliability must still be judged clinically\n- Document site, method, patient position, and any factors that may have affected the reading",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
-  "relatedCalculatorIDs": [
-    "news2"
-  ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

@@ -8,49 +8,45 @@
     "SpO2",
     "oxygen saturation",
     "monitoring",
-    "vital signs"
+    "pleth"
   ],
   "synonyms": [
     "Pulse Oximetry",
-    "SpO2",
-    "Oxygen Saturation"
+    "SpO2 Monitoring"
   ],
   "sections": [
     {
       "id": "skill-pulse-oximetry-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Pulse oximetry is a non-invasive method of continuously monitoring peripheral oxygen saturation (SpO₂) and heart rate using photoplethysmography. It is a fundamental tool in prehospital monitoring but has important limitations that clinicians must understand.",
+      "content": "Pulse oximetry is a non-invasive way to estimate peripheral oxygen saturation and pulse rate. In prehospital care it is a useful monitoring tool, but it should never be interpreted in isolation from the work of breathing, perfusion, mental state, and the likely underlying pathology.",
       "sortOrder": 0
     },
     {
-      "id": "skill-pulse-oximetry-steps",
+      "id": "skill-pulse-oximetry-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Equipment**\n- Pulse oximeter probe (finger, earlobe, or forehead clip)\n\n**Procedure**\n1. Explain the procedure to the patient\n2. Ensure the probe site is clean and dry; remove nail polish if applied to fingertip\n3. Apply probe to finger (index or middle preferred), earlobe, or forehead\n4. Allow 15–30 seconds for reading to stabilise\n5. Record SpO₂ value and waveform quality (plethysmograph)\n6. Note patient's current oxygen therapy status at time of reading\n\n**Interpretation — Adult Normal:**\n- SpO₂ 95–100%: Normal\n- SpO₂ 94%: Lower limit of acceptable; consider supplemental oxygen\n- SpO₂ 90–93%: Mild hypoxaemia — oxygen indicated\n- SpO₂ < 90%: Significant hypoxaemia — urgent intervention required\n- SpO₂ < 85%: Severe hypoxaemia — life-threatening",
+      "content": "**Equipment**\n- Pulse oximeter probe such as finger, earlobe, or forehead\n\n**Procedure**\n1. Explain the procedure where practicable\n2. Ensure the chosen site is reasonably clean, dry, and well perfused\n3. Apply the probe and allow the reading and waveform to stabilise\n4. Assess the quality of the plethysmograph and whether the number fits the patient\n5. Record the SpO2 reading together with oxygen therapy or device in use\n\n**Interpretation**\n- Interpret oxygen saturation alongside work of breathing, colour, conscious state, and the likely clinical syndrome\n- Oxygen targets may differ by condition and local protocol, so avoid rigid one-number thinking\n- A trend and the response to treatment are often more useful than a single reading",
       "sortOrder": 1
     },
     {
       "id": "skill-pulse-oximetry-limitations",
       "type": "considerations",
       "title": "Limitations & Pitfalls",
-      "content": "**False readings / inaccurate results:**\n- Poor peripheral perfusion (shock, hypothermia, vasoconstriction) — low-volume waveform\n- Carbon monoxide poisoning — SpO₂ falsely elevated (CO-Hb reads as O₂-Hb)\n- Methaemoglobinaemia — SpO₂ tends towards 85% regardless of true saturation\n- Nail polish (especially dark colours), acrylic nails\n- Motion artefact — use waveform to assess signal quality\n- Anaemia — can maintain SpO₂ despite reduced O₂ carrying capacity\n- Jaundice — may affect reading\n- Ambient light interference\n\n**Important:**\n- Always correlate with clinical findings — SpO₂ is ONE parameter, not the whole picture\n- A normal SpO₂ does not exclude hypoventilation (use EtCO₂ for this)\n- In CO poisoning: treat empirically with high-flow O₂ regardless of SpO₂",
+      "content": "- Poor perfusion, hypothermia, motion, vasoconstriction, acrylic nails, ambient light, and poor probe position can all reduce reliability\n- Carbon monoxide poisoning may produce falsely reassuring readings\n- Methaemoglobinaemia may trend toward a misleading saturation near the mid-80s\n- Anaemia and hypoventilation can both be clinically significant despite a normal SpO2 reading\n- A normal saturation does not exclude serious illness, especially early respiratory failure or opioid-induced hypoventilation",
       "sortOrder": 2
     },
     {
       "id": "skill-pulse-oximetry-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Always document SpO₂ alongside the FiO₂ being delivered (e.g. SpO₂ 98% on 15L NRB)\n- A good plethysmograph waveform confirms probe is reading accurately\n- Ear lobe or forehead probes are more reliable in low-perfusion states\n- In paediatrics: normal SpO₂ ≥ 95% (≥ 94% in neonates with certain cardiac conditions — follow protocol)",
+      "content": "- Always document SpO2 with the oxygen therapy or room-air status at the time of measurement\n- Check that the waveform and clinical picture make sense before acting on a number\n- Ear or forehead probes may be more useful in low-perfusion states\n- Escalate based on the whole patient, not just the saturation value",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
-  "relatedCalculatorIDs": [
-    "news2"
-  ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

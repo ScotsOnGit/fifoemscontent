@@ -6,50 +6,45 @@
   "tags": [
     "blood glucose",
     "BGL",
-    "BGM",
-    "CBG",
     "glucometer",
+    "diabetes",
     "hypoglycaemia",
-    "hyperglycaemia",
-    "diabetes"
+    "hyperglycaemia"
   ],
   "synonyms": [
-    "Blood Glucose Monitor",
+    "Blood Glucose Monitor (BGM)",
     "BGL",
-    "CBG",
-    "Blood Sugar",
     "Glucometer"
   ],
   "sections": [
     {
-      "id": "skill-bgm-overview",
+      "id": "skill-bgl-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Blood glucose monitoring (BGM) is used to measure the concentration of glucose in capillary blood. It is an essential assessment tool in any patient with altered consciousness, known diabetes, or when metabolic disturbance is suspected. Normal fasting blood glucose is 3.9–5.5 mmol/L.",
+      "content": "Blood glucose monitoring measures capillary glucose and is an essential prehospital assessment in patients with altered conscious state, seizure, behavioural disturbance, diabetes, suspected metabolic illness, or unexplained clinical deterioration. The result must always be interpreted alongside the clinical picture and repeated when the situation changes.",
       "sortOrder": 0
     },
     {
-      "id": "skill-bgm-steps",
+      "id": "skill-bgl-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Equipment**\n- Glucometer with calibrated test strips (check expiry date)\n- Lancet device and lancets\n- Alcohol wipe\n- Gloves\n- Sharps container\n\n**Procedure**\n1. Explain the procedure and obtain consent\n2. Don PPE (gloves)\n3. Select site: fingertip (lateral aspect preferred — less painful), heel in neonates\n4. Clean site with alcohol wipe and allow to dry completely\n5. Lance the fingertip with a single motion; wipe away the first drop of blood\n6. Apply second drop to test strip (do not smear)\n7. Read result and record with timestamp\n8. Apply pressure to puncture site\n9. Dispose of lancet immediately into sharps container\n\n**Interpretation:**\n- < 2.8 mmol/L: Severe hypoglycaemia — treat immediately\n- 2.8–3.9 mmol/L: Mild–moderate hypoglycaemia — treat\n- 3.9–7.8 mmol/L: Normal (fasting / pre-meal)\n- 7.9–11.1 mmol/L: Elevated — monitor, assess context\n- > 11.1 mmol/L: Hyperglycaemia — assess for DKA/HHS\n- > 33.3 mmol/L: Critical — HHS likely; urgent management",
+      "content": "**Equipment**\n- Glucometer with compatible test strips\n- Lancet device or single-use lancet\n- Gloves and sharps disposal\n\n**Procedure**\n1. Explain the procedure where practicable and apply standard precautions\n2. Select an appropriate site, usually the lateral fingertip\n3. Ensure the site is clean and dry before sampling\n4. Obtain the sample according to device instructions and record the result with time\n5. Reassess the patient and repeat the measurement after treatment or if the condition changes\n\n**Interpretation**\n- Low readings in a symptomatic patient should prompt urgent treatment according to the hypoglycaemia guideline\n- High readings should be interpreted in context and may indicate stress hyperglycaemia, DKA, HHS, or medication-related hyperglycaemia\n- Glucose values near normal do not exclude other serious causes of altered conscious state",
       "sortOrder": 1
     },
     {
-      "id": "skill-bgm-notes",
+      "id": "skill-bgl-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Always check BGL in any patient with altered consciousness, seizure, or unexplained behaviour change\n- Cold, poorly perfused, or oedematous fingers may give falsely low readings — use alternative site\n- Alcohol not fully dried will falsely lower result\n- Glucometers calibrated for plasma give results ~10–15% higher than whole blood readings\n- Glucometers are not accurate in patients with severe anaemia or haematocrit abnormalities\n- Always treat the patient, not the number — correlate with clinical findings",
+      "content": "- Always consider BGL in altered conscious state, seizure, delirium, or unexplained behavioural change\n- Poor perfusion, contamination, inadequate sample size, and device or strip issues can produce misleading readings\n- A value that does not fit the clinical picture should be repeated or challenged, not accepted blindly\n- Always treat the patient, not the number",
       "sortOrder": 2
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
-  "relatedCalculatorIDs": [
-    "poc-chem8plus",
-    "poc-cg8plus"
+  "relatedGuidelineIDs": [
+    "hypoglycaemia",
+    "hyperglycaemia"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
