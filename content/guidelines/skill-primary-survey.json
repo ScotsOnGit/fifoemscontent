@@ -21,21 +21,21 @@
       "id": "skill-primary-survey-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The primary survey is a systematic, rapid assessment used to identify and manage immediate life threats. It follows the cABCDE approach: catastrophic haemorrhage, Airway, Breathing, Circulation, Disability, and Exposure. The aim is to detect and treat conditions that are immediately life-threatening before progressing to the secondary survey.",
+      "content": "The primary survey is a rapid, structured assessment used to identify and manage immediate life threats. It follows a cABCDE approach: catastrophic haemorrhage, Airway, Breathing, Circulation, Disability, and Exposure. In prehospital practice it is part of a dynamic assessment process, not a once-only event, and should be repeated whenever the patient's condition changes.",
       "sortOrder": 0
     },
     {
       "id": "skill-primary-survey-steps",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**c — Catastrophic Haemorrhage**\n- Identify and control life-threatening external bleeding immediately\n- Apply direct pressure, wound packing, tourniquet (limb), or haemostatic dressings as appropriate\n\n**A — Airway**\n- Assess airway patency: is the patient speaking, crying, or breathing?\n- Look for foreign body, vomit, secretions, swelling, or trauma\n- Open airway: head-tilt chin-lift (non-trauma) or jaw thrust (trauma)\n- Insert OPA or NPA if airway not maintainable\n- Consider definitive airway if unable to maintain\n\n**B — Breathing**\n- Assess respiratory rate, depth, symmetry, and effort\n- Auscultate for bilateral breath sounds\n- Apply pulse oximetry; administer oxygen if indicated\n- Identify and treat: tension pneumothorax, open chest wound, massive haemothorax, flail chest\n- Seal open chest wounds with vented chest seal\n\n**C — Circulation**\n- Assess heart rate, skin colour, temperature, and capillary refill (<2 sec)\n- Identify ongoing haemorrhage — internal or external\n- Establish IV/IO access; administer fluids per protocol\n- Apply cardiac monitoring\n\n**D — Disability**\n- Assess level of consciousness: AVPU or GCS\n- Pupils: size, equality, reactivity\n- Blood glucose level (BGL)\n- Assess for focal neurological deficits\n\n**E — Exposure**\n- Expose patient fully to identify all injuries\n- Prevent hypothermia — keep exposure brief and cover after assessment\n- Log-roll to examine posterior surfaces",
+      "content": "**c - Catastrophic Haemorrhage**\n- Identify and control life-threatening external bleeding immediately\n- Apply direct pressure, wound packing, tourniquet, or haemostatic dressings as appropriate\n\n**A - Airway**\n- Assess whether the airway is patent and whether the patient can maintain it\n- Look for obstruction from foreign body, vomit, blood, secretions, swelling, or trauma\n- Use simple airway opening manoeuvres and adjuncts within scope\n- Escalate rapidly if the airway cannot be maintained or is deteriorating\n\n**B - Breathing**\n- Assess respiratory rate, work of breathing, chest movement, breath sounds, and oxygenation\n- Administer oxygen only when clinically indicated\n- Identify immediately life-threatening thoracic problems and treat within scope\n- Reassess response after each intervention\n\n**C - Circulation**\n- Assess pulse, skin, perfusion, obvious bleeding, and haemodynamic state\n- Consider internal as well as external haemorrhage\n- Manage shock and obtain vascular access or monitoring where indicated and within scope\n- Do not let procedures delay correction of immediately reversible threats\n\n**D - Disability**\n- Assess level of consciousness using AVPU or GCS as appropriate\n- Check pupils, BGL, and gross focal neurological deficit where relevant\n- Consider toxic, metabolic, traumatic, and neurological causes of altered conscious state\n\n**E - Exposure**\n- Expose only as much as needed to identify life threats and important injuries\n- Minimise heat loss and preserve dignity\n- Re-cover the patient promptly after assessment",
       "sortOrder": 1
     },
     {
       "id": "skill-primary-survey-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Treat each life threat as it is found before moving to the next step\n- Reassess frequently — especially after any intervention\n- In trauma, prioritise haemorrhage control and spinal precautions\n- Document findings including time of first assessment\n- Communicate findings clearly using ISOBAR or IMIST-AMBO when handing over",
+      "content": "- Treat each life threat as it is found before moving to the next step\n- Reassess frequently, especially after any intervention or clinical change\n- Primary survey findings should guide whether you pause, continue, or abbreviate further assessment\n- In trauma, prioritise haemorrhage control and spinal motion restriction where appropriate\n- Document important findings and communicate them clearly at handover",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
