@@ -29,21 +29,21 @@
       "id": "asthma-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- If doubt exists as to whether the patient is suffering from asthma or anaphylaxis, treat as anaphylaxis\n- Acute asthma is classified into three severity categories:\n  - Mild/moderate: patient is able to walk and speak in whole sentences in one breath\n  - Severe: unable to speak in complete sentences, visibly breathless, increased work of breathing\n  - Life-threatening: drowsy, collapsed, exhausted, cyanotic, poor respiratory effort, altered mental status, bradycardia, or quiet chest\n- Pulse oximetry is useful but should not be the only indicator of asthma severity or improvement\n- Respiratory symptoms such as dyspnoea and wheezing are non-specific; differential diagnosis should be considered\n- Patients presenting with acute asthma may deteriorate rapidly without warning\n- If IPPV is required, care should be taken to avoid over-ventilation by allowing a prolonged expiratory phase\n- Relievers are best given through a spacer if available, following local dose guidance and repeated assessment",
+      "content": "- If doubt exists as to whether the patient has asthma or anaphylaxis, treat as anaphylaxis\n- Severity should be judged from work of breathing, speech, mental state, respiratory effort, exhaustion, and response to treatment rather than pulse oximetry alone\n- A quiet chest, exhaustion, altered mental status, cyanosis, poor respiratory effort, or bradycardia should be treated as life-threatening asthma\n- Respiratory symptoms such as dyspnoea and wheeze are non-specific, so differentials such as anaphylaxis, heart failure, COPD, foreign body, or pneumonia should be considered\n- Patients with acute asthma may deteriorate rapidly without warning\n- If assisted ventilation is required, avoid rapid over-ventilation and allow a prolonged expiratory phase to reduce air trapping\n- Relievers are often best delivered by MDI and spacer when the patient can cooperate, with repeated reassessment after each treatment cycle",
       "sortOrder": 2
     },
     {
       "id": "asthma-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately, sitting upright or in a position of comfort\n- Conduct Vital Sign Survey, particularly respiratory rate and pulse oximetry\n- Consider oxygen therapy and titrate to clinical need\n- Administer salbutamol (MDI via spacer or nebuliser) according to local protocol\n- If severe/life-threatening presentation, consider adrenaline in line with local protocol and senior consultation\n\n**Ventilate the patient if required:**\n  - Extreme care should be taken when ventilating an asthmatic patient; allow adequate exhalation and avoid rapid over-ventilation, which may worsen air trapping, hypotension, and cardiac arrest\n  - Officers may assist the patient in the administration of their own medication where clinically indicated\n  - Be alert for rapid deterioration",
+      "content": "- Primary Survey\n- Position the patient upright or in another position of comfort if tolerated\n- Perform frequent vital signs, especially respiratory rate, work of breathing, and oxygen saturation\n- Give oxygen only as clinically indicated and titrate to need\n- Administer salbutamol by spacer or nebuliser according to local protocol and patient capability\n- If the presentation is severe or life-threatening, escalate early and consider adrenaline in line with local protocol and senior consultation\n- If ventilation is required, allow adequate exhalation and avoid rapid over-ventilation, which may worsen air trapping, hypotension, and cardiac arrest\n- Be alert for rapid deterioration",
       "sortOrder": 3
     },
     {
       "id": "asthma-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ipratropium bromide (nebulised) if indicated\n- Consider IM adrenaline for life-threatening asthma in line with local protocol and senior consultation\n- Consider magnesium sulphate for severe to life-threatening asthma resistant to first-line treatments in consultation with on-call doctor\n- Apply cardiac monitor\n- Gain vascular access\n- Consider corticosteroid therapy in consultation with on-call doctor\n- Consider IV fluids to treat hypotension",
+      "content": "- Consider ipratropium bromide if indicated within local protocol\n- Consider IM adrenaline for life-threatening asthma in line with local protocol and senior consultation\n- Consider magnesium sulphate for severe or life-threatening asthma that is not responding adequately to first-line treatment, in consultation with the on-call doctor\n- Apply cardiac monitoring\n- Gain vascular access if advanced therapy is likely to be required\n- Consider corticosteroid therapy in consultation with the on-call doctor\n- Consider IV fluids only if hypotension is present or another cause of shock is suspected",
       "sortOrder": 4
     },
     {
@@ -65,8 +65,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2"
   ]

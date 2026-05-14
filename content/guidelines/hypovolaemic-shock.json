@@ -31,7 +31,7 @@
       "id": "hypovolaemic-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Shock severity cannot be judged by blood pressure alone\n- Young, fit, pregnant, medicated, or elderly patients may compensate differently\n- Haemorrhagic and non-haemorrhagic hypovolaemia are not managed identically\n- Minimise scene time in time-critical cases and continue management during transport where feasible\n- Prevent hypothermia and address the underlying cause early",
+      "content": "- Shock severity cannot be judged by blood pressure alone\n- Young, fit, pregnant, medicated, or elderly patients may compensate differently\n- Haemorrhagic and non-haemorrhagic hypovolaemia are not managed identically\n- Minimise scene time in time-critical cases and continue management during transport where feasible\n- Prevent hypothermia and address the underlying cause early\n- In traumatic shock, haemorrhage control and rapid access to definitive care usually take priority over aggressive crystalloid administration",
       "sortOrder": 2
     },
     {
@@ -63,6 +63,6 @@
     "gastroenteritis"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

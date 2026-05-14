@@ -31,21 +31,21 @@
       "id": "acute-decompensated-heart-failure-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Right sided failure or preload-dependent states: avoid nitrates unless the diagnosis and haemodynamics clearly support their use\n- Oxygen should be given only if indicated by hypoxaemia or significant respiratory distress; patient distress alone is not a reason to force oxygen if saturation is adequate\n- Mental confusion or altered level of consciousness may occur due to hypoxia\n- Coughing is a frequent complaint that is suggestive of LVF\n- Do not allow the patient to walk\n- Use clinical judgment to differentiate from sepsis, pneumonia, asthma/COPD, pulmonary embolus, or other causes of dyspnoea\n- Causes to consider include infarction, valvular regurgitation, myocarditis, cardiomyopathy, medication toxicity, PE, dysrhythmias, anaemia, drowning, high altitude or decompression illnesses, burns, pancreatitis, or pregnancy",
+      "content": "- Right-sided failure or preload-dependent states may deteriorate with nitrates, so avoid them unless the diagnosis and haemodynamics clearly support their use\n- Oxygen should be given only if indicated by hypoxaemia or significant respiratory distress\n- Confusion or reduced conscious state may reflect hypoxia, fatigue, or poor perfusion\n- Use clinical judgment to differentiate ADHF from sepsis, pneumonia, asthma or COPD, pulmonary embolus, ACS, or other causes of dyspnoea\n- Do not allow the patient to walk if acutely breathless or unstable\n- Important precipitants include ACS, dysrhythmia, uncontrolled hypertension, medication non-adherence, renal impairment, infection, valvular disease, and fluid overload",
       "sortOrder": 2
     },
     {
       "id": "acute-decompensated-heart-failure-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Open, clear and maintain the airway\n- Administer oxygen and ventilatory support if required; titrate oxygen to clinical need rather than using it routinely in non-hypoxaemic patients\n- If blood pressure permits, position sitting or semi-recumbent in a position of comfort\n- Vital Signs\n- Limb lead ECG",
+      "content": "- Primary Survey\n- Open, clear, and maintain the airway\n- Administer oxygen and ventilatory support if required, titrating oxygen to clinical need rather than using it routinely in non-hypoxaemic patients\n- If blood pressure permits, position sitting or semi-recumbent in a position of comfort\n- Perform repeated vital signs and ECG monitoring\n- Escalate early if the patient is tiring, hypotensive, or has markedly increased work of breathing",
       "sortOrder": 3
     },
     {
       "id": "acute-decompensated-heart-failure-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- Establish vascular access\n- Consider fluid therapy only if hypovolaemia is clearly indicated, using cautious aliquots\n- Consider Aspirin if ACS is suspected and there is no clear contraindication\n- Consider GTN in hypertensive acute cardiogenic pulmonary oedema if blood pressure is adequate and there is no suspected preload-dependent state, in consultation with on-call doctor\n- Consider loop diuretic therapy in consultation with on-call doctor when fluid overload is evident\n- Manage the underlying condition if known as per the relevant guideline",
+      "content": "- Obtain a 12 lead ECG\n- Establish vascular access\n- Consider fluid therapy only if hypovolaemia is clearly indicated, using cautious aliquots and frequent reassessment\n- Consider aspirin if ACS is suspected and there is no clear contraindication\n- Consider GTN in hypertensive acute cardiogenic pulmonary oedema if blood pressure is adequate and there is no suspected preload-dependent state, in consultation with the on-call doctor\n- Consider loop diuretic therapy in consultation with the on-call doctor when fluid overload is evident and the clinical picture supports it\n- Consider non-invasive ventilatory support where available, appropriate, and within local protocol\n- Manage the likely precipitant in line with the relevant guideline",
       "sortOrder": 4
     }
   ],
@@ -56,8 +56,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "chadsvasc",
