@@ -4,48 +4,53 @@
   "category": "skills",
   "skillsSubcategory": "assessment",
   "tags": [
-    "thermometer",
     "temperature",
-    "tympanic",
+    "tympanic thermometer",
     "fever",
     "hypothermia",
-    "hyperthermia",
     "vital signs"
   ],
   "synonyms": [
     "Tympanic Thermometer",
-    "Temperature",
-    "Ear Thermometer"
+    "Temperature"
   ],
   "sections": [
     {
       "id": "skill-tympanic-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Tympanic temperature measurement uses infrared technology to measure the temperature of the tympanic membrane, which reflects core body temperature via the carotid artery blood supply. It is the preferred method in the prehospital setting due to speed, ease of use, and non-invasiveness. Normal core body temperature is 36.1–37.2°C.",
+      "content": "Tympanic temperature measurement is a quick, non-invasive way to estimate body temperature in prehospital care. It is useful for identifying fever, hypothermia, and response to treatment, but it must be interpreted with the clinical picture and the limitations of the device and environment.",
       "sortOrder": 0
     },
     {
       "id": "skill-tympanic-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Equipment**\n- Tympanic thermometer\n- Probe cover (new cover for each patient)\n\n**Procedure**\n1. Attach a new, clean probe cover\n2. For adults and children > 1 year: gently pull the pinna upward and backward to straighten the ear canal\n3. For infants < 1 year: pull pinna gently downward and backward\n4. Insert the probe snugly into the ear canal, directed toward the tympanic membrane (angled toward the nose/eye)\n5. Press the measurement button and hold until the device beeps\n6. Read and document the result and time\n7. Remove probe cover and dispose\n\n**Interpretation:**\n- < 35.0°C: Hypothermia (mild 32–35°C, moderate 28–32°C, severe < 28°C)\n- 35.0–36.0°C: Sub-normal — monitor and warm\n- 36.1–37.2°C: Normal\n- 37.3–38.0°C: Low-grade fever\n- 38.1–39.0°C: Fever\n- 39.1–40.0°C: High fever — antipyretics and cooling\n- > 40.0°C: Hyperpyrexia — urgent management\n- > 41.0°C: Life-threatening — heat stroke or extreme infection",
+      "content": "1. Apply a clean probe cover\n2. Position the ear appropriately for the patient\n3. Insert the probe gently and direct it toward the tympanic membrane\n4. Take the reading and document the result with time\n5. Repeat if the reading seems inconsistent with the clinical picture or technique was suboptimal",
       "sortOrder": 1
+    },
+    {
+      "id": "skill-tympanic-interpretation",
+      "type": "considerations",
+      "title": "Interpretation",
+      "content": "- Temperature should be interpreted alongside environment, infection risk, exposure history, and the patient's overall condition\n- High temperature alone does not define severity, and low temperature may reflect serious illness, exposure, or impaired thermoregulation\n- In suspected hypothermia, field devices may be limited and the patient should be managed according to the broader hypothermia presentation, not the number alone\n- Recent cold exposure, ear pathology, wax, or poor probe position can reduce accuracy",
+      "sortOrder": 2
     },
     {
       "id": "skill-tympanic-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Ensure correct insertion angle — pointing at TM, not the ear canal wall\n- Recent outdoor cold exposure, ear wax accumulation, or otitis media can affect accuracy\n- In suspected hypothermia, tympanic temperature may underestimate severity — use rectal or oesophageal probe if available\n- Always use a fresh probe cover for infection control\n- Bilateral readings may differ by up to 0.5°C — use the higher reading\n- In febrile children, temperature must be interpreted alongside clinical signs — treatment threshold is clinical, not numeric",
-      "sortOrder": 2
+      "content": "- Document the method used and whether the reading may be unreliable\n- Trend temperature over time when clinically relevant\n- Fever management is clinical, not purely numeric\n- Severe environmental illness or sepsis should not be downplayed because of one borderline reading",
+      "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
-  "relatedCalculatorIDs": [
-    "heat-stress"
+  "relatedGuidelineIDs": [
+    "hypothermia",
+    "hyperthermia-heat-stroke-heat-related-sickness",
+    "influenza-like-illness"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
