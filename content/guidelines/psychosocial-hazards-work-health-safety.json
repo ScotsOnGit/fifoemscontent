@@ -36,14 +36,14 @@
       "id": "psychosocial-hazards-manage",
       "type": "management_basic",
       "title": "Immediate Management",
-      "content": "- Remove or reduce immediate hazards where practicable, such as withdrawing from violence, unsafe scenes, or extreme fatigue situations\n- Escalate urgent concerns to a supervisor or designated support pathway early\n- Encourage breaks, peer support, debrief, and practical workload adjustments when indicated\n- If a worker is acutely distressed or appears unsafe to continue, prioritise immediate safety over operational continuity",
+      "content": "- Remove or reduce immediate hazards where practicable, such as withdrawing from violence, unsafe scenes, or extreme fatigue situations\n- Escalate urgent concerns to a supervisor or designated support pathway early\n- Encourage breaks, peer support, debrief, and practical workload adjustments when indicated\n- If a worker is acutely distressed or appears unsafe to continue, prioritise immediate safety over operational continuity\n- Request additional resources or relief early if fatigue, violence, workload, or remote-isolation factors are making care unsafe",
       "sortOrder": 2
     },
     {
       "id": "psychosocial-hazards-escalation",
       "type": "management_advanced",
       "title": "Escalation & Ongoing Control",
-      "content": "- Serious or repeated psychosocial hazards require formal reporting, risk assessment, and organisational controls rather than relying only on individual resilience\n- Consider controls such as staffing changes, rostering review, supervision, training, violence prevention measures, access to specialist support, and clearer escalation pathways\n- If there is imminent risk of self-harm, suicide, aggression, or mental health crisis, manage as an emergency and arrange urgent clinical assessment",
+      "content": "- Serious or repeated psychosocial hazards require formal reporting, risk assessment, and organisational controls rather than relying only on individual resilience\n- Consider controls such as staffing changes, rostering review, supervision, training, violence prevention measures, access to specialist support, and clearer escalation pathways\n- If there is imminent risk of self-harm, suicide, aggression, or mental health crisis, manage as an emergency and arrange urgent clinical assessment\n- Persistent exposure to violence, bullying, fatigue, or traumatic incidents should trigger organisational review rather than being normalised as routine prehospital work",
       "sortOrder": 3
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-14T00:00:00Z"
 }

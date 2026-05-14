@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-14T02:15:33Z",
+  "lastUpdated": "2026-05-14T03:39:11Z",
   "files": {
     "guidelines/abdominal-pain": 2,
     "guidelines/abdominal-trauma": 2,
@@ -31,7 +31,7 @@
     "guidelines/cyanide": 2,
     "guidelines/dental-pain-non-traumatic": 2,
     "guidelines/dizziness": 2,
-    "guidelines/domestic-and-family-violence": 1,
+    "guidelines/domestic-and-family-violence": 2,
     "guidelines/drug-induced-hyperthermia": 2,
     "guidelines/dyspnoea": 2,
     "guidelines/ectopic-pregnancy": 2,
@@ -73,7 +73,7 @@
     "guidelines/post-resuscitation-care": 2,
     "guidelines/post-submersion": 2,
     "guidelines/postpartum-haemorrhage": 2,
-    "guidelines/psychosocial-hazards-work-health-safety": 1,
+    "guidelines/psychosocial-hazards-work-health-safety": 2,
     "guidelines/pulmonary-embolus": 2,
     "guidelines/rapid-arterial-occlusion-evaluation": 2,
     "guidelines/reflux": 2,
