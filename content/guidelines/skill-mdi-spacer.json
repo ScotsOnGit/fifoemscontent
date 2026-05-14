@@ -4,55 +4,55 @@
   "category": "skills",
   "skillsSubcategory": "medications",
   "tags": [
-    "MDI",
-    "metered dose inhaler",
+    "mdi",
     "spacer",
-    "puffer",
+    "space chamber",
     "salbutamol",
-    "asthma",
-    "inhalation"
+    "ipratropium"
   ],
   "synonyms": [
-    "Puffer",
-    "Spacer",
-    "Metered Dose Inhaler",
-    "Aerochamber"
+    "MDI & Space Chamber",
+    "MDI and Spacer"
   ],
   "sections": [
     {
       "id": "skill-mdi-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "A metered dose inhaler (MDI) with a spacer chamber delivers inhaled medication to the lower airways more effectively than an MDI alone. Using a spacer eliminates the need for precise hand-breath coordination, increases lung deposition, and reduces oral steroid deposition. Used for bronchodilators (salbutamol, ipratropium) in asthma and COPD.",
+      "content": "A metered dose inhaler with spacer is an effective way to deliver inhaled bronchodilator therapy in many prehospital patients. It can be quicker, cleaner, and less aerosol-generating than nebulisation, provided the patient can cooperate and move enough air to use it effectively.",
       "sortOrder": 0
     },
     {
       "id": "skill-mdi-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**With spacer (preferred):**\n\n1. Shake MDI vigorously for 5 seconds\n\n2. Remove cap from MDI and spacer mouthpiece\n\n3. Insert MDI into back of spacer\n\n4. Ask patient to exhale fully\n\n5. Seal lips around spacer mouthpiece (or apply mask for children/compromised patients)\n\n6. Press MDI once to release one actuation\n\n7. Patient takes 4–5 slow deep breaths through the spacer (5 second breath-hold if possible)\n\n8. Wait 30–60 seconds between actuations\n\n9. Repeat for prescribed number of doses\n\n**Mask attachment (infants/altered consciousness):**\n- Attach appropriately sized mask to spacer in place of mouthpiece\n- Apply snugly to face; actuate and allow 5–6 tidal breaths per actuation",
+      "content": "1. Prepare the inhaler and spacer according to device instructions\n2. Shake and insert the inhaler correctly\n3. Coach the patient to seal around the mouthpiece or use a mask if appropriate\n4. Deliver one actuation at a time and allow the patient to inhale through the spacer before repeating\n5. Reassess symptom relief, work of breathing, and objective observations after treatment",
       "sortOrder": 1
+    },
+    {
+      "id": "skill-mdi-considerations",
+      "type": "considerations",
+      "title": "Clinical Considerations",
+      "content": "- Spacer therapy is often appropriate for mild to moderate bronchospasm when the patient can cooperate\n- If the patient is severely breathless, exhausted, poorly cooperative, or unable to use the device effectively, escalate to other delivery methods according to local protocol\n- Infection-control and spacer hygiene still matter, especially in shared or stocked devices\n- The chosen delivery method should be based on patient capability and severity, not habit alone",
+      "sortOrder": 2
     },
     {
       "id": "skill-mdi-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- One actuation at a time — do not stack multiple puffs then inhale\n- Document: drug, number of actuations, patient response (SpO₂, auscultation, work of breathing)\n- Spacer should be cleaned periodically — static charge reduces drug delivery\n- For severe asthma: nebuliser is preferred over MDI/spacer when available",
-      "sortOrder": 2
+      "content": "- Use one actuation at a time rather than stacking multiple puffs into the chamber\n- Document the drug, number of actuations, and response\n- MDI with spacer can be highly effective when technique is good, but reassessment is essential to confirm that the patient is improving",
+      "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [
-    "salbutamol-sulphate",
-    "ipratropium-bromide"
+    "salbutamol",
+    "ipratropium"
   ],
   "relatedGuidelineIDs": [
     "asthma",
     "dyspnoea"
   ],
-  "relatedCalculatorIDs": [
-    "news2"
-  ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2025-01-15T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
