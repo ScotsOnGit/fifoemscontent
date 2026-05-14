@@ -32,7 +32,7 @@
       "id": "minor-injuries-epistaxis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Use aseptic technique for open wounds\n- Consider anticoagulant or antiplatelet use, recurrent bleeding, recent trauma, posterior bleeding, or coagulopathy\n- Posterior epistaxis may bleed more than is externally visible\n- Do not pack both nostrils unless advanced airway control and senior support are available",
+      "content": "- Use aseptic technique for open wounds\n- Consider anticoagulant or antiplatelet use, recurrent bleeding, recent trauma, posterior bleeding, or coagulopathy\n- Posterior epistaxis may bleed more than is externally visible\n- Hypertension, significant trauma, or haemodynamic compromise should prompt escalation rather than repeated prolonged scene treatment\n- Do not pack both nostrils unless advanced airway control and senior support are available",
       "sortOrder": 2
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

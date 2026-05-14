@@ -29,21 +29,21 @@
       "id": "snake-bite-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- All suspected snake bite patients should be transported for medical assessment\n- Most venom reaches the circulation via the lymphatic system, so early pressure immobilisation and rest are key first-aid measures for limb bites\n- Paralysis may be prolonged, and respiratory or cardiac arrest management may need to continue until definitive care\n- Definitive identification of envenomation and antivenom selection is hospital-based\n\n**Do not:**\n  - Walk the patient\n  - Cut, wash, suck, or interfere with the bite site\n  - Use an arterial tourniquet\n  - Remove pressure bandages or splints before medical review unless specifically directed\n  - Attempt to catch or kill the snake for identification",
+      "content": "- All suspected snake bite patients should be transported for medical assessment\n- Most venom reaches the circulation via the lymphatic system, so early pressure immobilisation and strict rest are key first-aid measures for limb bites\n- Paralysis may be prolonged, and respiratory or cardiac arrest management may need to continue until definitive care\n- Definitive identification of envenomation and antivenom selection are hospital-based decisions\n\n**Do not:**\n  - Walk the patient\n  - Cut, wash, suck, or interfere with the bite site\n  - Use an arterial tourniquet\n  - Remove pressure bandages or splints before medical review unless specifically directed\n  - Attempt to catch or kill the snake for identification",
       "sortOrder": 2
     },
     {
       "id": "snake-bite-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Assist ventilations as required\n- Manage cardiac arrest as per resuscitation guidelines\n- Keep the patient completely still and reassure them\n- For bites to a limb, apply a pressure immobilisation bandage and splint the limb as per clinical skill\n- For bites to the trunk, apply firm local pressure where feasible and keep the patient still\n- Monitor closely for respiratory depression, evolving weakness, and bleeding\n- Do not remove bandages or splints before hospital assessment unless specifically directed",
+      "content": "- Primary Survey\n- Assist ventilations as required\n- Manage cardiac arrest as per resuscitation guidelines\n- Keep the patient completely still and reassure them\n- For bites to a limb, apply a pressure immobilisation bandage and splint the limb as per clinical skill\n- For bites to the trunk, apply firm local pressure where feasible and keep the patient still\n- Monitor closely for respiratory depression, evolving weakness, and bleeding\n- Do not remove bandages or splints before hospital assessment unless specifically directed\n- Minimise movement, handling, and scene delays",
       "sortOrder": 3
     },
     {
       "id": "snake-bite-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider 12 lead ECG\n- Consider vascular access\n- Transport all suspected snake bites to hospital and escalate early if envenomation signs are present",
+      "content": "- Consider ECG and vascular access if clinically indicated and if this does not require excessive limb movement or compromise the pressure immobilisation strategy\n- Transport all suspected snake bites to hospital and escalate early if envenomation signs are present\n- Avoid unnecessary interventions that delay transport or disturb immobilisation",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
