@@ -16,7 +16,7 @@
       "id": "sepsis-septic-shock-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Sepsis is a life-threatening organ dysfunction due to a dysregulated host response to infection. Septic shock is a subset of sepsis and is a severe and potentially life-threatening condition that occurs as a result. Septic shock is an underlying circulatory and cellular/metabolic abnormalities are profound enough to substantially increase mortality.",
+      "content": "Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock is the subset of sepsis with profound circulatory and cellular or metabolic abnormalities, usually presenting with persistent hypoperfusion, hypotension, or both, and carries substantially increased mortality.",
       "sortOrder": 0
     },
     {
@@ -37,21 +37,21 @@
       "id": "sepsis-septic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Oxygen as indicated\n- Vital Sign Survey, with frequent reassessment of A to E\n- Use sepsis screening tools as an adjunct only\n- Do not rely on qSOFA alone to exclude or confirm sepsis\n- Maintain a high index of suspicion in any patient with suspected infection plus abnormal vital signs, altered mental state, signs of poor perfusion, or clinical deterioration\n- Minimise on scene time\n- Be prepared for deterioration and possible cardiac arrest",
+      "content": "- Primary Survey\n- Oxygen only as clinically indicated\n- Perform a focused A to E assessment and frequent reassessment\n- Use sepsis screening tools as an adjunct only\n- Do not rely on qSOFA alone to exclude or confirm sepsis\n- Maintain a high index of suspicion in any patient with suspected infection plus abnormal vital signs, altered mental state, poor perfusion, or clinical deterioration\n- Minimise scene time and arrange early hospital pre-notification when sepsis or septic shock is suspected\n- Be prepared for rapid deterioration and possible cardiac arrest",
       "sortOrder": 3
     },
     {
       "id": "sepsis-septic-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Obtain IV access early, 2x large bore where feasible\n- Collect pre-hospital blood sample where appropriate\n- Measure lactate via i-STAT CG4+* where applicable and if this does not delay care (*see addition information)\n- Consider crystalloid fluid resuscitation for hypotension or suspected hypoperfusion, with frequent reassessment for response and fluid overload\n- Consider early IV antibiotics only in consultation with on-call doctor\n- Apply cardiac monitoring\n- Escalate early for likely sepsis or septic shock\n- Consider adrenaline for hypotension only in consultation with on-call doctor (by infusion pump only where applicable)",
+      "content": "- Obtain IV access early, ideally two large-bore cannulas where feasible\n- Apply cardiac monitoring\n- Measure lactate where available if this does not delay care\n- Consider crystalloid fluid resuscitation for hypotension or suspected hypoperfusion, with frequent reassessment for response and fluid overload\n- Consider early IV antibiotics only in consultation with the on-call doctor and local protocol\n- Escalate early for likely sepsis or septic shock\n- Consider vasopressor support only in consultation with the on-call doctor and within local scope or infusion capability",
       "sortOrder": 4
     },
     {
       "id": "sepsis-septic-shock-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The qSOFA (quick Sequential Organ Failure Assessment) score is a bedside tool used to rapidly identify patients with suspected sepsis who may be at risk of a poor outcome.\nThe qSOFA score is based on three clinical criteria, each worth one point:\n1. Respiratory Rate: A respiratory rate of 22 or more breaths per minute\n2. Altered Mental Status: Measured by a drop in the Glasgow Coma Scale (GCS) score of 1 or more points\n3. Systolic Blood Pressure: A systolic blood pressure (SBP) of 100 mmHg or less\n- A score of 2 or more points suggests a higher risk of sepsis and may prompt further investigation and intervention\n- The majority of the sepsis 6 protocol can be initiated on site (blood cultures excepted):\n1. Administer oxygen\n2. Blood cultures*\n3. Administer broad spectrum intravenous antibiotics\n4. Administer intravenous fluids\n5. Measure lactate\n6. Measure urine output\n\n- I-STAT Lactate Testing (reference range 0.30 to 20.00 mmol/L):\n  - Normal Range: Less than 1.0 mmol/L.\n  - Hyperlactatemia (elevated lactate) 2.0 to 4.0 mmol/L: amber flag, review by on- call doctor.\n24 TOXINS",
+      "content": "- Screening tools and lactate are risk-stratification aids and should support, not replace, clinical judgement\n- Normal blood pressure does not exclude evolving septic shock\n- Sepsis management priorities in the prehospital setting are early recognition, supportive care, repeated reassessment, rapid transport, and early escalation\n- If meningococcal disease is suspected, follow the dedicated meningococcal or meningitis guidance and local antimicrobial protocol",
       "sortOrder": 5
     }
   ],
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z",
   "relatedCalculatorIDs": [
     "qsofa",
     "news2"

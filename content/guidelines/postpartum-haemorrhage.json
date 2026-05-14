@@ -36,27 +36,27 @@
       "id": "postpartum-haemorrhage-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Continuous support and reassurance\n- Keep the patient warm\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Apply direct pressure to visible external bleeding where appropriate\n- Collect clots or tissue for hospital evaluation if possible",
+      "content": "- Primary Survey\n- Continuous support and reassurance\n- Keep the patient warm and position appropriately\n- Perform frequent vital signs and reassessment\n- Consider oxygen if indicated\n- Encourage urgent transport and early obstetric or retrieval escalation\n- If the uterus is soft and uterine atony is suspected, encourage uterine massage only if within training and local protocol\n- Collect clots or tissue for hospital evaluation if practical\n- Be alert to concealed blood loss and rapid deterioration",
       "sortOrder": 3
     },
     {
       "id": "postpartum-haemorrhage-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access, ideally two large-bore cannulas where possible\n- Consider point-of-care haemoglobin if available\n- Begin fluid resuscitation while expediting transfer and definitive care\n- Consider TXA in consultation with the on-call doctor where clinically appropriate\n- Consider antibiotic therapy only in consultation with the on-call doctor when secondary PPH or infection is suspected\n- Monitor closely and record observations frequently",
+      "content": "- ECG\n- Gain IV access, ideally two large-bore cannulas where possible\n- Begin fluid resuscitation while expediting transfer and definitive care\n- Consider point-of-care haemoglobin if available\n- Consider TXA in consultation with the on-call doctor and local protocol where clinically appropriate\n- Consider uterotonic therapy only within local protocol, scope, and senior direction\n- Consider antibiotic therapy only in consultation with the on-call doctor when secondary PPH or infection is suspected\n- Monitor closely and record observations frequently",
       "sortOrder": 4
     },
     {
       "id": "postpartum-haemorrhage-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- The main management targets are tone, tissue, trauma, and thrombin\n- Escalate early to obstetric and retrieval support for any significant haemorrhage or shock",
+      "content": "- The main management targets are tone, tissue, trauma, and thrombin\n- Escalate early to obstetric and retrieval support for any significant haemorrhage or shock\n- Blood loss is commonly underestimated, and haemodynamic compromise may appear late",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }

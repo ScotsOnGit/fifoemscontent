@@ -37,21 +37,21 @@
       "id": "pulmonary-embolus-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Prioritise airway, breathing, and circulation\n- Oxygen if required, titrated to clinical need\n- Position patient to optimise breathing (usually sitting upright)\n- Vital Signs\n- Provide appropriate analgesia if required\n- Limb lead ECG\n- Secondary Survey",
+      "content": "- Primary Survey\n- Prioritise airway, breathing, and circulation\n- Oxygen only if required, titrated to clinical need\n- Position patient to optimise breathing, usually sitting upright if tolerated\n- Perform regular vital signs and frequent reassessment\n- Provide appropriate analgesia if required\n- Obtain ECG monitoring where available\n- Consider Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "pulmonary-embolus-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- Consider small fluid boluses only if hypotensive and reassess frequently\n- Consider stronger analgesia if required\n- Consider antiemetic if required\n- 12 lead ECG\n- Anticoagulation decisions should be made under local protocol and senior medical direction rather than used routinely from this guideline alone",
+      "content": "- Gain IV access\n- Perform 12 lead ECG\n- Consider small fluid boluses only if hypotensive and reassess frequently, especially if right ventricular strain is suspected\n- Consider stronger analgesia if required\n- Consider antiemetic if required\n- Anticoagulation decisions should be made under local protocol and senior medical direction rather than used routinely from this guideline alone\n- Escalate early for hypotension, syncope, marked hypoxia, or suspected massive PE",
       "sortOrder": 4
     },
     {
       "id": "pulmonary-embolus-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- D-dimer Test\n- Most important blood test for suspected pulmonary embolism\n- A D-dimer is a breakdown product of fibrin (a blood clot protein)\n- Elevated D-dimer suggests recent or ongoing clot formation and breakdown\n- Use: In patients with low or intermediate risk (assessed via Wells score or similar), a negative D-dimer (< age-adjusted threshold) effectively rules out PE, and no further imaging is generally needed\n- Limitation: A positive D-dimer is not specific to PE and may be seen in infection, inflammation, malignancy, trauma, surgery, pregnancy, or increasing age. A positive result prompts imaging for confirmation\n- No evidence suggests aspirin has short-term therapeutic benefit in acute PE:\nAspirin is crucial in managing acute coronary syndromes but plays no proven role in the immediate stabilization or outcome improvement in PE patients\n\n**Possible ECG changes due to PE:**\n  - Sinus tachycardia is the most common ECG abnormality, present in approximately 38–44% of patients with acute PE\n  - T wave inversion in lead V1 is seen in 38% of cases; T wave inversions in the right precordial leads (V1–V4) and/or inferior leads (II, III, aVF) occur in 34–38% and are highly specific for PE when found together\n  - ST elevation in lead aVR appears in around 36% of patients\n  - S1Q3T3 pattern (deep S in LEAD I, Q in LEAD III, inverted T in LEAD III) is seen in about 20% of patients but is neither highly sensitive nor specific for PE\n  - Right bundle branch block (RBBB)-complete or incomplete-shows up in about 18% of cases\n  - Right ventricular strain pattern (T wave inversions, right axis deviation) is found in 16– 34%\n  - Right atrial enlargement (P pulmonale) is noted in 9%\n  - Atrial tachyarrhythmias are reported in 8% of patients\n  - Non-specific ST segment and T wave changes: Up to 50% of patients may show these findings\n  - The Pulmonary Embolism Rule-Out Criteria (PERC) is an eight-point checklist used to identify low-risk patients in whom pulmonary embolism (PE) can safely be ruled out without further testing if all negative criteria are met\n  - PERC Criteria\n  - Age < 50 years\n  - Heart rate < 100 beats per minute\n  - Oxygen saturation ≥ 95% on room air\n  - No haemoptysis\n  - No exogenous estrogen use (such as oral contraceptives)\n  - No prior deep vein thrombosis (DVT) or pulmonary embolism\n  - No unilateral leg swelling\n  - No surgery or trauma requiring hospitalization in the previous 4 weeks\n  - PERC should only be applied to those with a low clinical probability of PE. If any criterion is positive, further diagnostic testing should be considered 20 COMMON PRESENCE COMMONPRESENNCE",
+      "content": "- D-dimer, formal risk scores, and definitive imaging are hospital decisions and should not delay transport from a prehospital guideline\n- A normal ECG does not exclude PE\n- Sinus tachycardia is common, but ECG changes are neither sensitive nor specific enough to rule PE in or out on their own\n- Aspirin has no established role in the immediate treatment of acute PE",
       "sortOrder": 5
     }
   ],
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z",
   "relatedCalculatorIDs": [
     "wells-pe",
     "revised-geneva",

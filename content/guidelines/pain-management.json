@@ -37,14 +37,14 @@
       "id": "pain-management-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Record vital signs, including pain score before and after analgesia\n- Secondary Survey\n- Consider non-pharmacological strategies such as positioning, reassurance, immobilisation, splinting, and cooling where appropriate\n- Consider simple analgesia such as paracetamol or an NSAID if appropriate and not contraindicated\n- Consider methoxyflurane where appropriate\n- Call the on-call doctor for advice if stronger analgesia is required or if treatment is outside scope",
+      "content": "- Primary Survey\n- Record vital signs, including pain score before and after analgesia\n- Perform a focused secondary survey\n- Use non-pharmacological strategies early, such as positioning, reassurance, splinting, immobilisation, cooling, or gentle handling as appropriate\n- Consider simple analgesia such as paracetamol or an NSAID only when appropriate and not contraindicated\n- Consider methoxyflurane where appropriate within scope\n- Start with the least invasive effective option and escalate according to severity, cause, comorbidity, and scope\n- Seek senior clinical advice early if pain remains severe or treatment is outside scope",
       "sortOrder": 3
     },
     {
       "id": "pain-management-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider further oral, intranasal, IM, or IV analgesia in line with local protocol and scope\n- Intranasal fentanyl may be appropriate where available and indicated\n- IV opioids should be titrated carefully to effect with close monitoring for respiratory depression, hypotension, and sedation\n- Consider antiemetic where required\n- Consider cardiac monitoring when using parenteral opioids or when clinically indicated",
+      "content": "- Consider IV access when stronger analgesia, repeated medication, or antiemetic therapy may be required\n- Consider further oral, intranasal, IM, or IV analgesia in line with local protocol and scope\n- Intranasal fentanyl may be appropriate where available and indicated\n- IV opioids should be titrated carefully to effect with close monitoring for respiratory depression, hypotension, and sedation\n- If combining agents, use smaller incremental doses and monitor closely for synergistic adverse effects\n- Consider antiemetic where required\n- Consider cardiac monitoring when using parenteral opioids or when clinically indicated",
       "sortOrder": 4
     },
     {
@@ -71,8 +71,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "weight-based-dosing"

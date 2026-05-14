@@ -31,21 +31,21 @@
       "id": "acute-coronary-syndrome-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Suspicion of acute myocardial ischemia (AMI) should be based on a thorough patient history and their clinical presentation. A normal or non-diagnostic ECG does not exclude ACS, and ongoing assessment is essential in patients with persistent symptoms\n- Multiple 12-lead ECGs are recommended in patients with ongoing symptoms and high clinical suspicion for ACS. If the initial ECG is non-diagnostic, repeat ECGs should be performed at least every 15 minutes to capture evolving ischemic changes. The absence of ischaemic signs on the ECG does not exclude AMI. AMI is diagnosed by presenting history, serial ECGs and serial enzyme tests\n- Early defibrillator pad placement is advised for all cases of confirmed STEMI to facilitate rapid defibrillation if required\n\n- Right ventricular and inferior STEMIs (ST elevation in leads II, III, and aVF) are commonly associated with significant hypotension and bradycardia. Glyceryl trinitrate (GTN) should be avoided unless specifically directed by the on-call medical officer or Royal Flying Doctor Service (RFDS). Early fluid resuscitation should be initiated if indicated\n- Patients with a history of diabetes are at increased risk of atypical ACS presentations, including the absence of chest pain. High clinical suspicion is warranted in these patients, even in the absence of classic symptoms\n- Glyceryl Trinitrate (GTN) Administration and Risk of Hypotension\n- GTN administration can precipitate severe hypotension in susceptible patients, particularly those with right ventricular, inferior STEMI, bradycardia, though this is a rare event. Careful patient selection and monitoring are required\n- New onset angina should be considered unstable until proven otherwise, and managed promptly with appropriate risk stratification and intervention\n- Suspected ACS-related pain that has spontaneously resolved warrants investigation in hospital\n- If within the window for reperfusion, rapid transport or evacuation should organised",
+      "content": "- Suspected ACS should be judged from the history, risk profile, examination, and serial ECG findings rather than any single feature\n- A normal or initially non-diagnostic ECG does not exclude ACS\n- Repeat 12 lead ECGs are recommended in patients with ongoing symptoms, recurrent pain, or high clinical suspicion\n- If the first ECG is non-diagnostic and symptoms continue, repeat ECGs at least every 15 minutes where feasible\n- Early defibrillator pad placement is reasonable for confirmed STEMI or patients felt to be at high risk of deterioration\n- Inferior or right ventricular STEMI may be associated with hypotension and bradycardia; avoid GTN unless haemodynamically appropriate and discussed with the on-call doctor when there is concern for right ventricular involvement\n- GTN may precipitate hypotension in preload-dependent patients or in those who have recently used phosphodiesterase-5 inhibitors\n- Patients with diabetes, older age, or female sex may have atypical ACS presentations\n- Spontaneously resolving ischaemic pain still warrants hospital evaluation\n- If reperfusion or urgent specialist review may be indicated, minimise delays and organise rapid transport or evacuation",
       "sortOrder": 2
     },
     {
       "id": "acute-coronary-syndrome-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Reassurance (continuous)\n- Administer oxygen only if the patient is hypoxaemic, in respiratory distress, or has features of heart failure or shock\n- Do not give oxygen routinely to patients with normal oxygen saturation\n- Limit patients’ exertion as much as practically possible\n- Vital Sign Survey (monitor regularly including pre-and-post intervention pain scores)\n- 12 lead ECG where trained to do so\n- If STEMI or STEMI Equivalent, consider placement of defibrillation pads\n- Send ECG to on-call doctor for review\n- Aspirin (300mg)\n- Early Glyceryl Trinitrate (GTN) (if BP suitable)\n- Consider Secondary Survey",
+      "content": "- Primary Survey\n- Continuous reassurance and minimise patient exertion\n- Administer oxygen only if the patient is hypoxaemic, in respiratory distress, or has features of heart failure or shock\n- Do not give oxygen routinely to patients with normal oxygen saturation\n- Perform and repeat vital signs, including pain scores before and after intervention\n- Obtain a 12 lead ECG where trained to do so and repeat if symptoms continue or recur\n- If STEMI or STEMI equivalent is suspected, consider early defibrillation pad placement\n- Send ECG to the on-call doctor for review where available\n- Administer aspirin 300 mg as early as possible unless contraindicated\n- Consider GTN only if blood pressure and clinical context are suitable\n- Consider Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "acute-coronary-syndrome-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- Consider alternative views (inferior V4R, V5R, V6R) (posterior V7, V8, V9, MCL1) where indicated\n- Gain vascular access, bilateral cannulas, 18g or wider bore Management Cont.\n- Consider appropriate analgesia (Fentanyl preferred in consultation with on-call doctor)\n- Consider antiemetic if required\n- Consider Enoxaparin in consultation with on-call doctor",
+      "content": "- Repeat or extended 12 lead ECG assessment as clinically indicated, including right-sided or posterior leads when relevant\n- Gain vascular access\n- Consider appropriate analgesia, usually fentanyl titrated to effect in consultation with the on-call doctor when required\n- Consider antiemetic if required\n- Consider small fluid boluses if hypotensive and right ventricular involvement is suspected\n- Anticoagulation decisions such as enoxaparin should be made under local protocol and senior medical direction rather than used routinely from this guideline alone",
       "sortOrder": 4
     },
     {
@@ -65,8 +65,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z",
   "relatedCalculatorIDs": [
     "heart-score",
     "sgarbossa-criteria",

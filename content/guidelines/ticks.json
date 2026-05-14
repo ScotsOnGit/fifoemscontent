@@ -42,7 +42,7 @@
       "id": "ticks-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG\n- Consider IV access\n- Consider alternative pain relief if cold compress ineffective\n- Manage anaphylaxis as per CPG",
+      "content": "- Consider ECG only if clinically indicated\n- Consider IV access if anaphylaxis, significant allergy, or marked deterioration is present\n- Manage anaphylaxis immediately if it develops\n- Otherwise, advanced management is rarely required beyond observation, symptom control, and appropriate escalation",
       "sortOrder": 4
     },
     {
@@ -56,6 +56,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-14T00:00:00Z"
 }
