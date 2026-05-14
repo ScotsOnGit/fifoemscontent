@@ -29,21 +29,21 @@
       "id": "dyspnoea-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Hypoxic aggression / irritability\n- Oxygen rejection may be due to hypoxia\n- Never cease oxygen administration if patient's level of consciousness or breathing deteriorates; oxygen almost never depresses breathing in the field and can usually be attributed exhaustion and fatigue (especially of the diaphragm). Exhaustion can depress breathing and/or level of consciousness, even if the patient is given oxygen\n- Whilst hyperventilation is usually associated with severe emotional stress, do not over- diagnose \"hyperventilation\" in the field. Your patient could have a pulmonary embolus or other serious problem\n- ACS can manifest as dyspnoea and may be the only indication of an acute myocardial infarction, therefore the need for a 12-Lead ECG should be considered\n- Oedematous upper airway of rapid onset and airway obstruction due to neck trauma have a high potential to evolve into complete airway obstruction. Neck trauma can cause rapid oedema and complete airway obstruction\n- Partial airway obstruction may progress to complete obstruction. Limit interventions to only those essential to maintain oxygenation. Always prepare for the management of a complete obstruction\n- Causes to dyspnoea to consider are airway obstruction, cardiovascular compromise, neurological causes, respiratory compromise, thoracic musculoskeletal compromise",
+      "content": "- Agitation, confusion, or oxygen-mask intolerance may reflect hypoxia, exhaustion, or evolving airway failure\n- Oxygen should be titrated to clinical need rather than used or withheld according to a single rule\n- Do not over-diagnose hyperventilation syndrome in the field when serious pathology such as pulmonary embolus, ACS, sepsis, pneumothorax, or toxic exposure may be present\n- ACS can present primarily as dyspnoea, so a 12 lead ECG should be considered where appropriate\n- Upper-airway oedema, neck trauma, or partial airway obstruction can progress rapidly to complete obstruction\n- Limit interventions to those that preserve oxygenation, ventilation, and timely transport when the patient is critical\n- Causes of dyspnoea to consider include airway obstruction, respiratory disease, cardiac failure, pulmonary embolus, metabolic acidosis, toxic exposure, neurological impairment, or thoracic trauma",
       "sortOrder": 2
     },
     {
       "id": "dyspnoea-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Continuous reassurance\n- Treat airway obstruction\n- If respiratory distress is caused by exposure to any hazardous substance, remove substance or patient if safe to do so. Assistance from site-based Emergency Response Teams, Emergency Service (DFES) or other appropriate resource may be required\n- Position patient appropriately (sitting upright or in a position of comfort; lateral position if unconscious, consider appropriate position in suspected spinal injury)\n- Conduct Vital Sign Survey, particularly respiratory rate and pulse oximetry\n- Consider oxygen therapy and titrate to clinical need\n- Ventilate the patient if required\n- Auscultate for diagnostic clues: wheeze, crackles, pleuritic rub, silent chest\n- Limb lead ECG\n- Consider Secondary Survey",
+      "content": "- Primary Survey\n- Continuous reassurance while minimising patient effort and unnecessary movement\n- Treat life-threatening airway obstruction immediately\n- If respiratory distress is caused by hazardous exposure, remove the patient or substance only if safe to do so and request appropriate hazard support early\n- Position the patient to optimise breathing and airway protection\n- Perform frequent vital signs, particularly respiratory rate, effort, and oxygen saturation\n- Give oxygen only as clinically indicated and titrate to need\n- Ventilate the patient if required\n- Auscultate for diagnostic clues such as wheeze, crackles, stridor, pleuritic rub, or silent chest\n- Apply ECG monitoring where available\n- Consider Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "dyspnoea-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Manage underlying condition if known\n- Wheeze/silent chest: Asthma guideline\n- Crackles/Pleuritic rub: Chest Infection guideline\n- Pain/Trauma: Pain Management / Chest Trauma guideline\n- Consider advanced Airway if indicated\n- Consider IV access\n- 12 lead ECG",
+      "content": "- Manage the likely underlying condition if identified\n- Follow the asthma, heart failure, chest trauma, anaphylaxis, ACS, or pulmonary embolus guideline as appropriate\n- Consider advanced airway management if indicated and within scope\n- Consider IV access if advanced therapy or deterioration is likely\n- Obtain a 12 lead ECG when clinically appropriate",
       "sortOrder": 4
     }
   ],
@@ -54,8 +54,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu"
