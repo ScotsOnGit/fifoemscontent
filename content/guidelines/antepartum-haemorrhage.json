@@ -1,0 +1,70 @@
+{
+  "id": "antepartum-haemorrhage",
+  "title": "Antepartum Haemorrhage",
+  "category": "obstetric",
+  "tags": [
+    "pregnancy",
+    "vaginal bleeding",
+    "placenta praevia",
+    "placental abruption",
+    "obstetric"
+  ],
+  "synonyms": [
+    "Antepartum Haemorrhage",
+    "Haemorrhage During Pregnancy",
+    "Vaginal Bleeding in Pregnancy"
+  ],
+  "sections": [
+    {
+      "id": "antepartum-haemorrhage-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Antepartum haemorrhage is bleeding from the genital tract after approximately 20 weeks gestation and before birth. Important causes include placenta praevia, placental abruption, labour-related bleeding, uterine rupture, and vasa praevia, and any significant bleeding should be treated as a time-critical obstetric emergency.",
+      "sortOrder": 0
+    },
+    {
+      "id": "antepartum-haemorrhage-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Vaginal bleeding, which may be light, heavy, intermittent, or partly concealed\n- Abdominal pain, uterine tenderness, or a rigid abdomen\n- Back pain, contractions, or signs of labour\n- Syncope, tachycardia, hypotension, pallor, or shock\n- Reduced fetal movement if this is known or reported",
+      "sortOrder": 1
+    },
+    {
+      "id": "antepartum-haemorrhage-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Pregnant patients may compensate well before obvious shock develops and can deteriorate rapidly\n- Placenta praevia may bleed with little pain, while placental abruption often causes pain, uterine irritability, or tenderness\n- Significant haemorrhage may be partly concealed and visible blood loss can underestimate severity\n- Do not perform digital vaginal examination in the prehospital setting",
+      "sortOrder": 2
+    },
+    {
+      "id": "antepartum-haemorrhage-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Position the patient to minimise aortocaval compression if late pregnancy is suspected\n- Keep the patient warm, reassured, and under close observation\n- Perform frequent vital signs and reassessment\n- Give oxygen only if clinically indicated\n- Treat any associated labour, pain, or collapse as high risk\n- Prioritise urgent transport and early pre-notification to an appropriate obstetric-capable facility",
+      "sortOrder": 3
+    },
+    {
+      "id": "antepartum-haemorrhage-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Gain IV access early if bleeding is significant, the patient is unstable, or deterioration is possible\n- Begin resuscitative fluid therapy where clinically indicated while expediting transfer\n- Consider analgesia and anti-emetic therapy within scope and protocol\n- Consider point-of-care haemoglobin or other monitoring only if this does not delay transfer\n- Escalate early to obstetric, retrieval, or senior clinical support",
+      "sortOrder": 4
+    },
+    {
+      "id": "antepartum-haemorrhage-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Any substantial bleeding, pain, syncope, or abnormal observations should be treated seriously even if bleeding has slowed or stopped\n- Placental abruption and uterine rupture can present with pain and shock out of proportion to visible blood loss\n- Record gestation if known, bleeding description, pain, and whether fetal movement was reported",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "ectopic-pregnancy",
+    "postpartum-haemorrhage",
+    "hypovolaemic-shock"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "croup",
+  "title": "Croup",
+  "category": "respiratory",
+  "tags": [
+    "croup",
+    "paediatric",
+    "stridor",
+    "airway",
+    "respiratory"
+  ],
+  "synonyms": [
+    "Croup",
+    "Laryngotracheobronchitis"
+  ],
+  "sections": [
+    {
+      "id": "croup-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Croup is an upper airway illness, usually viral, that causes subglottic swelling and a characteristic barking cough with stridor. The key prehospital priorities are keeping the child calm, avoiding unnecessary distress, and recognising when upper airway obstruction is worsening.",
+      "sortOrder": 0
+    },
+    {
+      "id": "croup-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Barking cough and hoarse voice\n- Inspiratory stridor, especially at rest in more severe cases\n- Increased work of breathing, agitation, or fatigue\n- Fever may be present, but toxic appearance or drooling should raise concern for an alternate diagnosis",
+      "sortOrder": 1
+    },
+    {
+      "id": "croup-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Distress can worsen obstruction, so examination should be calm and minimal\n- Stridor at rest, fatigue, cyanosis, poor respiratory effort, or reduced conscious state are high-risk features\n- Differential diagnoses include epiglottitis, anaphylaxis, bacterial tracheitis, foreign body, and retropharyngeal pathology\n- Avoid upsetting the child with unnecessary procedures if the airway is marginal",
+      "sortOrder": 2
+    },
+    {
+      "id": "croup-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Keep the child with the caregiver and avoid unnecessary separation or handling\n- Allow the child to remain in the position of comfort\n- Give oxygen only if it can be tolerated without increasing distress or if clinically essential\n- Escalate early and prepare for rapid transport if stridor is present at rest or the child is tiring",
+      "sortOrder": 3
+    },
+    {
+      "id": "croup-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Consider nebulised or IM adrenaline only within local protocol and scope for moderate to severe croup\n- Consider corticosteroid therapy in line with local protocol or senior direction\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
+      "sortOrder": 4
+    },
+    {
+      "id": "croup-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- A calm child with only a barking cough may be relatively low risk, while a quiet child with stridor and fatigue may be critically unwell\n- Document whether stridor was present only when upset or also at rest\n- A child with drooling, tripod posture, or toxic appearance needs urgent alternate-diagnosis thinking",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline-epinephrine",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "foreign-body-airway-obstruction",
+    "dyspnoea"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cord-prolapse",
+  "title": "Cord Prolapse",
+  "category": "obstetric",
+  "tags": [
+    "umbilical cord",
+    "prolapse",
+    "pregnancy",
+    "birth",
+    "obstetric emergency"
+  ],
+  "synonyms": [
+    "Cord Prolapse",
+    "Umbilical Cord Prolapse"
+  ],
+  "sections": [
+    {
+      "id": "cord-prolapse-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cord prolapse is an obstetric emergency in which the umbilical cord descends below or beside the presenting part after membrane rupture, risking acute fetal hypoxia from compression. Immediate off-loading of the presenting part and rapid transfer are the priorities.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cord-prolapse-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Visible or palpable cord after rupture of membranes\n- Sudden fetal compromise reported by birth team or associated with obstetric history if monitored\n- High-risk settings include malpresentation, prematurity, multiple pregnancy, or unengaged presenting part",
+      "sortOrder": 1
+    },
+    {
+      "id": "cord-prolapse-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Delays in recognition and decompression can rapidly worsen fetal outcome\n- Avoid unnecessary handling of the cord because this may worsen vasospasm or trauma\n- If the cord is visible, note the time of presentation and keep it protected from drying and pressure\n- Transport positioning should be safe for the patient and practical for maintaining decompression",
+      "sortOrder": 2
+    },
+    {
+      "id": "cord-prolapse-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Call for urgent obstetric support and expedite transport immediately\n- Avoid touching or pushing the cord back into the vagina\n- Position the patient to reduce pressure on the cord, using the safest effective method available\n- Keep the patient reassured, warm, and under continuous observation\n- If birth is clearly imminent, prepare for delivery and neonatal resuscitation",
+      "sortOrder": 3
+    },
+    {
+      "id": "cord-prolapse-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, symptomatic, or delivery appears imminent\n- Consider analgesia and anti-emetic therapy within scope where this supports safe positioning and transport\n- Pre-notify the receiving obstetric-capable facility early because emergency operative delivery may be required",
+      "sortOrder": 4
+    },
+    {
+      "id": "cord-prolapse-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- A safe exaggerated lateral or knee-chest style off-loading position may help, but maternal safety during transport still matters\n- If the mother is actively delivering and birth cannot be prevented, shift focus to the fastest safe birth and neonatal support\n- Document the time the cord was first seen, maternal position, and transport urgency",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "skill-breech-delivery",
+    "skill-shoulder-dystocia",
+    "postpartum-haemorrhage"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

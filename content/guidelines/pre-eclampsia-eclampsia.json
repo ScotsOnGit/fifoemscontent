@@ -1,0 +1,72 @@
+{
+  "id": "pre-eclampsia-eclampsia",
+  "title": "Pre-Eclampsia & Eclampsia",
+  "category": "obstetric",
+  "tags": [
+    "pregnancy",
+    "hypertension",
+    "eclampsia",
+    "seizure",
+    "obstetric"
+  ],
+  "synonyms": [
+    "Pre-Eclampsia",
+    "Eclampsia",
+    "Hypertension in Pregnancy"
+  ],
+  "sections": [
+    {
+      "id": "pre-eclampsia-eclampsia-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Pre-eclampsia is a hypertensive disorder of pregnancy associated with maternal end-organ dysfunction and risk to both mother and fetus. Eclampsia is the occurrence of seizures in this setting and should be treated as a life-threatening obstetric emergency.",
+      "sortOrder": 0
+    },
+    {
+      "id": "pre-eclampsia-eclampsia-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Hypertension in pregnancy, especially if severe or rising rapidly\n- Severe headache, visual disturbance, photophobia, or altered mental state\n- Epigastric or right upper quadrant pain\n- Nausea, vomiting, hyperreflexia, clonus, or seizure activity\n- Dyspnoea, pulmonary oedema, or reduced fetal movement where reported",
+      "sortOrder": 1
+    },
+    {
+      "id": "pre-eclampsia-eclampsia-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Symptoms can precede seizure, stroke, intracranial haemorrhage, pulmonary oedema, or placental complications\n- Pregnant patients can deteriorate rapidly and severe symptoms matter even before extreme blood pressure values are confirmed\n- Any seizure in a pregnant or recently postpartum patient should raise concern for eclampsia until another cause is clear\n- Left lateral positioning or uterine displacement may improve maternal perfusion in later pregnancy",
+      "sortOrder": 2
+    },
+    {
+      "id": "pre-eclampsia-eclampsia-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Treat seizures promptly under the seizure pathway if present\n- Position to minimise aortocaval compression where appropriate\n- Perform frequent blood pressure, conscious state, and respiratory reassessment\n- Give oxygen only if clinically indicated\n- Keep stimulation low where possible and prioritise urgent transport to an obstetric-capable facility",
+      "sortOrder": 3
+    },
+    {
+      "id": "pre-eclampsia-eclampsia-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Consider magnesium sulphate only within local protocol, scope, and senior support when eclampsia or severe pre-eclampsia is suspected\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction\n- Pre-notify receiving obstetric or emergency team early",
+      "sortOrder": 4
+    },
+    {
+      "id": "pre-eclampsia-eclampsia-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Severe headache, visual symptoms, seizure, RUQ pain, pulmonary oedema, or marked hypertension should all increase urgency\n- Eclamptic seizures may recur, so ongoing vigilance after apparent recovery is essential\n- Record gestation if known, blood pressure trend, neurological symptoms, and seizure details",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "magnesium-sulphate"
+  ],
+  "relatedGuidelineIDs": [
+    "seizures",
+    "postpartum-haemorrhage",
+    "hypovolaemic-shock"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

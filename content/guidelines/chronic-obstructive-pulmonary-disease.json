@@ -1,0 +1,74 @@
+{
+  "id": "chronic-obstructive-pulmonary-disease",
+  "title": "Chronic Obstructive Pulmonary Disease",
+  "category": "respiratory",
+  "tags": [
+    "copd",
+    "respiratory",
+    "breathing",
+    "wheeze"
+  ],
+  "synonyms": [
+    "COPD",
+    "Chronic Obstructive Pulmonary Disease",
+    "Exacerbation of COPD"
+  ],
+  "sections": [
+    {
+      "id": "chronic-obstructive-pulmonary-disease-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Chronic obstructive pulmonary disease is a chronic airflow-limiting lung disease that can acutely worsen because of infection, bronchospasm, fluid overload, pneumothorax, or other triggers. Prehospital care focuses on recognising severity, treating reversible contributors, and supporting oxygenation and ventilation without over-fixating on a single number.",
+      "sortOrder": 0
+    },
+    {
+      "id": "chronic-obstructive-pulmonary-disease-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Dyspnoea, wheeze, cough, or increased sputum\n- Increased work of breathing, accessory muscle use, or fatigue\n- Hypoxia, cyanosis, confusion, or reduced exercise tolerance\n- Fever, chest pain, unilateral findings, or swelling may point to other or additional pathology",
+      "sortOrder": 1
+    },
+    {
+      "id": "chronic-obstructive-pulmonary-disease-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- COPD exacerbation is a clinical diagnosis, but differentials such as asthma, heart failure, pneumonia, pulmonary embolus, and pneumothorax remain important\n- A patient with COPD may still need substantial oxygen if severely hypoxic or peri-arrest\n- Rising fatigue, reduced conscious state, poor air movement, or inability to speak are high-risk features\n- Positive pressure support may be appropriate in selected patients who are tiring but still protecting their airway",
+      "sortOrder": 2
+    },
+    {
+      "id": "chronic-obstructive-pulmonary-disease-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Position upright or in another position of comfort if tolerated\n- Perform frequent respiratory reassessment, including work of breathing and mental state\n- Titrate oxygen to clinical need and avoid both untreated hypoxia and unnecessary hyperoxia\n- Administer bronchodilator therapy within local protocol and patient capability\n- Escalate early if ventilation appears to be failing or another pathology is suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "chronic-obstructive-pulmonary-disease-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Consider ipratropium and other bronchodilator adjuncts within protocol\n- Consider corticosteroid therapy in line with local protocol or senior direction\n- Consider non-invasive ventilation where indicated, tolerated, and within scope\n- Gain vascular access if advanced therapy is likely or deterioration is occurring\n- Manage alternative causes such as pneumothorax, pulmonary oedema, or sepsis when suggested by the presentation",
+      "sortOrder": 4
+    },
+    {
+      "id": "chronic-obstructive-pulmonary-disease-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- COPD patients may have chronic symptoms, so the key question is what is different or worse today\n- Oxygen decisions should be based on the whole clinical picture, not on the label of COPD alone\n- Record baseline therapy if known, response to bronchodilators, and features suggesting an alternate diagnosis",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "ipratropium-bromide",
+    "oxygen",
+    "prednisolone",
+    "salbutamol-sulphate"
+  ],
+  "relatedGuidelineIDs": [
+    "asthma",
+    "dyspnoea",
+    "acute-decompensated-heart-failure"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

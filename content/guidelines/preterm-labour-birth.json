@@ -1,0 +1,70 @@
+{
+  "id": "preterm-labour-birth",
+  "title": "Preterm Labour & Birth",
+  "category": "obstetric",
+  "tags": [
+    "pregnancy",
+    "preterm",
+    "labour",
+    "birth",
+    "neonate"
+  ],
+  "synonyms": [
+    "Preterm Labour",
+    "Preterm Birth",
+    "Premature Labour"
+  ],
+  "sections": [
+    {
+      "id": "preterm-labour-birth-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Preterm labour refers to labour before 37 weeks gestation. The major prehospital issues are recognising when birth is truly imminent, expediting obstetric transfer when it is not, and preparing for a premature neonate when birth cannot be avoided.",
+      "sortOrder": 0
+    },
+    {
+      "id": "preterm-labour-birth-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Regular contractions or escalating pelvic pressure before 37 weeks gestation\n- Vaginal fluid loss, bleeding, mucus plug loss, or rupture of membranes\n- Lower back pain or abdominal pain\n- Visible presenting part or urge to push if birth is imminent",
+      "sortOrder": 1
+    },
+    {
+      "id": "preterm-labour-birth-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Not all preterm contractions lead to birth, so transport may still be the main priority\n- The earlier the gestation, the greater the neonatal risk from respiratory failure, hypothermia, and the need for specialist care\n- If birth appears unavoidable, preparation for neonatal resuscitation and warmth becomes critical\n- Malpresentation, cord prolapse, and postpartum haemorrhage may complicate preterm delivery",
+      "sortOrder": 2
+    },
+    {
+      "id": "preterm-labour-birth-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Position the patient appropriately and minimise aortocaval compression in later pregnancy\n- Perform frequent reassessment and document contraction pattern and progression if practical\n- Give oxygen only if clinically indicated\n- If birth is not imminent, prioritise prompt obstetric-capable transport\n- If birth is imminent, prepare for childbirth, neonatal warmth, and newborn resuscitation",
+      "sortOrder": 3
+    },
+    {
+      "id": "preterm-labour-birth-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, delivery is imminent, or complications are suspected\n- Consider analgesia and anti-emetic therapy within scope where appropriate\n- Pre-notify the receiving obstetric or neonatal-capable service early\n- If preterm birth is unavoidable, prepare actively for premature neonatal support and likely retrieval needs",
+      "sortOrder": 4
+    },
+    {
+      "id": "preterm-labour-birth-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- A premature neonate is at especially high risk of hypothermia, so warmth should be planned before delivery if possible\n- When in doubt about neonatal viability or resuscitation, begin supportive measures while clarifying the situation\n- Record gestation if known, contraction pattern, membrane status, and whether delivery seemed imminent",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "skill-childbirth",
+    "cord-prolapse",
+    "postpartum-haemorrhage"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}
