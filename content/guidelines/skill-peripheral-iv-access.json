@@ -21,28 +21,28 @@
       "id": "skill-iv-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Peripheral intravenous (IV) cannulation provides vascular access for fluid and medication administration. Prehospital IV access should not delay scene time for time-critical conditions (e.g. STEMI, trauma); it should be established en route when possible.",
+      "content": "Peripheral IV cannulation provides access for fluids, medications, and blood sampling when clinically indicated. In prehospital care it should support the case, not prolong scene time or distract from more urgent priorities such as transport, airway, or haemorrhage control.",
       "sortOrder": 0
     },
     {
       "id": "skill-iv-sites",
       "type": "management_basic",
       "title": "Site Selection",
-      "content": "**Preferred sites (proximal to distal):**\n- Antecubital fossa (cephalic, basilic, median cubital veins) - large bore access, rapid infusion\n- Forearm (cephalic, basilic)\n- Dorsum of hand\n- External jugular (for difficult access or cardiac arrest)\n\n**Avoid:**\n- Injured limb, limb with dialysis fistula, post-mastectomy limb\n- Over joints (increases dislodgement risk)\n- Lower extremities (risk of thrombophlebitis)",
+      "content": "- Choose a site that balances urgency, likelihood of success, required flow, patient comfort, and securement\n- Larger and more proximal veins may be preferable for resuscitation, but not if repeated failed attempts will delay care\n- Avoid compromised limbs or sites where the line is unlikely to remain functional",
       "sortOrder": 1
     },
     {
       "id": "skill-iv-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Gather equipment: appropriate cannula (14–22G), tourniquet, alcohol swab, dressing, flush\n\n2. Apply tourniquet 10–15 cm above site; ask patient to clench fist\n\n3. Visualise and/or palpate vein; clean with alcohol swab and allow to dry\n\n4. Bevel up, advance at 10–30° until flashback of blood\n\n5. Lower angle slightly; advance cannula 1–2 mm further to ensure tip is in lumen\n\n6. Advance plastic cannula fully while withdrawing needle\n\n7. Release tourniquet; apply finger pressure proximal to tip; remove stylet\n\n8. Attach extension set or cap; flush with 5–10 mL 0.9% NaCl\n\n9. Secure with transparent dressing; label with date/time/gauge\n\n10. Dispose of needle immediately in sharps container",
+      "content": "1. Prepare equipment, choose the target vein, and optimise the site with positioning, warmth, or tourniquet as appropriate\n\n2. Clean the site and cannulate using standard aseptic technique\n\n3. Once flashback is obtained, advance and thread the cannula carefully to secure intravascular placement\n\n4. Release the tourniquet, connect extension tubing or a cap, and flush to confirm patency\n\n5. Secure the line well and label it according to local practice\n\n6. Stop or change strategy early if repeated attempts are failing or are delaying more important care",
       "sortOrder": 2
     },
     {
       "id": "skill-iv-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Use largest bore cannula the vein can accommodate in high-acuity patients (14–18G for resuscitation)\n- Two large-bore cannulae in antecubital fossa provide equivalent flow to a central line\n- Confirm patency with flush before administering medication\n- Maximum 2 attempts before reassessing site or calling for assistance",
+      "content": "- The best cannula is the one that works for the actual clinical need; bigger is not always better if it lowers first-pass success\n- Confirm patency before giving medications or starting a fluid bolus\n- Escalate early to IO or another strategy in a crashing patient rather than persisting with multiple failed IV attempts\n- Document the site, gauge, number of attempts, and whether the line functioned reliably",
       "sortOrder": 3
     }
   ],
@@ -61,6 +61,6 @@
     "weight-based-dosing"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

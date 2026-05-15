@@ -21,28 +21,28 @@
       "id": "skill-ivgs-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "IV giving sets (administration sets) connect IV fluid bags to an IV cannula for fluid or medication delivery. Standard sets deliver approximately 20 drops/mL (adults); blood giving sets and microdrip sets are also used in prehospital care.",
+      "content": "IV giving sets connect fluids or infusions to vascular access devices. In prehospital care, correct setup matters because air, mislabelling, uncontrolled flow, or wrong-line use can all cause avoidable harm.",
       "sortOrder": 0
     },
     {
       "id": "skill-ivgs-types",
       "type": "management_basic",
       "title": "Types of Giving Sets",
-      "content": "**Standard (macrodrip) giving set:**\n- Drop factor: 20 drops/mL\n- Use: IV fluid resuscitation, most IV medications\n\n**Microdrip (paediatric) giving set:**\n- Drop factor: 60 drops/mL\n- Use: precise fluid delivery, paediatric patients, infusions\n\n**Blood administration set:**\n- Built-in 170–200 micron filter\n- Use: pRBC, FFP, platelets\n- Primed with 0.9% NaCl only (not Hartmann's - calcium precipitates)\n\n**Burette (Buretrol):**\n- 100–150 mL graduated chamber\n- Use: precise paediatric fluid/medication delivery",
+      "content": "- Use the giving set appropriate to the fluid, blood product, medication, and required flow control\n- Check local drop factors and device-specific instructions rather than relying on memory alone\n- Label or identify special-purpose lines clearly when multiple infusions are in use",
       "sortOrder": 1
     },
     {
       "id": "skill-ivgs-procedure",
       "type": "management_basic",
       "title": "Priming & Setup",
-      "content": "1. Check fluid bag for clarity, expiry, and integrity; confirm with prescription\n\n2. Remove giving set from packaging aseptically; close roller clamp\n\n3. Spike the bag: remove bag port protector and spike cover; insert spike firmly with a twisting motion\n\n4. Squeeze drip chamber until half full\n\n5. Open roller clamp and prime tubing until fluid flows continuously (free of air bubbles)\n\n6. Close roller clamp\n\n7. Connect to IV cannula; set drip rate\n\n8. Drip rate formula: drops/min = (Volume mL × drop factor) ÷ time in minutes",
+      "content": "1. Confirm the right fluid or infusion, bag integrity, expiry, and intended route\n\n2. Prepare the giving set aseptically and close the flow control before spiking the bag\n\n3. Prime the chamber and tubing fully, ensuring air is cleared before connection\n\n4. Connect to the vascular access device and set the flow according to the clinical goal or prescription\n\n5. Reassess the line regularly for infiltration, air, disconnection, and unintended flow changes",
       "sortOrder": 2
     },
     {
       "id": "skill-ivgs-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Label all lines with drug name, concentration, date, and time\n- Inspect for air in tubing before connecting\n- Blood sets: use within 4 hours once opened; do not use with dextrose\n- Gravity infusion rate is affected by bag height (higher = faster) and patient position",
+      "content": "- Air, misconnected lines, and wrong-fluid administration are high-risk but avoidable errors\n- Blood product delivery needs the correct set and compatible fluids according to protocol\n- Gravity rate changes with bag height, patient position, and cannula function, so visual rechecks matter\n- Document what was connected, how it was run, and any line issues encountered",
       "sortOrder": 3
     }
   ],
@@ -62,6 +62,6 @@
     "weight-based-dosing"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

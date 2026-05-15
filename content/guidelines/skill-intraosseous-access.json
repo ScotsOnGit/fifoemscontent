@@ -23,28 +23,28 @@
       "id": "skill-io-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Intraosseous (IO) access provides rapid vascular access via the medullary cavity of bone when IV access cannot be established. It can be used in all ages and for all resuscitation drugs and fluids. The EZ-IO drill is the most commonly used device in prehospital settings.",
+      "content": "Intraosseous access provides rapid vascular access when IV access is delayed, difficult, or inappropriate for the urgency of the situation. In critically unwell patients it should be considered early rather than after repeated unsuccessful IV attempts.",
       "sortOrder": 0
     },
     {
       "id": "skill-io-sites",
       "type": "management_basic",
       "title": "Sites",
-      "content": "**Proximal tibia (first choice - all ages):**\n- 2 cm below tibial tuberosity on anteromedial flat surface\n- Needle length: 15 mm (paediatric/lean adult), 25 mm (standard adult), 45 mm (obese/large)\n\n**Proximal humerus (adults - useful in arrest with CPR in progress):**\n- Greater tubercle: 2 cm above surgical neck on anterolateral surface\n- Patient arm adducted, hand on abdomen\n- Higher flow rates than tibia\n\n**Distal tibia:**\n- 3 cm proximal to medial malleolus\n- Alternative when proximal tibia is inaccessible\n\n**Distal femur (paediatric):**\n- 1–3 cm above the lateral femoral condyle",
+      "content": "- Choose the insertion site according to age, anatomy, access, and device instructions\n- Common sites include proximal tibia, proximal humerus in adults, and selected paediatric alternatives within protocol\n- Select a needle length that will penetrate soft tissue and enter the medullary cavity confidently",
       "sortOrder": 1
     },
     {
       "id": "skill-io-procedure",
       "type": "management_advanced",
       "title": "Procedure (EZ-IO)",
-      "content": "1. Identify site; cleanse with antiseptic\n\n2. Select appropriate needle length (must penetrate cortex and enter marrow)\n\n3. Prime EZ-IO: attach needle set to driver; position tip at insertion site\n\n4. Apply firm downward pressure; engage power driver until decreased resistance (marrow entry)\n\n5. Remove stylet with counterclockwise rotation; attach primed extension set\n\n6. Confirm placement: needle is firm in bone, does not rock; 10 mL NaCl flushes without resistance or extravasation\n\n7. Aspirate to confirm marrow (not always achieved - absence does not confirm misplacement)\n\n8. Secure with EZ-IO stabiliser\n\n9. If conscious: flush with 2% lignocaine (40 mg) 2 minutes before first medication\n\n10. For drugs: administer followed by 10 mL NaCl flush and elevate limb",
+      "content": "1. Identify the site, prepare the skin, and position the limb appropriately\n\n2. Insert the IO device according to manufacturer instructions using the correct needle size for the patient and site\n\n3. Remove the stylet, attach primed extension tubing, and confirm placement by stability, easy flush, and lack of obvious extravasation\n\n4. Secure the line well and reassess it during movement and transport\n\n5. In conscious patients, treat infusion pain according to protocol before large flushes or infusions where appropriate\n\n6. Give medications and fluids through the IO with appropriate flushes and pressure assistance when needed",
       "sortOrder": 2
     },
     {
       "id": "skill-io-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- All IV drugs and fluids can be given IO - same doses as IV\n- Fluids require pressure bag or syringe to infuse against bone marrow pressure\n- Maximum dwell time: 24 hours (hospital to establish definitive IV)\n- Contraindicated: fracture proximal to insertion site, previous IO in same site within 24h, infection at site, osteogenesis imperfecta\n- Document: site, needle size, ease of insertion, flush confirmation",
+      "content": "- IO access can take most emergency IV drugs and fluids using the same doses unless a specific drug guidance says otherwise\n- Fluids often need pressure to run effectively through an IO line\n- Avoid sites with fracture, major local infection, or recent previous IO access according to protocol\n- Document the site, device, confirmation, patient tolerance, and response",
       "sortOrder": 3
     }
   ],
@@ -64,6 +64,6 @@
     "weight-based-dosing"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

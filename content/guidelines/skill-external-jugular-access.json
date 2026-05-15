@@ -20,21 +20,21 @@
       "id": "skill-ej-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "External jugular (EJ) venous access is an alternative IV route when peripheral veins are inaccessible. The EJ vein is visible in the neck and provides a large, accessible vein particularly useful in cardiac arrest, shock, or obese patients with difficult peripheral access.",
+      "content": "External jugular access is an alternative venous route when peripheral IV access is difficult or has failed. It can be useful in selected critically unwell patients, but it should be balanced against airway access, cervical spine concerns, and the possibility that IO access may be faster and more reliable.",
       "sortOrder": 0
     },
     {
       "id": "skill-ej-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "1. Position patient supine (or Trendelenburg 15°) - distends EJ vein\n\n2. Turn patient's head away from insertion site\n\n3. Identify EJ vein: runs from angle of jaw to clavicle midpoint\n\n4. Apply gentle finger occlusion just above the clavicle to distend the vein\n\n5. Clean skin with alcohol swab\n\n6. Insert cannula (14–16G preferred) bevel up, aimed toward ipsilateral shoulder, at 15–30°\n\n7. Advance on flashback; thread cannula; release occlusion\n\n8. Connect and flush; secure firmly (EJ cannulae dislodge easily with head movement)\n\n9. Note: position may affect flow - flush during patient movement",
+      "content": "1. Position the patient to optimise vein filling if this does not worsen airway or spinal management\n\n2. Turn the head only as much as is safe and clinically acceptable\n\n3. Identify and distend the vein, then prepare the skin aseptically\n\n4. Cannulate the vein using a suitable IV cannula and confirm free flow and flush\n\n5. Secure the line carefully because neck movement can dislodge it easily\n\n6. Reassess function after patient movement or repositioning",
       "sortOrder": 1
     },
     {
       "id": "skill-ej-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Line may kink when patient turns head - acceptable for short-term access\n- Intraosseous access is preferred over EJ when rapid high-flow resuscitation is needed\n- Caution in suspected cervical spine injury - limit neck manipulation\n- May not be accessible with cervical collar in place",
+      "content": "- EJ access is often a short-term bridge rather than the ideal definitive line\n- IO access is often preferable when rapid access for resuscitation is needed\n- Be cautious if airway intervention, cervical collars, or spinal motion restriction limit access or make the line unsafe\n- Document why EJ access was chosen and how well it functioned",
       "sortOrder": 2
     }
   ],
@@ -45,6 +45,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
