@@ -20,21 +20,21 @@
       "id": "skill-penthrox-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Penthrox delivers methoxyflurane - a volatile halogenated analgesic - via a hand-held inhaler for rapid short-term pain relief. Onset of analgesia is within 6–10 breaths. It is self-administered under supervision and is particularly useful in trauma, procedural pain, and during extrication.",
+      "content": "Methoxyflurane delivered via a Penthrox inhaler provides short-term inhaled analgesia under clinician supervision. It is most useful when the patient can self-administer and when fast, titratable pain relief is needed during assessment, splinting, extrication, or transport.",
       "sortOrder": 0
     },
     {
       "id": "skill-penthrox-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Remove Penthrox from packaging; check device is assembled correctly\n\n2. Add 3 mL of methoxyflurane to the inhaler chamber\n\n3. Insert the activated charcoal absorber (black) into the side hole - reduces exhaled waste gas and clinician exposure\n\n4. Instruct patient: hold device, place mouthpiece in mouth, breathe in and out normally\n\n5. Patient controls their own inhalation rate - do not force deep breaths\n\n6. Cover the hole on the side with a finger to increase concentration; uncover for lower concentration\n\n7. Maximum dose per administration: 6 mL per occasion (2 × 3 mL inhalers)\n\n8. Do not use for more than 15 minutes continuously",
+      "content": "1. Prepare the inhaler according to the device instructions and ensure the activated charcoal chamber is fitted\n\n2. Load the methoxyflurane dose as supplied and confirm the device is ready for use\n\n3. Explain to the patient that they will self-administer by inhaling through the mouthpiece under supervision\n\n4. Encourage normal inhalation and reassess pain, sedation, and tolerance frequently\n\n5. Continue only while the patient remains able to self-administer safely and the analgesic benefit outweighs side effects",
       "sortOrder": 1
     },
     {
       "id": "skill-penthrox-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Patient self-administration is the safety mechanism - sedation causes patient to drop device\n- Ensure adequate ventilation of the space (ambulance windows open)\n- Clinician should not inhale exhaled gas - stand clear of patient's exhalation\n- Contraindicated: hepatic impairment, renal impairment, malignant hyperthermia susceptibility, MSTeP history\n- Onset 6–10 breaths; peak effect 2–3 minutes; wears off rapidly on cessation",
+      "content": "- Patient self-administration is part of the safety model; loss of ability to hold or use the device should prompt stopping it and reassessment\n- Ensure good cabin or room ventilation to reduce clinician exposure to exhaled vapour\n- Review contraindications and cautions carefully before use, especially significant renal disease, methoxyflurane hypersensitivity, or malignant hyperthermia risk\n- Penthrox should not distract from reassessment, splinting, or escalation to other analgesic strategies when needed",
       "sortOrder": 2
     }
   ],
@@ -50,6 +50,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

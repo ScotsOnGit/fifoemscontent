@@ -20,21 +20,21 @@
       "id": "skill-valsalva-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The modified Valsalva manoeuvre (REVERT technique) is a first-line vagal manoeuvre for haemodynamically stable supraventricular tachycardia (SVT). It increases vagal tone via reflex baroreceptor activation, slowing AV nodal conduction and terminating re-entrant SVT. The modified technique (with leg raise) doubles conversion rates compared to standard Valsalva.",
+      "content": "The modified Valsalva manoeuvre is a first-line vagal manoeuvre for haemodynamically stable regular narrow-complex tachycardia thought to be AV-node-dependent SVT. It should only be used when the patient is stable enough for a trial of vagal treatment.",
       "sortOrder": 0
     },
     {
       "id": "skill-valsalva-procedure",
       "type": "management_basic",
       "title": "Procedure (REVERT Method)",
-      "content": "**Indications:** Haemodynamically stable regular narrow-complex tachycardia (presumed SVT)\n\n**Contraindications:** Haemodynamic instability, suspected MI, carotid artery disease\n\n1. Patient semi-recumbent (45°)\n\n2. Instruct patient to blow hard into 10 mL syringe for 15 seconds (generating 40 mmHg strain) - plunger should be difficult to move\n\n3. Immediately lay patient flat and passively raise legs to 45° for 15 seconds (to increase venous return and augment the reflex)\n\n4. Return to semi-recumbent position\n\n5. Monitor ECG continuously - conversion typically occurs within 30–60 seconds\n\n6. If unsuccessful after 1 attempt: repeat once, then proceed to adenosine per protocol",
+      "content": "**Indications:** Haemodynamically stable regular narrow-complex tachycardia\n\n**Do not use if:** the patient is unstable, the rhythm is irregular, or there is significant doubt about the rhythm origin\n\n1. Position the patient semi-recumbent and explain the manoeuvre clearly\n\n2. Instruct the patient to generate a firm strain for about 15 seconds, such as blowing hard into a syringe or equivalent resistance device\n\n3. At the end of the strain, lay the patient flat and raise the legs briefly if tolerated to perform the modified REVERT-style manoeuvre\n\n4. Return the patient to a semi-recumbent position and monitor for rhythm conversion and symptom change\n\n5. If unsuccessful and the patient remains stable, one further attempt may be reasonable before escalating according to the arrhythmia pathway",
       "sortOrder": 1
     },
     {
       "id": "skill-valsalva-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- REVERT trial (2015) showed 43% conversion rate vs 17% for standard Valsalva\n- Document: pre- and post-manoeuvre ECG strip\n- Do not use carotid sinus massage prehospital without experienced supervision\n- If haemodynamically unstable: proceed directly to synchronised cardioversion",
+      "content": "- Document the rhythm before and after the manoeuvre where possible\n- Do not let repeated vagal manoeuvres delay definitive escalation in a symptomatic patient\n- Carotid sinus massage is not a routine prehospital substitute\n- If the patient becomes unstable, leave vagal treatment and move immediately to the unstable tachycardia pathway",
       "sortOrder": 2
     }
   ],
@@ -48,6 +48,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

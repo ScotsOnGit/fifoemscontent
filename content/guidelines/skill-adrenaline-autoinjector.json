@@ -20,21 +20,21 @@
       "id": "skill-epipen-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The adrenaline autoinjector (EpiPen) delivers a fixed IM dose of adrenaline for the emergency treatment of severe allergic reactions and anaphylaxis. It is designed for rapid self-administration or administration by a bystander/clinician. EpiPen Jr (0.15 mg) for 15–30 kg; EpiPen (0.3 mg) for ≥ 30 kg.",
+      "content": "An adrenaline autoinjector delivers a fixed IM dose of adrenaline for suspected anaphylaxis or severe allergic reaction with evolving airway, breathing, or circulatory involvement. It is a rapid first-line method when an autoinjector is available or when bystander treatment has already been started.",
       "sortOrder": 0
     },
     {
       "id": "skill-epipen-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Remove EpiPen from carrier; grip in dominant hand (fingers away from both ends)\n\n2. Remove blue safety cap (pull straight off - do not bend)\n\n3. Hold orange tip pointing downward\n\n4. With a smooth, swift motion, press orange tip firmly against outer mid-thigh (can be through clothing)\n\n5. Hold firmly in place for 3 seconds (until click heard and window turns orange)\n\n6. Remove and massage injection site for 10 seconds\n\n7. Note time of administration\n\n8. A second dose may be given after 5–15 minutes if no improvement\n\n9. Dispose of used device in sharps container (needle remains exposed after use)",
+      "content": "1. Confirm that anaphylaxis is suspected and expose the outer thigh if practical\n\n2. Remove the device from its carrier and take off the safety cap according to device instructions\n\n3. Press the injector firmly into the outer mid-thigh, through clothing if needed\n\n4. Hold in place for the required activation time for that device, then remove it safely\n\n5. Record the time and monitor for response in airway, breathing, perfusion, and conscious state\n\n6. If symptoms persist or recur, repeat dosing may be required according to protocol while broader anaphylaxis management continues",
       "sortOrder": 1
     },
     {
       "id": "skill-epipen-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Outer mid-thigh is preferred - faster absorption than deltoid in anaphylaxis\n- Call for emergency help immediately - EpiPen buys time, it does not replace definitive care\n- Patient should be transported supine (or semi-recumbent if dyspnoeic) - do not allow standing\n- If accidentally injected into finger/hand: vasospasm risk - seek medical review\n- Repeat dose if symptoms recur or do not improve within 5–15 minutes",
+      "content": "- The outer thigh is the preferred site because absorption is more reliable than the arm in anaphylaxis\n- Do not allow the patient to stand or walk if they are hypotensive, faint, or clearly unwell\n- An autoinjector does not replace oxygen, airway support, monitoring, and rapid transport\n- Accidental injection into a finger or hand needs medical review because of vasoconstriction risk",
       "sortOrder": 2
     }
   ],
@@ -50,6 +50,6 @@
     "avpu"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

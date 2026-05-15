@@ -21,28 +21,28 @@
       "id": "skill-cpr-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "High-quality chest compressions are the cornerstone of resuscitation. They generate approximately 25–30% of normal cardiac output and maintain cerebral and myocardial perfusion during cardiac arrest. Minimising interruptions to compressions is one of the most important modifiable factors in survival.",
+      "content": "High-quality chest compressions are the cornerstone of resuscitation. They maintain cerebral and coronary perfusion during cardiac arrest, and minimising interruptions is one of the most important modifiable factors in survival.",
       "sortOrder": 0
     },
     {
       "id": "skill-cpr-adult",
       "type": "management_basic",
       "title": "Adult Technique",
-      "content": "**Position:**\n\n1. Patient supine on firm surface\n\n2. Kneel beside patient at chest level\n\n3. Place heel of hand on lower half of sternum (centre of chest)\n\n4. Place second hand on top; interlace fingers; keep fingers off chest\n\n**Compressions:**\n\n- Depth: 5–6 cm\n- Rate: 100–120/min\n- Full chest recoil between compressions - do not lean\n- Compression:ventilation ratio: 30:2 (BLS); continuous compressions with 1 breath/6 sec (advanced airway)\n- Minimise interruptions - pause < 5 seconds for any intervention",
+      "content": "1. Place the patient supine on a firm surface as soon as practical\n\n2. Position your hands on the centre of the chest on the lower half of the sternum\n\n3. Compress at a rate of 100-120 per minute to a depth of 5-6 cm in adults while allowing full recoil\n\n4. Keep pauses as short as possible for rhythm analysis, defibrillation, airway interventions, or compressor changes\n\n5. Use 30:2 when no advanced airway is in place; once an advanced airway is established, continue compressions with asynchronous ventilations per resuscitation guidance",
       "sortOrder": 1
     },
     {
       "id": "skill-cpr-paed",
       "type": "management_basic",
       "title": "Paediatric Technique",
-      "content": "**Infant (< 1 year):**\n- Two-finger technique (single rescuer) or two-thumb encircling technique (two rescuers)\n- Depth: 4 cm (approximately ⅓ AP diameter)\n- Rate: 100–120/min\n- Ratio: 15:2 (two rescuers) or 30:2 (single rescuer)\n\n**Child (1 year to puberty):**\n- One or two-hand technique depending on size\n- Depth: 5 cm (approximately ⅓ AP diameter)\n- Rate: 100–120/min\n- Ratio: 15:2 (two rescuers)",
+      "content": "**Infant (< 1 year):**\n- Use a two-finger technique for a single rescuer or a two-thumb encircling technique when two rescuers are present\n- Compress to approximately one-third of the chest depth\n- Follow age-appropriate compression-to-ventilation ratios in line with current resuscitation guidance\n\n**Child (1 year to puberty):**\n- Use one or two hands depending on the size of the child and rescuer\n- Compress to approximately one-third of the chest depth\n- Follow age-appropriate compression-to-ventilation ratios in line with current resuscitation guidance",
       "sortOrder": 2
     },
     {
       "id": "skill-cpr-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Rotate compressor every 2 minutes to maintain quality\n- Use feedback device if available (metronome, CPR prompt)\n- Do not stop compressions to check rhythm unless defibrillator is charged and ready\n- Consider mechanical CPR device for prolonged resuscitation or during transport\n- CPR fraction > 80% is associated with improved survival",
+      "content": "- Rotate compressors regularly before fatigue causes compression quality to fall\n- Use feedback, metronomes, or prompts when available, but do not let devices distract from overall rhythm and sequence management\n- Resume compressions immediately after shocks and minimise rhythm-check pauses\n- Transport, mechanical CPR, and advanced procedures should not come at the cost of prolonged interruptions",
       "sortOrder": 3
     }
   ],
@@ -60,6 +60,6 @@
     "gcs"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
