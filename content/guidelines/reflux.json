@@ -32,21 +32,21 @@
       "id": "reflux-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Chest pain should be treated as potentially cardiac until a safer explanation is established\n- Red-flag symptoms warrant medical review rather than repeated symptomatic treatment\n- NSAIDs, alcohol, obesity, pregnancy, and some medicines may worsen reflux symptoms",
+      "content": "- Chest pain should be treated as potentially cardiac until a safer explanation is established\n- Red-flag symptoms warrant medical review rather than repeated symptomatic treatment\n- NSAIDs, alcohol, obesity, pregnancy, and some medicines may worsen reflux symptoms\n- Odynophagia, persistent vomiting, haematemesis, melaena, or exertional symptoms should lower the threshold for transport",
       "sortOrder": 2
     },
     {
       "id": "reflux-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and focused history\n- Consider simple antacid therapy within scope for a classic low-risk reflux presentation\n- Encourage upright posture and avoidance of immediate recumbency after meals\n- Provide safety-net advice if pain changes, persists, or develops cardiac or GI red flags",
+      "content": "- Primary Survey and focused history\n- Consider simple antacid therapy within scope for a classic low-risk reflux presentation\n- Encourage upright posture and avoidance of immediate recumbency after meals\n- Assess for cardiac risk, GI bleeding, dysphagia, persistent vomiting, or abdominal tenderness\n- Provide safety-net advice if pain changes, persists, or develops cardiac or GI red flags",
       "sortOrder": 3
     },
     {
       "id": "reflux-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Obtain an ECG when chest pain is prominent, atypical, exertional, or associated with cardiac risk factors\n- Doctor-directed acid suppression may be considered in selected recurrent presentations\n- Escalate for suspected ACS, upper GI bleeding, perforation, or inability to swallow",
+      "content": "- Obtain an ECG when chest pain is prominent, atypical, exertional, or associated with cardiac risk factors\n- Doctor-directed acid suppression may be considered in selected recurrent presentations\n- Escalate for suspected ACS, upper GI bleeding, perforation, inability to swallow, or uncontrolled vomiting\n- Do not let temporary symptom improvement override concerning features",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

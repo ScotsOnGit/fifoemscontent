@@ -31,21 +31,21 @@
       "id": "sinus-infection-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Most cases do not need antibiotics\n- Red flags include periorbital swelling or erythema, visual change, severe frontal headache, persistent vomiting, focal neurology, altered mental status, or meningism\n- Allergic rhinitis, dental disease, and migraine can mimic sinus symptoms",
+      "content": "- Most cases do not need antibiotics\n- Red flags include periorbital swelling or erythema, visual change, severe frontal headache, persistent vomiting, focal neurology, altered mental status, or meningism\n- Allergic rhinitis, dental disease, and migraine can mimic sinus symptoms\n- Severe facial swelling, toxic appearance, or symptoms persisting and worsening after an initial improvement should lower the threshold for escalation",
       "sortOrder": 2
     },
     {
       "id": "sinus-infection-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey only if clinically indicated, then focused assessment\n- Consider simple analgesia\n- Saline irrigation or a short course of topical decongestant may be helpful where appropriate\n- Encourage hydration and rest\n- Provide review advice if symptoms persist beyond the expected course or significantly worsen",
+      "content": "- Primary Survey only if clinically indicated, then focused assessment\n- Consider simple analgesia\n- Saline irrigation or a short course of topical decongestant may be helpful where appropriate\n- Encourage hydration and rest\n- Assess for orbital involvement, severe headache, vomiting, fever, or dental source\n- Provide review advice if symptoms persist beyond the expected course or significantly worsen",
       "sortOrder": 3
     },
     {
       "id": "sinus-infection-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Escalate for any orbital, neurological, or systemic complication features\n- Doctor-directed antibiotics may be appropriate when symptoms are prolonged, worsening after initial improvement, or accompanied by significant systemic features\n- Stronger analgesia may be considered within scope if required",
+      "content": "- Escalate for any orbital, neurological, or systemic complication features\n- Doctor-directed antibiotics may be appropriate when symptoms are prolonged, worsening after initial improvement, or accompanied by significant systemic features\n- Stronger analgesia may be considered within scope if required\n- Transport should not be delayed if orbital cellulitis or intracranial extension is a concern",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

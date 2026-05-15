@@ -31,21 +31,21 @@
       "id": "otitis-externa-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Red flags include cranial nerve findings, spreading cellulitis, severe systemic illness, immunosuppression, diabetes, severe canal swelling preventing topical therapy, or concern for malignant otitis externa\n- If the tympanic membrane is perforated or status is uncertain, avoid potentially ototoxic topical agents unless specifically directed\n- Do not syringe the ear",
+      "content": "- Red flags include cranial nerve findings, spreading cellulitis, severe systemic illness, immunosuppression, diabetes, severe canal swelling preventing topical therapy, or concern for malignant otitis externa\n- If the tympanic membrane is perforated or status is uncertain, avoid potentially ototoxic topical agents unless specifically directed\n- Do not syringe the ear\n- Severe pain out of proportion, granulation tissue, or persistent night pain should lower the threshold for urgent escalation",
       "sortOrder": 2
     },
     {
       "id": "otitis-externa-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey only if clinically indicated, then focused ear assessment\n- Inspect the external ear and perform gentle otoscopy if tolerated\n- Provide simple analgesia\n- Keep the ear dry and avoid further trauma such as cotton buds or scratching\n- Consider simple acetic-acid or drying preparations only where appropriate and the tympanic membrane is thought to be intact",
+      "content": "- Primary Survey only if clinically indicated, then focused ear assessment\n- Inspect the external ear and perform gentle otoscopy if tolerated\n- Provide simple analgesia\n- Keep the ear dry and avoid further trauma such as cotton buds or scratching\n- Consider simple acetic-acid or drying preparations only where appropriate and the tympanic membrane is thought to be intact\n- Escalate early if examination is limited by swelling or if diabetes, immunocompromise, or spreading infection is present",
       "sortOrder": 3
     },
     {
       "id": "otitis-externa-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Topical antimicrobial or antifungal drops may be considered within local protocol or after doctor consultation\n- An ear wick may be appropriate for marked canal oedema if within scope and supported locally\n- Escalate for oral or IV therapy only when there is spreading infection, severe pain, systemic illness, or failure of topical management",
+      "content": "- Topical antimicrobial or antifungal drops may be considered within local protocol or after doctor consultation\n- An ear wick may be appropriate for marked canal oedema if within scope and supported locally\n- Escalate for oral or IV therapy only when there is spreading infection, severe pain, systemic illness, or failure of topical management\n- Avoid repeated local manipulation when malignant otitis externa or deeper infection is a concern",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

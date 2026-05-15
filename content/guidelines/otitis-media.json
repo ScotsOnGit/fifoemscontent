@@ -31,21 +31,21 @@
       "id": "otitis-media-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Mastoid tenderness, pinna displacement, facial weakness, severe vertigo, meningism, or systemic toxicity are red flags\n- Most uncomplicated cases are managed with analgesia and observation rather than immediate antibiotics\n- Consider alternate causes of otalgia if the tympanic membrane findings do not fit acute otitis media",
+      "content": "- Mastoid tenderness, pinna displacement, facial weakness, severe vertigo, meningism, or systemic toxicity are red flags\n- Most uncomplicated cases are managed with analgesia and observation rather than immediate antibiotics\n- Consider alternate causes of otalgia if the tympanic membrane findings do not fit acute otitis media\n- Infants, immunocompromised patients, or those with dehydration or poor oral intake need a lower threshold for escalation",
       "sortOrder": 2
     },
     {
       "id": "otitis-media-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Focused assessment including otoscopy where tolerated\n- Provide simple analgesia and encourage fluids\n- Safety-net for worsening pain, ongoing fever, new discharge, or deterioration\n- Arrange review if the diagnosis is uncertain or symptoms are not settling",
+      "content": "- Focused assessment including otoscopy where tolerated\n- Provide simple analgesia and encourage fluids\n- Assess for mastoid tenderness, pinna displacement, fever severity, discharge, and hydration status\n- Safety-net for worsening pain, ongoing fever, new discharge, or deterioration\n- Arrange review if the diagnosis is uncertain or symptoms are not settling",
       "sortOrder": 3
     },
     {
       "id": "otitis-media-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Antiemetic treatment may be considered if nausea or vertigo is significant\n- Doctor-directed antibiotics may be appropriate for selected severe, persistent, high-risk, or systemically unwell patients\n- Escalate for suspected mastoiditis, intracranial spread, severe dehydration, or sepsis",
+      "content": "- Antiemetic treatment may be considered if nausea or vertigo is significant\n- Doctor-directed antibiotics may be appropriate for selected severe, persistent, high-risk, or systemically unwell patients\n- Escalate for suspected mastoiditis, intracranial spread, severe dehydration, or sepsis\n- Avoid delaying transfer for repeated symptomatic treatment when red flags are present",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

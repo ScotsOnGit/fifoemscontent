@@ -31,21 +31,21 @@
       "id": "sore-throat-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Viral symptoms such as cough, coryza, conjunctivitis, or diarrhoea make bacterial pharyngitis less likely\n- Clinical features alone do not reliably distinguish all bacterial from viral causes\n- Red flags include airway compromise, drooling, trismus, stridor, unilateral swelling, severe dehydration, or toxic appearance",
+      "content": "- Viral symptoms such as cough, coryza, conjunctivitis, or diarrhoea make bacterial pharyngitis less likely\n- Clinical features alone do not reliably distinguish all bacterial from viral causes\n- Red flags include airway compromise, drooling, trismus, stridor, unilateral swelling, severe dehydration, or toxic appearance\n- Muffled voice, neck swelling, inability to swallow saliva, or significant odynophagia should lower the threshold for urgent transport",
       "sortOrder": 2
     },
     {
       "id": "sore-throat-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Assess airway and hydration first\n- Provide simple analgesia, fluids, and supportive care\n- Warm saline gargles, lozenges, or local symptomatic measures may help if tolerated\n- Escalate promptly if red flags or inability to swallow fluids are present",
+      "content": "- Assess airway and hydration first\n- Provide simple analgesia, fluids, and supportive care\n- Warm saline gargles, lozenges, or local symptomatic measures may help if tolerated\n- Check for stridor, drooling, trismus, voice change, neck swelling, and fever severity\n- Escalate promptly if red flags or inability to swallow fluids are present",
       "sortOrder": 3
     },
     {
       "id": "sore-throat-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider stronger analgesia within scope for severe pain\n- Corticosteroid or antibiotic therapy should be reserved for selected severe or bacterial-suspected cases after medical consultation or according to local protocol\n- Pre-notify or transport urgently for suspected peritonsillar abscess, epiglottitis, deep neck infection, or airway compromise",
+      "content": "- Consider stronger analgesia within scope for severe pain\n- Corticosteroid or antibiotic therapy should be reserved for selected severe or bacterial-suspected cases after medical consultation or according to local protocol\n- Pre-notify or transport urgently for suspected peritonsillar abscess, epiglottitis, deep neck infection, or airway compromise\n- Avoid aggressive throat examination when airway compromise is suspected",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
