@@ -21,21 +21,21 @@
       "id": "skill-eye-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Eye irrigation is indicated for chemical exposure (acid or alkali), foreign body removal, and thermal injury to the eye. Alkali burns are more severe than acid burns due to liquefactive necrosis - prolonged irrigation is critical. Copious, continuous irrigation with normal saline or water is the primary treatment.",
+      "content": "Eye irrigation is the first-line treatment for chemical eye exposure and is also useful for flushing loose superficial contamination. In chemical injuries, early copious irrigation is more important than perfect setup, and it should begin as soon as safely possible.",
       "sortOrder": 0
     },
     {
       "id": "skill-eye-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Ensure personal protective equipment (gloves, eye protection for irrigant splash)\n\n2. Remove contact lenses if present (chemical irrigation will damage lenses and impair flushing)\n\n3. Position patient supine or semi-recumbent, head turned slightly toward affected eye\n\n4. Hold eyelids open (Morgan lens or IV giving set for continuous irrigation; alternatively use gloved fingers)\n\n5. Direct a continuous steady stream of normal saline from inner canthus to outer canthus\n\n6. Chemical irrigation: minimum 1 litre (alkali) to 30 minutes continuous irrigation; reassess pH with litmus paper - target pH 7\n\n7. Foreign body: irrigate to flush out loose particles; do not attempt to remove embedded foreign body\n\n8. Pad eye after irrigation if required for comfort",
+      "content": "1. Use PPE and protect yourself from splash or secondary contamination\n\n2. Start irrigation immediately for chemical exposure, using saline or clean water if saline is not yet available\n\n3. Position the patient so fluid drains away from the unaffected eye and face as much as possible\n\n4. Hold the lids open if needed and direct the irrigant from the inner to outer canthus\n\n5. Continue copious irrigation until symptoms improve, gross contamination is removed, or local guidance for pH reassessment is met\n\n6. Do not attempt to remove embedded foreign bodies; protect the eye and transport",
       "sortOrder": 1
     },
     {
       "id": "skill-eye-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not delay irrigation for triage - begin immediately at scene for chemical exposure\n- Alkali burns (cement, lime, bleach) require far longer irrigation than acid burns\n- Never apply pressure to a suspected open globe injury (ruptured globe)\n- Document: substance, time of exposure, duration of irrigation, post-irrigation visual acuity if assessable",
+      "content": "- Do not delay chemical irrigation for triage, paperwork, or prolonged examination\n- Alkali exposures are especially dangerous and often require prolonged irrigation\n- Do not apply pressure if open globe injury is suspected\n- Document the substance if known, time of exposure, duration of irrigation, and vision if assessable",
       "sortOrder": 2
     }
   ],
@@ -51,6 +51,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

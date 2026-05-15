@@ -23,28 +23,28 @@
       "id": "skill-suture-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Wound closure reduces bleeding, protects from contamination, and promotes healing. Prehospital suturing is appropriate for clean, simple lacerations where transport time is prolonged. Steri-strips (adhesive wound closure strips) are suitable for superficial, low-tension lacerations.",
+      "content": "Simple wound closure may be considered for selected clean low-risk lacerations when this is within scope and clinically useful, but many wounds are better irrigated, dressed, and referred. Steri-Strips are often the most appropriate low-complexity option for superficial low-tension wounds.",
       "sortOrder": 0
     },
     {
       "id": "skill-suture-steri",
       "type": "management_basic",
       "title": "Steri-Strip Application",
-      "content": "1. Ensure wound is clean and haemostasis achieved; dry wound edges\n\n2. Approximate wound edges manually\n\n3. Apply Steri-strip across wound: half on each side perpendicular to the wound\n\n4. Start at centre; work toward each end alternating sides\n\n5. Apply parallel strips 3–4 mm apart\n\n6. Apply bridging strip along wound edges for extra support if required",
+      "content": "1. Ensure the wound is clean, haemostasis is achieved, and the skin edges are dry\n\n2. Approximate the edges gently without blanching or excessive tension\n\n3. Apply strips across the wound from the centre outward to maintain alignment\n\n4. Reinforce with a suitable dressing and clear follow-up advice",
       "sortOrder": 1
     },
     {
       "id": "skill-suture-technique",
       "type": "management_advanced",
       "title": "Simple Interrupted Suturing",
-      "content": "1. Achieve haemostasis; irrigate wound; consider local anaesthetic (lignocaine 1%)\n\n2. Select appropriate suture: 4-0 nylon for face; 3-0 nylon for scalp/body; 2-0 for high tension\n\n3. Load needle driver with needle; grasp at 2/3 from tip\n\n4. Enter skin 3–5 mm from wound edge at 90°; pass through to opposite side equidistant\n\n5. Tie square knot: instrument tie technique (3 throws: 2 forward + 1 reverse)\n\n6. Cut tails 4–5 mm from knot\n\n7. Space sutures: 4–5 mm apart for face; 8–10 mm for scalp/body\n\n8. Document: site, number of sutures, suture material used, date",
+      "content": "1. Only close wounds that are clean, suitable, and within local scope and competence\n\n2. Irrigate thoroughly, provide appropriate analgesia or local anaesthesia, and prepare the field aseptically\n\n3. Approximate the skin edges with simple interrupted technique or the approved closure method for that wound and location\n\n4. Reassess wound alignment, bleeding control, and distal function afterward\n\n5. Dress the wound and provide clear aftercare and review advice",
       "sortOrder": 2
     },
     {
       "id": "skill-suture-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not close: contaminated wounds, bites, wounds > 6–8 hours old\n- Always irrigate before closure\n- Deep sutures for deep tissue tension before skin closure\n- Remove sutures: face 3–5 days; scalp 7–10 days; body 7–14 days",
+      "content": "- Do not close contaminated wounds, bites, devitalised wounds, or wounds needing formal surgical exploration\n- Irrigation and assessment matter more than rushing to close a wound\n- When in doubt, dress and refer rather than performing a marginal closure\n- Document the closure method, materials, wound location, and follow-up advice",
       "sortOrder": 3
     }
   ],
@@ -56,6 +56,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -22,28 +22,28 @@
       "id": "skill-frac-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Fractures and dislocations require appropriate immobilisation to prevent further injury, reduce pain, limit blood loss, and facilitate transport. Prehospital management focuses on neurovascular assessment, analgesia, and splinting in the position of comfort or anatomical alignment.",
+      "content": "Fractures and dislocations need focused prehospital care to reduce pain, protect neurovascular status, limit further tissue injury, and support safe transport. Immobilisation should help the patient, not create unnecessary scene delay or repeated manipulation.",
       "sortOrder": 0
     },
     {
       "id": "skill-frac-assessment",
       "type": "management_basic",
       "title": "Assessment",
-      "content": "**Assess the 6 Ps before and after splinting:**\n- Pain\n- Pallor\n- Paraesthesia (numbness/tingling)\n- Paralysis (inability to move)\n- Pulselessness\n- Poikilothermia (cold limb)\n\n**Circulation check:** palpate distal pulse; compare to contralateral limb; capillary refill",
+      "content": "- Check pain, colour, warmth, sensation, movement, and distal perfusion before and after any manipulation or splinting\n- Compare findings with the unaffected limb where possible\n- Worsening neurovascular findings, open fracture, or compartment concerns should raise urgency",
       "sortOrder": 1
     },
     {
       "id": "skill-frac-management",
       "type": "management_basic",
       "title": "Management",
-      "content": "**General principles:**\n\n1. Expose and inspect limb - document deformity, open wounds, skin integrity, neurovascular status\n\n2. Provide analgesia prior to manipulation where feasible (methoxyflurane, fentanyl, ketamine)\n\n3. Cover open fractures with moist sterile dressing - do not attempt reduction prehospital (except neurovascular compromise)\n\n4. Realign only if: absent distal pulse, severe angulation preventing splinting, or prolonged extrication\n\n5. Splint in position found or corrected anatomical alignment - from joint above to joint below\n\n6. Pad bony prominences\n\n7. Reassess neurovascular status after splinting\n\n8. Elevate if possible; apply ice pack if available (wrapped)\n\n**Common splinting techniques:**\n- SAM splint / vacuum splint for long bones\n- Box splint for ankle/foot\n- Traction splint for isolated midshaft femur fracture",
+      "content": "1. Expose the injury enough to assess deformity, wounds, and distal function\n\n2. Provide analgesia early when feasible and clinically appropriate\n\n3. Cover open fractures and control bleeding without pushing exposed bone back into the wound\n\n4. Splint the injury in the position found unless reduction or gentle realignment is clearly indicated by protocol, neurovascular compromise, or inability to transport safely\n\n5. Immobilise the injured segment and the joints above and below where appropriate\n\n6. Reassess neurovascular status after splinting and during transport",
       "sortOrder": 2
     },
     {
       "id": "skill-frac-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Femur fracture can accommodate 1–2 L blood loss - consider haemorrhagic shock\n- Pelvic fracture: do not log roll; apply pelvic binder\n- Shoulder dislocation: immobilise in position of comfort - do not attempt reduction prehospital unless isolated and prolonged scene time\n- Document: mechanism, neurovascular status pre/post, splinting type used",
+      "content": "- Long bone and pelvic injuries can hide major blood loss even when external bleeding looks limited\n- Repeated manipulation should be avoided; if a manoeuvre is needed, make it deliberate and clinically justified\n- Immobilise dislocations in the best tolerated position unless reduction is clearly indicated within scope\n- Document neurovascular findings before and after splinting and the device used",
       "sortOrder": 3
     }
   ],
@@ -63,6 +63,6 @@
     "weight-based-dosing"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

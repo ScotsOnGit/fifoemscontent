@@ -19,21 +19,21 @@
       "id": "skill-lr-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The log roll is a controlled coordinated technique to turn a patient while maintaining spinal alignment. It is used for posterior examination, patient transfer, placement of a long spinal board or vacuum mattress, and management of patients found prone.",
+      "content": "The log roll is a coordinated turning manoeuvre used when a patient needs to be examined, repositioned, or moved while limiting unnecessary spinal movement. It should be used deliberately, not routinely, because every roll carries some movement and time cost.",
       "sortOrder": 0
     },
     {
       "id": "skill-lr-procedure",
       "type": "management_basic",
       "title": "Procedure (3+ Rescuers)",
-      "content": "1. Rescuer 1 (team lead - at head): manually immobilises cervical spine in neutral alignment; directs the roll\n\n2. Rescuer 2 and 3 (and 4 if available): position beside patient\n\n3. Rescuer 2: controls near shoulder and hip; Rescuer 3: controls hip and lower leg\n\n4. Extend the arm away from roll direction along patient's side\n\n5. On team lead command: roll patient in one smooth motion toward rescuers, maintaining spinal alignment\n\n6. Inspect back for wounds, deformity, and haematoma\n\n7. Place board or equipment as needed\n\n8. On command: roll back to supine",
+      "content": "1. Assign a team leader at the head to coordinate timing and alignment\n\n2. Position the team so the shoulders, torso, pelvis, and legs can be moved together\n\n3. Prepare all equipment before rolling so the patient is turned the minimum number of times\n\n4. Roll the patient in one controlled movement on the leader's command\n\n5. Perform the needed inspection or packaging efficiently, then return or transfer the patient in a coordinated way",
       "sortOrder": 1
     },
     {
       "id": "skill-lr-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Team leader at head controls timing - do not roll until commanded\n- Minimum 3 rescuers for log roll; 4 for obese patients or femur fracture\n- Do not log roll suspected unstable pelvic fractures - scoop or lateral transfer instead\n- Document: findings on posterior inspection",
+      "content": "- The team leader controls timing and should stop the roll if alignment or safety is being lost\n- Avoid repeated log rolls when a simpler or safer movement strategy exists\n- Suspected unstable pelvic injury may require an alternative transfer method\n- Document why the roll was needed and what was found",
       "sortOrder": 2
     }
   ],
@@ -48,6 +48,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

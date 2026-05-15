@@ -22,28 +22,28 @@
       "id": "skill-epistaxis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Epistaxis (nosebleed) is most commonly anterior (Little's area - Kiesselbach's plexus) and self-limiting. Posterior epistaxis is less common but more serious. Minor injuries include abrasions, lacerations, and contusions that do not require surgical intervention.",
+      "content": "Most epistaxis is anterior and responds to simple pressure, but persistent bleeding, anticoagulation, significant comorbidity, or posterior features should increase concern. Minor soft tissue injuries still need a structured look for deeper damage, contamination, or escalation triggers.",
       "sortOrder": 0
     },
     {
       "id": "skill-epistaxis-procedure",
       "type": "management_basic",
       "title": "Epistaxis Management",
-      "content": "**Anterior epistaxis:**\n\n1. Patient sitting upright, leaning forward (prevents swallowing blood)\n\n2. Pinch the soft part of the nose (not the bony bridge) firmly\n\n3. Apply continuous pressure for 10–15 minutes\n\n4. Apply ice pack to bridge of nose\n\n5. Do not blow nose after bleeding stops\n\n**Persistent / posterior epistaxis:**\n- Nasal packing with ribbon gauze or epistaxis balloon (per scope)\n- Consider tranexamic acid (topical or systemic) per local protocol\n- Supine with airway monitoring if posterior bleed suspected",
+      "content": "**Anterior epistaxis:**\n\n1. Sit the patient forward and ask them to breathe through the mouth\n\n2. Pinch the soft part of the nose continuously without repeated release to check too early\n\n3. Continue pressure long enough to allow clot formation and reassess only after an adequate interval\n\n4. Escalate if bleeding remains heavy, recurrent, or clinically concerning\n\n**Persistent or concerning epistaxis:**\n- Consider escalation options such as packing or topical adjuncts only within protocol and scope\n- Protect the airway and avoid prolonged scene treatment when the patient is deteriorating",
       "sortOrder": 1
     },
     {
       "id": "skill-minor-wounds",
       "type": "management_basic",
       "title": "Minor Wound Management",
-      "content": "1. Apply direct pressure with sterile dressing\n\n2. Irrigate wound with normal saline under pressure\n\n3. Remove gross contamination with saline-soaked gauze\n\n4. Apply appropriate dressing\n\n5. Assess for retained foreign body, tendon or vessel injury\n\n6. Refer for formal wound closure if gaping, deep, or complex",
+      "content": "1. Control bleeding with direct pressure\n\n2. Clean and inspect the wound enough to assess contamination, depth, and obvious deeper injury\n\n3. Dress the wound appropriately and advise escalation for gaping, deep, heavily contaminated, or function-threatening injuries",
       "sortOrder": 2
     },
     {
       "id": "skill-epistaxis-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Consider anticoagulation / antiplatelet medication as a contributing factor\n- Posterior bleeds: blood visible in oropharynx, bilateral bleeding, failed anterior packing\n- Facial fracture: do not pack blindly - refer early\n- Document: site, duration, interventions, and clinical response",
+      "content": "- Anticoagulation, antiplatelet therapy, hypertension, and liver disease can all complicate epistaxis\n- Posterior features or large-volume bleeding require earlier escalation\n- Suspected facial fracture is a reason for caution and early referral rather than blind packing\n- Document the site, duration, interventions, and response",
       "sortOrder": 3
     }
   ],
@@ -57,6 +57,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

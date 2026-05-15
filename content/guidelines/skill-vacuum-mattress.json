@@ -20,21 +20,21 @@
       "id": "skill-vac-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The vacuum mattress conforms to the patient's body shape and provides full-body immobilisation superior to a long spinal board for suspected spinal injuries. On suction, polystyrene beads pack together creating a rigid custom-fitted shell. Preferred over long board for primary immobilisation of suspected spinal injury.",
+      "content": "A vacuum mattress provides supportive spinal motion restriction and full-body stabilisation while being more comfortable and lower-risk than prolonged transport on a hard board. It is mainly a transport and packaging device rather than a reason to delay more urgent care.",
       "sortOrder": 0
     },
     {
       "id": "skill-vac-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Position deflated mattress flat; spread beads evenly\n\n2. Log roll or scoop patient onto mattress in neutral supine position\n\n3. Mould mattress up around sides of patient and under head/neck while maintaining cervical stabilisation\n\n4. Apply suction valve; pump until mattress is rigid\n\n5. Check: mattress is firm throughout; patient is fully supported in neutral alignment\n\n6. Apply straps: chest, hips, lower legs\n\n7. Reassess neurological status\n\n8. Transfer to stretcher - minimum 4 rescuers for lift",
+      "content": "1. Prepare the mattress before moving the patient onto it\n\n2. Transfer the patient using the lowest-movement technique appropriate to the situation\n\n3. Mould the mattress around the patient to support alignment and comfort, then evacuate air until it is firm\n\n4. Secure the patient sufficiently for transport without creating avoidable restriction or airway issues\n\n5. Reassess comfort, neurological status, and package stability after setup and after major moves",
       "sortOrder": 1
     },
     {
       "id": "skill-vac-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- If mattress loses rigidity during transport: re-apply suction immediately\n- Carry pump in ambulance at all times\n- Adjust head positioning to maintain neutral alignment - pad if required\n- Avoid prolonged immobilisation of conscious patient if possible - pressure injury risk",
+      "content": "- Recheck rigidity during transport and after transfers because vacuum can be lost\n- Use additional padding or adjustment to maintain the best achievable alignment and airway access\n- A vacuum mattress is usually preferred for transport, but not at the cost of delayed time-critical care\n- Document why it was used and how the patient tolerated it",
       "sortOrder": 2
     }
   ],
@@ -48,6 +48,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

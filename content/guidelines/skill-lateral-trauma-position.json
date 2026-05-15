@@ -20,21 +20,21 @@
       "id": "skill-ltp-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The lateral trauma position (modified recovery position) is used to maintain an open airway and prevent aspiration in an unconscious or obtunded trauma patient when spinal injury has been cleared or is considered unlikely. It is preferable to supine positioning when the patient cannot protect their airway.",
+      "content": "The lateral trauma position is used when a trauma patient cannot protect their airway and remaining supine is unsafe. It can be appropriate even when spinal concern exists if airway protection cannot otherwise be maintained.",
       "sortOrder": 0
     },
     {
       "id": "skill-ltp-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Confirm spinal precautions are not required (or cannot be maintained with supine positioning due to airway risk)\n\n2. Kneel beside patient; extend near arm at right angles to body\n\n3. Bring far arm across chest; place patient's hand against their near cheek\n\n4. Flex far knee; use this as a lever to roll patient toward you in a controlled manner\n\n5. Adjust top knee and arm to stabilise position\n\n6. Tilt head back slightly to maintain open airway; mouth facing down for drainage\n\n7. Monitor airway continuously; have suction ready",
+      "content": "1. Decide whether the airway risk outweighs the benefit of remaining supine\n\n2. Roll the patient into a supported lateral position using enough help to keep movement controlled\n\n3. Position the head and mouth to allow drainage while maintaining the best achievable spinal alignment\n\n4. Continue close airway monitoring and have suction ready\n\n5. Reassess whether the lateral position still remains the safest option as the clinical picture changes",
       "sortOrder": 1
     },
     {
       "id": "skill-ltp-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Airway patency takes precedence over spinal precautions in the unconscious patient - 'airway first'\n- Left lateral preferred for late pregnancy (relieves aortocaval compression)\n- Reassess neurological status and airway position frequently\n- Document: position used, reason for lateral over supine, GCS, and airway management",
+      "content": "- Airway patency takes priority when the patient cannot protect their airway\n- Left lateral positioning is often preferable in later pregnancy\n- Use enough personnel and padding to keep the position stable during transport\n- Document why lateral positioning was chosen and how the airway and neurological status responded",
       "sortOrder": 2
     }
   ],
@@ -50,6 +50,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

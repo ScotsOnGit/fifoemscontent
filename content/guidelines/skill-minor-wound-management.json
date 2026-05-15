@@ -22,21 +22,21 @@
       "id": "skill-wound-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Minor wound management aims to control bleeding, reduce infection risk, and prepare the wound for definitive closure. Key principles are haemostasis, thorough irrigation, and appropriate dressing. Tetanus prophylaxis should be considered for all open wounds.",
+      "content": "Minor wound management aims to control bleeding, reduce contamination, protect deeper structures, and hand the patient over with a wound that is clean and safely dressed. In prehospital care, the focus is usually preparation and escalation, not definitive closure of every wound.",
       "sortOrder": 0
     },
     {
       "id": "skill-wound-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Apply direct pressure with sterile gauze to control haemorrhage\n\n2. Expose wound; remove gross contamination\n\n3. Irrigate copiously with normal saline under pressure (10–20 mL syringe + 18G IV catheter) - reduces infection risk\n\n4. Assess: wound depth, neurovascular status distal, tendon visibility, foreign body risk\n\n5. Apply appropriate dressing: non-adherent primary layer; absorbent secondary; bandage\n\n6. Steri-strips may be applied to small superficial lacerations for temporary closure\n\n7. Elevate if a limb wound",
+      "content": "1. Control bleeding first with direct pressure\n\n2. Expose and inspect the wound for contamination, depth, tendon or joint involvement, foreign body risk, and distal neurovascular status\n\n3. Irrigate thoroughly when appropriate and safe to do so\n\n4. Apply a suitable dressing and support the injured area\n\n5. Use temporary edge approximation only for simple, clean, low-tension wounds within scope",
       "sortOrder": 1
     },
     {
       "id": "skill-wound-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not close contaminated wounds prehospital - risk of abscess\n- Bites (human, animal): high infection risk; irrigate thoroughly; do not close\n- Scalp wounds bleed profusely - direct pressure effective; rarely dangerous in isolation\n- Document: mechanism, wound site and dimensions, neurovascular status, interventions",
+      "content": "- Dirty, bite, crush, puncture, or delayed wounds usually need cleaning and referral rather than closure\n- Scalp wounds can bleed dramatically and still be manageable with direct pressure and dressing alone\n- Think about tetanus status, retained foreign body, and deeper structure injury even in apparently minor wounds\n- Document the mechanism, wound features, dressing, and escalation advice",
       "sortOrder": 2
     }
   ],
@@ -49,6 +49,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

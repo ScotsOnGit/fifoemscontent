@@ -21,21 +21,21 @@
       "id": "skill-helmet-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Helmet removal may be required to access the airway or assess an unconscious trauma patient. It requires a two-person technique to maintain cervical spine immobilisation throughout the procedure. Helmets should NOT be removed if: the patient is conscious with no airway compromise, the helmet fits snugly, or removal would cause further injury.",
+      "content": "Helmet removal may be necessary when the airway cannot be assessed or managed adequately with the helmet in place. If the airway is stable and the helmet is not obstructing care, removal may be unnecessary and can create avoidable spinal movement.",
       "sortOrder": 0
     },
     {
       "id": "skill-helmet-procedure",
       "type": "management_advanced",
       "title": "Two-Person Technique",
-      "content": "**When to remove:** Airway compromise, respiratory arrest, cardiac arrest, inability to maintain airway\n**When to leave:** Helmet fits well, conscious patient, no airway compromise (immobilise with helmet on)\n\n1. Rescuer 1 (head): kneel at head; stabilise cervical spine by placing hands on each side of helmet, thumbs on mandible, fingers on occiput\n\n2. Rescuer 2 (chin): kneel beside patient; unfasten or cut chin strap; place one hand on mandible (thumb on one side, fingers on other); place other hand at occiput, taking over cervical spine control\n\n3. Rescuer 1: expand sides of helmet slightly to clear ears; tilt helmet backward to clear nose, then forward and backward off head in a rocking motion; remove slowly\n\n4. Rescuer 1: immediately takes over cervical spine control\n\n5. Apply cervical collar once airway is accessible",
+      "content": "**Consider removal for:** airway compromise, vomiting, respiratory arrest, cardiac arrest, or inability to assess and manage the patient adequately\n\n1. Use a coordinated two-person technique with one rescuer dedicated to head and neck control\n\n2. Open or cut the chin strap and prepare for the helmet to catch on the nose or occiput as it comes off\n\n3. Remove the helmet slowly while maintaining manual support of the head and neck throughout\n\n4. Once removed, immediately reassess airway access, head position, and need for padding or further spinal motion restriction",
       "sortOrder": 1
     },
     {
       "id": "skill-helmet-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Communication between rescuers is essential throughout\n- Remove at the pace of the slowest step - do not rush\n- Pad behind head after removal to maintain neutral alignment (helmet elevates occiput)\n- Full-face helmet: visor must be raised or removed before starting",
+      "content": "- Good communication between rescuers matters more than speed\n- After removal, the occiput may need padding to maintain neutral alignment\n- Airway access and ventilation take priority if the patient is deteriorating\n- Document why the helmet was removed and any immediate findings or complications",
       "sortOrder": 2
     }
   ],
@@ -50,6 +50,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
