@@ -2,6 +2,9 @@
   "id": "abdominal-pain",
   "title": "Abdominal Pain",
   "category": "medical",
+  "isFreeContent": true,
+  "version": 4,
+  "lastUpdated": "2026-05-15T13:02:16Z",
   "tags": [
     "abdominal",
     "pain",
@@ -10,6 +13,9 @@
   "synonyms": [
     "Abdominal Pain"
   ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
   "sections": [
     {
       "id": "abdominal-pain-overview",
@@ -36,7 +42,7 @@
       "id": "abdominal-pain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Perform repeated vital signs\n- Keep the patient at rest and allow a position of comfort\n- Perform Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Consider simple analgesia if appropriate\n- Perform urinalysis and pregnancy testing where appropriate and available",
+      "content": "- Primary Survey\n- Perform repeated vital signs\n- Keep the patient at rest and allow a position of comfort\n- Perform Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Abdominal auscultation\n- Consider simple analgesia if appropriate\n- Perform urinalysis and pregnancy testing where appropriate and available",
       "sortOrder": 3
     },
     {
@@ -53,10 +59,5 @@
       "content": "- In ruptured AAA, major GI bleeding, or ruptured ectopic pregnancy, the goal of early fluid therapy is maintenance of vital-organ perfusion rather than normalisation of blood pressure\n- Patients with leaking or ruptured AAA are often in severe pain and may require timely opioid analgesia\n- Cardiac ischaemia may present with abdominal pain, especially epigastric pain, so ECG use should remain liberal in appropriate patients\n- The assessment of abdominal pain is complex and requires multi-modal investigation\n- Patient education: explain warning signs that require emergency care and advise follow-up where appropriate",
       "sortOrder": 5
     }
-  ],
-  "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": [],
-  "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  ]
 }
