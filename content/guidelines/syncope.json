@@ -2,12 +2,32 @@
   "id": "syncope",
   "title": "Syncope",
   "category": "neurological",
+  "isFreeContent": true,
+  "version": 4,
+  "lastUpdated": "2026-05-15T13:11:52Z",
   "tags": [
     "syncope",
     "neurological"
   ],
   "synonyms": [
     "Syncope"
+  ],
+  "relatedMedicationIDs": [
+    "intravenous-normal-saline",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia",
+    "dizziness",
+    "hypoglycaemia",
+    "low-risk-mental-health-presentations",
+    "pulmonary-embolus",
+    null
+  ],
+  "relatedCalculatorIDs": [
+    "news2",
+    "avpu",
+    "gcs"
   ],
   "sections": [
     {
@@ -52,18 +72,5 @@
       "content": "- The initial evaluation of patients with syncope should be focused on the early identification and management of serious and life-threatening non-cardiac or cardiac causes\n- Non-lethal strangulation in domestic and family abuse may be a cause of unexplained syncope\n- Determining the cause of a syncope can be complex in some patients and clinicians should have a low threshold for referring these patients for further medical review\n- For some possible causes, consider AEIOUTIPS\n- Alcohol, Arrhythmia, Epilepsy, Electrolytes, Insulin, Overdose, Oxygen, Opiates, Trauma, Temperature, Infection, Poisons, Psychiatric, Stroke, Shock, Syncope\n- Patient Education: Advise on prevention of recurrence (e.g., avoid triggers, stay hydrated, rise slowly from sitting/lying)",
       "sortOrder": 5
     }
-  ],
-  "relatedMedicationIDs": [
-    "intravenous-normal-saline",
-    "oxygen"
-  ],
-  "relatedGuidelineIDs": [],
-  "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "news2",
-    "avpu",
-    "gcs"
   ]
 }
