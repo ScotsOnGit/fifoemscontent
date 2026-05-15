@@ -19,21 +19,21 @@
       "id": "skill-ntc-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Needle thoracocentesis is an emergency procedure to decompress a life-threatening tension pneumothorax. It involves inserting a large-bore needle/cannula into the pleural space to release trapped air and relieve mediastinal shift. It is a temporising measure - finger thoracostomy is preferred in intubated patients.",
+      "content": "Needle thoracocentesis is a temporising decompression procedure for suspected tension pneumothorax causing severe respiratory compromise, shock, or traumatic arrest. It should be performed on clinical grounds when indicated rather than waiting for every classical sign.",
       "sortOrder": 0
     },
     {
       "id": "skill-ntc-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "**Clinical diagnosis of tension pneumothorax:**\n- Haemodynamically compromised + respiratory distress\n- Absent or reduced breath sounds unilaterally\n- Tracheal deviation (late sign)\n- Distended neck veins (may be absent in hypovolaemia)\n- Mechanism consistent with pneumothorax\n\n**Site 1 - 2nd ICS, MCL (traditional):**\n\n1. Identify: 2nd intercostal space, midclavicular line\n\n2. Insert 14G (adult) or 16G (child) IV cannula over superior border of 3rd rib\n\n3. Rush of air confirms diagnosis\n\n4. Remove needle, leave cannula open (may apply flutter valve - Heimlich valve or glove finger)\n\n**Site 2 - 4th/5th ICS, AAL (preferred in obese/muscular patients):**\n- Same ICS as finger thoracostomy - better reliability",
+      "content": "**Clinical diagnosis of tension pneumothorax:**\n- Severe respiratory distress or arrest with a mechanism consistent with chest trauma or barotrauma\n- Shock or rapidly worsening perfusion without another better explanation\n- Markedly reduced or absent unilateral breath sounds, especially with unilateral chest injury or asymmetry\n- Positive-pressure ventilation with sudden deterioration\n\n**Preferred lateral approach:**\n\n1. Identify the 4th or 5th intercostal space at or just anterior to the mid-axillary line where permitted by local protocol and anatomy\n\n2. Prepare the site rapidly and insert an appropriate large-bore cannula just over the superior rib margin into the pleural space\n\n3. Advance the cannula, withdraw the needle, and ensure the catheter remains patent\n\n4. Reassess immediately for improvement in ventilation, perfusion, and chest findings\n\n**Alternative anterior approach:**\n- Use a 2nd intercostal space midclavicular approach only when lateral access is impractical or local equipment and training support it",
       "sortOrder": 1
     },
     {
       "id": "skill-ntc-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Needle decompression may fail due to chest wall thickness - finger thoracostomy is more reliable\n- Monitor for re-tension - cannula can kink or clot\n- Do NOT wait for all classic signs - haemodynamic compromise + unilateral absent breath sounds in trauma is sufficient\n- Document: side, site, clinical findings, air released, patient response",
+      "content": "- Needle decompression can fail because of chest wall thickness, catheter kinking, or clot; continued deterioration should prompt immediate reassessment and further escalation within scope\n- Finger thoracostomy is generally more reliable in appropriately trained services, especially in ventilated trauma patients\n- Do not let imaging expectations or prolonged assessment delay decompression in a crashing patient\n- Document side, site, indication, response, and any repeat decompression required",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -22,21 +22,28 @@
       "id": "skill-dp-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Direct pressure is the most fundamental haemorrhage control technique. Combined with trauma/pressure bandages (e.g. Israeli Emergency Bandage, rolled gauze), it provides sustained compressive force to control compressible external haemorrhage in areas where tourniquets cannot be applied.",
+      "content": "Direct pressure is the first-line technique for most compressible external haemorrhage. Trauma and pressure bandages help maintain compression once bleeding is controlled or while care and transport continue.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-dp-considerations",
+      "type": "considerations",
+      "title": "When to Use",
+      "content": "- Use for compressible external bleeding when a tourniquet is not required or not anatomically possible\n- Escalate early to wound packing, haemostatic gauze, or tourniquet if direct pressure is not controlling the bleed\n- Do not let prolonged scene treatment delay transport in a shocked or deteriorating patient",
       "sortOrder": 0
     },
     {
       "id": "skill-dp-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Direct pressure:**\n\n1. Apply sterile dressing or clean cloth directly to wound\n\n2. Apply firm, continuous pressure with flat hand and body weight\n\n3. Maintain for minimum 5–10 minutes without lifting to check - lifting disrupts clot formation\n\n**Israeli Emergency Bandage (Pressure Bandage):**\n\n1. Place non-woven pad directly over wound\n\n2. Wrap elastic bandage around limb/body part with moderate tension\n\n3. Thread elastic through pressure bar applicator; pull back over bandage to create pressure point\n\n4. Continue wrapping and secure with closure clip\n\n**Wound packing (junctional / deep wounds):**\n\n- Pack gauze into wound starting at bleeding source\n- Apply firm pressure with fist for 3 minutes\n- Secure with bandage",
+      "content": "**Direct pressure:**\n\n1. Place a dressing or clean absorbent material directly over the wound\n\n2. Apply firm, continuous pressure using a flat hand, fingers, or body weight as appropriate\n\n3. Maintain pressure without repeatedly lifting the dressing to check the wound\n\n4. If bleeding slows or stops, secure the wound with a pressure bandage that maintains compression\n\n**Pressure bandage:**\n\n1. Place the dressing pad directly over the wound\n\n2. Wrap the bandage firmly enough to maintain pressure without causing obvious distal ischaemia\n\n3. Reassess for continued bleeding, distal perfusion where relevant, and dressing stability during movement and transport",
       "sortOrder": 1
     },
     {
       "id": "skill-dp-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not remove first dressing if soaked - add additional dressing on top\n- Pelvic and abdominal wounds: direct pressure plus wound packing; transport immediately\n- Haemostatic gauze preferred over standard gauze for junctional wounds\n- Document: estimated blood loss, interventions, time of application",
+      "content": "- If the first dressing soaks through, reinforce it and continue pressure rather than removing it\n- Junctional or deep wounds may need wound packing and/or haemostatic gauze rather than simple bandaging alone\n- Continue broader haemorrhage management, shock recognition, and rapid transport when indicated\n- Document the severity of bleeding, interventions used, and whether control was achieved",
       "sortOrder": 2
     }
   ],
@@ -53,6 +60,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

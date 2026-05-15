@@ -21,21 +21,21 @@
       "id": "skill-collar-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "A cervical collar limits flexion, extension, and lateral rotation of the cervical spine. It is used as an adjunct to manual stabilisation when spinal precautions are indicated. A collar alone does not fully immobilise the cervical spine - manual stabilisation remains essential until full immobilisation is achieved.",
+      "content": "A cervical collar is an adjunct to spinal motion restriction when a cervical spine injury is suspected. It may help limit movement, but it does not by itself stabilise the neck and should never replace overall clinical judgement, manual support when needed, or time-critical care priorities.",
       "sortOrder": 0
     },
     {
       "id": "skill-collar-sizing",
       "type": "management_basic",
       "title": "Sizing & Application",
-      "content": "**Sizing (Stifneck / equivalent):**\n\n1. Measure from top of shoulder to chin with neck in neutral position\n\n2. Match measurement to collar size markings\n\n3. Select: no-neck (for large neck), short, regular, tall\n\n**Application:**\n\n1. Rescuer 1 maintains manual cervical stabilisation in neutral alignment\n\n2. Rescuer 2 fits collar: slide posterior piece behind neck (or position front piece first per brand instructions)\n\n3. Secure chin cup under chin; fasten velcro firmly\n\n4. Ensure airway is not compromised and collar is not too tight\n\n5. Maintain manual stabilisation until full immobilisation is achieved (vacuum mattress / LBB)\n\n6. Reassess neurological status after application",
+      "content": "**Sizing:**\n\n1. Size the collar according to the manufacturer's guide with the head in a neutral position if tolerated\n\n2. Choose the closest appropriate size rather than forcing an awkward fit\n\n**Application:**\n\n1. Maintain manual spinal support while the collar is applied\n\n2. Fit the collar according to device instructions, ensuring the chin is supported and the collar sits correctly on the shoulders and chest\n\n3. Check that the collar does not worsen airway access, vomiting risk, distress, or obvious malposition\n\n4. Reassess neurological status, comfort, and overall spinal packaging after application",
       "sortOrder": 1
     },
     {
       "id": "skill-collar-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Collar does NOT replace manual immobilisation\n- Never apply collar if: patient resists or has muscle spasm (force increases injury risk)\n- Remove if: patient vomits, airway needs management, causes distress that worsens outcome\n- Document: indications, collar size, patient tolerance and any neurological changes",
+      "content": "- A collar is only one part of spinal motion restriction and may be omitted or removed if it worsens the patient's airway, breathing, distress, or overall care\n- Do not force the neck into a neutral position against resistance or obvious pain\n- Cooperative patients may sometimes self-limit movement more effectively than a poorly tolerated collar\n- Document the indication, size used, tolerance, and any reason the collar was modified, omitted, or removed",
       "sortOrder": 2
     }
   ],
@@ -50,6 +50,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

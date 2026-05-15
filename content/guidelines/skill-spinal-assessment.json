@@ -22,28 +22,28 @@
       "id": "skill-spinal-assessment-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Spinal assessment in the prehospital setting involves determining whether spinal precautions are required based on mechanism, symptoms, and clinical findings. The goal is to avoid unnecessary immobilisation (which carries risks) while not missing a clinically significant spinal injury. Tools such as the NEXUS criteria and Canadian C-Spine Rule guide clinical decision-making.",
+      "content": "Prehospital spinal assessment aims to identify patients who may need spinal motion restriction while avoiding unnecessary packaging that adds pain, delay, and airway risk. Decision tools such as NEXUS or the Canadian C-Spine Rule can support the assessment when used within protocol, but they do not replace clinical judgement.",
       "sortOrder": 0
     },
     {
       "id": "skill-spinal-assessment-indications",
       "type": "considerations",
       "title": "Indications for Spinal Precautions",
-      "content": "**Apply spinal precautions if ANY of the following are present:**\n- Significant mechanism: high-speed MVC, fall from height, axial loading, diving injury, hanging\n- Complaint of neck or back pain or tenderness\n- Neurological symptoms: paraesthesia, weakness, numbness in any limb\n- Altered level of consciousness (GCS < 15)\n- Distracting injury\n- Intoxication (alcohol or drugs)\n- Inability to communicate reliably\n- Pre-existing spinal pathology (e.g. ankylosing spondylitis, rheumatoid arthritis, prior spinal surgery)\n\n**Spinal precautions may not be required if ALL of the following are met (NEXUS Low-Risk Criteria):**\n- No midline cervical tenderness\n- No altered alertness\n- No evidence of intoxication\n- No distracting injury\n- No focal neurological deficit",
+      "content": "**Consider spinal motion restriction when there is:**\n- Neck or back pain, midline tenderness, deformity, or restricted movement after trauma\n- Focal neurological deficit, paraesthesia, weakness, or evolving spinal symptoms\n- Altered conscious state, intoxication, distracting injury, or inability to complete a reliable assessment\n- High-risk mechanism or patient factors that substantially increase suspicion of unstable spinal injury\n\n**Decision tools:**\n- Use NEXUS or Canadian C-Spine criteria only when the patient fits the tool and local protocol allows it\n- A low-risk tool result should sit alongside the whole clinical picture rather than replacing it",
       "sortOrder": 1
     },
     {
       "id": "skill-spinal-assessment-steps",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**1. Scene Assessment**\n- Determine mechanism of injury\n- Identify forces involved (direction, magnitude)\n\n**2. Primary Survey**\n- Maintain manual in-line stabilisation if spinal injury suspected during airway management\n\n**3. Clinical Assessment**\n- Ask about neck/back pain, tenderness, numbness, tingling, weakness\n- Assess GCS and level of alertness\n- Palpate posterior midline cervical and thoracolumbar spine for tenderness or step-off\n- Assess for distracting injuries\n- Assess neurological function: limb movement, grip strength, sensation\n\n**4. Decision**\n- If spinal precautions indicated: apply semi-rigid cervical collar (if appropriate) and maintain spinal alignment throughout transport\n- If clinically cleared per NEXUS/protocol: document reasoning clearly\n\n**5. Immobilisation**\n- Maintain neutral spinal alignment with appropriate padding\n- Use head blocks to limit lateral movement\n- Minimise time on extrication board; transfer to trolley as soon as practical\n- Consider patient comfort and airway management needs throughout",
+      "content": "1. Consider mechanism, patient presentation, and whether spinal injury is a realistic concern\n\n2. During the primary survey, protect the spine in a way that does not compromise airway, haemorrhage control, or other immediate priorities\n\n3. Assess for pain, tenderness, deformity, neurological symptoms, altered consciousness, intoxication, and distracting injury\n\n4. Examine movement and sensation in limbs where possible and appropriate without forcing painful motion\n\n5. Decide whether spinal motion restriction is needed, can be avoided, or should be modified because of other priorities such as airway management or rapid extrication\n\n6. If the spine is clinically cleared, document the assessment and reasoning clearly",
       "sortOrder": 2
     },
     {
       "id": "skill-spinal-assessment-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Routine immobilisation of all trauma patients is not evidence-based\n- Semi-rigid collar alone does not adequately immobilise the cervical spine\n- Patients with penetrating neck injury generally do not require cervical immobilisation\n- Cooperative, ambulant patients without neurological symptoms may self-extricate short distances with coaching\n- Document all assessment findings and clinical reasoning for any decision to apply or withhold spinal precautions",
+      "content": "- Routine immobilisation of all trauma patients is not evidence-based and can cause harm\n- Spinal motion restriction should be proportionate to the patient's presentation and overall clinical priorities\n- Penetrating trauma rarely benefits from routine cervical immobilisation in the absence of focal neurological concern\n- Cooperative patients may self-extricate with guidance when that produces less movement than forced handling\n- Document both the findings and the reasoning behind applying, modifying, or withholding spinal precautions",
       "sortOrder": 3
     }
   ],
@@ -59,6 +59,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

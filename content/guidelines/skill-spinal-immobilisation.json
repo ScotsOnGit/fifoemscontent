@@ -20,28 +20,35 @@
       "id": "skill-spinal-immo-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Spinal immobilisation is indicated when clinical assessment suggests a risk of unstable spinal injury. Contemporary evidence supports selective immobilisation using validated clinical decision tools rather than universal immobilisation. When indicated, the goal is to maintain spinal alignment and prevent secondary cord injury during extrication and transport.",
+      "content": "Spinal motion restriction is used when there is a meaningful concern for unstable spinal injury. The goal is to minimise unnecessary movement during extrication and transport without creating avoidable delay, pain, pressure injury, or airway compromise.",
       "sortOrder": 0
     },
     {
       "id": "skill-spinal-immo-indications",
       "type": "considerations",
       "title": "Indications",
-      "content": "Spinal precautions indicated when NEXUS or Canadian C-Spine criteria are not cleared:\n- Altered level of consciousness (GCS < 15) following trauma\n- Midline spinal tenderness or pain on palpation\n- Distracting injury\n- Focal neurological deficit\n- Intoxication\n- Mechanism: high-energy trauma, axial load, diving/submersion",
+      "content": "- Use when spinal assessment suggests risk of unstable spinal injury and the patient cannot be clinically cleared\n- Match the degree of restriction to the patient, mechanism, symptoms, and operational setting\n- Do not let packaging delay airway intervention, haemorrhage control, rapid extrication, or time-critical transport",
       "sortOrder": 1
     },
     {
       "id": "skill-spinal-immo-procedure",
       "type": "management_basic",
       "title": "Full Immobilisation Package",
-      "content": "1. Manual cervical stabilisation maintained throughout\n\n2. Apply appropriately sized cervical collar\n\n3. Extricate using suitable technique (log roll, scoop stretcher, Kendrick Extrication Device)\n\n4. Position on vacuum mattress (preferred) or long spinal board\n\n5. Apply head blocks / head immobiliser on vacuum mattress or board\n\n6. Secure straps: chest, hips, lower extremities\n\n7. Reassess neurological status before and after immobilisation",
+      "content": "1. Choose the simplest method that limits unnecessary spinal movement while preserving access to airway, breathing, and haemorrhage control\n\n2. Maintain manual support during key movements where needed, and use a collar only if it helps and is tolerated\n\n3. Use low-movement extrication techniques and encourage controlled self-extrication when appropriate and safer\n\n4. Package the patient on a vacuum mattress or other preferred transport surface where available; minimise time on hard boards used for extrication\n\n5. Secure the patient sufficiently to prevent excess movement during transfer and transport\n\n6. Reassess pain, neurological status, airway, breathing, and comfort after every major move",
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-spinal-immo-advanced",
+      "type": "management_advanced",
+      "title": "Advanced Practice Points",
+      "content": "- Modify the package when airway management, ventilation, entrapment, obesity, pregnancy, agitation, or other factors make standard positioning unsuitable\n- Coordinate moves carefully to reduce uncontrolled spinal movement during advanced procedures or aeromedical transfer\n- Escalate early if neurological findings are evolving or the patient's condition is too unstable for prolonged scene packaging",
       "sortOrder": 2
     },
     {
       "id": "skill-spinal-immo-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not delay extrication for a conscious, time-critical patient to apply full immobilisation\n- Vacuum mattress preferred over hard board - reduces pain and pressure injury\n- Consider patient's ability to protect own airway when supine - may need head-of-bed elevation\n- Document: NEXUS/Canadian C-Spine assessment result, neurological status, immobilisation device used",
+      "content": "- Vacuum mattress or equivalent low-pressure support is preferred for transport where available\n- Hard boards are primarily extrication tools and should not be used longer than necessary\n- A perfect package is less important than safe movement, time-critical care, and ongoing reassessment\n- Document the assessment result, devices used, patient tolerance, and any modification made for clinical reasons",
       "sortOrder": 3
     }
   ],
@@ -56,6 +63,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

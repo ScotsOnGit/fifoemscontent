@@ -21,21 +21,21 @@
       "id": "skill-cat-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The Combat Application Tourniquet (CAT) is the most widely used military and prehospital tourniquet for life-threatening limb haemorrhage. Early tourniquet application before haemorrhagic shock occurs is associated with significantly improved survival.",
+      "content": "The Combat Application Tourniquet (CAT) is used for life-threatening external limb haemorrhage that is not controlled rapidly with direct pressure or where immediate control is required. Early tourniquet application can be lifesaving and should not be delayed while blood loss continues.",
       "sortOrder": 0
     },
     {
       "id": "skill-cat-procedure",
       "type": "management_basic",
       "title": "Application",
-      "content": "**Self-application / one-handed:**\n\n1. Route limb through loop; position 5–7 cm above wound (or as high as possible for junctional injuries)\n\n2. Pull free end of self-adhering band tight; secure\n\n3. Twist windlass until bleeding stops (typically 3–5 turns)\n\n4. Lock windlass in clip; secure tail strap over windlass\n\n5. Note time of application on white label on windlass clip\n\n**Two-handed application:**\n\n1. Open CAT; pass limb through loop\n\n2. Position 5–7 cm above wound\n\n3. Tighten band by pulling free end; secure\n\n4. Twist windlass until bleeding stops; lock and secure\n\n5. Mark time",
+      "content": "1. Expose the limb if practical and identify whether the bleeding is immediately life-threatening\n\n2. Place the tourniquet 5-7 cm above the wound and not over a joint; if the wound is not visible or bleeding is extreme, place it high and tight on the limb\n\n3. Pull the strap firmly tight before twisting the windlass\n\n4. Twist the windlass until bleeding stops and distal bleeding is no longer seen; a palpable pulse may also disappear\n\n5. Lock the windlass and secure the retaining strap\n\n6. Record the application time on the tourniquet and in the clinical record\n\n7. Reassess immediately; if bleeding continues, tighten further or apply a second tourniquet above the first",
       "sortOrder": 1
     },
     {
       "id": "skill-cat-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Apply tight enough to stop bleeding - partial occlusion worsens blood loss and increases pain without benefit\n- Effective tourniquet is painful - reassure patient\n- Do not remove prehospital - hospital will assess and manage\n- Mark time of application on tourniquet and in patient record\n- Maximum recommended application time before ischaemic injury risk increases: up to 2 hours (survival benefit outweighs limb risk)",
+      "content": "- Tourniquets are for life-threatening limb bleeding, not minor bleeding that can be controlled with simpler measures\n- A correctly applied tourniquet is usually painful; pain alone is not a reason to loosen it\n- Do not periodically release or remove a tourniquet in the prehospital setting\n- If the first tourniquet is ineffective, apply a second rather than accepting partial control\n- Continue overall haemorrhage, shock, and transport management after application",
       "sortOrder": 2
     }
   ],
@@ -52,6 +52,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

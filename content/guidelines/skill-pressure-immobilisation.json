@@ -20,21 +20,21 @@
       "id": "skill-pit-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Pressure Immobilisation Technique (PIT) is the recommended first aid for Australian elapid snake bites (taipan, brown snake, tiger snake, death adder) and funnel-web spider bites. It slows lymphatic venom absorption by combining firm pressure bandaging with rigid limb immobilisation, delaying systemic envenomation.",
+      "content": "Pressure Immobilisation Technique (PIT) is the recommended first aid for suspected Australian elapid snake bite and funnel-web spider bite involving a limb. It aims to slow lymphatic venom spread by combining firm bandaging with strict limb immobilisation.",
       "sortOrder": 0
     },
     {
       "id": "skill-pit-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "**Indications:** Suspected elapid snake bite; funnel-web spider bite\n**Not indicated:** Red-back spider, marine envenomation, bee/wasp stings, or if bite site is torso/face/neck\n\n1. Keep patient calm and still - movement accelerates venom absorption\n\n2. Apply firm crepe bandage directly over bite site (do not remove clothing; cut away if necessary)\n\n3. Extend bandage as far up the limb as possible (entire limb)\n\n4. Bandage should be firm (similar to a sprain bandage) - you should not be able to slide a finger under it easily, but it should not cause pain or impair arterial flow\n\n5. Immobilise the limb with a splint or sling (rigid immobilisation is critical)\n\n6. Keep patient supine and do not allow walking\n\n7. Do NOT: wash the bite site (venom identification), cut or suck the wound, apply tourniquet",
+      "content": "**Indications:** Suspected Australian elapid snake bite or funnel-web spider bite to a limb\n**Not indicated:** Red-back spider, most insect stings, marine envenomation, or bites to the torso, neck, or face\n\n1. Keep the patient still and calm; do not allow the patient to walk if a lower limb is involved\n\n2. Do not wash, cut, or manipulate the bite site\n\n3. Apply a firm broad bandage directly over the bite site, then continue bandaging the whole limb from distal to proximal\n\n4. The bandage should be firm like a sprain bandage but should not completely obstruct arterial circulation\n\n5. Immobilise the limb with a splint and minimise all further movement\n\n6. Keep the patient lying or otherwise as still as possible during assessment and transport",
       "sortOrder": 1
     },
     {
       "id": "skill-pit-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not remove bandages until patient is in a hospital with antivenom and resuscitation facilities\n- Mark the bite site on the bandage with a pen\n- Venom swab from bite site can be used for identification kit - do not wash\n- Transport supine with limb elevated if tolerated",
+      "content": "- Do not remove the bandage or splint in the prehospital setting\n- Mark the bite site on the bandage if it can be identified without disturbing the limb\n- Transport priorities are early retrieval and ongoing observation for systemic envenomation\n- Continue standard resuscitative care if the patient deteriorates; PIT does not replace broader clinical management",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

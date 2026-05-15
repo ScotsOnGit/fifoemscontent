@@ -20,21 +20,21 @@
       "id": "skill-pelvis-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Pelvic binders are applied to unstable pelvic fractures to reduce the pelvic volume and tamponade venous and arterial haemorrhage. They are indicated for suspected open-book (AP compression) and vertical shear pelvic fractures following significant trauma with haemodynamic compromise.",
+      "content": "Pelvic binders are used when significant blunt trauma raises concern for an unstable pelvic ring injury, particularly when pain, deformity, haemodynamic compromise, or high-risk mechanism is present. Early application may reduce pelvic movement and help limit haemorrhage.",
       "sortOrder": 0
     },
     {
       "id": "skill-pelvis-procedure",
       "type": "management_advanced",
       "title": "Application (SAM Pelvic Sling / Commercial Binder)",
-      "content": "**Contraindications:** Lateral compression fractures (may worsen with binder)\n\n1. Assess pelvis gently once only - do not repeatedly rock or compress\n\n2. Position binder centre over greater trochanters (NOT over iliac crests)\n\n3. Slide binder under patient at level of greater trochanters\n\n4. Close binder and apply tension per device instructions - adequate tension is firm, not maximal\n\n5. Tie/lock per device design\n\n6. Reassess haemodynamic status and leg length discrepancy\n\n7. Do not log roll patient with suspected unstable pelvic fracture\n\n**Improvised sheet binder:**\n\n- Fold sheet to 30 cm width; position at greater trochanter level; twist to tighten and tie securely",
+      "content": "1. Suspect unstable pelvic injury from mechanism, pain, deformity, or physiology rather than repeated pelvic rocking\n\n2. Position the binder centrally over the greater trochanters, not the iliac crests\n\n3. Slide or place the binder with minimal movement of the patient\n\n4. Apply the device according to its design until the pelvis is firmly contained without excessive over-tightening\n\n5. Secure the device and reassess pain, haemodynamic state, distal limb status, and overall packaging\n\n6. Avoid unnecessary movement after application and coordinate subsequent transfers carefully\n\n**Improvised sheet binder:**\n- Fold a sheet into a broad band, position it over the greater trochanters, tighten firmly, and secure it in place",
       "sortOrder": 1
     },
     {
       "id": "skill-pelvis-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Greater trochanter landmark - NOT over iliac crest\n- Apply early - do not wait for hypotension\n- Internally rotate feet and tape together after binder application\n- Document: time of application, haemodynamic status before and after",
+      "content": "- Correct placement over the greater trochanters matters more than excessive tension\n- Do not delay binder application in a strongly suspected unstable pelvic injury while waiting for hypotension to develop\n- Avoid repeated pelvic assessment once the suspicion is established\n- Document the indication, time applied, and patient response",
       "sortOrder": 2
     }
   ],
@@ -53,6 +53,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

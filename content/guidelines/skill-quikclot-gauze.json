@@ -22,21 +22,28 @@
       "id": "skill-qc-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "QuikClot Combat Gauze is a kaolin-impregnated haemostatic gauze for junctional and compressible haemorrhage not amenable to tourniquet application (groin, axilla, neck, perineum). Kaolin activates the intrinsic clotting cascade and accelerates haemostasis.",
+      "content": "QuikClot Combat Gauze is a haemostatic wound-packing adjunct for severe compressible or junctional haemorrhage where direct pressure alone is insufficient and a tourniquet cannot be used effectively.",
+      "sortOrder": 0
+    },
+    {
+      "id": "skill-qc-considerations",
+      "type": "considerations",
+      "title": "When to Use",
+      "content": "- Use for deep or junctional bleeding such as groin, axilla, buttock, or neck wounds where the bleeding source can be packed and compressed\n- This is not a substitute for a correctly indicated tourniquet on a bleeding limb\n- Early escalation is appropriate when shock, ongoing haemorrhage, or difficult access makes simple pressure alone inadequate",
       "sortOrder": 0
     },
     {
       "id": "skill-qc-procedure",
       "type": "management_advanced",
       "title": "Procedure (Wound Packing)",
-      "content": "1. Identify wound and control gross haemorrhage with initial direct pressure\n\n2. Remove packaging; identify the radiopaque marker strip (ensures visibility on X-ray)\n\n3. If possible, identify the bleeding point within the wound\n\n4. Pack gauze directly into wound, starting at the point of haemorrhage - not superficially\n\n5. Use your fingers to pack as deeply as possible, layering gauze into the wound\n\n6. Continue packing until wound is fully filled\n\n7. Apply firm direct pressure over the packed wound for minimum 3 minutes\n\n8. If bleeding persists through packing: add more gauze on top; do not remove initial gauze\n\n9. Apply pressure bandage over packed wound to maintain compression",
+      "content": "1. Expose the wound and apply initial direct pressure while preparing the gauze\n\n2. If possible, identify the deepest bleeding source within the wound tract\n\n3. Pack the haemostatic gauze firmly into the wound from the source outward, filling dead space rather than laying it superficially across the opening\n\n4. Continue packing until the cavity is tightly filled\n\n5. Apply firm direct pressure over the packed wound for at least 3 minutes, or longer if bleeding control remains incomplete\n\n6. Secure the packed wound with a pressure bandage that maintains compression during transport\n\n7. If bleeding continues, reinforce with additional packing or other haemorrhage-control measures within scope rather than removing the initial gauze",
       "sortOrder": 1
     },
     {
       "id": "skill-qc-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Superficial packing does not work - gauze must reach the bleeding source\n- 3 minutes of direct pressure minimum - inform the patient and maintain counting\n- Leave packing in situ for hospital removal\n- Document: wound site, number of gauze pads used, duration of pressure, bleeding control achieved",
+      "content": "- Packing must reach the bleeding source; loose superficial packing is unlikely to work\n- Leave haemostatic gauze in place for hospital reassessment and removal\n- Continue reassessment for shock, rebleeding, and dressing failure during movement and transport\n- Document the wound site, quantity of packing used, pressure duration, and clinical response",
       "sortOrder": 2
     }
   ],
@@ -52,6 +59,6 @@
     "revised-trauma-score"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
