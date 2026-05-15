@@ -1,0 +1,71 @@
+{
+  "id": "suspected-abuse",
+  "title": "Suspected Abuse",
+  "category": "mental_health",
+  "tags": [
+    "safeguarding",
+    "abuse",
+    "neglect",
+    "child protection",
+    "elder abuse"
+  ],
+  "synonyms": [
+    "Suspected Abuse",
+    "Safeguarding Concerns",
+    "Child or Elder Abuse",
+    "Neglect"
+  ],
+  "sections": [
+    {
+      "id": "suspected-abuse-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Suspected abuse or neglect may affect children, older people, dependent adults, and intimate-partner victims. Prehospital priorities are immediate safety, objective clinical assessment, privacy where possible, careful documentation, and appropriate escalation to police, hospital, or safeguarding pathways.",
+      "sortOrder": 0
+    },
+    {
+      "id": "suspected-abuse-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Injury pattern, explanation, or delay in presentation that does not fit the clinical findings\n- Fearfulness, withdrawal, controlling companion behaviour, or inconsistent history\n- Signs of neglect such as poor hygiene, dehydration, pressure injury, malnutrition, or unsafe living conditions\n- Child, older person, or dependent adult disclosing harm, coercion, or unsafe circumstances",
+      "sortOrder": 1
+    },
+    {
+      "id": "suspected-abuse-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Abuse should be considered as a potential differential when findings are unexplained or concerning\n- Separate the patient from the suspected perpetrator or controlling companion where safe and practical\n- Do not promise secrecy. Explain that safety concerns may need to be shared with appropriate services\n- Use the patient's own words where possible and avoid leading questions or amateur investigation",
+      "sortOrder": 2
+    },
+    {
+      "id": "suspected-abuse-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey and treatment of acute clinical needs first\n- Create privacy where safe so the patient can speak without coercion\n- Reassure the patient, listen calmly, and document objective observations and direct disclosures carefully\n- Escalate immediately to police if there is imminent danger or a life-threatening situation\n- Handover safeguarding concerns directly to the receiving clinician or responsible authority",
+      "sortOrder": 3
+    },
+    {
+      "id": "suspected-abuse-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Assess capacity where consent, disclosure, or refusal decisions are affected by fear, coercion, or cognitive impairment\n- Consider need for senior clinical, police, child-protection, or social-work coordination according to local law and policy\n- Preserve forensic value where relevant by avoiding unnecessary disturbance of clothing, bodily evidence, or the scene once lifesaving care is addressed\n- Use transport destination and pre-notification planning to support the patient's safety needs as well as their medical needs",
+      "sortOrder": 4
+    },
+    {
+      "id": "suspected-abuse-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- This guideline complements, but does not replace, the more specific domestic and family violence pathway\n- Child abuse, elder abuse, neglect, and intimate-partner violence may overlap, so keep the approach broad and safety focused\n- Document who was present, what was said, observed injuries or environmental concerns, and who the concern was handed over to",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "domestic-and-family-violence",
+    "patient-assessment-capacity-consent-refusal",
+    "high-risk-mental-health-presentations"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "radiation-exposure",
+  "title": "Radiation Exposure",
+  "category": "environmental",
+  "tags": [
+    "radiation",
+    "hazmat",
+    "contamination",
+    "decontamination",
+    "exposure"
+  ],
+  "synonyms": [
+    "Radiation Exposure",
+    "Radiological Incident",
+    "Radioactive Contamination"
+  ],
+  "sections": [
+    {
+      "id": "radiation-exposure-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Radiation incidents may involve irradiation, contamination, trauma, or burns. Prehospital priorities are responder safety, time-distance-shielding principles, decontamination support, and ensuring that fear of contamination does not delay necessary lifesaving care.",
+      "sortOrder": 0
+    },
+    {
+      "id": "radiation-exposure-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- No specific acute symptoms from irradiation alone in many cases\n- Associated trauma, burns, nausea, vomiting, headache, diarrhoea, or fatigue after significant exposure\n- Possible contaminated clothing, dust, or material on the patient\n- Scene indicators such as radioactive source signage or industrial/laboratory context",
+      "sortOrder": 1
+    },
+    {
+      "id": "radiation-exposure-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not withhold urgent medical care purely because a radiation sign is present\n- Use time, distance, and shielding principles and follow hazardous-material direction\n- Washing and controlled clothing removal can greatly reduce contamination spread\n- Try not to contaminate vehicles, staff, or hospital areas unnecessarily",
+      "sortOrder": 2
+    },
+    {
+      "id": "radiation-exposure-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Ensure scene safety and obtain hazardous-material support early\n- Remove the patient from the source where safe to do so and follow decontamination instructions from the responsible agency\n- Perform primary survey and treat immediately life-threatening problems without unnecessary delay\n- Minimise spread of contamination with simple containment measures such as sheeting and controlled handling\n- Pre-notify the receiving facility early if contamination is suspected or confirmed",
+      "sortOrder": 3
+    },
+    {
+      "id": "radiation-exposure-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Apply ECG or IV access only when clinically needed and avoid unnecessary invasive procedures in contaminated settings\n- Provide analgesia, anti-emetic therapy, and supportive resuscitation according to the injury pattern and local protocol\n- Continue decontamination support and packaging measures while balancing immediate clinical priorities\n- Escalate through hazardous-material, radiation, and hospital coordination pathways according to local system arrangements",
+      "sortOrder": 4
+    },
+    {
+      "id": "radiation-exposure-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Trauma, burns, or blast injury may be more immediately life threatening than the radiological component itself\n- Document suspected source, duration of exposure if known, contamination concerns, and decontamination steps completed before transport\n- Transport decisions should reflect the patient's clinical condition as well as contamination-control requirements",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "ondansetron",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "toxic-inhalations",
+    "burns",
+    "psychosocial-hazards-work-health-safety"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

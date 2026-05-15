@@ -1,0 +1,74 @@
+{
+  "id": "newborn-life-support",
+  "title": "Newborn Life Support",
+  "category": "resuscitation",
+  "tags": [
+    "newborn",
+    "neonate",
+    "resuscitation",
+    "birth",
+    "airway"
+  ],
+  "synonyms": [
+    "Newborn Life Support",
+    "Neonatal Resuscitation",
+    "Resuscitation of the Newborn"
+  ],
+  "sections": [
+    {
+      "id": "newborn-life-support-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Newborn life support focuses on warmth, airway positioning, effective ventilation, and coordinated escalation when a baby fails to breathe or maintain an adequate heart rate after birth. Ventilation is the most important early intervention.",
+      "sortOrder": 0
+    },
+    {
+      "id": "newborn-life-support-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Newborn who is apnoeic, gasping, floppy, poorly perfused, or cyanosed after birth\n- Heart rate below expected for age, especially if under 100 beats per minute\n- Poor response to drying, stimulation, and airway positioning\n- Prematurity, meconium, or complicated birth increasing resuscitation risk",
+      "sortOrder": 1
+    },
+    {
+      "id": "newborn-life-support-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Warmth and airway positioning are crucial, but effective positive-pressure ventilation is the key intervention when the baby is not breathing adequately\n- Routine suction is not recommended unless material is clearly obstructing the airway\n- Reassessment should focus on breathing, chest rise, heart rate, colour, and tone\n- Neonatal resuscitation usually occurs alongside ongoing maternal care, so both patients need active oversight",
+      "sortOrder": 2
+    },
+    {
+      "id": "newborn-life-support-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Dry, warm, and stimulate the newborn while maintaining neutral airway position\n- If the baby is not breathing effectively, begin positive-pressure ventilation with attention to visible chest rise\n- Use room air first for term newborns unless local protocol or clinical deterioration indicates oxygen escalation\n- Reassess heart rate and breathing frequently\n- If heart rate remains below 60 beats per minute despite effective ventilation, begin neonatal chest compressions and expedite transport",
+      "sortOrder": 3
+    },
+    {
+      "id": "newborn-life-support-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Use advanced airway adjuncts only within training, protocol, and clinical need when mask ventilation is ineffective\n- Apply monitoring such as pulse oximetry and BGL where feasible without interrupting effective ventilation\n- Gain IO or IV access only when advanced resuscitation is required and this does not compromise core airway and ventilation priorities\n- Administer protocol-led neonatal medications only when indicated after effective ventilation and compressions have been established\n- Pre-notify the receiving emergency or obstetric service early and continue active resuscitation during transport where required",
+      "sortOrder": 4
+    },
+    {
+      "id": "newborn-life-support-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Premature babies are especially vulnerable to heat loss and may need more deliberate thermal protection\n- Persistent poor heart rate usually reflects inadequate ventilation until proven otherwise\n- Document time of birth, interventions, heart rate trend, oxygen use, and maternal complications",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "adrenaline",
+    "intravenous-glucose-10",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "postpartum-haemorrhage",
+    "skill-childbirth",
+    "adult-resuscitation"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}
