@@ -17,14 +17,14 @@
       "id": "autonomic-dysreflexia-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Autonomic dysreflexia is a hypertensive emergency seen mainly in patients with spinal cord injury, usually at or above T6. It is triggered by noxious stimuli below the lesion and can rapidly lead to stroke, seizure, or cardiac complications if not recognised and relieved.",
+      "content": "Autonomic dysreflexia is a hypertensive emergency seen mainly in patients with spinal cord injury, usually at or above T6. It is triggered by noxious stimuli below the lesion and can rapidly lead to intracranial haemorrhage, seizure, dysrhythmia, or cardiac complications if not recognised and relieved.",
       "sortOrder": 0
     },
     {
       "id": "autonomic-dysreflexia-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Known spinal cord injury, often above T6\n- Sudden severe headache with marked hypertension or a large increase above the patient's usual baseline\n- Flushing or sweating above the lesion with pallor or cool skin below it\n- Bradycardia or less commonly tachycardia\n- Anxiety, blurred vision, chest discomfort, dyspnoea, or reduced conscious state in severe cases",
+      "content": "- Known spinal cord injury, often above T6\n- Sudden severe headache with systolic blood pressure 20 mmHg or more above baseline, or marked hypertension such as 160 mmHg or higher if baseline is unknown\n- Flushing or sweating above the lesion with pallor or cool skin below it\n- Bradycardia or less commonly tachycardia\n- Anxiety, blurred vision, chest discomfort, dyspnoea, or reduced conscious state in severe cases",
       "sortOrder": 1
     },
     {
@@ -38,14 +38,14 @@
       "id": "autonomic-dysreflexia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Sit the patient upright if tolerated to reduce blood pressure\n- Loosen restrictive clothing or equipment\n- Search for and remove obvious noxious stimuli where safe and within scope, such as a twisted drainage line or painful pressure point\n- Give oxygen only if clinically indicated\n- Reassess blood pressure, pain, and symptoms frequently and transport even if symptoms settle",
+      "content": "- Primary Survey\n- Sit the patient upright if tolerated to promote an orthostatic reduction in blood pressure\n- Loosen restrictive clothing or equipment and limit exertion as much as possible\n- Search for and remove obvious noxious stimuli where safe and within scope, such as a twisted drainage line or painful pressure point\n- Give oxygen only if clinically indicated\n- Reassess blood pressure, pain, and symptoms frequently and transport even if symptoms settle",
       "sortOrder": 3
     },
     {
       "id": "autonomic-dysreflexia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Continue structured search for reversible triggers, including bladder and bowel causes, within scope and dignity constraints\n- Consider protocol-led vasodilator therapy only within local scope or senior direction if severe hypertension persists after simple trigger relief\n- Provide analgesia within scope where pain is a likely trigger or consequence\n- Escalate early if neurological symptoms, chest pain, refractory hypertension, or recurrent symptoms are present",
+      "content": "- ECG\n- Continue structured search for reversible triggers, including bladder and bowel causes, within scope and dignity constraints\n- Provide analgesia within scope where pain is a likely trigger or consequence\n- Consider protocol-led vasodilator therapy only within local scope or senior direction if severe hypertension persists after simple trigger relief\n- Escalate early if neurological symptoms, chest pain, refractory hypertension, or recurrent symptoms are present",
       "sortOrder": 4
     },
     {
@@ -66,6 +66,6 @@
     "seizures"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

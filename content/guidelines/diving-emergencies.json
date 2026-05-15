@@ -20,7 +20,7 @@
       "id": "diving-emergencies-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Diving emergencies include decompression sickness, arterial gas embolism, and pulmonary barotrauma. Prehospital priorities are high-concentration oxygen, careful history of the dive profile, supportive care, and early coordination with a hyperbaric-capable service.",
+      "content": "Diving emergencies include decompression sickness, arterial gas embolism, pulmonary barotrauma, and hypoxic blackout. Prehospital priorities are high-concentration oxygen, careful history of the dive profile, supportive care, and early coordination with a hyperbaric-capable service.",
       "sortOrder": 0
     },
     {
@@ -34,7 +34,7 @@
       "id": "diving-emergencies-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Record dive depth, duration, repetitive dives, ascent details, surface interval, and time of symptom onset if known\n- Definitive treatment for decompression illness is hyperbaric recompression and should be arranged early\n- High-concentration oxygen is beneficial even when the final diagnosis is uncertain\n- Position supine if tolerated, but allow position of comfort if this is needed for severe respiratory distress",
+      "content": "- Record the dive type, depth, duration, repetitive dives, ascent details, surface interval, and time of symptom onset if known\n- Definitive treatment for decompression illness is hyperbaric recompression and should be arranged early\n- High-concentration oxygen is beneficial even when the final diagnosis is uncertain\n- Position supine without leg elevation if tolerated, but allow position of comfort if this is needed for severe respiratory distress",
       "sortOrder": 2
     },
     {
@@ -48,14 +48,14 @@
       "id": "diving-emergencies-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access where significant symptoms, shock, or neurological deficit are present\n- Consider isotonic fluid therapy when dehydration or hypoperfusion is suspected, with repeated reassessment\n- Provide analgesia within scope where needed\n- Escalate early to retrieval, toxicology, or hyperbaric coordination pathways according to local system arrangements",
+      "content": "- ECG\n- Gain IV access where significant symptoms, shock, or neurological deficit are present\n- Consider isotonic fluid therapy when dehydration or hypoperfusion is suspected, with repeated reassessment\n- Provide analgesia within scope where needed\n- Escalate early to retrieval or hyperbaric coordination pathways according to local system arrangements",
       "sortOrder": 4
     },
     {
       "id": "diving-emergencies-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Arterial gas embolism often presents very soon after surfacing and can mimic stroke or seizure\n- Joint pain within 24 to 48 hours after a dive should still raise concern for decompression sickness\n- Document dive history, oxygen start time, neurological findings, and destination decisions clearly",
+      "content": "- Arterial gas embolism usually presents within minutes of surfacing and can mimic stroke, seizure, myocardial infarction, or dysrhythmia\n- Joint pain within 24 to 48 hours after a dive should still raise concern for decompression sickness\n- Symptoms of decompression illness can occasionally begin more than 24 hours after deep diving",
       "sortOrder": 5
     }
   ],
@@ -68,6 +68,6 @@
     "altered-level-of-consciousness"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -20,42 +20,42 @@
       "id": "adrenal-insufficiency-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Adrenal insufficiency can present as adrenal crisis with hypotension, shock, hypoglycaemia, electrolyte disturbance, and altered conscious state. Prehospital priorities are early recognition, treatment of reversible threats such as hypoglycaemia, protocol-led steroid replacement where available, and urgent transport.",
+      "content": "Adrenal insufficiency can deteriorate into adrenal crisis with shock, hypoglycaemia, electrolyte disturbance, vomiting, and altered conscious state. Prehospital priorities are early recognition, low-threshold escalation in patients with known adrenal disease or recent long-term steroid exposure, treatment of reversible threats, protocol-led steroid replacement where available, and urgent transport.",
       "sortOrder": 0
     },
     {
       "id": "adrenal-insufficiency-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Known adrenal insufficiency or chronic steroid dependence with acute deterioration\n- Weakness, lethargy, dizziness, abdominal pain, vomiting, or diarrhoea\n- Hypotension, postural collapse, shock, or syncope\n- Hypoglycaemia, confusion, reduced conscious state, or seizure\n- Fever or intercurrent illness as a common precipitant",
+      "content": "- Known adrenal insufficiency, adrenal action plan, or current/recent long-term glucocorticoid therapy with acute deterioration\n- Weakness, lethargy, dizziness, abdominal pain, vomiting, diarrhoea, or severe undifferentiated pain\n- Hypotension, postural collapse, shock, or syncope\n- Hypoglycaemia, confusion, reduced conscious state, or seizure\n- Intercurrent illness, trauma, childbirth, or major psychological stress as common precipitants",
       "sortOrder": 1
     },
     {
       "id": "adrenal-insufficiency-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Sepsis, dehydration, hypoglycaemia, and hyperkalaemia may coexist\n- A patient or carer may have emergency steroid medication or an established action plan\n- Do not delay transport while searching for a perfect diagnosis if shock or altered conscious state is present\n- Consider adrenal crisis in unexplained collapse or refractory hypotension, especially in patients with known endocrine disease or chronic steroid exposure",
+      "content": "- Sepsis, dehydration, hypoglycaemia, and hyperkalaemia may coexist and may all contribute to shock\n- A patient or carer may have emergency hydrocortisone and a written adrenal insufficiency action plan\n- Diagnosis can be challenging and may progress insidiously; do not delay treatment while waiting for diagnostic certainty in a high-risk patient\n- Consider adrenal crisis in unexplained collapse or refractory hypotension, especially in patients with known endocrine disease or current/recent long-term steroid exposure",
       "sortOrder": 2
     },
     {
       "id": "adrenal-insufficiency-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Check BGL early and treat hypoglycaemia promptly within scope\n- Give oxygen only if clinically indicated\n- Keep the patient warm and perform frequent reassessment of blood pressure, conscious state, respiratory status, and perfusion\n- Obtain medication history, trigger history, and any patient-held steroid emergency plan if this does not delay care\n- Prioritise urgent transport for shock, reduced conscious state, recurrent vomiting, or severe weakness",
+      "content": "- Primary Survey\n- Check BGL early and treat hypoglycaemia promptly within scope\n- Give oxygen only if clinically indicated\n- Keep the patient warm and perform frequent reassessment of blood pressure, conscious state, respiratory effort, and perfusion\n- Obtain medication history, trigger history, and any patient-held adrenal action plan if this does not delay care\n- Prioritise urgent transport for shock, reduced conscious state, recurrent vomiting, severe weakness, or suspected electrolyte disturbance",
       "sortOrder": 3
     },
     {
       "id": "adrenal-insufficiency-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access early if adrenal crisis is suspected\n- Administer hydrocortisone only within local protocol, scope, or senior direction\n- Provide IV crystalloid therapy where hypotension or shock is present, with repeated reassessment\n- Treat hypoglycaemia with oral, IV, or IM therapy according to the patient's condition and local protocol\n- Escalate early if shock, hyperkalaemia, refractory hypoglycaemia, or altered conscious state is present",
+      "content": "- ECG\n- Gain IV access early if adrenal crisis is suspected\n- Administer hydrocortisone within local protocol, scope, or senior direction, with a low threshold in known adrenal-insufficient patients or those with long-term steroid exposure and severe physiological stress\n- Provide isotonic crystalloid therapy for hypotension, shock, or dehydration, with repeated reassessment\n- Treat hypoglycaemia with oral, IV, or IM therapy according to the patient's condition and local protocol\n- Escalate early if shock, hyperkalaemia, refractory hypoglycaemia, or altered conscious state is present",
       "sortOrder": 4
     },
     {
       "id": "adrenal-insufficiency-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Known adrenal-insufficient patients may deteriorate rapidly during illness, trauma, or prolonged vomiting\n- Record baseline steroid therapy if known, BGL trend, blood pressure response, and whether emergency hydrocortisone was available or given\n- When hyperkalaemia is suspected, integrate management with the hyperkalaemia guideline rather than treating this as an isolated endocrine problem",
+      "content": "- Known adrenal-insufficient patients may deteriorate rapidly during illness, trauma, prolonged vomiting, or sudden steroid interruption\n- Short-acting glucocorticoids have a strong safety profile and failure to treat true adrenal crisis is more dangerous than timely protocol-led replacement\n- Record baseline steroid therapy if known, trigger history, BGL trend, blood pressure response, and whether emergency hydrocortisone was available or given",
       "sortOrder": 5
     }
   ],
@@ -70,6 +70,6 @@
     "sepsis-septic-shock"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

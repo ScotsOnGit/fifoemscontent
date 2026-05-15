@@ -26,7 +26,7 @@
       "id": "newborn-life-support-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Newborn who is apnoeic, gasping, floppy, poorly perfused, or cyanosed after birth\n- Heart rate below expected for age, especially if under 100 beats per minute\n- Poor response to drying, stimulation, and airway positioning\n- Prematurity, meconium, or complicated birth increasing resuscitation risk",
+      "content": "- Newborn who is apnoeic, gasping, floppy, poorly perfused, or cyanosed after birth\n- Heart rate under 100 beats per minute after initial drying, stimulation, and positioning\n- Poor response to drying, stimulation, and airway positioning\n- Prematurity, meconium, or complicated birth increasing resuscitation risk",
       "sortOrder": 1
     },
     {
@@ -40,21 +40,21 @@
       "id": "newborn-life-support-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Dry, warm, and stimulate the newborn while maintaining neutral airway position\n- If the baby is not breathing effectively, begin positive-pressure ventilation with attention to visible chest rise\n- Use room air first for term newborns unless local protocol or clinical deterioration indicates oxygen escalation\n- Reassess heart rate and breathing frequently\n- If heart rate remains below 60 beats per minute despite effective ventilation, begin neonatal chest compressions and expedite transport",
+      "content": "- Dry, warm, and stimulate the newborn while maintaining neutral airway position\n- Assess heart rate by ECG or auscultation where possible; if unavailable, use the umbilical cord pulse or pulse oximetry as alternatives\n- If the baby is not breathing effectively, begin positive-pressure ventilation at 40 to 60 breaths per minute with attention to visible chest rise\n- Use room air first for term newborns during the initial phase unless local protocol or deterioration indicates oxygen escalation\n- Reassess heart rate and breathing frequently, and if heart rate remains below 60 beats per minute despite effective ventilation, begin neonatal chest compressions and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "newborn-life-support-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Use advanced airway adjuncts only within training, protocol, and clinical need when mask ventilation is ineffective\n- Apply monitoring such as pulse oximetry and BGL where feasible without interrupting effective ventilation\n- Gain IO or IV access only when advanced resuscitation is required and this does not compromise core airway and ventilation priorities\n- Administer protocol-led neonatal medications only when indicated after effective ventilation and compressions have been established\n- Pre-notify the receiving emergency or obstetric service early and continue active resuscitation during transport where required",
+      "content": "- Use a two-person ventilation technique and jaw support where scene resourcing permits and mask ventilation is ineffective or inconsistent\n- Apply pre-ductal pulse oximetry to the right hand where feasible without interrupting effective ventilation\n- Gain IO or IV access only when advanced resuscitation is required and this does not compromise core airway and ventilation priorities\n- Administer protocol-led neonatal medications only when indicated after effective ventilation and compressions have been established\n- Pre-notify the receiving emergency, neonatal, or obstetric service early and continue active resuscitation during transport where required",
       "sortOrder": 4
     },
     {
       "id": "newborn-life-support-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Premature babies are especially vulnerable to heat loss and may need more deliberate thermal protection\n- Persistent poor heart rate usually reflects inadequate ventilation until proven otherwise\n- Document time of birth, interventions, heart rate trend, oxygen use, and maternal complications",
+      "content": "- Premature babies are especially vulnerable to heat loss and may need more deliberate thermal protection\n- Persistent poor heart rate usually reflects inadequate ventilation until proven otherwise\n- Newborn resuscitation principles can be applied through the first 24 hours after birth while transition physiology is still evolving",
       "sortOrder": 5
     }
   ],
@@ -69,6 +69,6 @@
     "adult-resuscitation"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

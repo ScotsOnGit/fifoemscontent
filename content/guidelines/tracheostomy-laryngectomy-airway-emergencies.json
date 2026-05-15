@@ -19,7 +19,7 @@
       "id": "tracheostomy-laryngectomy-airway-emergencies-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Tracheostomy and laryngectomy patients may deteriorate from tube blockage, displacement, secretion load, or ventilatory failure. Prehospital priorities are recognising that the stoma is often the primary airway route, oxygenating the patient, relieving simple obstruction, and escalating rapidly if ventilation is failing.",
+      "content": "Tracheostomy and laryngectomy patients may deteriorate from tube blockage, displacement, secretion load, or ventilatory failure. Prehospital priorities are recognising that the stoma is the default airway route, oxygenating the patient, relieving simple obstruction, and escalating rapidly if ventilation is failing.",
       "sortOrder": 0
     },
     {
@@ -33,7 +33,7 @@
       "id": "tracheostomy-laryngectomy-airway-emergencies-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- The default route of oxygenation and ventilation should be the stoma unless a clearly patent upper airway is known and usable\n- If it is unclear whether the patient has a laryngectomy or tracheostomy, oxygen via the stoma remains the first priority\n- Patients and carers often know the device and usual rescue steps; use that information where safe\n- External speaking valves or filters may need removal if they are contributing to obstruction",
+      "content": "- The default route of oxygenation and ventilation should be the stoma unless a clearly patent upper airway is known and usable\n- If it is unclear whether the patient has a laryngectomy or tracheostomy, oxygen via the stoma remains the first priority and oxygen to the face can be added if resources allow\n- Patients and carers often know the device and usual rescue steps; use that information where safe\n- External speaking valves, heat-moisture exchangers, caps, or filters may need removal if they are contributing to obstruction",
       "sortOrder": 2
     },
     {
@@ -47,14 +47,14 @@
       "id": "tracheostomy-laryngectomy-airway-emergencies-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Suction the stoma or tracheostomy if obstructing secretions are suspected and this is within training and scope\n- Use ETCO2 where ventilation is being assisted\n- Attempt bag-valve-mask ventilation via the stoma when spontaneous ventilation is inadequate\n- If there is major air leak through the mouth during attempted stoma ventilation, reassess whether upper-airway management is required\n- Escalate early for advanced airway rescue if obstruction, displacement, or ventilatory failure persists",
+      "content": "- Assess patency by attempting to pass a suction catheter without suction first; if secretions are present, suction the stoma or tracheostomy within training and scope\n- Use ETCO2 where ventilation is being assisted\n- Attempt bag-valve-mask ventilation via the stoma when spontaneous ventilation is inadequate\n- Do not remove the tracheostomy tube unless it is completely obstructed and the patient cannot be ventilated through it\n- If there is major air leak through the mouth during attempted stoma ventilation, reassess upper-airway patency; if ventilating via the upper airway, occlude the stoma with an airtight dressing\n- Escalate early for advanced airway rescue if obstruction, displacement, or ventilatory failure persists",
       "sortOrder": 4
     },
     {
       "id": "tracheostomy-laryngectomy-airway-emergencies-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Laryngectomy patients have no meaningful upper-airway route to the lungs, so stoma management is essential\n- Tracheostomy patients may still have a partially patent upper airway, which changes rescue options if stoma ventilation is failing\n- Document device type if known, suction findings, ventilation route used, and response to interventions",
+      "content": "- Laryngectomy patients have no meaningful upper-airway route to the lungs, so stoma management is essential\n- Tracheostomy patients may still have a partially patent upper airway, which changes rescue options if stoma ventilation is failing\n- Document device type if known, suction catheter passage, attachments removed, ventilation route used, and response to interventions",
       "sortOrder": 5
     }
   ],
@@ -67,6 +67,6 @@
     "skill-bvm-ventilation"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }
