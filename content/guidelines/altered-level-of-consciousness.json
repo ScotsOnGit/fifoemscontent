@@ -30,21 +30,21 @@
       "id": "altered-level-of-consciousness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- The differential for ALOC can be broad\n\n**Consideration should be given to:**\n  - Intracranial pathologies such as CVA, subarachnoid haemorrhage, intracerebral haemorrhage, meningitis, encephalitis, post-ictal, status epilepticus, Wernicke- Korsakoff, hypertensive encephalopathy\n  - Extra-Cranial pathologies such as dys/arrythmia, blood glucose deficits, electrolyte imbalances, sedatives, opiate, or anticonvulsant medications, infection, sepsis, environmental conditions, hypoxia, substance abuse, substance/medication withdrawal, factitious or psychiatric disorder",
+      "content": "- The differential for ALOC is broad and often time critical\n- Consider intracranial causes such as stroke, intracranial haemorrhage, CNS infection, post-ictal state, status epilepticus, or hypertensive encephalopathy\n- Consider extra-cranial causes such as dysrhythmia, blood glucose abnormality, electrolyte disturbance, toxic exposure, hypoxia, sepsis, shock, environmental exposure, or substance withdrawal\n- Rapid improvement after simple treatment does not remove the need to consider serious underlying pathology",
       "sortOrder": 2
     },
     {
       "id": "altered-level-of-consciousness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey\n- Consider patient positioning, spinal precautions if indicated\n- Consider Oxygen if indicated\n- Vital Sign Survey\n- Manage reversible causes (e.g. blood glucose abnormality, arrhythmia, hypoxia, hypo/hyperthermia) if evident\n- Consider naloxone in suspected opioid toxicity in line with local protocol\n- Keep patient warm\n- Secondary/CNS Survey, FAST, cranial nerve assessment\n- Clinicians should have a low threshold for calling the on-call doctor if there is no improvement with simple measures or if the cause remains unclear",
+      "content": "- Ensure scene safety and protect the patient from further harm\n- Primary Survey\n- Position for airway protection and apply spinal motion restriction only where clinically indicated\n- Administer oxygen if hypoxaemic or in respiratory distress\n- Record a full vital sign survey including blood glucose, temperature, GCS or AVPU, and pupils\n- Manage immediately reversible causes such as hypoglycaemia, hypoxia, opioid toxicity, arrhythmia, or environmental exposure where evident\n- Perform focused neurological assessment, including FAST where appropriate, without delaying transport\n- Seek early senior support if the cause remains unclear, the patient does not improve promptly, or deterioration continues",
       "sortOrder": 3
     },
     {
       "id": "altered-level-of-consciousness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway where indicated\n- Apply cardiac monitor\n- Manage cardiac dysrhythmia\n- A 12 lead ECG should be acquired in most, if not all these patients\n- If indicated, gain vascular access\n- Consider obtaining pre-hospital blood sample for i-STAT if time permits\n- Consider IV fluids if indicated\n- Consider IV naloxone, titrate to effect (no large boluses) in suspected opiate toxicity, if IM not previously given, in consultation with on-call doctor\n- Consider benzodiazepines (titrated to effect) if seizure activity evident in consultation with on-call doctor",
+      "content": "- Consider advanced airway management if airway reflexes are lost or ventilation is inadequate\n- Apply cardiac monitoring and obtain a 12 lead ECG where cardiac, toxic, metabolic, or syncope-related causes are possible\n- Gain vascular access if medication, fluids, or further investigation may be required\n- Consider point-of-care blood testing if it will inform immediate management without delaying transport\n- Consider IV fluids if hypovolaemia, sepsis, or shock is suspected\n- Consider IV naloxone titrated to effect in suspected opioid toxicity where advanced management is required\n- Treat seizure activity, dysrhythmia, or other identified causes in line with the relevant condition-specific guideline",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "gcs",
     "avpu",

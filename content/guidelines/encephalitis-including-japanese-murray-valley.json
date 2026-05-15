@@ -31,21 +31,21 @@
       "id": "encephalitis-including-japanese-murray-valley-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Rural travel, outdoor exposure, and mosquito exposure increase risk of some viral encephalitides\n- Most JEV infections are asymptomatic, but severe disease can cause coma, paralysis, or permanent neurological injury\n- HSV encephalitis is an important cause in Australasia and requires urgent hospital treatment\n- Pregnancy may increase the significance of some infections and should lower the threshold for transfer\n- Early recognition is critical; maintain a low threshold for urgent evacuation",
+      "content": "- Rural travel, outdoor exposure, and mosquito exposure increase risk of some viral encephalitides\n- Most JEV infections are asymptomatic, but severe disease can cause coma, paralysis, or permanent neurological injury\n- HSV encephalitis is an important cause in Australasia and requires urgent hospital treatment\n- Pregnancy may increase the significance of some infections and should lower the threshold for transfer\n- Early recognition is critical; maintain a low threshold for urgent evacuation\n- Treat any reduced conscious state, seizure activity, or focal neurology as time critical until another cause is established",
       "sortOrder": 2
     },
     {
       "id": "encephalitis-including-japanese-murray-valley-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Insert an appropriate airway adjunct if required\n- Consider Oxygen\n- If actively seizing and within scope, administer seizure treatment as per protocol\n- Consider simple analgesia or antipyretic only if safe and appropriate",
+      "content": "- Primary Survey\n- Protect the airway and insert an airway adjunct if required\n- Administer oxygen if hypoxaemic or in respiratory distress\n- Manage active seizures in line with the seizure guideline and local protocol\n- Record temperature, blood glucose, conscious state, and focal neurological findings early\n- Provide simple analgesia or antipyretic treatment only if this does not delay transport or obscure deterioration",
       "sortOrder": 3
     },
     {
       "id": "encephalitis-including-japanese-murray-valley-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider fluids if necessary\n- Consider IV midazolam for seizures in line with protocol\n- Consider analgesia\n- Antiviral or antibiotic therapy should only be started in consultation with the on-call doctor or receiving service\n- Consider ECG",
+      "content": "- Consider IV access if seizure treatment, hydration, or broader resuscitation may be required\n- Consider IV fluids if clinically indicated, avoiding unnecessary delay to transport\n- Consider IV midazolam for persistent seizures in line with protocol\n- Antiviral or antibiotic therapy should only be started in consultation with the on-call doctor or receiving service\n- Consider ECG or other adjuncts if alternative toxic, metabolic, or cardiac causes are possible\n- Escalate urgently for airway compromise, recurrent seizures, or progressive reduction in conscious state",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

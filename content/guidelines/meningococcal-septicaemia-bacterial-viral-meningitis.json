@@ -30,21 +30,21 @@
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Rapid-onset sepsis with or without a non-blanching rash may indicate meningococcal disease\n- Meningococcal disease is transmitted by close contact and respiratory droplets\n- Because bacterial and viral meningitis may be difficult to distinguish clinically at first presentation, suspected bacterial meningitis or meningococcal disease should be treated as time critical\n- Ensure appropriate PPE, especially during airway procedures\n- All patients with suspected meningitis or meningococcal disease require urgent transport",
+      "content": "- Rapid-onset sepsis with or without a non-blanching rash may indicate meningococcal disease\n- Meningococcal disease is transmitted by close contact and respiratory droplets\n- Because bacterial and viral meningitis may be difficult to distinguish clinically at first presentation, suspected bacterial meningitis or meningococcal disease should be treated as time critical\n- Ensure appropriate PPE, especially during airway procedures\n- All patients with suspected meningitis or meningococcal disease require urgent transport\n- Do not allow the absence of rash to lower concern when sepsis, neck stiffness, altered conscious state, or rapid deterioration are present",
       "sortOrder": 2
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Consider oxygen\n- Record vital signs, especially BP, SpO2, temperature, and conscious state\n- Consider early IM antibiotics only in consultation with on-call doctor and local protocol where meningococcal disease is strongly suspected\n- Consider pain relief if suitable\n- Maintain a low threshold for RFDS or senior consultation",
+      "content": "- Primary Survey\n- Apply droplet precautions and minimise unnecessary exposure\n- Administer oxygen if hypoxaemic, shocked, or in respiratory distress\n- Record vital signs, especially blood pressure, oxygen saturation, temperature, perfusion, and conscious state\n- Consider early IM antibiotics only where strongly indicated by local protocol or senior medical direction\n- Provide pain relief if suitable and not delaying evacuation\n- Maintain a low threshold for RFDS or senior consultation and urgent transport",
       "sortOrder": 3
     },
     {
       "id": "meningococcal-septicaemia-bacterial-viral-meningitis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access\n- Administer intravenous fluids if indicated, with reassessment for shock and overload\n- Administer IV antibiotics only in consultation with on-call doctor and local protocol\n- Administer antiemetic if required\n- Consider further analgesia\n- Apply ECG if indicated",
+      "content": "- Gain IV access if shock, seizure management, or IV therapy is likely to be required\n- Administer intravenous fluids if indicated, with repeated reassessment for perfusion and fluid overload\n- Administer IV antibiotics only in consultation with the on-call doctor and local protocol\n- Treat seizures, airway compromise, or sepsis-related deterioration in line with the relevant guideline\n- Apply ECG or additional monitoring if shock, altered conscious state, or an alternative diagnosis is being considered",
       "sortOrder": 4
     },
     {
@@ -58,8 +58,8 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

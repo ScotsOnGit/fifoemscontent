@@ -28,21 +28,21 @@
       "id": "seizures-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Anticipate potential airway obstruction; while tongue trauma typically poses minimal risk, dental fracture carries significant aspiration hazard\n- Midazolam can be administered intravenously, intramuscularly, intranasally, or via the buccal routes\n- Pharmacological management of non-convulsive or atypical seizure types requires consultation with the on-call doctor or RFDS medical support\n- Implement environmental safety measures by removing hazards and providing head protection with padding. Apply physical restraint only when necessary to prevent immediate injury\n- Continuous airway assessment and intervention are required throughout ictal and post- ictal phases to ensure patency and prevent aspiration\n- Generalised seizure activity should be considered an emergency where:\n  - The seizure is prolonged (> 5 minutes), or\n  - Multiple seizures occur, or\n  - The patient doesn’t regain consciousness\n\n**Focal seizure activity associated where:**\n  - The seizure is prolonged (> 5 minutes) and is associated with a GCS ≤ 12\n  - Common causes: Epilepsy, hypoglycaemia, CNS infection, head trauma, drug toxicity, stroke, alcohol withdrawal\n  - Red flags: First seizure, trauma during seizure, signs of infection (fever, rash), persistent post-ictal unresponsiveness",
+      "content": "- Anticipate airway obstruction, aspiration risk, and post-ictal hypoventilation\n- Midazolam may be given by approved routes in line with scope and local protocol\n- Pharmacological management of non-convulsive or atypical seizure types requires consultation with the on-call doctor or RFDS medical support\n- Remove hazards and protect the head; use restraint only to prevent immediate injury\n- Generalised seizure activity is time critical when it lasts more than 5 minutes, recurs without recovery, or is associated with injury, pregnancy, infection, or persistent reduced consciousness\n- Common causes include epilepsy, hypoglycaemia, CNS infection, head trauma, drug toxicity, stroke, and alcohol withdrawal",
       "sortOrder": 2
     },
     {
       "id": "seizures-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Protect from injury whilst the patient is seizing\n- If the seizure is prolonged or recurrent, consider midazolam via the approved route and dose under local protocol and in consultation with on-call doctor where required\n- Complete Primary Survey\n- Open, clear, and maintain the airway where possible. Never put fingers or objects in the patient's mouth during active seizure activity\n- Suction if required and where possible\n- Insert an appropriate airway adjunct once safe to do so; consider NPA if trismus is present\n- Lateral position if unresponsive (use left lateral position for pregnant women)\n- Oxygen with assisted ventilation if indicated\n- Identify and address the cause where possible\n- Full Vital Signs Survey, particularly GCS, BGL, Pulse Oximetry and Temperature\n- Note seizure onset time and total duration\n- Complete Secondary Survey once seizure activity has terminated\n- Limb lead ECG, being mindful of muscular artefact\n- Consider urinalysis where appropriate, e.g. in pregnancy\n- ESOs, MESOs and other similar levels should have a low threshold for calling the on-call doctor",
+      "content": "- Protect the patient from injury while the seizure is occurring\n- If the seizure is prolonged or recurrent, consider midazolam via the approved route and dose under local protocol\n- Complete Primary Survey once it is safe to do so\n- Maintain the airway as best as possible; never place fingers or objects in the mouth during active seizure activity\n- Suction if required and place the patient laterally once safe, including left lateral positioning in pregnancy where appropriate\n- Provide oxygen and assist ventilation if indicated\n- Record seizure onset time, total duration, blood glucose, temperature, oxygen saturation, and conscious state after the event\n- Identify and treat reversible causes where evident and maintain a low threshold for senior consultation",
       "sortOrder": 3
     },
     {
       "id": "seizures-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Establish vascular access\n- Consider blood draw, where appropriate, for i-STAT testing: Chem8 (lactate and electrolytes)\n- Consider IV midazolam, titrated to effect, in consultation with on-call doctor\n- Consider IV glucose if related to low BGL",
+      "content": "- Establish vascular access if the seizure is ongoing, recurrent, or another serious diagnosis is suspected\n- Consider point-of-care testing where available and clinically useful\n- Consider IV midazolam, titrated to effect, in line with protocol for persistent seizure activity\n- Consider IV glucose if hypoglycaemia is present or strongly suspected\n- Escalate rapidly for status epilepticus, airway compromise, trauma, pregnancy, fever, or failure to recover as expected",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "gcs",
     "avpu",
