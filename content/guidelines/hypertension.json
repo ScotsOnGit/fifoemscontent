@@ -36,21 +36,21 @@
       "id": "hypertension-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Take multiple BP readings, several minutes apart\n- Limb lead ECG\n- Consider Secondary Survey\n- Consider urinalysis if relevant\n- Consider pregnancy test if relevant\n- If hypertensive emergency is suspected, treat the underlying syndrome and consult the on-call doctor early",
+      "content": "- Primary Survey\n- Perform repeated vital signs and repeat BP measurements several minutes apart where feasible\n- Apply ECG monitoring where available\n- Consider Secondary Survey\n- If hypertensive emergency is suspected, treat the underlying syndrome and consult the on-call doctor early\n- Do not let non-time-critical BP measurement delay care for stroke, ACS, pulmonary oedema, aortic syndrome, or other emergencies",
       "sortOrder": 3
     },
     {
       "id": "hypertension-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- Consider antihypertensive medication only when clinically indicated by the cause and in consultation with on-call doctor\n- Consider analgesia if hypertension is secondary to pain\n- Avoid reflexive prehospital BP lowering in asymptomatic severe hypertension",
+      "content": "- Obtain a 12 lead ECG\n- Consider antihypertensive medication only when clinically indicated by the cause and in consultation with the on-call doctor\n- Consider analgesia if hypertension is secondary to pain or distress\n- Avoid reflexive prehospital BP lowering in asymptomatic severe hypertension\n- Focus on identifying and treating end-organ complications rather than normalising the BP number",
       "sortOrder": 4
     },
     {
       "id": "hypertension-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Reference Ranges\n- Normal: <120/80 mmHg\n- Elevated: 120–129/<80 mmHg\n- Stage 1 Hypertension: 130–139/80–89 mmHg\n- Stage 2 Hypertension: ≥140/90 mmHg\n- If available, patients can take a blood pressure machine away and record their own BP morning, noon and night for several days for a more accurate estimation of their BP 19 RESPIRATORY",
+      "content": "- Hypertensive emergency is defined by acute target-organ injury, not by BP number alone\n- Examples of target-organ injury include stroke, encephalopathy, ACS, acute heart failure, aortic syndrome, and eclampsia\n- Persistently elevated blood pressure without end-organ injury usually requires outpatient follow-up rather than rapid prehospital correction",
       "sortOrder": 5
     }
   ],
@@ -60,8 +60,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2"
   ]

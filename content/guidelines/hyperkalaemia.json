@@ -29,21 +29,21 @@
       "id": "hyperkalaemia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- High-risk groups: Patients with chronic kidney disease, recent dialysis, crush injuries, prolonged down time, or those taking potassium-sparing medications (e.g., ACE inhibitors, potassium supplements)\n- The definitive treatment for hyperkalaemia is dialysis (a consideration required when choosing receiving hospital)\n- Calcium Gluconate and Sodium Bicarbonate must not be given together in the same line due to risk of precipitation",
+      "content": "- High-risk groups include patients with chronic kidney disease, missed dialysis, crush injury, prolonged downtime, severe acidosis, or potassium-raising medications\n- Treat significant ECG change or marked clinical suspicion early and do not wait for laboratory confirmation if the patient is unstable\n- The definitive treatment for severe hyperkalaemia is often dialysis, which may influence destination planning\n- Calcium gluconate and sodium bicarbonate must not be given together in the same line because of precipitation risk",
       "sortOrder": 2
     },
     {
       "id": "hyperkalaemia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- ECG\n- Perform vital sign survey\n- Secondary/CNS survey",
+      "content": "- Primary Survey\n- Perform ECG monitoring and obtain a 12 lead ECG where possible\n- Perform repeated vital signs\n- Consider Secondary or CNS survey\n- Escalate early if there is bradycardia, wide QRS, profound weakness, or peri-arrest physiology",
       "sortOrder": 3
     },
     {
       "id": "hyperkalaemia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG (assess for changes associated with hyperkalaemia)\n- Gain IV access and ensure patency\n- Fluid resuscitation only if clinically indicated and the patient is not overloaded\n- i-STAT testing if timing permits (Chem8+, K)\n- Consider salbutamol in consultation with on-call doctor, following local dose protocol\n- Consider calcium gluconate 10% in consultation with on-call doctor to stabilise the myocardium when significant ECG changes or severe hyperkalaemia are present\n- Consider sodium bicarbonate 8.4% in consultation with on-call doctor when clinically appropriate, particularly if there is associated acidosis\n- Consider insulin and glucose in consultation with on-call doctor",
+      "content": "- Obtain a 12 lead ECG and assess for changes associated with hyperkalaemia\n- Gain IV access and ensure patency\n- Fluid resuscitation only if clinically indicated and the patient is not fluid overloaded\n- Use point-of-care testing where available if this does not delay treatment of an unstable patient\n- Consider salbutamol in consultation with the on-call doctor and local protocol\n- Consider calcium gluconate 10% in consultation with the on-call doctor to stabilise the myocardium when significant ECG changes or severe hyperkalaemia are present\n- Consider sodium bicarbonate 8.4% in consultation with the on-call doctor when clinically appropriate, particularly if there is associated acidosis\n- Consider insulin and glucose in consultation with the on-call doctor",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",

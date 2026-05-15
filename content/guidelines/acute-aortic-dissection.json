@@ -31,21 +31,21 @@
       "id": "acute-aortic-dissection-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Proximal acute aortic dissection may affect coronary arteries and potentially mimic an acute myocardial infarction (AMI)\n- Differential diagnosis include AMI, pulmonary embolism, spontaneous pneumothorax, pleurisy, Pericarditis/Myocarditis, CVA, and acute abdomen\n- Lethal complications associated with acute aortic dissection include aortic rupture, cardiac tamponade and visceral ischemia",
+      "content": "- Proximal acute aortic dissection may affect the coronary arteries and mimic acute myocardial infarction\n- Differential diagnoses include ACS, pulmonary embolus, spontaneous pneumothorax, pericarditis, stroke, and acute abdomen\n- Lethal complications include aortic rupture, cardiac tamponade, severe aortic regurgitation, and end-organ ischaemia\n- Avoid treatments that may worsen bleeding risk or delay definitive transfer when aortic dissection is strongly suspected",
       "sortOrder": 2
     },
     {
       "id": "acute-aortic-dissection-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary survey\n- Position patient appropriately and minimise exertion\n- Conduct vital sign survey, particularly bilateral BP where this does not delay care\n- Consider oxygen therapy if indicated\n- Consider antiemetic\n- Contact on-call doctor as soon as practicable and arrange urgent transfer to definitive imaging/surgical care",
+      "content": "- Primary Survey\n- Position the patient for comfort and minimise exertion and unnecessary movement\n- Conduct vital signs, including bilateral BP where this does not delay care\n- Consider oxygen only if indicated\n- Consider antiemetic if required\n- Contact the on-call doctor as soon as practicable and arrange urgent transfer to definitive imaging or surgical care",
       "sortOrder": 3
     },
     {
       "id": "acute-aortic-dissection-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitor\n- Apply defib pads\n- Establish vascular access\n- Consider fluid therapy only if hypotensive, using cautious aliquots while reassessing frequently\n- Administer suitable pain relief as soon as practicable\n- Avoid unnecessary treatment delays for extensive investigations in the field",
+      "content": "- Apply cardiac monitoring and defibrillation pads if clinically appropriate\n- Establish vascular access\n- Consider fluid therapy only if hypotensive, using cautious aliquots while reassessing frequently\n- Administer suitable pain relief as soon as practicable\n- Avoid unnecessary treatment delays for extensive investigations in the field\n- If ACS therapies are being considered, pause and reconsider the diagnosis carefully if dissection features are present",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "ecg-axis"
