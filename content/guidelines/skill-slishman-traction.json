@@ -19,21 +19,21 @@
       "id": "skill-slishman-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The Slishman Traction Splint (STS) is an ultra-compact device that fits in a cargo pocket. It uses a cam-lock traction mechanism and proximal attachment to provide traction for midshaft femur fractures, particularly in tactical and austere environments.",
+      "content": "The Slishman Traction Splint is a compact traction device designed for austere, tactical, or restricted-space use. It is still only appropriate for selected femoral shaft fractures and should be used with the same caution as larger traction systems.",
       "sortOrder": 0
     },
     {
       "id": "skill-slishman-procedure",
       "type": "management_advanced",
       "title": "Application",
-      "content": "1. Provide analgesia\n\n2. Attach proximal cuff just distal to greater trochanter (NOT groin)\n\n3. Extend splint along lateral aspect of leg\n\n4. Apply ankle hitch\n\n5. Engage cam-lock mechanism; apply traction to pain relief\n\n6. Secure intermediate straps\n\n7. Reassess neurovascular status",
+      "content": "1. Confirm the injury is suitable for traction splinting and provide analgesia\n\n2. Position the proximal cuff and splint according to device instructions and patient anatomy\n\n3. Secure the distal attachment and apply traction gradually until pain and limb position improve\n\n4. Secure the remaining straps and reassess neurovascular status after application",
       "sortOrder": 1
     },
     {
       "id": "skill-slishman-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Ultra-compact - ideal for tactical/TCCC environments\n- Same contraindications as all traction splints\n- Reassess during transport",
+      "content": "- Compactness does not lower the threshold for use; the injury still needs to be appropriate for traction splinting\n- Reassess the splint during transport because traction can change with movement\n- Apply the same contraindications used for other femoral traction devices",
       "sortOrder": 2
     }
   ],
@@ -49,6 +49,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -20,21 +20,21 @@
       "id": "skill-fernotrac-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "The Fernotrac (Thomas splint variant) is a traction splint that applies countertraction to reduce pain, restore length, and reduce haematoma in isolated closed midshaft femur fractures. Traction splints are contraindicated for hip, knee, ankle, open femur fractures, and avulsion injuries.",
+      "content": "The Fernotrac is a traction splint for selected isolated femoral shaft fractures. The aim is pain reduction, improved alignment, and reduced muscle spasm while avoiding unnecessary manipulation or use in contraindicated injuries.",
       "sortOrder": 0
     },
     {
       "id": "skill-fernotrac-procedure",
       "type": "management_advanced",
       "title": "Application",
-      "content": "**Indications:** Isolated closed midshaft femur fracture, no contraindications\n**Contraindications:** Open fracture, hip/pelvis fracture, knee/ankle injury, avulsion\n\n1. Provide analgesia before application\n\n2. Measure splint against uninjured leg: ischial tuberosity to 15 cm beyond heel\n\n3. Apply ischial strap snugly at proximal thigh\n\n4. Apply ankle strap or traction hitch to foot\n\n5. Extend ratchet/traction mechanism until patient reports pain relief - approximately 10% of body weight\n\n6. Apply support straps along length of thigh\n\n7. Reassess neurovascular status",
+      "content": "**Use for:** suspected isolated femoral shaft fracture when no contraindication is present\n\n**Avoid if there is:** pelvic injury, hip or knee injury, ankle injury that prevents ankle hitching, major open fracture, or suspicion of avulsion-type injury\n\n1. Provide analgesia and assess distal neurovascular status first\n\n2. Size and position the splint according to the device design and the uninjured leg\n\n3. Secure the proximal and distal attachments, then apply steady traction until alignment and pain improve rather than chasing a fixed force number\n\n4. Secure remaining straps and reassess neurovascular status after application",
       "sortOrder": 1
     },
     {
       "id": "skill-fernotrac-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Traction should reduce not worsen pain - if pain increases, reassess application and confirm diagnosis\n- Do not apply more than 15 kg traction\n- Remove and reassess on hospital arrival\n- Document: pre/post neurovascular status, traction force applied",
+      "content": "- Traction should improve pain and limb position; worsening pain or resistance should prompt reassessment\n- Recheck the splint during movement and transport because traction can be lost\n- Do not let traction splint application delay haemorrhage control, transport, or recognition of a more complex injury pattern\n- Document pre- and post-application neurovascular findings and patient response",
       "sortOrder": 2
     }
   ],
@@ -51,6 +51,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

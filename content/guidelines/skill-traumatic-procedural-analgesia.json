@@ -21,21 +21,21 @@
       "id": "skill-tpa-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Traumatic procedural analgesia provides pain relief prior to and during painful prehospital procedures including splinting, reduction, extrication, and wound management. Multimodal analgesia combining different classes reduces doses and side effects. Adequate analgesia improves patient cooperation, reduces physiological stress response, and facilitates better procedure outcomes.",
+      "content": "Traumatic procedural analgesia supports painful prehospital care such as splinting, reduction, packaging, and wound treatment. The aim is to reduce distress enough to perform necessary care safely without losing sight of airway, breathing, haemodynamics, or transport priority.",
       "sortOrder": 0
     },
     {
       "id": "skill-tpa-agents",
       "type": "management_basic",
       "title": "Analgesic Options",
-      "content": "**Methoxyflurane (Penthrox):**\n- Onset: 6–10 breaths\n- Duration: 25–30 min per 3 mL\n- Use: mild–moderate procedural pain; self-administered\n\n**Fentanyl (IN / IV / IM):**\n- Onset: IN 5–10 min; IV 2–3 min\n- Dose: 1–2 mcg/kg IV/IN; 2 mcg/kg IM\n- Use: moderate pain; adjunct for procedures\n\n**Ketamine (sub-dissociative):**\n- Dose: 0.1–0.3 mg/kg IV; 0.5–1 mg/kg IM\n- Onset: IV 1–2 min; IM 5–10 min\n- Use: moderate–severe pain; maintains airway and haemodynamics; synergistic with opioids\n- Monitor: emergence reaction - can be reduced with midazolam\n\n**Methoxyflurane + ketamine (combination):**\n- Effective for extrication analgesia",
+      "content": "- Choose the analgesic approach according to pain severity, urgency, monitoring capability, and the planned procedure\n- Methoxyflurane can be useful when the patient can self-administer and the procedure is short\n- Opioids may be effective but require respiratory vigilance\n- Ketamine can be useful when strong analgesia is needed and maintaining haemodynamic stability matters\n- Combining modalities may reduce the dose of any one agent, but it also increases the need for reassessment",
       "sortOrder": 1
     },
     {
       "id": "skill-tpa-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Perform a pain score before and after every analgesic administration\n- Ketamine preserves respiratory drive and blood pressure - preferred in haemodynamically unstable patients\n- Multimodal approach (non-opioid + opioid) reduces opioid requirements\n- Document: agent, dose, route, time, VAS/NRS pain score before and after",
+      "content": "- Procedural analgesia should be planned: know what you are trying to achieve and what monitoring or rescue you will need\n- Reassess pain, conscious state, ventilation, and haemodynamics before, during, and after the procedure\n- Good analgesia should facilitate the procedure, not create avoidable delay or oversedation\n- Document the agent, dose, route, response, and any adverse effects",
       "sortOrder": 2
     }
   ],
@@ -54,6 +54,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
