@@ -35,20 +35,20 @@
       "id": "skill-blood-pressure-interpretation",
       "type": "considerations",
       "title": "Interpretation",
-      "content": "- Hypotension should always be interpreted alongside pulse, skin signs, conscious state, mechanism, and likely pathology\n- A single normal BP does not exclude evolving shock\n- Severe hypertension matters most when there is evidence of acute end-organ dysfunction rather than the number alone\n- Pulse pressure and BP trend may be clinically useful, especially in trauma, sepsis, and cardiac presentations\n- In children, age-appropriate thresholds and the overall clinical picture are essential",
+      "content": "- Hypotension should always be interpreted alongside pulse, skin signs, conscious state, mechanism, and likely pathology\n- A single normal BP does not exclude evolving shock\n- Severe hypertension matters most when there is evidence of acute end-organ dysfunction rather than the number alone\n- Pulse pressure and BP trend may be clinically useful, especially in trauma, sepsis, and cardiac presentations\n- In children, age-appropriate thresholds and the overall clinical picture are essential\n- When the reading does not fit the patient, repeat it and challenge the measurement rather than assuming the number is correct",
       "sortOrder": 2
     },
     {
       "id": "skill-blood-pressure-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Use the correct cuff size because undersized cuffs over-read and oversized cuffs under-read\n- Repeat abnormal readings and trend them over time rather than relying on one measurement\n- Avoid affected limbs where possible, such as major injury, vascular access, dialysis fistula, or post-mastectomy side\n- In noisy or moving environments, palpatory or automated readings may be more practical, but reliability must still be judged clinically\n- Document site, method, patient position, and any factors that may have affected the reading",
+      "content": "- Use the correct cuff size because undersized cuffs over-read and oversized cuffs under-read\n- Repeat abnormal readings and trend them over time rather than relying on one measurement\n- Avoid affected limbs where possible, such as major injury, vascular access, dialysis fistula, or post-mastectomy side\n- In noisy or moving environments, palpatory or automated readings may be more practical, but reliability must still be judged clinically\n- Document site, method, patient position, and any factors that may have affected the reading\n- Escalation decisions should be based on the whole perfusion picture, not the BP value alone",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

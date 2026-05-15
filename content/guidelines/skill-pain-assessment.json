@@ -37,14 +37,14 @@
       "id": "skill-pain-assessment-reassessment",
       "type": "considerations",
       "title": "Reassessment & Documentation",
-      "content": "- Reassess pain after every meaningful intervention and during transport when clinically relevant\n- Document the initial assessment, interventions used, and subsequent response\n- Non-pharmacological measures such as positioning, splinting, cooling, reassurance, or distraction should be used where appropriate\n- Pain that is worsening, disproportionate, or not responding as expected warrants reassessment of the diagnosis rather than automatic escalation of medication",
+      "content": "- Reassess pain after every meaningful intervention and during transport when clinically relevant\n- Document the initial assessment, interventions used, and subsequent response\n- Non-pharmacological measures such as positioning, splinting, cooling, reassurance, or distraction should be used where appropriate\n- Pain that is worsening, disproportionate, or not responding as expected warrants reassessment of the diagnosis rather than automatic escalation of medication\n- Severe pain with minimal findings should still prompt serious reconsideration of occult pathology such as compartment syndrome, dissection, or peritonism where relevant",
       "sortOrder": 2
     },
     {
       "id": "skill-pain-assessment-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Pain is subjective and should be taken seriously even when outward distress seems limited\n- Culture, age, anxiety, neurodiversity, and prior experiences influence pain expression\n- Adequate analgesia does not replace ongoing reassessment for serious pathology\n- Untreated pain causes physiological stress, worsens outcomes, and erodes trust\n- Good handover includes the pain pattern, severity, interventions, and response over time",
+      "content": "- Pain is subjective and should be taken seriously even when outward distress seems limited\n- Culture, age, anxiety, neurodiversity, and prior experiences influence pain expression\n- Adequate analgesia does not replace ongoing reassessment for serious pathology\n- Untreated pain causes physiological stress, worsens outcomes, and erodes trust\n- Good handover includes the pain pattern, severity, interventions, and response over time\n- A falling pain score is helpful, but it should not falsely reassure you if the patient remains physiologically unstable",
       "sortOrder": 3
     }
   ],
@@ -54,6 +54,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

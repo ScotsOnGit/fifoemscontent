@@ -33,20 +33,20 @@
       "id": "skill-pulse-oximetry-limitations",
       "type": "considerations",
       "title": "Limitations & Pitfalls",
-      "content": "- Poor perfusion, hypothermia, motion, vasoconstriction, acrylic nails, ambient light, and poor probe position can all reduce reliability\n- Carbon monoxide poisoning may produce falsely reassuring readings\n- Methaemoglobinaemia may trend toward a misleading saturation near the mid-80s\n- Anaemia and hypoventilation can both be clinically significant despite a normal SpO2 reading\n- A normal saturation does not exclude serious illness, especially early respiratory failure or opioid-induced hypoventilation",
+      "content": "- Poor perfusion, hypothermia, motion, vasoconstriction, acrylic nails, ambient light, and poor probe position can all reduce reliability\n- Carbon monoxide poisoning may produce falsely reassuring readings\n- Methaemoglobinaemia may trend toward a misleading saturation near the mid-80s\n- Anaemia and hypoventilation can both be clinically significant despite a normal SpO2 reading\n- A normal saturation does not exclude serious illness, especially early respiratory failure or opioid-induced hypoventilation\n- If the waveform is poor or the number does not fit the patient, fix the measurement before acting on it",
       "sortOrder": 2
     },
     {
       "id": "skill-pulse-oximetry-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Always document SpO2 with the oxygen therapy or room-air status at the time of measurement\n- Check that the waveform and clinical picture make sense before acting on a number\n- Ear or forehead probes may be more useful in low-perfusion states\n- Escalate based on the whole patient, not just the saturation value",
+      "content": "- Always document SpO2 with the oxygen therapy or room-air status at the time of measurement\n- Check that the waveform and clinical picture make sense before acting on a number\n- Ear or forehead probes may be more useful in low-perfusion states\n- Escalate based on the whole patient, not just the saturation value\n- Recheck after any oxygen change, airway intervention, or deterioration in perfusion or breathing",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

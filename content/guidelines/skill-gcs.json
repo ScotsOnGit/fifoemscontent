@@ -33,14 +33,14 @@
       "id": "skill-gcs-technique",
       "type": "considerations",
       "title": "Assessment Technique",
-      "content": "- Use the minimum stimulus needed to assess the patient safely\n- Where painful stimulus is required, choose a method that helps assess motor response clearly and document what was used\n- Serial GCS measurements are more useful than a single isolated score\n- AVPU is a rapid screening tool; GCS gives more precise detail when time and safety allow\n- A fall in GCS, even within the same broad severity band, should prompt reassessment of airway, glucose, perfusion, and possible intracranial or toxic causes",
+      "content": "- Use the minimum stimulus needed to assess the patient safely\n- Where painful stimulus is required, choose a method that helps assess motor response clearly and document what was used\n- Serial GCS measurements are more useful than a single isolated score\n- AVPU is a rapid screening tool; GCS gives more precise detail when time and safety allow\n- A fall in GCS, even within the same broad severity band, should prompt reassessment of airway, glucose, perfusion, and possible intracranial or toxic causes\n- Intubation, sedation, language barrier, deafness, or facial injury should be documented clearly so later teams do not misread the score",
       "sortOrder": 2
     },
     {
       "id": "skill-gcs-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- GCS does not by itself decide diagnosis or destination, but it strongly influences urgency and monitoring needs\n- Low or falling GCS raises concern about airway protection and the need for higher-level care\n- Post-ictal state, intoxication, hypoglycaemia, hypothermia, and sedation can all depress GCS\n- Pupils are not part of GCS and should always be documented separately",
+      "content": "- GCS does not by itself decide diagnosis or destination, but it strongly influences urgency and monitoring needs\n- Low or falling GCS raises concern about airway protection and the need for higher-level care\n- Post-ictal state, intoxication, hypoglycaemia, hypothermia, and sedation can all depress GCS\n- Pupils are not part of GCS and should always be documented separately\n- Component trends are often more useful than quoting only a total score at handover",
       "sortOrder": 3
     }
   ],
@@ -51,6 +51,6 @@
     "seizures"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

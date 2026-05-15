@@ -35,7 +35,7 @@
       "id": "skill-bgl-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Always consider BGL in altered conscious state, seizure, delirium, or unexplained behavioural change\n- Poor perfusion, contamination, inadequate sample size, and device or strip issues can produce misleading readings\n- A value that does not fit the clinical picture should be repeated or challenged, not accepted blindly\n- Always treat the patient, not the number",
+      "content": "- Always consider BGL in altered conscious state, seizure, delirium, or unexplained behavioural change\n- Poor perfusion, contamination, inadequate sample size, and device or strip issues can produce misleading readings\n- A value that does not fit the clinical picture should be repeated or challenged, not accepted blindly\n- Always treat the patient, not the number\n- Recheck after treatment and whenever deterioration or non-response makes the result clinically important again",
       "sortOrder": 2
     }
   ],
@@ -45,6 +45,6 @@
     "hyperglycaemia"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
