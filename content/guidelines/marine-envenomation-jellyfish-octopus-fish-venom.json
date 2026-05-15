@@ -33,7 +33,7 @@
       "id": "marine-envenomation-jellyfish-octopus-fish-venom-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Most blue-ringed octopus bites occur when the animal is handled\n- Do not use pressure immobilisation for jellyfish stings or fish-spine injuries\n- Use pressure immobilisation for suspected blue-ringed octopus or cone shell envenomation where feasible\n- Treat sea snake bites as for Australian snake bite with pressure bandaging and immobilisation\n- Vinegar may help inactivate non-discharged nematocysts in suspected box jellyfish or Irukandji stings, but should not be used for bluebottle stings\n- Patients who initially appear stable but develop severe symptoms within 30 minutes may have Irukandji syndrome and require urgent medical attention",
+      "content": "- Most blue-ringed octopus bites occur when the animal is handled\n- Do not use pressure immobilisation for jellyfish stings or fish-spine injuries\n- Use pressure immobilisation for suspected blue-ringed octopus or cone shell envenomation where feasible\n- Treat sea snake bites as for Australian snake bite with pressure bandaging and immobilisation\n- Vinegar may help inactivate non-discharged nematocysts in suspected box jellyfish or Irukandji stings, but should not be used for bluebottle stings\n- Patients who initially appear stable but develop severe symptoms within 30 minutes may have Irukandji syndrome and require urgent medical attention\n- Hot-water immersion is primarily for venomous fish, stingray, or urchin injuries rather than jellyfish stings",
       "sortOrder": 2
     },
     {
@@ -47,7 +47,7 @@
       "id": "marine-envenomation-jellyfish-octopus-fish-venom-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitoring\n- Consider advanced airway where required\n- Gain IV Access\n- Consider blood draw and troponin if indicated\n- Consider pain relief\n- Relative to pain score, (1-3: Paracetamol, Ibuprofen) (4-6: Panadeine Fort, Oxycodone, Methoxy) (7-10: Fentanyl 1mcg/Kg to max 100mcg, Methoxy)\n- Consider antiemetic\n- Escalate early for respiratory compromise, shock, or severe systemic features",
+      "content": "- Apply cardiac monitoring\n- Consider advanced airway management where required\n- Gain IV access\n- Consider blood draw and troponin if indicated\n- Provide analgesia according to severity, local protocol, and broader pain-management guidance rather than a fixed score-to-drug ladder\n- Consider antiemetic if required\n- Escalate early for respiratory compromise, shock, or severe systemic features",
       "sortOrder": 4
     },
     {
@@ -63,6 +63,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

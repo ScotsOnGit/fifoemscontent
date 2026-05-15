@@ -28,7 +28,7 @@
       "id": "hypothermia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Handle the patient gently and avoid sudden movements, especially in moderate or severe hypothermia\n- Hypothermia develops more rapidly in immersion and in patients with impaired thermoregulation\n- Osborne (J) waves and atrial arrhythmias may occur and often improve with rewarming\n- Potential major trauma patients should receive active thermal protection irrespective of measured temperature\n- Do not massage or rub the patient, as this may worsen heat loss and discomfort",
+      "content": "- Handle the patient gently and avoid sudden movements, especially in moderate or severe hypothermia\n- Hypothermia develops more rapidly in immersion and in patients with impaired thermoregulation\n- Osborne (J) waves and atrial arrhythmias may occur and often improve with rewarming\n- Potential major trauma patients should receive active thermal protection irrespective of measured temperature\n- Do not massage or rub the patient, as this may worsen heat loss and discomfort\n- Avoid unnecessary prolonged scene procedures if they interrupt rewarming, packaging, or transport priorities",
       "sortOrder": 2
     },
     {
@@ -42,7 +42,7 @@
       "id": "hypothermia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain IV access if indicated\n- 12 LEAD ECG\n- Consider warmed IV fluids if available and clinically indicated",
+      "content": "- Gain IV access if indicated\n- Obtain a 12 lead ECG\n- Consider warmed IV fluids if available and clinically indicated\n- Continue active insulation and gentle handling during packaging and transport",
       "sortOrder": 4
     },
     {
@@ -59,8 +59,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc"

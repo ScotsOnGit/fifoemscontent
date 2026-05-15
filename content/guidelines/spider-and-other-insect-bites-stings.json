@@ -31,7 +31,7 @@
       "id": "spider-and-other-insect-bites-stings-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Redback spider bites are usually painful but rarely life-threatening; severe pain, systemic symptoms, or significant envenomation require medical assessment\n- Funnel-web spider envenomation is a medical emergency and should be managed with pressure immobilisation and urgent transport\n- Pressure immobilisation is not recommended for redback spider bites because it may worsen pain and has not been shown to improve outcome\n- Bee, wasp, and ant stings can cause local reactions or anaphylaxis and require close observation",
+      "content": "- Redback spider bites are usually painful but rarely life-threatening; severe pain, systemic symptoms, or significant envenomation require medical assessment\n- Funnel-web spider envenomation is a medical emergency and should be managed with pressure immobilisation and urgent transport\n- Pressure immobilisation is not recommended for redback spider bites because it may worsen pain and has not been shown to improve outcome\n- Bee, wasp, and ant stings can cause local reactions or anaphylaxis and require close observation\n- Avoid routine antibiotic or steroid treatment from this guideline unless another clear indication exists",
       "sortOrder": 2
     },
     {
@@ -45,7 +45,7 @@
       "id": "spider-and-other-insect-bites-stings-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG\n- Consider IV access\n- Observe closely for signs of anaphylaxis and treat accordingly if present\n- Consider stronger analgesia for severe pain, including redback spider bites, in consultation with the on-call doctor\n- Escalate if there is spreading pain, systemic toxicity, or concern for funnel-web envenomation\n- Consider tetanus review where appropriate",
+      "content": "- Consider ECG if clinically indicated\n- Consider IV access if severe pain, anaphylaxis, or systemic toxicity is present\n- Observe closely for signs of anaphylaxis and treat accordingly if present\n- Consider stronger analgesia for severe pain, including redback spider bites, in consultation with the on-call doctor\n- Escalate if there is spreading pain, systemic toxicity, or concern for funnel-web envenomation\n- Consider tetanus review where appropriate",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

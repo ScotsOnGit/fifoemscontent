@@ -17,7 +17,7 @@
       "id": "hyperthermia-heat-stroke-heat-related-sickness-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "RELATED SICKNESS\n\nHeat stroke is an excessive elevation of core body temperature above the normal range due to failure of thermoregulation. Heat stroke should be suspected if symptoms do not dissipate when the affected person lies down and rests when removed from contributing factors.\nHeat stroke can be induced by environmental factors, such as excessive heat absorption, hot and humid climates, excessive physical exertion and/or additional underlying factors, such as metabolic reactions, drugs, infection.",
+      "content": "Heat stroke is an excessive elevation of core body temperature due to failure of thermoregulation. Heat stroke should be suspected when symptoms do not settle promptly with rest and removal from heat stress, or when neurological dysfunction is present. Heat-related illness may be caused by environmental exposure, heavy exertion, hot or humid conditions, drugs, infection, or impaired heat dissipation.",
       "sortOrder": 0
     },
     {
@@ -45,7 +45,7 @@
       "id": "hyperthermia-heat-stroke-heat-related-sickness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- If unconscious, seizing, or unable to protect their airway, consider advanced airway management\n- Establish vascular access\n- Consider fluid therapy if indicated, including cooled IV fluids where practical\n- Consider antiemetic if required",
+      "content": "- Obtain a 12 lead ECG\n- If unconscious, seizing, or unable to protect the airway, consider advanced airway management\n- Establish vascular access\n- Consider fluid therapy if indicated, including cooled IV fluids where practical\n- Consider antiemetic if required\n- Continue active cooling during transport wherever possible",
       "sortOrder": 4
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "heat-stress",
     "news2"
