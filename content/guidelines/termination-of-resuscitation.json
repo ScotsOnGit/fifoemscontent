@@ -23,13 +23,13 @@
       "id": "termination-of-resuscitation-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Residual electrical activity or pacemaker spikes may occasionally be seen after effective circulation has ceased. Do not rely on these findings alone; interpret them in the full clinical context and local ROLE/TOR criteria.\n- Do not simply wait for deterioration to asystole if the overall picture remains uncertain. Reassess for reversible causes, signs of output, and the need for senior consultation.\n- Explain events and decisions to family or other necessary parties with empathy, honesty, and clarity, and provide appropriate support.",
+      "content": "- Residual electrical activity or pacemaker spikes may occasionally be seen after effective circulation has ceased. Do not rely on these findings alone; interpret them in the full clinical context and local ROLE or TOR criteria.\n- Do not simply wait for deterioration to asystole if the overall picture remains uncertain. Reassess for reversible causes, signs of output, and the need for senior consultation.\n- Explain events and decisions to family or other necessary parties with empathy, honesty, and clarity, and provide appropriate support.\n- Document the time, rhythm context, consultation, and rationale for TOR or ROLE clearly.",
       "sortOrder": 1
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

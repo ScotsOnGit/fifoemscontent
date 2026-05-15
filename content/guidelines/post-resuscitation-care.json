@@ -31,21 +31,21 @@
       "id": "post-resuscitation-care-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Unless there are compelling reasons to move immediately, DO NOT Rush\n- Continue to work as a team\n- Anticipate re-arrest and plan accordingly\n- The focus of post resuscitation care is on ensuring adequate cerebral perfusion, oxygenation and supportive treatment to allow the recovery of vital organs\n- ROSC patients are often unstable initially. Time should be taken to plan patient packaging, handling and subsequent egress whilst they stabilise and build up blood pressure. Rough manual handling / jolting of the patient is undesirable\n- Use this time to ensure IV lines are secure, and acquire 12 Lead ECG’s",
+      "content": "- Unless there are compelling reasons to move immediately, do not rush\n- Continue to work as a team and anticipate re-arrest\n- The focus of post-resuscitation care is on oxygenation, ventilation, perfusion, temperature control, and identifying the cause of arrest\n- ROSC patients are often unstable initially. Plan packaging, handling, and egress carefully and avoid rough movement where possible\n- Use this time to ensure monitoring is secure, lines are secure, and 12 lead ECGs are obtained",
       "sortOrder": 2
     },
     {
       "id": "post-resuscitation-care-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Re-evaluate Primary Survey\n- Re-evaluate oxygenation and ventilation\n- Provide supportive ventilation if required\n- Avoid trying to correct abnormally high EtCO2 in the first few minutes\n- Titrate oxygen delivery as required, aiming for SpO2 between 94 - 98%\n- Avoid hyperventilation / hyperinflation (as this can impede venous return and stimulate a vagal response, inhibiting the effective rise of mean arterial pressure)\n- Vital Sign Survey\n- In patients who remain comatose after ROSC, monitor temperature and actively prevent fever where feasible\n- If not already contacted, ensure consultation with on-call doctor",
+      "content": "- Re-evaluate Primary Survey\n- Reassess oxygenation and ventilation continuously\n- Provide ventilatory support if required\n- Titrate oxygen delivery to maintain SpO2 around 94 to 98% and avoid routine hyperoxia where possible\n- Avoid hyperventilation and excessive inflation, as these may impair venous return and cerebral perfusion\n- Perform frequent vital signs, including ETCO2 where available\n- In patients who remain comatose after ROSC, monitor temperature and actively prevent fever where feasible\n- If not already contacted, ensure consultation with the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "post-resuscitation-care-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12-lead ECGs, as reperfusion rhythms may not be of diagnostic quality\n- Manage hypotension in post-ROSC patients if BP is slow to rise:\n  - Hypotension = Systolic BP < 100 mmHg\n  - Consider IV/IO crystalloid while reassessing for fluid responsiveness and signs of overload\n  - Aim initially for SBP greater than 100 mmHg or MAP at least 60 to 65 mmHg, adjusted to the clinical context and premorbid state where known\n  - If hypotension persists, seek early medical advice regarding vasopressor support and continue frequent reassessment",
+      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12 lead ECGs because the first post-ROSC tracing may be non-diagnostic\n- Manage hypotension promptly:\n  - Consider IV or IO crystalloid while reassessing for fluid responsiveness and signs of overload\n  - Aim initially for adequate perfusion, commonly SBP above 100 mmHg or MAP at least 60 to 65 mmHg, adjusted to the clinical context where known\n  - If hypotension persists, seek early medical advice regarding vasopressor support and continue frequent reassessment",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

@@ -29,21 +29,21 @@
       "id": "cardiogenic-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Patient management should focus on cardiorespiratory support\n- Monitor for and address potential complications such as arrhythmias, worsening hypotension, or respiratory failure\n- The risk of developing cardiogenic shock during or after AMI is higher in older adults, diabetics, those with previous AMI, and those presenting with hypotension\n- Titrate fluid to manage symptomatic hypotension and do not fluid overload",
+      "content": "- Management should focus on oxygenation, ventilation, perfusion support, and rapid identification of the cardiac cause\n- Monitor for arrhythmias, worsening hypotension, pulmonary oedema, and respiratory failure\n- The risk of cardiogenic shock during or after AMI is higher in older adults, patients with diabetes, those with prior AMI, and those presenting with hypotension\n- Avoid routine fluid loading. If hypotension may be partly preload-related, use only small cautious fluid challenges with frequent reassessment",
       "sortOrder": 2
     },
     {
       "id": "cardiogenic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately\n- Consider IPPV where indicated\n- Titrate Oxygen\n- Vital Sign Survey and close haemodynamic monitoring (recording vital signs at least every 5 minutes)\n- Apply limb lead ECG and monitor for arrhythmia\n- Consider Aspirin\n- Monitor for deterioration\n- Consider other causes of shock",
+      "content": "- Primary Survey\n- Position the patient appropriately for breathing and perfusion\n- Consider ventilatory support where indicated\n- Titrate oxygen to clinical need\n- Perform frequent vital signs and close haemodynamic monitoring\n- Apply ECG monitoring and watch closely for arrhythmia\n- Consider aspirin if ACS is suspected and there is no clear contraindication\n- Monitor for rapid deterioration and consider other causes of shock",
       "sortOrder": 3
     },
     {
       "id": "cardiogenic-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Perform 12-lead ECG\n- If due to arrhythmia, follow that guideline\n- If due to ischaemia, follow that guideline\n- Establish vascular access, large bore if possible\n- Assess volume status carefully; if hypovolaemia is not suspected, avoid routine fluid loading and use only small cautious fluid challenges when clinically indicated\n- Ensure defib pads are attached to patient\n- Seek early senior advice regarding vasoactive or inotropic support in persistent hypotension",
+      "content": "- Obtain a 12 lead ECG\n- If due to arrhythmia, follow that guideline\n- If due to ischaemia, follow that guideline\n- Establish vascular access\n- Assess volume status carefully; if hypovolaemia is not suspected, avoid routine fluid loading and use only small cautious fluid challenges when clinically indicated\n- Apply defibrillation pads if deterioration risk is high\n- Seek early senior advice regarding vasoactive or inotropic support in persistent hypotension\n- Consider non-invasive ventilatory support where available and appropriate",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc",

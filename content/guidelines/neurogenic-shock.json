@@ -29,21 +29,21 @@
       "id": "neurogenic-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider other forms of shock, cardiogenic, hypovolaemic\n- Be aware of respiratory depression\n- Patients may appear \"well perfused\" peripherally but are at high risk of central hypoperfusion (e.g., cerebral, renal ischemia)\n- Beware of fluid overload\n- Any hypotension in a trauma patient should be assumed to be hypovolaemic in origin until proven otherwise, even in a patient with an overt spinal injury. Sources of bleeding must be aggressively sought and controlled. Neurogenic shock is rare in comparison\n- Neurogenic shock must be differentiated from \"spinal\" shock as their managements differ\n- Spinal shock: Flaccid paralysis and areflexia below the injury level\n- Neurogenic shock: Haemodynamic instability (hypotension + bradycardia)\n- As the likely cause on site would be from injury, it is important to ensure spinal precautions are taken\n- Vagal stimuli, such as suctioning, nasogastric tube insertion, or intubation may exacerbate neurogenic shock",
+      "content": "- Consider and exclude other causes of shock, especially haemorrhage, before assuming neurogenic shock\n- Be alert to respiratory compromise, especially with cervical cord injury\n- Patients may appear peripherally warm but still be centrally underperfused\n- Beware of fluid overload; hypotension in neurogenic shock is not usually corrected by repeated large fluid boluses\n- Neurogenic shock must be differentiated from spinal shock because their management differs\n- Spinal shock refers to neurological dysfunction below the injury level, whereas neurogenic shock refers to haemodynamic instability with hypotension and often bradycardia\n- Maintain spinal motion restriction according to the trauma context\n- Vagal stimuli such as suctioning or airway instrumentation may worsen bradycardia",
       "sortOrder": 2
     },
     {
       "id": "neurogenic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Consider IPPV if necessary\n- Consider Oxygen\n- Maintain spinal precautions and immobilisation\n- Vital Sign Survey\n- Ensure patient is kept warm\n- Consider Secondary/CNS Survey\n- Keep patient warm and comfortable (as temperature regulation may be impaired)\n- Consider early consultation with RFDS for evacuation",
+      "content": "- Primary Survey\n- Consider ventilatory support if necessary\n- Give oxygen if clinically indicated\n- Maintain spinal motion restriction and careful handling\n- Perform frequent vital signs\n- Keep the patient warm because temperature regulation may be impaired\n- Consider Secondary or CNS Survey\n- Consider early consultation with RFDS or senior retrieval support",
       "sortOrder": 3
     },
     {
       "id": "neurogenic-shock-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitor/defibrillator\n- Establish vascular access\n- Give IV fluid cautiously while reassessing for occult haemorrhage and signs of overload\n- Avoid hypotension; where acute spinal cord injury is suspected, discuss haemodynamic targets early with the on-call doctor/RFDS\n- Consider atropine in consultation with on-call doctor for clinically significant bradycardia\n- Consider prophylactic antiemetic\n- Consider analgesia\n- Consider vasopressor support in persistent hypotension only in consultation with on-call doctor\n- If available and trained to do so, insert indwelling catheter",
+      "content": "- Apply cardiac monitoring\n- Establish vascular access\n- Give IV fluid cautiously while reassessing for occult haemorrhage and signs of overload\n- Avoid hypotension; where acute spinal cord injury is suspected, discuss haemodynamic targets early with the on-call doctor or RFDS\n- Consider atropine in consultation with the on-call doctor for clinically significant bradycardia\n- Consider analgesia and antiemetic therapy where appropriate\n- Consider vasopressor support in persistent hypotension only in consultation with the on-call doctor\n- Insert urinary catheter only if within scope, clinically needed, and logistically appropriate",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "speed-assessment"
