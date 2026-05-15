@@ -32,21 +32,21 @@
       "id": "influenza-like-illness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Use appropriate PPE and consider local infection-control requirements\n- Do not exclude influenza or COVID-19 simply because vaccination has occurred\n- Severe symptoms such as hypoxia, tachypnoea, haemodynamic instability, altered mental status, chest pain, or dehydration warrant escalation\n- Antibiotics do not treat uncomplicated viral illness",
+      "content": "- Use appropriate PPE and consider local infection-control requirements\n- Do not exclude influenza or COVID-19 simply because vaccination has occurred\n- Severe symptoms such as hypoxia, tachypnoea, haemodynamic instability, altered mental state, chest pain, or dehydration warrant escalation\n- Antibiotics do not treat uncomplicated viral illness\n- Frailty, pregnancy, immunocompromise, or significant cardiopulmonary disease should lower the threshold for transport and review",
       "sortOrder": 2
     },
     {
       "id": "influenza-like-illness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Apply appropriate infection-control precautions\n- Primary Survey and Vital Sign Survey\n- Encourage oral fluids if safe and tolerated\n- Consider simple analgesia or antipyretic treatment for fever, myalgia, or headache\n- Provide clear safety-net advice and local return-to-work or isolation advice where relevant",
+      "content": "- Apply appropriate infection-control precautions\n- Primary Survey and full vital sign survey\n- Encourage oral fluids if safe and tolerated\n- Consider simple analgesia or antipyretic treatment for fever, myalgia, or headache\n- Assess for respiratory distress, dehydration, chest pain, confusion, or reduced exercise tolerance\n- Provide clear safety-net advice and local return-to-work or isolation advice where relevant",
       "sortOrder": 3
     },
     {
       "id": "influenza-like-illness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG if chest pain, syncope, or myocarditis or ACS is a concern\n- Consider IV fluids for clinically important dehydration\n- Consider antiemetic treatment for troublesome vomiting\n- Antivirals or doctor-directed antimicrobials may be appropriate in selected high-risk or severe cases according to local protocol and timing of illness",
+      "content": "- Consider ECG if chest pain, syncope, or myocarditis or ACS is a concern\n- Consider IV fluids for clinically important dehydration\n- Consider antiemetic treatment for troublesome vomiting\n- Antivirals or doctor-directed antimicrobials may be appropriate in selected high-risk or severe cases according to local protocol and timing of illness\n- Escalate early for hypoxia, significant tachypnoea, sepsis concern, or inability to maintain hydration",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

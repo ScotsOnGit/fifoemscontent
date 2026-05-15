@@ -32,21 +32,21 @@
       "id": "eye-presentations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Check and document visual acuity where possible before and after treatment\n- Contact lens use increases concern for serious corneal infection\n- Red flags include reduced visual acuity, severe pain, penetrating injury, chemical splash, corneal opacity or ulcer, irregular pupil, proptosis, hyphaema, recent eye surgery, or suspected herpes infection",
+      "content": "- Check and document visual acuity where possible before and after treatment\n- Contact lens use increases concern for serious corneal infection\n- Red flags include reduced visual acuity, severe pain, penetrating injury, chemical splash, corneal opacity or ulcer, irregular pupil, proptosis, hyphaema, recent eye surgery, or suspected herpes infection\n- Sudden painful visual loss, marked photophobia, or orbital swelling should prompt urgent escalation",
       "sortOrder": 2
     },
     {
       "id": "eye-presentations-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and focused assessment of vision and eye appearance\n- Remove contact lenses before treatment where possible\n- Irrigate chemical or particulate exposure promptly and copiously\n- For suspected superficial irritation or conjunctivitis, provide simple supportive care and avoid rubbing the eye\n- Shield rather than patch an eye if penetrating injury is suspected",
+      "content": "- Primary Survey and focused assessment of vision and eye appearance\n- Remove contact lenses before treatment where possible\n- Irrigate chemical or particulate exposure promptly and copiously\n- For suspected superficial irritation or conjunctivitis, provide simple supportive care and avoid rubbing the eye\n- Shield rather than patch an eye if penetrating injury is suspected\n- Prioritise transport over prolonged on-scene assessment if vision is threatened",
       "sortOrder": 3
     },
     {
       "id": "eye-presentations-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider fluorescein examination and topical anaesthetic only within scope and local protocol\n- Remove only loose superficial conjunctival foreign bodies if trained and if corneal penetration is not suspected\n- Escalate for doctor review or urgent transport for any red-flag eye presentation\n- Doctor-directed topical or systemic antimicrobials may be appropriate for selected bacterial or periorbital infections",
+      "content": "- Consider fluorescein examination and topical anaesthetic only within scope and local protocol\n- Remove only loose superficial conjunctival foreign bodies if trained and if corneal penetration is not suspected\n- Escalate for doctor review or urgent transport for any red-flag eye presentation\n- Doctor-directed topical or systemic antimicrobials may be appropriate for selected bacterial or periorbital infections\n- Avoid procedures that manipulate a potentially perforated globe",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

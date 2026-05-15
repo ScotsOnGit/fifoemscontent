@@ -31,21 +31,21 @@
       "id": "dental-pain-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Definitive care is dental treatment rather than repeated analgesia alone\n- Red flags include spreading facial swelling, trismus, dysphagia, drooling, voice change, floor-of-mouth swelling, systemic toxicity, or airway concern\n- Atypical jaw or dental pain can be referred from sinus, TMJ, or cardiac pathology",
+      "content": "- Definitive care is dental treatment rather than repeated analgesia alone\n- Red flags include spreading facial swelling, trismus, dysphagia, drooling, voice change, floor-of-mouth swelling, systemic toxicity, or airway concern\n- Atypical jaw or dental pain can be referred from sinus, TMJ, or cardiac pathology\n- Immunocompromise, diabetes, and delayed access to dental care increase the need for escalation planning",
       "sortOrder": 2
     },
     {
       "id": "dental-pain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and focused Vital Sign Survey\n- Inspect the mouth where safe and tolerated\n- Consider simple analgesia within scope\n- Cold compresses may help external swelling\n- Advise urgent dental follow-up for most cases, and same-day review for suspected abscess or worsening pain",
+      "content": "- Primary Survey and focused vital sign survey\n- Inspect the mouth where safe and tolerated and assess for swelling, trismus, drooling, or voice change\n- Consider simple analgesia within scope\n- Cold compresses may help external swelling\n- Advise urgent dental follow-up for most cases, and same-day review for suspected abscess, worsening pain, or facial swelling",
       "sortOrder": 3
     },
     {
       "id": "dental-pain-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Stronger analgesia may be considered within scope or after senior consultation for severe pain\n- Antibiotics should be reserved for suspected spreading infection, systemic features, or where definitive dental care is delayed and a doctor directs treatment\n- Escalate urgently for airway risk, deep space infection, or sepsis",
+      "content": "- Stronger analgesia may be considered within scope or after senior consultation for severe pain\n- Antibiotics should be reserved for suspected spreading infection, systemic features, or where definitive dental care is delayed and a doctor directs treatment\n- Escalate urgently for airway risk, deep space infection, or sepsis\n- Transport or senior consultation should not be delayed by repeated attempts at local symptom control when infection is clearly spreading",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

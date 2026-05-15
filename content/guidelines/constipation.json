@@ -30,21 +30,21 @@
       "id": "constipation-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Ask about opioid use, anticholinergics, iron, calcium channel blockers, antidepressants, and GLP-1 receptor agonists\n- Red flags include severe or worsening abdominal pain, peritonism, persistent vomiting, marked distension, fever, inability to pass flatus, GI bleeding, or unexplained weight loss\n- In older or frail patients, constipation may coexist with delirium, dehydration, urinary retention, or faecal impaction",
+      "content": "- Ask about opioid use, anticholinergics, iron, calcium channel blockers, antidepressants, and GLP-1 receptor agonists\n- Red flags include severe or worsening abdominal pain, peritonism, persistent vomiting, marked distension, fever, inability to pass flatus, GI bleeding, or unexplained weight loss\n- In older or frail patients, constipation may coexist with delirium, dehydration, urinary retention, or faecal impaction\n- New constipation with vomiting, significant distension, or systemic illness should raise concern for obstruction or another acute abdominal diagnosis",
       "sortOrder": 2
     },
     {
       "id": "constipation-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and focused Vital Sign Survey\n- Perform abdominal assessment and consider rectal history if relevant and within scope\n- Encourage oral fluids if appropriate and advise mobilisation where safe\n- Consider simple analgesia for discomfort\n- Mild uncomplicated constipation may be managed with conservative advice or simple aperients within local practice, provided red flags are absent",
+      "content": "- Primary Survey and focused vital sign survey\n- Perform abdominal assessment and consider rectal history if relevant and within scope\n- Encourage oral fluids only if appropriate and not provoking vomiting, and advise mobilisation where safe\n- Consider simple analgesia for discomfort\n- Mild uncomplicated constipation may be managed with conservative advice or simple aperients within local practice, provided red flags are absent\n- Escalate early if bowel obstruction, faecal impaction with complications, or urinary retention is suspected",
       "sortOrder": 3
     },
     {
       "id": "constipation-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- If faecal impaction, obstruction, severe pain, dehydration, or systemic illness is suspected, escalate for medical review and transport rather than persisting with symptomatic treatment\n- IV fluids may be appropriate when dehydration is clinically significant",
+      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- If faecal impaction, obstruction, severe pain, dehydration, or systemic illness is suspected, escalate for medical review and transport rather than persisting with symptomatic treatment\n- IV fluids may be appropriate when dehydration is clinically significant\n- Avoid repeated symptomatic treatment when abdominal pathology remains uncertain",
       "sortOrder": 4
     },
     {
@@ -58,6 +58,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
