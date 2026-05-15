@@ -29,21 +29,21 @@
       "id": "ectopic-pregnancy-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider ectopic pregnancy in any patient of reproductive age with abdominal pain and/or vaginal bleeding\n- Symptoms often occur around 6-8 weeks after the last menstrual period\n- Risk factors include prior ectopic pregnancy, PID, tubal surgery, IVF, endometriosis, and an IUD in situ\n- If suspicion is significant, the patient should not self-transport unless refusing care",
+      "content": "- Consider ectopic pregnancy in any patient of reproductive age with abdominal pain, syncope, shoulder-tip pain, or vaginal bleeding\n- Symptoms often occur around 6-8 weeks after the last menstrual period but may present earlier or later\n- Risk factors include prior ectopic pregnancy, PID, tubal surgery, IVF, endometriosis, and an IUD in situ\n- If suspicion is significant, the patient should not self-transport unless refusing care\n- Shock may be disproportionate to visible vaginal blood loss because bleeding is often internal",
       "sortOrder": 2
     },
     {
       "id": "ectopic-pregnancy-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Support and reassurance\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Consider pregnancy test where appropriate\n- Liaise early with the on-call doctor or RFDS and pre-alert the receiving hospital where relevant",
+      "content": "- Primary Survey\n- Support and reassure the patient while keeping movement to a minimum if significant bleeding or shock is suspected\n- Perform a full vital sign survey and repeat it frequently if pain, bleeding, or collapse is evolving\n- Administer oxygen if hypoxaemic, shocked, or in respiratory distress\n- Consider pregnancy testing where appropriate and where this will not delay transport\n- Liaise early with the on-call doctor or RFDS and pre-alert the receiving hospital where relevant",
       "sortOrder": 3
     },
     {
       "id": "ectopic-pregnancy-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- IV access, including two large-bore cannulas where possible if shock is suspected\n- Fluid resuscitation should focus on preserving perfusion while expediting transport and definitive care\n- Consider analgesia and antiemetic in consultation with the on-call doctor\n- Keep the patient warm if shocked",
+      "content": "- Obtain ECG if shock, syncope, or diagnostic uncertainty is present\n- Gain IV access, including two large-bore cannulas where possible if shock is suspected\n- Fluid resuscitation should focus on preserving perfusion while expediting transport and definitive care\n- Consider analgesia and antiemetic therapy in line with local protocol and without delaying transfer\n- Keep the patient warm if shocked and escalate rapidly for any deterioration",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

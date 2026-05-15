@@ -28,21 +28,21 @@
       "id": "dizziness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Patients presenting with true vertigo should be managed under that clinical guideline\n- Dizziness can appear insignificant on presentation but may have a serious underlying medical condition. A thorough assessment should be undertaken on all presentations of dizziness\n- Dizziness can be caused by some of the following and should be managed accordingly:\n  - Vertigo or BPPV/labyrinthitis/eardrum perforation/Meniere's disease\n  - Stroke/TIA/migraine/brain tumours/Parkinson's disease/multiple sclerosis\n  - Cervicogenic issues\n  - ACS/arrhythmias\n  - Alcohol withdrawal\n  - Medication side effects\n  - Sepsis\n  - Dehydration/heat related illness\n  - Hypoglycaemia\n  - Anaemia\n  - Postural issues\n  - Anxiety/stress/depression\n  - Recent trauma/pain\n- Red flags:\n  - Sudden onset of debilitating dizziness with associated neurological symptoms should raise the possibility of stroke\n  - Sudden onset of dizziness with associated hearing loss and/or tinnitus\n  - Sudden onset of dizziness with ear pain, discharge, trauma, or barotrauma requires medical review",
+      "content": "- Patients presenting with true vertigo should be managed under the vertigo guideline\n- Dizziness can appear minor but may reflect stroke, dysrhythmia, ACS, sepsis, dehydration, anaemia, hypoglycaemia, medication effect, toxic exposure, or heat illness\n- A sudden debilitating onset with neurological symptoms should raise concern for posterior circulation stroke\n- Sudden dizziness with hearing loss, tinnitus, severe headache, chest pain, syncope, palpitations, trauma, or significant vomiting warrants a low threshold for transport and escalation",
       "sortOrder": 2
     },
     {
       "id": "dizziness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately\n- Oxygen if indicated\n- Vital Sign Survey (Specifically pulse, blood pressure [postural BP], blood glucose and temperature)\n- Conduct Secondary and neurological assessments (Cranial nerve assessment/CNS Survey/FAST)\n- Urinalysis (specific gravity)",
+      "content": "- Primary Survey\n- Position the patient safely, especially if standing worsens symptoms\n- Administer oxygen only if indicated\n- Record vital signs, including pulse, blood pressure, blood glucose, temperature, and postural observations where safe and relevant\n- Perform focused neurological assessment, including FAST where appropriate, and assess hydration, ear symptoms, and cardiac symptoms\n- Consider urinalysis only where it is clinically relevant and will alter immediate management",
       "sortOrder": 3
     },
     {
       "id": "dizziness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitor\n- Manage cardiac dysrhythmia\n- 12 lead ECG should be acquired in most, if not all these patients\n- Consider IV access if indicated\n- Consider obtaining blood for i-STAT sampling (CG4+, CG8+)\n- Consider fluid therapy\n- Consider appropriate antiemetic",
+      "content": "- Apply cardiac monitoring and obtain a 12 lead ECG where cardiac, syncope-related, or unexplained dizziness is suspected\n- Manage dysrhythmia or other identified causes in line with the relevant condition-specific guideline\n- Consider IV access if dehydration, persistent vomiting, abnormal vitals, or another serious diagnosis is suspected\n- Consider point-of-care blood testing where available and clinically useful\n- Consider fluid therapy only where hypovolaemia or dehydration is clinically suspected\n- Consider antiemetic therapy if vomiting is prominent and not better explained by another urgent cause",
       "sortOrder": 4
     },
     {
@@ -56,6 +56,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

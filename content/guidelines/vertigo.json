@@ -28,21 +28,21 @@
       "id": "vertigo-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Sudden onset of severe vertigo with other neurological signs warrants immediate medical attention and should always be transport to further care\n- The presence of other symptoms, such as hearing loss, tinnitus or neurological deficits can help in differentiating between different causes\n- Hearing loss is a common feature vertigo. However, sudden hearing loss in acute vestibular syndrome can be a sign of an anterior inferior cerebellar infarct, due to involvement of the internal auditory artery. Hearing loss is not typical of vestibular neuritis\n- A thorough medical history, including any previous head injuries or neurological conditions is important\n- Patients whose vertigo is initiated by movement and only lasts less than 2 minutes at a time are most likely suffering from benign paroxysmal positional vertigo (BPPV) and would benefit from a Dix-Hallpike test followed by treatment with an Epley manoeuvre\n- Reg flags: LOC or seizure, headache, neck pain or recent trauma, sudden persistent vertigo unrelieved by rest, visual disturbances\n- Underlying causes of vertigo to be considered:\n\n- Peripheral Vertigo, caused by BBPV, Meniere’s disease, vestibular neuritis/labyrinthitis\n- Central Vertigo, which can have associated symptoms such as neurological deficits, ataxia and headache, stroke, brain tumour or multiple sclerosis",
+      "content": "- Sudden severe vertigo with neurological signs, inability to walk, new headache, neck pain, or reduced conscious state should be treated as possible central vertigo or stroke\n- Hearing loss, tinnitus, or ear symptoms can support a peripheral cause, but sudden hearing loss in acute vestibular syndrome can also occur with posterior circulation stroke\n- Brief movement-triggered symptoms lasting less than 2 minutes are more consistent with BPPV than with vestibular neuritis or stroke\n- HINTS and positional manoeuvres should only be used by clinicians trained in their limitations and only when the presentation fits acute vestibular syndrome or BPPV",
       "sortOrder": 2
     },
     {
       "id": "vertigo-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Consider positioning for comfort\n- Vital signs (postural BP included where appropriate, BGL)\n- Complete Secondary Survey\n- Consider FAST\n- Check for nystagmus\n- Consider HINTS only in acute vestibular syndrome and only if specifically trained in its use\n- Consider otoscope if trained and symptomatic\n- Consider Dix-Hallpike test if appropriate (e.g. no trauma, significant neck pain, or other contraindication)\n- Consider Epley manoeuvre only when the presentation is consistent with BPPV and the clinician is trained to perform it",
+      "content": "- Primary Survey\n- Position for comfort and safety, particularly if vomiting or unsteadiness is present\n- Record vital signs, including blood glucose and postural observations where appropriate\n- Perform focused neurological assessment, including FAST where appropriate, and assess gait if safe\n- Check for nystagmus and associated ear or hearing symptoms\n- Consider HINTS only in acute vestibular syndrome and only if specifically trained in its use\n- Consider Dix-Hallpike or Epley manoeuvre only when the presentation is strongly consistent with BPPV and contraindications have been excluded",
       "sortOrder": 3
     },
     {
       "id": "vertigo-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG\n- Consider vascular access if required, especially if central vertigo suspected\n- Consider IV fluids if required\n- Consider antiemetics\n- Consider IM Prochlorperazine in consultation with current poison permit holder",
+      "content": "- Consider ECG if the diagnosis is uncertain or a cardiac or syncopal cause remains possible\n- Consider vascular access if persistent vomiting, dehydration, or central pathology is suspected\n- Consider IV fluids only where clinically indicated\n- Consider antiemetic therapy where vomiting is prominent and serious central pathology has been considered\n- Consider additional vestibular symptom treatment only in line with local protocol and without delaying transport when red flags are present",
       "sortOrder": 4
     },
     {
@@ -56,6 +56,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

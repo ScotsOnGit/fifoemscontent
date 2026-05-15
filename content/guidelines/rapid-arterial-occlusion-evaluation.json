@@ -19,13 +19,34 @@
       "title": "Overview",
       "content": "The RACE scale is a prehospital assessment tool used in patients with suspected stroke to help identify possible large vessel occlusion (LVO). It is an adjunct to, not a replacement for, standard stroke recognition and urgent transport pathways. The scale assesses facial palsy, arm motor impairment, leg motor impairment, head and gaze deviation, and aphasia or agnosia.",
       "sortOrder": 0
+    },
+    {
+      "id": "rapid-arterial-occlusion-evaluation-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Use RACE only after stroke has already been suspected clinically\n- RACE should not delay last-known-well determination, stroke pre-notification, or transport to an appropriate stroke-capable centre\n- A low or negative RACE score does not exclude stroke, posterior circulation stroke, or the need for urgent transport\n- Apply the tool consistently and document the score alongside the wider neurological examination",
+      "sortOrder": 1
+    },
+    {
+      "id": "rapid-arterial-occlusion-evaluation-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Confirm suspected stroke using FAST or BE-FAST and document the exact last-known-well time\n- Use RACE as an adjunct when the patient is clinically suspected of having stroke and the score may assist destination or pre-notification decisions\n- Pre-notify the receiving service and communicate both the clinical stroke findings and the RACE score\n- Do not let completion of the tool delay airway support, blood glucose assessment, or rapid transport",
+      "sortOrder": 2
+    },
+    {
+      "id": "rapid-arterial-occlusion-evaluation-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Integrate the RACE score with the full stroke assessment, including conscious state, glucose, ECG where appropriate, and transport time\n- Use the score to support discussions with receiving stroke services, especially when large vessel occlusion is suspected\n- Continue to manage the patient under the stroke and TIA guideline rather than as a stand-alone pathway",
+      "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "race-score"
   ]
