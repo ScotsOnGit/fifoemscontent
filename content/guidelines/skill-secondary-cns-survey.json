@@ -43,7 +43,7 @@
       "id": "skill-secondary-cns-survey-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Secondary survey must not delay definitive care or transport for time-critical conditions\n- Tailor the depth of the examination to the clinical context, mechanism, and available time\n- Reassess after interventions and during transport\n- In an unresponsive patient, the CNS survey may be limited to GCS, pupils, and motor response to stimulus\n- Deterioration in neurological status is clinically significant even if the absolute score remains in the same band",
+      "content": "- Secondary survey must not delay definitive care or transport for time-critical conditions\n- Tailor the depth of the examination to the clinical context, mechanism, and available time\n- Reassess after interventions and during transport\n- In an unresponsive patient, the CNS survey may be limited to GCS, pupils, and motor response to stimulus\n- Deterioration in neurological status is clinically significant even if the absolute score remains in the same band\n- A partial but relevant secondary survey is better than an exhaustive one that delays transport in a time-critical patient",
       "sortOrder": 3
     }
   ],
@@ -55,6 +55,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

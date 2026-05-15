@@ -35,7 +35,7 @@
       "id": "skill-primary-survey-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Treat each life threat as it is found before moving to the next step\n- Reassess frequently, especially after any intervention or clinical change\n- Primary survey findings should guide whether you pause, continue, or abbreviate further assessment\n- In trauma, prioritise haemorrhage control and spinal motion restriction where appropriate\n- Document important findings and communicate them clearly at handover",
+      "content": "- Treat each life threat as it is found before moving to the next step\n- Reassess frequently, especially after any intervention or clinical change\n- Primary survey findings should guide whether you pause, continue, or abbreviate further assessment\n- In trauma, prioritise haemorrhage control and spinal motion restriction where appropriate\n- Document important findings and communicate them clearly at handover\n- A completed primary survey does not mean the patient is stable; it means the current immediate threats have been looked for and treated as best as possible",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

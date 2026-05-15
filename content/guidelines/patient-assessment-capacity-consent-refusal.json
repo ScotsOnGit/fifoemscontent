@@ -28,21 +28,21 @@
       "id": "patient-assessment-domains",
       "type": "management_basic",
       "title": "Assessment Framework",
-      "content": "- Assessment is dynamic and should be repeated as the patient's condition or circumstances change\n- Primary survey identifies immediate threats to life or limb\n- Secondary assessment adds focused history, examination, vital signs, collateral information, and relevant social or environmental risk factors\n- Consider whether delirium, intoxication, hypoxia, hypoglycaemia, head injury, severe pain, or mental illness may impair decision-making",
+      "content": "- Assessment is dynamic and should be repeated as the patient's condition or circumstances change\n- Primary survey identifies immediate threats to life or limb\n- Secondary assessment adds focused history, examination, vital signs, collateral information, and relevant social or environmental risk factors\n- Consider whether delirium, intoxication, hypoxia, hypoglycaemia, head injury, severe pain, or mental illness may impair decision-making\n- If a patient appears to be refusing care, first confirm they actually understand what is being proposed and what risk they are declining",
       "sortOrder": 1
     },
     {
       "id": "patient-assessment-capacity",
       "type": "management_basic",
       "title": "Capacity & Consent",
-      "content": "- Adults with decision-making capacity may accept or refuse treatment, even if others think the decision is unwise\n- Capacity is decision-specific and can fluctuate\n- A patient should be able to understand relevant information, retain it long enough to use it, weigh the options, and communicate a choice\n- Consent should be voluntary, informed, and relevant to the treatment or transport being proposed\n- If the patient lacks capacity, seek a legally authorised substitute decision-maker where available",
+      "content": "- Adults with decision-making capacity may accept or refuse treatment, even if others think the decision is unwise\n- Capacity is decision-specific and can fluctuate\n- A patient should be able to understand relevant information, retain it long enough to use it, weigh the options, and communicate a choice\n- Consent should be voluntary, informed, and relevant to the treatment or transport being proposed\n- If the patient lacks capacity, seek a legally authorised substitute decision-maker where available\n- Coercion, family pressure, language barriers, or fear may invalidate apparent consent or refusal",
       "sortOrder": 2
     },
     {
       "id": "patient-assessment-refusal",
       "type": "management_advanced",
       "title": "Refusal Process",
-      "content": "- When a patient refuses recommended care, assess whether the refusal is voluntary, informed, relevant to the decision, and supported by adequate capacity, then provide clear safety advice\n- Explain the suspected condition, recommended treatment or transport, material risks of refusal, and alternative options within your expertise\n- If capacity is impaired and there is imminent risk to life or health, provide necessary treatment and transport in accordance with law, local policy, and senior clinical support\n- If validity cannot be determined in a time-critical situation, escalate urgently and err toward preserving life and health",
+      "content": "- When a patient refuses recommended care, assess whether the refusal is voluntary, informed, relevant to the decision, and supported by adequate capacity, then provide clear safety advice\n- Explain the suspected condition, recommended treatment or transport, material risks of refusal, and alternative options within your expertise\n- If capacity is impaired and there is imminent risk to life or health, provide necessary treatment and transport in accordance with law, local policy, and senior clinical support\n- If validity cannot be determined in a time-critical situation, escalate urgently and err toward preserving life and health\n- Senior consultation should be sought early for disputed refusals, borderline capacity, or remote cases where risk is difficult to mitigate",
       "sortOrder": 3
     },
     {
@@ -59,6 +59,6 @@
     "low-risk-mental-health-presentations"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

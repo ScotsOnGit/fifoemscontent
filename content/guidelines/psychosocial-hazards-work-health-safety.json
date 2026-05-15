@@ -29,21 +29,21 @@
       "id": "psychosocial-hazards-identify",
       "type": "management_basic",
       "title": "Identify & Assess",
-      "content": "- Look for hazards arising from job demands, workload, rostering, poor support, conflict, violence, remote work, or repeated traumatic exposure\n- Assess both the immediate risk and the cumulative effect on workers or teams\n- Psychosocial risks should not be dismissed as just part of the job\n- Check whether there is immediate risk of self-harm, violence, cognitive overload, unsafe fatigue, or inability to continue work safely",
+      "content": "- Look for hazards arising from job demands, workload, rostering, poor support, conflict, violence, remote work, or repeated traumatic exposure\n- Assess both the immediate risk and the cumulative effect on workers or teams\n- Psychosocial risks should not be dismissed as just part of the job\n- Check whether there is immediate risk of self-harm, violence, cognitive overload, unsafe fatigue, or inability to continue work safely\n- Remote FIFO practice should treat cumulative fatigue, isolation, and repeated exposure as operational risks, not just wellbeing concerns",
       "sortOrder": 1
     },
     {
       "id": "psychosocial-hazards-manage",
       "type": "management_basic",
       "title": "Immediate Management",
-      "content": "- Remove or reduce immediate hazards where practicable, such as withdrawing from violence, unsafe scenes, or extreme fatigue situations\n- Escalate urgent concerns to a supervisor or designated support pathway early\n- Encourage breaks, peer support, debrief, and practical workload adjustments when indicated\n- If a worker is acutely distressed or appears unsafe to continue, prioritise immediate safety over operational continuity\n- Request additional resources or relief early if fatigue, violence, workload, or remote-isolation factors are making care unsafe",
+      "content": "- Remove or reduce immediate hazards where practicable, such as withdrawing from violence, unsafe scenes, or extreme fatigue situations\n- Escalate urgent concerns to a supervisor or designated support pathway early\n- Encourage breaks, peer support, debrief, and practical workload adjustments when indicated\n- If a worker is acutely distressed or appears unsafe to continue, prioritise immediate safety over operational continuity\n- Request additional resources or relief early if fatigue, violence, workload, or remote-isolation factors are making care unsafe\n- Hand over duties early when cognitive overload or emotional dysregulation is beginning to affect clinical judgement",
       "sortOrder": 2
     },
     {
       "id": "psychosocial-hazards-escalation",
       "type": "management_advanced",
       "title": "Escalation & Ongoing Control",
-      "content": "- Serious or repeated psychosocial hazards require formal reporting, risk assessment, and organisational controls rather than relying only on individual resilience\n- Consider controls such as staffing changes, rostering review, supervision, training, violence prevention measures, access to specialist support, and clearer escalation pathways\n- If there is imminent risk of self-harm, suicide, aggression, or mental health crisis, manage as an emergency and arrange urgent clinical assessment\n- Persistent exposure to violence, bullying, fatigue, or traumatic incidents should trigger organisational review rather than being normalised as routine prehospital work",
+      "content": "- Serious or repeated psychosocial hazards require formal reporting, risk assessment, and organisational controls rather than relying only on individual resilience\n- Consider controls such as staffing changes, rostering review, supervision, training, violence prevention measures, access to specialist support, and clearer escalation pathways\n- If there is imminent risk of self-harm, suicide, aggression, or mental health crisis, manage as an emergency and arrange urgent clinical assessment\n- Persistent exposure to violence, bullying, fatigue, or traumatic incidents should trigger organisational review rather than being normalised as routine prehospital work\n- A support service is helpful, but it is not a substitute for fixing an unsafe work design or staffing model",
       "sortOrder": 3
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
