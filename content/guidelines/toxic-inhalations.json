@@ -1,0 +1,74 @@
+{
+  "id": "toxic-inhalations",
+  "title": "Toxic Inhalations",
+  "category": "toxicology",
+  "tags": [
+    "hazmat",
+    "inhalation",
+    "gas exposure",
+    "smoke",
+    "decontamination"
+  ],
+  "synonyms": [
+    "Toxic Inhalations",
+    "Inhalation Exposure",
+    "Toxic Gas Exposure",
+    "HAZMAT Inhalation"
+  ],
+  "sections": [
+    {
+      "id": "toxic-inhalations-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Toxic inhalation may cause airway injury, bronchospasm, hypoxia, ARDS, dysrhythmia, or collapse. Prehospital priorities are responder safety, removal from exposure, decontamination when needed, supportive oxygenation and ventilation, and early escalation for specialist assistance.",
+      "sortOrder": 0
+    },
+    {
+      "id": "toxic-inhalations-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Airway irritation, hoarseness, stridor, facial burns, oropharyngeal pain, or cough\n- Dyspnoea, bronchospasm, hypoxia, wheeze, or signs of pulmonary oedema/ARDS\n- Headache, dizziness, confusion, seizure, or collapse\n- Hypotension, cyanosis, or dysrhythmia\n- Skin or eye contamination if exposure is ongoing or secondary to clothing",
+      "sortOrder": 1
+    },
+    {
+      "id": "toxic-inhalations-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not enter an unsafe scene. Fire/HAZMAT agencies should declare the environment safe or provide the required PPE and decontamination process\n- Multiple victims with similar symptoms should raise concern for an atmospheric hazard even when odour is absent\n- Pulse oximetry may be misleading in some inhalational poisonings\n- Off-gassing from clothing or the patient may continue after removal from the scene",
+      "sortOrder": 2
+    },
+    {
+      "id": "toxic-inhalations-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Do not enter a contaminated area without appropriate clearance and protection\n- Ensure extrication and decontamination occur through the appropriate hazardous-material process\n- Give high-concentration oxygen where clinically indicated and support ventilation if needed\n- Irrigate contaminated eyes or skin where indicated and safe to do so\n- Prioritise urgent transport for airway symptoms, altered conscious state, or respiratory compromise",
+      "sortOrder": 3
+    },
+    {
+      "id": "toxic-inhalations-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Consider salbutamol if bronchospasm is present and this fits the exposure pattern\n- Gain IV access where shock, severe respiratory compromise, or seizure is present\n- Provide crystalloid therapy for hypotension according to the clinical picture and local protocol\n- Escalate early for advanced airway intervention if airway oedema, severe work of breathing, or deteriorating ventilation develops\n- Seek early specialist advice for suspected cyanide, carbon monoxide, or industrial chemical exposure",
+      "sortOrder": 4
+    },
+    {
+      "id": "toxic-inhalations-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Bag and isolate contaminated clothing according to local hazardous-material process\n- Document the location, suspected substance, number of exposed people, and any decontamination already performed\n- Always consider companion toxicology pathways such as carbon monoxide or cyanide when the exposure source fits",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen",
+    "salbutamol-sulphate"
+  ],
+  "relatedGuidelineIDs": [
+    "carbon-monoxide",
+    "cyanide",
+    "dyspnoea"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "autonomic-dysreflexia",
+  "title": "Autonomic Dysreflexia",
+  "category": "neurological",
+  "tags": [
+    "spinal cord injury",
+    "hypertension",
+    "headache",
+    "autonomic dysreflexia"
+  ],
+  "synonyms": [
+    "Autonomic Dysreflexia",
+    "AD in Spinal Cord Injury"
+  ],
+  "sections": [
+    {
+      "id": "autonomic-dysreflexia-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Autonomic dysreflexia is a hypertensive emergency seen mainly in patients with spinal cord injury, usually at or above T6. It is triggered by noxious stimuli below the lesion and can rapidly lead to stroke, seizure, or cardiac complications if not recognised and relieved.",
+      "sortOrder": 0
+    },
+    {
+      "id": "autonomic-dysreflexia-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Known spinal cord injury, often above T6\n- Sudden severe headache with marked hypertension or a large increase above the patient's usual baseline\n- Flushing or sweating above the lesion with pallor or cool skin below it\n- Bradycardia or less commonly tachycardia\n- Anxiety, blurred vision, chest discomfort, dyspnoea, or reduced conscious state in severe cases",
+      "sortOrder": 1
+    },
+    {
+      "id": "autonomic-dysreflexia-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Common triggers include bladder distension, blocked catheter, bowel distension, pressure injury, fractures, burns, tight clothing, or other painful stimuli\n- Symptoms may improve after the trigger is relieved, but the patient still needs medical assessment because recurrence is possible\n- Consider stroke, ACS, or other hypertensive emergencies if the diagnosis is uncertain\n- Obtain the patient's usual resting blood pressure if known because a modest absolute value may still represent severe hypertension for that individual",
+      "sortOrder": 2
+    },
+    {
+      "id": "autonomic-dysreflexia-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Sit the patient upright if tolerated to reduce blood pressure\n- Loosen restrictive clothing or equipment\n- Search for and remove obvious noxious stimuli where safe and within scope, such as a twisted drainage line or painful pressure point\n- Give oxygen only if clinically indicated\n- Reassess blood pressure, pain, and symptoms frequently and transport even if symptoms settle",
+      "sortOrder": 3
+    },
+    {
+      "id": "autonomic-dysreflexia-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Continue structured search for reversible triggers, including bladder and bowel causes, within scope and dignity constraints\n- Consider protocol-led vasodilator therapy only within local scope or senior direction if severe hypertension persists after simple trigger relief\n- Provide analgesia within scope where pain is a likely trigger or consequence\n- Escalate early if neurological symptoms, chest pain, refractory hypertension, or recurrent symptoms are present",
+      "sortOrder": 4
+    },
+    {
+      "id": "autonomic-dysreflexia-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Repeated or prolonged autonomic dysreflexia can cause intracranial haemorrhage, seizure, myocardial injury, or dysrhythmia\n- Ask the patient or carer about their usual trigger pattern and any existing management plan\n- Document blood pressure trend, suspected trigger, interventions performed, and whether symptoms resolved before arrival",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "glyceryl-trinitrate-(gtn)",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "spinal-trauma-cord-injury",
+    "hypertension",
+    "seizures"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

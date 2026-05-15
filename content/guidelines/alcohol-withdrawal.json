@@ -1,0 +1,74 @@
+{
+  "id": "alcohol-withdrawal",
+  "title": "Alcohol Withdrawal",
+  "category": "toxicology",
+  "tags": [
+    "alcohol",
+    "withdrawal",
+    "delirium tremens",
+    "seizure",
+    "agitation"
+  ],
+  "synonyms": [
+    "Alcohol Withdrawal",
+    "Alcohol Withdrawal Syndrome",
+    "Delirium Tremens"
+  ],
+  "sections": [
+    {
+      "id": "alcohol-withdrawal-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Alcohol withdrawal ranges from tremor and anxiety to seizures, delirium, hyperthermia, and cardiovascular collapse. Prehospital priorities are identifying severe withdrawal, excluding other medical causes of agitation or reduced conscious state, treating seizures, and transporting high-risk patients to hospital.",
+      "sortOrder": 0
+    },
+    {
+      "id": "alcohol-withdrawal-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Recent reduction or cessation of heavy alcohol use\n- Tremor, anxiety, insomnia, diaphoresis, nausea, or vomiting\n- Tachycardia, hypertension, pyrexia, or marked autonomic overactivity\n- Agitation, hallucinations, confusion, or fluctuating conscious state\n- Generalised seizure, especially early in withdrawal",
+      "sortOrder": 1
+    },
+    {
+      "id": "alcohol-withdrawal-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Agitation or confusion may be caused by hypoglycaemia, head injury, infection, polysubstance use, hepatic encephalopathy, or a primary psychiatric disorder rather than alcohol withdrawal alone\n- Severe withdrawal and delirium tremens are medical emergencies with significant mortality risk\n- Persistent anxiety alone is not the same as severe withdrawal; avoid treating every distressed patient as delirium tremens\n- A history of previous severe withdrawal, seizures, or multiple admissions increases risk",
+      "sortOrder": 2
+    },
+    {
+      "id": "alcohol-withdrawal-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Check BGL, temperature, and conscious state early\n- Give oxygen only if clinically indicated\n- Keep the environment calm, reduce unnecessary stimulation, and maintain staff safety\n- Manage seizures under the seizure guideline if they occur\n- Prioritise transport for hallucinations, severe agitation, hyperthermia, seizure, persistent vomiting, or suspected delirium",
+      "sortOrder": 3
+    },
+    {
+      "id": "alcohol-withdrawal-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG where severe withdrawal, chest pain, or significant autonomic disturbance is present\n- Gain IV access where severe withdrawal, dehydration, recurrent vomiting, or seizure risk is present\n- Treat hypoglycaemia, hyperthermia, or dehydration within local protocol\n- Consider protocol-led benzodiazepine therapy only for severe withdrawal, seizures, or dangerous agitation and only within scope or senior direction\n- Escalate early for delirium, persistent abnormal vital signs, recurrent seizure, or concern for mixed pathology",
+      "sortOrder": 4
+    },
+    {
+      "id": "alcohol-withdrawal-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Document last drink if known, previous withdrawal severity, seizure history, and co-ingested substances\n- A post-ictal patient who is calm and drowsy should still prompt consideration of other seizure causes rather than reflexively attributing everything to alcohol withdrawal\n- Use behavioural sedation only for genuine risk to patient or others, and continue searching for reversible medical causes",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "diazepam",
+    "intravenous-glucose-10",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "seizures",
+    "hypoglycaemia",
+    "high-risk-mental-health-presentations"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}

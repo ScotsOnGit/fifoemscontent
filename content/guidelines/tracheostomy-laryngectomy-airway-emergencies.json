@@ -1,0 +1,72 @@
+{
+  "id": "tracheostomy-laryngectomy-airway-emergencies",
+  "title": "Tracheostomy / Laryngectomy Airway Emergencies",
+  "category": "respiratory",
+  "tags": [
+    "tracheostomy",
+    "laryngectomy",
+    "stoma",
+    "airway",
+    "obstruction"
+  ],
+  "synonyms": [
+    "Tracheostomy Airway Emergency",
+    "Laryngectomy Airway Emergency",
+    "Stoma Airway Emergency"
+  ],
+  "sections": [
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Tracheostomy and laryngectomy patients may deteriorate from tube blockage, displacement, secretion load, or ventilatory failure. Prehospital priorities are recognising that the stoma is often the primary airway route, oxygenating the patient, relieving simple obstruction, and escalating rapidly if ventilation is failing.",
+      "sortOrder": 0
+    },
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Increased work of breathing, cyanosis, falling oxygen saturation, or reduced conscious state\n- Little or no airflow through the tracheostomy tube or stoma\n- Gurgling, stridor, unusual upper-airway noise, wheeze, or poor chest rise\n- Inability to pass a suction catheter or remove an inner cannula\n- Ventilated patient with rising airway pressures or poor delivered volumes",
+      "sortOrder": 1
+    },
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The default route of oxygenation and ventilation should be the stoma unless a clearly patent upper airway is known and usable\n- If it is unclear whether the patient has a laryngectomy or tracheostomy, oxygen via the stoma remains the first priority\n- Patients and carers often know the device and usual rescue steps; use that information where safe\n- External speaking valves or filters may need removal if they are contributing to obstruction",
+      "sortOrder": 2
+    },
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- Apply oxygen to the stoma first\n- Reposition the patient and remove obvious external attachments that may be worsening obstruction if this can be done safely\n- Call early for clinicians skilled in airway rescue if the patient is deteriorating\n- If two oxygen sources are available and upper-airway patency is uncertain, consider oxygen to both stoma and face while assessment continues\n- Prioritise urgent transport for persistent distress, poor airflow, or reduced conscious state",
+      "sortOrder": 3
+    },
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Suction the stoma or tracheostomy if obstructing secretions are suspected and this is within training and scope\n- Use ETCO2 where ventilation is being assisted\n- Attempt bag-valve-mask ventilation via the stoma when spontaneous ventilation is inadequate\n- If there is major air leak through the mouth during attempted stoma ventilation, reassess whether upper-airway management is required\n- Escalate early for advanced airway rescue if obstruction, displacement, or ventilatory failure persists",
+      "sortOrder": 4
+    },
+    {
+      "id": "tracheostomy-laryngectomy-airway-emergencies-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Laryngectomy patients have no meaningful upper-airway route to the lungs, so stoma management is essential\n- Tracheostomy patients may still have a partially patent upper airway, which changes rescue options if stoma ventilation is failing\n- Document device type if known, suction findings, ventilation route used, and response to interventions",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "foreign-body-airway-obstruction",
+    "dyspnoea",
+    "skill-bvm-ventilation"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}
