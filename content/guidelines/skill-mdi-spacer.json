@@ -33,14 +33,14 @@
       "id": "skill-mdi-considerations",
       "type": "considerations",
       "title": "Clinical Considerations",
-      "content": "- Spacer therapy is often appropriate for mild to moderate bronchospasm when the patient can cooperate\n- If the patient is severely breathless, exhausted, poorly cooperative, or unable to use the device effectively, escalate to other delivery methods according to local protocol\n- Infection-control and spacer hygiene still matter, especially in shared or stocked devices\n- The chosen delivery method should be based on patient capability and severity, not habit alone",
+      "content": "- Spacer therapy is often appropriate for mild to moderate bronchospasm when the patient can cooperate\n- If the patient is severely breathless, exhausted, poorly cooperative, or unable to use the device effectively, escalate to other delivery methods according to local protocol\n- Infection-control and spacer hygiene still matter, especially in shared or stocked devices\n- The chosen delivery method should be based on patient capability and severity, not habit alone\n- If technique is poor, coaching and demonstration may improve delivery more than immediately changing the medication",
       "sortOrder": 2
     },
     {
       "id": "skill-mdi-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Use one actuation at a time rather than stacking multiple puffs into the chamber\n- Document the drug, number of actuations, and response\n- MDI with spacer can be highly effective when technique is good, but reassessment is essential to confirm that the patient is improving",
+      "content": "- Use one actuation at a time rather than stacking multiple puffs into the chamber\n- Document the drug, number of actuations, and response\n- MDI with spacer can be highly effective when technique is good, but reassessment is essential to confirm that the patient is improving\n- Escalate promptly if the patient cannot move enough air to use the spacer effectively or is tiring despite treatment",
       "sortOrder": 3
     }
   ],
@@ -53,6 +53,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -33,14 +33,14 @@
       "id": "skill-nebuliser-considerations",
       "type": "considerations",
       "title": "Clinical Considerations",
-      "content": "- Oxygen-driven nebulisation may not be appropriate for every patient, especially if a lower oxygen target or air-driven delivery is needed\n- Nebulisation can increase aerosol spread, so infection-control considerations matter\n- Severe fatigue, worsening wheeze, silent chest, or falling conscious state require escalation beyond repeated bronchodilator delivery\n- Response to treatment should guide whether therapy is repeated, changed, or escalated",
+      "content": "- Oxygen-driven nebulisation may not be appropriate for every patient, especially if a lower oxygen target or air-driven delivery is needed\n- Nebulisation can increase aerosol spread, so infection-control considerations matter\n- Severe fatigue, worsening wheeze, silent chest, or falling conscious state require escalation beyond repeated bronchodilator delivery\n- Response to treatment should guide whether therapy is repeated, changed, or escalated\n- The chosen driving gas and delivery method should fit the respiratory problem, not just habit or equipment availability",
       "sortOrder": 2
     },
     {
       "id": "skill-nebuliser-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Document the medication, dose, driving gas, flow, and patient response\n- Keep the patient under observation during treatment, especially if very unwell\n- Nebulisation is one part of respiratory management and should not delay escalation when the patient is tiring or deteriorating",
+      "content": "- Document the medication, dose, driving gas, flow, and patient response\n- Keep the patient under observation during treatment, especially if very unwell\n- Nebulisation is one part of respiratory management and should not delay escalation when the patient is tiring or deteriorating\n- Reassess whether spacer therapy, NIPPV, or ventilation support is now more appropriate if repeated nebulisation is failing",
       "sortOrder": 3
     }
   ],
@@ -53,6 +53,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

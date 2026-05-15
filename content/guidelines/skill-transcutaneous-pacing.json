@@ -35,7 +35,7 @@
       "id": "skill-tcp-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Electrical capture without mechanical capture = pseudo-capture - always confirm by palpating femoral pulse\n- Sedate/analgese patient if conscious - consider ketamine or midazolam per protocol\n- Concurrent pharmacological therapy (atropine, adrenaline infusion) may be needed\n- Capture threshold typically 50–100 mA",
+      "content": "- Electrical capture without mechanical capture is pseudo-capture, so always confirm with a pulse and clinical perfusion\n- Provide sedation or analgesia where appropriate because pacing is painful\n- Concurrent pharmacological therapy such as atropine or vasoactive support may still be needed\n- Reassess capture, blood pressure, and patient distress repeatedly after pacing starts",
       "sortOrder": 2
     }
   ],
@@ -53,6 +53,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

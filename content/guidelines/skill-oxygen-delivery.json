@@ -33,14 +33,14 @@
       "id": "skill-oxygen-targets",
       "type": "considerations",
       "title": "Targets & Clinical Use",
-      "content": "- For most acutely unwell adults, oxygen is guided by hypoxia, work of breathing, and the clinical syndrome\n- Patients at risk of chronic hypercapnic respiratory failure may need a lower target range according to local protocol\n- Carbon monoxide poisoning, major trauma, peri-arrest states, and severe shock may justify high-concentration oxygen despite a misleading or initially normal SpO2\n- Avoid letting a normal saturation distract from severe hypoventilation or exhaustion",
+      "content": "- For most acutely unwell adults, oxygen is guided by hypoxia, work of breathing, and the clinical syndrome\n- Patients at risk of chronic hypercapnic respiratory failure may need a lower target range according to local protocol\n- Carbon monoxide poisoning, major trauma, peri-arrest states, and severe shock may justify high-concentration oxygen despite a misleading or initially normal SpO2\n- Avoid letting a normal saturation distract from severe hypoventilation or exhaustion\n- Escalate the device or delivery method when oxygenation is not improving or the work of breathing remains high despite treatment",
       "sortOrder": 2
     },
     {
       "id": "skill-oxygen-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Oxygen is a treatment, not just a routine observation response\n- Always document device, flow rate, indication, and response\n- Reassess saturation, respiratory effort, mental state, and tolerance after changes\n- Pulse oximetry limitations still apply when deciding how much oxygen the patient needs",
+      "content": "- Oxygen is a treatment, not just a routine observation response\n- Always document device, flow rate, indication, and response\n- Reassess saturation, respiratory effort, mental state, and tolerance after changes\n- Pulse oximetry limitations still apply when deciding how much oxygen the patient needs\n- De-escalate unnecessary high-concentration oxygen once the patient is improving and the clinical context allows",
       "sortOrder": 3
     }
   ],
@@ -53,6 +53,6 @@
     "acute-decompensated-heart-failure"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -45,7 +45,7 @@
       "id": "skill-ecg-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- A 12-lead ECG should be acquired and transmitted within 10 minutes of patient contact in suspected ACS\n- Electrode placement errors are the most common cause of diagnostic inaccuracy\n- Always print or transmit with patient ID, time, and clinical context\n- Serial ECGs are essential - initial ECG may be normal in evolving STEMI\n- Reciprocal changes (ST depression in opposite leads) increase diagnostic confidence for STEMI",
+      "content": "- A 12-lead ECG should be acquired and transmitted early in suspected ACS where feasible\n- Electrode placement errors are a common cause of diagnostic inaccuracy\n- Always print or transmit with patient ID, time, and clinical context\n- Serial ECGs are important because the initial tracing may be non-diagnostic in evolving infarction\n- Reciprocal changes increase confidence, but the whole clinical picture still matters\n- A normal ECG does not rule out serious cardiac pathology in the prehospital phase",
       "sortOrder": 3
     }
   ],
@@ -58,6 +58,6 @@
     "sgarbossa-criteria"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

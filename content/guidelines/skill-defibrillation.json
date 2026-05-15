@@ -37,7 +37,7 @@
       "id": "skill-defib-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Pre-charge defibrillator before rhythm check to minimise pause\n- Do not shock in water or near flammable gases\n- Remove transdermal patches before pad placement\n- Implanted pacemaker/ICD: position pads ≥ 8 cm from device\n- Consider anteroposterior pad placement for obesity or poor response",
+      "content": "- Pre-charge the defibrillator when appropriate to minimise pauses\n- Do not shock in water or near flammable gases\n- Remove transdermal patches before pad placement\n- If there is an implanted pacemaker or ICD, position pads away from the device\n- Consider anteroposterior pad placement when standard placement is difficult or response is poor\n- After every shock, minimise interruption and return immediately to the resuscitation sequence",
       "sortOrder": 2
     }
   ],
@@ -54,6 +54,6 @@
     "ecg-axis"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

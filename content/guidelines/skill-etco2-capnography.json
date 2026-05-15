@@ -38,14 +38,14 @@
       "id": "skill-etco2-interpretation",
       "type": "considerations",
       "title": "Waveform Interpretation",
-      "content": "**Normal Capnogram:** Rectangular waveform with a flat alveolar plateau\n\n**Normal EtCO₂:** 35–45 mmHg (4.6–6.0 kPa)\n\n**Abnormal Findings:**\n- **No waveform after intubation**: oesophageal intubation - reintubate immediately\n- **Gradually decreasing EtCO₂**: hyperventilation, hypothermia, reducing cardiac output, pulmonary embolism\n- **Suddenly absent waveform (intubated)**: ETT displacement, circuit disconnect, cardiac arrest\n- **Elevated EtCO₂ (> 45 mmHg)**: hypoventilation, increased metabolism, CO₂ rebreathing\n- **Shark fin waveform (oblique Phase III)**: bronchospasm - asthma, COPD\n- **Cleft in Phase III**: spontaneous breathing efforts during positive pressure ventilation\n- **Rising EtCO₂ during CPR**: indicates improving ROSC - consider pulse check\n- **EtCO₂ < 10 mmHg during CPR**: poor prognosis; reassess CPR quality and reversible causes\n\n**ROSC Indicator:** Sudden sustained rise in EtCO₂ ≥ 35 mmHg during CPR = likely ROSC",
+      "content": "**Normal Capnogram:** Rectangular waveform with a flat alveolar plateau\n\n**Normal EtCO₂:** 35–45 mmHg (4.6–6.0 kPa)\n\n**Abnormal Findings:**\n- **No waveform after intubation**: oesophageal intubation or absent pulmonary blood flow - treat as critical until explained\n- **Gradually decreasing EtCO₂**: hyperventilation, hypothermia, reducing cardiac output, pulmonary embolism\n- **Suddenly absent waveform (intubated)**: ETT displacement, circuit disconnect, cardiac arrest\n- **Elevated EtCO₂ (> 45 mmHg)**: hypoventilation, increased metabolism, CO₂ rebreathing\n- **Shark fin waveform (oblique Phase III)**: bronchospasm - asthma, COPD\n- **Cleft in Phase III**: spontaneous breathing efforts during positive pressure ventilation\n- **Rising EtCO₂ during CPR**: indicates improving perfusion or ROSC - consider pulse check if clinically appropriate\n- **EtCO₂ < 10 mmHg during CPR**: reassess CPR quality and reversible causes\n\n**ROSC Indicator:** Sudden sustained rise in EtCO₂ during CPR strongly suggests ROSC",
       "sortOrder": 2
     },
     {
       "id": "skill-etco2-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Waveform capnography is the gold standard for ETT confirmation - use in addition to clinical assessment\n- CO poisoning: EtCO₂ may be low despite elevated carboxyhaemoglobin\n- Target EtCO₂ in TBI: 35–40 mmHg - avoid hyper or hypoventilation\n- In CPR: aim for chest compressions that generate EtCO₂ ≥ 20 mmHg\n- Always document EtCO₂ value and waveform quality at time of reading",
+      "content": "- Waveform capnography is the gold standard for ETT confirmation and should be used alongside clinical assessment\n- CO poisoning: EtCO₂ may be low despite elevated carboxyhaemoglobin\n- Target EtCO₂ in TBI: 35–40 mmHg unless a specific herniation strategy is being used\n- During CPR, use EtCO₂ to help assess ventilation and compression effectiveness rather than as a stand-alone stop or go threshold\n- Always document EtCO₂ value and waveform quality at the time of reading",
       "sortOrder": 3
     }
   ],
@@ -55,6 +55,6 @@
     "ventilation-suite"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

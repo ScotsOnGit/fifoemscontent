@@ -42,7 +42,7 @@
       "id": "skill-bvm-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Avoid over-ventilation - excessive tidal volume causes gastric insufflation and aspiration risk\n- Attach oxygen at 15 L/min with reservoir bag for FiO₂ ~0.85\n- If chest does not rise: reposition head, reassess seal, check for obstruction, suction\n- Consider 2-person technique whenever possible - significantly improves tidal volume delivery\n- During CPR: 30:2 ratio (unsynchronised) or 1 breath per 6 seconds with continuous compressions (advanced airway in place)",
+      "content": "- Avoid over-ventilation because excessive tidal volume and rate increase gastric insufflation and aspiration risk\n- Attach oxygen at 15 L/min with reservoir bag where available\n- If the chest does not rise, reposition the head, reassess the seal, check for obstruction, and suction as needed\n- Consider a 2-person technique whenever possible because it significantly improves seal and ventilation quality\n- During CPR, follow the current resuscitation guideline for compression-to-ventilation ratio or asynchronous ventilation once an advanced airway is in place\n- A poor mask seal or falling chest rise is a clinical problem to fix immediately, not just a documentation issue",
       "sortOrder": 3
     }
   ],
@@ -59,6 +59,6 @@
     "paed-vitals"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -29,7 +29,7 @@
       "id": "skill-nippv-indications",
       "type": "considerations",
       "title": "Indications & Contraindications",
-      "content": "**Indications:**\n- Acute cardiogenic pulmonary oedema (ACPO) - strong evidence\n- Acute COPD exacerbation with type 2 respiratory failure\n- Severe asthma (not responding to bronchodilators)\n- Hypoxic respiratory failure (SpO₂ < 90% despite high-flow O₂)\n\n**Contraindications:**\n- Apnoea or respiratory arrest (use BVM)\n- Unable to protect airway / GCS ≤ 8\n- Vomiting / high aspiration risk\n- Facial trauma precluding mask fit\n- Undrained tension pneumothorax\n- Haemodynamic instability (relative)",
+      "content": "**Indications:**\n- Acute cardiogenic pulmonary oedema (ACPO)\n- Acute COPD exacerbation with ventilatory failure risk\n- Selected severe asthma presentations where local protocol supports it\n- Hypoxic respiratory failure not corrected with simpler oxygen delivery\n\n**Contraindications:**\n- Apnoea or respiratory arrest\n- Inability to protect the airway or very low conscious state\n- Vomiting or high aspiration risk\n- Facial trauma precluding mask fit\n- Undrained tension pneumothorax\n- Marked haemodynamic instability or inability to cooperate",
       "sortOrder": 1
     },
     {
@@ -43,7 +43,7 @@
       "id": "skill-nippv-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Early application improves outcomes in ACPO - do not delay\n- Reassess every 5–10 minutes; deterioration may require RSI\n- Gastric insufflation is a risk - have suction immediately available\n- Remove mask briefly if patient vomits\n- Document: initial SpO₂, RR, work of breathing, pressure used, and response",
+      "content": "- Early application can improve outcomes in ACPO when the patient is an appropriate candidate\n- Reassess every 5–10 minutes; deterioration may require ventilation support or airway escalation\n- Gastric insufflation is a risk, so have suction immediately available\n- Remove the mask promptly if the patient vomits or cannot tolerate it safely\n- Document the initial respiratory status, pressure used, tolerance, and clinical response",
       "sortOrder": 3
     }
   ],
@@ -62,6 +62,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
