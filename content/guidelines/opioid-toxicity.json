@@ -31,21 +31,21 @@
       "id": "opioid-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- In the apnoeic patient, ensure the patient is well oxygenated prior to Narcan (Naloxone) administration to avoid confusion and agitation\n- If giving Narcan intravenously, ensure it is titrated to effect (no large doses) to avoid acute opioid withdrawal\n- Paraphernalia may give early clues to the cause\n- The effect of Narcan can wane after a short period of time. All Opioid effected patients should be referred to further care and management, consent not withstanding",
+      "content": "- Investigating why or how the overdose occurred is important to rule out self-harm and mixed overdose\n- In the apnoeic or severely hypoventilating patient, prioritise oxygenation and ventilation before or alongside naloxone\n- If naloxone is given intravenously, titrate it carefully to effect and avoid unnecessarily large doses that may precipitate acute withdrawal or agitation\n- Drug paraphernalia, medication packets, or witness history may give important early clues to the cause\n- Naloxone may wear off before the opioid does. All opioid-affected patients should be referred for further assessment and observation, consent notwithstanding",
       "sortOrder": 2
     },
     {
       "id": "opioid-toxicity-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient appropriately\n- Maintain and manage airway as required\n- IPPV with oxygen where necessary\n- Consider intramuscular Narcan (Naloxone) if IPPV is not effective\n- Monitor respiratory rate, depth of breathing, mental status, oxygen saturation, and BGL\n- Where available, use capnography because oxygen saturation may remain normal early in hypoventilation, especially if supplemental oxygen has been given\n- Consider secondary survey\n- Have a low threshold for contacting on-call doctor",
+      "content": "- Primary Survey\n- Position the patient to protect the airway where possible\n- Maintain and manage the airway as required\n- Provide assisted ventilation with oxygen where necessary\n- Consider intramuscular naloxone if adequate ventilation alone is not restoring safe breathing\n- Monitor respiratory rate, depth of breathing, mental state, oxygen saturation, and BGL\n- Where available, use capnography because oxygen saturation may remain normal early in hypoventilation, especially if supplemental oxygen has been given\n- Consider Secondary Survey\n- Have a low threshold for contacting the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "opioid-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IV access\n- Consider IV fluids if indicated\n- Consider titrated IV Narcan if no previous IM dose given and no response to adequate ventilation\n- Titrate Narcan to reversal of respiratory depression and restoration of protective airway reflexes, not necessarily to full wakefulness\n- Consider ECG",
+      "content": "- Consider advanced airway management if indicated\n- Consider IV access\n- Consider IV fluids only if clinically indicated\n- Consider titrated IV naloxone if no previous IM dose was given and there is inadequate response to ventilation and initial care\n- Titrate naloxone to reversal of respiratory depression and restoration of protective airway reflexes, not necessarily to full wakefulness\n- Consider ECG, especially if co-ingestion, methadone exposure, or other toxicology features are suspected",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

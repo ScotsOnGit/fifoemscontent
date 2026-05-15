@@ -33,21 +33,21 @@
       "id": "calcium-channel-blockers-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- CCB toxicity is potentially life-threatening, particularly if Verapamil or diltiazem is taken.\nThese are more cardio selective\n- Those with underlying cardiovascular disease are more at risk of severe toxicity\n- Ingestion of other cardiac medications, such as ACE inhibitors, beta blockers or digoxin can cause severe CCB toxicity if taken together",
+      "content": "- Investigating why or how the overdose occurred is important to rule out self-harm and mixed overdose\n- CCB toxicity is potentially life-threatening, particularly with verapamil or diltiazem ingestion\n- Patients with underlying cardiovascular disease are at higher risk of severe toxicity\n- Co-ingestion of other cardiac medications, such as ACE inhibitors, beta blockers, or digoxin, may worsen toxicity",
       "sortOrder": 2
     },
     {
       "id": "calcium-channel-blockers-toxicity-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Signs, BSL\n- Consider activated charcoal if presented within first hour of ingestion\n- Have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if the patient is awake and cooperative\n- Position the patient appropriately\n- Give oxygen if clinically indicated\n- Perform repeated vital signs and BSL\n- Consider activated charcoal only if within the appropriate time window and local protocol\n- Have a low threshold for calling the on-call doctor or toxicology support",
       "sortOrder": 3
     },
     {
       "id": "calcium-channel-blockers-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Gain IV access\n- Consider Blood draw for i-STAT, check potassium and acid base (CG8+) where applicable\n- Consider fluids if indicated\n- In severe calcium channel blocker poisoning with hypotension or shock, early toxicology or medical consultation is essential\n- Vasopressors and high-dose insulin therapy are key treatments in addition to supportive care\n- Consider calcium gluconate in consultation with on-call doctor\n- Consider Atropine (often ineffective) in consultation with on-call doctor\n- Consider Adrenaline in consultation with on-call doctor\n- Consider high-dose insulin therapy where available and clinically appropriate, in consultation with the on-call doctor or toxicology service\n- Consider sodium bicarbonate (if metabolic acidosis evident) in consultation with on-call doctor\n- Consider transthoracic pacing with adequate sedation in consultation with on-call doctor",
+      "content": "- Consider advanced airway management if required\n- Consider assisted ventilation if required\n- Apply cardiac monitoring and obtain a 12 lead ECG\n- Gain IV access\n- Consider i-STAT or other point-of-care testing where available\n- Consider fluids only if indicated and reassess frequently\n- In severe calcium channel blocker poisoning with hypotension or shock, early toxicology or medical consultation is essential\n- Vasopressors and high-dose insulin therapy are key treatments in addition to supportive care\n- Consider calcium gluconate in consultation with the on-call doctor\n- Consider atropine, recognising that response may be poor, in consultation with the on-call doctor\n- Consider adrenaline in consultation with the on-call doctor\n- Consider high-dose insulin therapy where available and clinically appropriate, in consultation with the on-call doctor or toxicology service\n- Consider sodium bicarbonate if metabolic acidosis is evident, in consultation with the on-call doctor\n- Consider transthoracic pacing with adequate sedation in consultation with the on-call doctor",
       "sortOrder": 4
     },
     {
@@ -66,8 +66,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",

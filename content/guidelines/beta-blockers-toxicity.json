@@ -32,21 +32,21 @@
       "id": "beta-blockers-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- Onset of toxicity is often delayed in modified release preparations\n- Propranolol and Sotalol are particularly toxic in overdose and can result in:\n  - Propranolol: Seizures, coma and QRS widening\n  - Sotalol: QT prolongation which can lead to Torsades De Pointes\n  - Ingestion of 2g of Propranolol are associated with severe toxicity\n  - Effects can be compounded when co-ingested with other cardiac drugs\n  - Have IV fluids, atropine and adrenaline prepared and at hand\n  - Increased volumes of IV fluids can lead to pulmonary oedema; hence these patients require inotropes (adrenaline) to manage shock",
+      "content": "- Investigating why or how the overdose occurred is important to rule out self-harm and mixed overdose\n- Onset of toxicity may be delayed in modified-release preparations\n- Propranolol and sotalol are particularly dangerous in overdose:\n  - Propranolol may cause seizures, coma, and QRS widening\n  - Sotalol may prolong QT and precipitate torsades de pointes\n- Effects may be compounded when other cardiac or sedating drugs are co-ingested\n- Excessive fluid loading may worsen pulmonary oedema, so these patients often require vasoactive support rather than repeated large fluid boluses",
       "sortOrder": 2
     },
     {
       "id": "beta-blockers-toxicity-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Vital Sign Survey (especially BGL)\n- Consider Oxygen if indicated\n- Consider activated charcoal\n- Have a low threshold for calling current poison permit holder or RFDS",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if the patient is awake and cooperative\n- Position the patient appropriately\n- Perform repeated vital signs, including BGL\n- Give oxygen if clinically indicated\n- Consider activated charcoal only within local protocol and appropriate time window\n- Have a low threshold for contacting the current poison permit holder, toxicology support, or RFDS",
       "sortOrder": 3
     },
     {
       "id": "beta-blockers-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitor\n- Gain IV access in all patients\n- Consider fluids if indicated, given in 250ml boluses to avoid overload and pulmonary oedema\n- Consider Atropine in consultation with on-call doctor\n- Consider Adrenaline in consultation with on-call doctor\n- In severe beta-blocker poisoning with hypotension or shock, early toxicology or medical consultation is essential\n- Vasopressors and high-dose insulin therapy may be required in addition to standard supportive care\n- Consider Sodium Bicarbonate (if QRS widening) in consultation with on-call doctor\n- Consider Glucose if indicated\n- Consider transcutaneous pacing, with appropriate sedation, in consultation with on-call doctor\n- Consider Magnesium Sulphate (Torsades de Pointes) in consultation with on-call doctor\n- Consider anti-emetic, being aware of QT prolongation in cases of Sotalol toxicity",
+      "content": "- Apply cardiac monitoring\n- Gain IV access in all significant cases\n- Consider fluids only in cautious boluses if indicated, to avoid overload and pulmonary oedema\n- Consider atropine in consultation with the on-call doctor\n- Consider adrenaline in consultation with the on-call doctor\n- In severe beta-blocker poisoning with hypotension or shock, early toxicology or medical consultation is essential\n- Vasopressors and high-dose insulin therapy may be required in addition to standard supportive care\n- Consider sodium bicarbonate if QRS widening is present, in consultation with the on-call doctor\n- Consider glucose if indicated\n- Consider transcutaneous pacing, with appropriate sedation, in consultation with the on-call doctor\n- Consider magnesium sulphate for torsades de pointes in consultation with the on-call doctor\n- Consider antiemetic therapy cautiously, noting QT issues in sotalol toxicity",
       "sortOrder": 4
     },
     {
@@ -66,8 +66,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",

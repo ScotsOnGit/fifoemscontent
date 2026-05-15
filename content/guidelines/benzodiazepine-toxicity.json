@@ -31,21 +31,21 @@
       "id": "benzodiazepine-toxicity-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- For isolated BZD overdoses, full recovery is expected when good supportive care is provided\n- Older persons, history of cardiorespiratory comorbidity and ingestion of other CNS depressants suggest a higher risk of complications\n- Illicit or non-prescription benzodiazepines are most dangerous and often required intubation when overdosed\n- Profound coma suggests co-ingestion of a CNS depressing agent, e.g., alcohol, as they may compound toxicity\n- Check BGL in all patients with reduced conscious state or suspected overdose",
+      "content": "- Investigating why or how the overdose occurred is important to rule out self-harm and mixed overdose\n- For isolated benzodiazepine overdose, full recovery is generally expected with good supportive care\n- Older patients, cardiorespiratory comorbidity, and co-ingestion of other CNS depressants increase the risk of complications\n- Illicit or non-prescription benzodiazepines may be more potent, delayed, or contaminated\n- Profound coma suggests co-ingestion of another CNS depressant, such as alcohol or opioids\n- Check BGL in all patients with reduced conscious state or suspected overdose",
       "sortOrder": 2
     },
     {
       "id": "benzodiazepine-toxicity-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if the patient is awake and cooperative\n- Position the patient to protect the airway\n- Give oxygen if clinically indicated\n- Perform repeated vital signs and neurological reassessment\n- Have a low threshold for calling the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "benzodiazepine-toxicity-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider glucose if indicated\n- Consider anti-emetic\n- Flumazenil should only be considered in highly selected cases of confirmed isolated benzodiazepine toxicity, after discussion with an appropriate senior clinician or toxicology service\n- Do not use Flumazenil when there is a risk of mixed overdose, seizure disorder, benzodiazepine dependence, or co-ingestion of pro-convulsant or dysrhythmogenic agents",
+      "content": "- Consider advanced airway management if required\n- Consider assisted ventilation if required\n- Apply cardiac monitoring and obtain a 12 lead ECG if clinically indicated\n- Consider IV access\n- Consider fluids if indicated\n- Consider glucose if indicated\n- Consider antiemetic if required\n- Flumazenil should only be considered in highly selected cases of confirmed isolated benzodiazepine toxicity, after discussion with an appropriate senior clinician or toxicology service\n- Do not use flumazenil when there is a risk of mixed overdose, seizure disorder, benzodiazepine dependence, or co-ingestion of pro-convulsant or dysrhythmogenic agents",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-12T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",
