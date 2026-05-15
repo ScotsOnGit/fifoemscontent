@@ -20,21 +20,21 @@
       "id": "skill-acc-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "In the supine position, the gravid uterus (> 20 weeks gestation) can compress the inferior vena cava (IVC) and aorta, reducing venous return and cardiac output by up to 30%. This causes supine hypotension syndrome - maternal hypotension, faintness, and foetal compromise. Left lateral displacement or tilt relieves compression.",
+      "content": "From around 20 weeks gestation onward, the gravid uterus can compress the inferior vena cava and aorta when the mother is supine. This may worsen hypotension, reduce venous return, and compromise both maternal and foetal perfusion, so left uterine displacement should be considered whenever a late-pregnancy patient must remain supine.",
       "sortOrder": 0
     },
     {
       "id": "skill-acc-procedure",
       "type": "management_basic",
       "title": "Techniques",
-      "content": "**Conscious patient:**\n- Position in full left lateral position for transport\n- If supine required (resuscitation): apply left lateral tilt\n\n**Left lateral tilt for supine patient (e.g. CPR, trauma):**\n\nMethod 1 - Manual displacement:\n- Assistant stands beside patient and manually displaces uterus to the left (preferred during CPR - maintains flat surface for compressions)\n\nMethod 2 - Wedge/tilt:\n- Place wedge (foam, rolled blanket, equipment bag) under right hip/lower back to tilt patient 15–30° to the left\n- Ensures left lateral displacement of uterus\n\n**During CPR:**\n- Manual left uterine displacement by a dedicated rescuer is preferred over tilting the patient - maintains firm surface for compressions",
+      "content": "**Conscious patient:**\n- Position in the left lateral position if tolerated and clinically appropriate\n\n**When the patient must remain supine:**\n1. Use manual left uterine displacement when possible, especially during resuscitation or major trauma care\n2. If manual displacement is not practical, tilt the patient or place a wedge under the right side to shift the uterus leftward\n3. Reassess blood pressure, symptoms, and overall perfusion after repositioning\n\n**During CPR:**\n- Manual left uterine displacement is preferred because it preserves a firm surface for compressions",
       "sortOrder": 1
     },
     {
       "id": "skill-acc-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Applies to pregnancy > 20 weeks (fundus above umbilicus)\n- Any position that avoids aortocaval compression is acceptable\n- Even 15° tilt significantly improves venous return\n- During prehospital arrest in pregnancy: prioritise high-quality CPR + left uterine displacement + rapid transport for perimortem caesarean",
+      "content": "- Use this whenever late pregnancy and supine positioning are likely to coexist, not only when symptoms are already obvious\n- Any safe positioning that relieves uterine compression is acceptable\n- During arrest, CPR quality and immediate uterine displacement take priority over complex tilt setups\n- Document the gestation if known and what manoeuvre was used",
       "sortOrder": 2
     }
   ],
@@ -51,6 +51,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

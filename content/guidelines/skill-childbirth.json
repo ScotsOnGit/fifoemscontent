@@ -21,35 +21,35 @@
       "id": "skill-childbirth-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Prehospital childbirth occurs when delivery is imminent and transport to hospital is not possible. The paramedic's role is to facilitate a safe delivery, manage complications, and provide immediate neonatal care. Most normal deliveries require calm reassurance and support rather than active intervention.",
+      "content": "Most uncomplicated prehospital births require calm support, preparation, and early recognition of complications rather than active intervention. The main priorities are maternal safety, neonatal warmth and airway support, and rapid escalation when the birth is not progressing normally.",
       "sortOrder": 0
     },
     {
       "id": "skill-childbirth-stages",
       "type": "management_basic",
       "title": "Stages of Labour",
-      "content": "**Stage 1:** Onset of regular contractions to full cervical dilation (10 cm)\n- Early: contractions every 5–10 min, 30–45 sec duration\n- Active: contractions every 2–3 min, 60 sec duration\n- Transition: frequent intense contractions; imminent delivery\n\n**Stage 2:** Full dilation to delivery of baby\n- Urge to push; perineal bulging; crowning\n\n**Stage 3:** Delivery of placenta (5–30 minutes after birth)\n\n**Imminent delivery signs:** urge to push, crowning visible, uncontrolled bearing down, extreme anxiety",
+      "content": "- Imminent birth is suggested by crowning, an uncontrollable urge to push, bulging perineum, or the presenting part being visible\n- If these features are absent, focus on transport, monitoring, and preparation rather than encouraging on-scene delivery\n- Be alert for abnormal presentation, multiple birth, heavy bleeding, maternal collapse, or fetal distress concerns",
       "sortOrder": 1
     },
     {
       "id": "skill-childbirth-procedure",
       "type": "management_basic",
       "title": "Delivery Procedure",
-      "content": "1. Position mother semi-recumbent or left lateral; maintain privacy\n\n2. Prepare: gloves, sterile drapes, cord clamps (×2), scissors, bulb syringe, warm blanket for neonate, oxytocin\n\n3. As head crowns: apply gentle counter-pressure (do not forcibly hold back) with one hand to prevent explosive delivery\n\n4. Support head as it delivers - typically face down, then rotates\n\n5. Check for nuchal cord: feel for cord around neck; if present: slip loop over head or double-clamp and cut if tight\n\n6. Support head downward to deliver anterior shoulder; then upward for posterior shoulder\n\n7. Support body as it delivers; hold securely (neonates are slippery)\n\n8. Note time of delivery\n\n9. Place baby on mother's abdomen, dry thoroughly with warm towel, skin-to-skin\n\n10. Clamp cord at 2 cm and 5 cm from neonatal umbilicus; cut between clamps (delay clamping 1–3 min if baby is vigorous)\n\n11. Administer oxytocin per protocol after placental delivery\n\n12. Deliver placenta with gentle controlled cord traction once signs of separation (cord lengthens, uterus firms)",
+      "content": "1. Position the mother comfortably, preserve privacy, and prepare birth and neonatal equipment\n\n2. Support the head as it crowns, guiding rather than pulling\n\n3. After the head is delivered, check gently for a nuchal cord and manage it if necessary\n\n4. Support delivery of the shoulders and body with controlled guidance only\n\n5. Dry the baby immediately, keep the baby warm, and place skin-to-skin with the mother when appropriate\n\n6. Assess breathing and tone promptly and begin neonatal support if needed\n\n7. Clamp and cut the cord according to local protocol and the baby's condition\n\n8. Manage the third stage conservatively unless active management is indicated by protocol or bleeding risk",
       "sortOrder": 2
     },
     {
       "id": "skill-childbirth-neonate",
       "type": "management_basic",
       "title": "Neonatal Assessment (APGAR)",
-      "content": "**APGAR Score** (at 1 and 5 minutes):\n- Appearance (skin colour): 0 = blue/pale; 1 = blue extremities; 2 = pink\n- Pulse: 0 = absent; 1 = < 100; 2 = ≥ 100\n- Grimace (reflex): 0 = none; 1 = grimace; 2 = cry/cough\n- Activity (muscle tone): 0 = limp; 1 = some flexion; 2 = active\n- Respiration: 0 = absent; 1 = irregular; 2 = strong cry\n\n**Score 7–10:** Normal - routine care\n**Score 4–6:** Moderate depression - stimulate, supplemental O₂\n**Score 0–3:** Severe depression - begin neonatal resuscitation",
+      "content": "- Use APGAR at 1 and 5 minutes as a descriptive handover and documentation tool\n- Prioritise practical neonatal assessment: breathing, heart rate, tone, warmth, and response to stimulation\n- Do not let APGAR scoring distract from immediate neonatal resuscitation when required",
       "sortOrder": 3
     },
     {
       "id": "skill-childbirth-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do not pull on the head - guide, do not force\n- If placenta does not deliver within 30 minutes: transport without waiting\n- Estimate blood loss accurately - > 500 mL PPH\n- Keep baby warm - hypothermia is a major risk for neonates\n- Document: time of delivery, APGAR scores, cord clamping time, complications",
+      "content": "- Avoid traction on the baby's head or neck\n- Heavy bleeding, maternal deterioration, retained placenta, or neonatal compromise should trigger rapid escalation and transport priorities\n- Keep the baby warm from the moment of birth; hypothermia develops quickly in neonates\n- Document delivery time, condition of mother and baby, cord management, placenta status, and any complications",
       "sortOrder": 4
     }
   ],
@@ -66,6 +66,6 @@
     "paed-vitals"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

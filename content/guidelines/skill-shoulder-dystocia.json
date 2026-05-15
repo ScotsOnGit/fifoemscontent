@@ -19,21 +19,21 @@
       "id": "skill-sd-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Shoulder dystocia occurs when the baby's anterior shoulder becomes impacted behind the maternal pubic symphysis after delivery of the head. It is an obstetric emergency requiring immediate manoeuvres - the HELPERR mnemonic guides management. Cord compression with shoulder dystocia can cause foetal hypoxia within 4–5 minutes.",
+      "content": "Shoulder dystocia is an obstetric emergency in which the shoulders fail to deliver after the head. The priorities are immediate recognition, urgent help, calm sequencing of manoeuvres, and avoidance of harmful traction or fundal pressure.",
       "sortOrder": 0
     },
     {
       "id": "skill-sd-procedure",
       "type": "management_advanced",
       "title": "HELPERR Manoeuvres",
-      "content": "**H - Call for Help**\n\n**E - Evaluate for Episiotomy** (if available in scope; does not resolve bony dystocia but improves access)\n\n**L - Legs (McRoberts Manoeuvre):** Hyperflexion of maternal thighs onto abdomen - flattens lumbar lordosis, increases AP pelvic diameter; most effective first step\n\n**P - Suprapubic Pressure:** Assistant applies firm downward pressure above pubic symphysis toward the foetal face to dislodge the anterior shoulder; do NOT press on fundus\n\n**E - Enter (Internal Rotational Manoeuvres):**\n- Rubin II: pressure on posterior aspect of anterior shoulder toward foetal chest\n- Woods Screw: pressure on anterior aspect of posterior shoulder\n- Combination: Rubin + Woods (corkscrew manoeuvre)\n\n**R - Remove the Posterior Arm:** Sweep posterior arm across foetal chest and deliver it\n\n**R - Roll the patient** (Gaskin Manoeuvre): Roll mother onto hands and knees - gravity and position change may free shoulder",
+      "content": "1. Call for urgent assistance and clearly declare the dystocia\n\n2. Ask the mother to stop pushing between directed manoeuvres if possible\n\n3. Start with McRoberts positioning and suprapubic pressure; do not apply fundal pressure\n\n4. If these fail, proceed through internal rotational manoeuvres, delivery of the posterior arm, or position change only within training and scope\n\n5. Continue in a calm, deliberate sequence and prepare for immediate neonatal resuscitation after delivery",
       "sortOrder": 1
     },
     {
       "id": "skill-sd-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Do NOT apply fundal pressure - worsens impaction\n- Do NOT pull on the head or attempt rotation by neck - risk of brachial plexus injury\n- McRoberts + suprapubic pressure resolve majority of cases\n- Document: time of head delivery, manoeuvres used and sequence, time of full delivery, neonatal condition",
+      "content": "- Do not apply fundal pressure because it worsens impaction\n- Do not pull on the baby's head or neck in an attempt to force delivery\n- McRoberts and suprapubic pressure should happen early and clearly\n- Document the time of head delivery, sequence of manoeuvres, full delivery time, and neonatal condition",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

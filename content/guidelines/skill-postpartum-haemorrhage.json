@@ -20,28 +20,28 @@
       "id": "skill-pph-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Postpartum haemorrhage (PPH) is defined as blood loss > 500 mL within 24 hours of vaginal delivery (> 1000 mL for caesarean). Primary PPH (within 24 hours) is most common, usually due to uterine atony (4Ts: Tone, Trauma, Tissue, Thrombin). It is a leading cause of maternal mortality.",
+      "content": "Postpartum haemorrhage is a time-critical obstetric emergency. In prehospital care, any heavy ongoing bleeding or haemodynamic compromise after birth should be treated seriously regardless of whether the exact measured volume is known.",
       "sortOrder": 0
     },
     {
       "id": "skill-pph-assessment",
       "type": "considerations",
       "title": "4T Causes",
-      "content": "**Tone (70–80%):** Uterine atony - uterus soft and boggy\n**Trauma (20%):** Laceration of cervix, vagina, perineum\n**Tissue (5%):** Retained placenta or membranes\n**Thrombin (1%):** Coagulopathy (pre-existing or acquired)",
+      "content": "**Tone:** Uterine atony with a soft boggy uterus\n**Trauma:** Perineal, vaginal, or cervical injury\n**Tissue:** Retained placenta or retained products\n**Thrombin:** Coagulopathy or anticoagulation-related bleeding",
       "sortOrder": 1
     },
     {
       "id": "skill-pph-management",
       "type": "management_advanced",
       "title": "Management",
-      "content": "**Uterine atony (most common):**\n\n1. Bimanual uterine massage: one hand on fundus abdominally; other hand internally (hospital only) - or external massage only prehospital\n\n2. Encourage breastfeeding (stimulates oxytocin release)\n\n3. Administer oxytocin per protocol (IM or slow IV infusion)\n\n4. IV access (large bore ×2); fluid resuscitation with Hartmann's\n\n5. Administer tranexamic acid if blood loss > 500 mL or coagulopathy suspected\n\n6. Elevate legs; keep warm\n\n7. Rapid transport - PPH is an emergency\n\n**Retained placenta:**\n- Do not pull on cord\n- Transport for manual removal under anaesthesia",
+      "content": "1. Recognise PPH early, call for help, and treat it as an obstetric emergency\n\n2. Massage the uterine fundus externally if uterine atony is suspected and this is within training and protocol\n\n3. Administer oxytocics and tranexamic acid according to scope and protocol where indicated\n\n4. Obtain vascular access, support perfusion, keep the mother warm, and prepare for rapid transport or retrieval\n\n5. Reassess continuously for bleeding rate, uterine tone, perfusion, and consciousness\n\n**Retained placenta:**\n- Do not pull forcibly on the cord in the prehospital setting",
       "sortOrder": 2
     },
     {
       "id": "skill-pph-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Estimate blood loss: weigh pads if possible; pool of blood on surface ≈ 500 mL\n- Oxytocin: give IM (10 IU) if IV not available\n- Uterine atony: fundus should be firm at or below umbilicus after delivery; if soft and high: atony\n- Always reassess mother and neonate simultaneously\n- Document: estimated blood loss, oxytocin given, time, haemodynamic status",
+      "content": "- The mother can deteriorate before blood loss looks dramatic, so use physiology as well as estimated volume\n- A soft boggy uterus strongly suggests atony, but trauma and retained tissue must still be considered\n- Continue caring for the neonate, but maternal resuscitation and transport may become the dominant priority\n- Document estimated blood loss, medications given, uterine findings, and haemodynamic response",
       "sortOrder": 3
     }
   ],
@@ -61,6 +61,6 @@
     "batt-score"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
