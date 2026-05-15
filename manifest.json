@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-15T13:02:42Z",
+  "lastUpdated": "2026-05-15T13:11:54Z",
   "files": {
     "guidelines/abdominal-pain": 4,
     "guidelines/abdominal-trauma": 3,
@@ -166,7 +166,7 @@
     "guidelines/spinal-trauma-cord-injury": 3,
     "guidelines/stroke-tia": 3,
     "guidelines/suspected-abuse": 1,
-    "guidelines/syncope": 3,
+    "guidelines/syncope": 4,
     "guidelines/termination-of-resuscitation": 3,
     "guidelines/ticks": 3,
     "guidelines/toxic-inhalations": 1,
