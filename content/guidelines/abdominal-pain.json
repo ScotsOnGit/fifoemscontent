@@ -29,21 +29,21 @@
       "id": "abdominal-pain-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Cardiac ischaemia can mimic gastro-oesophageal or upper abdominal pain. Maintain a low threshold for 12 lead ECG in epigastric or upper abdominal pain, especially in older patients or those with cardiac risk factors\n- The presence of normal vital signs does not preclude serious abdominal disease\n- AAA may masquerade as renal colic or back pain, especially in older patients\n\n- Red flags requiring immediate attention\n- Haemodynamic instability\n- Rigid abdomen or peritonism\n- Severe sudden-onset pain\n- Gastrointestinal bleeding\n- Persistent vomiting or signs of bowel obstruction\n- Positive pregnancy test with abdominal pain\n- Known AAA with abdominal or back pain",
+      "content": "- Cardiac ischaemia can mimic gastro-oesophageal or upper abdominal pain. Maintain a low threshold for 12 lead ECG in epigastric or upper abdominal pain, especially in older patients or those with cardiac risk factors\n- The presence of normal vital signs does not preclude serious abdominal disease\n- AAA may masquerade as renal colic or back pain, especially in older patients\n- Red flags requiring urgent escalation include haemodynamic instability, rigid abdomen or peritonism, severe sudden-onset pain, gastrointestinal bleeding, persistent vomiting or obstruction, positive pregnancy test with abdominal pain, or known AAA with abdominal or back pain",
       "sortOrder": 2
     },
     {
       "id": "abdominal-pain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital signs\n- Keep patient at rest and allow a position of comfort\n- Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Consider simple analgesia if appropriate\n- Urinalysis and pregnancy test where appropriate",
+      "content": "- Primary Survey\n- Perform repeated vital signs\n- Keep the patient at rest and allow a position of comfort\n- Perform Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Consider simple analgesia if appropriate\n- Perform urinalysis and pregnancy testing where appropriate and available",
       "sortOrder": 3
     },
     {
       "id": "abdominal-pain-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider fluid resuscitation if indicated\n- Consider appropriate analgesia\n- 12 lead ECG where indicated",
+      "content": "- Consider IV access\n- Consider fluid resuscitation if indicated, especially if shock, dehydration, or significant bleeding is suspected\n- Consider appropriate analgesia\n- Obtain a 12 lead ECG where indicated",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

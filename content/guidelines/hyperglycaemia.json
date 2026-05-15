@@ -29,21 +29,21 @@
       "id": "hyperglycaemia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- HHS is more common in older patients with type 2 diabetes and carries high mortality\n- DKA classically occurs in type 1 diabetes but can also occur in type 2 diabetes, including euglycaemic DKA with SGLT2 inhibitors\n- Newly diagnosed diabetes, inability to tolerate fluids, moderate to severe dehydration, pregnancy, or suspected intercurrent illness all require hospital review",
+      "content": "- HHS is more common in older patients with type 2 diabetes and carries high mortality\n- DKA classically occurs in type 1 diabetes but can also occur in type 2 diabetes, including euglycaemic DKA with SGLT2 inhibitors\n- Newly diagnosed diabetes, inability to tolerate fluids, moderate to severe dehydration, pregnancy, or suspected intercurrent illness all require hospital review\n- Abdominal pain, vomiting, altered mental state, marked dehydration, or Kussmaul breathing should increase concern for DKA or HHS",
       "sortOrder": 2
     },
     {
       "id": "hyperglycaemia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position patient to maintain airway if indicated\n- Consider Oxygen\n- Vital Sign Survey with regular monitoring of BGL and clinical state\n- Monitor closely BGL, GCS, SpO2, and ketones where available\n- Assess hydration where appropriate\n- Maintain a low threshold for consulting the on-call doctor",
+      "content": "- Primary Survey\n- Position the patient to maintain the airway if indicated\n- Give oxygen if clinically indicated\n- Perform repeated vital signs with regular monitoring of BGL and clinical state\n- Monitor BGL, GCS, SpO2, and ketones where available\n- Assess hydration where appropriate\n- Maintain a low threshold for consulting the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "hyperglycaemia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- 12 lead ECG\n- Establish vascular access\n- Consider cautious IV fluid replacement where dehydration is present, with ongoing reassessment and senior review\n- Insulin therapy for DKA or HHS should be hospital-led or specifically doctor-directed; do not make routine field insulin administration part of standard prehospital hyperglycaemia care",
+      "content": "- Obtain a 12 lead ECG\n- Establish vascular access\n- Consider cautious IV fluid replacement where dehydration is present, with ongoing reassessment and senior review\n- Insulin therapy for DKA or HHS should be hospital-led or specifically doctor-directed; do not make routine field insulin administration part of standard prehospital hyperglycaemia care",
       "sortOrder": 4
     },
     {
@@ -57,8 +57,8 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "poc-chem8plus",
     "poc-cg8plus",

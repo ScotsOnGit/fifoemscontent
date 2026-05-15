@@ -29,7 +29,7 @@
       "id": "hypoglycaemia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Relative hypoglycaemia can occur in patients with chronically elevated glucose who develop symptoms at a higher BGL\n- Patients with diabetes presenting with altered mental status should be presumed hypoglycaemic until proven otherwise\n- Patients taking acarbose should be treated with pure glucose rather than sucrose-containing foods if oral therapy is used\n- Glucagon may be less effective when glycogen stores are depleted\n- Rebound or recurrent hypoglycaemia may occur, especially after insulin overdose",
+      "content": "- Relative hypoglycaemia can occur in patients with chronically elevated glucose who develop symptoms at a higher BGL\n- Patients with diabetes presenting with altered mental status should be presumed hypoglycaemic until proven otherwise\n- Patients taking acarbose should be treated with pure glucose rather than sucrose-containing foods if oral therapy is used\n- Glucagon may be less effective when glycogen stores are depleted\n- Rebound or recurrent hypoglycaemia may occur, especially after insulin overdose, sulfonylurea exposure, or poor oral intake",
       "sortOrder": 2
     },
     {
@@ -43,7 +43,7 @@
       "id": "hypoglycaemia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Obtain IV access if achievable\n- Confirm IV patency before glucose administration\n- Administer intravenous glucose, preferably 10% dextrose where available, titrating the dose to clinical effect\n- Reassess GCS and BGL after 10 minutes\n- If BGL remains low or symptoms persist, repeat treatment and seek senior advice\n- Consider benzodiazepines if seizing\n- Consider cardiac monitoring",
+      "content": "- Obtain IV access if achievable\n- Confirm IV patency before glucose administration\n- Administer intravenous glucose, preferably 10% dextrose where available, titrating the dose to clinical effect\n- Reassess GCS and BGL after treatment\n- If BGL remains low or symptoms persist, repeat treatment and seek senior advice\n- Consider benzodiazepines if seizing\n- Consider cardiac monitoring",
       "sortOrder": 4
     },
     {
@@ -57,8 +57,8 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "poc-chem8plus",
     "poc-cg8plus",

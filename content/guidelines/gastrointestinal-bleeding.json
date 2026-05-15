@@ -29,21 +29,21 @@
       "id": "gastrointestinal-bleeding-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider liver disease, alcohol use, NSAID or anticoagulant exposure, ulcer history, prior variceal bleeding, and recent GI procedures\n- All suspected upper GI bleeds require hospital assessment even if bleeding is not active at the time of review\n- Some smaller hospitals may not be definitive receiving centres for significant UGIB",
+      "content": "- Consider liver disease, alcohol use, NSAID or anticoagulant exposure, ulcer history, prior variceal bleeding, and recent GI procedures\n- All suspected upper GI bleeds require hospital assessment even if bleeding is not active at the time of review\n- Some smaller hospitals may not be definitive receiving centres for significant upper GI bleeding\n- Aspiration risk, shock, and recurrent haematemesis should drive early escalation and transfer priority",
       "sortOrder": 2
     },
     {
       "id": "gastrointestinal-bleeding-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Monitor vital signs frequently\n- Have a low threshold for calling the on-call doctor\n- Position for airway protection and comfort; in active haematemesis or reduced conscious state, lateral positioning may be safer than upright positioning\n- Secondary Survey",
+      "content": "- Primary Survey\n- Monitor vital signs frequently\n- Have a low threshold for calling the on-call doctor\n- Position for airway protection and comfort; in active haematemesis or reduced conscious state, lateral positioning may be safer than upright positioning\n- Keep the patient nil by mouth\n- Perform Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "gastrointestinal-bleeding-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Gain large bore IV access\n- Consider fluids if necessary, titrated to perfusion rather than aggressive normalisation of blood pressure\n- Consider antiemetic\n- Consider analgesia\n- Consider antibiotics only in consultation with on-call doctor, particularly if variceal bleeding is suspected\n- Consider PPI administration in consultation with on-call doctor\n- Apply ECG",
+      "content": "- Gain large-bore IV access\n- Consider fluids if necessary, titrated to perfusion rather than aggressive normalisation of blood pressure\n- Consider antiemetic\n- Consider analgesia if required\n- Consider antibiotics only in consultation with the on-call doctor, particularly if variceal bleeding is suspected\n- Consider PPI administration in consultation with the on-call doctor\n- Apply ECG monitoring",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
