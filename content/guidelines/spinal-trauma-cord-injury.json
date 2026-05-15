@@ -30,21 +30,21 @@
       "id": "spinal-trauma-cord-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to restrict spinal motion even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life-threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- In immersion incidents, suspect spinal injury particularly after diving into shallow water, dumping surf, rocks, or aquatic craft incidents, but do not delay rescue or airway management for spinal precautions alone\n- Paramedics can safely apply the NEXUS criteria and transport some patients without full spinal immobilisation, but caution is advised in older patients and when assessment is unreliable\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due to the remote working environment",
+      "content": "- This guideline does not replace clinical judgement; there may be reasons to restrict spinal motion even when the probability of injury seems low\n- Patients with spinal injury may also have haemorrhage, traumatic brain injury, or shock\n- Do not delay rescue or airway management for spinal precautions alone\n- NEXUS and S.P.E.E.D are adjuncts and should be used cautiously when assessment is unreliable",
       "sortOrder": 2
     },
     {
       "id": "spinal-trauma-cord-injury-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Primary Survey with C-Spine considerations\n- Vital Signs\n- Secondary Survey\n- Assess for signs of spinal trauma, such as pain, tenderness, obvious deformity, or neurological changes, and consider NEXUS Criteria\n\n **- Implement spinal motion restriction if ANY of the following criteria are met:**\n  - SPEED tool score of ≤1 in any category, indicating a potential neurological deficit\n  - Glasgow Coma Scale (GCS) less than 15\n  - Presence of spinal pain, tenderness, or deformity\n  - Observable neurological deficits (numbness, weakness)\n  **- Significant traumatic mechanism, especially if accompanied by:**\n  - Influence of alcohol or drugs\n  - Distracting injuries\n  - Inability to effectively communicate\n - Limb lead ECG\n - Utilise vacuum mattress where indicated\n - Have a low threshold for calling the on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Ensure scene safety and perform the Primary Survey with spinal consideration where indicated\n- Record vital signs and complete focused secondary and neurological assessment\n- Apply spinal-motion restriction when pain, tenderness, neurological deficit, reduced consciousness, intoxication, distracting injury, or major mechanism makes injury likely\n- Use a vacuum mattress or other low-movement packaging where appropriate\n- Seek early senior consultation for neurological deficit, prolonged evacuation, or diagnostic uncertainty",
       "sortOrder": 3
     },
     {
       "id": "spinal-trauma-cord-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Gain IV access, 2 x large bore\n- Consider fluids if necessary\n- Administer antiemetic\n- Consider analgesia\n- Hypotensive and bradycardic; consider neurogenic shock\n  - Consideration of inotropic support in consultation with on-call doctor\n- Consider indwelling catheter (IDC) where trained and available",
+      "title": "Management \u2013 Advanced",
+      "content": "- Gain IV or IO access when clinically indicated\n- Consider fluids, analgesia, and antiemetic therapy within scope\n- If hypotension and bradycardia suggest neurogenic shock, treat under the shock pathway and consult early\n- Avoid unnecessary procedures that delay transport to definitive care",
       "sortOrder": 4
     },
     {
@@ -66,6 +66,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

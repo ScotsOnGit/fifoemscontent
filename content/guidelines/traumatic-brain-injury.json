@@ -30,21 +30,21 @@
       "id": "traumatic-brain-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Suggestive indicators of raised ICP and imminent brain herniation:\n  - Systolic hypertension / widening pulse pressure\n  - Bradycardia, abnormal respirations. i.e. “Cushing’s triad”\n - Hypoxia, hypotension, and hypothermia can worsen TBI outcomes\n - Hyperventilation should be avoided as it exacerbates cerebral ischaemia and can reduce venous return. It is generally used as a last resort where signs of impending cerebral herniation are evident\n - Exercise caution when considering Nasopharyngeal Airway during treatment of a patient with a suspected base of skull fracture\n - Patients receiving anti-coagulant and/or antiplatelet therapy will have an increased risk of haemorrhage\n- Excluding hypoglycaemia is essential\n- It is important to avoid raised ICP from impaired venous return. Ensure constricting tapes, ties and collars are loosened from around the neck and patient is positioned head up to 30° if possible\n- Do not use the 30° elevation in the hypovolaemic patient\n- Reassess airway, breathing, circulation, and neurological status frequently during delays or long transports",
+      "content": "- Hypoxia and hypotension worsen traumatic brain injury outcomes and should be aggressively avoided\n- Hyperventilation should be reserved for signs of impending herniation and is not routine care\n- Anticoagulant or antiplatelet therapy increases bleeding risk\n- Head-up positioning may help venous drainage, but do not compromise perfusion in hypovolaemia",
       "sortOrder": 2
     },
     {
       "id": "traumatic-brain-injury-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic bleeding\n- Primary Survey with c-spine consideration, avoid head tilt, utilise jaw thrust\n- Airway management/ventilatory support if required\n- Administer oxygen and ventilatory support as required to avoid hypoxemia; where advanced ventilation is used, target ETCO2 35-40 mmHg unless there are signs of impending cerebral herniation\n- Apply spinal precautions when mechanism or examination suggests spinal involvement\n- Secondary Survey\n- Position patient with 30° head elevation if condition permits to improve venous drainage\n- As much as is possible, prepare patient for rapid evacuation; prioritise safe, timely transport\n- Clinicians should have a very low threshold for calling on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Ensure scene safety and control catastrophic bleeding\n- Primary Survey with spinal consideration, using jaw thrust rather than head tilt when needed\n- Support airway and ventilation and administer oxygen to avoid hypoxaemia\n- Record glucose, pupils, GCS, and other vital signs early and repeat often\n- Apply spinal precautions when indicated and prioritise rapid evacuation\n- Use head elevation only when it does not worsen haemodynamic status",
       "sortOrder": 3
     },
     {
       "id": "traumatic-brain-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider advanced airway management, spinal precaution considerations\n- Establish vascular access, 2 x large bore\n- Consider fluids, avoid hypotension with judicious use of isotonic crystalloids if needed to maintain systolic blood pressure at or above 110 mmHg where feasible\n- Use IV Glucose 10% as required to maintain blood glucose level >4mmol/L\n- Apply cardiac monitoring\n- Consider Tranexamic Acid in eligible patients within 2 hours of injury\n- Consider pain relief\n- Consider Ondansetron\n- Consider Midazolam\n- Consider Ketamine for patients exhibiting combative TBI (if in scope)\n- Consider 12 lead (cranial ECG changes are a late sign)",
+      "title": "Management \u2013 Advanced",
+      "content": "- Consider advanced airway management if ventilation or airway protection is failing\n- Establish IV or IO access and avoid hypotension with judicious isotonic fluid use\n- Treat hypoglycaemia if present and apply cardiac monitoring\n- Consider tranexamic acid in eligible patients within the protocol time window\n- Provide analgesia, antiemetic therapy, and sedation within scope while avoiding deterioration in ventilation or perfusion",
       "sortOrder": 4
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score"
   ]

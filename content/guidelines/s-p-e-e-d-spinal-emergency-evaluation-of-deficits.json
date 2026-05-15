@@ -11,7 +11,7 @@
     "injury"
   ],
   "synonyms": [
-    "S.P.E.E.D – Spinal Emergency Evaluation of Deficits"
+    "S.P.E.E.D \u2013 Spinal Emergency Evaluation of Deficits"
   ],
   "sections": [
     {
@@ -28,6 +28,6 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

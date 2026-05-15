@@ -39,14 +39,14 @@
       "id": "drug-induced-hyperthermia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Vital Sign Survey with continuous pulse oximetry\n- Remove excess clothing and start active cooling immediately with water spray, fanning, and ice packs to the neck, axillae, and groin\n- Consider cool oral fluids only if tolerated and there is no aspiration risk\n- Have a low threshold for consulting with on-call doctor",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Administer oxygen if indicated\n- Record vital signs with continuous pulse oximetry and temperature reassessment\n- Remove excess clothing and start active cooling immediately with water spray, fanning, and ice packs to the neck, axillae, and groin\n- Consider cool oral fluids only if tolerated and there is no aspiration risk\n- Have a low threshold for consulting with the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "drug-induced-hyperthermia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway where required\n- Consider IPPV if required\n- Apply cardiac monitor, 12 LEAD ECG, and continuous monitoring\n- Gain IV access\n- Consider cooled IV fluids where practicable\n- Consider midazolam in consultation with the on-call doctor for agitation, seizures, or muscle overactivity that is worsening hyperthermia",
+      "content": "- Consider advanced airway where required\n- Provide assisted ventilation if required\n- Apply cardiac monitoring, 12 lead ECG, and continuous monitoring\n- Gain IV access\n- Consider cooled IV fluids where practicable\n- Consider midazolam in consultation with the on-call doctor for agitation, seizures, or muscle overactivity that is worsening hyperthermia\n- Escalate early for rigidity, severe agitation, seizures, or rapidly rising temperature",
       "sortOrder": 4
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "heat-stress"

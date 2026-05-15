@@ -19,11 +19,32 @@
       "title": "Overview",
       "content": "The Richmond Agitation-Sedation Scale (RASS) is a 10-point observational scale ranging from +4 (combative) to -5 (unarousable). It helps describe agitation or sedation severity and can support monitoring, documentation, and reassessment, but it does not by itself determine whether sedation is required.",
       "sortOrder": 0
+    },
+    {
+      "id": "richmond-agitation-sedation-scale-rass-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- RASS is a descriptive tool, not a stand-alone treatment trigger\n- Sedation decisions remain based on clinical judgement, immediate risk to the patient or others, and local scope or protocol\n- Reassess and document the score before and after any de-escalation, restraint, sedation, or deterioration in conscious state",
+      "sortOrder": 1
+    },
+    {
+      "id": "richmond-agitation-sedation-scale-rass-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Use RASS to describe agitation or sedation severity when behavioural disturbance or reduced conscious state is present\n- Document the score alongside the clinical context, observed risks, and other assessment findings\n- Do not delay safety measures, de-escalation, or urgent transport while trying to complete the tool perfectly",
+      "sortOrder": 2
+    },
+    {
+      "id": "richmond-agitation-sedation-scale-rass-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- Use serial RASS scoring to monitor response to sedation, restraint release, deterioration, or recovery\n- Combine RASS with airway, respiratory, circulatory, and temperature assessment rather than relying on it in isolation\n- Manage the patient under the relevant behavioural disturbance, intoxication, or unconsciousness guideline rather than as a stand-alone pathway",
+      "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

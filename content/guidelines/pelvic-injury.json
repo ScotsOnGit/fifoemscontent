@@ -29,21 +29,21 @@
       "id": "pelvic-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Any patient with hypotension and relevant mechanism of injury should be considered to have a time-critical pelvic injury until proven otherwise\n- Haemorrhage from pelvic fracture is essentially bleeding into a free space, potentially capable of accommodating the patient's entire blood volume without gaining sufficient pressure-dependent tamponade\n- High-energy mechanisms such as motor vehicle crashes or a fall from a height are major risk factors\n- Delayed recognition: subtle signs may be missed, and clinical examination is unreliable. If mechanism and presentation are suggestive, err on the side of early binder application rather than repeated examination\n- Unnecessary movement and log rolling must be avoided where possible with less than a 15 degree tilt if required\n- Use of the scoop stretcher is recommended to avoid log rolling\n- Abdominal, chest, femur, or head trauma are common with high-energy mechanisms\n- Where concurrent femur fracture is suspected prioritise pelvis treatment\n- Pelvic binders should be applied directly to skin, or over only very light clothing/underwear where necessary\n- Ensure correct position over the greater trochanters prior to tension\n- Pelvic binders are often over-tensioned. Be cautious not to reduce the pelvis beyond its normal anatomical position\n- Prolonged tension can induce pressure necrosis\n- Pelvic springing must not be performed; repeated movement or palpation increases bleeding risk",
+      "content": "- Any shocked patient with a relevant mechanism should be treated as having a possible time-critical pelvic injury until proven otherwise\n- Pelvic examination is unreliable and repeated springing increases bleeding risk\n- Early correctly positioned binder application is safer than repeated examination when suspicion is high\n- Avoid unnecessary movement and log rolling where possible",
       "sortOrder": 2
     },
     {
       "id": "pelvic-injury-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Ensure scene safety, responder safety is paramount\n- Manage catastrophic external haemorrhaging, consider pelvic injury as possible catastrophic bleed\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- If possible, expose and inspect for bruising, deformity, or bleeding, but limit further assessment if unstable\n- Utilise pelvic binder\n- Secondary / CNS Survey\n- Consider methoxyflurane\n- Consider sublingual antiemetic (Ondansetron Wafer 4mg)\n- Apply limb LEAD ECG\n- Have a low threshold for calling on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Ensure scene safety and manage catastrophic haemorrhage\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation if required\n- Apply a pelvic binder early over the greater trochanters when indicated\n- Limit movement, record vital signs, and complete focused secondary survey\n- Provide simple or inhaled analgesia within scope and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "pelvic-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider advanced airway management as required\n- Gain IV (2 x large bore)/ IO access\n- Consider Tranexamic Acid\n- Consider IV fluids\n- Consider further pain relief (Fentanyl, Morphine, Ketamine)\n- Consider IV antiemetic (Ondansetron 4mg/2ml)",
+      "title": "Management \u2013 Advanced",
+      "content": "- Gain IV or IO access when clinically indicated\n- Consider tranexamic acid for significant traumatic bleeding within the appropriate time window\n- Use IV fluids cautiously and provide further analgesia and antiemetic therapy within scope\n- Escalate early for shock, prolonged transport, or multisystem trauma",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "batt-score",

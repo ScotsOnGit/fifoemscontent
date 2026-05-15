@@ -29,27 +29,27 @@
       "id": "amputation-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Ensure scene safety. Responder safety is paramount\n- If entrapped, activate backup early, including RFDS\n- If entrapped for extended period with crushing force, be mindful of crush syndrome and reperfusion injuries on release\n- Rapid Assessment: Time-critical, focus on airway, breathing, circulation (ABC), and catastrophic haemorrhage control\n- Pain Management: Severed nerves are exquisitely painful, multi-modal analgesia is essential, including psychological support\n- Preservation of amputated part: If possible, recover and preserve the amputated limb for possible replantation\n- Always treat an amputated part as if it may be reimplanted. It may at least be useful for achieving skin coverage of a wound\n- Reimplantation is less likely to be successful if warm ischemia time exceeds 6 hours\n- Psychological Impact: Amputations are distressing; communicate clearly and compassionately with patient, friends, colleagues",
+      "content": "- Time-critical priorities are catastrophic haemorrhage control, analgesia, and rapid transport\n- Entrapment or prolonged crush force raises concern for crush syndrome and reperfusion injury on release\n- Retrieve and preserve the amputated part whenever safe and practical\n- Treat the amputated part as potentially reimplantable and avoid direct contact with ice\n- Amputations are highly distressing; communicate clearly and compassionately",
       "sortOrder": 2
     },
     {
       "id": "amputation-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Haemorrhage control. Stop any catastrophic bleeding, e.g. proximal tourniquet, direct pressure\n- Persistent reassurance\n- Consider c-spine\n- Vital Signs\n- Multimodal pain relief approach where practicable, including positioning for comfort where practicable\n- Try and maintain patient warmth, consider trauma triad\n- Gently irrigate (saline) and dress exposed area (stump) with sterile dressings\n- Reassess frequently, monitor for haemorrhagic shock\n- Secondary Survey\n- Retrieve amputated part where possible, wrap in sterile moist gauze, place in a sealed bag, then place that bag in another bag or container with cool substance. Do not allow direct contact with ice",
+      "title": "Management \u2013 Primary",
+      "content": "- Control catastrophic haemorrhage with tourniquet and direct pressure as required\n- Record vital signs and monitor closely for haemorrhagic shock\n- Provide reassurance, warmth, and positioning for comfort where possible\n- Gently dress the stump with sterile dressings\n- Retrieve the amputated part, wrap it in sterile moist gauze, place it in a sealed bag, then place that bag in a second container with a cool substance\n- Expedite transport and early consultation for retrieval or surgical destination planning",
       "sortOrder": 3
     },
     {
       "id": "amputation-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Establish vascular access\n- Consider IV fluids\n- Consider IV pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic (Ondansetron, Metoclopramide)\n- Consider IV antibiotics and tetanus prophylaxis in line with local protocol and senior advice",
+      "title": "Management \u2013 Advanced",
+      "content": "- Establish IV or IO access\n- Consider IV fluids for shock or major blood loss\n- Provide IV analgesia and antiemetic therapy within scope\n- Consider antibiotics and tetanus advice in line with local protocol and senior direction\n- Escalate early if crush injury, prolonged extrication, or significant contamination is present",
       "sortOrder": 4
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

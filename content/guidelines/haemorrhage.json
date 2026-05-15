@@ -29,21 +29,21 @@
       "id": "haemorrhage-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Catastrophic haemorrhage refers to severe, life-threatening bleeding that can be fatal within minutes if not rapidly controlled by immediate intervention\n- In the majority of cases, direct pressure will be sufficient to control external bleeding\n- Tourniquets are indicated for life-threatening limb bleeding that is not controlled by direct pressure, or when direct pressure is impractical or unsafe\n- In adult patients with traumatic haemorrhage (without traumatic brain injury), permissive hypotension typically aims for a systolic blood pressure of 80-90 mmHg\n- In adult patients with traumatic brain injury, a systolic blood pressure of at least 110 mmHg should be targeted\n- In adults, hypotension is often defined as a systolic blood pressure below 90 mmHg, or a decrease greater than 30% from the patient's baseline level\n- Monitor for the triad of death: hypothermia, acidosis, and coagulopathy\n- Older patients can have a blunted physiological response, and younger patients can have strong compensatory reflexes\n- Decompensating patients might present with bradycardia, which is a late preterminal sign\n- Vagal response to trauma: in some patients blood loss can trigger a cardiac reflex and vagal stimulation, causing hypotension and bradycardia. Pain from injuries and procedures can also trigger a vagal response\n- Some medications, e.g. beta-blockers and calcium channel blockers, can prevent a tachycardic response to blood loss",
+      "content": "- Catastrophic haemorrhage can be fatal within minutes and must be controlled immediately\n- Direct pressure controls most external bleeding, but tourniquets are indicated for life-threatening limb haemorrhage when direct pressure is ineffective or impractical\n- In traumatic haemorrhage without TBI, permissive hypotension may be appropriate; in TBI, avoid hypotension\n- Watch for the triad of death: hypothermia, acidosis, and coagulopathy",
       "sortOrder": 2
     },
     {
       "id": "haemorrhage-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Address any catastrophic haemorrhage, arresting external haemorrhage by:\n   - Direct pressure\n   - Limbs: CAT Tourniquet for catastrophic or uncontrolled limb bleeding, document application time, reassess frequently\n   - For junctional (groin, axilla, neck) bleeding, use wound packing with haemostatic dressings and direct pressure\n- Primary Survey with c-spine consideration\n - Airway management/ventilatory support as required\n - Consider Oxygen if required\n - Consider posture based on airway, breathing, and injuries\n - Haemostatic dressing, Israeli bandage\n - Consider wound packing\n - Consider pelvic binder and/or splinting\n - Keep patient warm\n - Secondary / CNS Survey\n - Minimise on scene time\n - Clinicians should have a low threshold for calling the on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Control catastrophic haemorrhage immediately with direct pressure, wound packing, haemostatic dressings, or tourniquet as appropriate\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation and administer oxygen if required\n- Use pelvic binders or splints where indicated and keep the patient warm\n- Minimise on-scene time and complete focused secondary survey\n- Seek early senior support for major haemorrhage or prolonged transport",
       "sortOrder": 3
     },
     {
       "id": "haemorrhage-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Establish vascular access, 2 x large bore (14g or 16g) cannula\n - The following patients may benefit from fluid therapy:\n   - Adult patients with blunt trauma and/or isolated head injury with hypotension and signs of impaired organ perfusion\n   - Adult patients with penetrating trauma plus hypotension and signs of impaired organ perfusion, with cautious use of permissive hypotension where appropriate\n - Consider Tranexamic Acid if within time frame (no later than 3 hours post injury) and significant traumatic bleeding is suspected\n - Consider analgesia\n - Consider antiemetic",
+      "title": "Management \u2013 Advanced",
+      "content": "- Establish IV or IO access when clinically indicated\n- Use fluid therapy cautiously and target perfusion rather than normalising blood pressure when permissive hypotension is appropriate\n- Consider tranexamic acid within 3 hours of injury when significant traumatic bleeding is suspected\n- Provide analgesia and antiemetic therapy within scope\n- Reassess haemorrhage control repeatedly during transport",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "batt-score",

@@ -22,28 +22,28 @@
       "id": "crush-injury-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Compartment syndrome is characterised by:**\n   - Palpable tension of swelling of an anatomical compartment\n   - Pain disproportionate to the injury\n   - Pain on passive stretching of muscles within the anatomical compartment\n   - Paraesthesia of skin and paresis of muscles supplied by nerves traversing the compartment\n   - Pallor of skin over the compartment\n   - Pulses diminishing as the condition develops is common, but normal peripheral pulses and capillary refill is not uncommon\n\n**Crush syndrome is characterised by:**\n   - Compartment syndrome\n   - Haemodynamic instability\n   - Reperfusion injuries leading to:\n   - Lactic acidosis and hyperkalaemia\n   - Dysrhythmias\n   - Myoglobinuria (dark “tea” coloured urine) leading to renal failure\n   - Shock\n   - Hypothermia",
+      "content": "**Compartment syndrome is characterised by:**\n   - Palpable tension of swelling of an anatomical compartment\n   - Pain disproportionate to the injury\n   - Pain on passive stretching of muscles within the anatomical compartment\n   - Paraesthesia of skin and paresis of muscles supplied by nerves traversing the compartment\n   - Pallor of skin over the compartment\n   - Pulses diminishing as the condition develops is common, but normal peripheral pulses and capillary refill is not uncommon\n\n**Crush syndrome is characterised by:**\n   - Compartment syndrome\n   - Haemodynamic instability\n   - Reperfusion injuries leading to:\n   - Lactic acidosis and hyperkalaemia\n   - Dysrhythmias\n   - Myoglobinuria (dark \u201ctea\u201d coloured urine) leading to renal failure\n   - Shock\n   - Hypothermia",
       "sortOrder": 1
     },
     {
       "id": "crush-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- A duration of compression >1 hour significantly increases risk of crush syndrome\n- Larger muscle groups (thigh, pelvis) carry higher risk\n- High-energy trauma (building collapse, industrial/farm accidents, vehicle entrapment), or prolonged immobilization (unconscious patients)\n - Crush injury should be suspected whenever there is a crushing force. A crush injury should be suspected whenever a part of the body is crushed or compressed or when you are unable to fully see or examine a part of the body\n- Prolonged ischaemic and muscular damage = rhabdomyolysis and reperfusion injury on release\n- Limbs that present initially numb with a peripheral pulse can lead to rapid swelling with compartment syndrome\n- Anticipate hypovolaemic shock post removal of crushing force\n- Chest involvement requires immediate removal of crushing force\n- Hypothermia is a potential risk for patients suffering crush injuries\n- There is insufficient evidence to recommend the routine use of a tourniquet prior to the release of a crushing force to delay the onset of reperfusion injury. The application of a tourniquet is recommended where there is life-threatening bleeding from a limb before or immediately following the removal of the crushing force. Bleeding may be significant following the release of a crushing force\n- Compartment syndrome is a surgical emergency. If not diagnosed quickly and treated appropriately it is associated with a high morbidity\n- Complications: Acute kidney injury, hyperkalaemia, hypovolemia, sepsis, compartment syndrome, arrhythmias, death",
+      "content": "- Prolonged compression, large muscle groups, and delayed release increase the risk of crush syndrome, hyperkalaemia, shock, and acute kidney injury\n- Be prepared for deterioration immediately after release of the crushing force\n- Compartment syndrome is a surgical emergency\n- Tourniquets are for life-threatening bleeding, not routine prevention of reperfusion injury",
       "sortOrder": 2
     },
     {
       "id": "crush-injury-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Ensure scene safety. Responder safety is paramount\n- Persistent reassurance\n- Manage catastrophic bleeding/prepare for bleeding with a tourniquet\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Vital signs\n- Apply limb lead ECG\n- Secondary / CNS Survey, monitor for tense swollen limb with pain out of proportion\n- Manage temperature\n- Position the patient for comfort while minimising further tissue injury\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Ensure scene safety and request additional rescue resources early\n- Control catastrophic bleeding and be prepared for major bleeding on release\n- Primary Survey with c-spine consideration where indicated\n- Administer oxygen if indicated and record vital signs and rhythm\n- Minimise further tissue injury, manage temperature, and monitor for tense swollen compartments and pain out of proportion\n- Seek early senior consultation before release when prolonged entrapment is present",
       "sortOrder": 3
     },
     {
       "id": "crush-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider advanced airway if indicated\n- Gain IV access, 2 x large bore where possible\n- If compression >1 hour, commence IV fluids before release of the trapped part where feasible to reduce the impact of reperfusion injury\n- Manage and prevent hypotension with IV fluids\n   - Early fluids are important in reducing the risk of acute kidney injury, but reassessment is essential\n- Administer pain relief\n- Consider antiemetic\n- Anticipate reperfusion injuries:\n   - Hyperkalaemia (manage as per that guideline), dysrhythmia, shock",
+      "title": "Management \u2013 Advanced",
+      "content": "- Gain IV or IO access, ideally before release if compression has been prolonged\n- Begin IV fluids early when clinically indicated to reduce the impact of reperfusion injury\n- Provide analgesia and antiemetic therapy within scope\n- Monitor closely for hyperkalaemia, dysrhythmia, shock, and compartment syndrome\n- Treat hyperkalaemia under the relevant guideline if it develops",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "revised-trauma-score",

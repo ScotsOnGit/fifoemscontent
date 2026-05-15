@@ -24,7 +24,7 @@
       "id": "traumatic-resus-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Assume a reversible cause until proven otherwise\n- Chest compressions alone will not correct exsanguination, tension physiology, or obstructed ventilation\n- Interventions should be directed at likely traumatic causes of arrest such as haemorrhage, hypoxia, tension pneumothorax, or tamponade\n- Follow the current traumatic resuscitation algorithm used by your service for sequencing of interventions",
+      "content": "- Assume a reversible cause until proven otherwise\n- Chest compressions alone will not correct exsanguination, tension physiology, or obstructed ventilation\n- Interventions should be directed at likely traumatic causes of arrest such as haemorrhage, hypoxia, tension pneumothorax, or tamponade\n- Follow the current traumatic resuscitation algorithm used by your service for sequencing of interventions\n- Address catastrophic haemorrhage, oxygenation, and thoracic decompression priorities early rather than defaulting to a medical-arrest approach",
       "sortOrder": 1
     },
     {
@@ -56,6 +56,6 @@
     "pelvic-injury"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

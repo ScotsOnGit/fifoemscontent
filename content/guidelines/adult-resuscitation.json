@@ -32,7 +32,7 @@
       "id": "adult-resuscitation-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Responder safety comes first\n- High-quality CPR and defibrillation remain the core priorities\n- Advanced interventions must not create unnecessary interruptions in compressions\n- Pulse checks are only appropriate when an organised rhythm is present or when there are signs of ROSC\n- Team leadership, role allocation, and clear communication improve resuscitation quality",
+      "content": "- Responder safety comes first\n- High-quality CPR and defibrillation remain the core priorities\n- Advanced interventions must not create unnecessary interruptions in compressions\n- Pulse checks are only appropriate when an organised rhythm is present or when there are signs of ROSC\n- Team leadership, role allocation, and clear communication improve resuscitation quality\n- Follow the current ANZCOR adult ALS algorithm for compression rate, shock sequencing, medications, and reversible-cause management",
       "sortOrder": 2
     },
     {
@@ -66,6 +66,6 @@
     "termination-of-resuscitation"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

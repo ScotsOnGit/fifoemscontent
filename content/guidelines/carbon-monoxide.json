@@ -38,14 +38,14 @@
       "id": "carbon-monoxide-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey with responder safety prioritised\n- Remove the patient from the hazardous atmosphere as soon as it is safe to do so\n- Administer high-concentration oxygen via non-rebreather mask as soon as possible\n- Manage airway if required\n- Vital Sign Survey\n- Secondary Survey",
+      "content": "- Primary Survey with responder safety prioritised\n- Remove the patient from the hazardous atmosphere as soon as it is safe to do so\n- Administer high-concentration oxygen via non-rebreather mask as soon as possible\n- Manage airway if required\n- Record vital signs and remember standard pulse oximetry may appear falsely reassuring\n- Consider multiple-patient exposure, scene source control, and need for wider notification\n- Complete focused secondary survey and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "carbon-monoxide-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway if required\n- 12 LEAD ECG\n- IV Access\n- Consider blood draw for i-STAT testing, including carboxyhaemoglobin where available, and troponin if cardiac symptoms are present\n- Consider anti-emetic\n- Transport all suspected significant exposures to hospital for definitive assessment",
+      "content": "- Consider advanced airway if required\n- Obtain 12 lead ECG\n- Gain IV access if clinically indicated\n- Consider blood testing, including carboxyhaemoglobin where available, and troponin if cardiac symptoms are present\n- Consider antiemetic therapy if required\n- Transport all suspected significant exposures to hospital for definitive assessment",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

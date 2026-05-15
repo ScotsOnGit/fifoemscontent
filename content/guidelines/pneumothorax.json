@@ -29,21 +29,21 @@
       "id": "pneumothorax-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Not all patients will require prehospital intervention, patients who are stable and oxygenating well may be managed with observation and oxygen en route\n- Decreased BP or cardiac output are not common in spontaneously breathing patients with tension pneumothorax, if this is detected hypovolaemia should be the primary\n- During positive pressure ventilation a higher flow of gas through the pleural defect takes place resulting in a more rapid increase in pleural cavity pressure and progression towards cardiorespiratory arrest\n- A higher suspicion for tension pneumothorax should be maintained in the ventilated trauma patient\n- The presence of a needle or chest tube does not mean the patient cannot re-develop a tension pneumothorax\n- Tension pneumothorax may also persist if there is an injury to the major airways or bronchial tree\n- Spontaneous pneumothorax in tall, thin males, such as those with Marfan Syndrome",
+      "content": "- Not all pneumothoraces require prehospital intervention; stable patients may be managed with oxygen and observation en route\n- Positive-pressure ventilation lowers the threshold for tension physiology\n- Recurrent or persistent tension can occur even after prior decompression\n- Consider traumatic and spontaneous causes in the right context",
       "sortOrder": 2
     },
     {
       "id": "pneumothorax-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Manage catastrophic bleeding if required\n- Primary Survey with c-spine consideration\n- Consider patient positioning, upright and comfortable or with unaffected side down\n- Airway management/ventilatory support if required\n- Oxygen therapy if required\n- If open pneumothorax, apply a vented chest seal\n- Secondary survey\n- Clinicians should have a low threshold for consultation with the on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Manage catastrophic bleeding if required\n- Primary Survey with c-spine consideration where indicated\n- Position for comfort where possible and support ventilation as required\n- Administer oxygen if required\n- For open pneumothorax, apply a vented chest seal and monitor closely for deterioration\n- Complete focused secondary survey and seek early senior consultation when the diagnosis is uncertain",
       "sortOrder": 3
     },
     {
       "id": "pneumothorax-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider analgesia (Fentanyl, Morphine, Ketamine)\n- Consider cardiac monitoring\n- Consider immediate thoracic decompression if tension pneumothorax is suspected in a patient with severe respiratory distress, worsening hypoxia, shock, or traumatic cardiac arrest\n- Needle thoracocentesis or finger thoracostomy should be performed only within local scope and protocol\n- Apply ECG",
+      "title": "Management \u2013 Advanced",
+      "content": "- Gain IV access if indicated\n- Provide analgesia and cardiac monitoring within scope\n- Perform immediate thoracic decompression only when tension pneumothorax is strongly suspected and this is within scope or protocol\n- Reassess after decompression because tension may recur or persist",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

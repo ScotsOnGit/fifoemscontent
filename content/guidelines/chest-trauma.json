@@ -29,21 +29,21 @@
       "id": "chest-trauma-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Do not delay transport for minor interventions if the patient is unstable. Definitive care is in hospital\n- Life-threatening injuries may not be initially apparent, and the mechanism of injury is important in guiding further management. Mechanism of injury can predict severity and associated injuries\n- Chest injuries may coexist with abdominal, head, or spinal injuries\n- Penetrating trauma increases risk for pneumothorax, hemothorax, cardiac tamponade, and major vessel injury\n- Penetrating injuries to the chest can cause rapid decompensation. Early recognition and intervention are critical\n- Lack of obvious fractures does not exclude injury\n- Injuries sustained depend on the mechanism\n- Chest pain in trauma can be due can be due to myocardial ischemia, but blunt trauma can precipitate ECG changes as seen in myocardial contusion\n - Adequate analgesia may improve ventilation by allowing improved chest wall expansion, but high dose of opioids may induce respiratory depression\n- Pain inhibits effective coughing, making it difficult for patients to clear airway secretions.\nRetained secretions further increase the risk of atelectasis (collapsed lung segments) and create an environment for bacterial growth. Analgesia is crucial for adequate ventilation and prevention of pneumonia. It is considered an essential component of chest trauma management and should be initiated as early as possible",
+      "content": "- Do not delay transport for minor interventions if the patient is unstable\n- Mechanism, respiratory effort, and evolving physiology are critical because life-threatening chest injuries may be occult early\n- Penetrating trauma raises concern for pneumothorax, haemothorax, tamponade, and major vessel injury\n- Adequate analgesia improves ventilation, but excessive opioid dosing may worsen respiratory compromise",
       "sortOrder": 2
     },
     {
       "id": "chest-trauma-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Ensure the scene is safe, responder safety is paramount\n- Control catastrophic haemorrhage\n- Primary Survey with c-spine consideration\n- Airway management/ventilatory support if required\n- Oxygen therapy if indicated\n- Immobilisation of impaled objects and positioning if required (do not remove object)\n- Manage open chest wounds with a vented chest seal where available, or a clean non-occlusive dressing, and monitor closely for deterioration\n- Secondary / CNS Survey\n- Clinicians should have a low threshold for calling the on-call doctor or RFDS",
+      "title": "Management \u2013 Primary",
+      "content": "- Ensure scene safety and control catastrophic haemorrhage\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation and administer oxygen if required\n- Leave impaled objects in place and stabilise them\n- Manage open chest wounds with a vented chest seal where available and monitor for deterioration\n- Complete focused secondary survey and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "chest-trauma-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider advanced airway if indicated\n- Gain 2 x large bore IV access\n- Consider fluids where indicated\n- Administer pain relief, (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Patients in cardiac arrest with suspected tension pneumothorax caused by trauma (with torso involvement) should receive thoracic decompression if trained to do so, in accordance with local scope and protocol\n- Arrested and non-arrested patients with signs of tension pneumothorax may require needle thoracostomy or finger thoracostomy if trained to do so and authorised by local protocol",
+      "title": "Management \u2013 Advanced",
+      "content": "- Consider advanced airway management if required\n- Gain IV or IO access\n- Consider cautious fluids only when indicated\n- Provide analgesia, antiemetic therapy, and cardiac monitoring within scope\n- Perform thoracic decompression only within local scope or protocol when tension pneumothorax is suspected\n- Escalate early for severe respiratory distress, shock, or traumatic cardiac arrest",
       "sortOrder": 4
     },
     {
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "mgap",

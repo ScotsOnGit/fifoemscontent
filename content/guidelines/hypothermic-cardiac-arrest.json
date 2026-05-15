@@ -23,7 +23,7 @@
       "id": "hypothermic-arrest-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Severe hypothermia can mimic death, so continue careful assessment and manage according to established hypothermia and cardiac arrest principles\n- Handle the patient gently and minimise unnecessary movement\n- Temperature measurement and rhythm interpretation should be integrated with the whole clinical picture\n- Refer to the current ANZCOR hypothermia guidance and your local hypothermic cardiac arrest algorithm for detailed management steps",
+      "content": "- Severe hypothermia can mimic death, so continue careful assessment and manage according to established hypothermia and cardiac arrest principles\n- Handle the patient gently and minimise unnecessary movement\n- Temperature measurement and rhythm interpretation should be integrated with the whole clinical picture\n- Refer to the current ANZCOR hypothermia guidance and your local hypothermic cardiac arrest algorithm for detailed management steps\n- Avoid declaring death in severe hypothermia until the clinical context and resuscitation pathway have been fully considered",
       "sortOrder": 1
     },
     {
@@ -54,6 +54,6 @@
     "adult-resuscitation"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

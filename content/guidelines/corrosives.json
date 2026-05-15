@@ -37,14 +37,14 @@
       "id": "corrosives-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance\n- Position patient appropriately\n- Consider Oxygen if indicated\n- IPPV if required\n- Remove contaminated clothing and constrictive jewellery\n- Consider Diphoterine if available and immediately accessible, but do not delay copious water irrigation\n- For dermal or ocular exposure, initiate irrigation immediately and continue during transport where required\n- For ingestion, do not induce vomiting; seek urgent medical advice and monitor closely for airway compromise\n- Vital Sign Survey\n- Secondary Survey\n- Have a low threshold for calling on-call doctor or Poisons Information",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance\n- Position the patient to protect the airway where needed\n- Administer oxygen only if indicated\n- Provide assisted ventilation if required\n- Remove contaminated clothing and constrictive jewellery\n- Consider Diphoterine if available and immediately accessible, but do not delay copious water irrigation\n- For dermal or ocular exposure, initiate irrigation immediately and continue during transport where required\n- For ingestion, do not induce vomiting and do not attempt neutralisation; monitor closely for airway compromise\n- Record vital signs, complete focused secondary survey, and contact Poisons Information or the on-call doctor early",
       "sortOrder": 3
     },
     {
       "id": "corrosives-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV access\n- Consider fluids if indicated\n- Consider antiemetics\n- Consider IV analgesia in consultation with on-call doctor\n- Consider calcium gluconate gel, solution, or nebuliser depending on the exposure route of hydrofluoric acid\n- Escalate early for stridor, dysphagia, chest symptoms, suspected perforation, or significant pain",
+      "content": "- Consider advanced airway if evolving upper-airway injury is suspected\n- Apply cardiac monitoring and obtain 12 lead ECG where indicated\n- Consider IV access\n- Consider fluids if indicated\n- Consider antiemetic therapy\n- Consider IV analgesia in consultation with the on-call doctor\n- Consider calcium gluconate gel, solution, or nebuliser depending on the exposure route of hydrofluoric acid\n- Escalate early for stridor, dysphagia, chest symptoms, suspected perforation, or significant pain",
       "sortOrder": 4
     },
     {
@@ -58,6 +58,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

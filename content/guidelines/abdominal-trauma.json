@@ -22,35 +22,35 @@
       "id": "abdominal-trauma-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- History: Blunt trauma (e.g., motor vehicle collision, fall, assault) or penetrating trauma (e.g., stabbing, gunshot)\n- Visible injuries: Bruising (such as seat belt signs), abrasions, lacerations, open wounds, evisceration\n- Signs of shock: Tachycardia, hypotension, pallor, diaphoresis, cool peripheries, delayed capillary refill\n- Distension (swollen and firm, late sign), nausea/vomiting\n- Localised or diffuse abdominal pain/discomfort, guarding, rigidity, or tenderness on palpation\n- Referred pain: Shoulder tip pain, (Kehr’s sign – may indicate splenic injury)\n- Associated injuries such as pelvic fractures, chest injuries, long bone fractures",
+      "content": "- History: Blunt trauma (e.g., motor vehicle collision, fall, assault) or penetrating trauma (e.g., stabbing, gunshot)\n- Visible injuries: Bruising (such as seat belt signs), abrasions, lacerations, open wounds, evisceration\n- Signs of shock: Tachycardia, hypotension, pallor, diaphoresis, cool peripheries, delayed capillary refill\n- Distension (swollen and firm, late sign), nausea/vomiting\n- Localised or diffuse abdominal pain/discomfort, guarding, rigidity, or tenderness on palpation\n- Referred pain: Shoulder tip pain, (Kehr\u2019s sign \u2013 may indicate splenic injury)\n- Associated injuries such as pelvic fractures, chest injuries, long bone fractures",
       "sortOrder": 1
     },
     {
       "id": "abdominal-trauma-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Some presentations may only have unexplained shock as the only sign of abdominal trauma\n- Significant abdominal injuries may be present despite minimal external signs or an apparently trivial pattern of injury\n- If active hemorrhage is suspected and there is no traumatic brain injury, use cautious resuscitation aimed at preserving vital-organ perfusion rather than normalising blood pressure\n- Shoulder tip pain may be indicative of diaphragmatic irritation\n- Be mindful that upper abdominal wounds, especially penetrating trauma, may also cause major thoracic damage\n- Motor vehicle accidents: lap-belt injury increases suspicion for mesenteric or intestinal injury\n- Left upper quadrant pain or tenderness should raise suspicion for splenic injury and prompt urgent definitive assessment and imaging in hospital",
+      "content": "- Significant abdominal injuries may be present despite minimal external signs or an apparently minor mechanism\n- Unexplained shock after torso trauma should be treated as possible occult abdominal haemorrhage until proven otherwise\n- If active haemorrhage is suspected and there is no traumatic brain injury, use permissive resuscitation rather than trying to normalise blood pressure\n- Shoulder-tip pain may indicate diaphragmatic irritation and upper abdominal bleeding\n- Upper abdominal wounds may also involve the chest; consider combined thoracoabdominal trauma\n- Lap-belt injury increases suspicion for mesenteric or intestinal injury",
       "sortOrder": 2
     },
     {
       "id": "abdominal-trauma-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Manage catastrophic bleeding with haemorrhage control if required\n- Primary Survey with c-spine consideration\n- Airway management with c-spine considerations\n- Oxygen administration if indicated\n- Cover exposed viscera with moist, sterile, non-adherent dressing and plastic wrap. Do not attempt to replace organs\n- Immobilisation of impaled objects and positioning if required\n- Consider pelvic binder if indicated\n- Perform remainder of vital sign survey\n- Secondary / CNS Survey\n- Urinalysis where appropriate\n- Pregnancy test where appropriate\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "title": "Management \u2013 Primary",
+      "content": "- Manage catastrophic bleeding if present\n- Primary Survey with c-spine consideration where indicated\n- Administer oxygen if indicated\n- Cover exposed viscera with moist sterile non-adherent dressing and plastic wrap; do not attempt to replace organs\n- Immobilise impaled objects and minimise unnecessary movement\n- Consider pelvic binder if mechanism or findings suggest pelvic injury\n- Perform focused vital signs and secondary survey, then expedite transport\n- Seek early senior support for penetrating injury, shock, or evisceration",
       "sortOrder": 3
     },
     {
       "id": "abdominal-trauma-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider advanced airway management as required\n- Gain IV access\n- Consider IV fluids cautiously; if hemorrhage is suspected, use permissive resuscitation unless contraindicated by traumatic brain injury or other specific factors\n- Consider tranexamic acid within 3 hours of injury in patients with suspected significant traumatic bleeding, in line with local protocol and senior advice\n- Consider antiemetic\n- Administer appropriate pain relief\n- Apply cardiac monitoring",
+      "title": "Management \u2013 Advanced",
+      "content": "- Consider advanced airway management as required\n- Gain IV or IO access\n- Consider IV fluids cautiously; use permissive resuscitation when haemorrhage is suspected unless contraindicated\n- Consider tranexamic acid within 3 hours of injury when significant traumatic bleeding is suspected\n- Provide analgesia and antiemetic therapy within scope\n- Apply cardiac monitoring during transport",
       "sortOrder": 4
     },
     {
       "id": "abdominal-trauma-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Pattern bruising, such as Cullen’s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
+      "content": "- Pattern bruising, such as Cullen\u2019s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
       "sortOrder": 5
     }
   ],
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "crams",

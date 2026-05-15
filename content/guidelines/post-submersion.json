@@ -30,28 +30,28 @@
       "id": "post-submersion-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Tympanic temperature measurement in wet patients is unreliable\n- Vomiting and regurgitation often occur following immersion\n- Consciousness is not synonymous with recovery, since delayed death from hypoxia can occur\n- Gastric distension. Do not attempt to empty the stomach by external pressure\n- Soiled airway\n- Hypothermia can occur as a secondary result of submersion or through evaporative heat loss after rescue\n- If the patient is hypothermic, with no pulse and apnoeic, manage as a hypothermic cardiac arrest\n- Potential spinal injury should be considered particularly after diving into shallow water, dumping surf, rocks, or aquatic craft incidents\n- When spinal injury is suspected, minimise spinal movement manually, but do not delay rescue, airway management, or ventilation\n- Ensure treatable underlying conditions are managed concurrently",
+      "content": "- Hypoxia and aspiration are the main immediate threats after submersion\n- Vomiting is common and does not mean the stomach should be compressed externally\n- Consciousness is not the same as recovery; delayed deterioration can occur\n- Consider hypothermia and possible spinal injury, but do not delay rescue, airway management, or ventilation for spinal precautions alone",
       "sortOrder": 2
     },
     {
       "id": "post-submersion-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Remove patient from water as soon as possible and only begin in-water rescue breathing if immediate exit is impossible and the rescuer is trained to do so\n- Remove wet clothing and keep warm\n- Primary Survey\n   - Assess the airway on the patient's back where possible; use suction as required and roll only when necessary to clear vomit or debris\n   - Check for breathing; assist ventilations as required\n   - Manage cardiac arrest\n- Consider Oxygen\n- Vital Sign Survey\n   - Closely monitor SpO2, temperature and BGL\n- Apply cardiac monitoring\n- Secondary / CNS Survey (as required)\n   - Apply spinal motion restriction if indicated by mechanism or examination\n- Treat hypothermia",
+      "title": "Management \u2013 Primary",
+      "content": "- Remove the patient from the water as quickly and safely as possible\n- Prioritise airway opening and ventilation; suction and roll only as needed to clear vomit or debris\n- Manage cardiac arrest under the appropriate arrest guideline\n- Remove wet clothing, keep the patient warm, and administer oxygen if indicated\n- Record vital signs including glucose and temperature and complete focused secondary survey\n- Apply spinal-motion restriction only when mechanism or examination supports it",
       "sortOrder": 3
     },
     {
       "id": "post-submersion-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Establish vascular access\n- Consider fluid therapy to correct hypovolemia, be mindful to avoid excessive volumes\n- Consider analgesia\n- Consider antiemetic\n- Where trained to do so and available, consider a nasogastric tube to help decompress stomach",
+      "title": "Management \u2013 Advanced",
+      "content": "- Establish IV or IO access if indicated\n- Consider fluids only when clinically indicated and avoid excessive volumes\n- Provide analgesia and antiemetic therapy within scope\n- Escalate early for respiratory compromise, persistent hypoxia, or hypothermic arrest",
       "sortOrder": 4
     },
     {
       "id": "post-submersion-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Sequence of events leading to death\n   - Water enters the mouth when no longer able to be kept clear\n   - Voluntarily spat out or swallowed at first\n   - Next conscious response is to hold one’s breath, lasts ~ 1 minute, until inspiratory drive is too high to resist\n   - Water is aspirated into the airways, and coughing occurs as a reflex response\n   - Laryngospasm may occur (rapidly terminated by the onset of brain hypoxia)\n   - Continued aspiration -> hypoxemia -> loss of consciousness and apnoea\n   - Final mode of death involves cardiac dysrhythmia: tachycardia -> bradycardia -> PEA -> asystole\n- Whole drowning process, from submersion or immersion to cardiac arrest, usually occurs in seconds to a few minutes (> hour in unusual cases of hypothermia)",
+      "content": "- Sequence of events leading to death\n   - Water enters the mouth when no longer able to be kept clear\n   - Voluntarily spat out or swallowed at first\n   - Next conscious response is to hold one\u2019s breath, lasts ~ 1 minute, until inspiratory drive is too high to resist\n   - Water is aspirated into the airways, and coughing occurs as a reflex response\n   - Laryngospasm may occur (rapidly terminated by the onset of brain hypoxia)\n   - Continued aspiration -> hypoxemia -> loss of consciousness and apnoea\n   - Final mode of death involves cardiac dysrhythmia: tachycardia -> bradycardia -> PEA -> asystole\n- Whole drowning process, from submersion or immersion to cardiac arrest, usually occurs in seconds to a few minutes (> hour in unusual cases of hypothermia)",
       "sortOrder": 5
     }
   ],
@@ -60,8 +60,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

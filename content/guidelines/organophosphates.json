@@ -37,14 +37,14 @@
       "id": "organophosphates-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Consider Oxygen if indicated\n- Remove contaminated clothing and wash exposed skin with soap and water where appropriate\n- Vital Sign Survey\n- Have a low threshold for calling on-call doctor or Poisons Information",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Administer oxygen if indicated\n- Remove contaminated clothing and wash exposed skin with soap and water where appropriate\n- Record vital signs and monitor for wheeze, bronchorrhoea, bradycardia, fasciculation, and reduced ventilation\n- Have a low threshold for calling the on-call doctor or Poisons Information",
       "sortOrder": 3
     },
     {
       "id": "organophosphates-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Gain IV access\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV atropine in consultation with the on-call doctor; repeat and escalate promptly until bronchorrhoea and wheeze improve and oxygenation is stabilised\n- Consider fluids if indicated\n- Consider benzodiazepines for seizures or severe agitation in consultation with the on-call doctor\n- Oxime therapy, if used, should be guided by the on-call doctor or toxicology service",
+      "content": "- Consider advanced airway\n- Provide assisted ventilation if required\n- Gain IV access\n- Apply cardiac monitoring and 12 lead ECG\n- Consider IV atropine in consultation with the on-call doctor; repeat and escalate promptly until bronchorrhoea and wheeze improve and oxygenation is stabilised\n- Consider fluids if indicated\n- Consider benzodiazepines for seizures or severe agitation in consultation with the on-call doctor\n- Oxime therapy, if used, should be guided by the on-call doctor or toxicology service",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

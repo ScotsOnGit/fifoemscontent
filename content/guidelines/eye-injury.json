@@ -29,21 +29,21 @@
       "id": "eye-injury-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Significant eye injury may be present despite a relatively benign appearance\n- If eyelid oedema makes opening the lids difficult, attempt only gentle assessment and document findings\n- Avoid manipulating the globe or retracting lids forcefully\n- With penetrating injury or suspected globe rupture, manipulation may cause extrusion of ocular contents\n- When irrigating one eye, keep the affected side dependent where possible to avoid contaminating the other eye\n- For chemical injury, immediate copious irrigation takes priority and should begin as early as possible\n- Depending on the injury, urgent ophthalmic or surgical care may be required",
+      "content": "- Significant eye injury may be present despite a benign appearance\n- Avoid manipulating the globe or retracting lids forcefully\n- Immediate irrigation takes priority in chemical injury\n- Penetrating injury, globe rupture, and major visual loss are time-critical",
       "sortOrder": 2
     },
     {
       "id": "eye-injury-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Primary Survey with c-spine consideration where indicated\n- Reassure the patient, keep them at rest, and discourage eye movement\n- Manage catastrophic bleeding as required\n- Do not manipulate the injured eye\n\n**For penetrating eye injury or suspected globe rupture:**\n- Do not remove any penetrating foreign body from the globe\n- If tolerated, place a rigid protective eye shield over the affected eye; do not pad the eye\n\n**For chemical burns:**\n- Start immediate irrigation with water, saline, or other suitable irrigant; if Diphoterine is immediately available it may be used, but irrigation should not be delayed\n- Continue irrigation during transport where required\n- If litmus paper is available, pH testing may help guide ongoing irrigation\n\n**For lid lacerations:**\n- If bleeding control is required, apply pressure around the eye while avoiding pressure on the globe\n\n- Position the patient comfortably; slight head elevation may be helpful if tolerated\n- Document vision, pupil findings, eye movements, and major symptoms where assessment is possible\n- Secondary / CNS Survey\n- Fluorescein assessment should not be used if globe rupture is suspected\n- Clinicians should have a low threshold for consultation with Poisons Information, RFDS, or ophthalmology support where relevant",
+      "title": "Management \u2013 Primary",
+      "content": "- Primary Survey with c-spine consideration where indicated\n- Reassure the patient, keep them at rest, and discourage eye movement\n- Do not manipulate the injured eye\n- For suspected globe rupture or penetrating injury, place a rigid shield if tolerated and do not pad the eye\n- For chemical injury, start immediate copious irrigation and continue during transport if needed\n- Document vision, pupils, eye movements, and key symptoms where assessment is possible",
       "sortOrder": 3
     },
     {
       "id": "eye-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Gain IV access if indicated\n- Consider antiemetic if nausea or vomiting is present\n- Consider analgesia\n- Monitor the patient regularly, recording observations every 10 minutes where appropriate\n- Escalate and transport urgently for chemical injury, penetrating injury, suspected globe rupture, significant visual loss, or time-critical trauma",
+      "title": "Management \u2013 Advanced",
+      "content": "- Gain IV access if indicated\n- Consider analgesia and antiemetic therapy within scope\n- Avoid fluorescein or foreign-body removal if globe rupture is suspected\n- Escalate urgently for chemical injury, penetrating injury, globe rupture, or significant visual loss",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

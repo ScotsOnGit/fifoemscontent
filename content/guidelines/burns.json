@@ -29,21 +29,21 @@
       "id": "burns-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Responder safety is paramount, avoid toxic atmospheres, remove patients when it is safe to do so\n- Document the time of burn injury\n- Assessment of the patient includes inhalation injury; % TBSA affected; site and depth of wounds; the patient’s age; the presence of other injuries, the mechanism of injury; any areas of circumferential burns, co-morbidities and psychosocial issues\n- Inhalation of superheated smoke, steam or gases can induce airway oedema and rapid deterioration of airway patency\n- Any burns greater than a superficial (first degree) involving the **face, hands, feet, genitalia, major joints, or circumferential burns of the chest or limbs are to be assessed by a major burns service**. These patients **must** be referred\n- Circumferential limb burns may lead to compromised vascular supply leading to ischaemia\n- Reddened and intact skin areas should not be included when calculating % TBSA burnt\n- There may be entry and exit point for electrical burn injuries\n- Patient suffering electrocution injuries should be monitored for dysrhythmias and 12- lead ECG must be performed\n- Commonly occurring with electrical injuries are long bone fractures and neurological deficits\n- Hydrogel dressings can be applied in the absence of water to cool, but this is not preferred\n- If access to silver dressings, do not use sodium chloride on the wound as it de-activates the silver dressing\n- When cooling the patient, be careful to avoid hypothermia - optimal water temperature is 15° (cool the burn, warm the patient). Do **NOT** use ice\n- Covering areas with clingfilm can limit evaporation, heat loss & pain. Be mindful of how tightly it is applied and do not use it as a sole dressing\n- Burns sustained within an enclosed/confined space should be considered to have airway burns until proven otherwise\n- ALL burns as a result of Hydrofluoric acid must be transported to further care\n- Ensure the tetanus status is ascertained if known to the patient\n- Ensure fingertips or toes are still accessible to allow for ongoing distal neurovascular assessments",
+      "content": "- Assess burn depth, TBSA, inhalation injury, special sites, circumferential burns, and associated trauma\n- Burns involving the face, hands, feet, genitalia, major joints, or circumferential chest or limb burns require burns-service review\n- Cooling should avoid hypothermia; do not use ice\n- Enclosed-space burns should raise concern for inhalation injury\n- Hydrofluoric acid burns require hospital transfer and specific treatment",
       "sortOrder": 2
     },
     {
       "id": "burns-management-basic-2",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Primary Survey with c-spine consideration (mechanism dependant)\n- Frequent airway assessments with airway management/ventilatory support if required\n- Oxygen therapy (note: carbon monoxide inhalation may provide false SpO2 readings)\n- Burn injury assessment (Rule of 9’s or palm of patient = 1% TBSA)\n - Cool burn area with cool running water for 20 minutes if within 3 hours of injury, while avoiding hypothermia (cool the burn, warm the patient)\n   - Facial burns, apply a thin layer of emollient, aloe vera for example. NO silver dressings to face\n   - Do not attempt to wipe off semisolids (wax, tar, grease, etc.)\n   - Dry chemical burns, brush off dry powder then wash with copious amounts of water\n   - Consider Diphoterine for chemical burns (not hydrofluoric acid)\n   - Hydrofluoric acid, rinse with copious amounts of water until calcium gluconate treatment can be given\n- Consider methoxyflurane\n- Consider OTC pain relief (paracetamol, ibuprofen)\n- Remove jewellery, clothing/constrictions unless adhered to wound\n- After cooling, cover with cling film or a clean dry dressing; use hydrogels only if running water is unavailable or impractical\n- Perform Vital Sign Survey\n- Elevate all affected areas, when possible, to reduce oedema and infection risk\n- Secondary / CNS Survey",
+      "title": "Management \u2013 Primary",
+      "content": "- Primary Survey with c-spine consideration where mechanism suggests it\n- Reassess the airway frequently and support ventilation if required\n- Administer oxygen if indicated\n- Cool the burn with cool running water for 20 minutes if within 3 hours of injury while keeping the patient warm\n- Remove jewellery and constricting clothing unless adhered to the wound\n- Cover the burn after cooling with cling film or a clean dry dressing\n- Record vital signs, assess TBSA and depth, and complete focused secondary survey\n- Expedite referral when burns-service criteria are met",
       "sortOrder": 3
     },
     {
       "id": "burns-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Consider/be prepared to place advanced airway if signs of airway burns are evident\n- Consider salbutamol\n- Establish vascular access (intact skin area)\n- For larger burns, begin fluid resuscitation with Hartmann's solution in consultation with local protocol/medical advice; use burn formulas as a guide only and reassess frequently to avoid over-resuscitation\n- Administer appropriate pain relief (Fentanyl, Morphine, Ketamine)\n- Consider antiemetic\n- Consider cardiac monitoring\n- Do not routinely debride burns or deroof blisters in the prehospital setting unless specifically required by local protocol",
+      "title": "Management \u2013 Advanced",
+      "content": "- Prepare for advanced airway management if inhalation injury is suspected\n- Establish vascular access through intact skin if possible\n- Begin fluid resuscitation for larger burns in line with protocol and reassess frequently\n- Provide analgesia, antiemetic therapy, and cardiac monitoring where indicated\n- Do not routinely debride burns or deroof blisters in the prehospital setting",
       "sortOrder": 4
     },
     {
@@ -68,6 +68,6 @@
     "parkland-burns"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

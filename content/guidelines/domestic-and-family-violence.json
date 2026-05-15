@@ -34,14 +34,14 @@
       "id": "domestic-and-family-violence-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Speak with the patient alone if it is safe and practicable\n- Validate the disclosure and avoid blaming or pressuring the patient to leave immediately if that may increase risk\n- Consider immediate threats to the patient, children, dependants, and clinicians\n- Strangulation, pregnancy, escalating violence, weapons, and threats to kill are particularly high-risk features\n- Do not rely on the suspected perpetrator or another potentially controlling person to interpret, answer questions, or remain present during assessment\n- Follow local safeguarding, mandatory reporting, and police-notification obligations",
+      "content": "- Speak with the patient alone if it is safe and practicable\n- Validate the disclosure and avoid blaming or pressuring the patient to leave immediately if that may increase risk\n- Consider immediate threats to the patient, children, dependants, and clinicians\n- Strangulation, pregnancy, escalating violence, weapons, and threats to kill are particularly high-risk features\n- Do not rely on the suspected perpetrator or another potentially controlling person to interpret, answer questions, or remain present during assessment\n- Follow local safeguarding, mandatory reporting, and police-notification obligations\n- Syncope, headache, voice change, neck pain, or swallowing difficulty after assault should raise concern for occult strangulation injury",
       "sortOrder": 2
     },
     {
       "id": "domestic-and-family-violence-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Ensure scene safety and request police if there is ongoing danger\n- Treat urgent injuries and complete a focused physical and mental health assessment\n- Ask simple, private, trauma-informed questions and believe the patient\n- If the patient discloses abuse, explore immediate safety needs, safe destination options, and whether children or other vulnerable people are at risk\n- Respect autonomy where capacity is intact, while providing information about support services and safety planning\n- Preserve potential forensic evidence where practicable, especially after sexual assault or strangulation, and avoid unnecessary cleaning or handling",
+      "content": "- Ensure scene safety and request police if there is ongoing danger\n- Treat urgent injuries and complete a focused physical and mental health assessment\n- Ask simple, private, trauma-informed questions and believe the patient\n- If the patient discloses abuse, explore immediate safety needs, safe destination options, and whether children or other vulnerable people are at risk\n- Respect autonomy where capacity is intact, while providing information about support services and safety planning\n- Preserve potential forensic evidence where practicable, especially after sexual assault or strangulation, and avoid unnecessary cleaning or handling\n- Escalate transport priority for strangulation features, head injury, significant bleeding, pregnancy-related concerns, or severe distress",
       "sortOrder": 3
     },
     {
@@ -65,6 +65,6 @@
     "patient-assessment-capacity-consent-refusal"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

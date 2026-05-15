@@ -37,14 +37,14 @@
       "id": "cyanide-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- If non-life-threatening skin or hair exposure has occurred, remove contaminated clothing and wash exposed skin with soap and water\n- Position patient appropriately\n- Give high-flow oxygen immediately and continue it until handover or toxicology-directed change in management\n- Vital Sign Survey\n- Secondary Survey\n- Contact Poisons Information on 131126\n- Have a low threshold for calling the on-call doctor for all cases",
+      "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- If non-life-threatening skin or hair exposure has occurred, remove contaminated clothing and wash exposed skin with soap and water\n- Position the patient appropriately\n- Give high-flow oxygen immediately and continue it until handover or toxicology-directed change in management\n- Record vital signs, complete focused secondary survey, and consider concurrent smoke inhalation or carbon monoxide exposure\n- Contact Poisons Information on 131126\n- Have a low threshold for calling the on-call doctor for all cases",
       "sortOrder": 3
     },
     {
       "id": "cyanide-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Consider IPPV if required\n- Apply cardiac monitor and 12 LEAD ECG\n- Consider IV access\n- Consider blood draw for i-STAT or lactate testing where applicable\n- Consider fluids if indicated\n- Consider antiemetic\n- Consider hydroxocobalamin in consultation with the on-call doctor, especially for high-risk smoke inhalation with altered mental state, hypotension, or cardiovascular collapse\n- Consider sodium bicarbonate for severe metabolic acidosis in consultation with the on-call doctor",
+      "content": "- Consider advanced airway\n- Provide assisted ventilation if required\n- Apply cardiac monitoring and obtain 12 lead ECG\n- Consider IV access\n- Consider blood testing or lactate measurement where applicable\n- Consider fluids if indicated\n- Consider antiemetic therapy\n- Consider hydroxocobalamin in consultation with the on-call doctor, especially for high-risk smoke inhalation with altered mental state, hypotension, or cardiovascular collapse\n- Consider sodium bicarbonate for severe metabolic acidosis in consultation with the on-call doctor",
       "sortOrder": 4
     },
     {
@@ -61,6 +61,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
