@@ -31,21 +31,21 @@
       "id": "gastroenteritis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Gastroenteritis is highly transmissible, so infection-control precautions matter\n- Consider surgical abdomen, sepsis, pregnancy-related pathology, toxic ingestion, or cardiac causes if the presentation is atypical\n- Antimotility agents should be avoided in bloody diarrhoea, high fever, or suspected invasive bacterial illness\n- Outbreaks in remote, residential, or workplace settings may require local public health or workplace notification",
+      "content": "- Gastroenteritis is highly transmissible, so infection-control precautions matter\n- Consider surgical abdomen, sepsis, pregnancy-related pathology, toxic ingestion, or cardiac causes if the presentation is atypical\n- Antimotility agents should be avoided in bloody diarrhoea, high fever, or suspected invasive bacterial illness\n- Outbreaks in remote, residential, or workplace settings may require local public health or workplace notification\n- Frailty, pregnancy, significant comorbidity, or inability to maintain hydration should lower the threshold for transport",
       "sortOrder": 2
     },
     {
       "id": "gastroenteritis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and Vital Sign Survey, including BGL where relevant\n- Assess hydration and encourage oral rehydration if tolerated\n- Consider simple analgesia or antipyretic treatment for discomfort or fever\n- Advise rest, hygiene precautions, and avoidance of food handling or return to communal duties until symptoms have settled according to local policy",
+      "content": "- Primary Survey and full vital sign survey, including blood glucose where relevant\n- Assess hydration, perfusion, abdominal pain severity, and ability to tolerate oral intake\n- Encourage oral rehydration only if tolerated and not provoking ongoing vomiting\n- Consider simple analgesia or antipyretic treatment for discomfort or fever\n- Advise rest, hygiene precautions, and avoidance of food handling or return to communal duties until symptoms have settled according to local policy",
       "sortOrder": 3
     },
     {
       "id": "gastroenteritis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access and IV fluids when dehydration is clinically significant or oral intake is failing\n- Consider antiemetic treatment within scope for persistent vomiting\n- Loperamide may be considered only in carefully selected adults without blood in stool, high fever, or suspected invasive infection, and only if consistent with local protocol\n- Antibiotics should not be routine and should only follow medical direction when a specific bacterial syndrome is suspected",
+      "content": "- Consider IV access and IV fluids when dehydration is clinically significant, perfusion is impaired, or oral intake is failing\n- Consider antiemetic treatment within scope for persistent vomiting\n- Loperamide may be considered only in carefully selected adults without blood in stool, high fever, or suspected invasive infection, and only if consistent with local protocol\n- Antibiotics should not be routine and should only follow medical direction when a specific bacterial syndrome is suspected\n- Escalate early for severe pain, bloody stool, reduced conscious state, sepsis concern, or persistent inability to maintain hydration",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

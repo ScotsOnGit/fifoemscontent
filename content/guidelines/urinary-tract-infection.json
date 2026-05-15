@@ -32,21 +32,21 @@
       "id": "uti-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Men, pregnant patients, catheterised patients, immunocompromised patients, and those with systemic features need a lower threshold for escalation\n- Consider STI, pyelonephritis, renal colic, urinary retention, or sepsis in the differential diagnosis\n- Urinary alkalinisers can reduce the activity of nitrofurantoin and should not be started casually if antimicrobial treatment is being considered",
+      "content": "- Men, pregnant patients, catheterised patients, immunocompromised patients, and those with systemic features need a lower threshold for escalation\n- Consider STI, pyelonephritis, renal colic, urinary retention, abdominal pathology, or sepsis in the differential diagnosis\n- Urinary alkalinisers can reduce the activity of nitrofurantoin and should not be started casually if antimicrobial treatment is being considered\n- New confusion alone should not be assumed to represent UTI without broader assessment for other causes",
       "sortOrder": 2
     },
     {
       "id": "uti-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and Vital Sign Survey\n- Urinalysis may help support the assessment where available but should not replace clinical judgement\n- Encourage oral fluids if tolerated\n- Consider simple analgesia or antipyretics for discomfort or fever\n- Safety-net clearly for worsening pain, fever, vomiting, confusion, or reduced urine output",
+      "content": "- Primary Survey and full vital sign survey\n- Urinalysis may help support the assessment where available but should not replace clinical judgement\n- Assess for flank pain, fever, vomiting, pregnancy, urinary retention, catheter issues, or systemic illness\n- Encourage oral fluids if tolerated\n- Consider simple analgesia or antipyretics for discomfort or fever\n- Safety-net clearly for worsening pain, fever, vomiting, confusion, or reduced urine output",
       "sortOrder": 3
     },
     {
       "id": "uti-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- Consider IV access and fluids for dehydration or sepsis risk\n- Antibiotics should be doctor-directed or protocol-led, especially in pregnancy, male patients, systemic illness, or upper UTI\n- Manage septic presentations according to the sepsis pathway",
+      "content": "- Consider antiemetic treatment if nausea or vomiting is significant\n- Consider IV access and fluids for dehydration, sepsis risk, or inability to tolerate oral intake\n- Antibiotics should be doctor-directed or protocol-led, especially in pregnancy, male patients, systemic illness, or upper UTI\n- Manage septic presentations according to the sepsis pathway\n- Escalate early for obstruction concern, pyelonephritis, pregnancy, catheter complications, or systemic deterioration",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -29,21 +29,21 @@
       "id": "miscarriage-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Early pregnancy bleeding does not always result in miscarriage\n- Ectopic pregnancy must be considered in all sexually active patients with abdominal pain and bleeding in early pregnancy\n- Prehospital diagnosis may be uncertain, especially if products of conception are not obvious\n- Ask about gestation, prior ultrasound confirmation of intrauterine pregnancy, and severity of bleeding or pain",
+      "content": "- Early pregnancy bleeding does not always represent miscarriage\n- Ectopic pregnancy must be considered in all patients with abdominal pain and bleeding in early pregnancy until excluded\n- Prehospital diagnosis may remain uncertain, especially if products of conception are not obvious\n- Ask about gestation, prior ultrasound confirmation of intrauterine pregnancy, amount of bleeding, passage of tissue, pain severity, syncope, and fever\n- Heavy bleeding, shock, severe unilateral pain, or sepsis features should lower the threshold for urgent transport",
       "sortOrder": 2
     },
     {
       "id": "miscarriage-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Offer support and reassurance\n- Perform Vital Sign Survey\n- Consider oxygen if indicated\n- Maintain a low threshold for calling the on-call doctor\n- If tissue or fetus is passed later in gestation, preserve respectfully and transport with the patient if possible",
+      "content": "- Primary Survey\n- Offer support, privacy, and reassurance\n- Perform a full vital sign survey and reassess frequently if bleeding or pain is changing\n- Administer oxygen if hypoxaemic, shocked, or in respiratory distress\n- Keep the patient warm and minimise unnecessary exertion if significant bleeding is suspected\n- Maintain a low threshold for contacting the on-call doctor or RFDS\n- If tissue or fetus is passed later in gestation, preserve respectfully and transport with the patient where possible",
       "sortOrder": 3
     },
     {
       "id": "miscarriage-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG if indicated\n- Consider IV access\n- Consider point-of-care haemoglobin where available if bleeding is significant\n- Consider IV fluids if clinically indicated\n- Consider pain relief and antiemetic\n- Consider antibiotics only in consultation with the on-call doctor if septic miscarriage is suspected\n- Manage suspected sepsis as per the sepsis guideline",
+      "content": "- Obtain ECG if shock, syncope, or diagnostic uncertainty is present\n- Consider IV access if significant bleeding, severe pain, or ongoing deterioration is suspected\n- Consider point-of-care haemoglobin where available if bleeding is clinically significant\n- Consider IV fluids if hypovolaemia or shock is suspected, while expediting transport\n- Consider analgesia and antiemetic therapy in line with local protocol\n- Consider antibiotics only in consultation with the on-call doctor if septic miscarriage is suspected\n- Manage suspected sepsis under the sepsis guideline",
       "sortOrder": 4
     },
     {
@@ -57,6 +57,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

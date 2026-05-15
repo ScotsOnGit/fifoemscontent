@@ -32,21 +32,21 @@
       "id": "chest-infection-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Consider pneumonia, sepsis, asthma or COPD exacerbation, pulmonary embolus, heart failure, or acute coronary syndrome where clinically relevant\n- Abnormal vital signs, focal chest findings, hypoxia, altered mental status, or hypotension increase concern for significant illness\n- Cough suppressants and routine antibiotics are not standard prehospital treatment for uncomplicated viral illness\n- Escalate early if there are features of sepsis, respiratory failure, or inability to maintain hydration",
+      "content": "- Consider pneumonia, sepsis, asthma or COPD exacerbation, pulmonary embolus, heart failure, or acute coronary syndrome where clinically relevant\n- Abnormal vital signs, focal chest findings, hypoxia, altered mental state, chest pain, or hypotension increase concern for significant illness\n- Cough suppressants and routine antibiotics are not standard prehospital treatment for uncomplicated viral illness\n- Escalate early if there are features of sepsis, respiratory failure, dehydration, or inability to maintain oral intake",
       "sortOrder": 2
     },
     {
       "id": "chest-infection-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey and Vital Sign Survey\n- Auscultate the chest where practicable\n- Administer oxygen only if clinically indicated\n- Encourage oral fluids if safe and appropriate\n- Consider simple antipyretic or analgesic treatment for discomfort or fever\n- Safety-net or arrange transport according to clinical severity and local disposition pathways",
+      "content": "- Primary Survey and full vital sign survey\n- Auscultate the chest where practicable and assess work of breathing, hydration, and conscious state\n- Administer oxygen only if clinically indicated\n- Encourage oral fluids only if safe, tolerated, and there is no respiratory compromise\n- Consider simple antipyretic or analgesic treatment for discomfort or fever\n- Escalate or arrange transport according to respiratory distress, sepsis risk, comorbidity, and local disposition pathways",
       "sortOrder": 3
     },
     {
       "id": "chest-infection-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider ECG if chest pain, arrhythmia, significant tachycardia, or alternate cardiopulmonary pathology is suspected\n- Establish IV access and give fluids only when clinically indicated, with reassessment for fluid overload\n- If severe infection, sepsis, or prolonged transport is likely, discuss doctor-directed antimicrobials or destination planning according to local protocol\n- Pre-notify receiving services for significant respiratory compromise or suspected sepsis",
+      "content": "- Consider ECG if chest pain, arrhythmia, significant tachycardia, or alternate cardiopulmonary pathology is suspected\n- Establish IV access only when clinically indicated and give fluids cautiously with reassessment for fluid overload\n- If severe infection, sepsis, or prolonged transport is likely, discuss destination planning and any doctor-directed antimicrobial strategy according to local protocol\n- Pre-notify receiving services for significant respiratory compromise, suspected sepsis, or frail high-risk patients with deterioration",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
