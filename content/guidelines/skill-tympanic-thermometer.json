@@ -19,14 +19,14 @@
       "id": "skill-tympanic-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Tympanic temperature measurement is a quick, non-invasive way to estimate body temperature in prehospital care. It is useful for identifying fever, hypothermia, and response to treatment, but it must be interpreted with the clinical picture and the limitations of the device and environment.",
+      "content": "Tympanic temperature measurement is a quick, non-invasive way to estimate temperature in prehospital care. It is useful for recognising fever, hypothermia, and treatment response, but the reading must be interpreted alongside the environment, the patient, and the limitations of the device.",
       "sortOrder": 0
     },
     {
       "id": "skill-tympanic-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "1. Apply a clean probe cover\n2. Position the ear appropriately for the patient\n3. Insert the probe gently and direct it toward the tympanic membrane\n4. Take the reading and document the result with time\n5. Repeat if the reading seems inconsistent with the clinical picture or technique was suboptimal",
+      "content": "1. Apply a clean probe cover\n2. Position the ear appropriately for age and anatomy\n3. Insert the probe gently and aim toward the tympanic membrane rather than the canal wall\n4. Take the reading and document the result with time\n5. Repeat the measurement if the result seems inconsistent with the clinical picture or technique was suboptimal",
       "sortOrder": 1
     },
     {
@@ -40,7 +40,7 @@
       "id": "skill-tympanic-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Document the method used and whether the reading may be unreliable\n- Trend temperature over time when clinically relevant\n- Fever management is clinical, not purely numeric\n- Severe environmental illness or sepsis should not be downplayed because of one borderline reading",
+      "content": "- Document the method used and whether the reading may be unreliable\n- Trend temperature over time when clinically relevant\n- Fever management is clinical, not purely numeric\n- Severe environmental illness, sepsis, or shock should not be downplayed because of one borderline reading",
       "sortOrder": 3
     }
   ],
@@ -51,6 +51,6 @@
     "influenza-like-illness"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

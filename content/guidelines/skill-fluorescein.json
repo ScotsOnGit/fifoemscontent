@@ -26,12 +26,12 @@
       "id": "skill-fluorescein-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Fluorescein staining is a rapid, minimally invasive diagnostic technique used to identify corneal epithelial defects. Sodium fluorescein dye is applied topically to the conjunctival sac and illuminated with a cobalt blue light source. Defects in the corneal epithelium (abrasions, ulcers, foreign body tracks, herpetic dendrites) absorb the dye and fluoresce bright green under cobalt blue illumination, while intact epithelium does not stain.",
+      "content": "Fluorescein staining is used to identify corneal epithelial defects such as abrasions, foreign body tracks, ulcers, or dendritic lesions. In prehospital care it should be used selectively, mainly when the result will clarify eye management and when a penetrating injury has been reasonably excluded.",
       "sortOrder": 0
     },
     {
       "id": "skill-fluorescein-indications",
-      "type": "presentation",
+      "type": "considerations",
       "title": "Indications",
       "content": "- Suspected corneal abrasion (following trauma, foreign body, or contact lens-related injury)\n- Evaluation of corneal foreign body - to identify epithelial tracking or residual defect after removal\n- Suspected corneal ulceration\n- Chemical or UV (arc eye / photokeratitis) exposure\n- Any red eye with pain and/or photophobia where corneal integrity is uncertain",
       "sortOrder": 1
@@ -40,28 +40,28 @@
       "id": "skill-fluorescein-contraindications",
       "type": "considerations",
       "title": "Contraindications & Precautions",
-      "content": "- Known allergy to sodium fluorescein (rare)\n- Soft contact lenses must be removed before application - fluorescein permanently stains soft lenses\n- Do not use if a penetrating eye injury is suspected - any manipulation risks extrusion of intraocular contents\n- Use with caution in patients with known iodine or contrast dye allergy (cross-reactivity is rare but possible)",
+      "content": "- Known allergy to sodium fluorescein is rare but should be checked\n- Soft contact lenses should be removed before application because fluorescein can stain them\n- Do not use if penetrating injury, globe rupture, major deformity, or prolapsed ocular contents are suspected\n- If the patient has severe pain, reduced vision, marked photophobia, or chemical exposure, definitive eye priorities may be irrigation, protection, and transport rather than staining",
       "sortOrder": 2
     },
     {
       "id": "skill-fluorescein-equipment",
       "type": "management_basic",
-      "title": "Equipment Required",
-      "content": "- Sodium fluorescein 2% eye drops or fluorescein-impregnated strips\n- Sterile normal saline (to moisten strips, if used)\n- Cobalt blue light source (pen-torch with cobalt blue filter, ophthalmoscope on blue filter, or Wood's lamp)\n- Sterile gloves\n- Tissues / gauze\n- Topical anaesthetic drops (e.g. proxymetacaine 0.5%) - optional, to aid examination in a painful eye; requires on-call doctor authorisation",
+      "title": "Preparation",
+      "content": "- Gather fluorescein strips or drops, saline if required, cobalt blue light, gloves, and gauze or tissues\n- Explain the examination and obtain consent where the patient has capacity\n- Remove contact lenses if present and safe to remove\n- Protect the eye and proceed to transport rather than staining if penetrating injury or globe rupture is a concern",
       "sortOrder": 3
     },
     {
       "id": "skill-fluorescein-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "1. **Explain the procedure** to the patient and obtain consent.\n\n2. **Position the patient** seated or semi-recumbent with head supported.\n\n3. **Wash hands** and don sterile gloves.\n\n4. **Remove contact lenses** if not already done.\n\n5. **If using fluorescein strips:**\n   - Moisten the tip of the fluorescein strip with one drop of sterile saline (do not over-saturate).\n   - Ask the patient to look up.\n   - Gently touch the moistened strip to the lower conjunctival fornix (pull the lower lid down slightly).\n   - Ask the patient to blink several times to distribute the dye.\n\n6. **If using 2% fluorescein drops:**\n   - Ask the patient to look up.\n   - Pull the lower eyelid gently down to expose the conjunctival sac.\n   - Instil 1 drop into the lower conjunctival fornix.\n   - Ask the patient to blink to distribute the dye.\n\n7. **Illuminate with cobalt blue light:**\n   - Darken the room if possible.\n   - Shine the cobalt blue light at the eye from approximately 30–40 cm.\n   - Systematically examine the entire cornea and conjunctiva.\n\n8. **Interpret the findings:**\n   - **Normal (negative):** No green fluorescence on cornea or conjunctiva.\n   - **Corneal abrasion:** Irregular or linear green staining pattern on corneal surface.\n   - **Foreign body track:** Linear or punctate staining in the path of a foreign body.\n   - **Corneal ulcer:** Dense, circumscribed area of staining, may have surrounding epithelial haze.\n   - **Herpetic dendrites:** Branching (dendritic) pattern - contact on-call doctor immediately.\n\n9. **Document findings:** Record which eye(s), location and approximate size of any defects, and staining pattern observed.\n\n10. **Irrigate excess dye** with saline after examination if tolerated.",
+      "content": "1. Position the patient comfortably with the head supported\n\n2. If using a strip, moisten it lightly with saline; if using drops, prepare the dropper without contaminating the tip\n\n3. Ask the patient to look up and apply the dye to the lower conjunctival sac or lower fornix without touching the cornea with force\n\n4. Ask the patient to blink to distribute the dye\n\n5. Examine the cornea and visible conjunctiva with cobalt blue illumination, darkening the environment if practical\n\n6. Look for focal green staining, foreign body tracks, ulceration, or a dendritic pattern\n\n7. Document the affected eye, approximate location of staining, and any associated red-flag findings such as reduced vision or severe pain",
       "sortOrder": 4
     },
     {
       "id": "skill-fluorescein-post-procedure",
       "type": "additional_notes",
       "title": "Post-Procedure & Notes",
-      "content": "- Fluorescein will temporarily cause mild yellow discolouration of the skin and tears - advise the patient this is normal and will resolve quickly.\n- Do NOT re-insert soft contact lenses until the dye has completely cleared and the eye has healed.\n- If herpetic dendrites are identified on staining, contact the on-call doctor immediately - antiviral therapy is required and topical steroids are contraindicated.\n- Corneal abrasions less than one-third of the corneal diameter and without signs of infection may be managed conservatively; larger or infected defects require on-call doctor review.\n- Do NOT apply an eye patch over a corneal abrasion - current evidence does not support patching.\n- Topical anaesthetic drops (proxymetacaine/tetracaine) should ONLY be used to facilitate examination - they are NOT to be prescribed or self-administered for ongoing pain relief as they impair corneal healing.",
+      "content": "- Reduced vision, suspected ulcer, contact-lens-related keratitis, dendritic lesions, or significant pain should prompt urgent escalation\n- Fluorescein does not rule out serious ocular pathology outside the corneal surface\n- Do not provide topical local anaesthetic for repeated self-administration after the assessment\n- Document whether staining changed management or simply supported the need for eye protection and transport",
       "sortOrder": 5
     }
   ],
@@ -75,6 +75,6 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

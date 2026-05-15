@@ -19,14 +19,14 @@
       "id": "skill-auscultation-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Auscultation is the use of a stethoscope to assess breath sounds, selected cardiac sounds, and changes before and after treatment. In prehospital care it is useful, but it has to be interpreted alongside the whole clinical picture because noise, movement, and access limitations often reduce reliability.",
+      "content": "Auscultation uses a stethoscope to assess breath sounds and selected cardiac findings before and after treatment. In prehospital care it is helpful, but it should be treated as one part of the assessment because noise, movement, body habitus, and limited access can reduce reliability.",
       "sortOrder": 0
     },
     {
       "id": "skill-auscultation-technique",
       "type": "management_basic",
       "title": "Technique",
-      "content": "**Stethoscope basics**\n- Ensure earpieces are angled correctly and the environment is as quiet as practicable\n- Use the diaphragm for most prehospital lung and heart assessment\n\n**Lung auscultation**\n1. Expose only what is needed\n2. Compare left and right at similar levels\n3. Use anterior or posterior fields according to patient position and access\n4. Re-auscultate after interventions when clinically relevant\n\n**Heart auscultation**\n- In most prehospital settings, heart auscultation is less useful than overall assessment, pulse, ECG, and haemodynamic findings\n- If heart sounds are being assessed, interpret them cautiously and in context",
+      "content": "**Stethoscope basics**\n- Ensure the earpieces are angled correctly and reduce surrounding noise as much as possible\n- Use the diaphragm for most lung and heart assessment in the prehospital setting\n\n**Lung auscultation**\n1. Expose only what is needed while maintaining warmth and dignity\n2. Compare left and right at similar levels rather than listening to one area in isolation\n3. Use anterior, lateral, or posterior positions according to access and patient tolerance\n4. Re-auscultate after interventions or deterioration when the finding will change management\n\n**Heart auscultation**\n- In most prehospital settings, heart sounds add less than overall clinical assessment, pulse quality, ECG, and perfusion findings\n- If assessed, document cautiously and in context rather than over-interpreting subtle sounds",
       "sortOrder": 1
     },
     {
@@ -40,13 +40,13 @@
       "id": "skill-auscultation-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Prehospital environments are noisy, so treat auscultation as one data point rather than the whole answer\n- Unilateral reduced breath sounds after trauma or sudden deterioration should raise concern for significant thoracic pathology\n- Repeat auscultation when treatment, movement, airway intervention, or deterioration might have changed the picture\n- Document what you actually heard and where",
+      "content": "- Treat auscultation as a supporting finding, not a stand-alone diagnosis\n- Unilateral reduced breath sounds after trauma or sudden deterioration should raise concern for significant thoracic pathology and prompt escalation within scope\n- Repeat auscultation when treatment, movement, airway intervention, or deterioration may have changed the picture\n- Document what was heard, where it was heard, and any limitation such as noise or poor access",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

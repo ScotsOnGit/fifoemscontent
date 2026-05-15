@@ -26,27 +26,27 @@
       "id": "skill-pulse-resp-pulse",
       "type": "management_basic",
       "title": "Pulse Assessment",
-      "content": "- Assess pulse at the site most appropriate to the patient and situation\n- Describe rate, rhythm, strength, and whether the pulse is central or peripheral\n- In a time-critical patient, note whether perfusion is improving or worsening after treatment\n- Irregular rhythm, weak pulse, or loss of peripheral pulses should always be interpreted with the broader haemodynamic picture",
+      "content": "- Assess pulse at the site most appropriate to the patient and situation\n- Describe rate, rhythm, strength, and whether pulses are central or peripheral\n- In a time-critical patient, pay attention to trend and perfusion response rather than treating the number alone as the endpoint\n- Irregular rhythm, weak pulse, or loss of peripheral pulses should always be interpreted with the broader haemodynamic picture",
       "sortOrder": 1
     },
     {
       "id": "skill-pulse-resp-respiratory",
       "type": "management_basic",
       "title": "Respiratory Rate Assessment",
-      "content": "- Count respiratory rate accurately whenever possible and avoid estimating it\n- Assess depth, pattern, effort, chest movement, and the patient's ability to speak or maintain ventilation\n- Respiratory rate is often one of the earliest signs of deterioration\n- Reassess after interventions and when the clinical picture changes",
+      "content": "- Count respiratory rate accurately whenever possible and avoid guessing it from a quick look\n- Assess depth, pattern, effort, chest movement, and the patient's ability to speak or maintain ventilation\n- Respiratory rate is often one of the earliest signs of deterioration, especially in sepsis, shock, toxicology, and respiratory illness\n- Reassess after interventions and when the clinical picture changes",
       "sortOrder": 2
     },
     {
       "id": "skill-pulse-resp-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Tachycardia, bradycardia, tachypnoea, or bradypnoea only become meaningful when interpreted in context\n- A patient may be critically unwell despite a pulse or respiratory rate that appears near normal\n- Pulse quality and work of breathing often add more value than the number alone\n- Always document the time and any major change from previous observations",
+      "content": "- Tachycardia, bradycardia, tachypnoea, or bradypnoea only become meaningful when interpreted in context\n- A patient may be critically unwell despite a pulse or respiratory rate that appears near normal\n- Pulse quality, work of breathing, and trajectory over time often matter more than the isolated reading\n- Always document the time and any major change from previous observations",
       "sortOrder": 3
     }
   ],
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

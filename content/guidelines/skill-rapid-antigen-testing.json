@@ -19,14 +19,14 @@
       "id": "skill-rat-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Rapid antigen tests detect selected respiratory pathogens at the point of care. In a prehospital or remote-setting context they can support infection-control decisions and follow-up planning, but they do not replace clinical assessment and should not falsely reassure clinicians when suspicion remains high.",
+      "content": "Rapid antigen tests detect selected respiratory pathogens at the point of care. In prehospital and remote settings they can help with infection-control planning, cohorting, and onward advice, but they should not override the clinical picture.",
       "sortOrder": 0
     },
     {
       "id": "skill-rat-procedure",
       "type": "management_basic",
       "title": "Procedure",
-      "content": "- Follow the specific kit instructions for storage, specimen type, collection method, and read time\n- Use appropriate PPE and infection-control precautions\n- Confirm patient identity and document the kit type and result\n- If the test is invalid, repeat with a new kit if clinically useful and available",
+      "content": "- Follow the specific kit instructions for storage, specimen type, collection method, and read time\n- Use appropriate PPE and infection-control precautions throughout collection and disposal\n- Confirm patient identity and document the kit type, time, and result\n- If the test is invalid, repeat with a new kit if clinically useful and available",
       "sortOrder": 1
     },
     {
@@ -40,7 +40,7 @@
       "id": "skill-rat-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- RATs are most useful when they change practical infection-control or cohorting decisions\n- Follow local public health, workplace, and reporting requirements where relevant\n- Record the result, time, and any major limitation such as expired kit, borderline line, or collection difficulty",
+      "content": "- RATs are most useful when they change practical infection-control or cohorting decisions\n- Follow local public health, workplace, and reporting requirements where relevant\n- Severe illness, hypoxia, dehydration, or sepsis concern should drive transport and escalation even if the RAT is negative\n- Record the result, time, and any major limitation such as expired kit, borderline line, or collection difficulty",
       "sortOrder": 3
     }
   ],
@@ -50,6 +50,6 @@
     "chest-infection"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

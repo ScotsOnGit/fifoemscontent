@@ -23,21 +23,21 @@
       "id": "skill-functional-status-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Functional status assessment estimates how a patient usually manages daily life and how far the current presentation differs from that baseline. In prehospital care it adds important context to vital signs, helps identify acute deterioration from baseline, supports transport and referral decisions, and informs discussions about frailty, goals of care, and safe disposition.",
+      "content": "Functional status assessment estimates how a patient usually manages day-to-day life and how far the current presentation differs from that baseline. In prehospital care it helps identify acute decline, supports transport and referral decisions, and adds context to frailty, goals of care, and risk at home or in residential care.",
       "sortOrder": 0
     },
     {
       "id": "skill-functional-status-adl",
       "type": "management_basic",
       "title": "Assessment Domains",
-      "content": "**Basic ADLs (physical self-care):**\n- Mobility: walking unaided, uses a walking aid, wheelchair dependent, or bed-bound\n- Transfers: independent, needs prompting, needs physical assistance, or hoisted\n- Continence: continent, pads, catheter, or incontinent\n- Feeding, bathing, grooming, and dressing: independent or requires assistance\n\n**Instrumental ADLs (complex daily activities):**\n- Meal preparation, shopping, and housework\n- Medication management: independent, supervised, or administered by carer\n- Use of transport, phone, and finances\n\n**Cognitive baseline and supports:**\n- Lives alone, with family, or in supported accommodation\n- Known dementia, delirium vulnerability, or cognitive impairment\n- Usual orientation, communication ability, and behaviour\n- Existing carers, advance care plans, or facility documentation\n\n**Frailty screening (where relevant):**\n- Clinical Frailty Scale may help summarise baseline vulnerability\n- Use frailty to add context, not to deny appropriate treatment\n\n**Current versus baseline comparison:**\n- Key question: 'How does this compare with how they normally function?'\n- A sudden drop from baseline is clinically important even if the patient was already frail or dependent",
+      "content": "**Baseline function:**\n- Ask how the patient usually mobilises, transfers, dresses, toilets, eats, and manages medications\n- Clarify whether the patient normally lives independently, with supports, or in facility care\n\n**Current change from baseline:**\n- Identify what the patient cannot now do that they would usually do\n- A sudden loss of mobility, transfers, communication, or self-care may indicate serious acute illness even if the patient was already frail\n\n**Cognitive and social supports:**\n- Ask about usual cognition, behaviour, communication, carers, and available supervision\n- Check for advance care plans, facility documentation, or family collateral where available\n\n**Frailty context:**\n- Frailty tools may summarise vulnerability, but the key prehospital question is whether the patient is acutely worse than usual and whether remaining in place is safe",
       "sortOrder": 1
     },
     {
       "id": "skill-functional-status-notes",
       "type": "additional_notes",
       "title": "Key Points",
-      "content": "- Functional status adds context to the whole assessment and should be interpreted alongside the clinical picture\n- A previously independent patient who is now bed-bound or unable to transfer may have significant acute illness even if vital signs are only subtly abnormal\n- Collateral history from family, carers, facility staff, or patient records is often essential\n- Advance care directives, resuscitation plans, and documented goals of care should be identified where available\n- Frailty tools are useful summaries but should not replace clinical judgment",
+      "content": "- Functional status should influence your concern level, destination thinking, and discharge or non-transport safety planning\n- Collateral history from family, carers, facility staff, or records is often essential when the patient cannot give a reliable baseline\n- Frailty and dependence should not be used to downplay a clear acute deterioration\n- Document both the baseline and the current change, not just a frailty label",
       "sortOrder": 2
     }
   ],
@@ -47,6 +47,6 @@
     "clinical-frailty-scale"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
