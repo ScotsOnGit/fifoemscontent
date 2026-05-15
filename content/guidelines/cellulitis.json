@@ -30,21 +30,21 @@
       "id": "cellulitis-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Risk is increased by diabetes, lymphoedema, immunosuppression, vascular disease, skin disease, bites, ulcers, and poor self-care\n- Facial, periorbital, hand, or joint-related infection needs urgent review\n- Many conditions can mimic cellulitis, especially when itch predominates or pain is minimal",
+      "content": "- Risk is increased by diabetes, lymphoedema, immunosuppression, vascular disease, skin disease, bites, ulcers, and poor self-care\n- Facial, periorbital, hand, or joint-related infection needs urgent review\n- Many conditions can mimic cellulitis, especially when itch predominates or pain is minimal\n- Look for sepsis, abscess, necrotising soft tissue infection, or septic arthritis rather than assuming uncomplicated cellulitis",
       "sortOrder": 2
     },
     {
       "id": "cellulitis-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital signs, including temperature, heart rate, BGL, blood pressure, and SpO2\n- Secondary Survey\n- Consider outlining the affected area to monitor spread\n- Consider images, with consent, for review by on-call doctor\n- Consider oxygen if septic and indicated\n- Consider simple analgesia or antipyretic if needed for discomfort",
+      "content": "- Primary Survey\n- Record vital signs, including temperature and signs of systemic illness\n- Perform focused assessment for rapidly progressive pain, crepitus, fluctuance, joint involvement, lymphangitis, or disproportionate tenderness\n- Consider outlining the affected area to monitor spread\n- Consider clinical images, with consent and in line with record policy, if they will assist remote review\n- Provide simple analgesia or antipyretic treatment within scope\n- Escalate early if sepsis, hand or face involvement, immunocompromise, or concern for deep infection is present",
       "sortOrder": 3
     },
     {
       "id": "cellulitis-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider blood draw and point-of-care testing if indicated\n- Consider fluid resuscitation if indicated\n- 12 lead ECG if indicated\n- Antibiotic choice should be guided by the on-call doctor and local protocol\n- If septic, follow sepsis pathway",
+      "content": "- Consider IV access if sepsis, dehydration, or IV therapy is likely to be required\n- Consider point-of-care blood testing where available and clinically useful\n- Consider fluid resuscitation if septic or clinically hypoperfused\n- Follow the sepsis pathway if systemic infection is suspected\n- Antibiotic therapy should be guided by local protocol and the on-call doctor rather than started reflexively for every skin presentation\n- Consider ECG or other adjuncts only if systemic illness or alternative pathology is suspected",
       "sortOrder": 4
     },
     {
@@ -58,6 +58,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

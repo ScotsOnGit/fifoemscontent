@@ -31,21 +31,21 @@
       "id": "back-pain-including-sprain-strain-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- New, chronic, or previously diagnosed back pain can still represent a spinal emergency\n- Red flags include cancer history, immunosuppression, infection risk, IV drug use, steroid use, and cauda equina features\n- Consider visceral mimics such as pancreatitis, aortic aneurysm, renal colic, or cardiac causes",
+      "content": "- New, chronic, or previously diagnosed back pain can still represent a spinal emergency\n- Red flags include cancer history, immunosuppression, infection risk, IV drug use, steroid use, and cauda equina features\n- Consider visceral mimics such as pancreatitis, aortic aneurysm, renal colic, or cardiac causes\n- Major trauma, significant neurological deficit, fever, or sepsis features should lower the threshold for transport and escalation",
       "sortOrder": 2
     },
     {
       "id": "back-pain-including-sprain-strain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Vital Signs\n- Conduct secondary survey\n- Consider simple analgesia if appropriate\n- Consider inhaled analgesia if necessary\n- Position for comfort and avoid forced movements\n- Ensure appropriate follow-up where available",
+      "content": "- Primary Survey\n- Complete vital signs and focused neurological assessment, including lower-limb power, sensation, and bladder or bowel red flags where relevant\n- Position for comfort and avoid forced movement\n- Provide simple or inhaled analgesia within scope\n- Consider non-spinal causes if pain is severe, atypical, or associated with chest, abdominal, vascular, or systemic features\n- Transport or escalate early if red flags, significant functional limitation, or uncontrolled pain are present",
       "sortOrder": 3
     },
     {
       "id": "back-pain-including-sprain-strain-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access if indicated\n- Consider fluids if clinically indicated\n- Consider antiemetic if required\n- Consider further analgesia in line with local protocol and scope\n- Consider ECG where indicated",
+      "content": "- Consider IV access if analgesia, antiemetic therapy, or another serious diagnosis is being managed\n- Consider titrated additional analgesia in line with local protocol and patient risk factors\n- Consider antiemetic therapy if pain or opioid treatment is associated with nausea or vomiting\n- Consider ECG or other condition-specific assessment if the presentation could represent vascular, cardiac, abdominal, or renal pathology\n- Escalate rapidly if there is progressive neurology, sepsis concern, suspected cauda equina syndrome, or a major non-spinal mimic",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -30,21 +30,21 @@
       "id": "acute-dystonic-reactions-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- More common in younger patients and after dopamine-blocking medications such as metoclopramide, prochlorperazine, haloperidol, or risperidone\n- Can be mistaken for seizure, meningitis, tetanus, anaphylaxis, or behavioural disturbance\n- Medication history is essential",
+      "content": "- More common in younger patients and after dopamine-blocking medications such as metoclopramide, prochlorperazine, haloperidol, or risperidone\n- Can be mistaken for seizure, meningitis, tetanus, anaphylaxis, or behavioural disturbance\n- Medication history and time relation to symptom onset are important\n- Airway involvement, stridor, or reduced ventilation require immediate escalation",
       "sortOrder": 2
     },
     {
       "id": "acute-dystonic-reactions-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position for airway support as clinically indicated\n- Consider oxygen\n- Be prepared to assist ventilations if required\n- Consider ECG if diagnosis is unclear or significant medication exposure is suspected",
+      "content": "- Primary Survey\n- Position for airway protection and patient comfort\n- Administer oxygen if hypoxaemic or in respiratory distress\n- Be prepared to assist ventilations if airway spasm or reduced respiratory effort develops\n- Confirm recent exposure to dopamine-blocking medication and exclude anaphylaxis, seizure, or other airway emergencies",
       "sortOrder": 3
     },
     {
       "id": "acute-dystonic-reactions-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider vascular access\n- Consider fluid resuscitation if indicated\n- Consider IM/IV benztropine (1-2 mg) in consultation with on-call doctor\n- Consider promethazine (25-50 mg IM) in consultation with on-call doctor if appropriate\n- Consider benzodiazepines for persistent or severe spasms in consultation with on-call doctor",
+      "content": "- Consider vascular access if medication therapy or airway deterioration is likely\n- Consider IM or IV benztropine (1-2 mg) in line with local protocol or in consultation with the on-call doctor\n- Consider promethazine (25-50 mg IM) if benztropine is unavailable or unsuitable and this is consistent with local protocol\n- Consider benzodiazepines for persistent severe spasms or marked distress after senior clinical review\n- Escalate urgently if laryngospasm, ongoing respiratory compromise, or diagnostic uncertainty persists",
       "sortOrder": 4
     },
     {
@@ -58,6 +58,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

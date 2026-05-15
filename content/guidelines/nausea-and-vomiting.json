@@ -29,21 +29,21 @@
       "id": "nausea-and-vomiting-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Ondansetron can prolong the QT interval; use caution in known or suspected long-QT syndrome or other significant QT-risk settings\n- Use of ondansetron in early pregnancy should follow local policy and clinician judgement; dehydration and inability to tolerate fluids are higher prehospital priorities\n- Pregnant patients with uncontrolled hyperemesis are not suitable to remain on site\n- Nausea and vomiting may be medication related, including GLP-1 agonists such as semaglutide or tirzepatide\n- If the cause cannot be determined, consider serious underlying disease",
+      "content": "- Ondansetron can prolong the QT interval; use caution in known or suspected long-QT syndrome or other significant QT-risk settings\n- Use of ondansetron in early pregnancy should follow local policy and clinician judgement; dehydration and inability to tolerate fluids are higher prehospital priorities\n- Pregnant patients with uncontrolled hyperemesis are not suitable to remain on site\n- Nausea and vomiting may be medication related, including GLP-1 agonists such as semaglutide or tirzepatide\n- If the cause cannot be determined, consider serious underlying disease such as bowel obstruction, intracranial pathology, sepsis, toxic exposure, or ACS",
       "sortOrder": 2
     },
     {
       "id": "nausea-and-vomiting-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Provide reassurance\n- Complete Vital Sign Survey, including blood glucose where appropriate\n- Consider likely cause and appropriate antiemetic if within scope; otherwise consider non-pharmacological relief such as isopropyl alcohol inhalation where appropriate\n- Consider urinalysis if reduced fluid intake or dehydration is suspected\n- Consider oral rehydration if tolerated\n- Consider analgesia where appropriate and tolerated\n- Secondary survey where appropriate\n- Consult the on-call doctor if IV fluids are required and not within scope",
+      "content": "- Primary Survey\n- Complete vital signs, including blood glucose where appropriate, and assess hydration, abdominal findings, pregnancy risk, and red flags\n- Position to reduce aspiration risk and provide emesis receptacle support as needed\n- Consider a likely cause and provide non-invasive symptom relief or antiemetic therapy within scope\n- Encourage oral rehydration only if the patient can safely tolerate small amounts of fluid\n- Consider urinalysis where dehydration, pregnancy, or urinary pathology is relevant\n- Escalate early if persistent vomiting, haematemesis, altered conscious state, severe pain, or significant dehydration is present",
       "sortOrder": 3
     },
     {
       "id": "nausea-and-vomiting-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider IV fluids where indicated, guided by dehydration severity and comorbidity\n- Consider ECG where indicated\n- Consider point-of-care bloods where appropriate\n- Consider other causes and treat accordingly\n- Transport for further review and management if any red flags are evident",
+      "content": "- Consider IV access if parenteral medication, fluids, or broader resuscitation may be required\n- Consider IV fluids where clinically indicated, guided by dehydration severity, comorbidity, and ongoing losses\n- Consider ECG if there is QT-risk, significant electrolyte concern, or possible cardiac mimic\n- Consider point-of-care blood testing where available and clinically useful\n- Treat the likely underlying cause in line with the relevant condition-specific guideline and transport if red flags, refractory symptoms, or diagnostic uncertainty persist",
       "sortOrder": 4
     },
     {
@@ -60,6 +60,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }
