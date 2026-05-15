@@ -28,21 +28,21 @@
       "id": "unconsciousness-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "**Scene Safety:**\n  - Prioritise the safety of all responders and bystanders before patient assessment or intervention\n  - Where feasible, establish the likely cause of unconsciousness before approaching, especially in confined spaces or hazardous environments. Atmospheric testing is recommended prior to entry if exposure to toxic gases, chemicals, or other environmental hazards are suspected\n\n- Obtain a detailed history from bystanders or witnesses regarding the onset of symptoms, preceding events, and any relevant environmental factors\n- Document current medications, recent drug or alcohol intake, and be alert to the possibility of polypharmacy or overdose\n- Identify relevant medical history, including chronic conditions, allergies, and the presence of medical alert devices or identification\n- Assess and manage airway compromise early\n- Assess and manage airway compromise as a priority. Consider both acute obstruction and aspiration risk, particularly in patients with active vomiting, excessive secretions, or altered mental status\n- All patients with an altered GCS (i.e. abnormal for the individual) should have a BGL test preformed and managed appropriately if symptomatic\n\n**Common causes:**\n  - Low brain oxygen: Hypoxia, cardiac arrest, respiratory failure\n  - Cardiovascular: Arrhythmias, myocardial infarction, syncope\n  - Metabolic: Hypoglycaemia, diabetic ketoacidosis, overdose, intoxication\n  - Neurological: Stroke, seizure, head injury, brain tumour, infection\n  - Potential for multi-system involvement: Trauma, intoxication, and medical conditions often coexist",
+      "content": "- Prioritise scene safety for responders and bystanders before approach, especially in confined spaces or where toxic, electrical, or environmental hazards may exist\n- Obtain witness history, medication history, recent illness, substance exposure, and relevant comorbidities as early as practical\n- Manage airway compromise as a priority and anticipate aspiration, hypoventilation, trauma, or mixed medical and toxic causes\n- All patients with abnormal conscious state should have blood glucose checked early and other reversible causes considered immediately\n- Common causes include hypoxia, shock, dysrhythmia, hypoglycaemia, toxic exposure, seizure, stroke, CNS infection, trauma, and sepsis",
       "sortOrder": 2
     },
     {
       "id": "unconsciousness-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey with c-spine consideration\n- Manage catastrophic haemorrhage\n- Open, clear and maintain the airway\n- Suction if required\n- Insert oropharyngeal or nasopharyngeal airway (OPA/NPA)\n- Consider breathing pattern\n- Lateral position if unresponsive (use left lateral position for pregnant women). In unconscious trauma patients consider the Lateral Trauma Position\n- Oxygen, with assisted ventilation if required (be aware of inadequate tidal volume)\n- Full Vital Signs Survey, particularly GCS, BGL and Pulse Oximetry\n- Limb LEAD ECG\n- Complete Secondary Survey and manage injuries as required\n- Keep patient warm/initiate cooling where appropriate\n- Clinicians should have a low threshold for calling on-call doctor",
+      "content": "- Primary Survey with spinal motion restriction only where indicated\n- Control catastrophic haemorrhage if present\n- Open, clear, and maintain the airway, including suction and basic adjuncts where required\n- Place laterally if unresponsive unless trauma or another condition requires a different position\n- Provide oxygen and assist ventilation if required, paying attention to tidal volume and respiratory effort\n- Record a full vital sign survey, particularly GCS, blood glucose, oxygen saturation, pupils, and temperature\n- Perform focused secondary survey for trauma, toxic exposure, infection, seizure activity, or stroke features\n- Keep the patient warm or initiate cooling where appropriate and seek senior support early",
       "sortOrder": 3
     },
     {
       "id": "unconsciousness-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway if tolerating OPA/NPA\n- Apply cardiac monitor\n- Manage cardiac dysrhythmia where possible and acquire 12 lead ECG\n- Establishing vascular access\n- Consider obtaining blood for i-STAT sampling if time permits. Chem8 in all patients where practicable and available\n\n**Manage any abnormalities:**\n  - Medication, drug or other toxin toxicity\n  - Vital sign abnormalities\n  - Consider IV fluids",
+      "content": "- Consider advanced airway management if protective reflexes are absent or ventilation is inadequate\n- Apply cardiac monitoring and obtain a 12 lead ECG when a cardiovascular, toxic, or metabolic cause is possible\n- Establish vascular access if medication, fluids, or broader resuscitation may be required\n- Consider point-of-care blood testing where available and clinically useful without delaying transport\n- Manage identified abnormalities such as toxin exposure, dysrhythmia, shock, or seizure in line with the relevant condition-specific guideline\n- Consider IV fluids if hypovolaemia, sepsis, or shock is suspected",
       "sortOrder": 4
     },
     {
@@ -61,8 +61,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "gcs",
     "avpu",

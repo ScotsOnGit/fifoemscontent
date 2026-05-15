@@ -29,21 +29,21 @@
       "id": "stroke-tia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Other conditions that can mimic a stroke must be considered:\n  - Hypoglycaemia\n  - Intracerebral lesions (tumours, abscesses)\n  - Seizures and post ictal states\n  - Hemiplegic Migraines\n  - Electrolyte Abnormalities (hyponatraemia)\n  - Syncope\n  - Sepsis\n  - Subdural Haematoma\n  - Vertigo, Labyrinthitis, Vestibular Neuritis\n  - Confusion/cognitive dysfunction\n\n- Functional Neurological Disorder Syndrome",
+      "content": "- Stroke mimics such as hypoglycaemia, seizure with post-ictal deficit, intracranial lesion, migraine, electrolyte disturbance, sepsis, syncope, vertigo syndromes, or functional neurological disorder must be considered\n- A resolving deficit does not exclude serious pathology; patients with probable TIA still require urgent hospital assessment\n- Establishing the exact last-known-well time is critical for reperfusion and stroke-centre decisions",
       "sortOrder": 2
     },
     {
       "id": "stroke-tia-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Oxygen only if indicated\n- Position the patient to protect the airway and optimise comfort; avoid delaying transfer for positioning preferences alone\n- Complete Vital Sign Survey, especially BGL\n- Establish and document the exact time the patient was last known well\n- Conduct (BE)FAST assessment\n- If FAST is negative but the history is suggestive of TIA, the patient remains at risk and still requires urgent hospital assessment\n- Consider cranial nerve assessment\n- Consider RACE score as an adjunct to identify possible large vessel occlusion\n- FAST positive: treat stroke as a time-critical emergency, pre-notify the receiving service, and escalate early for transfer to an appropriate acute stroke centre\n- Keep patient warm and comfortable",
+      "content": "- Primary Survey\n- Administer oxygen only if hypoxaemic or in respiratory distress\n- Position to protect the airway and optimise comfort without delaying transfer\n- Record a full vital sign survey, especially blood glucose and conscious state\n- Establish and document the exact last-known-well time\n- Conduct FAST or BE-FAST assessment and document focal deficits clearly\n- If the history suggests TIA or posterior circulation stroke, keep the case time critical even if FAST is negative\n- Consider RACE score as an adjunct to identify possible large vessel occlusion\n- Pre-notify the receiving service early and prioritise transport to an appropriate stroke-capable centre",
       "sortOrder": 3
     },
     {
       "id": "stroke-tia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Cardiac monitoring, with 12 lead ECG where this does not delay transfer\n- Consider advanced airway if required\n- Gain IV access\n- Collect pre-hospital blood sample for i-STAT testing where appropriate\n- Consider IV fluids only if clinically indicated\n- Consider benzodiazepines if actively seizing, titrated to effect, in consultation with on-call doctor\n- Consider antiemetic only if clinically indicated\n- Consider appropriate analgesia in consultation with on-call doctor",
+      "content": "- Apply cardiac monitoring and obtain a 12 lead ECG where this does not delay transport\n- Consider advanced airway support only if airway reflexes or ventilation are failing\n- Gain IV access if clinically indicated for resuscitation, seizure management, or hospital readiness\n- Consider point-of-care blood testing only if it informs immediate management without delaying transfer\n- Consider IV fluids only if clinically indicated and avoid unnecessary glucose-containing fluids unless hypoglycaemia is present\n- Manage seizures, nausea, or pain only where clinically necessary and without slowing stroke transport",
       "sortOrder": 4
     },
     {
@@ -60,8 +60,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "race-score",
     "gcs",

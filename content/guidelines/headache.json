@@ -28,21 +28,21 @@
       "id": "headache-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Relief of symptoms with analgesia is not evident of a benign cause\n- Consideration should be given before administration of narcotics to patients with a history of chronic headaches as it has not been proven to be a successful intervention and may potentially increase the risk of reliance on such medication\n- Management of headaches that are considered red flags should be treated under any relevant CPG\n- Differential diagnosis: Migraine, tension-type headache, cluster headache, subarachnoid haemorrhage, meningitis, temporal arteritis, intracranial mass, or medication overuse headache",
+      "content": "- Symptom relief with analgesia does not prove a benign cause\n- Avoid reflex opioid use for chronic or recurrent headache presentations unless there is a clear indication and no safer alternative\n- Red-flag headaches should be managed as possible secondary headache under the relevant time-critical guideline\n- Differential diagnoses include migraine, tension-type headache, cluster headache, subarachnoid haemorrhage, CNS infection, temporal arteritis, intracranial mass, hypertensive emergency, and medication overuse headache",
       "sortOrder": 2
     },
     {
       "id": "headache-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- FAST assessment\n- Consider cranial nerve assessment if appropriate\n- If red flags are present, treat as possible secondary headache and escalate accordingly\n- In patients with a typical benign headache pattern and no red flags, consider simple analgesia such as paracetamol or ibuprofen if not contraindicated\n- Secondary Survey if applicable\n- Consider cool compress\n- Consider rest in a dark, quiet room if available",
+      "content": "- Primary Survey\n- Perform FAST assessment and focused neurological assessment where appropriate\n- If red flags are present, treat as possible secondary headache and prioritise transport or escalation\n- In a typical benign headache pattern with no red flags, consider simple analgesia and low-stimulation measures if not contraindicated\n- Assess for fever, rash, neck stiffness, pregnancy-related hypertension, anticoagulant use, or thunderclap onset\n- Consider rest in a dark quiet area only if this does not delay transfer when serious pathology is possible",
       "sortOrder": 3
     },
     {
       "id": "headache-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider IV access\n- Consider IV fluids if clinically indicated\n- Consider appropriate antiemetic in migraine, in consultation with on-call doctor\n- Consider further migraine-related therapies in consultation with on-call doctor\n- Consider further analgesia in consultation with the on-call doctor if oral treatment is not feasible",
+      "content": "- Consider IV access if parenteral medication, fluids, or another serious diagnosis is being managed\n- Consider IV fluids only if clinically indicated, such as dehydration or vomiting\n- Consider antiemetic therapy for migraine-associated nausea or vomiting in line with local protocol\n- Consider additional migraine-directed therapy or further analgesia only when red flags have been considered and oral treatment is not feasible\n- Escalate early for thunderclap headache, meningeal signs, focal deficit, reduced conscious state, pregnancy-related hypertension, or post-traumatic worsening",
       "sortOrder": 4
     },
     {
@@ -56,6 +56,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -28,21 +28,21 @@
       "id": "syncope-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- A 12 lead ECG should be acquired in most, if not all these patients\n- Syncope is most commonly caused by a transient reduction in systemic blood pressure, typically not due to cardiac pathology. Promptly positioning the patient supine is generally sufficient to restore cerebral perfusion and consciousness\n\n- Sustained unconsciousness following an episode of fainting is not consistent with syncope. If a patient remains unresponsive, alternative or additional diagnoses must be considered and managed accordingly\n- Maintaining a patient in an upright position after syncope can result in prolonged cerebral hypoperfusion, increasing the risk of brain injury or death. Therefore, supine positioning is strongly recommended\n- Syncopal episodes occurring while the patient is supine or recumbent are highly suggestive of a cardiac aetiology and warrant urgent evaluation\n- Persistent confusion lasting longer than 30 seconds post-event may indicate a postictal state, raising suspicion for seizure rather than syncope\n- Patients over 40 years of age who present with a first episode of syncope require thorough assessment, as the likelihood of underlying pathology is increased\n- The presence of abnormal vital signs following syncope, or associated symptoms such as chest pain, dyspnoea, severe headache, neurological deficits, or exertional onset, should prompt consideration of alternative or additional diagnoses beyond straightforward vasovagal syncope\n- Although cardiac arrhythmias may be transient, clinical management should be guided by the patient’s condition rather than the specific rhythm identified on ECG\n- While most cases of syncope (fainting) are not life-threatening, a small percentage (around 10%) are caused by serious underlying cardiac conditions\n- Sudden severe blood loss; external or internal\n- Postural hypotension (sometimes due to medication)\n- Hypoglycaemia, (diabetic or due to low food intake)\n- Cerebro-vascular Accidents (C.V.A.) or Transient Ischaemic Attacks (T.I.A.)\n- T.I.A. resembles a C.V.A. (stroke), but is of short duration; even if recovered, always transport to medical care for assessment\n- Can it be a seizure? Look for signs…",
+      "content": "- A 12 lead ECG should be acquired in most patients unless an alternative obvious benign cause is clear and transport would be delayed\n- Sustained unconsciousness is not consistent with simple syncope; if the patient remains unresponsive, treat as an alternative or additional diagnosis\n- Syncope while supine, during exertion, or with chest pain, dyspnoea, severe headache, palpitations, abnormal vitals, or focal neurology should raise concern for a serious cause\n- Consider cardiac arrhythmia, haemorrhage, orthostatic hypotension, hypoglycaemia, seizure, stroke or TIA, pulmonary embolus, aortic catastrophe, and non-fatal strangulation where relevant\n- Patients with first-episode syncope, recurrent unexplained syncope, injury, or poor recovery warrant a low threshold for transport and senior review",
       "sortOrder": 2
     },
     {
       "id": "syncope-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey (correct any issues identified)\n- Consider airway management if still unconscious; place the patient in the lateral position (left lateral position for pregnant women)\n- If conscious, place supine initially\n- Consider Oxygen if indicated\n- Vital Sign Survey, particularly blood pressure and blood glucose\n- If hypoglycaemia is identified, treat according to the hypoglycaemia guideline\n- Limb lead ECG\n- Secondary/CNS Survey, (BE)FAST, cranial nerve assessment, etc\n- Clinicians should have a low threshold for calling the on-call doctor",
+      "content": "- Primary Survey and correct immediate threats\n- If still unconscious, manage the airway and place laterally unless another cause or injury requires a different approach\n- If conscious, place supine initially and reassess symptoms and perfusion\n- Administer oxygen only if indicated\n- Record vital signs, especially blood pressure, heart rate, blood glucose, and conscious state\n- Treat hypoglycaemia or other obvious reversible causes where identified\n- Obtain rhythm assessment and focused secondary survey, including neurological and injury assessment\n- Seek early senior support if recovery is incomplete, the cause is unclear, or red flags are present",
       "sortOrder": 3
     },
     {
       "id": "syncope-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Apply cardiac monitor\n- Manage cardiac arrhythmia\n- Consider establishing vascular access\n- Consider blood draw for i-STAT: Chem8, check electrolytes, lactate, haemoglobin) where available\n- Consider fluid therapy\n- Consider appropriate antiemetic\n- Consider IV glucose\n- Consider analgesia if pain is a cause",
+      "content": "- Apply cardiac monitoring and obtain a 12 lead ECG where feasible\n- Treat dysrhythmia or other identified causes in line with the relevant condition-specific guideline\n- Consider vascular access if recurrent syncope, abnormal vitals, trauma, or another serious cause is suspected\n- Consider point-of-care blood testing where available and clinically useful\n- Consider IV fluids if hypovolaemia, orthostatic hypotension, or sepsis is suspected\n- Consider IV glucose only if hypoglycaemia is present or strongly suspected\n- Provide analgesia or antiemetic therapy only when clinically indicated and not distracting from the underlying cause",
       "sortOrder": 4
     },
     {
@@ -59,8 +59,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-13T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-15T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu",
