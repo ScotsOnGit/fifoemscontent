@@ -1,0 +1,64 @@
+{
+  "id": "camp-ergonomics",
+  "title": "Camp Ergonomics",
+  "category": "medical",
+  "tags": [
+    "camp ergonomics",
+    "accommodation ergonomics",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "onsite living ergonomics",
+    "Camp Ergonomics"
+  ],
+  "sections": [
+    {
+      "id": "camp-ergonomics-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline addresses ergonomic issues arising from camp rooms, dining, office pods, and other living/working crossover spaces on site.",
+      "sortOrder": 0
+    },
+    {
+      "id": "camp-ergonomics-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Neck, back, shoulder, or sleep-related complaints linked to room or office setup\n- Symptoms worsened by laptop use, poor chairs, narrow beds, or repeated awkward reaching\n- Recovery limited by poor rest or poor non-work environment",
+      "sortOrder": 1
+    },
+    {
+      "id": "camp-ergonomics-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Camp ergonomics can affect both recovery and next-shift function\n- Rest and sleep environments are legitimate contributors to musculoskeletal load\n- Simple changes often outperform expensive but impractical ideal setups",
+      "sortOrder": 2
+    },
+    {
+      "id": "camp-ergonomics-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Ask which parts of the camp environment make symptoms worse and what can be changed immediately\n- Encourage posture variation, setup changes, and movement breaks\n- Escalate if symptoms clearly reflect something more serious than ergonomic aggravation",
+      "sortOrder": 3
+    },
+    {
+      "id": "camp-ergonomics-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Review seating, screens, bed setup, storage reach, and repetitive non-work tasks such as laundry or shared amenities\n- Recommend practical camp-based changes that the worker can actually maintain\n- Pair ergonomic advice with active rehab rather than relying on setup changes alone",
+      "sortOrder": 4
+    },
+    {
+      "id": "camp-ergonomics-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Good camp ergonomics supports recovery outside work hours, which may improve work performance indirectly",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

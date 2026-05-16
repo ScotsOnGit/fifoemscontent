@@ -1,0 +1,64 @@
+{
+  "id": "physio-documentation-standard",
+  "title": "Physio Documentation Standard",
+  "category": "medical",
+  "tags": [
+    "documentation",
+    "clinical notes",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "physio documentation",
+    "Physio Documentation Standard"
+  ],
+  "sections": [
+    {
+      "id": "physio-documentation-standard-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Physio documentation should make the assessment, safety decisions, treatment rationale, function, and follow-up plan easy for another clinician to understand and defend.",
+      "sortOrder": 0
+    },
+    {
+      "id": "physio-documentation-standard-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Initial assessment notes\n- Follow-up reviews\n- Work capacity reviews\n- Telehealth reviews\n- Escalation or shared-care handover notes",
+      "sortOrder": 1
+    },
+    {
+      "id": "physio-documentation-standard-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Documentation should support continuity, legal defensibility, and clinical governance\n- Missing function, red flags, or escalation advice can create risk even if the treatment itself was reasonable\n- Notes should reflect what was done and decided, not just what was discussed",
+      "sortOrder": 2
+    },
+    {
+      "id": "physio-documentation-standard-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Record presenting problem, red flags screened, baseline function, observed function, treatment provided, and immediate response\n- Include safety advice, restrictions, and follow-up timing\n- Document escalation if the presentation was outside routine conservative care",
+      "sortOrder": 3
+    },
+    {
+      "id": "physio-documentation-standard-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Add work-relevant details such as lifting, walking, driving, stairs, kneeling, and shift tolerance when applicable\n- Record consent, chaperone issues where relevant, telehealth limitations, and any collateral communication\n- When referring onward, document who received handover and what action was agreed",
+      "sortOrder": 4
+    },
+    {
+      "id": "physio-documentation-standard-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Strong physio notes read like a safe clinical story, not just a list of techniques",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

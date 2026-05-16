@@ -1,0 +1,64 @@
+{
+  "id": "physio-shared-care-with-doctor-nurse-paramedic",
+  "title": "Physio Shared Care with Doctor, Nurse and Paramedic",
+  "category": "medical",
+  "tags": [
+    "shared care",
+    "multidisciplinary",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "physio shared care",
+    "Physio Shared Care with Doctor, Nurse and Paramedic"
+  ],
+  "sections": [
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Physio care in FIFOEMS often overlaps with doctors, nurses, and paramedics. Shared care should be deliberate, role-aware, and centred on patient safety rather than parallel siloed treatment.",
+      "sortOrder": 0
+    },
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Persistent pain with medication needs\n- Concussion or vestibular symptoms with medical overlap\n- Work capacity disputes or complex RTW planning\n- Falls, frailty, chronic disease, or post-illness recovery requiring multiple disciplines",
+      "sortOrder": 1
+    },
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Shared care works best when each clinician knows what decision they own\n- Physio input should not drift into implicit medical diagnosis management when doctor review is clearly needed\n- Repeated duplicated assessments frustrate patients and create mixed messages",
+      "sortOrder": 2
+    },
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Seek early clinical discussion when pain control, medical stability, transport, or work risk is not straightforward\n- Use direct handover rather than assuming another clinician will read the notes in time\n- Escalate immediately if the patient becomes unstable while under physio review",
+      "sortOrder": 3
+    },
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Clarify the shared plan: diagnosis uncertainty, restrictions, medication, follow-up timing, and who will review deterioration\n- Use structured handover and document advice received\n- Ensure the patient knows who to contact next and under what circumstances",
+      "sortOrder": 4
+    },
+    {
+      "id": "physio-shared-care-with-doctor-nurse-paramedic-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Shared care fails when the patient hears three different plans from three clinicians",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

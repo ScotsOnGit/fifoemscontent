@@ -1,0 +1,64 @@
+{
+  "id": "sports-injury-prevention-and-warm-up",
+  "title": "Sports Injury Prevention and Warm-up",
+  "category": "medical",
+  "tags": [
+    "injury prevention",
+    "warm up",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "sports injury prevention",
+    "Sports Injury Prevention and Warm-up"
+  ],
+  "sections": [
+    {
+      "id": "sports-injury-prevention-and-warm-up-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline provides practical injury-prevention advice for remote-site sport and gym activity.",
+      "sortOrder": 0
+    },
+    {
+      "id": "sports-injury-prevention-and-warm-up-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Recreational training on site\n- Recurrent strains, sprains, or overload symptoms\n- Team sport or individual exercise participation",
+      "sortOrder": 1
+    },
+    {
+      "id": "sports-injury-prevention-and-warm-up-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Prevention should be simple enough to be used consistently\n- Warm-up, gradual load progression, recovery, and appropriate technique usually matter more than elaborate corrective programs\n- Sleep, fatigue, hydration, and alcohol use can materially increase injury risk in camp environments",
+      "sortOrder": 2
+    },
+    {
+      "id": "sports-injury-prevention-and-warm-up-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify whether the participant is returning after injury, illness, or prolonged layoff\n- Encourage warm-up, progressive loading, and avoidance of sharp unplanned volume spikes\n- Escalate for persistent pain or recurrent instability rather than repeatedly self-managing the same injury",
+      "sortOrder": 3
+    },
+    {
+      "id": "sports-injury-prevention-and-warm-up-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use role-specific advice for running, lifting, change-of-direction sports, and mixed-mode training\n- Address footwear, surface, fatigue, and prior injury history in risk reduction planning\n- Encourage early review when small recurring symptoms begin to alter mechanics or confidence",
+      "sortOrder": 4
+    },
+    {
+      "id": "sports-injury-prevention-and-warm-up-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Prevention programs work best when they are short, repeatable, and matched to the actual activity people do",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

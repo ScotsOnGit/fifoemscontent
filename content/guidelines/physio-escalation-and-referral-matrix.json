@@ -1,0 +1,64 @@
+{
+  "id": "physio-escalation-and-referral-matrix",
+  "title": "Physio Escalation and Referral Matrix",
+  "category": "medical",
+  "tags": [
+    "escalation matrix",
+    "referral",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "physio referral matrix",
+    "Physio Escalation and Referral Matrix"
+  ],
+  "sections": [
+    {
+      "id": "physio-escalation-and-referral-matrix-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline provides a practical matrix for when FIFOEMS physios should manage, seek doctor input, involve paramedics, refer to hospital, or recommend medevac.",
+      "sortOrder": 0
+    },
+    {
+      "id": "physio-escalation-and-referral-matrix-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- New patient assessment with uncertain stability\n- Worsening symptoms during follow-up\n- Need to choose between local conservative care and higher-acuity pathway",
+      "sortOrder": 1
+    },
+    {
+      "id": "physio-escalation-and-referral-matrix-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The purpose is to shorten delay, not add bureaucracy\n- The same patient may need more than one escalation pathway, for example doctor plus paramedic plus hospital transfer\n- Environment, distance, weather, and staffing can change the threshold for medevac",
+      "sortOrder": 2
+    },
+    {
+      "id": "physio-escalation-and-referral-matrix-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- GP / doctor: use for non-emergent diagnostic clarification, medication needs, work capacity disputes, persistent symptoms, or red-flag but stable presentations\n- Paramedic: use for acute deterioration, urgent assessment support, analgesia needs, transport decisions, or medical instability\n- ED / hospital: use for suspected fracture, major neuro deficit, chest pain, serious infection, acute swelling/vascular threat, cauda equina, concussion red flags, or inability to cope safely onsite\n- Medevac: use when time-critical care or imaging is needed and site capability or surface transport is inadequate",
+      "sortOrder": 3
+    },
+    {
+      "id": "physio-escalation-and-referral-matrix-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Build local site pathways so clinicians know who to call first in each scenario\n- Reassess after escalation; some apparently stable presentations can deteriorate while waiting\n- Document the reason for escalation, who was contacted, advice received, and any delay or transfer constraints",
+      "sortOrder": 4
+    },
+    {
+      "id": "physio-escalation-and-referral-matrix-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Good escalation is specific: who, why, how urgent, and what risks exist if the patient remains onsite",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

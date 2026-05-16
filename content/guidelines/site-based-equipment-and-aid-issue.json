@@ -1,0 +1,64 @@
+{
+  "id": "site-based-equipment-and-aid-issue",
+  "title": "Site-Based Equipment and Aid Issue",
+  "category": "medical",
+  "tags": [
+    "equipment issue",
+    "mobility aid",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "aid issue guideline",
+    "Site-Based Equipment and Aid Issue"
+  ],
+  "sections": [
+    {
+      "id": "site-based-equipment-and-aid-issue-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline covers safe issue of site-based aids and simple rehab equipment such as crutches, frames, canes, braces, and basic support devices.",
+      "sortOrder": 0
+    },
+    {
+      "id": "site-based-equipment-and-aid-issue-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Need for temporary walking aid or support device\n- Need for simple braces or straps to allow safe function\n- Concern that a device is being used poorly or is no longer appropriate",
+      "sortOrder": 1
+    },
+    {
+      "id": "site-based-equipment-and-aid-issue-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Issuing equipment without fit, instruction, and review can create falls risk\n- The right device is only helpful if the patient can use it safely in the actual site environment\n- Equipment plans should include return, replacement, and review expectations",
+      "sortOrder": 2
+    },
+    {
+      "id": "site-based-equipment-and-aid-issue-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Check whether the patient can safely use the device immediately and whether supervision is needed\n- Fit and demonstrate the aid rather than just handing it out\n- Escalate if even with the device the patient remains unsafe to mobilise",
+      "sortOrder": 3
+    },
+    {
+      "id": "site-based-equipment-and-aid-issue-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Match the aid to the impairment, terrain, and expected duration of use\n- Provide clear instruction on stairs, transfers, uneven ground, and what deterioration should prompt re-contact\n- Review whether the device can be downgraded or ceased as function improves",
+      "sortOrder": 4
+    },
+    {
+      "id": "site-based-equipment-and-aid-issue-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Equipment issue is a clinical intervention, not just a logistics task",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

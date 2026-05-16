@@ -1,0 +1,64 @@
+{
+  "id": "fitness-for-work-certification-principles",
+  "title": "Fitness for Work Certification Principles",
+  "category": "medical",
+  "tags": [
+    "fitness for work",
+    "certification",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "work capacity certification",
+    "Fitness for Work Certification Principles"
+  ],
+  "sections": [
+    {
+      "id": "fitness-for-work-certification-principles-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline outlines how physiotherapists should approach work-capacity statements, recommendations, and restrictions in FIFOEMS settings.",
+      "sortOrder": 0
+    },
+    {
+      "id": "fitness-for-work-certification-principles-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Worker asking for clearance, restrictions, or progression\n- Supervisor requesting work-capacity advice\n- Reassessment after injury or illness",
+      "sortOrder": 1
+    },
+    {
+      "id": "fitness-for-work-certification-principles-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Fitness-for-work advice should be based on function, risk, and task demands, not a simple statement of pain\n- The physio role is to support safe participation and clear restrictions, while staying within legal and organisational certification rules\n- Safety-critical tasks need a higher threshold for confidence than low-risk desk or admin duties",
+      "sortOrder": 2
+    },
+    {
+      "id": "fitness-for-work-certification-principles-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Clarify essential tasks, current symptoms, and immediate safety risks\n- If the worker appears unsafe, medically unstable, or clearly outside onsite management, escalate rather than issue broad reassurance\n- Avoid vague terms such as 'light duties' without defining what they mean",
+      "sortOrder": 3
+    },
+    {
+      "id": "fitness-for-work-certification-principles-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Give specific limits around lifting, climbing, kneeling, driving, repetitive force, walking distance, and shift duration where applicable\n- State review points and what improvement is needed before progression\n- Coordinate with the doctor or employer when local policy requires formal certification outside physio authority",
+      "sortOrder": 4
+    },
+    {
+      "id": "fitness-for-work-certification-principles-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Useful work-capacity advice tells the workplace what is safe today and what needs to change before more is safe tomorrow",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

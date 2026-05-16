@@ -1,0 +1,64 @@
+{
+  "id": "physio-review-timeframes-and-follow-up-triggers",
+  "title": "Physio Review Timeframes and Follow-up Triggers",
+  "category": "medical",
+  "tags": [
+    "review timeframes",
+    "follow up",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "physio follow-up triggers",
+    "Physio Review Timeframes and Follow-up Triggers"
+  ],
+  "sections": [
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline sets practical expectations for when physio reviews should occur and what changes should trigger earlier reassessment or escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- New injury or new physio care plan\n- Stable follow-up\n- Slow progress or recurrent flare\n- Work-capacity reassessment",
+      "sortOrder": 1
+    },
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Review timing should reflect risk, not habit\n- Remote and shift-work settings may justify shorter review intervals because support can disappear quickly\n- Failure to improve on the expected trajectory is itself a review trigger",
+      "sortOrder": 2
+    },
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Review sooner when pain is escalating, weight-bearing is worsening, neurological symptoms appear, sleep is collapsing, or the patient cannot perform basic tasks safely\n- For low-risk strains or minor overload, review can be spaced if the patient has a clear self-management plan\n- Escalate immediately if new red flags emerge between appointments",
+      "sortOrder": 3
+    },
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use clear review intervals linked to function goals, work restrictions, and symptom irritability\n- Shorten follow-up when the diagnosis is uncertain, the environment is high risk, or there is no improvement after initial management\n- Extend review spacing only when the patient is improving and knows when to re-contact",
+      "sortOrder": 4
+    },
+    {
+      "id": "physio-review-timeframes-and-follow-up-triggers-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- A missed or delayed review in remote practice can matter more than in town because backup care may be hours away",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

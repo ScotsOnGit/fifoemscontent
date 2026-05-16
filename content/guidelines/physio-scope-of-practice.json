@@ -1,0 +1,64 @@
+{
+  "id": "physio-scope-of-practice",
+  "title": "Physio Scope of Practice (FIFOEMS)",
+  "category": "medical",
+  "tags": [
+    "physio governance",
+    "scope of practice",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "physiotherapy scope",
+    "Physio Scope of Practice (FIFOEMS)"
+  ],
+  "sections": [
+    {
+      "id": "physio-scope-of-practice-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline defines the operational scope for FIFOEMS physiotherapists working in remote and occupational settings. It supports broad practice while making clear where escalation, shared care, or transfer of care is required.",
+      "sortOrder": 0
+    },
+    {
+      "id": "physio-scope-of-practice-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Requests for assessment, treatment, rehabilitation, fit-for-work advice, ergonomic review, or functional support\n- Presentations spanning musculoskeletal, functional, occupational, falls, vestibular, pelvic health, or post-illness rehab domains",
+      "sortOrder": 1
+    },
+    {
+      "id": "physio-scope-of-practice-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Physiotherapists should work within competence, credentials, available equipment, and the actual remoteness/risk of the site\n- A broad FIFO scope still has boundaries around acute medical instability, uncontrolled behavioural risk, and time-critical emergencies\n- Scope decisions should consider patient safety, legal framework, and the ability to access backup care",
+      "sortOrder": 2
+    },
+    {
+      "id": "physio-scope-of-practice-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Confirm the presenting problem is appropriate for physio-led review and screen for immediate red flags\n- Escalate early when symptoms suggest emergency medical, nursing, or paramedic management\n- Use conservative assessment and treatment only when the patient is clinically stable and the setting is safe",
+      "sortOrder": 3
+    },
+    {
+      "id": "physio-scope-of-practice-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Manage independently where the issue is within physiotherapy competence and remote support pathways exist\n- Use shared care for overlapping problems such as pain, RTW, chronic disease, concussion, vestibular symptoms, or pelvic health\n- Transfer care promptly when diagnosis, deterioration, or treatment need falls outside physio scope or site capability",
+      "sortOrder": 4
+    },
+    {
+      "id": "physio-scope-of-practice-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Scope is defined by competence plus context; a treatment that is safe in one setting may not be safe in another",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

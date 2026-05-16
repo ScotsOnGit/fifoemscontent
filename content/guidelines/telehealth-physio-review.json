@@ -1,0 +1,64 @@
+{
+  "id": "telehealth-physio-review",
+  "title": "Telehealth Physio Review",
+  "category": "medical",
+  "tags": [
+    "telehealth",
+    "remote review",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "telehealth physiotherapy",
+    "Telehealth Physio Review"
+  ],
+  "sections": [
+    {
+      "id": "telehealth-physio-review-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Telehealth physio review can support remote FIFO sites when face-to-face assessment is unavailable or delayed, but it should be used selectively and safely.",
+      "sortOrder": 0
+    },
+    {
+      "id": "telehealth-physio-review-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Review request from remote site\n- Follow-up of a known condition\n- Function, pain, or work-capacity review where the patient can participate safely on camera",
+      "sortOrder": 1
+    },
+    {
+      "id": "telehealth-physio-review-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Telehealth is limited when physical examination, gait safety, wound review, or urgent escalation are required\n- Identity, privacy, consent, and location should be confirmed at the start of the call\n- The clinician should know what to do if the patient deteriorates during the consultation",
+      "sortOrder": 2
+    },
+    {
+      "id": "telehealth-physio-review-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Confirm patient identity, exact location, privacy, and whether someone else is present\n- Screen for urgent red flags before attempting detailed remote assessment\n- Stop and escalate to onsite clinician, ambulance, or hospital pathway if the presentation is unsafe for telehealth management",
+      "sortOrder": 3
+    },
+    {
+      "id": "telehealth-physio-review-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use telehealth mainly for education, progression, RTW review, symptom monitoring, and structured movement observation\n- Be explicit about what could not be examined adequately\n- Arrange face-to-face review when the diagnosis is uncertain, functional testing is unsafe remotely, or progress is poor",
+      "sortOrder": 4
+    },
+    {
+      "id": "telehealth-physio-review-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Safe telehealth starts with knowing when not to keep going remotely",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

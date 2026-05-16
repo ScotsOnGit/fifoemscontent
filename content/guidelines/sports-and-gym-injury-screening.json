@@ -1,0 +1,64 @@
+{
+  "id": "sports-and-gym-injury-screening",
+  "title": "Sports and Gym Injury Screening",
+  "category": "medical",
+  "tags": [
+    "sports injury",
+    "gym injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "recreation injury screening",
+    "Sports and Gym Injury Screening"
+  ],
+  "sections": [
+    {
+      "id": "sports-and-gym-injury-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline covers screening of recreational sports and gym injuries common on remote sites, including lifting, running, contact, and court or field activities.",
+      "sortOrder": 0
+    },
+    {
+      "id": "sports-and-gym-injury-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain or injury after gym, sport, or recreational activity\n- Sudden pop, strain, twist, or overload during training\n- Swelling, bruising, instability, or reduced performance\n- Fear of returning to training or re-injury",
+      "sortOrder": 1
+    },
+    {
+      "id": "sports-and-gym-injury-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Recreational injuries can still be fractures, tendon ruptures, concussion, or dislocation patterns\n- Patients may minimise injury because they want to return to exercise quickly\n- Gym injuries often reflect rapid load progression, fatigue, or poor movement control rather than one catastrophic event",
+      "sortOrder": 2
+    },
+    {
+      "id": "sports-and-gym-injury-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen trauma severity, neurovascular status, concussion red flags, and whether the patient can bear weight or use the limb safely\n- Restrict return to play or training if function is clearly compromised\n- Escalate if fracture, rupture, dislocation, or concussion concern exists",
+      "sortOrder": 3
+    },
+    {
+      "id": "sports-and-gym-injury-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Clarify the exact mechanism, load, movement pattern, and previous injury history\n- Use staged rehab and return progression rather than symptom-only rest or immediate unrestricted return\n- Coordinate imaging or medical review when the mechanism or dysfunction suggests significant structural injury",
+      "sortOrder": 4
+    },
+    {
+      "id": "sports-and-gym-injury-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- On remote sites, the safest sports plan is one that prevents a minor recreation injury turning into a work limitation",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

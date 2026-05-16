@@ -1,0 +1,64 @@
+{
+  "id": "exercise-load-management-and-return-to-gym",
+  "title": "Exercise Load Management and Return to Gym",
+  "category": "medical",
+  "tags": [
+    "return to gym",
+    "training load",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "load management",
+    "Exercise Load Management and Return to Gym"
+  ],
+  "sections": [
+    {
+      "id": "exercise-load-management-and-return-to-gym-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline helps physiotherapists progress patients back to training, resistance work, and conditioning without provoking repeated flare cycles or unsafe return.",
+      "sortOrder": 0
+    },
+    {
+      "id": "exercise-load-management-and-return-to-gym-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Patient improving from injury and wanting to resume training\n- Load spikes causing repeated flares\n- Uncertainty about safe exercise selection, volume, or progression",
+      "sortOrder": 1
+    },
+    {
+      "id": "exercise-load-management-and-return-to-gym-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Return to gym should be staged and task-specific, not all-or-nothing\n- Pain during exercise does not always mean harm, but worsening pain, swelling, or function loss after sessions should change the plan\n- Load, recovery, sleep, and technique all affect whether the patient succeeds",
+      "sortOrder": 2
+    },
+    {
+      "id": "exercise-load-management-and-return-to-gym-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Confirm the injury is stable and there are no unresolved red flags before progression\n- Advise temporary substitution or load reduction rather than abrupt total rest where possible\n- Escalate if training repeatedly exposes major instability, neurological signs, or uncontrolled pain",
+      "sortOrder": 3
+    },
+    {
+      "id": "exercise-load-management-and-return-to-gym-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Progress exercise by one main variable at a time such as volume, intensity, speed, or complexity\n- Link return milestones to job demands when the worker also needs to remain fit for duty\n- Use symptom response over 24 to 48 hours to judge the right next step",
+      "sortOrder": 4
+    },
+    {
+      "id": "exercise-load-management-and-return-to-gym-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- A return-to-gym plan should be realistic enough that the patient actually follows it outside the clinic",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}
