@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-16T04:44:05Z",
+  "lastUpdated": "2026-05-16T05:01:17Z",
   "files": {
     "guidelines/abdominal-pain": 3,
     "guidelines/abdominal-trauma": 3,
@@ -242,7 +242,8 @@
     "guidelines/vertigo": 3,
     "guidelines/vestibular-rehabilitation-persistent-dizziness": 1,
     "medications": 130428507,
-    "calculators": 180710207,
-    "mnemonics": 141952568
+    "calculators": 62241121,
+    "mnemonics": 141952568,
+    "references": 90878001
   }
 }

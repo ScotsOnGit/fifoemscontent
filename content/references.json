@@ -1,0 +1,263 @@
+{
+  "sections": [
+    {
+      "category": "Clinical Scoring",
+      "items": [
+        {
+          "id": "news2",
+          "title": "NEWS2",
+          "subtitle": "Royal College of Physicians, 2017",
+          "url": "https://www.rcp.ac.uk/improving-care/resources/national-early-warning-score-news-2/"
+        },
+        {
+          "id": "gcs",
+          "title": "Glasgow Coma Scale",
+          "subtitle": "Teasdale & Jennett, 1974",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/4136544/"
+        },
+        {
+          "id": "heart-score",
+          "title": "HEART Score",
+          "subtitle": "Six et al., 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20227200/"
+        },
+        {
+          "id": "qsofa",
+          "title": "qSOFA / Sepsis-3",
+          "subtitle": "Singer et al., 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26903338/"
+        },
+        {
+          "id": "race",
+          "title": "RACE Score",
+          "subtitle": "Pérez de la Ossa et al., 2014",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24281260/"
+        },
+        {
+          "id": "wells-pe",
+          "title": "Wells PE Score",
+          "subtitle": "Wells et al., 2000",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10737280/"
+        },
+        {
+          "id": "chadsvasc",
+          "title": "CHA₂DS₂-VASc",
+          "subtitle": "Lip et al., 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20805049/"
+        },
+        {
+          "id": "revised-geneva",
+          "title": "Revised Geneva Score",
+          "subtitle": "Le Gal et al., 2006",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16490905/"
+        },
+        {
+          "id": "sgarbossa",
+          "title": "Sgarbossa Criteria",
+          "subtitle": "Sgarbossa et al., 1996",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8766821/"
+        },
+        {
+          "id": "bazett-qtc",
+          "title": "Bazett QTc",
+          "subtitle": "Bazett, 1920",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20598271/"
+        }
+      ]
+    },
+    {
+      "category": "Trauma",
+      "items": [
+        {
+          "id": "mgap",
+          "title": "MGAP Score",
+          "subtitle": "Sartorius et al., 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20699743/"
+        },
+        {
+          "id": "gap",
+          "title": "GAP Score",
+          "subtitle": "Kondo et al., 2011 / Godat et al., 2014 use",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21251626/"
+        },
+        {
+          "id": "crams",
+          "title": "CRAMS Scale",
+          "subtitle": "Gormican, 1982",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7073050/"
+        },
+        {
+          "id": "batt",
+          "title": "BATT Score",
+          "subtitle": "Ageron et al., 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33423904/"
+        },
+        {
+          "id": "parkland",
+          "title": "Parkland Formula",
+          "subtitle": "Baxter & Shires, 1968",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/4970180/"
+        },
+        {
+          "id": "blast-lung",
+          "title": "Blast Lung Injury",
+          "subtitle": "Leibovici et al., 1996",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8896444/"
+        }
+      ]
+    },
+    {
+      "category": "Toxicology and Environmental",
+      "items": [
+        {
+          "id": "hbo-criteria",
+          "title": "Hyperbaric Oxygen Criteria",
+          "subtitle": "Weaver et al., 2002",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12362006/"
+        },
+        {
+          "id": "h2s-staging",
+          "title": "Hydrogen Sulfide Staging",
+          "subtitle": "Guidotti, 2015; Safe Work Australia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26391346/"
+        },
+        {
+          "id": "noise-dose",
+          "title": "Noise Dose Reference",
+          "subtitle": "NIOSH 1998; Safe Work Australia WES",
+          "url": "https://www.cdc.gov/niosh/docs/98-126/"
+        },
+        {
+          "id": "erg",
+          "title": "Emergency Response Guidebook",
+          "subtitle": "PHMSA / Transport Canada / SCT",
+          "url": "https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg"
+        }
+      ]
+    },
+    {
+      "category": "Physiotherapy and Functional",
+      "items": [
+        {
+          "id": "cfs",
+          "title": "Clinical Frailty Scale",
+          "subtitle": "Rockwood et al., 2005",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16129869/"
+        },
+        {
+          "id": "tug",
+          "title": "Timed Up and Go Norms",
+          "subtitle": "Bohannon, 2006",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16809244/"
+        },
+        {
+          "id": "sppb",
+          "title": "Short Physical Performance Battery",
+          "subtitle": "Guralnik et al., 1994",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8159287/"
+        },
+        {
+          "id": "berg",
+          "title": "Berg Balance Scale",
+          "subtitle": "Berg et al., 1992; Donoghue, 2009",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22731143/"
+        },
+        {
+          "id": "oswestry",
+          "title": "Oswestry Disability Index",
+          "subtitle": "Fairbank et al., 1980",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/6450426/"
+        },
+        {
+          "id": "ndi",
+          "title": "Neck Disability Index",
+          "subtitle": "Vernon & Mior, 1991",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1834753/"
+        },
+        {
+          "id": "psfs",
+          "title": "Patient-Specific Functional Scale",
+          "subtitle": "Stratford et al., 1995",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8535464/"
+        },
+        {
+          "id": "lefs-uefs",
+          "title": "LEFS / UEFS",
+          "subtitle": "Binkley et al., 1999; Stratford et al., 2001",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10332158/"
+        }
+      ]
+    },
+    {
+      "category": "Occupational Health and Ergonomics",
+      "items": [
+        {
+          "id": "niosh-lifting",
+          "title": "NIOSH Lifting Equation",
+          "subtitle": "Waters et al., 1994",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8162887/"
+        },
+        {
+          "id": "reba",
+          "title": "REBA",
+          "subtitle": "Hignett & McAtamney, 2000",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10711982/"
+        },
+        {
+          "id": "samn-perelli",
+          "title": "Samn-Perelli Fatigue Scale",
+          "subtitle": "Samn & Perelli, 1982",
+          "url": "https://apps.dtic.mil/sti/citations/ADA122177"
+        },
+        {
+          "id": "spirometry",
+          "title": "GLI-2012 Spirometry",
+          "subtitle": "Quanjer et al., 2012",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22743675/"
+        },
+        {
+          "id": "audiometry-sts",
+          "title": "Audiometry STS",
+          "subtitle": "OSHA 29 CFR 1910.95 Appendix F",
+          "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.95AppF"
+        },
+        {
+          "id": "manual-tasks",
+          "title": "Hazardous Manual Tasks Code of Practice",
+          "subtitle": "Safe Work Australia, 2024",
+          "url": "https://www.safeworkaustralia.gov.au/doc/model-code-practice-hazardous-manual-tasks"
+        }
+      ]
+    },
+    {
+      "category": "Physio Governance",
+      "items": [
+        {
+          "id": "physio-thresholds",
+          "title": "Physiotherapy Practice Thresholds",
+          "subtitle": "Australian Physiotherapy Council, 2025",
+          "url": "https://physiocouncil.com.au/resources/physiotherapy-practice-thresholds-in-australia-and-aotearoa-new-zealand/"
+        },
+        {
+          "id": "ahpra-code",
+          "title": "Code of Conduct for Registered Health Practitioners",
+          "subtitle": "Ahpra, 2025",
+          "url": "https://www.ahpra.gov.au/Resources/Code-of-conduct.aspx"
+        },
+        {
+          "id": "telehealth-guidance",
+          "title": "Telehealth Guidance for Practitioners",
+          "subtitle": "Ahpra, 2025",
+          "url": "https://www.ahpra.gov.au/Resources/Telehealth-guidance-for-practitioners.aspx"
+        },
+        {
+          "id": "rtw-employers",
+          "title": "Return to Work Guidance",
+          "subtitle": "Comcare, 2026",
+          "url": "https://www.comcare.gov.au/claims/employer-information/return-to-work-employers"
+        }
+      ]
+    }
+  ],
+  "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation. Some content in this app synthesises multiple sources and may not reproduce any single reference verbatim."
+}
