@@ -1,0 +1,65 @@
+{
+  "id": "hand-therapy-post-injury-screening",
+  "title": "Hand Therapy Post-Injury Screening",
+  "category": "medical",
+  "tags": [
+    "hand therapy",
+    "post injury hand",
+    "finger rehab",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "hand rehab screening",
+    "Hand Therapy Post-Injury Screening"
+  ],
+  "sections": [
+    {
+      "id": "hand-therapy-post-injury-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Post-injury hand screening should identify who is suitable for conservative mobilisation and swelling management and who may have tendon, fracture, or nerve problems requiring specialist hand review.",
+      "sortOrder": 0
+    },
+    {
+      "id": "hand-therapy-post-injury-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Stiffness, swelling, pain, or weakness after hand or finger injury\n- Reduced grip, pinch, or dexterity\n- Scar sensitivity, tendon glide restriction, or guarded use\n- Difficulty returning to tools, keyboards, or fine motor tasks",
+      "sortOrder": 1
+    },
+    {
+      "id": "hand-therapy-post-injury-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for tendon rupture, fracture instability, infection, major sensory loss, or complex regional pain features\n- Hand stiffness can become a major functional problem even after seemingly small injuries\n- Overprotection can worsen long-term hand function",
+      "sortOrder": 2
+    },
+    {
+      "id": "hand-therapy-post-injury-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen skin, swelling, neurovascular status, and whether the hand is safe to use lightly today\n- Encourage protected use within limits rather than total avoidance when safe\n- Escalate if there is loss of active tendon function, severe pain, or major deformity",
+      "sortOrder": 3
+    },
+    {
+      "id": "hand-therapy-post-injury-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess tendon excursion, edema, range, scar sensitivity, and task-specific function\n- Use graded motion, edema control, desensitisation, and strengthening matched to the stage of healing\n- Refer for hand surgery or specialist therapy review when tendon, fracture, nerve, or complex pain concerns persist",
+      "sortOrder": 4
+    },
+    {
+      "id": "hand-therapy-post-injury-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Hand recovery should be judged by real pinch, grip, and dexterity demands, not swelling alone",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

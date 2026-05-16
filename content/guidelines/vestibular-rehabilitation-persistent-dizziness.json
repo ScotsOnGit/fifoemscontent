@@ -1,0 +1,64 @@
+{
+  "id": "vestibular-rehabilitation-persistent-dizziness",
+  "title": "Vestibular Rehabilitation and Persistent Dizziness",
+  "category": "neurological",
+  "tags": [
+    "vestibular rehab",
+    "persistent dizziness",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "persistent dizziness rehab",
+    "Vestibular Rehabilitation and Persistent Dizziness"
+  ],
+  "sections": [
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Persistent dizziness may reflect vestibular hypofunction, sensory mismatch, anxiety, migraine, cervicogenic factors, or unresolved central pathology. Rehabilitation is appropriate only after dangerous causes are adequately considered.",
+      "sortOrder": 0
+    },
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Ongoing dizziness, imbalance, or motion sensitivity\n- Visual dependence or symptom flare with busy environments\n- Reduced confidence walking, turning, or driving\n- Nausea, disequilibrium, or exercise intolerance",
+      "sortOrder": 1
+    },
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for new neurological signs, acute hearing loss, severe headache, syncope, or a progressive unexplained pattern\n- Persistent dizziness often has multifactorial drivers\n- Exercise should provoke manageable symptoms, not unsafe crashes",
+      "sortOrder": 2
+    },
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen falls risk, neuro red flags, and whether the patient can mobilise safely today\n- Give simple safety advice about transfers, stairs, and supervision if balance is poor\n- Escalate if the pattern is evolving, central, or medically unexplained",
+      "sortOrder": 3
+    },
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess vestibular, visual, cervical, and anxiety-related contributors where appropriate\n- Use graded gaze stability, habituation, balance, and walking progression when the diagnosis is suitable\n- Coordinate medical, ENT, neurology, or psychology review when symptoms remain atypical or refractory",
+      "sortOrder": 4
+    },
+    {
+      "id": "vestibular-rehabilitation-persistent-dizziness-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The right vestibular dose is enough to stimulate adaptation without making the patient fear movement more",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

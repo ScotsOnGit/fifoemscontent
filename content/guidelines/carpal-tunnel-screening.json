@@ -1,0 +1,65 @@
+{
+  "id": "carpal-tunnel-screening",
+  "title": "Carpal Tunnel Screening",
+  "category": "medical",
+  "tags": [
+    "carpal tunnel",
+    "median nerve",
+    "hand paraesthesia",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "CTS screening",
+    "Carpal Tunnel Screening"
+  ],
+  "sections": [
+    {
+      "id": "carpal-tunnel-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Carpal tunnel syndrome is common in repetitive, forceful, or sustained wrist tasks. Screening should identify likely median nerve compression while not missing broader neuropathy or more serious neurological disease.",
+      "sortOrder": 0
+    },
+    {
+      "id": "carpal-tunnel-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Numbness or tingling in thumb, index, middle, and radial ring finger\n- Night waking, shaking the hand for relief, or dropping objects\n- Thenar weakness or reduced pinch in more advanced cases\n- Symptoms worsened by repetitive gripping, tool use, or prolonged wrist posture",
+      "sortOrder": 1
+    },
+    {
+      "id": "carpal-tunnel-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Progressive weakness, constant numbness, proximal neurological signs, or major functional loss raise urgency for medical review\n- Symptoms can overlap with cervical radiculopathy, pronator syndrome, and generalized neuropathy\n- Workstation and tool factors often contribute but do not fully explain every case",
+      "sortOrder": 2
+    },
+    {
+      "id": "carpal-tunnel-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen sensory territory, grip function, sleep disturbance, and task triggers\n- Modify aggravating wrist positions and repetitive tasks where possible\n- Escalate for persistent motor deficit or significant hand dysfunction",
+      "sortOrder": 3
+    },
+    {
+      "id": "carpal-tunnel-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess median nerve pattern, cervical overlap, and workplace exposure factors\n- Use splinting discussion, tendon and nerve-friendly load modification, and progressive hand function work where appropriate\n- Refer for medical review, nerve studies, or surgical opinion when weakness, atrophy, or refractory symptoms persist",
+      "sortOrder": 4
+    },
+    {
+      "id": "carpal-tunnel-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Clear documentation of sensory distribution and functional loss is more useful than a vague label of wrist pain",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

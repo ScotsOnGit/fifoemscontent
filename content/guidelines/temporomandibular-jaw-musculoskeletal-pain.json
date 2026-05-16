@@ -1,0 +1,66 @@
+{
+  "id": "temporomandibular-jaw-musculoskeletal-pain",
+  "title": "Temporomandibular and Jaw Musculoskeletal Pain",
+  "category": "medical",
+  "tags": [
+    "TMJ",
+    "jaw pain",
+    "orofacial pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "TMJ pain",
+    "jaw musculoskeletal pain",
+    "Temporomandibular and Jaw Musculoskeletal Pain"
+  ],
+  "sections": [
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Temporomandibular and jaw musculoskeletal pain can reflect myofascial overload, bruxism, joint irritation, or referred cervical symptoms. Conservative care is common, but dental, neurological, infectious, or fracture causes must be screened.",
+      "sortOrder": 0
+    },
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Jaw pain with chewing, yawning, or clenching\n- Clicking, locking, or reduced mouth opening\n- Associated headache, facial ache, or neck tension\n- Morning stiffness or symptom flare with stress or prolonged clenching",
+      "sortOrder": 1
+    },
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for trauma, dislocation, severe trismus, fever, dental sepsis, cranial nerve findings, or unexplained weight loss\n- Bruxism, stress, and cervical loading often coexist with TMD symptoms\n- Persistent locking or major bite change warrants specialist review",
+      "sortOrder": 2
+    },
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen mouth opening, trauma, dental red flags, and whether the patient can eat, drink, and speak safely\n- Advise relative unloading, softer diet, jaw relaxation, and simple symptom relief within scope\n- Escalate for infection, dislocation, or major functional compromise",
+      "sortOrder": 3
+    },
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess jaw opening, deviation, tenderness, cervical contribution, and symptom triggers\n- Use education, self-management, and graded jaw and cervical exercises rather than forceful stretching\n- Refer for dental, maxillofacial, or medical review when locking, severe bite change, or persistent severe pain remains",
+      "sortOrder": 4
+    },
+    {
+      "id": "temporomandibular-jaw-musculoskeletal-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Jaw pain often improves when clenching load, sleep, stress, and cervical contributors are addressed together",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

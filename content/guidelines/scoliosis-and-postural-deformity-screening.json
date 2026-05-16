@@ -1,0 +1,64 @@
+{
+  "id": "scoliosis-and-postural-deformity-screening",
+  "title": "Scoliosis and Postural Deformity Screening",
+  "category": "medical",
+  "tags": [
+    "scoliosis",
+    "postural deformity",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "scoliosis screening",
+    "Scoliosis and Postural Deformity Screening"
+  ],
+  "sections": [
+    {
+      "id": "scoliosis-and-postural-deformity-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Scoliosis and postural deformity screening aims to identify who may need observation, exercise-based management, or specialist spinal review rather than trying to solve every asymmetry at first contact.",
+      "sortOrder": 0
+    },
+    {
+      "id": "scoliosis-and-postural-deformity-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Visible asymmetry of shoulders, ribs, waist, or trunk\n- Prominence on forward bend\n- Postural fatigue, back pain, or cosmetic concern\n- Adolescent growth phase or long-standing spinal asymmetry history",
+      "sortOrder": 1
+    },
+    {
+      "id": "scoliosis-and-postural-deformity-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Severe pain, neurological signs, systemic symptoms, rapid curve progression, or unusual stiffness are not typical uncomplicated scoliosis features and should escalate review\n- Not every posture difference is structural scoliosis\n- Screening is about recognition and referral thresholds, not definitive Cobb-angle diagnosis in the field",
+      "sortOrder": 2
+    },
+    {
+      "id": "scoliosis-and-postural-deformity-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen age, growth status, functional impact, and obvious asymmetry\n- Escalate if neurological symptoms, severe pain, or rapid progression concern exists\n- Reassure that mild asymmetry alone is not automatically dangerous",
+      "sortOrder": 3
+    },
+    {
+      "id": "scoliosis-and-postural-deformity-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use structured posture and forward-bend observation where appropriate\n- Refer for imaging or specialist spinal review when structural scoliosis is likely or progression risk is meaningful\n- Use exercise-based support for function and confidence within scope, but avoid claiming to diagnose curve severity without imaging",
+      "sortOrder": 4
+    },
+    {
+      "id": "scoliosis-and-postural-deformity-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The most important questions are whether the curve is structural, progressing, and affecting function or safety",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

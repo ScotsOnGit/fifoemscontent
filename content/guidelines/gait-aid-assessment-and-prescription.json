@@ -1,0 +1,65 @@
+{
+  "id": "gait-aid-assessment-and-prescription",
+  "title": "Gait Aid Assessment and Prescription",
+  "category": "medical",
+  "tags": [
+    "gait aid",
+    "walking aid",
+    "mobility aid",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "walking aid assessment",
+    "Gait Aid Assessment and Prescription"
+  ],
+  "sections": [
+    {
+      "id": "gait-aid-assessment-and-prescription-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Gait aid assessment aims to improve safety, confidence, and load sharing without creating unnecessary dependence or unsafe technique.",
+      "sortOrder": 0
+    },
+    {
+      "id": "gait-aid-assessment-and-prescription-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Reduced balance, pain, weakness, or fatigue limiting safe walking\n- Recent falls or near-falls\n- Need for temporary offloading after injury or surgery\n- Difficulty walking in camp, stairs, uneven terrain, or longer distances",
+      "sortOrder": 1
+    },
+    {
+      "id": "gait-aid-assessment-and-prescription-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- The wrong gait aid or poor sizing can worsen falls risk\n- Cane, crutch, frame, and rollator choice should match the actual deficit and environment\n- Not every patient who is unsteady is suitable for independent gait-aid use without supervision",
+      "sortOrder": 2
+    },
+    {
+      "id": "gait-aid-assessment-and-prescription-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Decide whether the patient currently needs supervised support, a temporary aid, or urgent escalation\n- Check height, hand placement, and whether the patient can safely use the device over real terrain\n- Escalate if even assisted walking remains unsafe",
+      "sortOrder": 3
+    },
+    {
+      "id": "gait-aid-assessment-and-prescription-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Match the aid to the patient's strength, cognition, endurance, and environment\n- Train turning, stairs, sit-to-stand, and uneven-ground use where relevant\n- Reassess whether the aid is still required as pain, balance, and load tolerance improve",
+      "sortOrder": 4
+    },
+    {
+      "id": "gait-aid-assessment-and-prescription-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- A gait aid is only useful if the patient can actually use it safely in the places they live and work",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

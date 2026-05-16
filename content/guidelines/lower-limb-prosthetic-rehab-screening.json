@@ -1,0 +1,64 @@
+{
+  "id": "lower-limb-prosthetic-rehab-screening",
+  "title": "Lower Limb Prosthetic Rehabilitation Screening",
+  "category": "medical",
+  "tags": [
+    "prosthetic rehab",
+    "amputation rehab",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "prosthetic screening",
+    "Lower Limb Prosthetic Rehabilitation Screening"
+  ],
+  "sections": [
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Lower-limb prosthetic rehabilitation screening in FIFOEMS should identify socket, skin, comfort, alignment, endurance, and falls issues, and decide when specialist prosthetic input is needed.",
+      "sortOrder": 0
+    },
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Skin irritation, socket discomfort, or poor prosthetic fit\n- Reduced walking distance, balance, or endurance\n- Falls, fear of falls, or trouble on uneven ground\n- Pain at residual limb, back, or contralateral limb",
+      "sortOrder": 1
+    },
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for wound breakdown, infection, acute ischaemia, major device failure, or inability to transfer safely\n- Prosthetic problems often reflect a combination of socket fit, volume change, component setup, and conditioning\n- Do not keep pushing a patient through a clearly unsafe prosthetic setup",
+      "sortOrder": 2
+    },
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Check skin, comfort, weight-bearing tolerance, and immediate mobility safety\n- Reduce risk by modifying walking exposure or using backup aids if needed\n- Escalate if the patient cannot safely use the prosthesis or has skin compromise",
+      "sortOrder": 3
+    },
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess fit tolerance, gait pattern, step symmetry, endurance, terrain challenges, and residual limb care understanding\n- Coordinate prosthetist, medical, and rehab review when device changes or wound issues are needed\n- Build strength, balance, and endurance goals around real work and terrain demands",
+      "sortOrder": 4
+    },
+    {
+      "id": "lower-limb-prosthetic-rehab-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Prosthetic rehab decisions should be made with the socket and terrain in mind, not just a flat indoor walk",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

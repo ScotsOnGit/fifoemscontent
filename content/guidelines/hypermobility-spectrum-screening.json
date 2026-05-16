@@ -1,0 +1,65 @@
+{
+  "id": "hypermobility-spectrum-screening",
+  "title": "Hypermobility Spectrum Screening",
+  "category": "medical",
+  "tags": [
+    "hypermobility",
+    "EDS",
+    "joint instability",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "joint hypermobility screening",
+    "Hypermobility Spectrum Screening"
+  ],
+  "sections": [
+    {
+      "id": "hypermobility-spectrum-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Hypermobility presentations often involve recurrent pain, instability, fatigue, and poor load tolerance. Screening should recognise this pattern while also watching for dysautonomia, widespread pain, and safety concerns.",
+      "sortOrder": 0
+    },
+    {
+      "id": "hypermobility-spectrum-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Recurrent sprains, subluxation feelings, or multiple pain sites\n- Joint instability, fatigue, or poor recovery after activity\n- Soft tissue injury with seemingly minor loads\n- Long history of flexibility or clumsiness",
+      "sortOrder": 1
+    },
+    {
+      "id": "hypermobility-spectrum-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Hypermobility does not mean every symptom is benign or that all pain should be dismissed as laxity\n- Consider dysautonomia, chronic pain, pelvic floor issues, and pregnancy-related implications in more complex cases\n- Generalised hypermobility needs load-building, not repeated aggressive stretching",
+      "sortOrder": 2
+    },
+    {
+      "id": "hypermobility-spectrum-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify whether the current issue is stable overload or an acute unsafe instability or neurological presentation\n- Advise controlled movement and simple support strategies rather than end-range provocation\n- Escalate for significant neurological findings, syncope, or major functional decline",
+      "sortOrder": 3
+    },
+    {
+      "id": "hypermobility-spectrum-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess symptom behaviour, instability pattern, fatigue, and broader multisystem history where relevant\n- Use progressive strength, motor control, pacing, and confidence-focused rehab rather than instability-focused fear messaging\n- Refer for rheumatology, genetics, pelvic health, or broader multidisciplinary review when the pattern is complex or disabling",
+      "sortOrder": 4
+    },
+    {
+      "id": "hypermobility-spectrum-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Hypermobile patients often need steadiness, dosage, and consistency more than intensity",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

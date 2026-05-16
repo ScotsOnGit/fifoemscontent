@@ -1,0 +1,65 @@
+{
+  "id": "paediatric-motor-and-mobility-screening",
+  "title": "Paediatric Motor and Mobility Screening",
+  "category": "paediatric",
+  "tags": [
+    "paediatric physio",
+    "motor delay",
+    "mobility screening",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "motor delay screening",
+    "Paediatric Motor and Mobility Screening"
+  ],
+  "sections": [
+    {
+      "id": "paediatric-motor-and-mobility-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Paediatric motor and mobility screening helps identify children whose movement, balance, coordination, or endurance suggests developmental delay, neurological disorder, injury, or need for formal paediatric rehab referral.",
+      "sortOrder": 0
+    },
+    {
+      "id": "paediatric-motor-and-mobility-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Delayed gross motor milestones or poor motor control\n- Frequent falls, clumsiness, toe walking, or poor balance\n- Difficulty running, jumping, stair use, or playground skills compared with peers\n- Parent or school concern about endurance, coordination, or asymmetry",
+      "sortOrder": 1
+    },
+    {
+      "id": "paediatric-motor-and-mobility-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Development is variable, but regression, asymmetry, pain, seizures, weakness, or bowel and bladder change require escalation\n- Screening tools support judgement but do not replace a full developmental or neurological assessment\n- Family concern can be clinically important even when the child compensates well in clinic",
+      "sortOrder": 2
+    },
+    {
+      "id": "paediatric-motor-and-mobility-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Clarify what the child used to do, what they cannot do now, and whether there has been regression\n- Screen safety, pain, asymmetry, and obvious neurological red flags\n- Escalate urgent concerns rather than delaying for routine therapy referral",
+      "sortOrder": 3
+    },
+    {
+      "id": "paediatric-motor-and-mobility-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use age-appropriate screening of balance, transfers, gait, stairs, running, hopping, and play-based motor tasks\n- Coordinate paediatric medical, neurological, orthopaedic, or developmental referral when delay or asymmetry is meaningful\n- Guide parents on safety, play exposure, and follow-up expectations",
+      "sortOrder": 4
+    },
+    {
+      "id": "paediatric-motor-and-mobility-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- In children, change over time and asymmetry often matter more than one isolated clinic performance",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

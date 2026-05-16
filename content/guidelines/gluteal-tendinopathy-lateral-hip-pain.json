@@ -1,0 +1,64 @@
+{
+  "id": "gluteal-tendinopathy-lateral-hip-pain",
+  "title": "Gluteal Tendinopathy and Lateral Hip Pain",
+  "category": "medical",
+  "tags": [
+    "gluteal tendinopathy",
+    "lateral hip pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "greater trochanteric pain syndrome",
+    "Gluteal Tendinopathy and Lateral Hip Pain"
+  ],
+  "sections": [
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Lateral hip pain is commonly related to gluteal tendinopathy and compression-sensitive lateral hip structures. It often responds to load and compression modification with progressive strengthening.",
+      "sortOrder": 0
+    },
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Lateral hip pain with walking, stairs, side-lying, or standing on one leg\n- Tenderness over the greater trochanter\n- Reduced tolerance to hills, step-ups, or prolonged standing\n- Possible night pain when lying on the affected side",
+      "sortOrder": 1
+    },
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider lumbar referral, fracture, septic joint, inflammatory disease, or major weakness if the pattern is atypical\n- Compression such as side-lying and hip adduction can be major aggravators\n- Pain relief from injection does not replace load-based rehabilitation",
+      "sortOrder": 2
+    },
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen trauma, weight-bearing safety, and major red flags\n- Advise reducing compressive positions and temporarily modifying aggravating load\n- Escalate if fracture, severe weakness, or systemic features are suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess single-leg tolerance, hip abductor function, gait, and irritability\n- Start graded hip abductor strengthening and compression-load management\n- Refer for imaging or medical review when pain is severe, diagnosis uncertain, or progress poor",
+      "sortOrder": 4
+    },
+    {
+      "id": "gluteal-tendinopathy-lateral-hip-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Lateral hip pain often improves when the patient stops repeatedly compressing the tendon between sessions",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

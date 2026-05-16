@@ -1,0 +1,65 @@
+{
+  "id": "achilles-tendinopathy",
+  "title": "Achilles Tendinopathy",
+  "category": "medical",
+  "tags": [
+    "achilles",
+    "tendinopathy",
+    "calf",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "achilles pain",
+    "Achilles Tendinopathy"
+  ],
+  "sections": [
+    {
+      "id": "achilles-tendinopathy-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Achilles tendinopathy is a load-related tendon condition causing pain, stiffness, and reduced push-off function. The key is distinguishing tendinopathy from rupture, inflammatory disease, or major retrocalcaneal pathology.",
+      "sortOrder": 0
+    },
+    {
+      "id": "achilles-tendinopathy-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain and stiffness in the Achilles region, often worse with first steps\n- Pain during running, stairs, hills, or repeated calf loading\n- Tendon thickening or local tenderness\n- Reduced calf endurance or hopping tolerance",
+      "sortOrder": 1
+    },
+    {
+      "id": "achilles-tendinopathy-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for suspected rupture, sudden power loss, marked swelling, or inflammatory/systemic features\n- Insertional and midportion Achilles pain behave differently and should not be managed identically\n- Complete rest usually delays tendon capacity recovery",
+      "sortOrder": 2
+    },
+    {
+      "id": "achilles-tendinopathy-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen rupture risk, ability to plantarflex, and whether weight-bearing is safe\n- Reduce provocative loading and provide simple pain relief and activity modification within scope\n- Escalate if rupture, severe swelling, or major function loss is suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "achilles-tendinopathy-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Distinguish insertional from midportion presentation and irritability\n- Use staged calf loading, tendon education, and footwear or heel-lift discussion where appropriate\n- Refer for imaging or specialist review when rupture concern, major insertional irritability, or poor progress persists",
+      "sortOrder": 4
+    },
+    {
+      "id": "achilles-tendinopathy-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Tendon recovery is usually driven by consistent progressive loading, not passive treatment alone",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

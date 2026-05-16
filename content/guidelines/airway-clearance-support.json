@@ -1,0 +1,65 @@
+{
+  "id": "airway-clearance-support",
+  "title": "Airway Clearance Support",
+  "category": "respiratory",
+  "tags": [
+    "airway clearance",
+    "chest physio",
+    "sputum clearance",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "chest physiotherapy support",
+    "Airway Clearance Support"
+  ],
+  "sections": [
+    {
+      "id": "airway-clearance-support-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Airway clearance support may assist selected stable patients with secretion burden, but it should never delay escalation in acute respiratory distress or unstable chest conditions.",
+      "sortOrder": 0
+    },
+    {
+      "id": "airway-clearance-support-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Productive cough or difficulty clearing sputum\n- Reduced breath efficiency with retained secretions\n- Chronic respiratory disease with mucus burden\n- Fatigue or weakness limiting effective cough",
+      "sortOrder": 1
+    },
+    {
+      "id": "airway-clearance-support-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Acute hypoxia, severe work of breathing, haemoptysis, chest trauma, or pneumothorax concern require medical management first\n- Not every respiratory patient benefits from active airway clearance at the time of presentation\n- Hydration, positioning, and underlying disease treatment often matter more than complex techniques in acute care",
+      "sortOrder": 2
+    },
+    {
+      "id": "airway-clearance-support-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen respiratory stability, SpO2, distress, and contraindications before trying airway-clearance support\n- Use upright positioning, supported cough, and simple breathing control where appropriate\n- Escalate if the patient is tiring, hypoxic, or unable to protect the airway",
+      "sortOrder": 3
+    },
+    {
+      "id": "airway-clearance-support-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Select simple secretion-mobilisation strategies that match the patient's stability and capacity\n- Coordinate with medical therapy such as bronchodilators, humidification, or infection management rather than treating airway clearance in isolation\n- Refer or escalate when chronic mucus burden, recurrent infection, or poor cough effectiveness suggests broader respiratory support needs",
+      "sortOrder": 4
+    },
+    {
+      "id": "airway-clearance-support-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Airway clearance is most useful when it improves real ventilation and secretion movement, not when it simply adds workload to a breathless patient",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lymphoedema-screening",
+  "title": "Lymphoedema Screening",
+  "category": "medical",
+  "tags": [
+    "lymphoedema",
+    "swelling",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "lymphedema screening",
+    "Lymphoedema Screening"
+  ],
+  "sections": [
+    {
+      "id": "lymphoedema-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Lymphoedema screening identifies patients with chronic or progressive swelling who may need compression-focused management, skin care, and specialist review, while ruling out urgent mimics such as DVT, infection, or acute limb threat.",
+      "sortOrder": 0
+    },
+    {
+      "id": "lymphoedema-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Chronic or progressive limb swelling\n- Heaviness, tightness, or reduced endurance\n- Skin changes, recurrent cellulitis, or difficulty fitting clothing or devices\n- History of cancer treatment, surgery, lymph node removal, or chronic venous issues",
+      "sortOrder": 1
+    },
+    {
+      "id": "lymphoedema-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- New unilateral swelling may reflect DVT, acute infection, trauma, or vascular compromise rather than stable lymphoedema\n- Skin integrity and infection history are major risk considerations\n- Compression is not appropriate until acute limb threats are considered",
+      "sortOrder": 2
+    },
+    {
+      "id": "lymphoedema-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen for red, hot, painful swelling, fever, or acute vascular concerns\n- Escalate urgent presentations rather than treating them as routine swelling management\n- Provide simple protection, elevation, and skin-care advice where appropriate",
+      "sortOrder": 3
+    },
+    {
+      "id": "lymphoedema-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Document distribution, chronicity, triggers, skin changes, and function impact\n- Refer for specialist lymphoedema assessment, compression planning, and long-term management when the pattern is consistent with chronic lymphatic swelling\n- Coordinate oncology, vascular, or medical review when diagnosis is uncertain",
+      "sortOrder": 4
+    },
+    {
+      "id": "lymphoedema-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Good lymphoedema screening is as much about ruling out dangerous swelling as it is about identifying chronic fluid overload",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}
