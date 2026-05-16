@@ -2,6 +2,9 @@
   "id": "abdominal-trauma",
   "title": "Abdominal Trauma",
   "category": "trauma",
+  "isFreeContent": true,
+  "version": 4,
+  "lastUpdated": "2026-05-16T09:59:02Z",
   "tags": [
     "abdominal",
     "trauma",
@@ -9,6 +12,21 @@
   ],
   "synonyms": [
     "Abdominal Trauma"
+  ],
+  "relatedMedicationIDs": [
+    "fentanyl",
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "methoxyflurane",
+    "oxygen",
+    "tranexamic-acid"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [
+    "revised-trauma-score",
+    "crams",
+    "batt-score",
+    "news2"
   ],
   "sections": [
     {
@@ -22,7 +40,7 @@
       "id": "abdominal-trauma-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- History: Blunt trauma (e.g., motor vehicle collision, fall, assault) or penetrating trauma (e.g., stabbing, gunshot)\n- Visible injuries: Bruising (such as seat belt signs), abrasions, lacerations, open wounds, evisceration\n- Signs of shock: Tachycardia, hypotension, pallor, diaphoresis, cool peripheries, delayed capillary refill\n- Distension (swollen and firm, late sign), nausea/vomiting\n- Localised or diffuse abdominal pain/discomfort, guarding, rigidity, or tenderness on palpation\n- Referred pain: Shoulder tip pain, (Kehr\u2019s sign \u2013 may indicate splenic injury)\n- Associated injuries such as pelvic fractures, chest injuries, long bone fractures",
+      "content": "- History: Blunt trauma (e.g., motor vehicle collision, fall, assault) or penetrating trauma (e.g., stabbing, gunshot)\n- Visible injuries: Bruising (such as seat belt signs), abrasions, lacerations, open wounds, evisceration\n- Signs of shock: Tachycardia, hypotension, pallor, diaphoresis, cool peripheries, delayed capillary refill\n- Distension (swollen and firm, late sign), nausea/vomiting\n- Localised or diffuse abdominal pain/discomfort, guarding, rigidity, or tenderness on palpation\n- Referred pain: Shoulder tip pain, (Kehr’s sign – may indicate splenic injury)\n- Associated injuries such as pelvic fractures, chest injuries, long bone fractures",
       "sortOrder": 1
     },
     {
@@ -35,14 +53,14 @@
     {
       "id": "abdominal-trauma-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
-      "content": "- Manage catastrophic bleeding if present\n- Primary Survey with c-spine consideration where indicated\n- Administer oxygen if indicated\n- Cover exposed viscera with moist sterile non-adherent dressing and plastic wrap; do not attempt to replace organs\n- Immobilise impaled objects and minimise unnecessary movement\n- Consider pelvic binder if mechanism or findings suggest pelvic injury\n- Perform focused vital signs and secondary survey, then expedite transport\n- Seek early senior support for penetrating injury, shock, or evisceration",
+      "title": "Management – Primary",
+      "content": "- Manage catastrophic bleeding if present\n- Primary Survey with c-spine consideration where indicated\n- Administer oxygen if indicated\n- Cover exposed viscera with moist sterile non-adherent dressing and plastic wrap; do not attempt to replace organs\n- Immobilise impaled objects and minimise unnecessary movement\n- Consider pelvic binder if mechanism or findings suggest pelvic injury\n- Perform focused vital signs and secondary survey, then expedite transport\n- Seek early escalation to senior support for penetrating injury, shock, or evisceration",
       "sortOrder": 3
     },
     {
       "id": "abdominal-trauma-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Consider advanced airway management as required\n- Gain IV or IO access\n- Consider IV fluids cautiously; use permissive resuscitation when haemorrhage is suspected unless contraindicated\n- Consider tranexamic acid within 3 hours of injury when significant traumatic bleeding is suspected\n- Provide analgesia and antiemetic therapy within scope\n- Apply cardiac monitoring during transport",
       "sortOrder": 4
     },
@@ -50,26 +68,8 @@
       "id": "abdominal-trauma-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Pattern bruising, such as Cullen\u2019s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
+      "content": "- Pattern bruising, such as Cullen’s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
       "sortOrder": 5
     }
-  ],
-  "relatedMedicationIDs": [
-    "fentanyl",
-    "hartmanns-solution",
-    "intravenous-normal-saline",
-    "methoxyflurane",
-    "oxygen",
-    "tranexamic-acid"
-  ],
-  "relatedGuidelineIDs": [],
-  "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
-  "relatedCalculatorIDs": [
-    "revised-trauma-score",
-    "crams",
-    "batt-score",
-    "news2"
   ]
 }
