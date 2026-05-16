@@ -3,8 +3,8 @@
   "title": "Abdominal Pain",
   "category": "medical",
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-15T13:02:16Z",
+  "version": 5,
+  "lastUpdated": "2026-05-16T09:52:18Z",
   "tags": [
     "abdominal",
     "pain",
@@ -42,7 +42,7 @@
       "id": "abdominal-pain-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Perform repeated vital signs\n- Keep the patient at rest and allow a position of comfort\n- Perform Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Abdominal auscultation\n- Consider simple analgesia if appropriate\n- Perform urinalysis and pregnancy testing where appropriate and available",
+      "content": "- Primary Survey\n- Perform repeated vital signs\n- Keep the patient at rest and allow a position of comfort\n- Perform Secondary Survey\n- Abdominal inspection and gentle palpation as tolerated\n- Abdominal auscultation\n- Consider simple analgesia if appropriate\n- Perform urinalysis and pregnancy testing where appropriate and available\n- Escalate to the on-call doctor as soon as is practicable",
       "sortOrder": 3
     },
     {
