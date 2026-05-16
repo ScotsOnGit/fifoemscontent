@@ -1,0 +1,65 @@
+{
+  "id": "peripheral-nerve-injury-screening",
+  "title": "Peripheral Nerve Injury Screening",
+  "category": "neurological",
+  "tags": [
+    "peripheral nerve",
+    "neuropraxia",
+    "nerve injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "nerve injury screening",
+    "Peripheral Nerve Injury Screening"
+  ],
+  "sections": [
+    {
+      "id": "peripheral-nerve-injury-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Peripheral nerve symptoms may follow trauma, compression, overload, or positional injury. Screening aims to identify whether the pattern is mild and stable or whether progressive motor loss, severe trauma, or compressive pathology requires urgent escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "peripheral-nerve-injury-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Numbness, tingling, burning, or sensory loss\n- Weakness in a focal distribution\n- Symptoms linked to posture, compression, stretch, or trauma\n- Clumsiness, dropping objects, or altered gait depending on the nerve involved",
+      "sortOrder": 1
+    },
+    {
+      "id": "peripheral-nerve-injury-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Progressive weakness, post-traumatic palsy, widespread deficit, or severe pain should lower the threshold for medical review\n- Distinguish root, plexus, peripheral nerve, and central patterns\n- Repeated provocative testing may worsen irritability without improving diagnosis",
+      "sortOrder": 2
+    },
+    {
+      "id": "peripheral-nerve-injury-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen function, sensory territory, and whether symptoms are progressing\n- Reduce obvious compression or aggravating postures where safe\n- Escalate if new weakness, major trauma, or widespread unexplained deficit is present",
+      "sortOrder": 3
+    },
+    {
+      "id": "peripheral-nerve-injury-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Map likely nerve distribution, strength loss, reflex change, and functional impact\n- Provide advice on posture, sleep position, splinting discussion, and task modification as appropriate\n- Refer for urgent review if acute palsy, severe trauma, or major functional loss is suspected; otherwise arrange structured follow-up if symptoms persist",
+      "sortOrder": 4
+    },
+    {
+      "id": "peripheral-nerve-injury-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Documentation should be specific about the muscles or sensory territories affected, not just 'numbness'",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

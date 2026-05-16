@@ -1,0 +1,67 @@
+{
+  "id": "lumbar-radiculopathy",
+  "title": "Lumbar Radiculopathy",
+  "category": "neurological",
+  "tags": [
+    "lumbar radiculopathy",
+    "sciatica",
+    "nerve root",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "sciatica",
+    "Lumbar Radiculopathy"
+  ],
+  "sections": [
+    {
+      "id": "lumbar-radiculopathy-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Lumbar radiculopathy is leg pain and neurological irritation arising from the lumbar spine. The main task is differentiating uncomplicated radicular pain from cauda equina, progressive deficit, or major non-spinal mimics.",
+      "sortOrder": 0
+    },
+    {
+      "id": "lumbar-radiculopathy-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Leg pain below the knee, often worse than back pain\n- Paresthesia or numbness in a dermatomal pattern\n- Possible myotomal weakness or reduced reflexes\n- Pain provoked by coughing, sneezing, or neural tension",
+      "sortOrder": 1
+    },
+    {
+      "id": "lumbar-radiculopathy-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Screen for cauda equina symptoms, progressive weakness, bilateral symptoms, severe night pain, infection, cancer, or recent major trauma\n- Not all leg pain is radiculopathy; consider vascular, hip, or peripheral nerve causes\n- Severe pain alone does not always equal urgent surgery, but progressive deficit raises urgency",
+      "sortOrder": 2
+    },
+    {
+      "id": "lumbar-radiculopathy-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen neurological status, bladder and bowel red flags, and safe mobility\n- Encourage comfortable movement and simple symptom relief within scope\n- Escalate urgently if cauda equina features or progressive motor loss are present",
+      "sortOrder": 3
+    },
+    {
+      "id": "lumbar-radiculopathy-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused neurological and neural-tension examination\n- Use graded loading, nerve-friendly movement advice, and positional modification where appropriate\n- Avoid repeated aggressive stretching into severe nerve irritation\n- Refer for urgent imaging or specialist review if red flags, severe functional decline, or progressive deficit are present",
+      "sortOrder": 4
+    },
+    {
+      "id": "lumbar-radiculopathy-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Clear documentation of motor findings and any change over time is important",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "back-pain-including-sprain-strain"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

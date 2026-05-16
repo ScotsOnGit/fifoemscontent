@@ -1,0 +1,64 @@
+{
+  "id": "muscle-strain-management",
+  "title": "Muscle Strain Management",
+  "category": "medical",
+  "tags": [
+    "muscle strain",
+    "soft tissue injury",
+    "rehab",
+    "physio"
+  ],
+  "synonyms": [
+    "strain",
+    "Muscle Strain Management"
+  ],
+  "sections": [
+    {
+      "id": "muscle-strain-management-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Muscle strains are common in lifting, sprinting, climbing, and awkward workplace tasks. Management should protect the tissue early without driving excessive rest or premature heavy loading.",
+      "sortOrder": 0
+    },
+    {
+      "id": "muscle-strain-management-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Sudden localised pain during effort or stretch\n- Tenderness, protective spasm, bruising, or reduced force\n- Pain with active contraction or lengthening\n- Limping or reduced task tolerance depending on the muscle involved",
+      "sortOrder": 1
+    },
+    {
+      "id": "muscle-strain-management-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider avulsion, tendon rupture, fracture, compartment syndrome, or referred pain if the story or severity is atypical\n- Large visible bruising, major loss of force, or a palpable defect increases concern for significant injury\n- Return to heavy work should be based on function rather than pain alone",
+      "sortOrder": 2
+    },
+    {
+      "id": "muscle-strain-management-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify mechanism, location, and whether safe ambulation or light use is possible\n- Use relative rest, compression, protected movement, and simple symptom relief within scope\n- Escalate if severe swelling, inability to bear weight, or diagnostic uncertainty suggests a more serious injury",
+      "sortOrder": 3
+    },
+    {
+      "id": "muscle-strain-management-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Grade severity from mild load-related pain to major strength loss or function failure\n- Introduce staged reloading, isometrics, range restoration, and later energy-storage demands where relevant\n- Address flexibility, warm-up, fatigue, and job-specific triggers before return to unrestricted duties\n- Refer for imaging or specialist review when rupture, avulsion, or repeated reinjury is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "muscle-strain-management-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document the job or sport demand that triggered the injury and what duties are safe immediately afterward",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

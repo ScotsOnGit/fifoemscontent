@@ -1,0 +1,65 @@
+{
+  "id": "functional-capacity-fit-for-work-assessment",
+  "title": "Functional Capacity and Fit-for-Work Assessment",
+  "category": "medical",
+  "tags": [
+    "functional capacity",
+    "fit for work",
+    "occupational rehab",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "fit for work assessment",
+    "Functional Capacity and Fit-for-Work Assessment"
+  ],
+  "sections": [
+    {
+      "id": "functional-capacity-fit-for-work-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Functional capacity assessment estimates whether a patient can safely perform essential work demands. It should combine symptoms, observed function, risk, and the actual job task rather than relying on pain scores alone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "functional-capacity-fit-for-work-assessment-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Reported difficulty with lifting, climbing, kneeling, walking, driving, or repetitive tasks\n- Concern about whether duties can be performed safely\n- Recovering worker needing graded return planning\n- Mismatch between reported symptoms and required physical tasks",
+      "sortOrder": 1
+    },
+    {
+      "id": "functional-capacity-fit-for-work-assessment-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Fit-for-work decisions should consider safety-critical tasks, endurance, cognition, medications, and environment - not just local symptoms\n- Severe pain, poor sleep, opioid use, dizziness, or neurological deficit may affect work safety even if the injury itself seems minor\n- Permanent restrictions should not be made from a single short review without adequate information",
+      "sortOrder": 2
+    },
+    {
+      "id": "functional-capacity-fit-for-work-assessment-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Clarify the essential duties, current symptoms, and any immediate safety risks\n- Screen whether the worker can safely mobilise, drive, climb, lift, or use tools today\n- Escalate to medical review if the worker appears unsafe, medically unstable, or significantly impaired",
+      "sortOrder": 3
+    },
+    {
+      "id": "functional-capacity-fit-for-work-assessment-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Match observed function to actual job demands, not generic labels such as 'light duties'\n- Use functional testing only when it is safe, relevant, and unlikely to aggravate the condition significantly\n- Recommend clear restrictions, tolerances, and review points for graded return rather than open-ended work exclusion\n- Coordinate with medical, supervisory, and rehabilitation stakeholders where appropriate",
+      "sortOrder": 4
+    },
+    {
+      "id": "functional-capacity-fit-for-work-assessment-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Useful restrictions are specific, time limited, and linked to tasks such as lifting, climbing, kneeling, driving, or shift duration",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

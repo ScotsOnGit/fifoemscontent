@@ -1,0 +1,64 @@
+{
+  "id": "mobility-decline-assessment",
+  "title": "Mobility Decline Assessment",
+  "category": "medical",
+  "tags": [
+    "mobility decline",
+    "functional deterioration",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "functional decline",
+    "Mobility Decline Assessment"
+  ],
+  "sections": [
+    {
+      "id": "mobility-decline-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Mobility decline may be due to musculoskeletal pain, deconditioning, neurological disease, cardiorespiratory illness, frailty, or acute medical deterioration. The key question is whether the person is safe to remain in place and what has changed from baseline.",
+      "sortOrder": 0
+    },
+    {
+      "id": "mobility-decline-assessment-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Reduced walking distance, slower gait, or transfer difficulty\n- New dependence on support or walking aid\n- Falls, near-falls, or fear of movement\n- Fatigue, pain, weakness, or breathlessness limiting activity",
+      "sortOrder": 1
+    },
+    {
+      "id": "mobility-decline-assessment-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- A sudden decline from baseline is more concerning than long-standing limitation\n- Consider infection, stroke, fracture, heart failure, dehydration, or medication-related decline\n- Social supervision and environmental barriers matter when deciding if remaining onsite or at home is safe",
+      "sortOrder": 2
+    },
+    {
+      "id": "mobility-decline-assessment-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Establish the patient's baseline mobility and what they can no longer do safely\n- Screen vital signs, acute illness clues, and recent falls\n- Escalate for sudden major change, unsafe transfers, or concern for acute medical cause",
+      "sortOrder": 3
+    },
+    {
+      "id": "mobility-decline-assessment-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused functional assessment of gait, transfers, balance, strength, and endurance\n- Determine whether equipment, supervision, medical review, or evacuation is needed\n- Begin graded mobility and reconditioning advice when the decline is non-emergent and the environment is safe",
+      "sortOrder": 4
+    },
+    {
+      "id": "mobility-decline-assessment-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document baseline, current limitation, support needs, and whether the patient can safely toilet, transfer, and ambulate",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

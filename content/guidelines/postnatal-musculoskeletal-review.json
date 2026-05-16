@@ -1,0 +1,64 @@
+{
+  "id": "postnatal-musculoskeletal-review",
+  "title": "Postnatal Musculoskeletal Review",
+  "category": "obstetric",
+  "tags": [
+    "postnatal physio",
+    "postpartum musculoskeletal",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "postpartum MSK review",
+    "Postnatal Musculoskeletal Review"
+  ],
+  "sections": [
+    {
+      "id": "postnatal-musculoskeletal-review-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Postnatal musculoskeletal review should assess recovery of mobility, load tolerance, abdominal wall symptoms, pelvic floor concerns, and readiness for caring, exercise, and work roles.",
+      "sortOrder": 0
+    },
+    {
+      "id": "postnatal-musculoskeletal-review-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Back, pelvic, abdominal, or perineal discomfort after birth\n- Difficulty lifting, carrying, feeding positions, or prolonged standing\n- Reduced confidence returning to exercise or work\n- Urinary leakage, heaviness, or abdominal doming may also be reported",
+      "sortOrder": 1
+    },
+    {
+      "id": "postnatal-musculoskeletal-review-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for heavy bleeding, fever, wound issues, calf swelling, severe depression, major neurological symptoms, or acute cardiorespiratory concerns\n- Mode of delivery, obstetric trauma, and sleep deprivation influence recovery\n- Not all postnatal symptoms are benign or self-limiting",
+      "sortOrder": 2
+    },
+    {
+      "id": "postnatal-musculoskeletal-review-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen immediate red flags and whether the parent can safely mobilise and care for self and baby\n- Encourage pacing, progressive walking, and task sharing where possible\n- Escalate if symptoms are severe, worsening, or medically concerning",
+      "sortOrder": 3
+    },
+    {
+      "id": "postnatal-musculoskeletal-review-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Review abdominal wall, pelvic floor symptoms, lifting tolerance, posture, and function in parenting and household tasks\n- Provide staged return-to-exercise and return-to-work advice matched to delivery, healing, and symptom profile\n- Refer for obstetric, GP, continence, or mental health review when the presentation is outside straightforward musculoskeletal recovery",
+      "sortOrder": 4
+    },
+    {
+      "id": "postnatal-musculoskeletal-review-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Postnatal rehab planning should include sleep disruption, feeding demands, and caregiving load",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

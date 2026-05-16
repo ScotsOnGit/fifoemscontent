@@ -33,7 +33,7 @@
       "id": "radiation-exposure-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Do not withhold urgent medical care purely because a radiation sign is present\n- Use time, distance, and shielding principles and follow hazardous-material direction\n- Washing and controlled clothing removal can greatly reduce contamination spread\n- Try not to contaminate vehicles, staff, or hospital areas unnecessarily",
+      "content": "- Do not withhold urgent medical care purely because a radiation sign is present\n- Use time, distance, and shielding principles and follow hazardous-material direction\n- Washing and controlled clothing removal can greatly reduce contamination spread\n- Try not to contaminate vehicles, staff, or hospital areas unnecessarily\n- Irradiated patients are not themselves a contamination hazard unless loose radioactive material remains on them",
       "sortOrder": 2
     },
     {
@@ -68,6 +68,6 @@
     "psychosocial-hazards-work-health-safety"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

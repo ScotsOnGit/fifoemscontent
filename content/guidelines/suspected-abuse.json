@@ -34,7 +34,7 @@
       "id": "suspected-abuse-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Abuse should be considered as a potential differential when findings are unexplained or concerning\n- Separate the patient from the suspected perpetrator or controlling companion where safe and practical\n- Do not promise secrecy. Explain that safety concerns may need to be shared with appropriate services\n- Use the patient's own words where possible and avoid leading questions or amateur investigation",
+      "content": "- Abuse should be considered as a potential differential when findings are unexplained or concerning\n- Separate the patient from the suspected perpetrator or controlling companion where safe and practical\n- Do not use a controlling companion as the interpreter or gatekeeper to the patient\n- Do not promise secrecy. Explain that safety concerns may need to be shared with appropriate services\n- Use the patient's own words where possible and avoid leading questions or amateur investigation\n- Strangulation or choking disclosures should be treated as high risk because they are associated with future serious harm",
       "sortOrder": 2
     },
     {
@@ -66,6 +66,6 @@
     "high-risk-mental-health-presentations"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

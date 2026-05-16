@@ -1,0 +1,65 @@
+{
+  "id": "repetitive-strain-cumulative-trauma-disorder",
+  "title": "Repetitive Strain and Cumulative Trauma Disorder",
+  "category": "medical",
+  "tags": [
+    "repetitive strain",
+    "RSI",
+    "cumulative trauma",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "RSI",
+    "Repetitive Strain and Cumulative Trauma Disorder"
+  ],
+  "sections": [
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Repetitive strain and cumulative trauma presentations arise when repeated low-level load, posture, force, or vibration exceeds tissue recovery over time.",
+      "sortOrder": 0
+    },
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Gradual onset pain, stiffness, or paraesthesia\n- Symptoms linked to repetitive typing, gripping, scanning, drilling, or tool use\n- Worse late in shift or after consecutive workdays\n- Reduced tolerance rather than one clear injury event",
+      "sortOrder": 1
+    },
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Distinguish overload syndromes from inflammatory disease, peripheral nerve entrapment, or acute trauma\n- Repetition alone is not the only driver; task pace, force, posture, vibration, and recovery matter\n- Workers may underreport early symptoms until capacity is substantially reduced",
+      "sortOrder": 2
+    },
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify the repetitive task pattern, symptom trend, and whether immediate task modification is required\n- Provide early activity modification advice and avoid pushing through escalating symptoms\n- Escalate if weakness, marked numbness, or severe swelling suggests a more serious process",
+      "sortOrder": 3
+    },
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Analyse exposure volume, force, posture, breaks, and equipment\n- Tailor load reduction, strengthening, mobility, pacing, and ergonomic changes to the specific task\n- Review work organisation factors such as overtime, role rotation, and production pressure\n- Refer for medical review or specialist opinion if neurological findings, persistent severe pain, or inflammatory features are present",
+      "sortOrder": 4
+    },
+    {
+      "id": "repetitive-strain-cumulative-trauma-disorder-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Cumulative trauma management usually fails if the worker returns to the same exposure pattern unchanged",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

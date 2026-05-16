@@ -1,0 +1,65 @@
+{
+  "id": "ergonomic-assessment-workstation-review",
+  "title": "Ergonomic Assessment and Workstation Review",
+  "category": "medical",
+  "tags": [
+    "ergonomics",
+    "workstation",
+    "desk setup",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "workstation review",
+    "Ergonomic Assessment and Workstation Review"
+  ],
+  "sections": [
+    {
+      "id": "ergonomic-assessment-workstation-review-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Ergonomic assessment aims to reduce avoidable load, awkward posture, and repetitive strain while keeping the worker functional. It should be specific to the real task, not a generic checklist alone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "ergonomic-assessment-workstation-review-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Neck, shoulder, elbow, wrist, or back symptoms linked to desk, vehicle, plant, or control-room work\n- Symptoms worsen with prolonged static posture or repetitive input\n- Reports of awkward monitor, seat, keyboard, reach, or visibility demands\n- Reduced tolerance for shift duration or driving",
+      "sortOrder": 1
+    },
+    {
+      "id": "ergonomic-assessment-workstation-review-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Ergonomics should complement, not replace, active rehabilitation and load tolerance building\n- A comfortable setup does not eliminate the need to move regularly\n- In remote sites, vehicle fit, vibration, seat time, and comms or control equipment may matter as much as the office desk",
+      "sortOrder": 2
+    },
+    {
+      "id": "ergonomic-assessment-workstation-review-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify the main aggravating tasks and whether immediate changes can reduce exposure\n- Encourage movement breaks, postural variation, and temporary task modification\n- Escalate for major neurological symptoms or if symptoms suggest non-ergonomic pathology",
+      "sortOrder": 3
+    },
+    {
+      "id": "ergonomic-assessment-workstation-review-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Review seat, monitor, controls, hand tools, reach zones, visual demands, and break structure in the actual work environment if possible\n- Recommend practical changes that the workplace can implement, not idealised setups that cannot be maintained\n- Pair ergonomic advice with strengthening, pacing, and exposure planning",
+      "sortOrder": 4
+    },
+    {
+      "id": "ergonomic-assessment-workstation-review-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The best workstation is one that fits the job, the worker, and the real constraints of the site",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

@@ -32,21 +32,21 @@
       "id": "croup-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Distress can worsen obstruction, so examination should be calm and minimal\n- Stridor at rest, fatigue, cyanosis, poor respiratory effort, or reduced conscious state are high-risk features\n- Differential diagnoses include epiglottitis, anaphylaxis, bacterial tracheitis, foreign body, and retropharyngeal pathology\n- Avoid upsetting the child with unnecessary procedures if the airway is marginal",
+      "content": "- Distress can worsen obstruction, so examination should be calm and minimal\n- Stridor at rest, fatigue, cyanosis, poor respiratory effort, drooling, or reduced conscious state are high-risk features\n- Differential diagnoses include epiglottitis, anaphylaxis, bacterial tracheitis, foreign body, and retropharyngeal pathology\n- Avoid upsetting the child with unnecessary procedures if the airway is marginal\n- Westley Croup Score or similar severity documentation can help track response, but treatment should follow the clinical picture rather than the score alone",
       "sortOrder": 2
     },
     {
       "id": "croup-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Keep the child with the caregiver and avoid unnecessary separation or handling\n- Allow the child to remain in the position of comfort\n- Give oxygen only if it can be tolerated without increasing distress or if clinically essential\n- Escalate early and prepare for rapid transport if stridor is present at rest or the child is tiring",
+      "content": "- Primary Survey\n- Keep the child with the caregiver and avoid unnecessary separation or handling\n- Allow the child to remain in the position of comfort\n- Give oxygen only if it can be tolerated without increasing distress or if clinically essential\n- Assess and document severity, including whether stridor is present at rest\n- Escalate early and prepare for rapid transport if stridor is present at rest or the child is tiring",
       "sortOrder": 3
     },
     {
       "id": "croup-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider nebulised or IM adrenaline only within local protocol and scope for moderate to severe croup\n- Consider corticosteroid therapy in line with local protocol or senior direction\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
+      "content": "- Consider corticosteroid therapy in line with local protocol or senior direction for croup requiring active treatment\n- Consider nebulised or IM adrenaline only within local protocol and scope for moderate to severe croup, and reassess closely for recurrence of symptoms\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
       "sortOrder": 4
     },
     {
@@ -66,6 +66,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

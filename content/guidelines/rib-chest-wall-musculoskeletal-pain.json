@@ -1,0 +1,66 @@
+{
+  "id": "rib-chest-wall-musculoskeletal-pain",
+  "title": "Rib and Chest Wall Musculoskeletal Pain",
+  "category": "medical",
+  "tags": [
+    "rib pain",
+    "chest wall pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "musculoskeletal chest pain",
+    "Rib and Chest Wall Musculoskeletal Pain"
+  ],
+  "sections": [
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Rib and chest wall pain may be benign and mechanical, but chest pain, breathlessness, trauma severity, and systemic features must always be screened carefully before treating it as a simple musculoskeletal problem.",
+      "sortOrder": 0
+    },
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Localised pain with movement, rolling, coughing, or deep breathing\n- Point tenderness over rib or intercostal area\n- Reduced trunk rotation or protective splinting\n- Possible bruising after cough, lift, or minor trauma",
+      "sortOrder": 1
+    },
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider pneumothorax, pulmonary embolus, ACS, pneumonia, rib fracture, or abdominal referral if the story is atypical\n- Breathlessness, hypoxia, syncope, or significant trauma increase urgency\n- Osteoporotic or coughing-related rib fractures can occur without major trauma",
+      "sortOrder": 2
+    },
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen vital signs, trauma history, respiratory symptoms, and red flags before labeling the pain mechanical\n- Encourage splinted cough and comfortable breathing where needed\n- Escalate for trauma, breathlessness, hypoxia, fever, or chest pain concerning for non-MSK causes",
+      "sortOrder": 3
+    },
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused chest wall and thoracic examination only when safe and appropriate\n- Use breathing, posture, and movement advice once serious pathology is not suspected\n- Coordinate medical review or imaging when fracture, respiratory complication, or unexplained severe pain remains possible",
+      "sortOrder": 4
+    },
+    {
+      "id": "rib-chest-wall-musculoskeletal-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The key decision is whether the pain is truly chest wall pain or a mimic of more serious thoracic disease",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "chest-trauma"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

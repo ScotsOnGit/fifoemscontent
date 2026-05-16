@@ -1,0 +1,65 @@
+{
+  "id": "return-to-work-modified-duties",
+  "title": "Return to Work and Modified Duties",
+  "category": "medical",
+  "tags": [
+    "return to work",
+    "modified duties",
+    "graded return",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "graded return to work",
+    "Return to Work and Modified Duties"
+  ],
+  "sections": [
+    {
+      "id": "return-to-work-modified-duties-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Return-to-work planning should restore function safely while avoiding both premature full exposure and unnecessary work absence.",
+      "sortOrder": 0
+    },
+    {
+      "id": "return-to-work-modified-duties-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Worker recovering from injury or illness\n- Need for temporary restrictions, reduced hours, or altered tasks\n- Concern about re-injury or inadequate tolerance for full duties\n- Need for coordination between worker, supervisor, and clinician",
+      "sortOrder": 1
+    },
+    {
+      "id": "return-to-work-modified-duties-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Modified duties should be meaningful, safe, and consistent with the worker's current tolerance\n- A plan should include review points and clear progression criteria\n- Psychosocial barriers, job conflict, and fear of re-injury can slow recovery even when tissues are improving",
+      "sortOrder": 2
+    },
+    {
+      "id": "return-to-work-modified-duties-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify unsafe tasks, key restrictions, and whether the worker can remain productive with adjustments\n- Escalate for unresolved red flags, unstable symptoms, or lack of safe duties\n- Provide short, clear advice rather than vague work excuses",
+      "sortOrder": 3
+    },
+    {
+      "id": "return-to-work-modified-duties-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Build a graded plan covering hours, lifting limits, driving, climbing, kneeling, repetitive work, and environmental exposure where relevant\n- Set progression triggers based on function and tolerance rather than date alone\n- Liaise with medical, rehab, and workplace stakeholders where appropriate to keep the plan realistic and safe",
+      "sortOrder": 4
+    },
+    {
+      "id": "return-to-work-modified-duties-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Return to work is usually part of treatment, but only when the duties match the worker's current capacity",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

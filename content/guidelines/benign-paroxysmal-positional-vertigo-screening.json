@@ -1,0 +1,68 @@
+{
+  "id": "benign-paroxysmal-positional-vertigo-screening",
+  "title": "Benign Paroxysmal Positional Vertigo Screening",
+  "category": "neurological",
+  "tags": [
+    "BPPV",
+    "vertigo",
+    "positional dizziness",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "benign positional vertigo",
+    "Benign Paroxysmal Positional Vertigo Screening"
+  ],
+  "sections": [
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "BPPV causes brief position-triggered vertigo and is often manageable in conservative care, but central vertigo, stroke, severe headache, new hearing loss, or persistent spontaneous symptoms require caution and escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Brief spinning episodes triggered by rolling in bed, looking up, or bending\n- Nausea and imbalance\n- Symptom-free periods between position changes\n- Fear of falls or avoidance of head movement",
+      "sortOrder": 1
+    },
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not assume BPPV if symptoms are continuous, the patient has focal neurological findings, severe headache, acute hearing loss, or strong stroke risk features\n- Positional testing should only be used when the presentation fits and the clinician is trained\n- Falls risk can remain significant even when the diagnosis is benign",
+      "sortOrder": 2
+    },
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen stroke and neurological red flags, hearing change, and whether positional symptoms are brief and reproducible\n- Stop and escalate if the pattern is atypical or the patient becomes unsafe\n- Provide falls prevention advice and supervision with transfers if the patient is unsteady",
+      "sortOrder": 3
+    },
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- If trained and appropriate, perform positional testing and consider canal-specific repositioning manoeuvres\n- Reassess symptom response and gait safety after treatment\n- Refer for medical or vestibular review if symptoms are atypical, persistent, or repeatedly recurrent",
+      "sortOrder": 4
+    },
+    {
+      "id": "benign-paroxysmal-positional-vertigo-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The safest BPPV clinician is one who recognises when the presentation does not behave like BPPV",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "dizziness",
+    "vertigo"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

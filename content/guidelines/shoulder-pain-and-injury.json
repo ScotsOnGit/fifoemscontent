@@ -1,0 +1,66 @@
+{
+  "id": "shoulder-pain-and-injury",
+  "title": "Shoulder Pain and Injury",
+  "category": "medical",
+  "tags": [
+    "shoulder pain",
+    "rotator cuff",
+    "instability",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "rotator cuff pain",
+    "shoulder injury",
+    "Shoulder Pain and Injury"
+  ],
+  "sections": [
+    {
+      "id": "shoulder-pain-and-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Shoulder pain may arise from rotator cuff-related pain, instability, acromioclavicular injury, stiffness, or referred pathology. Physio care should focus on red flags, function, and loading tolerance rather than imaging alone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "shoulder-pain-and-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain with reaching, lifting, overhead activity, or sleeping on the shoulder\n- Weakness, apprehension, loss of range, or painful arc\n- Possible traumatic onset after fall, tackle, lift, or dislocation\n- Clicking, giving way, or inability to elevate the arm after injury",
+      "sortOrder": 1
+    },
+    {
+      "id": "shoulder-pain-and-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for suspected fracture, unreduced dislocation, acute massive cuff tear, septic joint, neurovascular compromise, or referred cardiac/abdominal pain\n- Imaging is most useful when trauma, dislocation, major weakness, or red flags are present\n- Acute pain relief should be paired with progressive loading rather than repeated full rest",
+      "sortOrder": 2
+    },
+    {
+      "id": "shoulder-pain-and-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen trauma mechanism, neurovascular status, and whether the patient can use the limb safely\n- Support the arm, position for comfort, and advise relative unloading\n- Escalate early if the patient cannot actively elevate after trauma, has deformity, or has systemic symptoms",
+      "sortOrder": 3
+    },
+    {
+      "id": "shoulder-pain-and-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Complete focused shoulder assessment including active range, resisted testing, instability screening, and cervical referral screen where appropriate\n- Begin staged advice on activity modification, pendular or assisted movement, scapular control, and progressive reloading as tolerated\n- Distinguish likely cuff-related pain, stiffness, instability, and AC joint injury to guide review timing\n- Refer for imaging, injection discussion, or orthopaedic review when weakness, traumatic instability, or poor progress persists",
+      "sortOrder": 4
+    },
+    {
+      "id": "shoulder-pain-and-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document function, sleep impact, work demands, and whether the pattern appears traumatic, atraumatic, or referred",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

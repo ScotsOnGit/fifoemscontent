@@ -1,0 +1,65 @@
+{
+  "id": "manual-handling-and-workplace-musculoskeletal-injury",
+  "title": "Manual Handling and Workplace Musculoskeletal Injury",
+  "category": "medical",
+  "tags": [
+    "manual handling",
+    "workplace injury",
+    "ergonomics",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "manual handling injury",
+    "Manual Handling and Workplace Musculoskeletal Injury"
+  ],
+  "sections": [
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Manual handling injuries often involve a combination of load, posture, repetition, fatigue, terrain, and recovery failure. Assessment should look beyond the single incident to the full task system.",
+      "sortOrder": 0
+    },
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain linked to lifting, carrying, pushing, pulling, awkward reach, or repetitive handling\n- Back, shoulder, neck, or limb symptoms during or after tasks\n- Report that the task felt heavier, faster, or more awkward than usual\n- Recurrence in the same job or shift pattern",
+      "sortOrder": 1
+    },
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Heavy load is only one risk factor; poor access, twisting, unstable footing, heat, fatigue, and time pressure also matter\n- Serious injury red flags still need to be screened before treating the case as a routine strain\n- A handling incident may reveal broader system failures that need workplace action",
+      "sortOrder": 2
+    },
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Clarify the task, immediate symptoms, and whether the worker can safely continue any duties\n- Remove or modify aggravating tasks early\n- Escalate if symptoms suggest fracture, neurological deficit, major trauma, or acute medical illness",
+      "sortOrder": 3
+    },
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Analyse the task demands, posture, repetition, load, environment, equipment, and recovery opportunity\n- Recommend risk-reduction strategies such as team lift, mechanical aid, route change, height adjustment, or task redesign\n- Build a graded recovery plan that restores handling tolerance without abrupt exposure to the same failing task",
+      "sortOrder": 4
+    },
+    {
+      "id": "manual-handling-and-workplace-musculoskeletal-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Good injury management often requires workplace redesign as much as individual rehabilitation",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ankle-and-foot-pain",
+  "title": "Ankle and Foot Pain",
+  "category": "medical",
+  "tags": [
+    "ankle sprain",
+    "foot injury",
+    "ankle pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "foot injury",
+    "ankle injury",
+    "Ankle and Foot Pain"
+  ],
+  "sections": [
+    {
+      "id": "ankle-and-foot-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Ankle and foot presentations are common in site, sporting, and slip-trip-fall incidents. Most are sprains or load-related injuries, but fracture, syndesmosis injury, Achilles rupture, or infection should not be missed.",
+      "sortOrder": 0
+    },
+    {
+      "id": "ankle-and-foot-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Lateral or medial ankle pain\n- Swelling, bruising, limp, or inability to run or hop\n- Midfoot pain, plantar pain, or heel pain\n- Giving way, instability, or pain with push-off",
+      "sortOrder": 1
+    },
+    {
+      "id": "ankle-and-foot-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Use the Ottawa ankle or foot rules when the patient fits the rule and the question is fracture risk after acute trauma\n- Escalate for gross deformity, Achilles rupture, open injury, syndesmosis concern, neurovascular compromise, or inability to weight-bear with fracture suspicion\n- Early graded loading is usually preferable to prolonged complete rest once fracture is excluded",
+      "sortOrder": 2
+    },
+    {
+      "id": "ankle-and-foot-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen weight-bearing, bony tenderness, tendon integrity, and neurovascular status\n- Support the limb, advise relative rest, compression, elevation, and simple pain relief within scope\n- Escalate for suspected fracture, tendon rupture, or rapidly worsening swelling",
+      "sortOrder": 3
+    },
+    {
+      "id": "ankle-and-foot-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Differentiate lateral sprain, syndesmosis injury, Achilles injury, and foot stress or bony pain patterns\n- Begin early range, calf activation, and graded reloading when safe\n- Add balance and proprioception work in recovery planning to reduce recurrence\n- Refer for imaging or specialist review when Ottawa-rule positive, tendon rupture suspected, or symptoms persist beyond expected recovery",
+      "sortOrder": 4
+    },
+    {
+      "id": "ankle-and-foot-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Recurrent ankle sprain should trigger review of balance, calf strength, footwear, and worksite terrain exposure",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

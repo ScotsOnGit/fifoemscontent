@@ -1,0 +1,64 @@
+{
+  "id": "ligament-sprain-management",
+  "title": "Ligament Sprain Management",
+  "category": "medical",
+  "tags": [
+    "ligament sprain",
+    "joint injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "sprain",
+    "Ligament Sprain Management"
+  ],
+  "sections": [
+    {
+      "id": "ligament-sprain-management-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Ligament sprains range from mild stretch injuries to high-grade instability. The clinical priority is recognising unstable or associated injuries and restoring function without unnecessary immobilisation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "ligament-sprain-management-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Joint pain after twist, roll, pivot, or impact\n- Swelling, bruising, tenderness over ligament structures\n- Feeling of instability or giving way\n- Reduced range and reluctance to load the joint",
+      "sortOrder": 1
+    },
+    {
+      "id": "ligament-sprain-management-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider fracture, dislocation, tendon rupture, syndesmosis injury, or osteochondral injury if pain is severe, swelling is rapid, or function is markedly limited\n- High-grade sprains may need bracing, imaging, or orthopaedic input\n- Recurrent sprains often reflect poor proprioception, load management, or unresolved instability",
+      "sortOrder": 2
+    },
+    {
+      "id": "ligament-sprain-management-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen deformity, weight-bearing, bony tenderness, and neurovascular status\n- Use protection, compression, and activity modification within scope\n- Escalate when the patient cannot load safely, has major swelling, or may have a fracture or unstable joint injury",
+      "sortOrder": 3
+    },
+    {
+      "id": "ligament-sprain-management-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Grade likely severity and begin staged loading, range restoration, and balance retraining as tolerated\n- Use brace or taping advice when it improves safe function in early recovery\n- Address recurrence prevention through strength, proprioception, footwear, and work-task modification\n- Refer for imaging or specialist assessment if instability, locking, or high-grade injury is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "ligament-sprain-management-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The ability to walk does not exclude a clinically significant sprain",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

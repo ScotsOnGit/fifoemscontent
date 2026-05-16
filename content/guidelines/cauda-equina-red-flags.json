@@ -1,0 +1,67 @@
+{
+  "id": "cauda-equina-red-flags",
+  "title": "Cauda Equina Red Flags",
+  "category": "neurological",
+  "tags": [
+    "cauda equina",
+    "spinal emergency",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "cauda equina syndrome",
+    "Cauda Equina Red Flags"
+  ],
+  "sections": [
+    {
+      "id": "cauda-equina-red-flags-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cauda equina syndrome is a spinal emergency. Any physiotherapy setting that identifies suspicious symptoms must escalate urgently rather than trying to manage the presentation as routine back pain.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cauda-equina-red-flags-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- New urinary retention or overflow incontinence\n- Altered saddle sensation\n- Bowel dysfunction\n- Bilateral leg pain, weakness, or numbness\n- Rapidly worsening neurological deficit with back pain",
+      "sortOrder": 1
+    },
+    {
+      "id": "cauda-equina-red-flags-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Symptoms may be incomplete or evolving; absence of all classic features does not exclude the diagnosis\n- Severe back pain with bilateral symptoms warrants caution even before bladder dysfunction is obvious\n- Do not delay escalation for prolonged assessment, exercise, or routine treatment",
+      "sortOrder": 2
+    },
+    {
+      "id": "cauda-equina-red-flags-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Ask directly about bladder, bowel, saddle symptoms, and major bilateral neurological change\n- Stop routine treatment and arrange urgent medical escalation if concern exists\n- Advise the patient not to drive themselves if significant neurological or bladder symptoms are present",
+      "sortOrder": 3
+    },
+    {
+      "id": "cauda-equina-red-flags-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Document the exact symptoms, onset, and objective neurological findings\n- Communicate clearly that this is a time-critical spinal emergency requiring urgent imaging and medical review\n- Coordinate urgent transfer or emergency department referral according to setting and logistics",
+      "sortOrder": 4
+    },
+    {
+      "id": "cauda-equina-red-flags-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- A low threshold for escalation is safer than waiting for the full syndrome to declare itself",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "lumbar-radiculopathy",
+    "back-pain-including-sprain-strain"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

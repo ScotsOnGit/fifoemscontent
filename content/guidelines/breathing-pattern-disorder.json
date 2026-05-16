@@ -1,0 +1,65 @@
+{
+  "id": "breathing-pattern-disorder",
+  "title": "Breathing Pattern Disorder",
+  "category": "respiratory",
+  "tags": [
+    "breathing pattern disorder",
+    "dysfunctional breathing",
+    "hyperventilation",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "dysfunctional breathing",
+    "Breathing Pattern Disorder"
+  ],
+  "sections": [
+    {
+      "id": "breathing-pattern-disorder-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Breathing pattern disorder can drive breathlessness, chest tightness, dizziness, and activity intolerance, but it is a diagnosis of inclusion only after serious cardiopulmonary causes have been considered appropriately.",
+      "sortOrder": 0
+    },
+    {
+      "id": "breathing-pattern-disorder-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Disproportionate breathlessness\n- Upper chest breathing, frequent sighing, air hunger, or inability to take a satisfying breath\n- Dizziness, tingling, chest tightness, or throat tightness\n- Symptoms worsened by stress, exertion, conversation, or enclosed spaces",
+      "sortOrder": 1
+    },
+    {
+      "id": "breathing-pattern-disorder-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not label the patient with dysfunctional breathing until asthma, PE, ACS, pneumothorax, severe anaemia, and other important pathology are considered\n- Many patients have overlapping anxiety, asthma, pain, or post-viral syndromes\n- Pulse oximetry can be normal even when the patient feels profoundly breathless",
+      "sortOrder": 2
+    },
+    {
+      "id": "breathing-pattern-disorder-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen acute respiratory distress, chest pain, hypoxia, and red flags before giving breathing-pattern advice\n- Encourage calm pacing, posture, and slowing of over-breathing if the patient is otherwise stable\n- Escalate if symptoms are new, severe, exertional, or medically unexplained",
+      "sortOrder": 3
+    },
+    {
+      "id": "breathing-pattern-disorder-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess breathing mechanics, trigger situations, activity tolerance, and overlap with neck, rib, or anxiety drivers\n- Use simple breathing retraining, pacing, and exposure strategies when appropriate\n- Coordinate medical review or respiratory referral when symptoms are persistent, recurrent, or diagnostically unclear",
+      "sortOrder": 4
+    },
+    {
+      "id": "breathing-pattern-disorder-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Breathing retraining should feel practical and calming, not like another performance task for the patient to fail",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

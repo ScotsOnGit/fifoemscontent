@@ -32,21 +32,21 @@
       "id": "chronic-obstructive-pulmonary-disease-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- COPD exacerbation is a clinical diagnosis, but differentials such as asthma, heart failure, pneumonia, pulmonary embolus, and pneumothorax remain important\n- A patient with COPD may still need substantial oxygen if severely hypoxic or peri-arrest\n- Rising fatigue, reduced conscious state, poor air movement, or inability to speak are high-risk features\n- Positive pressure support may be appropriate in selected patients who are tiring but still protecting their airway",
+      "content": "- COPD exacerbation is a clinical diagnosis, but differentials such as asthma, heart failure, pneumonia, pulmonary embolus, and pneumothorax remain important\n- A patient with COPD may still need substantial oxygen if severely hypoxic or peri-arrest, but uncontrolled oxygen can worsen hypercapnia in moderate to severe exacerbations\n- Rising fatigue, reduced conscious state, poor air movement, or inability to speak are high-risk features\n- Positive pressure support may be appropriate in selected patients who are tiring but still protecting their airway",
       "sortOrder": 2
     },
     {
       "id": "chronic-obstructive-pulmonary-disease-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position upright or in another position of comfort if tolerated\n- Perform frequent respiratory reassessment, including work of breathing and mental state\n- Titrate oxygen to clinical need and avoid both untreated hypoxia and unnecessary hyperoxia\n- Administer bronchodilator therapy within local protocol and patient capability\n- Escalate early if ventilation appears to be failing or another pathology is suspected",
+      "content": "- Primary Survey\n- Position upright or in another position of comfort if tolerated\n- Perform frequent respiratory reassessment, including work of breathing and mental state\n- Titrate oxygen carefully to a target SpO2 of 88-92% where COPD exacerbation is the likely cause, while still treating severe hypoxia promptly\n- If the patient uses home oxygen, continue it while reassessing response and escalation needs\n- Administer bronchodilator therapy within local protocol and patient capability\n- Escalate early if ventilation appears to be failing or another pathology is suspected",
       "sortOrder": 3
     },
     {
       "id": "chronic-obstructive-pulmonary-disease-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Consider ipratropium and other bronchodilator adjuncts within protocol\n- Consider corticosteroid therapy in line with local protocol or senior direction\n- Consider non-invasive ventilation where indicated, tolerated, and within scope\n- Gain vascular access if advanced therapy is likely or deterioration is occurring\n- Manage alternative causes such as pneumothorax, pulmonary oedema, or sepsis when suggested by the presentation",
+      "content": "- ECG and cardiac monitoring where time critical or significant comorbidity is suspected\n- Consider salbutamol and ipratropium within protocol when wheeze or bronchospasm is present\n- Consider corticosteroid therapy in line with local protocol or senior direction\n- Consider non-invasive ventilation where indicated, tolerated, and within scope\n- Gain vascular access if advanced therapy is likely or deterioration is occurring\n- Manage alternative causes such as pneumothorax, pulmonary oedema, or sepsis when suggested by the presentation",
       "sortOrder": 4
     },
     {
@@ -69,6 +69,6 @@
     "acute-decompensated-heart-failure"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

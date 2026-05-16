@@ -1,0 +1,70 @@
+{
+  "id": "persistent-recurrent-low-back-pain",
+  "title": "Persistent / Recurrent Low Back Pain",
+  "category": "medical",
+  "tags": [
+    "low back pain",
+    "spine",
+    "persistent pain",
+    "function",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "chronic low back pain",
+    "recurrent low back pain",
+    "Persistent / Recurrent Low Back Pain"
+  ],
+  "sections": [
+    {
+      "id": "persistent-recurrent-low-back-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Persistent or recurrent low back pain is common in occupational and community practice. Most episodes are non-specific, but ongoing disability, progressive neurological change, systemic features, or significant functional decline require escalation rather than repeated symptomatic management alone.",
+      "sortOrder": 0
+    },
+    {
+      "id": "persistent-recurrent-low-back-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain present for more than 6 weeks or repeatedly recurring\n- Stiffness, reduced tolerance for sitting, standing, lifting, or walking\n- Fear of movement, sleep disturbance, reduced work capacity, or reduced participation\n- Possible referred leg pain or intermittent sensory symptoms\n- Pain flare after increased load, prolonged sitting, travel, or deconditioning",
+      "sortOrder": 1
+    },
+    {
+      "id": "persistent-recurrent-low-back-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Persistent pain does not automatically mean ongoing tissue damage\n- Screen for red flags, cauda equina features, cancer history, infection risk, fracture risk, inflammatory symptoms, or major neurological deficit\n- Imaging is usually not first-line unless red flags are present\n- Psychosocial barriers such as fear, poor recovery expectations, low mood, compensation stress, or job conflict can amplify disability",
+      "sortOrder": 2
+    },
+    {
+      "id": "persistent-recurrent-low-back-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Assess pain behaviour, sleep, functional limits, work demands, and current self-management\n- Screen for serious pathology and immediate neurological concerns\n- Encourage pacing, relative activity, and avoidance of prolonged bed rest\n- Reinforce simple flare strategies such as movement variation, walking, heat, and basic analgesia within local protocol\n- Escalate if red flags, new neurological loss, or inability to cope safely at camp or home are present",
+      "sortOrder": 3
+    },
+    {
+      "id": "persistent-recurrent-low-back-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused spinal and neurological examination, including lower-limb power, reflexes, sensation, and neural tension where appropriate\n- Use outcome measures or disability tools where this will guide follow-up rather than delay care\n- Begin graded reactivation, movement exposure, and load progression matched to tolerance and role demands\n- Address workplace factors, manual handling exposure, and return-to-work barriers\n- Refer for medical review, imaging, or specialist input when red flags, persistent severe disability, or diagnostic uncertainty remain",
+      "sortOrder": 4
+    },
+    {
+      "id": "persistent-recurrent-low-back-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Reassurance should be paired with clear safety-netting rather than vague dismissal\n- Document baseline function, aggravating tasks, red flags considered, and agreed follow-up plan",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "back-pain-including-sprain-strain",
+    "pain-management"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

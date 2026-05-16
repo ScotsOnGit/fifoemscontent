@@ -33,7 +33,7 @@
       "id": "renal-dialysis-emergencies-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- If the patient is still connected, disconnection and clamping may be time critical but should be done only by people who can do so safely\n- Access sites may bleed heavily once disconnected\n- Air embolism can present with acute neurological or cardiorespiratory collapse\n- Avoid using the dialysis access limb for routine IV procedures unless there is no alternative and the situation is life threatening",
+      "content": "- If the patient is still connected, disconnection and clamping may be time critical but should be done only by people who can do so safely\n- Access sites may bleed heavily once disconnected\n- Air embolism can present with acute neurological or cardiorespiratory collapse\n- Inspect the dialysis lines for air if an embolic complication is suspected\n- Avoid using the dialysis access limb for routine IV procedures unless there is no alternative and the situation is life threatening",
       "sortOrder": 2
     },
     {
@@ -47,7 +47,7 @@
       "id": "renal-dialysis-emergencies-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access away from the dialysis limb if possible\n- Consider crystalloid therapy for symptomatic hypotension or shock, with repeated reassessment\n- Treat hyperkalaemia, seizure, or severe haemorrhage according to the relevant protocol and companion guideline\n- Consider prehospital blood sampling only if this does not delay time-critical transport\n- Pre-notify early when air embolism, major haemorrhage, hyperkalaemia, or sepsis is suspected",
+      "content": "- ECG and cardiac monitoring\n- Gain IV access away from the dialysis limb if possible\n- If trained and necessary in a home-dialysis emergency, clamp both blood lines and disconnect the machine safely without delaying patient rescue\n- Consider crystalloid therapy for symptomatic hypotension or shock, with repeated reassessment\n- Treat hyperkalaemia, seizure, or severe haemorrhage according to the relevant protocol and companion guideline\n- Consider prehospital blood sampling only if this does not delay time-critical transport\n- Pre-notify early when air embolism, major haemorrhage, hyperkalaemia, or sepsis is suspected",
       "sortOrder": 4
     },
     {
@@ -67,6 +67,6 @@
     "sepsis-septic-shock"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

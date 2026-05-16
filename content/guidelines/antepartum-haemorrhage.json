@@ -33,14 +33,14 @@
       "id": "antepartum-haemorrhage-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Pregnant patients may compensate well before obvious shock develops and can deteriorate rapidly\n- Placenta praevia may bleed with little pain, while placental abruption often causes pain, uterine irritability, or tenderness\n- Significant haemorrhage may be partly concealed and visible blood loss can underestimate severity\n- Do not perform digital vaginal examination in the prehospital setting",
+      "content": "- Pregnant patients may compensate well before obvious shock develops and can deteriorate rapidly\n- Placenta praevia may bleed with little pain, while placental abruption often causes pain, uterine irritability, or tenderness\n- Significant haemorrhage may be partly concealed and visible blood loss can underestimate severity\n- Do not perform digital vaginal examination in the prehospital setting\n- Suspected placenta praevia or placental abruption should be treated as high risk even if the bleeding is minor or has settled",
       "sortOrder": 2
     },
     {
       "id": "antepartum-haemorrhage-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position the patient to minimise aortocaval compression if late pregnancy is suspected\n- Keep the patient warm, reassured, and under close observation\n- Perform frequent vital signs and reassessment\n- Give oxygen only if clinically indicated\n- Treat any associated labour, pain, or collapse as high risk\n- Prioritise urgent transport and early pre-notification to an appropriate obstetric-capable facility",
+      "content": "- Primary Survey\n- Position the patient to minimise aortocaval compression if late pregnancy is suspected\n- Keep the patient warm, reassured, and under close observation\n- Perform frequent vital signs and reassessment\n- Give oxygen only if clinically indicated\n- Treat any associated labour, pain, or collapse as high risk\n- Prioritise urgent transport and early pre-notification to an appropriate obstetric-capable facility, even if the bleeding appears to have stopped",
       "sortOrder": 3
     },
     {
@@ -65,6 +65,6 @@
     "hypovolaemic-shock"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

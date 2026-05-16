@@ -1,0 +1,65 @@
+{
+  "id": "diastasis-recti-screening",
+  "title": "Diastasis Recti Screening",
+  "category": "medical",
+  "tags": [
+    "diastasis recti",
+    "abdominal separation",
+    "postpartum core",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "DRAM screening",
+    "Diastasis Recti Screening"
+  ],
+  "sections": [
+    {
+      "id": "diastasis-recti-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Diastasis recti screening looks at abdominal wall function, contour change, and associated disability rather than focusing only on gap width.",
+      "sortOrder": 0
+    },
+    {
+      "id": "diastasis-recti-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Visible doming or bulging during effort\n- Feeling of reduced abdominal control or support\n- Difficulty with transfers, lifting, or return to exercise after pregnancy\n- Possible overlap with back pain or pelvic floor symptoms",
+      "sortOrder": 1
+    },
+    {
+      "id": "diastasis-recti-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for suspected hernia, severe pain, wound concerns, or unusual abdominal symptoms\n- A visible gap alone does not necessarily equal dysfunction\n- Advice should avoid fear-based messaging about permanent damage from normal movement",
+      "sortOrder": 2
+    },
+    {
+      "id": "diastasis-recti-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen whether abdominal symptoms are affecting function and whether any red flags are present\n- Encourage supported rolling, bracing awareness, and graded return to load within tolerance\n- Escalate if hernia or wound concerns are suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "diastasis-recti-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Assess abdominal wall tension, symptom provocation, transfer control, breathing pattern, and load tolerance\n- Build graded trunk and whole-body conditioning rather than isolated cosmetic-focused exercises alone\n- Refer for pelvic health, obstetric, or surgical review when hernia, severe dysfunction, or unresolved concern persists",
+      "sortOrder": 4
+    },
+    {
+      "id": "diastasis-recti-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Function, symptom behaviour, and confidence matter more than a single gap measurement",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

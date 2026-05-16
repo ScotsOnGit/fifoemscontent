@@ -1,0 +1,69 @@
+{
+  "id": "neck-pain-and-whiplash",
+  "title": "Neck Pain and Whiplash",
+  "category": "medical",
+  "tags": [
+    "neck pain",
+    "whiplash",
+    "cervical spine",
+    "work injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "whiplash",
+    "cervical strain",
+    "Neck Pain and Whiplash"
+  ],
+  "sections": [
+    {
+      "id": "neck-pain-and-whiplash-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Neck pain and whiplash-associated disorders are common after vehicle incidents, manual work, awkward posture, and minor trauma. Most improve with time and activity, but fracture, instability, cord compromise, vascular injury, or progressive neurological deficit require urgent escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "neck-pain-and-whiplash-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Neck pain or stiffness\n- Reduced rotation, flexion, or extension\n- Headache, upper trapezius pain, or scapular pain\n- Possible arm symptoms such as paresthesia or weakness\n- Dizziness, visual symptoms, or significant fear of movement after trauma",
+      "sortOrder": 1
+    },
+    {
+      "id": "neck-pain-and-whiplash-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Use cervical decision tools only if the patient fits the tool and the question is acute trauma clearance\n- Escalate early for high-risk trauma, new limb weakness, gait disturbance, bowel or bladder change, severe unremitting pain, or vertebral artery red flags\n- Recovery is better when activity and reassurance are balanced with red-flag vigilance\n- Soft collars and prolonged immobilisation are generally not preferred for routine whiplash recovery",
+      "sortOrder": 2
+    },
+    {
+      "id": "neck-pain-and-whiplash-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen mechanism, neurological symptoms, and major trauma features\n- Provide reassurance, posture and movement advice, and simple symptom control within scope\n- Encourage early gentle neck movement if no instability concern exists\n- Escalate for suspected fracture, cord signs, severe headache with neurological change, or inability to safely function",
+      "sortOrder": 3
+    },
+    {
+      "id": "neck-pain-and-whiplash-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Complete focused cervical and upper-limb neurological assessment\n- Distinguish likely mechanical neck pain, whiplash, radicular symptoms, and possible concussion overlap\n- Start graded range-of-motion and functional restoration advice rather than prolonged rest\n- Address driving, manual work, screen posture, sleep, and lifting factors\n- Refer for medical review or imaging where red flags, persistent severe disability, or diagnostic uncertainty remain",
+      "sortOrder": 4
+    },
+    {
+      "id": "neck-pain-and-whiplash-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document trauma mechanism, red flags screened, neuro findings, and advice about expected recovery and review triggers",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "concussion-follow-up-screening"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

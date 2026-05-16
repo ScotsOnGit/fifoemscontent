@@ -40,14 +40,14 @@
       "id": "preterm-labour-birth-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Position the patient appropriately and minimise aortocaval compression in later pregnancy\n- Perform frequent reassessment and document contraction pattern and progression if practical\n- Give oxygen only if clinically indicated\n- If birth is not imminent, prioritise prompt obstetric-capable transport\n- If birth is imminent, prepare for childbirth, neonatal warmth, and newborn resuscitation",
+      "content": "- Primary Survey\n- Position the patient appropriately and minimise aortocaval compression in later pregnancy\n- Perform frequent reassessment and document contraction pattern and progression if practical\n- Give oxygen only if clinically indicated\n- If birth is not imminent, prioritise prompt obstetric-capable transport\n- If birth is imminent, prepare for childbirth, neonatal warmth, skin-to-skin thermal support where appropriate, and newborn resuscitation",
       "sortOrder": 3
     },
     {
       "id": "preterm-labour-birth-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, delivery is imminent, or complications are suspected\n- Consider analgesia and anti-emetic therapy within scope where appropriate\n- Pre-notify the receiving obstetric or neonatal-capable service early\n- If preterm birth is unavoidable, prepare actively for premature neonatal support and likely retrieval needs",
+      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, delivery is imminent, or complications are suspected\n- Consider analgesia and anti-emetic therapy within scope where appropriate\n- Pre-notify the receiving obstetric or neonatal-capable service early\n- If preterm birth is unavoidable, prepare actively for premature neonatal support, malpresentation contingencies, and likely retrieval needs",
       "sortOrder": 4
     },
     {
@@ -65,6 +65,6 @@
     "postpartum-haemorrhage"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

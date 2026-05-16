@@ -1,0 +1,65 @@
+{
+  "id": "post-viral-fatigue-and-graded-recovery",
+  "title": "Post-Viral Fatigue and Graded Recovery",
+  "category": "respiratory",
+  "tags": [
+    "post viral fatigue",
+    "long covid",
+    "graded recovery",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "post-viral recovery",
+    "Post-Viral Fatigue and Graded Recovery"
+  ],
+  "sections": [
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Post-viral recovery may involve fatigue, breathlessness, deconditioning, orthostatic symptoms, and cognitive slowing. Rehabilitation should be paced and symptom-aware rather than automatically exercise-intensive.",
+      "sortOrder": 0
+    },
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Fatigue out of proportion to recent activity\n- Reduced exercise tolerance, post-exertional worsening, or delayed crashes\n- Breathlessness, dizziness, poor concentration, or sleep disturbance\n- Difficulty resuming work, exercise, or daily responsibilities",
+      "sortOrder": 1
+    },
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Screen for hypoxia, myocarditis red flags, chest pain, severe orthostatic symptoms, thromboembolic concern, or other medical complications\n- Some patients tolerate graded loading well; others worsen with poorly paced exercise\n- Recovery planning must respect post-exertional symptom worsening if present",
+      "sortOrder": 2
+    },
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Establish current activity ceiling, rest pattern, and symptom flare behaviour\n- Encourage pacing, rest distribution, hydration, and avoidance of all-or-nothing activity cycles\n- Escalate for cardiopulmonary red flags, profound decline, or diagnostic uncertainty",
+      "sortOrder": 3
+    },
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Build an individualized plan for graded recovery using symptom-guided progression rather than fixed timelines\n- Address breathing pattern, sleep, nutrition, orthostatic symptoms, and work demands alongside exercise tolerance\n- Coordinate medical review when symptoms are persistent, multisystem, or substantially disabling",
+      "sortOrder": 4
+    },
+    {
+      "id": "post-viral-fatigue-and-graded-recovery-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- The right pace is the fastest one that does not repeatedly crash the patient",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

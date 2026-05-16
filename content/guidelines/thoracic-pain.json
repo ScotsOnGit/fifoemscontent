@@ -1,0 +1,67 @@
+{
+  "id": "thoracic-pain",
+  "title": "Thoracic Pain",
+  "category": "medical",
+  "tags": [
+    "thoracic pain",
+    "mid back pain",
+    "rib pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "mid back pain",
+    "Thoracic Pain"
+  ],
+  "sections": [
+    {
+      "id": "thoracic-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Thoracic pain is often mechanical, postural, or rib-related, but it has a lower threshold for considering serious pathology than uncomplicated low back pain.",
+      "sortOrder": 0
+    },
+    {
+      "id": "thoracic-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Localised mid-back pain or stiffness\n- Pain with rotation, extension, coughing, or deep breathing\n- Possible rib or scapular region pain\n- Reduced tolerance to sustained postures or manual tasks",
+      "sortOrder": 1
+    },
+    {
+      "id": "thoracic-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider fracture, malignancy, inflammatory disease, pulmonary embolus, aortic pathology, infection, or shingles if the pattern is atypical\n- Night pain, fever, unexplained weight loss, major trauma, progressive neurological change, or chest symptoms increase urgency\n- Rib or thoracic pain after lifting can still mimic cardiac, respiratory, or abdominal pathology",
+      "sortOrder": 2
+    },
+    {
+      "id": "thoracic-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen vital signs and major red flags rather than assuming a benign mechanical cause\n- Position for comfort and support easier breathing if pain is pleuritic\n- Encourage urgent medical review if the story is atypical, systemic, or traumatic\n- Use simple symptom relief within scope only after serious causes have been considered",
+      "sortOrder": 3
+    },
+    {
+      "id": "thoracic-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused thoracic, rib, and neurological examination where appropriate\n- Consider respiratory or cardiac overlap and coordinate medical assessment early when doubt remains\n- Begin mobility, posture, and load-modification advice only when serious pathology is not suspected\n- Refer for imaging or doctor review when trauma, osteoporosis risk, or persistent unexplained pain is present",
+      "sortOrder": 4
+    },
+    {
+      "id": "thoracic-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Thoracic pain should be treated as a diagnosis of exclusion more often than routine peripheral joint pain",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "rib-chest-wall-musculoskeletal-pain"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

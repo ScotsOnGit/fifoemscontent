@@ -1,0 +1,64 @@
+{
+  "id": "pregnancy-related-low-back-pain",
+  "title": "Pregnancy-Related Low Back Pain",
+  "category": "obstetric",
+  "tags": [
+    "pregnancy low back pain",
+    "antenatal back pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "back pain in pregnancy",
+    "Pregnancy-Related Low Back Pain"
+  ],
+  "sections": [
+    {
+      "id": "pregnancy-related-low-back-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Low back pain during pregnancy is common and often mechanical, but clinicians should still be alert to non-spinal and obstetric pathology.",
+      "sortOrder": 0
+    },
+    {
+      "id": "pregnancy-related-low-back-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Lumbar pain with standing, walking, lifting, or prolonged posture\n- Sleep disturbance or reduced tolerance to work tasks\n- Stiffness, muscle spasm, or movement fear\n- Possible overlap with pelvic girdle pain",
+      "sortOrder": 1
+    },
+    {
+      "id": "pregnancy-related-low-back-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider urinary symptoms, fever, vaginal bleeding, neurological deficit, abdominal pain, or trauma as escalation triggers\n- Pregnancy changes biomechanics and load tolerance, but serious pathology is still possible\n- Advice should account for gestation, work demands, and safe sleep and transfer positions",
+      "sortOrder": 2
+    },
+    {
+      "id": "pregnancy-related-low-back-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen red flags and whether the patient can still mobilise and work safely\n- Encourage posture variation, walking within tolerance, and simple symptom relief strategies\n- Escalate for neurological change, trauma, or obstetric red flags",
+      "sortOrder": 3
+    },
+    {
+      "id": "pregnancy-related-low-back-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Differentiate lumbar pain from pelvic girdle pain and referred symptoms\n- Use graded exercise, positional advice, movement confidence work, and task modification\n- Coordinate medical or obstetric review when symptoms are severe, unusual, or function is rapidly worsening",
+      "sortOrder": 4
+    },
+    {
+      "id": "pregnancy-related-low-back-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Pregnancy back pain management should reduce disability without overmedicalising a common condition",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

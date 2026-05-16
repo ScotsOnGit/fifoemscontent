@@ -1,0 +1,65 @@
+{
+  "id": "urinary-incontinence-pelvic-floor-screening",
+  "title": "Urinary Incontinence and Pelvic Floor Screening",
+  "category": "medical",
+  "tags": [
+    "urinary incontinence",
+    "pelvic floor",
+    "women health physio",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "pelvic floor screening",
+    "Urinary Incontinence and Pelvic Floor Screening"
+  ],
+  "sections": [
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Urinary incontinence and pelvic floor symptoms are common and treatable. Screening in FIFOEMS should identify who is suitable for conservative pelvic health management and who needs medical or specialist referral.",
+      "sortOrder": 0
+    },
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Leakage with cough, lift, jump, or urgency\n- Nocturia, frequency, urgency, or incomplete emptying sensation\n- Heaviness, pressure, or reduced confidence with exercise and work tasks\n- Postnatal or menopausal symptom onset may be reported",
+      "sortOrder": 1
+    },
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Red flags include haematuria, recurrent UTI, pelvic pain, prolapse beyond expected symptoms, neurological change, urinary retention, or unexplained weight loss\n- Incontinence may coexist with pelvic floor overactivity, constipation, or breathing and load-management issues\n- Screening should be respectful, private, and consent-driven",
+      "sortOrder": 2
+    },
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Ask whether symptoms are affecting daily function, work, exercise, and confidence\n- Screen for urinary red flags, retention, infection, and major pain\n- Escalate for retention, significant prolapse concern, recurrent infection, or non-benign features",
+      "sortOrder": 3
+    },
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Provide education on bladder habits, pressure management, and pelvic floor training referral where appropriate\n- Consider overlap with constipation, chronic cough, obesity, and lifting load\n- Refer for pelvic health physio, GP, continence, or specialist review depending on severity and red flags",
+      "sortOrder": 4
+    },
+    {
+      "id": "urinary-incontinence-pelvic-floor-screening-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Not every person volunteering leakage wants treatment, but all should know it is common and often modifiable",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

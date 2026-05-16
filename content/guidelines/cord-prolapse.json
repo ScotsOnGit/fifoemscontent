@@ -32,21 +32,21 @@
       "id": "cord-prolapse-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Delays in recognition and decompression can rapidly worsen fetal outcome\n- Avoid unnecessary handling of the cord because this may worsen vasospasm or trauma\n- If the cord is visible, note the time of presentation and keep it protected from drying and pressure\n- Transport positioning should be safe for the patient and practical for maintaining decompression",
+      "content": "- Delays in recognition and decompression can rapidly worsen fetal outcome\n- Avoid unnecessary handling of the cord because this may worsen vasospasm or trauma\n- If the cord is visible, note the time of presentation and keep it protected from drying and pressure with a warm moist dressing if available\n- Transport positioning should be safe for the patient and practical for maintaining decompression",
       "sortOrder": 2
     },
     {
       "id": "cord-prolapse-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Primary Survey\n- Call for urgent obstetric support and expedite transport immediately\n- Avoid touching or pushing the cord back into the vagina\n- Position the patient to reduce pressure on the cord, using the safest effective method available\n- Keep the patient reassured, warm, and under continuous observation\n- If birth is clearly imminent, prepare for delivery and neonatal resuscitation",
+      "content": "- Primary Survey\n- Call for urgent obstetric support and expedite transport immediately\n- Avoid touching or pushing the cord back into the vagina\n- Position the patient to reduce pressure on the cord, using the safest effective method available such as knee-chest, exaggerated Sims, or other practical off-loading position\n- Keep the patient reassured, warm, and under continuous observation\n- If birth is clearly imminent, prepare for delivery and neonatal resuscitation",
       "sortOrder": 3
     },
     {
       "id": "cord-prolapse-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, symptomatic, or delivery appears imminent\n- Consider analgesia and anti-emetic therapy within scope where this supports safe positioning and transport\n- Pre-notify the receiving obstetric-capable facility early because emergency operative delivery may be required",
+      "content": "- ECG where clinically useful for maternal monitoring\n- Gain IV access if the patient is unstable, symptomatic, or delivery appears imminent\n- If trained and clinically necessary, manually elevate the presenting part only to relieve compression during unavoidable transport or severe deterioration\n- Consider analgesia and anti-emetic therapy within scope where this supports safe positioning and transport\n- Pre-notify the receiving obstetric-capable facility early because emergency operative delivery may be required",
       "sortOrder": 4
     },
     {
@@ -64,6 +64,6 @@
     "postpartum-haemorrhage"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

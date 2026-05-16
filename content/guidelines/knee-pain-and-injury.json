@@ -1,0 +1,65 @@
+{
+  "id": "knee-pain-and-injury",
+  "title": "Knee Pain and Injury",
+  "category": "medical",
+  "tags": [
+    "knee pain",
+    "patellofemoral pain",
+    "ligament injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "knee injury",
+    "Knee Pain and Injury"
+  ],
+  "sections": [
+    {
+      "id": "knee-pain-and-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Knee pain may relate to patellofemoral overload, ligament injury, meniscal symptoms, tendon pain, or fracture. Physio assessment should prioritise weight-bearing, instability, and effusion patterns.",
+      "sortOrder": 0
+    },
+    {
+      "id": "knee-pain-and-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain with stairs, kneeling, squatting, running, pivoting, or prolonged sitting\n- Swelling, giving way, locking, or apprehension\n- Reduced extension or flexion\n- Limp or difficulty weight-bearing after acute injury",
+      "sortOrder": 1
+    },
+    {
+      "id": "knee-pain-and-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for suspected fracture, dislocation, septic joint, acute extensor mechanism rupture, true locked knee, or major instability after trauma\n- Rapid large effusion after twisting trauma raises concern for significant internal derangement\n- Patellofemoral pain often reflects load sensitivity rather than structural catastrophe",
+      "sortOrder": 2
+    },
+    {
+      "id": "knee-pain-and-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen trauma mechanism, immediate swelling, extension ability, and safe ambulation\n- Provide support, unloading advice, and simple pain management within scope\n- Escalate when the patient cannot actively extend, cannot weight-bear after trauma, or has marked swelling or deformity",
+      "sortOrder": 3
+    },
+    {
+      "id": "knee-pain-and-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused assessment of ligament, meniscal, patellofemoral, and tendon features\n- Begin graded loading, quadriceps and hip strength, and movement modification where appropriate\n- Consider taping, brace review, or gait aid advice if it improves safe function\n- Refer for imaging or specialist input when locking, gross instability, fracture concern, or poor progress persists",
+      "sortOrder": 4
+    },
+    {
+      "id": "knee-pain-and-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document whether swelling was immediate or delayed and whether the patient can fully extend the knee",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "persistent-pain-and-flare-management",
+  "title": "Persistent Pain and Flare Management",
+  "category": "medical",
+  "tags": [
+    "persistent pain",
+    "pain flare",
+    "chronic pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "chronic pain flare",
+    "Persistent Pain and Flare Management"
+  ],
+  "sections": [
+    {
+      "id": "persistent-pain-and-flare-management-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Persistent pain care in FIFOEMS should validate the patient's experience while screening for change that suggests something new, dangerous, or functionally destabilising.",
+      "sortOrder": 0
+    },
+    {
+      "id": "persistent-pain-and-flare-management-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Ongoing pain with episodic flares\n- Reduced function, poor sleep, distress, or fear of movement\n- Variable tolerance and boom-bust activity pattern\n- Prior imaging or diagnoses that do not clearly explain current disability",
+      "sortOrder": 1
+    },
+    {
+      "id": "persistent-pain-and-flare-management-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- A persistent pain history does not protect the patient from new pathology\n- Flare drivers may include load spike, stress, poor sleep, travel, illness, or work conflict\n- Escalate for new neurological deficit, infection signs, unexplained weight loss, fracture concern, or major mood deterioration",
+      "sortOrder": 2
+    },
+    {
+      "id": "persistent-pain-and-flare-management-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen whether this flare is typical or clearly different from baseline\n- Use reassurance, pacing, symptom relief, and load reduction within scope\n- Escalate if the story or examination suggests a new serious process",
+      "sortOrder": 3
+    },
+    {
+      "id": "persistent-pain-and-flare-management-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Identify flare triggers and build a plan for graded activity recovery, sleep, pacing, and confidence restoration\n- Coordinate with workplace, medical, and mental health supports when the pain presentation is entangled with broader recovery barriers\n- Avoid repeated passive treatment-only cycles without a functional plan",
+      "sortOrder": 4
+    },
+    {
+      "id": "persistent-pain-and-flare-management-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Persistent pain management is strongest when it gives the patient a usable plan for the next 48 hours, not just a label",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

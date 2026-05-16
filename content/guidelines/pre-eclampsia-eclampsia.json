@@ -33,7 +33,7 @@
       "id": "pre-eclampsia-eclampsia-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Symptoms can precede seizure, stroke, intracranial haemorrhage, pulmonary oedema, or placental complications\n- Pregnant patients can deteriorate rapidly and severe symptoms matter even before extreme blood pressure values are confirmed\n- Any seizure in a pregnant or recently postpartum patient should raise concern for eclampsia until another cause is clear\n- Left lateral positioning or uterine displacement may improve maternal perfusion in later pregnancy",
+      "content": "- Symptoms can precede seizure, stroke, intracranial haemorrhage, pulmonary oedema, or placental complications\n- Pregnant patients can deteriorate rapidly and severe symptoms matter even before extreme blood pressure values are confirmed\n- Any seizure in a pregnant or recently postpartum patient should raise concern for eclampsia until another cause is clear\n- Left lateral positioning or uterine displacement may improve maternal perfusion in later pregnancy\n- Reduce stimulation where possible because agitation, pain, and a bright or noisy environment may worsen the situation",
       "sortOrder": 2
     },
     {
@@ -47,7 +47,7 @@
       "id": "pre-eclampsia-eclampsia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Consider magnesium sulphate only within local protocol, scope, and senior support when eclampsia or severe pre-eclampsia is suspected\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction\n- Pre-notify receiving obstetric or emergency team early",
+      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Consider magnesium sulphate only within local protocol, scope, and senior support when eclampsia or severe pre-eclampsia is suspected\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction for severe hypertension with compatible symptoms\n- Pre-notify receiving obstetric or emergency team early",
       "sortOrder": 4
     },
     {
@@ -67,6 +67,6 @@
     "hypovolaemic-shock"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

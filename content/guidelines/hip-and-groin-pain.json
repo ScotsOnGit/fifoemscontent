@@ -1,0 +1,65 @@
+{
+  "id": "hip-and-groin-pain",
+  "title": "Hip and Groin Pain",
+  "category": "medical",
+  "tags": [
+    "hip pain",
+    "groin pain",
+    "lower limb",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "groin pain",
+    "Hip and Groin Pain"
+  ],
+  "sections": [
+    {
+      "id": "hip-and-groin-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Hip and groin pain may come from joint, tendon, muscle, lumbar referral, abdominal causes, or fracture. The priority is distinguishing benign overload from serious joint, fracture, or abdominal pathology.",
+      "sortOrder": 0
+    },
+    {
+      "id": "hip-and-groin-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Groin, buttock, lateral hip, or anterior thigh pain\n- Pain with walking, stairs, running, turning, or getting in and out of vehicles\n- Reduced hip range or limp\n- Possible clicking, instability, or adductor-related pain",
+      "sortOrder": 1
+    },
+    {
+      "id": "hip-and-groin-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for inability to weight-bear after trauma, suspected neck-of-femur injury, septic joint, severe night pain, abdominal or testicular referral, or neurovascular change\n- Older patients and patients on steroids or with osteoporosis need a low threshold for fracture imaging\n- Lumbar referral and intra-abdominal causes should be considered if the pattern is atypical",
+      "sortOrder": 2
+    },
+    {
+      "id": "hip-and-groin-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen trauma, weight-bearing ability, neurovascular status, and abdominal red flags\n- Use walking aid or activity restriction advice if safe ambulation is impaired\n- Escalate early if fracture, infection, or acute severe functional loss is suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "hip-and-groin-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused hip, lumbar, and functional examination where appropriate\n- Distinguish likely intra-articular, lateral hip, adductor, and referred pain patterns\n- Begin load modification, gait advice, and graded strengthening or mobility work once serious pathology is excluded\n- Refer for imaging or specialist review when trauma, major limp, or persistent function loss remains",
+      "sortOrder": 4
+    },
+    {
+      "id": "hip-and-groin-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Hip pain in remote settings should be documented with clear weight-bearing status and transport advice",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

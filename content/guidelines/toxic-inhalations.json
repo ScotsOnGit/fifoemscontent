@@ -34,7 +34,7 @@
       "id": "toxic-inhalations-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Do not enter an unsafe scene. Fire/HAZMAT agencies should declare the environment safe or provide the required PPE and decontamination process\n- Multiple victims with similar symptoms should raise concern for an atmospheric hazard even when odour is absent\n- Pulse oximetry may be misleading in some inhalational poisonings\n- Off-gassing from clothing or the patient may continue after removal from the scene",
+      "content": "- Do not enter an unsafe scene. Fire or HAZMAT agencies should declare the environment safe or provide the required PPE and decontamination process\n- Multiple victims with similar symptoms should raise concern for an atmospheric hazard even when odour is absent\n- Pulse oximetry may be misleading in some inhalational poisonings, especially carbon monoxide exposure\n- Off-gassing from clothing or the patient may continue after removal from the scene\n- Enclosed fire exposure should raise concern for carbon monoxide and possible cyanide toxicity in addition to thermal or smoke injury",
       "sortOrder": 2
     },
     {
@@ -69,6 +69,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-05-15T00:00:00Z"
 }

@@ -1,0 +1,64 @@
+{
+  "id": "non-traumatic-limb-pain",
+  "title": "Non-Traumatic Limb Pain",
+  "category": "medical",
+  "tags": [
+    "limb pain",
+    "atraumatic pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "atraumatic limb pain",
+    "Non-Traumatic Limb Pain"
+  ],
+  "sections": [
+    {
+      "id": "non-traumatic-limb-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Non-traumatic limb pain may be musculoskeletal, neuropathic, vascular, inflammatory, or referred. The goal is to identify whether the presentation is safe for conservative physio-led management or requires urgent medical escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "non-traumatic-limb-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Limb pain without clear trauma\n- Possible swelling, warmth, weakness, numbness, or altered function\n- Symptoms worsened by load, posture, or repetition in some cases\n- Pain may be diffuse or poorly localised",
+      "sortOrder": 1
+    },
+    {
+      "id": "non-traumatic-limb-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider DVT, infection, acute limb ischaemia, compartment syndrome, inflammatory arthritis, fracture, or referred spinal pathology\n- Sudden cold limb, severe swelling, disproportionate pain, fever, or rapidly progressive neurological deficit should escalate care\n- Not every atraumatic presentation is safe for routine rehab advice",
+      "sortOrder": 2
+    },
+    {
+      "id": "non-traumatic-limb-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen vascular, neurological, infectious, and weight-bearing red flags\n- Use simple support and analgesia advice within scope if the limb appears stable\n- Escalate promptly if swelling, colour change, fever, severe pain, or loss of function suggests more serious pathology",
+      "sortOrder": 3
+    },
+    {
+      "id": "non-traumatic-limb-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused regional and spinal screen to distinguish local overload from referred or systemic causes\n- Start activity modification and basic loading advice only once serious pathology is reasonably excluded\n- Refer for imaging, medical review, or pathology workup when the pattern is atypical or persistent",
+      "sortOrder": 4
+    },
+    {
+      "id": "non-traumatic-limb-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document whether the patient can still safely use the limb for daily and occupational tasks",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

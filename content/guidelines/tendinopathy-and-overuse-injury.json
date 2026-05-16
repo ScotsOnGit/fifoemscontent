@@ -1,0 +1,65 @@
+{
+  "id": "tendinopathy-and-overuse-injury",
+  "title": "Tendinopathy and Overuse Injury",
+  "category": "medical",
+  "tags": [
+    "tendinopathy",
+    "overuse injury",
+    "load management",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "overuse injury",
+    "Tendinopathy and Overuse Injury"
+  ],
+  "sections": [
+    {
+      "id": "tendinopathy-and-overuse-injury-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Tendinopathy and other overload syndromes usually reflect a mismatch between tissue capacity and repeated load. Effective care focuses on load modification, progressive strengthening, and ruling out inflammatory or serious alternate causes.",
+      "sortOrder": 0
+    },
+    {
+      "id": "tendinopathy-and-overuse-injury-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Pain that warms up, worsens after load, or is worse the next day\n- Tenderness at tendon or load-bearing structures\n- Stiffness after inactivity\n- Reduced tolerance for repeated, overhead, gripping, jumping, or climbing tasks",
+      "sortOrder": 1
+    },
+    {
+      "id": "tendinopathy-and-overuse-injury-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Do not assume every chronic tendon-region pain is tendinopathy; consider bursitis, nerve pain, fracture, inflammatory arthritis, or systemic illness\n- Complete unloading often reduces capacity further\n- Workplace repetition, vibration, awkward posture, and inadequate recovery are common contributors",
+      "sortOrder": 2
+    },
+    {
+      "id": "tendinopathy-and-overuse-injury-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Identify the aggravating load pattern, work demand, and current functional tolerance\n- Reduce provocative volume or intensity without complete unnecessary rest\n- Use simple pain relief and basic support strategies within scope\n- Escalate if swelling, heat, rupture concern, or inflammatory/systemic features are present",
+      "sortOrder": 3
+    },
+    {
+      "id": "tendinopathy-and-overuse-injury-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Start a staged strengthening and reloading plan matched to irritability and site\n- Address technique, recovery, sleep, and load progression rather than chasing imaging findings alone\n- Educate that discomfort during rehab may occur but progressive deterioration is not the goal\n- Refer for imaging or specialist review when rupture, inflammatory disease, or persistent severe disability is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "tendinopathy-and-overuse-injury-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Progress should be judged by function, load tolerance, and symptom trend over time, not by pain elimination at rest alone",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

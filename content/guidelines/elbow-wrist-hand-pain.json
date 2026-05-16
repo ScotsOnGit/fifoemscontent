@@ -1,0 +1,66 @@
+{
+  "id": "elbow-wrist-hand-pain",
+  "title": "Elbow, Wrist and Hand Pain",
+  "category": "medical",
+  "tags": [
+    "elbow pain",
+    "wrist pain",
+    "hand pain",
+    "upper limb",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "upper limb pain",
+    "Elbow, Wrist and Hand Pain"
+  ],
+  "sections": [
+    {
+      "id": "elbow-wrist-hand-pain-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Elbow, wrist, and hand pain in FIFO and occupational settings commonly reflects overload, tendinopathy, nerve irritation, or minor trauma, but fracture, tendon rupture, infection, or compartment problems must not be missed.",
+      "sortOrder": 0
+    },
+    {
+      "id": "elbow-wrist-hand-pain-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Localised pain, swelling, grip weakness, or reduced dexterity\n- Pain with gripping, lifting, tool use, typing, or impact\n- Possible numbness or tingling in median, ulnar, or radial distributions\n- Stiffness, clicking, or reduced ability to bear weight through the hand",
+      "sortOrder": 1
+    },
+    {
+      "id": "elbow-wrist-hand-pain-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for significant trauma, deformity, tendon rupture, open injury, progressive neurological deficit, severe swelling, infection features, or vascular compromise\n- Distinguish tendinopathy from nerve entrapment and from acute fracture patterns\n- Repetitive tasks and tool vibration may be major contributors in camp settings",
+      "sortOrder": 2
+    },
+    {
+      "id": "elbow-wrist-hand-pain-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen mechanism, neurovascular status, skin integrity, and immediate functional loss\n- Use support, unload aggravating tasks, and apply simple pain relief strategies within scope\n- Escalate when grip loss, marked swelling, deformity, or major neurological symptoms are present",
+      "sortOrder": 3
+    },
+    {
+      "id": "elbow-wrist-hand-pain-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused assessment of tendon, joint, and nerve involvement\n- Modify tasks such as gripping, lifting, typing, and vibration exposure\n- Use graded loading and tendon-specific or nerve-friendly education rather than prolonged immobilisation unless clinically indicated\n- Refer for imaging, splinting review, injection discussion, or surgical opinion where rupture, fracture, or persistent compression is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "elbow-wrist-hand-pain-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Worksite tool use, gloves, repetitive force, and awkward wrist postures should be documented because they influence recovery and return-to-work planning",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

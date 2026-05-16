@@ -1,0 +1,65 @@
+{
+  "id": "serious-pathology-red-flags-for-physio",
+  "title": "Serious Pathology Red Flags for Physio",
+  "category": "medical",
+  "tags": [
+    "red flags",
+    "serious pathology",
+    "physio escalation",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "red flags for physiotherapy",
+    "Serious Pathology Red Flags for Physio"
+  ],
+  "sections": [
+    {
+      "id": "serious-pathology-red-flags-for-physio-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "This guideline summarises the situations where a physiotherapy or rehab presentation should stop being routine conservative care and become urgent medical escalation.",
+      "sortOrder": 0
+    },
+    {
+      "id": "serious-pathology-red-flags-for-physio-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Unexplained fever, weight loss, or systemic decline\n- Progressive neurological deficit, new gait change, or new bladder or bowel symptoms\n- Major trauma, deformity, or suspected fracture\n- Unrelenting night pain, severe unexplained pain, or pain out of proportion\n- Chest pain, breathlessness, syncope, calf swelling, or other systemic red flags during an apparent MSK review",
+      "sortOrder": 1
+    },
+    {
+      "id": "serious-pathology-red-flags-for-physio-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Red flags are prompts for clinical judgement, not isolated tick-boxes\n- Change from the patient's normal pattern is often as important as any single symptom\n- The physio role includes recognizing when the problem is outside physio scope, even if the patient primarily booked for rehab or work assessment",
+      "sortOrder": 2
+    },
+    {
+      "id": "serious-pathology-red-flags-for-physio-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Pause routine treatment when red flags are identified\n- Recheck vitals and clarify the timeline of concerning symptoms\n- Escalate to doctor, emergency department, or ambulance response according to the severity and environment",
+      "sortOrder": 3
+    },
+    {
+      "id": "serious-pathology-red-flags-for-physio-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Communicate clearly what is concerning and why conservative care is not appropriate today\n- Document the red flags screened, positive findings, and the escalation advice or transfer pathway used\n- Use this guideline alongside region-specific pathways rather than as a replacement for them",
+      "sortOrder": 4
+    },
+    {
+      "id": "serious-pathology-red-flags-for-physio-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Good physio escalation protects the patient and the clinician; it is not a failure of conservative care",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

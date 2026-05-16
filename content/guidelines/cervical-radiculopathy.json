@@ -1,0 +1,65 @@
+{
+  "id": "cervical-radiculopathy",
+  "title": "Cervical Radiculopathy",
+  "category": "neurological",
+  "tags": [
+    "cervical radiculopathy",
+    "neck nerve root",
+    "arm pain",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "arm pain from neck",
+    "Cervical Radiculopathy"
+  ],
+  "sections": [
+    {
+      "id": "cervical-radiculopathy-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Cervical radiculopathy presents as neck and arm symptoms linked to nerve root irritation. The key decision is whether the pattern is consistent with stable radiculopathy or whether cord, vascular, or serious pathology features are present.",
+      "sortOrder": 0
+    },
+    {
+      "id": "cervical-radiculopathy-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Neck pain with arm pain, numbness, or tingling\n- Dermatomal sensory change or myotomal weakness\n- Symptoms reproduced by neck position\n- Reduced cervical range and possible scapular or periscapular pain",
+      "sortOrder": 1
+    },
+    {
+      "id": "cervical-radiculopathy-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Escalate for myelopathy signs, progressive weakness, gait change, bowel or bladder symptoms, severe trauma, or vascular red flags\n- Consider peripheral entrapment, shoulder referral, or brachial plexus involvement if the pattern is not clearly radicular\n- Cord signs trump routine conservative management",
+      "sortOrder": 2
+    },
+    {
+      "id": "cervical-radiculopathy-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen upper-limb power, sensation, coordination, and gait where relevant\n- Encourage comfortable positions and simple symptom relief within scope\n- Escalate early if objective weakness is progressive or cord features are suspected",
+      "sortOrder": 3
+    },
+    {
+      "id": "cervical-radiculopathy-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Perform focused cervical and neurological examination and differentiate nerve-root, peripheral nerve, and shoulder patterns\n- Use graded unloading and movement strategies rather than prolonged immobilisation\n- Refer for medical review or imaging when myelopathy, severe weakness, or persistent disabling pain is present",
+      "sortOrder": 4
+    },
+    {
+      "id": "cervical-radiculopathy-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Document reflexes, myotomes, and whether symptoms are unilateral or bilateral",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

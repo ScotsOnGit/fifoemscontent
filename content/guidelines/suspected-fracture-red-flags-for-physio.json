@@ -1,0 +1,67 @@
+{
+  "id": "suspected-fracture-red-flags-for-physio",
+  "title": "Suspected Fracture Red Flags for Physio",
+  "category": "medical",
+  "tags": [
+    "fracture red flags",
+    "physio escalation",
+    "bone injury",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "fracture red flags",
+    "Suspected Fracture Red Flags for Physio"
+  ],
+  "sections": [
+    {
+      "id": "suspected-fracture-red-flags-for-physio-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Physiotherapists in remote or occupational settings need a low threshold to suspect fracture when pain, mechanism, and function do not fit a simple soft tissue injury.",
+      "sortOrder": 0
+    },
+    {
+      "id": "suspected-fracture-red-flags-for-physio-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Focal bony tenderness\n- Inability to weight-bear or use the limb normally\n- Significant swelling, deformity, or bruising\n- Pain out of proportion to apparent soft tissue findings\n- Pain after fall, twist, crush, direct blow, or repetitive bone-loading history",
+      "sortOrder": 1
+    },
+    {
+      "id": "suspected-fracture-red-flags-for-physio-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Consider occult fracture in older patients, stress fractures in load-related presentations, and pathological fractures when pain is disproportionate or atraumatic\n- Neurovascular compromise, open injury, or compartment concerns are immediate escalation triggers\n- Do not repeatedly stress-test a limb when fracture suspicion is meaningful",
+      "sortOrder": 2
+    },
+    {
+      "id": "suspected-fracture-red-flags-for-physio-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Screen mechanism, bony tenderness, deformity, and function\n- Stop provocative testing if fracture seems possible\n- Protect the area, reduce load, and escalate for medical review or imaging",
+      "sortOrder": 3
+    },
+    {
+      "id": "suspected-fracture-red-flags-for-physio-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use regional rules such as Ottawa ankle guidance only where validated and appropriate\n- Distinguish likely stress injury from acute fracture based on onset, load history, and focal tenderness\n- Liaise for imaging or urgent transfer when fracture, dislocation, or neurovascular compromise is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "suspected-fracture-red-flags-for-physio-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- A patient who can still move a limb may still have a fracture",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "skill-fractures-dislocations"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

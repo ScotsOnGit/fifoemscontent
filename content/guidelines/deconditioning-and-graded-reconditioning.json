@@ -1,0 +1,65 @@
+{
+  "id": "deconditioning-and-graded-reconditioning",
+  "title": "Deconditioning and Graded Reconditioning",
+  "category": "medical",
+  "tags": [
+    "deconditioning",
+    "reconditioning",
+    "exercise tolerance",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "reconditioning",
+    "Deconditioning and Graded Reconditioning"
+  ],
+  "sections": [
+    {
+      "id": "deconditioning-and-graded-reconditioning-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Deconditioning is loss of physical capacity after inactivity, illness, pain, or prolonged restricted duties. Recovery requires progressive, tolerable reloading rather than waiting for perfect symptoms.",
+      "sortOrder": 0
+    },
+    {
+      "id": "deconditioning-and-graded-reconditioning-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Reduced walking distance, fatigue, weakness, or breathlessness with usual activity\n- Reduced tolerance for work tasks after time off or restricted duties\n- Loss of confidence with lifting, stairs, or longer shifts\n- Post-illness or post-injury decline in endurance",
+      "sortOrder": 1
+    },
+    {
+      "id": "deconditioning-and-graded-reconditioning-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Rule out ongoing acute disease, unstable cardiovascular symptoms, severe anaemia, hypoxia, or infection before assuming the problem is pure deconditioning\n- Boom-bust cycles are common and should shape pacing advice\n- Very low starting capacity may still justify early reactivation with close monitoring",
+      "sortOrder": 2
+    },
+    {
+      "id": "deconditioning-and-graded-reconditioning-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Establish current tolerance and what activities provoke delayed worsening\n- Encourage regular low-dose activity rather than sporadic overexertion\n- Escalate for chest pain, syncope, resting hypoxia, or other unstable medical features",
+      "sortOrder": 3
+    },
+    {
+      "id": "deconditioning-and-graded-reconditioning-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Build a graded, measurable program for walking, strengthening, stairs, carrying, or task simulation based on role needs\n- Use pacing and symptom monitoring to avoid major flare cycles\n- Combine endurance, strength, mobility, and confidence restoration rather than relying on one exercise type alone",
+      "sortOrder": 4
+    },
+    {
+      "id": "deconditioning-and-graded-reconditioning-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Reconditioning goals should link directly to meaningful tasks such as shift tolerance, ladder climbing, carrying, or prolonged standing",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}

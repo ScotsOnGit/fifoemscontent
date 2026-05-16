@@ -1,0 +1,67 @@
+{
+  "id": "falls-risk-assessment",
+  "title": "Falls Risk Assessment",
+  "category": "medical",
+  "tags": [
+    "falls",
+    "balance",
+    "frailty",
+    "physio",
+    "rehab"
+  ],
+  "synonyms": [
+    "fall risk assessment",
+    "Falls Risk Assessment"
+  ],
+  "sections": [
+    {
+      "id": "falls-risk-assessment-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Falls risk assessment in FIFOEMS should identify patients whose balance, strength, cognition, medications, environment, or acute illness make them unsafe to remain unsupported.",
+      "sortOrder": 0
+    },
+    {
+      "id": "falls-risk-assessment-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Recent falls, near-falls, or fear of falling\n- Reduced balance, gait speed, or transfer ability\n- Use of walking aid or furniture walking\n- Dizziness, syncope history, polypharmacy, or lower-limb weakness",
+      "sortOrder": 1
+    },
+    {
+      "id": "falls-risk-assessment-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- Falls are often multifactorial and may reflect medical illness as much as poor balance\n- A physiotherapy falls assessment should still screen for delirium, infection, dehydration, cardiac causes, and orthostatic issues\n- One fall may be the first sign of a much bigger decline in function or safety",
+      "sortOrder": 2
+    },
+    {
+      "id": "falls-risk-assessment-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "content": "- Ask about recent falls, injury, circumstances, walking aids, and confidence with transfers\n- Screen vitals, acute illness clues, and immediate mobility safety\n- Escalate if the patient cannot transfer safely, has new neurological symptoms, or the fall may reflect medical instability",
+      "sortOrder": 3
+    },
+    {
+      "id": "falls-risk-assessment-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "content": "- Use structured tools such as TUG, Berg, Tinetti, SPPB, or frailty scoring where relevant to follow-up and planning\n- Identify modifiable drivers such as footwear, vision, medication timing, environmental hazards, weakness, and orthostatic symptoms\n- Develop a falls-prevention and supervision plan and liaise for medical review when risk remains high",
+      "sortOrder": 4
+    },
+    {
+      "id": "falls-risk-assessment-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Notes",
+      "content": "- Falls assessment should end with a practical safety plan, not just a score",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "minor-injuries-epistaxis"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-16T00:00:00Z"
+}
