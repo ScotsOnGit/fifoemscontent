@@ -23,8 +23,8 @@
   },
   {
     "id": "o2-cylinder-duration",
-    "name": "O₂ Cylinder Duration",
-    "shortName": "O₂ Duration",
+    "name": "O\u2082 Cylinder Duration",
+    "shortName": "O\u2082 Duration",
     "description": "Estimates how long a medical oxygen cylinder will last based on cylinder size (B, C, D, E, F, G, H/K), fill level or gauge pressure, and delivery flow rate.",
     "category": "dosing",
     "tags": [
@@ -208,7 +208,7 @@
     "id": "race-score",
     "name": "RACE Score (Stroke LVO Screening)",
     "shortName": "RACE",
-    "description": "Rapid Arterial oCclusion Evaluation — pre-hospital screening for large vessel occlusion stroke.",
+    "description": "Rapid Arterial oCclusion Evaluation \u2014 pre-hospital screening for large vessel occlusion stroke.",
     "category": "scoring",
     "tags": [
       "stroke",
@@ -233,7 +233,7 @@
     "id": "revised-geneva",
     "name": "Revised Geneva Score (PE)",
     "shortName": "Geneva PE",
-    "description": "Clinical prediction rule for pulmonary embolism pretest probability. No ABG required — 8 objective variables.",
+    "description": "Clinical prediction rule for pulmonary embolism pretest probability. No ABG required \u2014 8 objective variables.",
     "category": "scoring",
     "tags": [
       "PE",
@@ -304,7 +304,7 @@
     "id": "bazett-qtc",
     "name": "Bazett QTc Calculator",
     "shortName": "QTc",
-    "description": "Corrects the QT interval for heart rate using Bazett's formula: QTc = QT / √(RR interval).",
+    "description": "Corrects the QT interval for heart rate using Bazett's formula: QTc = QT / \u221a(RR interval).",
     "category": "cardiac",
     "tags": [
       "ECG",
@@ -324,8 +324,8 @@
   },
   {
     "id": "chadsvasc",
-    "name": "CHA₂DS₂-VASc Score",
-    "shortName": "CHA₂DS₂-VASc",
+    "name": "CHA\u2082DS\u2082-VASc Score",
+    "shortName": "CHA\u2082DS\u2082-VASc",
     "description": "Stroke risk stratification in patients with atrial fibrillation.",
     "category": "cardiac",
     "tags": [
@@ -369,7 +369,7 @@
     "id": "heart-score",
     "name": "HEART Score (Chest Pain)",
     "shortName": "HEART",
-    "description": "Risk stratification for chest pain patients — predicts 6-week major adverse cardiac event (MACE) risk.",
+    "description": "Risk stratification for chest pain patients \u2014 predicts 6-week major adverse cardiac event (MACE) risk.",
     "category": "cardiac",
     "tags": [
       "HEART",
@@ -443,7 +443,7 @@
     "id": "batt-score",
     "name": "BATT Score (TXA Decision Aid)",
     "shortName": "BATT",
-    "description": "Prehospital traumatic haemorrhage risk score to identify patients likely to die from bleeding. Score ≥2 supports TXA administration.",
+    "description": "Prehospital traumatic haemorrhage risk score to identify patients likely to die from bleeding. Score \u22652 supports TXA administration.",
     "category": "trauma",
     "tags": [
       "BATT",
@@ -468,7 +468,7 @@
   },
   {
     "id": "rule-of-nines-burns",
-    "name": "Burns — Rule of Nines (TBSA)",
+    "name": "Burns \u2014 Rule of Nines (TBSA)",
     "shortName": "Rule of Nines",
     "description": "Tappable body diagram to calculate Total Body Surface Area (TBSA%) burned using the Rule of Nines. Automatically calculates Parkland formula fluid requirements.",
     "category": "trauma",
@@ -513,7 +513,7 @@
     "id": "crams",
     "name": "CRAMS Scale",
     "shortName": "CRAMS",
-    "description": "Quick field trauma triage: Circulation, Respiration, Abdomen/Thorax, Motor, Speech. Score ≤8 indicates major trauma.",
+    "description": "Quick field trauma triage: Circulation, Respiration, Abdomen/Thorax, Motor, Speech. Score \u22648 indicates major trauma.",
     "category": "trauma",
     "tags": [
       "CRAMS",
@@ -538,7 +538,7 @@
     "id": "gap",
     "name": "GAP Score",
     "shortName": "GAP",
-    "description": "GCS–Age–SBP trauma severity score. Simplified version of MGAP without mechanism of injury.",
+    "description": "GCS\u2013Age\u2013SBP trauma severity score. Simplified version of MGAP without mechanism of injury.",
     "category": "trauma",
     "tags": [
       "GAP",
@@ -561,7 +561,7 @@
     "id": "mgap",
     "name": "MGAP Score",
     "shortName": "MGAP",
-    "description": "Mechanism–GCS–Age–SBP trauma severity score for predicting major trauma and in-hospital mortality.",
+    "description": "Mechanism\u2013GCS\u2013Age\u2013SBP trauma severity score for predicting major trauma and in-hospital mortality.",
     "category": "trauma",
     "tags": [
       "MGAP",
@@ -585,7 +585,7 @@
     "id": "nexus-criteria",
     "name": "NEXUS Criteria (C-Spine)",
     "shortName": "NEXUS",
-    "description": "National Emergency X-Radiography Utilization Study — five low-risk criteria to determine whether cervical spine imaging can be safely omitted after trauma.",
+    "description": "National Emergency X-Radiography Utilization Study \u2014 five low-risk criteria to determine whether cervical spine imaging can be safely omitted after trauma.",
     "category": "trauma",
     "tags": [
       "nexus",
@@ -658,7 +658,7 @@
     "id": "speed-assessment",
     "name": "S.P.E.E.D Assessment",
     "shortName": "SPEED",
-    "description": "Spinal Emergency Evaluation of Deficits — rapid prehospital neurological assessment of sensation, pain response, upper and lower extremity motor function, and dermatomal level for suspected spinal cord injury.",
+    "description": "Spinal Emergency Evaluation of Deficits \u2014 rapid prehospital neurological assessment of sensation, pain response, upper and lower extremity motor function, and dermatomal level for suspected spinal cord injury.",
     "category": "trauma",
     "tags": [
       "speed",
@@ -797,7 +797,7 @@
     "id": "berg-balance-scale",
     "name": "Berg Balance Scale",
     "shortName": "Berg Balance",
-    "description": "14-item functional balance assessment tool scored 0–56. Used to assess fall risk and guide rehabilitation in community and clinical settings.",
+    "description": "14-item functional balance assessment tool scored 0\u201356. Used to assess fall risk and guide rehabilitation in community and clinical settings.",
     "category": "physio",
     "tags": [
       "berg",
@@ -823,7 +823,7 @@
     "id": "lefs-uefs",
     "name": "LEFS / UEFS (Limb Function)",
     "shortName": "LEFS / UEFS",
-    "description": "Lower Extremity Functional Scale and Upper Extremity Functional Scale — 20-item self-report tools for measuring lower or upper limb functional ability (0–80).",
+    "description": "Lower Extremity Functional Scale and Upper Extremity Functional Scale \u2014 20-item self-report tools for measuring lower or upper limb functional ability (0\u201380).",
     "category": "physio",
     "tags": [
       "LEFS",
@@ -882,7 +882,7 @@
     "id": "neck-disability-index",
     "name": "Neck Disability Index",
     "shortName": "NDI",
-    "description": "10-section self-report questionnaire measuring the degree of disability in patients with neck pain. Scores 0–100% disability.",
+    "description": "10-section self-report questionnaire measuring the degree of disability in patients with neck pain. Scores 0\u2013100% disability.",
     "category": "physio",
     "tags": [
       "NDI",
@@ -907,7 +907,7 @@
     "id": "oswestry",
     "name": "Oswestry Disability Index",
     "shortName": "Oswestry",
-    "description": "10-section self-report questionnaire for measuring disability in patients with low back pain. Scores 0–100% disability across activities of daily living.",
+    "description": "10-section self-report questionnaire for measuring disability in patients with low back pain. Scores 0\u2013100% disability across activities of daily living.",
     "category": "physio",
     "tags": [
       "Oswestry",
@@ -933,7 +933,7 @@
     "id": "psfs",
     "name": "Patient-Specific Functional Scale",
     "shortName": "PSFS",
-    "description": "Patient-nominated functional activity assessment. Up to 5 personally relevant activities rated 0–10 (0 = unable, 10 = fully able). MCID = 2 points per activity.",
+    "description": "Patient-nominated functional activity assessment. Up to 5 personally relevant activities rated 0\u201310 (0 = unable, 10 = fully able). MCID = 2 points per activity.",
     "category": "physio",
     "tags": [
       "PSFS",
@@ -958,7 +958,7 @@
     "id": "sppb",
     "name": "Short Physical Performance Battery",
     "shortName": "SPPB",
-    "description": "Three-part objective assessment of lower extremity function: standing balance, gait speed, and chair stand test. Scored 0–12.",
+    "description": "Three-part objective assessment of lower extremity function: standing balance, gait speed, and chair stand test. Scored 0\u201312.",
     "category": "physio",
     "tags": [
       "SPPB",
@@ -1012,7 +1012,7 @@
     "id": "tinetti-poma",
     "name": "Tinetti POMA (Balance & Gait)",
     "shortName": "Tinetti",
-    "description": "Performance-Oriented Mobility Assessment: balance subscale (max 16) + gait subscale (max 12) = total 0–28. Stratifies fall risk in elderly patients.",
+    "description": "Performance-Oriented Mobility Assessment: balance subscale (max 16) + gait subscale (max 12) = total 0\u201328. Stratifies fall risk in elderly patients.",
     "category": "physio",
     "tags": [
       "Tinetti",
@@ -1059,7 +1059,7 @@
     "id": "erg-lookup",
     "name": "ERG Hazmat Lookup",
     "shortName": "ERG Lookup",
-    "description": "Emergency Response Guidebook reference — UN number lookup, Kemler hazard ID codes, and placard class guide.",
+    "description": "Emergency Response Guidebook reference \u2014 UN number lookup, Kemler hazard ID codes, and placard class guide.",
     "category": "eso",
     "tags": [
       "ERG",
@@ -1147,7 +1147,7 @@
     "id": "spirometry-suite",
     "name": "Spirometry Suite",
     "shortName": "Spirometry",
-    "description": "GLI-2012 predicted values (FEV₁, FVC, FEV₁/FVC), severity grading (obstruction/restriction), longitudinal FEV₁ decline calculator, and pre/post bronchodilator response. For clinical decision support only.",
+    "description": "GLI-2012 predicted values (FEV\u2081, FVC, FEV\u2081/FVC), severity grading (obstruction/restriction), longitudinal FEV\u2081 decline calculator, and pre/post bronchodilator response. For clinical decision support only.",
     "category": "occHealth",
     "tags": [
       "spirometry",
@@ -1174,7 +1174,7 @@
     "id": "audiometry-hearing",
     "name": "Audiometry & Hearing Conservation",
     "shortName": "Audiometry",
-    "description": "OSHA Standard Threshold Shift (STS) detection at 2/3/4 kHz, age-corrected STS using OSHA Appendix F tables, and NIOSH significant threshold shift (≥15 dB at any frequency). Bilateral ear assessment.",
+    "description": "OSHA Standard Threshold Shift (STS) detection at 2/3/4 kHz, age-corrected STS using OSHA Appendix F tables, and NIOSH significant threshold shift (\u226515 dB at any frequency). Bilateral ear assessment.",
     "category": "occHealth",
     "tags": [
       "audiometry",
@@ -1249,7 +1249,7 @@
     "id": "shock-index",
     "name": "Shock Index",
     "shortName": "Shock Index",
-    "description": "Shock Index (HR ÷ SBP) and Modified Shock Index (HR ÷ MAP) for early haemorrhage and occult shock detection.",
+    "description": "Shock Index (HR \u00f7 SBP) and Modified Shock Index (HR \u00f7 MAP) for early haemorrhage and occult shock detection.",
     "category": "trauma",
     "tags": [
       "shock index",
@@ -1276,7 +1276,7 @@
     "id": "map-calculator",
     "name": "MAP / CPP Calculator",
     "shortName": "MAP / CPP",
-    "description": "Mean Arterial Pressure ((SBP + 2×DBP) ÷ 3) and optional Cerebral Perfusion Pressure (MAP − ICP) for perfusion monitoring.",
+    "description": "Mean Arterial Pressure ((SBP + 2\u00d7DBP) \u00f7 3) and optional Cerebral Perfusion Pressure (MAP \u2212 ICP) for perfusion monitoring.",
     "category": "scoring",
     "tags": [
       "MAP",
@@ -1379,7 +1379,7 @@
     "id": "rsi-calculator",
     "name": "RSI Drug Calculator",
     "shortName": "RSI",
-    "description": "Rapid Sequence Intubation drug doses — induction agents (Ketamine, Midazolam, Thiopentone), paralytics (Suxamethonium, Rocuronium), and adjuncts.",
+    "description": "Rapid Sequence Intubation drug doses \u2014 induction agents (Ketamine, Midazolam, Thiopentone), paralytics (Suxamethonium, Rocuronium), and adjuncts.",
     "category": "dosing",
     "tags": [
       "RSI",
@@ -1492,7 +1492,7 @@
     "id": "hypothermia-staging",
     "name": "Hypothermia Staging",
     "shortName": "Hypothermia",
-    "description": "Swiss staging system (I–IV) from core temperature or clinical signs. Management and rewarming guidance per stage.",
+    "description": "Swiss staging system (I\u2013IV) from core temperature or clinical signs. Management and rewarming guidance per stage.",
     "category": "scoring",
     "tags": [
       "hypothermia",
@@ -1540,7 +1540,7 @@
     "id": "blood-loss-class",
     "name": "Blood Loss Classification",
     "shortName": "Blood Loss Class",
-    "description": "Haemorrhagic shock Classes I–IV from vital signs. Estimates blood volume lost and guides immediate resuscitation actions.",
+    "description": "Haemorrhagic shock Classes I\u2013IV from vital signs. Estimates blood volume lost and guides immediate resuscitation actions.",
     "category": "trauma",
     "tags": [
       "blood loss",
@@ -1713,7 +1713,7 @@
     "id": "h2s-toxicology",
     "name": "H2S Toxicology",
     "shortName": "H2S",
-    "description": "Hydrogen sulphide clinical staging (I–IV), ppm exposure reference, antidote decision aid, and knockdown management.",
+    "description": "Hydrogen sulphide clinical staging (I\u2013IV), ppm exposure reference, antidote decision aid, and knockdown management.",
     "category": "toxicology",
     "tags": [
       "H2S",
@@ -1753,7 +1753,7 @@
     "id": "blast-injury",
     "name": "Blast Injury Assessment",
     "shortName": "Blast",
-    "description": "Four-mechanism blast injury classification (primary/secondary/tertiary/quaternary), Leibovici blast lung staging (Grade I–III), and tympanic membrane grading as a primary blast indicator.",
+    "description": "Four-mechanism blast injury classification (primary/secondary/tertiary/quaternary), Leibovici blast lung staging (Grade I\u2013III), and tympanic membrane grading as a primary blast indicator.",
     "category": "trauma",
     "tags": [
       "blast",
@@ -1799,7 +1799,7 @@
     "id": "reba",
     "name": "REBA - Rapid Entire Body Assessment",
     "shortName": "REBA",
-    "description": "Whole-body ergonomic risk scoring using trunk, neck, leg, arm and wrist posture plus force/load and activity modifiers. Risk action levels 1–5 (negligible to very high). Hignett & McAtamney 2000.",
+    "description": "Whole-body ergonomic risk scoring using trunk, neck, leg, arm and wrist posture plus force/load and activity modifiers. Risk action levels 1\u20135 (negligible to very high). Hignett & McAtamney 2000.",
     "category": "physio",
     "tags": [
       "REBA",
@@ -1825,10 +1825,136 @@
     "version": 1
   },
   {
+    "id": "ottawa-ankle-foot",
+    "name": "Ottawa Ankle & Foot Rules",
+    "shortName": "Ottawa Rules",
+    "description": "Evidence-based decision rule for ankle and foot X-ray in acute trauma. Reduces unnecessary imaging while maintaining high sensitivity for clinically significant fractures.",
+    "category": "physio",
+    "tags": [
+      "Ottawa",
+      "ankle",
+      "foot",
+      "fracture",
+      "X-ray",
+      "imaging",
+      "decision rule",
+      "physiotherapy",
+      "musculoskeletal",
+      "trauma",
+      "HIPA"
+    ],
+    "relatedGuidelineIDs": [
+      "ankle-and-foot-pain",
+      "suspected-fracture-red-flags-for-physio"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "westley-croup-score",
+    "name": "Westley Croup Score",
+    "shortName": "Westley Croup",
+    "description": "Five-criterion severity score for croup (laryngotracheobronchitis) in children. Grades severity from mild (0\u20132) to impending respiratory failure (\u226512) and guides dexamethasone and nebulised adrenaline decisions.",
+    "category": "paediatric",
+    "tags": [
+      "croup",
+      "stridor",
+      "paediatric",
+      "laryngotracheobronchitis",
+      "dexamethasone",
+      "adrenaline",
+      "Westley",
+      "airway",
+      "severity"
+    ],
+    "relatedGuidelineIDs": [
+      "croup"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "flacc-pain-scale",
+    "name": "FLACC Pain Scale",
+    "shortName": "FLACC",
+    "description": "Behavioural pain assessment tool for non-verbal patients including infants, young children, and cognitively impaired adults. Scores Face, Legs, Activity, Cry and Consolability from 0\u201310.",
+    "category": "paediatric",
+    "tags": [
+      "FLACC",
+      "pain",
+      "paediatric",
+      "non-verbal",
+      "behavioural",
+      "infant",
+      "cognitive impairment",
+      "pain scale",
+      "assessment"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-pain-assessment",
+      "paediatric-medical-emergencies"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "apgar-score",
+    "name": "Apgar Score",
+    "shortName": "Apgar",
+    "description": "Neonatal assessment tool scored at 1 and 5 minutes after birth. Evaluates Appearance, Pulse, Grimace, Activity and Respiration to communicate neonatal status and response to resuscitation.",
+    "category": "paediatric",
+    "tags": [
+      "Apgar",
+      "neonatal",
+      "newborn",
+      "birth",
+      "resuscitation",
+      "obstetric",
+      "paediatric",
+      "APGAR",
+      "delivery"
+    ],
+    "relatedGuidelineIDs": [
+      "skill-childbirth",
+      "neonatal-resuscitation"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
+    "id": "lund-browder",
+    "name": "Lund & Browder Chart",
+    "shortName": "Lund & Browder",
+    "description": "Age-adjusted TBSA calculator for burns. Corrects for the disproportionate head and leg surface areas in children, providing more accurate TBSA estimation than Rule of Nines in paediatric patients.",
+    "category": "paediatric",
+    "tags": [
+      "Lund",
+      "Browder",
+      "burns",
+      "TBSA",
+      "paediatric",
+      "body surface area",
+      "burns chart",
+      "fluid resuscitation",
+      "age-adjusted"
+    ],
+    "relatedGuidelineIDs": [
+      "burns-assessment-rule-of-nines",
+      "burns-fluid-resuscitation"
+    ],
+    "relatedMedicationIDs": [],
+    "isFreeContent": true,
+    "version": 1
+  },
+  {
     "id": "mci-management",
     "name": "Mass Casualty Incident - SIEVE & CSCATTT",
     "shortName": "MCI Management",
-    "description": "Live casualty tally board (P1–P4), SIEVE triage algorithm reference, and CSCATTT major incident management framework for mine site MCI response.",
+    "description": "Live casualty tally board (P1\u2013P4), SIEVE triage algorithm reference, and CSCATTT major incident management framework for mine site MCI response.",
     "category": "trauma",
     "tags": [
       "MCI",

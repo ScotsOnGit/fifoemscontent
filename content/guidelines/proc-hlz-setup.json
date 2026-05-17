@@ -1,0 +1,71 @@
+{
+  "id": "proc-hlz-setup",
+  "title": "Helicopter Landing Zone Setup",
+  "category": "procedures",
+  "tags": ["helicopter", "HLZ", "landing zone", "retrieval", "HEMS", "helipad"],
+  "synonyms": ["Helicopter Landing", "HLZ", "LZ Setup", "Helipad", "HEMS"],
+  "sections": [
+    {
+      "id": "proc-hlz-setup-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the requirements for selecting, preparing, marking, and managing a helicopter landing zone (HLZ) at a remote FIFO mine site in the context of patient retrieval. A well-prepared HLZ reduces retrieval time, prevents secondary incidents, and protects all personnel on the ground.\n\nThis procedure applies to any situation requiring helicopter retrieval — including Royal Flying Doctor Service (RFDS), RAC Retrieval WA, or any other rotary-wing service. On a remote mine site, the attending medic or nurse is responsible for establishing the HLZ until specialist aviation or emergency management personnel take over. Do not assume a site helipad meets the requirements for all aircraft types — confirm with the retrieval service.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-hlz-setup-site-selection",
+      "type": "management_basic",
+      "title": "Site Selection",
+      "content": "If a prepared helipad is not available or is unsuitable, select and prepare an unprepared HLZ using the following criteria:\n\n1. Minimum clear area: 30 x 30 metres for a single-engine helicopter. Larger aircraft (twin-engine) may require 40 x 40 metres — confirm with the retrieval service.\n2. Surface: firm and level. Avoid soft sand, mud, or waterlogged ground. Slope must not exceed 7 degrees in any direction.\n3. Overhead clearance: no power lines, tall trees, antennas, or other overhead obstacles within 60 metres of the intended landing spot.\n4. Approach path: clear of obstacles on at least two sides to allow the pilot to approach and depart into the wind.\n5. Dust: if the surface is dusty, wet it down if a water source is available. Warn the retrieval service if dust is unavoidable — the pilot will adjust approach accordingly.\n6. Proximity to patient: as close as safely achievable to the patient location. Balance proximity against site hazard constraints.\n7. If at night: ensure the approach path can be illuminated. Identify hazards that are not visible in darkness.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-hlz-setup-hazard-clearance",
+      "type": "management_basic",
+      "title": "Hazard Clearance",
+      "content": "Once a site is selected, clear or mark all hazards:\n\n1. Move vehicles, equipment, and any moveable objects clear of the landing zone.\n2. Mark any fixed obstacles (fencing, bollards, equipment) that cannot be moved with high-visibility markers or cones visible from the air.\n3. Establish a minimum 30-metre exclusion zone around the landing spot on the approach path and a 60-metre exclusion zone overall.\n4. Remove all non-essential personnel from the exclusion zone before aircraft arrival.\n5. Identify and communicate any underground hazards (gas lines, water pipes, voids) to the retrieval service if known.\n6. Inform the pilot of all known hazards during the pre-landing radio communication.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-hlz-setup-marking",
+      "type": "management_basic",
+      "title": "Marking the Landing Zone",
+      "content": "Mark the HLZ clearly so it is visible to the approaching pilot:\n\nDaytime marking:\n- Use orange smoke to indicate the landing zone and, critically, wind direction. Deploy smoke upwind of the intended landing spot so the smoke drifts across the zone without obscuring it.\n- If smoke is unavailable, use orange panels, witches hats, or any high-contrast markers at the four corners of the landing zone.\n- If available, mark the centre of the landing zone with an H formed by panels or painted marking.\n\nNighttime marking:\n- Place lights at the four corners of the landing zone facing inward — never shine lights directly at the approaching aircraft.\n- Use a strobe or flashing light to help the pilot identify the zone from altitude.\n- Chemical light sticks (glowsticks) at corners are a minimum option if no powered lighting is available.\n- Never use open flame (e.g., flares on the ground) in proximity to the landing zone — rotor wash can spread fire.\n- A handheld torch may be used to help the pilot locate the zone on approach — turn it off before the aircraft is within 500 metres to avoid blinding the pilot.",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-hlz-setup-communications",
+      "type": "management_basic",
+      "title": "Communications with the Retrieval Service",
+      "content": "Establish and maintain communications with the retrieval coordination centre from the time of activation. Provide the following information:\n\n1. GPS coordinates of the HLZ in decimal degrees (confirm format with retrieval service — some use degrees/minutes/seconds)\n2. HLZ dimensions and surface description\n3. Elevation above sea level if known (affects aircraft performance)\n4. Known hazards on approach paths (power lines, structures, terrain)\n5. Wind direction and estimated speed at the site\n6. Day or night conditions at the site\n7. Night lighting available (type and configuration)\n8. Any communications or radio restrictions on the mine site\n9. A contact number for the clinician on the ground\n\nConfirm the aircraft radio frequency before landing so direct communication can be established with the pilot. For RFDS, HF or VHF may be used depending on location. For RAC Retrieval, confirm VHF or UHF channel.",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-hlz-setup-personnel",
+      "type": "management_basic",
+      "title": "Personnel Management and Approach Safety",
+      "content": "Personnel management around a landing helicopter is one of the highest-risk aspects of retrieval operations:\n\n1. All non-essential personnel must be behind a physical barrier or clear marker at a minimum of 60 metres from the landing spot before the aircraft arrives.\n2. The attending clinician should position themselves visibly at a safe distance (minimum 30 metres) where they can be seen by the pilot on final approach, then move to a briefed meeting point.\n3. Do not approach the aircraft until the pilot signals it is safe to do so — the pilot will give a clear signal (thumbs up, or rotors off, or a wave). Wait for this signal.\n4. Always approach from the front of the aircraft in the pilot's direct line of sight. Never approach from the side or rear.\n5. Never approach the tail rotor under any circumstances. The tail rotor is silent in operation and lethal.\n6. When approaching under running rotors (hot offload or pickup): crouch to reduce profile, secure all loose clothing and equipment, hold down any hats or head coverings, and do not raise equipment above your head.\n7. Brief all site personnel and bystanders on these rules before the aircraft arrives — do not assume anyone knows.",
+      "sortOrder": 5
+    },
+    {
+      "id": "proc-hlz-setup-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Document the following in the patient's clinical record and the incident log:\n\n- Time HLZ preparation commenced\n- HLZ location (GPS coordinates)\n- Hazards identified and mitigation actions taken\n- Time retrieval service activated and service provider name\n- Time of aircraft arrival\n- Time patient transferred to retrieval team\n- Names of retrieval crew if obtained\n- Any safety incidents or near-misses during HLZ operations\n\nIf a safety incident occurred during HLZ setup or aircraft arrival, submit a separate incident report via the site safety system.",
+      "sortOrder": 6
+    },
+    {
+      "id": "proc-hlz-setup-references",
+      "type": "references",
+      "title": "Regulatory Basis",
+      "content": "- Civil Aviation Safety Regulations 1998 (Cth) — helicopter landing area requirements\n- CAAP 92-1(1): Guidelines for helicopter landing areas\n- Royal Flying Doctor Service WA Operations — ground crew briefing documentation\n- RAC Retrieval WA — referring hospital and site guidelines\n- Work Health and Safety Act 2020 (WA) — duty of care for personnel in the landing zone",
+      "sortOrder": 7
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-emergency-activation", "proc-hospital-handover"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

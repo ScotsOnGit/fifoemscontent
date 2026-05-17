@@ -1,0 +1,57 @@
+{
+  "id": "proc-drug-storage",
+  "title": "Drug Storage and Accountability (S4/S8)",
+  "category": "procedures",
+  "tags": ["drug", "medication", "S4", "S8", "controlled", "accountable", "safe", "PBS", "register"],
+  "synonyms": ["Medication Management", "Controlled Drugs", "Drug Safe", "Drug Register"],
+  "sections": [
+    {
+      "id": "proc-drug-storage-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure governs the storage, handling, administration, and accountability of Schedule 4 (S4) and Schedule 8 (S8) drugs in mine site health clinics. Schedule 8 drugs are controlled substances with a high potential for misuse — their management is subject to strict legal requirements under the Medicines and Poisons Act 2014 (WA) and the Medicines and Poisons Regulations 2016 (WA).\n\nThis procedure applies to all clinicians authorised to handle scheduled medications at the mine site clinic. The medical director holds overall responsibility for medication governance; the attending clinician is responsible for day-to-day compliance. Non-compliance with S8 drug requirements is a serious matter that may result in regulatory action, criminal investigation, and loss of registration.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-drug-storage-requirements",
+      "type": "management_basic",
+      "title": "Storage Requirements",
+      "content": "Schedule 8 controlled drugs:\n- Must be stored in a lockable drug safe compliant with WA Medicines and Poisons Regulations (steel construction, minimum specifications as per regulatory guidance)\n- The drug safe must be bolted or permanently fixed to a structural element of the building — floor, wall, or immovable fixture\n- The drug safe requires dual-lock: at minimum, two separate locking mechanisms\n- Only the authorised clinician on shift holds the key or combination — keys must not be left unattended\n- S8 drug stock must be limited to quantities appropriate for the site's clinical activity and resupply schedule — do not accumulate excessive stock\n\nSchedule 4 prescription drugs:\n- Must be stored in a locked cupboard or area accessible only to authorised clinical staff\n- Separate from S8 storage, general supplies, and food\n\nCold chain medications:\n- Stored in the dedicated medical refrigerator — do not mix with food or non-clinical items\n- See Cold Chain Management procedure for temperature requirements\n\nGeneral storage:\n- All medications must be stored away from heat, direct sunlight, and moisture\n- Check expiry dates on receipt and at monthly audit\n- Store medications in their original packaging where possible to preserve labelling and batch information",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-drug-storage-register",
+      "type": "management_basic",
+      "title": "Drug Register",
+      "content": "A drug register must be maintained for all S8 drugs. Every movement of an S8 drug must be recorded at the time of the event — retrospective entries are not acceptable.\n\nEach register entry must include:\n- Date and time of the entry\n- Patient full name and date of birth\n- Drug name, strength, and form\n- Quantity drawn up or dispensed\n- Dose administered to the patient\n- Quantity wasted (if applicable) — wastage must be witnessed and both clinician and witness must sign\n- Running balance (stock remaining)\n- Administering clinician name, registration number, and signature\n- Witness name and signature (required for S8 administration in most remote clinical settings — confirm requirements with medical director)\n\nThe register must be:\n- Handwritten in indelible ink — electronic drug registers are only acceptable if they have been specifically approved under WA regulations\n- Free of correction fluid (Tipp-Ex) — errors must be crossed out with a single line, initialled, and corrected\n- Retained for a minimum of 7 years after the date of the last entry",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-drug-storage-reconciliation",
+      "type": "management_basic",
+      "title": "Stock Reconciliation and Handover",
+      "content": "A full count of all S8 drug stock must occur at every shift handover:\n\n- The outgoing and incoming clinician must both physically count every S8 item together — one clinician counts, the other observes and confirms\n- The count is compared to the running balance in the drug register — it must match exactly\n- Any discrepancy must be resolved before the outgoing clinician departs — see the Drug Discrepancy procedure\n- Both clinicians must sign the register to confirm the count and that the tally is correct\n- The shift does not formally end until the count is complete and signed off — the outgoing clinician must remain on site until this is done\n- If a single-clinician site, a competent witness (e.g., site HSE officer, mine site nurse if multi-disciplinary, or site superintendent with documented authorisation) should sign as witness to the count",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-drug-storage-ordering",
+      "type": "management_basic",
+      "title": "Ordering, Receipt, and Expiry Management",
+      "content": "Ordering:\n- S8 drugs must be ordered through an approved pharmaceutical supplier, using a lawful order (permit or prescription as required by WA regulations)\n- Order quantities should reflect anticipated clinical need — do not over-order\n- Maintain a minimum stock level to ensure medications are available between resupply cycles at remote sites\n\nReceipt:\n- On receipt, two authorised clinicians must jointly verify the delivery: check drug name, strength, quantity, batch number, and expiry date against the delivery documentation\n- Record receipt in the drug register: date received, supplier, quantity, batch number, expiry date\n- Inspect packaging for damage or tampering — do not accept damaged stock\n\nExpiry Management:\n- Conduct a monthly medication audit including all S8 and S4 stock\n- Quarantine and label any expired or near-expiry stock clearly — do not administer\n- Return expired S8 drugs to the dispensing pharmacy or an approved destruction service — destruction must be witnessed and documented\n- Do not destroy S8 drugs independently — destruction must follow the approved process and be recorded in the drug register",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-drug-storage-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Maintain the following records:\n\n- S8 drug register: every administration, receipt, wastage, destruction, and count — signed by both clinician and witness as required\n- Monthly medication audit record: all stock checked, expiry dates verified, discrepancies noted\n- Supplier delivery documentation: retain invoices and delivery notes for at least 3 years\n- Drug destruction records: date, drug, quantity, batch number, method, witnesses, retained on file\n- Any regulatory correspondence from the WA Medicines and Poisons Regulation Branch must be retained and actioned promptly",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-drug-discrepancy", "proc-cold-chain", "proc-clinic-opening-closing", "proc-shift-handover"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

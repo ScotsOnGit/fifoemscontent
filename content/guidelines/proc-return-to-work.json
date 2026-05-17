@@ -1,0 +1,78 @@
+{
+  "id": "proc-return-to-work",
+  "title": "Return to Work and Graduated RTW",
+  "category": "procedures",
+  "tags": ["return to work", "RTW", "rehabilitation", "graduated", "restricted duties", "injury management"],
+  "synonyms": ["RTW", "Graduated Return", "Injury Rehabilitation", "Restricted Duties"],
+  "sections": [
+    {
+      "id": "proc-return-to-work-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the process for planning and managing return to work (RTW) following a work-related or non-work-related injury or illness that has caused absence from the workplace or inability to perform full duties.\n\nEarly, supported return to work is associated with better clinical outcomes, lower rates of chronic disability, and faster functional recovery. Prolonged work absence — even when medically justified — carries its own health risks: deconditioning, social isolation, reduced confidence, and increased risk of long-term incapacity. The goal of RTW management is to return the worker to meaningful, safe, and productive work as quickly as clinically appropriate.\n\nThis procedure applies to all workers returning to site duties following any injury or illness, whether work-related or not, that involved lost time or modified duties of more than two consecutive days.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-return-to-work-planning",
+      "type": "management_basic",
+      "title": "RTW Planning",
+      "content": "A return to work plan must be developed collaboratively and documented within 5 business days of the injury or illness being reported:\n\n1. Identify the parties — the RTW plan is developed between the worker, the treating clinician (site medic/nurse, GP, specialist), and the employer representative (HSE manager, supervisor, or HR). Workers' compensation insurer may also be involved for compensable injuries.\n2. Obtain information about the role — understand the physical and cognitive demands of the worker's role. Request a job task analysis from the employer if one does not already exist. Without understanding the role, you cannot plan a meaningful return to it.\n3. Identify current functional capacity — what can the worker do now? What can they not do? Specific restrictions (e.g., \"no lifting above 10 kg\", \"no prolonged standing more than 30 minutes\", \"no driving heavy plant\") not vague ones (e.g., \"light duties\").\n4. Identify suitable duties — what work can the employer offer within those restrictions? The employer must make reasonable attempts to identify modified or alternative duties. The clinician cannot assign duties — only the employer can do this — but the clinician specifies the restrictions.\n5. Document the plan — the RTW plan must include:\n- Worker name, employer, role\n- Date of injury/illness and nature of condition\n- Current restrictions and functional limitations\n- Suitable duties offered and accepted\n- Hours of work (may be reduced initially in a graduated plan)\n- Scheduled review dates\n- Signatures of worker, employer representative, and clinician",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-return-to-work-graduated",
+      "type": "management_basic",
+      "title": "Graduated RTW",
+      "content": "A graduated RTW progressively increases work demands as the worker's function returns. Use this approach for any complex injury, significant time off, or when full duties cannot be safely resumed immediately:\n\n1. Start low, go slow — begin with reduced hours and/or modified duties that are within the worker's current capacity without aggravating the injury.\n2. Typical progression — increase hours or demand every 1–2 weeks based on clinical progress. Each step should be achievable. Do not plan a progression that requires the worker to fail at a step before it is adjusted.\n3. Example progression:\n- Week 1: 4 hours per day, administrative tasks only, no physical demands\n- Week 2: 6 hours per day, light duties (walking, supervision), no lifting\n- Week 3: 8 hours per day, light to medium duties, lifting up to 10 kg\n- Week 4: Full hours, progressively increasing duties, with specific restrictions\n- Month 2: Full duties pending clearance\n4. Adjust the plan based on progress — if the worker deteriorates or reports significant symptom aggravation, reduce demands and review. If progress is better than expected, the plan can be accelerated — but confirm with the treating clinician and worker before doing so.\n5. Communicate changes to all parties and update the written plan each time it changes.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-return-to-work-clearance",
+      "type": "management_basic",
+      "title": "Medical Clearance",
+      "content": "Return to full duties without restriction requires written medical clearance:\n\n1. Clearance for return to full duties must be provided in writing by the treating clinician — either the site clinician (if within scope and standing orders permit) or the external treating specialist/GP.\n2. For safety-critical roles (plant operator, truck driver, working at heights, confined space), apply a higher threshold before providing clearance. Consult with the medical director if uncertain.\n3. For complex cases — prolonged absence, serious musculoskeletal injury, mental health conditions, or neurological events — an independent occupational health assessment (FFW assessment) may be required before return to safety-critical duties. Do not clear for safety-critical work based solely on the worker's self-report of improvement.\n4. Never provide clearance under employer pressure if you are not clinically satisfied that the worker is ready. Document any pressure applied and notify the medical director.",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-return-to-work-suitable-duties",
+      "type": "considerations",
+      "title": "Suitable Duties Principles",
+      "content": "Suitable duties must meet these criteria to be genuinely therapeutic:\n\n- Meaningful: the work has real value, is recognised by the employer and peers as useful, and is not a demeaning or punitive assignment\n- Safe: the duties do not risk aggravating the injury or creating a new injury\n- Within restrictions: every duty offered must be within the clinician-specified restrictions — not \"mostly within\" restrictions\n- Maintains workplace connection: the worker remains connected to their team and workplace culture, not isolated or sidelined\n- Maintains income: suitable duties should maintain the worker's normal wage rate — reduced hours may reduce earnings, but the hourly rate should not be reduced due to modified duties (confirm with site HR policy)\n- Suitable duties are not a punishment and must not be framed as such by supervisors. If a clinician becomes aware that suitable duties are being used punitively, document it and raise it with the HSE manager and medical director.",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-return-to-work-review",
+      "type": "management_basic",
+      "title": "Review Process",
+      "content": "Scheduled reviews are essential to keep the RTW plan on track:\n\n1. Review at 2 weeks — assess progress, adjust the plan, confirm suitable duties remain appropriate and are being provided as documented.\n2. Review at 4 weeks — re-evaluate functional capacity, update restrictions, consider whether an independent assessment is required.\n3. Review at 3 months — for prolonged cases. At 3 months, if the worker is not on track for return to pre-injury duties, consider referral to a rehabilitation specialist, occupational therapist, or occupational physician.\n4. Unscheduled reviews — should occur immediately if: the worker reports significant symptom aggravation, the worker disengages from the RTW plan, the employer reports inability to provide suitable duties, or there is a dispute about the plan.\n5. At each review: update the clinical record, update the written RTW plan, communicate the updated plan to all parties, and set the next review date.",
+      "sortOrder": 5
+    },
+    {
+      "id": "proc-return-to-work-noncompliance",
+      "type": "considerations",
+      "title": "Non-Compliance",
+      "content": "- Non-attendance at scheduled medical reviews without reasonable explanation is a significant concern and should be addressed early\n- If a worker fails to engage with the RTW plan, document specific instances of non-engagement (dates, what was expected, what occurred)\n- Notify the workers' compensation insurer (for compensable claims) of non-compliance per the insurer's requirements\n- Notify HR and the HSE manager per site policy\n- Do not assume the worker does not want to recover — non-compliance often reflects barriers to participation (transport, fear of re-injury, workplace conflict, depression) that can be addressed clinically\n- Explore barriers before escalating — a brief conversation may reveal a solvable problem",
+      "sortOrder": 6
+    },
+    {
+      "id": "proc-return-to-work-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "The following documents must be completed and retained:\n\n1. RTW plan — initial plan signed by worker, employer representative, and clinician. Updated plan at each revision — each version signed and dated.\n2. Progress notes at each clinical review — including functional assessment, worker-reported symptoms, clinician observations, and plan changes.\n3. Correspondence — all written communication with the treating specialist, insurer, employer HR, or rehabilitation provider.\n4. Medical clearance certificate for return to full duties — includes clinician name, AHPRA registration, date, specific clearance (\"fit for full duties from [date]\"), and any ongoing monitoring requirements.\n5. Incident and injury report — must be completed at time of initial injury if work-related. Clinician retains a copy.\n\nRTW records are both health records and employment records. Handle with the same confidentiality as all clinical records. The employer is entitled to the RTW plan and clearance certificates. The employer is not entitled to the worker's clinical notes without the worker's written consent.",
+      "sortOrder": 7
+    },
+    {
+      "id": "proc-return-to-work-references",
+      "type": "references",
+      "title": "Regulatory Basis",
+      "content": "- Workers' Compensation and Injury Management Act 2023 (WA) — obligations for injury management and RTW\n- Work Health and Safety Act 2020 (WA) — employer duty to provide suitable duties\n- Mines Safety and Inspection Act 1994 (WA)\n- WorkCover WA — Injury Management Code of Practice\n- AHPRA Code of Conduct — obligations in occupational health settings",
+      "sortOrder": 8
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-fitness-for-work", "proc-incident-reporting", "return-to-work-modified-duties", "functional-capacity-fit-for-work-assessment"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

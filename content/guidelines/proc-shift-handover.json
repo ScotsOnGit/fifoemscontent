@@ -1,0 +1,50 @@
+{
+  "id": "proc-shift-handover",
+  "title": "Shift Handover Procedure",
+  "category": "procedures",
+  "tags": ["handover", "shift", "ISBAR", "clinical handover", "patient list", "drug count"],
+  "synonyms": ["Clinical Handover", "Shift Change", "Handover"],
+  "sections": [
+    {
+      "id": "proc-shift-handover-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "Clinical handover is a structured transfer of professional responsibility and accountability for some or all aspects of care for a patient or group of patients from one clinician to another. Poor handover is recognised internationally as a leading cause of preventable clinical error — critical information that fails to transfer at a shift change can result in patient harm.\n\nThis procedure applies to all shift changes at FIFO mine site health clinics, whether the incoming clinician is a direct replacement at the site or is taking on remote responsibility for the site (e.g., if the clinic will be unstaffed but covered by telehealth or on-call). The outgoing clinician retains clinical responsibility until the handover is complete and the incoming clinician has acknowledged receipt of all key information and completed the drug count.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-shift-handover-isbar",
+      "type": "management_basic",
+      "title": "Handover Structure — ISBAR",
+      "content": "Use the ISBAR framework to structure the clinical handover. Work through each element systematically — do not abbreviate or skip sections:\n\nI — Identify:\n- Site name and location\n- Outgoing clinician: name, registration number, role, shift times\n- Incoming clinician: confirm name, registration number, and that they are prepared to assume responsibility\n\nS — Situation:\n- Current active patients: for each patient, state their name, age, presenting problem, and current status\n- Any patients who attended during the shift and were discharged but may represent (e.g., wound reviewed, plan for follow-up, awaiting test results)\n- Any site workers currently on restricted duties with a clinic-related medical reason\n\nB — Background:\n- Relevant clinical history for active or monitored patients\n- Any treatments commenced during the shift and the response to those treatments\n- Any referrals or escalations made during the shift and their current status\n- Medications administered during the shift (note S8 drugs specifically)\n\nA — Assessment:\n- Current clinical concerns for each active patient\n- Any patients the outgoing clinician is uncertain about or concerned may deteriorate\n- Any site-wide health issues (e.g., outbreak of gastroenteritis in the camp, heat-related illness risk from weather conditions)\n\nR — Recommendation:\n- Specific actions required by the incoming clinician: follow-up reviews, test results to chase, medication times, referral responses to await\n- Outstanding tasks from the outgoing shift that were not completed — state clearly why and what the plan is\n- The incoming clinician must acknowledge each outstanding item and confirm they understand and accept responsibility",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-shift-handover-drugcount",
+      "type": "management_basic",
+      "title": "Drug Count",
+      "content": "A complete, witnessed S8 controlled drug count is a mandatory component of every shift handover. The handover is not complete and the outgoing clinician may not depart until the drug count is reconciled and signed.\n\nProcedure:\n1. Both clinicians attend the drug safe together\n2. The outgoing clinician opens the safe and both clinicians physically count each S8 item together — one counts aloud, the other confirms\n3. The count is compared against the running balance in the S8 drug register\n4. If the count matches: both clinicians sign the drug register to confirm the count, the date, and the time\n5. If the count does not match: do NOT proceed with handover. Initiate the Drug Discrepancy procedure immediately.\n6. The drug safe is then relocked — the key passes to the incoming clinician\n7. Confirm with the incoming clinician that they have the safe key and the alarm code, and that they know the emergency contact chain\n\nIf a handover is occurring without an incoming clinician on site (e.g., the clinic will be covered remotely): a competent site witness must sign the closing drug count. The on-call clinician takes remote responsibility only after the count is confirmed and communicated to them.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-shift-handover-equipment",
+      "type": "management_basic",
+      "title": "Equipment Status",
+      "content": "During handover, the outgoing clinician must communicate the status of all critical equipment:\n\n- AED: last self-test result, pads in date, charged\n- Defibrillator/monitor: functional, leads and pads present\n- Oxygen supply: cylinder pressure(s), number of cylinders available, estimated time remaining at current pressure\n- Airway and resuscitation equipment: BVM, suction, laryngoscope, airway adjuncts — all present and functional\n- Spill kit: stocked and complete\n- Any equipment that is out of service, faulty, or pending repair must be explicitly communicated — do not assume the incoming clinician will discover it during their own check\n- If equipment failure was identified during the shift, state what steps were taken (e.g., maintenance request lodged, backup equipment deployed, medical director notified)\n\nThe incoming clinician must independently complete the opening checklist after receiving the handover — verbal advice from the outgoing clinician does not substitute for their own verification of critical equipment.",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-shift-handover-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Document every handover in the shift log:\n\n- Date and time handover commenced and concluded\n- Outgoing clinician name, registration number, and signature\n- Incoming clinician name, registration number, and signature\n- Confirmation that ISBAR handover was completed\n- Confirmation that drug count was completed and reconciled (or note if discrepancy protocol was initiated)\n- List of outstanding tasks communicated and acknowledged\n- Any equipment issues or site health concerns communicated\n\nThe shift log entry serves as evidence that handover occurred and that the incoming clinician accepted responsibility. In the event of a subsequent adverse event, the handover record may be examined — a thorough, contemporaneous entry is important.\n\nIf handover is conducted by telephone or video (e.g., remote coverage): document the time and method of the handover, that ISBAR was completed, and that both clinicians confirmed their understanding. A remote handover is still a formal handover and must be documented as such.",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-drug-storage", "proc-drug-discrepancy", "proc-clinic-opening-closing", "proc-medical-records"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

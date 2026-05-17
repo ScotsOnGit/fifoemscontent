@@ -1,0 +1,57 @@
+{
+  "id": "proc-mci",
+  "title": "Mass Casualty Incident Management",
+  "category": "procedures",
+  "tags": ["MCI", "mass casualty", "triage", "START", "multiple casualties", "disaster"],
+  "synonyms": ["Multiple Casualty", "Disaster Response", "Mass Casualty Event"],
+  "sections": [
+    {
+      "id": "proc-mci-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "A mass casualty incident (MCI) is any event that generates more patients than available resources can manage using standard protocols. At a FIFO mine site, an MCI may arise from a vehicle rollover, blast, structural collapse, chemical release, or fire.\n\nThis procedure guides the initial response by the site clinician. The site clinician's primary role in an MCI is to manage available clinical resources, not to personally treat every patient. Effective triage, rapid escalation, and clear communication save more lives than heroic individual clinical effort.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-mci-immediate",
+      "type": "management_basic",
+      "title": "Immediate Actions (First 5 Minutes)",
+      "content": "1. Do not rush into the scene — confirm it is safe to approach. An unsafe scene produces more casualties.\n2. Size up: estimate the number of casualties and the mechanism of injury. Relay this immediately to site emergency control and medical director.\n3. Activate the site emergency response plan — do not manage an MCI alone. Call for all available first aid personnel, notify the site superintendent, and request additional clinical resources.\n4. Declare the event scale: use standard terminology when contacting retrieval services — \"I have a mass casualty incident with [X] patients, mechanism [describe], requesting [retrieval/RFDS/multiple ambulances].\"\n5. Establish a casualty collection point (CCP) upwind and uphill from the incident, accessible to vehicles and aircraft.\n6. Assign roles if personnel are available: one person to START triage, one to document, one to maintain radio communications.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-mci-triage",
+      "type": "management_basic",
+      "title": "START Triage",
+      "content": "Use START (Simple Triage and Rapid Treatment) for initial sorting. Complete each patient in 30–60 seconds.\n\nStep 1 — Walking wounded: call out loudly for anyone who can walk to move to a designated area. Tag these patients GREEN (minor). Continue to non-ambulatory patients.\n\nStep 2 — For each non-ambulatory patient:\n- Open airway (head tilt-chin lift or jaw thrust only)\n- Respirations: absent after airway opening → BLACK (expectant/deceased). Respiratory rate >30 → RED (immediate). Rate ≤30 → continue.\n- Perfusion: radial pulse absent or capillary refill >2 seconds → RED. Pulse present and CR <2 seconds → continue.\n- Mental status: cannot follow simple commands → RED. Can follow commands → YELLOW (delayed).\n\nTriage tags:\n- RED (Immediate): life-threatening but survivable with immediate intervention\n- YELLOW (Delayed): serious but can wait 30–60 minutes\n- GREEN (Minor): walking wounded\n- BLACK (Expectant): deceased or unsurvivable injuries given current resources\n\nReassess RED patients for deterioration if time allows. Do not attempt extended treatment during initial triage.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-mci-treatment",
+      "type": "management_basic",
+      "title": "Treatment and Evacuation Priority",
+      "content": "Treat in triage priority order:\n\nRED patients — immediate life threats only: airway management, haemorrhage control (tourniquet, wound packing), chest decompression if tension pneumothorax present. Do not start IV access or complex interventions during the triage phase.\n\nYELLOW patients — stabilise and prepare for evacuation: dress wounds, immobilise fractures, provide analgesia when resources allow.\n\nGREEN patients — first aid only until resources are available.\n\nBLACK patients — do not allocate clinical resources during active MCI. Revisit if RED/YELLOW load is managed.\n\nEvacuation:\n- Coordinate with retrieval services for RED patients first\n- Document every patient: name (if known), triage category, injuries, treatments given, and evacuation destination\n- Maintain a master casualty list — this is critical for site management, next-of-kin notification, and medico-legal purposes",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-mci-communications",
+      "type": "considerations",
+      "title": "Communications",
+      "content": "Effective communications are the most critical element of MCI management:\n\n- Assign one person to radio/phone communications if personnel permit — the clinician cannot treat and communicate simultaneously at scale\n- Use METHANE format when briefing retrieval services and receiving hospitals:\n  M — Major incident declared\n  E — Exact location\n  T — Type of incident\n  H — Hazards present or suspected\n  A — Access routes\n  N — Number of casualties (estimated by triage category)\n  E — Emergency services on scene and required\n- Repeat casualty count and category breakdown with every update\n- Record all communications with timestamps in the incident log",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-mci-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "During the MCI:\n- Maintain a running casualty log: patient identifier, triage category, treatments, evacuated to (destination and time)\n- Record all communications: who called, time, information exchanged\n\nAfter the MCI:\n- Complete a full incident report within 24 hours\n- Complete individual patient records for every casualty as soon as possible\n- Notify WorkSafe WA if the incident is notifiable under the Work Health and Safety Act 2020 (WA)\n- Brief the medical director on the clinical response\n- Participate in post-incident debrief — operational and psychological",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-emergency-activation", "proc-hlz-setup", "proc-hospital-handover"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

@@ -7,7 +7,7 @@
     "category": "neurological",
     "letters": [
       { "letter": "A", "term": "Alert", "detail": "Patient is fully conscious, awake, and aware of their surroundings." },
-      { "letter": "V", "term": "Voice", "detail": "Patient responds to verbal stimuli — eyes open or they respond to questions." },
+      { "letter": "V", "term": "Voice", "detail": "Patient responds to verbal stimuli - eyes open or they respond to questions." },
       { "letter": "P", "term": "Pain", "detail": "Patient responds only to painful stimuli (sternal rub, trapezius squeeze)." },
       { "letter": "U", "term": "Unresponsive", "detail": "Patient does not respond to any stimuli." }
     ],
@@ -25,7 +25,7 @@
       { "letter": "A", "term": "Allergies", "detail": "Known drug, food, or environmental allergies. Note the type of reaction." },
       { "letter": "M", "term": "Medications", "detail": "Current prescription medications, over-the-counter drugs, and supplements." },
       { "letter": "P", "term": "Pertinent Medical History", "detail": "Relevant past medical history, surgical history, and pre-existing conditions." },
-      { "letter": "L", "term": "Last Oral Intake", "detail": "Time and nature of last food and drink — important for airway management and surgery." },
+      { "letter": "L", "term": "Last Oral Intake", "detail": "Time and nature of last food and drink - important for airway management and surgery." },
       { "letter": "E", "term": "Events Leading Up", "detail": "What was happening before the emergency? What caused the current complaint?" }
     ],
     "tags": ["history", "assessment", "history taking", "ample"],
@@ -57,7 +57,7 @@
     "letters": [
       { "letter": "S", "term": "Situation", "detail": "Identify yourself, the patient, and state the current problem briefly." },
       { "letter": "B", "term": "Background", "detail": "Relevant medical history, current medications, allergies, and recent observations." },
-      { "letter": "A", "term": "Assessment", "detail": "Your clinical impression of the patient's condition — what you think is happening." },
+      { "letter": "A", "term": "Assessment", "detail": "Your clinical impression of the patient's condition - what you think is happening." },
       { "letter": "R", "term": "Recommendation", "detail": "What you need from the recipient: specific intervention, decision, or action required." }
     ],
     "tags": ["handover", "communication", "handoff", "isbar", "clinical handover"],
@@ -73,7 +73,7 @@
       { "letter": "I", "term": "Identify", "detail": "State your name, role, and the patient's name, age, and gender." },
       { "letter": "S", "term": "Situation", "detail": "The current clinical problem in a sentence: what is wrong with the patient right now." },
       { "letter": "B", "term": "Background", "detail": "Relevant history, medications, allergies, and recent vital signs." },
-      { "letter": "A", "term": "Assessment", "detail": "Your clinical impression — likely diagnosis or working assessment." },
+      { "letter": "A", "term": "Assessment", "detail": "Your clinical impression - likely diagnosis or working assessment." },
       { "letter": "R", "term": "Recommendation", "detail": "What action is needed from the receiving team?" }
     ],
     "tags": ["handover", "communication", "sbar", "handoff", "clinical handover"],
@@ -104,7 +104,7 @@
     "description": "The standard framework for declaring and reporting a major incident to ensure all essential information is communicated to the emergency control room.",
     "category": "major_incident",
     "letters": [
-      { "letter": "M", "term": "Major Incident", "detail": "Declare whether a major incident is confirmed or suspected (e.g. 'Major incident — DECLARED')." },
+      { "letter": "M", "term": "Major Incident", "detail": "Declare whether a major incident is confirmed or suspected (e.g. 'Major incident - DECLARED')." },
       { "letter": "E", "term": "Exact Location", "detail": "Give the precise location: address, grid reference, or geographic landmark." },
       { "letter": "T", "term": "Type of Incident", "detail": "Nature of the incident (e.g. RTC, chemical spill, explosion, structural collapse)." },
       { "letter": "H", "term": "Hazards", "detail": "Actual and potential hazards: fire, chemicals, electricity, unstable structures, crowd behaviour." },
@@ -153,7 +153,7 @@
   {
     "id": "aeiou_tips",
     "acronym": "AEIOU-TIPS",
-    "fullForm": "Alcohol, Epilepsy, Insulin, Opiates, Uraemia — Trauma, Infection, Psychiatric, Stroke/Structural",
+    "fullForm": "Alcohol, Epilepsy, Insulin, Opiates, Uraemia - Trauma, Infection, Psychiatric, Stroke/Structural",
     "description": "A differential diagnosis mnemonic for the common causes of altered level of consciousness or confusion.",
     "category": "neurological",
     "letters": [
@@ -292,7 +292,7 @@
     "description": "A mass casualty triage system used to prioritise patients rapidly. Patients are sorted into Red (immediate), Yellow (delayed), Green (minor), or Black (deceased/expectant) categories.",
     "category": "major_incident",
     "letters": [
-      { "letter": "S", "term": "Simple", "detail": "Simple to learn and perform — no medical training required for basic sorting." },
+      { "letter": "S", "term": "Simple", "detail": "Simple to learn and perform - no medical training required for basic sorting." },
       { "letter": "T", "term": "Triage", "detail": "Sorting patients into treatment priority categories." },
       { "letter": "A", "term": "And", "detail": "" },
       { "letter": "R", "term": "Rapid", "detail": "Each patient assessment takes 30–60 seconds." },
@@ -326,7 +326,7 @@
     "letters": [
       { "letter": "A", "term": "Appearance (TICLS)", "detail": "Tone, interactivity, consolability, look/gaze, speech/cry." },
       { "letter": "W", "term": "Work of Breathing", "detail": "Abnormal sounds (stridor, wheeze, grunting), abnormal positioning (tripod), use of accessory muscles, nasal flaring." },
-      { "letter": "C", "term": "Circulation to Skin", "detail": "Pallor, mottling, cyanosis — assessed visually." }
+      { "letter": "C", "term": "Circulation to Skin", "detail": "Pallor, mottling, cyanosis - assessed visually." }
     ],
     "tags": ["paediatric", "paeds", "children", "assessment", "ticls"],
     "relatedCalculatorIDs": []
@@ -352,10 +352,10 @@
     "description": "A mnemonic for predicting difficult intubation during RSI or elective airway management.",
     "category": "airway",
     "letters": [
-      { "letter": "L", "term": "Look Externally", "detail": "Facial trauma, beard, obesity, short neck — any obvious clue of difficult airway." },
+      { "letter": "L", "term": "Look Externally", "detail": "Facial trauma, beard, obesity, short neck - any obvious clue of difficult airway." },
       { "letter": "E", "term": "Evaluate 3-3-2", "detail": "Mouth opening, hyoid-chin distance, thyroid-mouth distance." },
       { "letter": "M", "term": "Mallampati", "detail": "Class III–IV increases difficulty. Class I: full view; Class IV: only hard palate visible." },
-      { "letter": "O", "term": "Obstruction", "detail": "Epiglottitis, Ludwig's angina, haematoma, foreign body — any obstruction to the airway." },
+      { "letter": "O", "term": "Obstruction", "detail": "Epiglottitis, Ludwig's angina, haematoma, foreign body - any obstruction to the airway." },
       { "letter": "N", "term": "Neck Mobility", "detail": "Decreased mobility (C-spine injury, ankylosing spondylitis, rheumatoid arthritis) impairs positioning." }
     ],
     "tags": ["airway", "intubation", "rsi", "difficult airway", "laryngoscopy"],
@@ -368,7 +368,7 @@
     "description": "A structured escalation communication tool used when calling a senior clinician or requesting assistance for a deteriorating patient.",
     "category": "communication",
     "letters": [
-      { "letter": "R", "term": "Reason", "detail": "State the reason for the call — your immediate concern." },
+      { "letter": "R", "term": "Reason", "detail": "State the reason for the call - your immediate concern." },
       { "letter": "S", "term": "Story", "detail": "Brief relevant history: why is the patient in hospital/what happened." },
       { "letter": "V", "term": "Vital Signs", "detail": "Current vital signs and trend." },
       { "letter": "P", "term": "Plan", "detail": "What you have done and what you need from them." }
@@ -383,9 +383,9 @@
     "description": "A systematic approach to troubleshooting acute deterioration in an intubated ventilated patient.",
     "category": "airway",
     "letters": [
-      { "letter": "D", "term": "Displaced", "detail": "ETT displaced — right main bronchus intubation or accidental extubation. Check tube position and depth." },
+      { "letter": "D", "term": "Displaced", "detail": "ETT displaced - right main bronchus intubation or accidental extubation. Check tube position and depth." },
       { "letter": "O", "term": "Obstructed", "detail": "ETT obstructed by secretions, blood, kinking, or biting. Suction and consider reinserting bite block." },
-      { "letter": "P", "term": "Pneumothorax", "detail": "Tension pneumothorax — needle decompression. Check for absent breath sounds, tracheal deviation." },
+      { "letter": "P", "term": "Pneumothorax", "detail": "Tension pneumothorax - needle decompression. Check for absent breath sounds, tracheal deviation." },
       { "letter": "E", "term": "Equipment Failure", "detail": "Check the ventilator circuit, O2 supply, connections, and bag-valve-mask as backup." }
     ],
     "tags": ["ventilation", "intubation", "ett", "troubleshooting", "deterioration"],
@@ -398,10 +398,10 @@
     "description": "A historic mnemonic for ACS management. Note: routine oxygen is no longer recommended unless SpO2 <94%, and morphine's role is now questioned. Aspirin and nitrates remain key.",
     "category": "cardiac",
     "letters": [
-      { "letter": "M", "term": "Morphine", "detail": "Titrated IV morphine for pain relief. Note: may be associated with worse outcomes in NSTEMI — use cautiously." },
+      { "letter": "M", "term": "Morphine", "detail": "Titrated IV morphine for pain relief. Note: may be associated with worse outcomes in NSTEMI - use cautiously." },
       { "letter": "O", "term": "Oxygen", "detail": "Only if SpO2 <94%. Routine oxygen in normoxic ACS patients is not recommended." },
       { "letter": "N", "term": "Nitrates", "detail": "GTN sublingual or IV for pain and preload reduction. Avoid if hypotensive or recent PDE5 inhibitor use." },
-      { "letter": "A", "term": "Aspirin", "detail": "300 mg loading dose (chewed). Antiplatelet agent — cornerstone of ACS management." }
+      { "letter": "A", "term": "Aspirin", "detail": "300 mg loading dose (chewed). Antiplatelet agent - cornerstone of ACS management." }
     ],
     "tags": ["acs", "chest pain", "stemi", "nstemi", "cardiac", "aspirin", "gtn"],
     "relatedCalculatorIDs": []
@@ -473,7 +473,7 @@
     "id": "abc_trauma",
     "acronym": "C-ABCDE",
     "fullForm": "Catastrophic haemorrhage, Airway, Breathing, Circulation, Disability, Exposure",
-    "description": "The trauma primary survey — an extension of ABCDE that prioritises catastrophic external haemorrhage control first (C-ABCDE). Used in PHTLS and TCCC.",
+    "description": "The trauma primary survey - an extension of ABCDE that prioritises catastrophic external haemorrhage control first (C-ABCDE). Used in PHTLS and TCCC.",
     "category": "trauma",
     "letters": [
       { "letter": "C", "term": "Catastrophic Haemorrhage", "detail": "Control life-threatening external bleeding with direct pressure, tourniquets, or wound packing before airway." },
@@ -509,7 +509,7 @@
     "description": "A tactical and trauma-focused primary survey sequence used in military and pre-hospital trauma care (TCCC/PHTLS). Prioritises haemorrhage control before airway management.",
     "category": "trauma",
     "letters": [
-      { "letter": "M", "term": "Massive Haemorrhage", "detail": "Control life-threatening external bleeding immediately — tourniquets, wound packing, haemostatic dressings." },
+      { "letter": "M", "term": "Massive Haemorrhage", "detail": "Control life-threatening external bleeding immediately - tourniquets, wound packing, haemostatic dressings." },
       { "letter": "A", "term": "Airway", "detail": "Open and protect the airway. Consider NPA, supraglottic airway, or surgical airway if needed." },
       { "letter": "R", "term": "Respiration", "detail": "Assess breathing. Treat tension pneumothorax (needle decompression), seal open chest wounds." },
       { "letter": "C", "term": "Circulation", "detail": "IV/IO access, fluid resuscitation, treat haemorrhagic shock. Consider permissive hypotension in penetrating trauma." },
@@ -525,9 +525,9 @@
     "description": "An extended version of DOPE for troubleshooting acute deterioration in an intubated or ventilated patient. The 'S' adds dynamic hyperinflation/auto-PEEP as a cause.",
     "category": "airway",
     "letters": [
-      { "letter": "D", "term": "Displacement", "detail": "ETT displaced — right mainstem intubation or accidental extubation. Check tube depth and end-tidal CO₂." },
+      { "letter": "D", "term": "Displacement", "detail": "ETT displaced - right mainstem intubation or accidental extubation. Check tube depth and end-tidal CO₂." },
       { "letter": "O", "term": "Obstruction", "detail": "ETT blocked by mucus plug, blood, kinking, or patient biting. Suction, consider bite block." },
-      { "letter": "P", "term": "Pneumothorax", "detail": "Tension pneumothorax — absent breath sounds, haemodynamic instability. Needle decompress immediately." },
+      { "letter": "P", "term": "Pneumothorax", "detail": "Tension pneumothorax - absent breath sounds, haemodynamic instability. Needle decompress immediately." },
       { "letter": "E", "term": "Equipment Failure", "detail": "Ventilator malfunction, circuit leak, exhausted O₂ supply. Switch to BVM immediately." },
       { "letter": "S", "term": "Stacked Breaths / Secretions", "detail": "Auto-PEEP from dynamic hyperinflation (particularly in asthma/COPD). Disconnect circuit briefly to allow full exhalation." }
     ],
@@ -565,8 +565,8 @@
       { "letter": "H", "term": "Hopelessness", "detail": "Feeling hopeless about the future. Believing that nothing will ever get better." },
       { "letter": "W", "term": "Withdrawal", "detail": "Withdrawing from family, friends, and society. Social isolation." },
       { "letter": "A", "term": "Anger", "detail": "Uncontrolled anger, seeking revenge, or talking about seeking revenge on others." },
-      { "letter": "R", "term": "Recklessness", "detail": "Acting recklessly or engaging in risky activities — seemingly without thinking." },
-      { "letter": "M", "term": "Mood Changes", "detail": "Dramatic mood changes — sudden calmness after a period of distress can indicate a decision has been made." }
+      { "letter": "R", "term": "Recklessness", "detail": "Acting recklessly or engaging in risky activities - seemingly without thinking." },
+      { "letter": "M", "term": "Mood Changes", "detail": "Dramatic mood changes - sudden calmness after a period of distress can indicate a decision has been made." }
     ],
     "tags": ["suicide", "self-harm", "mental health", "risk assessment", "psychiatric"],
     "relatedCalculatorIDs": []
@@ -575,7 +575,7 @@
     "id": "sludge",
     "acronym": "SLUDGE",
     "fullForm": "Salivation, Lacrimation, Urination, Defecation, Gastro-intestinal upset, Emesis",
-    "description": "The muscarinic signs of cholinergic toxidrome — seen in organophosphate/carbamate poisoning, nerve agents, and physostigmine overdose. Treatment: atropine (to dry secretions) and pralidoxime (to reactivate acetylcholinesterase).",
+    "description": "The muscarinic signs of cholinergic toxidrome - seen in organophosphate/carbamate poisoning, nerve agents, and physostigmine overdose. Treatment: atropine (to dry secretions) and pralidoxime (to reactivate acetylcholinesterase).",
     "category": "toxicology",
     "letters": [
       { "letter": "S", "term": "Salivation", "detail": "Excessive salivation and drooling due to hyperstimulation of salivary glands." },
@@ -595,8 +595,8 @@
     "description": "A structured format for clinical documentation used in patient care reports (PCRs), medical records, and clinical handover notes.",
     "category": "communication",
     "letters": [
-      { "letter": "S", "term": "Subjective", "detail": "What the patient tells you — chief complaint, symptoms, history (SAMPLE, OPQRST)." },
-      { "letter": "O", "term": "Objective", "detail": "Measurable findings — vital signs, physical examination findings, ECG, BGL, SpO₂, EtCO₂." },
+      { "letter": "S", "term": "Subjective", "detail": "What the patient tells you - chief complaint, symptoms, history (SAMPLE, OPQRST)." },
+      { "letter": "O", "term": "Objective", "detail": "Measurable findings - vital signs, physical examination findings, ECG, BGL, SpO₂, EtCO₂." },
       { "letter": "A", "term": "Assessment", "detail": "Your clinical impression or working diagnosis based on subjective and objective data." },
       { "letter": "P", "term": "Plan", "detail": "Interventions performed, medications given, transport decision, and ongoing care plan." }
     ],
@@ -621,7 +621,7 @@
   {
     "id": "imist_ambo",
     "acronym": "IMIST-AMBO",
-    "fullForm": "Identification, Mechanism/Medical complaint, Injuries/Information, Signs, Treatment — Allergies, Medications, Background, Other information",
+    "fullForm": "Identification, Mechanism/Medical complaint, Injuries/Information, Signs, Treatment - Allergies, Medications, Background, Other information",
     "description": "An expanded trauma/medical handover tool used in Australian pre-hospital care. Extends MIST with patient identification and a full AMBO suffix for allergies, medications, background, and other relevant information.",
     "category": "communication",
     "letters": [
@@ -631,9 +631,9 @@
       { "letter": "S", "term": "Signs", "detail": "Vital signs: HR, RR, BP, SpO₂, GCS, BGL, temp, pain score, EtCO₂." },
       { "letter": "T", "term": "Treatment", "detail": "All treatment provided including medications (dose, route, time), procedures, and response." },
       { "letter": "A", "term": "Allergies", "detail": "Known drug or other allergies, specifying the reaction." },
-      { "letter": "M", "term": "Medications", "detail": "Regular medications — particularly anticoagulants, antiplatelets, insulin, cardiac drugs." },
+      { "letter": "M", "term": "Medications", "detail": "Regular medications - particularly anticoagulants, antiplatelets, insulin, cardiac drugs." },
       { "letter": "B", "term": "Background", "detail": "Relevant past medical history and surgical history." },
-      { "letter": "O", "term": "Other Information", "detail": "Anything else relevant — family present, advance care directive, patient's wishes." }
+      { "letter": "O", "term": "Other Information", "detail": "Anything else relevant - family present, advance care directive, patient's wishes." }
     ],
     "tags": ["handover", "trauma", "communication", "mist", "australia", "ambulance"],
     "relatedCalculatorIDs": []
@@ -655,7 +655,7 @@
   {
     "id": "gcs_breakdown",
     "acronym": "GCS",
-    "fullForm": "Glasgow Coma Scale — Eye (4), Verbal (5), Motor (6)",
+    "fullForm": "Glasgow Coma Scale - Eye (4), Verbal (5), Motor (6)",
     "description": "A neurological scoring system used to objectively assess level of consciousness. Total score ranges from 3 (deep coma/death) to 15 (fully conscious). Minimum score in each component: E1 V1 M1.",
     "category": "neurological",
     "letters": [
@@ -687,8 +687,8 @@
     "description": "Two tiers of resuscitation capability. BLS involves CPR, airway positioning, and AED use. ALS adds advanced airway management, IV/IO access, medications, and rhythm-specific treatment.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "A", "term": "ALS — Advanced Life Support", "detail": "Includes advanced airway (ETT, supraglottic), IV/IO access, adrenaline, antiarrhythmics, and post-ROSC care." },
-      { "letter": "B", "term": "BLS — Basic Life Support", "detail": "CPR (30:2), AED use, airway opening manoeuvres, and rescue breathing. Performed without equipment." }
+      { "letter": "A", "term": "ALS - Advanced Life Support", "detail": "Includes advanced airway (ETT, supraglottic), IV/IO access, adrenaline, antiarrhythmics, and post-ROSC care." },
+      { "letter": "B", "term": "BLS - Basic Life Support", "detail": "CPR (30:2), AED use, airway opening manoeuvres, and rescue breathing. Performed without equipment." }
     ],
     "tags": ["resuscitation", "cardiac arrest", "cpr", "advanced life support", "basic life support"],
     "relatedCalculatorIDs": []
@@ -700,7 +700,7 @@
     "description": "A self-inflating resuscitation device used to provide positive-pressure ventilation. Used for apnoeic or hypoventilating patients. Correct mask seal and 2-person technique improves tidal volume delivery.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "B", "term": "Bag", "detail": "Self-inflating bag — compressed by hand to deliver a breath. Recoils automatically to allow passive exhalation." },
+      { "letter": "B", "term": "Bag", "detail": "Self-inflating bag - compressed by hand to deliver a breath. Recoils automatically to allow passive exhalation." },
       { "letter": "V", "term": "Valve", "detail": "One-way valve prevents exhaled gas from re-entering the bag." },
       { "letter": "M", "term": "Mask", "detail": "Transparent face mask in multiple sizes. Correct sizing and seal are critical for effective ventilation." }
     ],
@@ -714,7 +714,7 @@
     "description": "The spectrum of acute ischaemic cardiac conditions. ACS is the umbrella term; STEMI requires immediate reperfusion (PCI or thrombolysis); NSTEMI and unstable angina require urgent assessment and antiplatelet therapy.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "ACS", "term": "Acute Coronary Syndrome", "detail": "Umbrella term for STEMI, NSTEMI, and unstable angina — all caused by reduced coronary blood flow." },
+      { "letter": "ACS", "term": "Acute Coronary Syndrome", "detail": "Umbrella term for STEMI, NSTEMI, and unstable angina - all caused by reduced coronary blood flow." },
       { "letter": "AMI", "term": "Acute Myocardial Infarction", "detail": "Myocardial cell death due to prolonged ischaemia. Confirmed by troponin rise and clinical presentation." },
       { "letter": "STEMI", "term": "ST-Elevation MI", "detail": "Complete coronary occlusion. ECG shows ST elevation in two or more contiguous leads. Requires immediate reperfusion." },
       { "letter": "NSTEMI", "term": "Non-ST-Elevation MI", "detail": "Partial coronary occlusion. No ST elevation but positive troponin. Treat with antiplatelets and urgent cardiology review." }
@@ -726,11 +726,11 @@
     "id": "cva_tia",
     "acronym": "CVA / TIA",
     "fullForm": "Cerebrovascular Accident / Transient Ischaemic Attack",
-    "description": "CVA (stroke) is a neurological emergency caused by brain infarction or haemorrhage. TIA is a transient neurological deficit resolving within 24 hours (typically minutes) with no permanent infarct — but carries high short-term stroke risk.",
+    "description": "CVA (stroke) is a neurological emergency caused by brain infarction or haemorrhage. TIA is a transient neurological deficit resolving within 24 hours (typically minutes) with no permanent infarct - but carries high short-term stroke risk.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "CVA", "term": "Cerebrovascular Accident (Stroke)", "detail": "Sudden focal neurological deficit from ischaemic infarction (~85%) or intracerebral haemorrhage (~15%). Time-critical — 'time is brain'." },
-      { "letter": "TIA", "term": "Transient Ischaemic Attack", "detail": "Temporary neurological deficit resolving within 24 h (usually minutes). High 48-h stroke risk — treat as emergency." }
+      { "letter": "CVA", "term": "Cerebrovascular Accident (Stroke)", "detail": "Sudden focal neurological deficit from ischaemic infarction (~85%) or intracerebral haemorrhage (~15%). Time-critical - 'time is brain'." },
+      { "letter": "TIA", "term": "Transient Ischaemic Attack", "detail": "Temporary neurological deficit resolving within 24 h (usually minutes). High 48-h stroke risk - treat as emergency." }
     ],
     "tags": ["stroke", "tia", "neurological", "fast", "befast", "race", "brain"],
     "relatedCalculatorIDs": ["race-score"]
@@ -752,7 +752,7 @@
     "id": "spo2_etco2",
     "acronym": "SpO₂ / EtCO₂",
     "fullForm": "Peripheral Oxygen Saturation / End-Tidal Carbon Dioxide",
-    "description": "Two key non-invasive monitoring parameters. SpO₂ measures haemoglobin oxygen saturation via pulse oximetry. EtCO₂ measures CO₂ in exhaled gas via capnography — a proxy for ventilation, metabolism, and cardiac output.",
+    "description": "Two key non-invasive monitoring parameters. SpO₂ measures haemoglobin oxygen saturation via pulse oximetry. EtCO₂ measures CO₂ in exhaled gas via capnography - a proxy for ventilation, metabolism, and cardiac output.",
     "category": "abbreviation",
     "letters": [
       { "letter": "SpO₂", "term": "Peripheral Oxygen Saturation", "detail": "Normal: 94–98% (COPD target 88–92%). Measures oxygenation not ventilation. Unreliable with poor perfusion, CO poisoning, or methaemoglobinaemia." },
@@ -796,7 +796,7 @@
     "description": "The standard first-aid management for soft tissue injuries such as sprains, strains, and contusions. Aims to reduce pain, swelling, and haematoma formation in the first 24–72 hours. Note: some current guidelines favour POLICE or PEACE & LOVE over RICE for longer-term management.",
     "category": "trauma",
     "letters": [
-      { "letter": "R", "term": "Rest", "detail": "Protect the injured area from further stress. Relative rest — avoid aggravating activities, but immobilisation is usually unnecessary for minor injuries." },
+      { "letter": "R", "term": "Rest", "detail": "Protect the injured area from further stress. Relative rest - avoid aggravating activities, but immobilisation is usually unnecessary for minor injuries." },
       { "letter": "I", "term": "Ice", "detail": "Apply ice or a cold pack wrapped in a cloth for 20 minutes every 2 hours for the first 48–72 hours. Reduces pain and local swelling. Never apply ice directly to skin." },
       { "letter": "C", "term": "Compression", "detail": "Apply a firm bandage (e.g. crepe/elasticated) from distal to proximal to limit swelling. Check for neurovascular impairment distal to the bandage." },
       { "letter": "E", "term": "Elevation", "detail": "Elevate the injured limb above the level of the heart where possible to reduce oedema via gravity drainage." }
@@ -812,10 +812,10 @@
     "category": "communication",
     "letters": [
       { "letter": "I", "term": "Identify", "detail": "Identify yourself (name, role) and the patient (name, age, gender, DOB)." },
-      { "letter": "S", "term": "Situation", "detail": "State the current clinical problem clearly and concisely — why you are handing over this patient right now." },
+      { "letter": "S", "term": "Situation", "detail": "State the current clinical problem clearly and concisely - why you are handing over this patient right now." },
       { "letter": "O", "term": "Observations", "detail": "Current vital signs and key objective findings: HR, BP, RR, SpO₂, GCS, BGL, temp, pain score, EtCO₂." },
       { "letter": "B", "term": "Background", "detail": "Relevant medical history, regular medications, allergies, and events leading to the current presentation." },
-      { "letter": "A", "term": "Agreed Plan", "detail": "The management plan agreed between sender and receiver — investigations, treatments, disposition, and escalation triggers." },
+      { "letter": "A", "term": "Agreed Plan", "detail": "The management plan agreed between sender and receiver - investigations, treatments, disposition, and escalation triggers." },
       { "letter": "R", "term": "Read Back", "detail": "The receiving clinician reads back the key points to confirm mutual understanding and reduce handover errors." }
     ],
     "tags": ["handover", "communication", "clinical handover", "sbar", "isbar", "imist", "australia"],
@@ -828,18 +828,18 @@
     "description": "A sentence mnemonic for the 12 cranial nerves in order (CN I–XII). Each first letter corresponds to the nerve name. Useful for neurological assessment and documentation of cranial nerve deficits.",
     "category": "anatomy",
     "letters": [
-      { "letter": "I", "term": "Olfactory (On)", "detail": "Sensory — smell. Tested by asking the patient to identify a familiar scent with each nostril." },
-      { "letter": "II", "term": "Optic (Occasion)", "detail": "Sensory — vision. Tested by visual acuity, visual fields, and pupillary light reflex." },
-      { "letter": "III", "term": "Oculomotor (Our)", "detail": "Motor — most eye movements, eyelid elevation (levator palpebrae), and pupil constriction. CN III palsy causes ptosis, 'down and out' gaze, dilated pupil." },
-      { "letter": "IV", "term": "Trochlear (Trusty)", "detail": "Motor — superior oblique muscle (downward and inward gaze). CN IV palsy causes vertical diplopia worse on downgaze." },
-      { "letter": "V", "term": "Trigeminal (Truck)", "detail": "Mixed — facial sensation (V1 ophthalmic, V2 maxillary, V3 mandibular) and muscles of mastication." },
-      { "letter": "VI", "term": "Abducens (Acts)", "detail": "Motor — lateral rectus muscle (abduction of eye). CN VI palsy causes inability to abduct the eye, convergent squint." },
-      { "letter": "VII", "term": "Facial (Funny)", "detail": "Mixed — facial expression muscles, taste (anterior 2/3 tongue), and lacrimation/salivation. Bell's palsy = LMN CN VII lesion." },
-      { "letter": "VIII", "term": "Vestibulocochlear (Very)", "detail": "Sensory — hearing (cochlear) and balance (vestibular). Tested with Rinne and Weber tests. Damage causes deafness, tinnitus, vertigo." },
-      { "letter": "IX", "term": "Glossopharyngeal (Good)", "detail": "Mixed — taste (posterior 1/3 tongue), pharyngeal sensation, parotid gland. Part of the gag reflex." },
-      { "letter": "X", "term": "Vagus (Vehicle)", "detail": "Mixed — pharynx, larynx, and parasympathetic supply to thoracic and abdominal viscera. Damage causes hoarse voice, dysphagia, reduced gag." },
-      { "letter": "XI", "term": "Accessory (AnyHow)", "detail": "Motor — sternocleidomastoid (head rotation) and trapezius (shoulder shrug). Tested by resisted head turn and shoulder shrug." },
-      { "letter": "XII", "term": "Hypoglossal (How)", "detail": "Motor — tongue movements. LMN lesion causes tongue deviation toward the side of the lesion on protrusion." }
+      { "letter": "I", "term": "Olfactory (On)", "detail": "Sensory - smell. Tested by asking the patient to identify a familiar scent with each nostril." },
+      { "letter": "II", "term": "Optic (Occasion)", "detail": "Sensory - vision. Tested by visual acuity, visual fields, and pupillary light reflex." },
+      { "letter": "III", "term": "Oculomotor (Our)", "detail": "Motor - most eye movements, eyelid elevation (levator palpebrae), and pupil constriction. CN III palsy causes ptosis, 'down and out' gaze, dilated pupil." },
+      { "letter": "IV", "term": "Trochlear (Trusty)", "detail": "Motor - superior oblique muscle (downward and inward gaze). CN IV palsy causes vertical diplopia worse on downgaze." },
+      { "letter": "V", "term": "Trigeminal (Truck)", "detail": "Mixed - facial sensation (V1 ophthalmic, V2 maxillary, V3 mandibular) and muscles of mastication." },
+      { "letter": "VI", "term": "Abducens (Acts)", "detail": "Motor - lateral rectus muscle (abduction of eye). CN VI palsy causes inability to abduct the eye, convergent squint." },
+      { "letter": "VII", "term": "Facial (Funny)", "detail": "Mixed - facial expression muscles, taste (anterior 2/3 tongue), and lacrimation/salivation. Bell's palsy = LMN CN VII lesion." },
+      { "letter": "VIII", "term": "Vestibulocochlear (Very)", "detail": "Sensory - hearing (cochlear) and balance (vestibular). Tested with Rinne and Weber tests. Damage causes deafness, tinnitus, vertigo." },
+      { "letter": "IX", "term": "Glossopharyngeal (Good)", "detail": "Mixed - taste (posterior 1/3 tongue), pharyngeal sensation, parotid gland. Part of the gag reflex." },
+      { "letter": "X", "term": "Vagus (Vehicle)", "detail": "Mixed - pharynx, larynx, and parasympathetic supply to thoracic and abdominal viscera. Damage causes hoarse voice, dysphagia, reduced gag." },
+      { "letter": "XI", "term": "Accessory (AnyHow)", "detail": "Motor - sternocleidomastoid (head rotation) and trapezius (shoulder shrug). Tested by resisted head turn and shoulder shrug." },
+      { "letter": "XII", "term": "Hypoglossal (How)", "detail": "Motor - tongue movements. LMN lesion causes tongue deviation toward the side of the lesion on protrusion." }
     ],
     "tags": ["cranial nerves", "neurology", "neurological assessment", "cn", "anatomy", "nerve"],
     "relatedCalculatorIDs": []
@@ -847,7 +847,7 @@
   {
     "id": "heart_valves",
     "acronym": "All Physicians Take Money",
-    "fullForm": "Aortic, Pulmonary, Tricuspid, Mitral — heart valve positions",
+    "fullForm": "Aortic, Pulmonary, Tricuspid, Mitral - heart valve positions",
     "description": "A mnemonic for the four heart valves in order of their auscultation positions from right to left across the precordium. Valves are listed: Aortic (right 2nd ICS), Pulmonary (left 2nd ICS), Tricuspid (left lower sternal border), Mitral (apex / 5th ICS midclavicular line).",
     "category": "anatomy",
     "letters": [
@@ -862,14 +862,14 @@
   {
     "id": "femoral_triangle",
     "acronym": "NAVEL",
-    "fullForm": "Nerve, Artery, Vein, Empty space, Lymphatics — femoral triangle contents (lateral to medial)",
+    "fullForm": "Nerve, Artery, Vein, Empty space, Lymphatics - femoral triangle contents (lateral to medial)",
     "description": "The contents of the femoral triangle arranged from lateral to medial. The femoral triangle is bounded by the inguinal ligament (superiorly), sartorius (laterally), and adductor longus (medially). Relevant for femoral vein cannulation, arterial line insertion, and assessing femoral pulses.",
     "category": "anatomy",
     "letters": [
       { "letter": "N", "term": "Nerve (Femoral)", "detail": "Most lateral structure. The femoral nerve (L2–L4) supplies the anterior thigh muscles and skin. Lies outside the femoral sheath." },
-      { "letter": "A", "term": "Artery (Femoral)", "detail": "Femoral artery — continuation of the external iliac artery below the inguinal ligament. Used for arterial lines, IABP, and ECMO cannulation." },
-      { "letter": "V", "term": "Vein (Femoral)", "detail": "Femoral vein — lies medial to the artery. Target for femoral central venous access. Remember: NAVY — Nerve, Artery, Vein (then lymphatics)." },
-      { "letter": "E", "term": "Empty Space", "detail": "A potential space within the femoral sheath, medial to the vein — the femoral canal. Contains lymphatics and fat." },
+      { "letter": "A", "term": "Artery (Femoral)", "detail": "Femoral artery - continuation of the external iliac artery below the inguinal ligament. Used for arterial lines, IABP, and ECMO cannulation." },
+      { "letter": "V", "term": "Vein (Femoral)", "detail": "Femoral vein - lies medial to the artery. Target for femoral central venous access. Remember: NAVY - Nerve, Artery, Vein (then lymphatics)." },
+      { "letter": "E", "term": "Empty Space", "detail": "A potential space within the femoral sheath, medial to the vein - the femoral canal. Contains lymphatics and fat." },
       { "letter": "L", "term": "Lymphatics", "detail": "Lymph nodes and lymphatic vessels in the femoral canal. Cloquet's node (highest deep inguinal node) sits here." }
     ],
     "tags": ["anatomy", "femoral", "groin", "vascular access", "central line", "arterial line", "cannulation"],
@@ -878,14 +878,14 @@
   {
     "id": "epidermis_layers",
     "acronym": "Come, Let's Get Sunburned",
-    "fullForm": "Corneum, Lucidum, Granulosum, Spinosum, Basale — layers of the epidermis (superficial to deep)",
+    "fullForm": "Corneum, Lucidum, Granulosum, Spinosum, Basale - layers of the epidermis (superficial to deep)",
     "description": "The five layers of the epidermis from superficial to deep. The mnemonic helps recall order during burn assessment, wound classification, and skin anatomy discussions.",
     "category": "anatomy",
     "letters": [
-      { "letter": "C", "term": "Stratum Corneum (Come)", "detail": "Outermost layer. Dead, anucleate, keratinised cells (corneocytes). Primary barrier against water loss and pathogens. Thickness varies — thickest on palms and soles." },
+      { "letter": "C", "term": "Stratum Corneum (Come)", "detail": "Outermost layer. Dead, anucleate, keratinised cells (corneocytes). Primary barrier against water loss and pathogens. Thickness varies - thickest on palms and soles." },
       { "letter": "L", "term": "Stratum Lucidum (Let's)", "detail": "Clear, translucent layer present only in thick skin (palms, soles). Composed of flattened dead cells transitioning to stratum corneum." },
-      { "letter": "G", "term": "Stratum Granulosum (Get)", "detail": "Granular layer — cells contain keratohyalin granules and begin to lose their nuclei. Lamellar bodies release lipids here to form the skin barrier." },
-      { "letter": "S", "term": "Stratum Spinosum (Sunburned)", "detail": "Spiny/prickle cell layer — several cells thick, connected by desmosomes. Site of Langerhans cells (immune surveillance). UV damage and some skin cancers originate here." },
+      { "letter": "G", "term": "Stratum Granulosum (Get)", "detail": "Granular layer - cells contain keratohyalin granules and begin to lose their nuclei. Lamellar bodies release lipids here to form the skin barrier." },
+      { "letter": "S", "term": "Stratum Spinosum (Sunburned)", "detail": "Spiny/prickle cell layer - several cells thick, connected by desmosomes. Site of Langerhans cells (immune surveillance). UV damage and some skin cancers originate here." },
       { "letter": "B", "term": "Stratum Basale (Basale)", "detail": "Deepest layer, resting on the basement membrane. Contains basal keratinocytes (proliferative stem cells) and melanocytes. New cells are generated here and migrate upward." }
     ],
     "tags": ["anatomy", "skin", "epidermis", "burns", "dermis", "wound", "layers"],
@@ -929,7 +929,7 @@
     "category": "abbreviation",
     "letters": [
       { "letter": "BGL", "term": "Blood Glucose Level", "detail": "General term for blood glucose measurement. Normal fasting: 4.0–6.0 mmol/L. Hypoglycaemia: <4.0 mmol/L (symptomatic typically <3.5). Hyperglycaemia: >11.0 mmol/L." },
-      { "letter": "CBG", "term": "Capillary Blood Glucose", "detail": "Fingerprick sample — most common bedside method. Slightly lower than venous glucose. Unreliable in severe shock or peripheral oedema." }
+      { "letter": "CBG", "term": "Capillary Blood Glucose", "detail": "Fingerprick sample - most common bedside method. Slightly lower than venous glucose. Unreliable in severe shock or peripheral oedema." }
     ],
     "tags": ["glucose", "bsl", "hypoglycaemia", "hyperglycaemia", "diabetes", "dka", "bsl", "fingerprick"],
     "relatedCalculatorIDs": []
@@ -941,7 +941,7 @@
     "description": "The maximum flow rate achieved during a forced expiration from full inspiration. Measured with a peak flow meter in litres per minute. Used to assess and monitor airway obstruction severity in asthma.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "P", "term": "Peak", "detail": "The maximum flow achieved — reflects large airway patency." },
+      { "letter": "P", "term": "Peak", "detail": "The maximum flow achieved - reflects large airway patency." },
       { "letter": "E", "term": "Expiratory", "detail": "Measured during forced exhalation." },
       { "letter": "F", "term": "Flow", "detail": "Expressed in litres per minute (L/min)." },
       { "letter": "R", "term": "Rate", "detail": "Compare to patient's personal best or predicted value. <50% predicted = severe; <33% = life-threatening asthma." }
@@ -957,8 +957,8 @@
     "category": "assessment",
     "letters": [
       { "letter": "C", "term": "Circulation", "detail": "Assess capillary refill (<2 s), skin colour, temperature, and distal pulse presence and strength." },
-      { "letter": "S", "term": "Sensation", "detail": "Test sensation with light touch distally — altered sensation suggests nerve compression or injury." },
-      { "letter": "M", "term": "Movement", "detail": "Ask the patient to move fingers/toes — reduced or absent movement indicates motor nerve compromise." }
+      { "letter": "S", "term": "Sensation", "detail": "Test sensation with light touch distally - altered sensation suggests nerve compression or injury." },
+      { "letter": "M", "term": "Movement", "detail": "Ask the patient to move fingers/toes - reduced or absent movement indicates motor nerve compromise." }
     ],
     "tags": ["neurovascular", "fracture", "splint", "limb", "distal", "compartment syndrome", "ortho"],
     "relatedCalculatorIDs": []
@@ -989,7 +989,7 @@
       { "letter": "CHF", "term": "Congestive Heart Failure", "detail": "Heart failure with fluid overload: pulmonary oedema (left-sided), peripheral oedema, and raised JVP (right-sided)." },
       { "letter": "CCF", "term": "Congestive Cardiac Failure", "detail": "Equivalent term to CHF used in Australian and UK practice." },
       { "letter": "SOB", "term": "Shortness of Breath", "detail": "Dyspnoea at rest. Document onset, severity, and associated features (PASTE/OPQRST)." },
-      { "letter": "SOBOE", "term": "Shortness of Breath on Exertion", "detail": "Dyspnoea provoked by activity — graded by how much exertion is required (e.g. one flight of stairs, flat walking, at rest)." }
+      { "letter": "SOBOE", "term": "Shortness of Breath on Exertion", "detail": "Dyspnoea provoked by activity - graded by how much exertion is required (e.g. one flight of stairs, flat walking, at rest)." }
     ],
     "tags": ["heart failure", "dyspnoea", "pulmonary oedema", "fluid overload", "breathlessness"],
     "relatedCalculatorIDs": []
@@ -1016,7 +1016,7 @@
     "category": "abbreviation",
     "letters": [
       { "letter": "HTN", "term": "Hypertension", "detail": "Systolic BP ≥140 mmHg and/or diastolic ≥90 mmHg on repeated measurement. Hypertensive emergency: SBP >180 with end-organ damage." },
-      { "letter": "HPoT", "term": "Hypotension", "detail": "SBP <90 mmHg or MAP <65 mmHg (or >40 mmHg drop from baseline). Indicates inadequate perfusion — assess for shock." }
+      { "letter": "HPoT", "term": "Hypotension", "detail": "SBP <90 mmHg or MAP <65 mmHg (or >40 mmHg drop from baseline). Indicates inadequate perfusion - assess for shock." }
     ],
     "tags": ["blood pressure", "hypertension", "hypotension", "shock", "bp"],
     "relatedCalculatorIDs": []
@@ -1028,7 +1028,7 @@
     "description": "ALOC describes any change from the patient's baseline conscious state. LOC specifically refers to loss of consciousness. Use AEIOU-TIPS to systematically identify reversible causes.",
     "category": "neurological",
     "letters": [
-      { "letter": "ALOC", "term": "Altered Level of Consciousness", "detail": "Any deviation from baseline — confusion, agitation, drowsiness, unresponsiveness. Assess with AVPU or GCS." },
+      { "letter": "ALOC", "term": "Altered Level of Consciousness", "detail": "Any deviation from baseline - confusion, agitation, drowsiness, unresponsiveness. Assess with AVPU or GCS." },
       { "letter": "LOC", "term": "Level / Loss of Consciousness", "detail": "As a measure: see GCS/AVPU. As an event: document duration, witnesses, associated features (seizure, incontinence, postictal state)." }
     ],
     "tags": ["consciousness", "avpu", "gcs", "altered", "confusion", "syncope", "seizure"],
@@ -1041,7 +1041,7 @@
     "description": "The pressure within the skull. Normal ICP: 5–15 mmHg. Raised ICP causes the Cushing reflex (hypertension + bradycardia + irregular respirations) and risks cerebral herniation.",
     "category": "neurological",
     "letters": [
-      { "letter": "I", "term": "Intracranial", "detail": "Within the skull — affected by brain volume, CSF volume, and cerebral blood volume." },
+      { "letter": "I", "term": "Intracranial", "detail": "Within the skull - affected by brain volume, CSF volume, and cerebral blood volume." },
       { "letter": "C", "term": "Cerebral", "detail": "Cerebral Perfusion Pressure (CPP) = MAP − ICP. Target CPP >60 mmHg in TBI." },
       { "letter": "P", "term": "Pressure", "detail": "Raised ICP signs: Cushing triad (hypertension, bradycardia, irregular breathing), declining GCS, unequal pupils, papilloedema. Treat: head-up 30°, avoid hypoxia/hypercapnia, consider mannitol/hypertonic saline." }
     ],
@@ -1070,7 +1070,7 @@
     "category": "abbreviation",
     "letters": [
       { "letter": "COPD", "term": "Chronic Obstructive Pulmonary Disease", "detail": "Airflow obstruction from emphysema and/or chronic bronchitis. SpO₂ target 88–92%. Exacerbations: bronchodilators, steroids, controlled O₂." },
-      { "letter": "PE", "term": "Pulmonary Embolism", "detail": "Clot in pulmonary vasculature causing V/Q mismatch. Pleuritic chest pain, dyspnoea, tachycardia. Note: PE also = physical examination — clarify in context." },
+      { "letter": "PE", "term": "Pulmonary Embolism", "detail": "Clot in pulmonary vasculature causing V/Q mismatch. Pleuritic chest pain, dyspnoea, tachycardia. Note: PE also = physical examination - clarify in context." },
       { "letter": "Ptx / PTX", "term": "Pneumothorax", "detail": "Air in the pleural space. Simple: observation or aspiration. Tension: immediate needle decompression (2nd ICS MCL or 4th–5th ICS MAL) then chest drain." },
       { "letter": "PNA", "term": "Pneumonia", "detail": "Infection of lung parenchyma. CAP = community-acquired; HAP = hospital-acquired. Treat: antibiotics, O₂, fluids." },
       { "letter": "PND", "term": "Paroxysmal Nocturnal Dyspnoea", "detail": "Sudden breathlessness waking the patient from sleep, often due to acute pulmonary oedema (left heart failure). Patient sits upright for relief (orthopnoea)." }
@@ -1085,11 +1085,11 @@
     "description": "Common trauma and orthopaedic abbreviations used in documentation and handover.",
     "category": "trauma",
     "letters": [
-      { "letter": "MOI", "term": "Mechanism of Injury", "detail": "How the injury occurred — drives anticipation of injury patterns. High-energy MOI (e.g. ejection, rollover, MVC >60 km/h, fall >6 m) warrants trauma activation." },
+      { "letter": "MOI", "term": "Mechanism of Injury", "detail": "How the injury occurred - drives anticipation of injury patterns. High-energy MOI (e.g. ejection, rollover, MVC >60 km/h, fall >6 m) warrants trauma activation." },
       { "letter": "MVC / MVA", "term": "Motor Vehicle Collision / Accident", "detail": "MVC is preferred (collision is more accurate than accident). Document: speed, seatbelt use, airbag deployment, patient position, entrapment." },
       { "letter": "FOOSH", "term": "Fall on Outstretched Hand", "detail": "Common mechanism for wrist fractures (Colles'/Smith's), scaphoid fracture, and shoulder injuries (clavicle, proximal humerus). Check for anatomical snuffbox tenderness." },
       { "letter": "Fx", "term": "Fracture", "detail": "Document: location, type (open/closed, displaced/undisplaced), and neurovascular status distal to the fracture (CSM)." },
-      { "letter": "MSK", "term": "Musculoskeletal", "detail": "Relating to the muscles, bones, and connective tissue. MSK pain is a common chief complaint — exclude serious pathology before attributing." }
+      { "letter": "MSK", "term": "Musculoskeletal", "detail": "Relating to the muscles, bones, and connective tissue. MSK pain is a common chief complaint - exclude serious pathology before attributing." }
     ],
     "tags": ["trauma", "fracture", "mechanism", "injury", "mva", "wrist", "orthopaedic", "foosh"],
     "relatedCalculatorIDs": ["revised_trauma_score"]
@@ -1102,9 +1102,9 @@
     "category": "airway",
     "letters": [
       { "letter": "NPA", "term": "Nasopharyngeal Airway", "detail": "Soft rubber/silicone airway inserted through the nostril. Tolerated by semi-conscious patients. Sized by diameter (6–8 mm adult). Avoid if suspected base-of-skull fracture." },
-      { "letter": "OPA", "term": "Oropharyngeal Airway (Guedel)", "detail": "Rigid curved airway inserted into the mouth. Only tolerated in unconscious patients — will trigger gag reflex otherwise. Sized from centre of mouth to angle of jaw." },
-      { "letter": "ETT", "term": "Endotracheal Tube", "detail": "Definitive airway — cuffed tube through the glottis into trachea. Confirm position with waveform capnography. Typical adult: 7.0–8.0 mm ID." },
-      { "letter": "LMA", "term": "Laryngeal Mask Airway", "detail": "Supraglottic device — sits over the laryngeal inlet. Does not protect against aspiration. Useful in can't intubate/can't oxygenate scenarios." },
+      { "letter": "OPA", "term": "Oropharyngeal Airway (Guedel)", "detail": "Rigid curved airway inserted into the mouth. Only tolerated in unconscious patients - will trigger gag reflex otherwise. Sized from centre of mouth to angle of jaw." },
+      { "letter": "ETT", "term": "Endotracheal Tube", "detail": "Definitive airway - cuffed tube through the glottis into trachea. Confirm position with waveform capnography. Typical adult: 7.0–8.0 mm ID." },
+      { "letter": "LMA", "term": "Laryngeal Mask Airway", "detail": "Supraglottic device - sits over the laryngeal inlet. Does not protect against aspiration. Useful in can't intubate/can't oxygenate scenarios." },
       { "letter": "SGA", "term": "Supraglottic Airway", "detail": "Generic term for devices sitting above the glottis (LMA, i-gel, King LT, etc.). Second-generation SGAs offer some aspiration protection via gastric drain channel." }
     ],
     "tags": ["airway", "npa", "opa", "guedel", "lma", "intubation", "sga", "rsi", "difficult airway"],
@@ -1114,15 +1114,15 @@
     "id": "drug_routes",
     "acronym": "PO / IV / IM / SC / SL / PR / IN / IO",
     "fullForm": "By mouth / Intravenous / Intramuscular / Subcutaneous / Sublingual / Per rectum / Intranasal / Intraosseous",
-    "description": "Drug administration route abbreviations. Route affects onset speed, bioavailability, and clinical appropriateness — always document route when recording medications given.",
+    "description": "Drug administration route abbreviations. Route affects onset speed, bioavailability, and clinical appropriateness - always document route when recording medications given.",
     "category": "abbreviation",
     "letters": [
       { "letter": "PO", "term": "Per Os (By Mouth)", "detail": "Oral route. Onset: 20–45 min. Only use if patient is conscious, cooperative, and can swallow safely." },
       { "letter": "IV", "term": "Intravenous", "detail": "Direct venous access. Fastest onset. Preferred in emergencies. Requires cannula in peripheral or central vein." },
       { "letter": "IM", "term": "Intramuscular", "detail": "Injection into muscle (deltoid, vastus lateralis, gluteus). Good bioavailability when IV unavailable. Avoid in anticoagulated patients." },
       { "letter": "SC", "term": "Subcutaneous", "detail": "Injection into subcutaneous fat. Slower absorption than IM. Used for insulin, heparin, morphine infusions." },
-      { "letter": "SL", "term": "Sublingual", "detail": "Under the tongue — absorbed directly into systemic circulation. Rapid onset. Used for GTN, buprenorphine." },
-      { "letter": "PR", "term": "Per Rectum", "detail": "Rectal administration — useful when oral route unavailable (vomiting, altered consciousness). Used for diazepam, paracetamol." },
+      { "letter": "SL", "term": "Sublingual", "detail": "Under the tongue - absorbed directly into systemic circulation. Rapid onset. Used for GTN, buprenorphine." },
+      { "letter": "PR", "term": "Per Rectum", "detail": "Rectal administration - useful when oral route unavailable (vomiting, altered consciousness). Used for diazepam, paracetamol." },
       { "letter": "IN", "term": "Intranasal", "detail": "Via nasal mucosa using an atomiser device (MAD). Good bioavailability. Used for fentanyl, midazolam, naloxone, glucagon." },
       { "letter": "IO", "term": "Intraosseous", "detail": "Intraosseous access via EZ-IO or FAST drill. Any drug or fluid given IV can be given IO. Onset equivalent to IV. Use when IV access unavailable." }
     ],
@@ -1136,11 +1136,11 @@
     "description": "Prescription frequency abbreviations. Latin-derived terms widely used in clinical documentation and drug charts.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "PRN", "term": "Pro Re Nata — As Needed", "detail": "Given only when required, based on symptoms. Always specify maximum dose and minimum interval (e.g. morphine 2.5 mg IV PRN q4h)." },
-      { "letter": "BD / BID", "term": "Bis Die — Twice Daily", "detail": "Administered twice per day, usually morning and evening (~12-hourly)." },
-      { "letter": "TDS / TID", "term": "Ter Die Sumendum — Three Times Daily", "detail": "Administered three times per day (~8-hourly)." },
-      { "letter": "QID", "term": "Quarter In Die — Four Times Daily", "detail": "Administered four times per day (~6-hourly)." },
-      { "letter": "Stat", "term": "Statim — Immediately", "detail": "Single dose to be given immediately. Used for loading doses or urgent one-off medications." }
+      { "letter": "PRN", "term": "Pro Re Nata - As Needed", "detail": "Given only when required, based on symptoms. Always specify maximum dose and minimum interval (e.g. morphine 2.5 mg IV PRN q4h)." },
+      { "letter": "BD / BID", "term": "Bis Die - Twice Daily", "detail": "Administered twice per day, usually morning and evening (~12-hourly)." },
+      { "letter": "TDS / TID", "term": "Ter Die Sumendum - Three Times Daily", "detail": "Administered three times per day (~8-hourly)." },
+      { "letter": "QID", "term": "Quarter In Die - Four Times Daily", "detail": "Administered four times per day (~6-hourly)." },
+      { "letter": "Stat", "term": "Statim - Immediately", "detail": "Single dose to be given immediately. Used for loading doses or urgent one-off medications." }
     ],
     "tags": ["prescription", "frequency", "dosing", "medications", "drug chart", "prn", "stat"],
     "relatedCalculatorIDs": []
@@ -1185,7 +1185,7 @@
       { "letter": "RN", "term": "Registered Nurse", "detail": "University-qualified nurse registered with AHPRA. Authorised to administer medications per scope of practice." },
       { "letter": "EN", "term": "Enrolled Nurse", "detail": "Diploma-level nurse working under direction of an RN. Scope varies by state and facility." },
       { "letter": "GP", "term": "General Practitioner", "detail": "Primary care physician. May be a patient's usual doctor or first point of contact. PCP = primary care provider (equivalent US term)." },
-      { "letter": "MICA", "term": "Mobile Intensive Care Ambulance (Paramedic)", "detail": "Victorian advanced paramedic designation — can perform RSI, thrombolysis, and advanced interventions." },
+      { "letter": "MICA", "term": "Mobile Intensive Care Ambulance (Paramedic)", "detail": "Victorian advanced paramedic designation - can perform RSI, thrombolysis, and advanced interventions." },
       { "letter": "ICP", "term": "Intensive Care Paramedic", "detail": "Advanced paramedic scope across most Australian states (equivalent to MICA outside Victoria)." },
       { "letter": "HCP", "term": "Healthcare Professional", "detail": "General term for any registered or credentialled healthcare provider." }
     ],
@@ -1201,8 +1201,8 @@
     "letters": [
       { "letter": "ETA", "term": "Estimated Time of Arrival", "detail": "Expected time to reach the destination (scene, hospital, or rendezvous point)." },
       { "letter": "ETD", "term": "Estimated Time of Departure", "detail": "Expected departure time from scene or hospital." },
-      { "letter": "RTC", "term": "Road Traffic Collision", "detail": "Preferred term in UK/Australian practice (replaces RTA — road traffic accident). Implies no fault assignment." },
-      { "letter": "L&S", "term": "Lights and Sirens", "detail": "Code 1 (lights and sirens) response. Carries significant risk — should be clinically justified." }
+      { "letter": "RTC", "term": "Road Traffic Collision", "detail": "Preferred term in UK/Australian practice (replaces RTA - road traffic accident). Implies no fault assignment." },
+      { "letter": "L&S", "term": "Lights and Sirens", "detail": "Code 1 (lights and sirens) response. Carries significant risk - should be clinically justified." }
     ],
     "tags": ["operations", "dispatch", "response", "road", "collision", "scene"],
     "relatedCalculatorIDs": []
@@ -1214,7 +1214,7 @@
     "description": "ETOH is the chemical abbreviation for ethyl alcohol (ethanol). Used clinically when documenting alcohol intoxication, ingestion, or as a contributing factor in trauma or altered consciousness.",
     "category": "abbreviation",
     "letters": [
-      { "letter": "E", "term": "Ethyl", "detail": "Ethyl group (C₂H₅) — the two-carbon chain attached to the hydroxyl group." },
+      { "letter": "E", "term": "Ethyl", "detail": "Ethyl group (C₂H₅) - the two-carbon chain attached to the hydroxyl group." },
       { "letter": "T", "term": "T", "detail": "" },
       { "letter": "O", "term": "O", "detail": "" },
       { "letter": "H", "term": "Hydroxyl (OH)", "detail": "The OH group that classifies ethanol as an alcohol. Intoxication: slurred speech, ataxia, disinhibition, ALOC. Consider co-ingestion and hypoglycaemia." }
@@ -1232,9 +1232,136 @@
       { "letter": "ED", "term": "Emergency Department", "detail": "Primary receiving department for emergency patients. Also known as A&E (Accident & Emergency) or ER (Emergency Room)." },
       { "letter": "ICU", "term": "Intensive Care Unit", "detail": "Highest level of inpatient care. 1:1 or 1:2 nurse-to-patient ratio. Invasive monitoring, mechanical ventilation, vasoactive infusions." },
       { "letter": "HDU", "term": "High Dependency Unit", "detail": "Step-down from ICU. Close monitoring but typically non-ventilated. Patients who need more than ward care but less than ICU." },
-      { "letter": "CCU", "term": "Coronary Care Unit", "detail": "Specialised unit for cardiac patients — ACS, post-MI, arrhythmia management, and post-PCI care." }
+      { "letter": "CCU", "term": "Coronary Care Unit", "detail": "Specialised unit for cardiac patients - ACS, post-MI, arrhythmia management, and post-PCI care." }
     ],
     "tags": ["hospital", "destination", "icu", "emergency", "ward", "cath lab"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "hints-exam",
+    "acronym": "HINTS",
+    "fullForm": "Head Impulse, Nystagmus, Test of Skew",
+    "description": "Three-step bedside examination to differentiate central (stroke/cerebellar) from peripheral (vestibular neuritis/labyrinthitis) causes of acute vestibular syndrome. A single central feature rules in a central cause. Sensitivity 100%, specificity 96% for stroke when performed by trained examiners.",
+    "category": "neurological",
+    "letters": [
+      {
+        "letter": "H",
+        "term": "Head Impulse Test (HIT)",
+        "detail": "PERIPHERAL finding (reassuring): corrective saccade seen after rapid head thrust — indicates intact VOR with peripheral lesion. CENTRAL finding (concerning): normal HIT with no corrective saccade — in the context of AVS, this suggests central pathology. Paradox: a normal head impulse test is the dangerous result."
+      },
+      {
+        "letter": "IN",
+        "term": "Nystagmus",
+        "detail": "PERIPHERAL: unidirectional horizontal nystagmus that does not change direction with gaze. CENTRAL: direction-changing nystagmus (changes direction when gaze direction changes), or purely vertical/torsional nystagmus. Any direction-changing nystagmus = central until proven otherwise."
+      },
+      {
+        "letter": "TS",
+        "term": "Test of Skew",
+        "detail": "Cover-uncover test: alternately cover each eye and observe for vertical corrective movement (skew deviation). PERIPHERAL: no skew deviation. CENTRAL: vertical skew deviation present — suggests brainstem pathology. Any vertical realignment movement = central feature."
+      }
+    ],
+    "tags": [
+      "HINTS",
+      "vertigo",
+      "dizziness",
+      "stroke",
+      "vestibular",
+      "nystagmus",
+      "BPPV",
+      "cerebellar",
+      "AVS",
+      "acute vestibular syndrome"
+    ],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "dix-hallpike",
+    "acronym": "DIX-HALLPIKE",
+    "fullForm": "Positional Test for BPPV (Posterior Canal)",
+    "description": "Diagnostic positional manoeuvre for benign paroxysmal positional vertigo (BPPV) affecting the posterior semicircular canal. Positive test (upbeat-torsional nystagmus with latency) strongly suggests posterior canal BPPV. Only perform when contraindications are excluded. Do not perform if cervical spine instability, severe carotid stenosis, or neck injury is suspected.",
+    "category": "neurological",
+    "letters": [
+      {
+        "letter": "1",
+        "term": "Position patient seated upright",
+        "detail": "Seat patient upright on the examination surface, legs extended. Explain the procedure. Note: nystagmus goggles or Frenzel lenses improve accuracy if available."
+      },
+      {
+        "letter": "2",
+        "term": "Turn head 45° to the affected side",
+        "detail": "Ask the patient which side triggers symptoms. Rotate the head 45° toward that side. If unknown, test the right side first. Maintain the 45° rotation throughout the manoeuvre."
+      },
+      {
+        "letter": "3",
+        "term": "Lower rapidly to supine with head extended",
+        "detail": "With head still rotated 45°, quickly lower the patient to supine with the head extended approximately 20–30° below the horizontal (hanging off the end of the bed). Move swiftly — the speed of repositioning is important."
+      },
+      {
+        "letter": "4",
+        "term": "Observe for nystagmus and vertigo (30–60 sec)",
+        "detail": "POSITIVE: upbeat-torsional nystagmus (top pole of eye beats toward the affected/lower ear) appearing after a latency of 5–20 seconds, lasting <60 seconds, with reported vertigo. NEGATIVE: no nystagmus, or immediate onset without latency (consider central cause)."
+      },
+      {
+        "letter": "5",
+        "term": "Return to seated and repeat on other side",
+        "detail": "Slowly return patient to upright. Wait 30 seconds for any symptoms to resolve. Repeat on the opposite side if the first side was negative. A positive result on one side suggests BPPV of that posterior canal."
+      }
+    ],
+    "tags": [
+      "Dix-Hallpike",
+      "BPPV",
+      "vertigo",
+      "dizziness",
+      "nystagmus",
+      "vestibular",
+      "positional",
+      "posterior canal"
+    ],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "epley-manoeuvre",
+    "acronym": "EPLEY",
+    "fullForm": "Canalith Repositioning Manoeuvre for Posterior Canal BPPV",
+    "description": "Therapeutic repositioning manoeuvre for posterior semicircular canal BPPV. Moves displaced otoconia (canaliths) out of the posterior canal back into the utricle. Single treatment effective in 80% of cases. Perform only after positive Dix-Hallpike confirms posterior canal BPPV on the affected side.",
+    "category": "neurological",
+    "letters": [
+      {
+        "letter": "1",
+        "term": "Start: Dix-Hallpike position (affected side down)",
+        "detail": "Begin in the Dix-Hallpike position for the affected ear — supine with head rotated 45° toward the affected side and extended 20–30° below horizontal. Hold until nystagmus resolves, or 30 seconds."
+      },
+      {
+        "letter": "2",
+        "term": "Rotate head 90° to opposite side",
+        "detail": "Without lifting the head off the surface, rotate the head 90° to the opposite side (so the unaffected ear is now down and the nose points slightly upward). Hold this position for 30 seconds or until nystagmus resolves."
+      },
+      {
+        "letter": "3",
+        "term": "Roll body and head a further 90° (face down)",
+        "detail": "The patient rolls their body in the same direction so they end up lying on their side (then nearly face-down), with the head also rolling — now facing downward at approximately 45° toward the floor. The unaffected ear remains down. Hold 30 seconds."
+      },
+      {
+        "letter": "4",
+        "term": "Sit up slowly",
+        "detail": "Help the patient sit up from the face-down/lateral position, keeping the chin slightly tucked. Move slowly. Some vertigo during this step is expected and reassuring. Once seated, keep the head upright."
+      },
+      {
+        "letter": "5",
+        "term": "Post-manoeuvre instructions",
+        "detail": "Keep head upright for 10–20 minutes. Avoid lying on the affected side for 24–48 hours. Reassess with Dix-Hallpike after 10 minutes to confirm resolution. Repeat up to 3 times per session if still positive. Refer if no resolution after 3 attempts."
+      }
+    ],
+    "tags": [
+      "Epley",
+      "BPPV",
+      "canalith repositioning",
+      "vertigo",
+      "dizziness",
+      "vestibular",
+      "posterior canal",
+      "nystagmus"
+    ],
     "relatedCalculatorIDs": []
   }
 ]

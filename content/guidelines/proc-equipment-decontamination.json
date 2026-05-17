@@ -1,0 +1,50 @@
+{
+  "id": "proc-equipment-decontamination",
+  "title": "Equipment Decontamination",
+  "category": "procedures",
+  "tags": ["decontamination", "cleaning", "disinfection", "sterilisation", "equipment", "reprocessing"],
+  "synonyms": ["Equipment Cleaning", "Disinfection", "Reprocessing"],
+  "sections": [
+    {
+      "id": "proc-equipment-decontamination-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure outlines the requirements for decontamination of clinical equipment used in mine site health clinics. Inadequate equipment reprocessing is a recognised route of healthcare-associated infection transmission. In remote settings where specialist support and supply chains may be limited, maintaining rigorous decontamination standards is critical.\n\nThis procedure applies to all reusable clinical equipment used in patient care. It uses the Spaulding Classification system to determine the appropriate level of reprocessing based on the intended use of the equipment. All clinical staff are responsible for decontaminating equipment they use. Single-use items are outside the scope of reprocessing — they must be discarded after a single use.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-equipment-decontamination-spaulding",
+      "type": "management_basic",
+      "title": "Spaulding Classification",
+      "content": "The Spaulding Classification system categorises medical equipment by the risk of infection associated with its use and specifies the minimum level of reprocessing required:\n\nCritical items — enter sterile tissue or the vascular system:\n- Required level: Sterilisation (destruction of all microorganisms including bacterial spores)\n- Examples: surgical instruments, needles, cannulae, intraosseous needles, urinary catheters\n- In practice: single-use critical items should be discarded; reusable critical items must be sent to a facility with validated sterilisation capability\n\nSemi-critical items — contact intact mucous membranes or non-intact skin:\n- Required level: High-level disinfection (destroys all microorganisms except high numbers of bacterial spores)\n- Examples: laryngoscope blades, endotracheal tubes, nasopharyngeal airways, vaginal specula, suction catheters\n- In practice: preferably single-use; if reusable, clean thoroughly then use TGA-approved high-level disinfectant per product instructions\n\nNon-critical items — contact intact skin only:\n- Required level: Low-level or intermediate-level disinfection\n- Examples: stethoscopes, blood pressure cuffs, pulse oximeters, thermometer probes, ECG electrodes (reusable), examination tables, furniture surfaces\n- In practice: wipe with TGA-registered low-level disinfectant wipe or solution between each patient",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-equipment-decontamination-procedure",
+      "type": "management_basic",
+      "title": "Three-Step Decontamination Process",
+      "content": "For all reusable items, follow the three-step process:\n\nStep 1 — Pre-clean:\n- Remove gross soil (blood, tissue, secretions) immediately after use\n- Wear PPE: gloves, eye protection, apron as appropriate\n- Wipe away gross contamination with disposable paper towel or cloth\n- Do not allow organic matter to dry and harden on the equipment — dried blood significantly reduces disinfection efficacy\n\nStep 2 — Clean:\n- Wash the item with warm water and neutral detergent\n- Use a brush for crevices, joints, or lumens\n- Rinse thoroughly with clean water to remove all detergent residue\n- Dry thoroughly — moisture promotes microbial growth and reduces disinfectant efficacy\n\nStep 3 — Disinfect or Sterilise:\n- Apply the appropriate level of disinfectant as per Spaulding Classification\n- For non-critical items: use TGA-registered disinfectant wipes or solution per product instructions; ensure adequate contact time\n- For semi-critical items: use a validated high-level disinfectant (e.g., glutaraldehyde, ortho-phthalaldehyde, accelerated hydrogen peroxide) per product instructions, which includes specific concentration, contact time, temperature, and rinsing requirements\n- For critical items in mine site clinics: use single-use items wherever possible; sterilisation of reusable critical items requires an autoclave with validated cycles — this is not typically available at remote mine clinics\n- Store clean equipment in a clean, dry area, covered or in sealed packaging where appropriate",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-equipment-decontamination-singleuse",
+      "type": "considerations",
+      "title": "Single-Use Items",
+      "content": "Single-use (SU) items are designed, tested, and validated for a single patient use only. They must never be reprocessed or reused under any circumstances.\n\n- Single-use designation is indicated by the SU symbol on packaging (a 2 inside a circle, or the text 'single use only')\n- Reprocessing a single-use item voids any TGA approval for that device and removes all manufacturer safety guarantees\n- In Australian law, reprocessing single-use devices may constitute use of an unregistered medical device\n- If a single-use item has not been used (e.g., packaging opened in error) it must still be discarded — it cannot be repackaged and reused\n- Shortage of supplies does not justify reprocessing single-use items — notify the medical director and arrange emergency resupply\n- Examples of single-use items commonly encountered in mine site clinics: hypodermic needles, syringes, IV cannulae, nasopharyngeal airways (most brands), ET tubes, suction catheters, wound dressings, urinary catheters, specimen containers",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-equipment-decontamination-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Maintain the following decontamination records:\n\n- Equipment decontamination log for semi-critical items: date, item, operator, disinfectant used (product, lot number, concentration, contact time), outcome\n- High-level disinfectant solution preparation and testing records where in-use dilution is required (e.g., test strip results for glutaraldehyde concentration)\n- Equipment faults or damage discovered during decontamination: quarantine the item, label it 'OUT OF SERVICE', document in the equipment fault register, and notify the medical director\n- Staff training and competency in decontamination procedures should be recorded in the training register\n- Review decontamination procedures and products annually or when new equipment is introduced",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-standard-precautions", "proc-blood-spill", "proc-clinical-waste"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

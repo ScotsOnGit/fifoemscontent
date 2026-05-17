@@ -1,0 +1,71 @@
+{
+  "id": "proc-welfare-check",
+  "title": "Welfare Check Procedure",
+  "category": "procedures",
+  "tags": ["welfare", "wellbeing", "welfare check", "mental health", "lone worker", "wellbeing check"],
+  "synonyms": ["Wellbeing Check", "Welfare Visit", "Safety Check"],
+  "sections": [
+    {
+      "id": "proc-welfare-check-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the process for conducting welfare checks on FIFO workers at a mine site. Welfare checks are clinical and interpersonal encounters intended to assess the psychological and physical wellbeing of a worker, identify emerging risk, and connect the worker with appropriate support.\n\nFIFO workers are at elevated risk of mental health difficulties compared to the general population due to work rosters, social isolation, workplace stress, family separation, and the physical demands of mine site work. In a sole-practitioner setting, the site medic or nurse often has the most trusted and consistent relationship with the workforce — welfare checks are a core clinical function, not an administrative task.\n\nThis procedure applies to all welfare checks initiated by the clinician, requested by others, or triggered by a system or individual concern.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-welfare-check-triggers",
+      "type": "management_basic",
+      "title": "Trigger Criteria",
+      "content": "A welfare check should be initiated in any of the following situations:\n\n- Scheduled check as part of an agreed support plan for an identified at-risk individual\n- Request from a supervisor, peer, or colleague with a specific documented concern\n- Non-response to check-in contact at an agreed time (lone worker or welfare monitoring protocol)\n- Observed or reported change in behaviour — withdrawal, agitation, uncharacteristic behaviour, declining work performance\n- Self-referral by the worker expressing distress or a desire to speak with someone\n- Post-critical incident — following any significant traumatic incident on site (serious injury, fatality, violent incident)\n- Reported or suspected domestic and family violence situation\n- Receipt of information about a significant personal stressor (bereavement, relationship breakdown, financial crisis)",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-welfare-check-approach",
+      "type": "management_basic",
+      "title": "Approach",
+      "content": "How you approach a welfare check significantly affects whether the worker engages:\n\n1. Choose location carefully — wherever possible, approach the worker in a private location where the conversation cannot be overheard. The medical clinic is appropriate. A public area like the crib room or worksite is not. If the welfare check is a workplace visit, ask the supervisor to give you private access to the worker without framing it as a medical emergency.\n2. Your manner — approach in a calm, non-clinical, and non-threatening manner. If the worker sees you as a person rather than only as a clinician, they are more likely to open up. Avoid arriving with a clipboard or immediately documenting — establish connection first.\n3. Introduction — introduce yourself and briefly explain the purpose without being alarming. For example: \"I've been doing some rounds to check in with everyone after the incident last week — do you have a few minutes to chat?\"\n4. Open questions — use open-ended questions. \"How are you going?\" not \"Are you okay?\" Yes/no questions close down conversation. Give the worker time to respond — do not fill silences immediately.\n5. Active listening — demonstrate you are listening: maintain eye contact, nod, reflect back what you hear. Do not interrupt or rush to problem-solve.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-welfare-check-assessment",
+      "type": "management_basic",
+      "title": "Assessment",
+      "content": "While maintaining a conversational manner, conduct a clinical assessment. You are assessing:\n\nMental State:\n- Mood: low, elevated, irritable, reactive, flat\n- Affect: congruent with mood, blunted, labile\n- Thought content: hopelessness, worthlessness, excessive guilt, paranoia, unusual beliefs\n- Perceptions: hallucinations (auditory, visual) — ask gently if context warrants\n- Cognition: orientation, concentration, memory (can be assessed informally in conversation)\n- Insight: does the worker recognise they are struggling?\n\nRisk Assessment — ask directly. Evidence is clear that asking about suicidal ideation does not plant the idea:\n- \"Have you had any thoughts of hurting yourself or not wanting to be here?\"\n- If yes: \"Can you tell me more about those thoughts?\"\n- Assess: frequency of thoughts, passive (wish to be dead) versus active (intent to act), presence of a plan, access to means, timeframe\n- Assess protective factors: family, relationships, reasons for living, religious or cultural beliefs, responsibilities\n\nSubstance Use:\n- Alcohol or drug use pattern — has it changed recently?\n- Self-medicating behaviour\n\nPhysical:\n- Sleep — difficulty getting to sleep, early waking, sleeping excessively\n- Appetite and weight change\n- Energy levels\n- Physical symptoms (headache, gastrointestinal upset) that may have a psychological component",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-welfare-check-escalation",
+      "type": "management_basic",
+      "title": "Escalation Triggers",
+      "content": "The following situations require immediate escalation:\n\n1. Active suicidal ideation with a plan or intent — this is a psychiatric emergency:\n- Do not leave the person alone\n- Contact the on-call psychiatrist or mental health crisis service immediately (Lifeline 13 11 14, or WA Mental Health Emergency Response Line 1300 555 788)\n- Notify the site HSE manager and medical director\n- Consider whether the worker can remain safely on site or requires emergency evacuation\n- Remove access to means if possible and safe to do so (medication, firearms if applicable)\n\n2. Passive suicidal ideation (wish to be dead, no plan or intent):\n- Develop a safety plan collaboratively (see below)\n- Increase monitoring frequency\n- Arrange urgent referral to mental health clinician\n- Notify medical director\n- Do not return to full duties without review\n\n3. Acute mental state deterioration — psychosis, mania, severe agitation:\n- This is a medical emergency — assess safety\n- Initiate emergency response if the worker is a risk to themselves or others\n- Contact retrieval services if acute psychiatric admission is required\n\n4. Disclosure of domestic and family violence — refer to the DFV procedure",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-welfare-check-safety-plan",
+      "type": "management_basic",
+      "title": "Safety Planning",
+      "content": "For workers with identified psychological risk (passive ideation, significant distress, identified at-risk status), develop a safety plan collaboratively. The safety plan should include:\n\n1. Warning signs — what does the worker notice in themselves that tells them they are struggling (e.g., withdrawing, not sleeping, drinking more)\n2. Internal coping strategies — what can the worker do themselves in a moment of distress (e.g., going for a walk, calling a friend, breathing techniques)\n3. Social contacts — who on site can the worker reach out to? (name a specific person, not \"anyone\")\n4. Professional contacts — clinician name and phone number, Employee Assistance Program (EAP) contact, mental health crisis line\n5. Emergency contacts — triple zero, mental health emergency line\n6. Agreement — the worker agrees to contact one of the above before acting on any thoughts of self-harm\n\nGive the worker a written copy. Document in the clinical record that the safety plan was developed and that the worker received a copy.",
+      "sortOrder": 5
+    },
+    {
+      "id": "proc-welfare-check-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Document all welfare checks in the worker's confidential medical record. The record must include:\n\n- Date and time\n- Trigger for the welfare check\n- Setting and who was present\n- Summary of presenting concerns (worker's words where possible)\n- Mental state assessment findings\n- Risk assessment findings — risk level assigned (low, moderate, high) with clinical reasoning\n- Protective factors identified\n- Actions taken: referral made, safety plan developed, escalation initiated\n- Follow-up plan: frequency, by whom, review criteria\n- Clinician name, AHPRA registration, and signature\n\nConfidentiality: welfare check records are health records and are subject to the same confidentiality protections as other clinical records. Do not include identifiable welfare check findings in routine workplace reports, safety statistics, or supervisor briefings without the worker's explicit written consent. The exception is if there is an immediate risk to life — the duty to protect overrides confidentiality in that circumstance, and this must be documented.",
+      "sortOrder": 6
+    },
+    {
+      "id": "proc-welfare-check-references",
+      "type": "references",
+      "title": "Regulatory Basis",
+      "content": "- Work Health and Safety Act 2020 (WA) — psychosocial hazard management duties\n- Mental Health Act 2014 (WA) — involuntary assessment and treatment criteria\n- Privacy Act 1988 (Cth) and Australian Privacy Principles\n- Beyond Blue — Mental Health in the Resources Sector resources\n- Mines Safety and Inspection Act 1994 (WA) — employer duty of care for worker safety\n- AHPRA Code of Conduct — professional obligations regarding duty of care and confidentiality",
+      "sortOrder": 7
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["high-risk-mental-health-presentations", "low-risk-mental-health-presentations", "domestic-and-family-violence", "psychosocial-hazards-work-health-safety"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "proc-incident-reporting",
+  "title": "Clinical Incident Reporting",
+  "category": "procedures",
+  "tags": ["incident", "reporting", "WorkSafe", "notifiable", "near miss", "adverse event"],
+  "synonyms": ["Adverse Event", "Near Miss", "WorkSafe Notification", "Incident Report"],
+  "sections": [
+    {
+      "id": "proc-incident-reporting-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "Clinical incident reporting is a professional and legal obligation. Incidents include any unplanned event that results in, or has the potential to result in, harm to a patient, clinician, or third party. This includes adverse drug events, equipment failures, documentation errors, near misses, and sentinel events.\n\nReporting serves two purposes: it fulfils statutory obligations (notifiable incidents under the Work Health and Safety Act 2020 (WA) and, where applicable, AHPRA obligations), and it drives learning that prevents recurrence. At a remote mine site, the site clinician is often the only person who can identify and report clinical incidents — this is a core governance function of the role.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-incident-reporting-types",
+      "type": "management_basic",
+      "title": "Incident Types",
+      "content": "Clinical incidents include but are not limited to:\n\nPatient safety incidents:\n- Medication error: wrong drug, wrong dose, wrong patient, wrong route, wrong time\n- Equipment failure during patient care\n- Delayed recognition or treatment of a deteriorating patient\n- Adverse outcome from a clinical procedure\n- Unexpected patient deterioration, transfer, or death\n- Patient fall or injury during clinical care\n\nClinician safety incidents:\n- Needlestick or sharps injury\n- Exposure to blood or body fluids\n- Assault by a patient\n- Exposure to a hazardous substance during clinical work\n\nAdministrative incidents:\n- Drug register discrepancy\n- Breach of patient confidentiality\n- Documentation error with patient safety implications\n- Loss or theft of controlled drugs or equipment\n\nNear misses:\n- Any event that could have caused harm but did not due to chance, early detection, or intervention\n- Near misses must be reported — they are the most important source of system improvement",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-incident-reporting-immediate",
+      "type": "management_basic",
+      "title": "Immediate Reporting Steps",
+      "content": "On identifying an incident:\n\n1. Ensure the patient (or affected person) is safe. Patient safety takes priority over documentation.\n2. Notify the medical director as soon as the situation is clinically stable. Do not delay patient care to make notifications, but do not delay notifications after care is underway.\n3. Notify the site HSE manager — the employer has independent reporting obligations and must be informed.\n4. Complete the site's internal incident report form: most FIFO mine sites use a specific incident management system (e.g., Cintellate, Intelex, or equivalent). Complete this as soon as possible after the event — ideally within 2 hours, and no later than the end of shift.\n5. For notifiable incidents under the WHS Act (see below): the duty holder must notify WorkSafe WA immediately by phone. The clinician must ensure this happens — the site manager is responsible for making the call.\n6. Preserve any relevant evidence: faulty equipment (label and quarantine), drug packaging and vials involved in a medication error, documentation as it was at the time of the event.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-incident-reporting-notifiable",
+      "type": "management_basic",
+      "title": "Notifiable Incidents (WorkSafe WA)",
+      "content": "Under the Work Health and Safety Act 2020 (WA), the following are notifiable incidents requiring immediate phone notification to WorkSafe WA (1300 307 877), followed by written notification within 48 hours:\n\n- Death of a person at the workplace\n- A serious injury or illness: an injury or illness requiring the person to be admitted to hospital for immediate treatment, or requiring immediate treatment as an in-patient\n- A dangerous incident: an unplanned or uncontrolled event that exposes a worker or other person to a serious risk, even if no injury resulted\n\nExamples of dangerous incidents at a mine site:\n- Structural collapse of any part of the workplace\n- Uncontrolled release of a hazardous substance, chemical, or gas\n- Explosion or fire\n- Vehicle rollover or collision involving a mine site vehicle\n\nThe duty holder (employer/site operator) makes the WorkSafe notification, not the clinician directly. However, the clinician must prompt this notification and document that it was made (or attempted).\n\nScene preservation:\n- A notifiable incident scene must be preserved and must not be disturbed except to preserve the life or health of a person, to prevent further injury, to remove a deceased person, or under direction from WorkSafe or police.",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-incident-reporting-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Every incident must generate two separate records:\n\n1. Patient clinical record: document the incident, its discovery, immediate clinical response, patient status, and follow-up in the patient's clinical file.\n\n2. Incident report: complete the site incident management system report and the clinical incident report. Include:\n- Date, time, and location\n- Description of the event: what happened, in sequence\n- Persons involved (staff, patient, bystanders)\n- Immediate actions taken\n- Notifications made and times\n- Preliminary contributing factors identified (not causes — that is for investigation)\n- Clinician name, registration number, signature, and date\n\nRetain personal copies of all incident documentation — do not rely solely on the employer's system.\n\nPost-incident review:\n- Participate in any root cause analysis or incident investigation\n- Implement identified corrective actions within the timeframes specified\n- Document completion of corrective actions",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-emergency-activation", "proc-death-on-site", "proc-drug-discrepancy"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

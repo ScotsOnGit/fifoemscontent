@@ -1,0 +1,50 @@
+{
+  "id": "proc-clinic-opening-closing",
+  "title": "Clinic Opening and Closing",
+  "category": "procedures",
+  "tags": ["clinic", "opening", "closing", "procedure", "daily", "facility", "security"],
+  "synonyms": ["Clinic Setup", "Daily Opening", "End of Day"],
+  "sections": [
+    {
+      "id": "proc-clinic-opening-closing-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure defines the mandatory tasks to be completed when opening and closing the mine site health clinic at the start and end of each operational shift. Consistent opening and closing procedures ensure the clinic is ready to manage patient presentations safely, that medications and equipment are secure and accounted for, and that continuity is maintained across shift changes.\n\nThis procedure applies to all clinical staff taking over a shift at the mine site clinic. The opening clinician is responsible for completing all opening tasks before accepting patients. The closing clinician is responsible for completing all closing tasks before departing the site. Neither opening nor closing is complete until all checklist items are signed off.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-clinic-opening-closing-opening",
+      "type": "management_basic",
+      "title": "Opening Procedure",
+      "content": "Complete the following in order at the start of each shift:\n\n1. Unlock the clinic facility using the authorised key or access control — confirm the alarm is deactivated using the correct code\n2. Conduct a visual inspection of the clinic interior — check for signs of unauthorised entry, damage, or tampering with the drug safe or equipment\n3. Check and record the minimum and maximum temperature reading from the medical refrigerator — reset the thermometer. Any out-of-range reading triggers the cold chain excursion protocol\n4. Perform the drug safe S8 controlled drug count — count every item in the S8 register against physical stock, with reference to the last count recorded by the outgoing shift. If conducting a handover, perform the count together with the outgoing clinician before they depart\n5. Reconcile the drug register — confirm all entries since the last verified count are complete, legible, and match current stock\n6. Complete the opening checklist, including:\n   - AED: power on self-test confirmed, pads in date and present\n   - Oxygen cylinder(s): pressure adequate for anticipated use, regulator and mask present\n   - Resuscitation equipment: BVM, suction, airway adjuncts accessible and intact\n   - Monitoring equipment: defib/monitor powered and functional, ECG leads and pads present\n   - Spill kit: fully stocked\n   - First aid and trauma supplies: no obvious shortfalls or expiries\n7. Confirm the emergency contact chain for the current shift is active and that RFDS/retrieval contacts are accessible\n8. Log start of shift in the shift log: date, time, name, registration number",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-clinic-opening-closing-closing",
+      "type": "management_basic",
+      "title": "Closing Procedure",
+      "content": "Complete the following in order at the end of each shift:\n\n1. Ensure all active patient episodes are complete and documented — no patient may be left without a plan or appropriate disposition before the clinic is closed\n2. Complete the S8 controlled drug count — reconcile against the drug register with the incoming clinician or, if no handover is occurring, with a witness (another competent staff member on site)\n3. Secure the drug safe — confirm it is locked and immovable\n4. Record and reset the medical refrigerator temperature log\n5. Complete the closing checklist:\n   - Resuscitation and emergency equipment stored and ready\n   - Oxygen valves closed (not in use)\n   - All clinical areas clean and ready for next shift\n   - Clinical waste disposed of or secured\n   - Sharps containers sealed if full\n   - All patient records secured\n6. Ensure the overnight emergency contact chain is activated — confirm who the site emergency contact is, that the RFDS or retrieval contact number is displayed or accessible, and that the incoming or on-call clinician's contact details are known to site management\n7. Log end of shift in the shift log: date, time, name, outstanding issues for incoming shift\n8. Activate the alarm system and lock the facility using the authorised procedure",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-clinic-opening-closing-security",
+      "type": "considerations",
+      "title": "Facility Security",
+      "content": "Clinic security is a dual obligation — protecting controlled drugs and maintaining patient privacy:\n\n- Clinic keys are issued only to authorised clinical staff — never leave keys unattended, lend them to non-clinical staff, or duplicate them without authorisation\n- Alarm codes must not be shared with non-clinical site staff — if a code is shared or compromised, notify site management immediately and arrange a code change\n- The drug safe is a lockable steel cabinet bolted to a structural element of the building — it must not be left open when not in active use\n- Access to the clinic is restricted to clinical staff and their patients — contractors, site management, and HSE personnel require clinical staff escort while on clinic premises\n- If signs of break-in or tampering are detected on arrival, do not enter the clinic — call site security and the medical director immediately\n- After-hours access by non-clinical staff should require documented approval from the medical director and be recorded\n- Patient records and the drug register are confidential documents — secure in locked storage at all times when not in active use",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-clinic-opening-closing-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "The following records must be completed for every shift:\n\n- Opening checklist: dated, timed, signed by opening clinician\n- Closing checklist: dated, timed, signed by closing clinician\n- Shift log entry: start and end of shift recorded with clinician name, registration number, and any operational issues or handover notes\n- Drug count records: recorded in the S8 drug register at every opening and closing count\n- Temperature log: recorded at opening and closing of each shift\n- Any deviation from the standard opening or closing procedure (e.g., equipment fault found, drug discrepancy detected, temperature excursion) must be documented in the shift log and the relevant incident or corrective action system",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-drug-storage", "proc-cold-chain", "proc-drug-discrepancy", "proc-shift-handover"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

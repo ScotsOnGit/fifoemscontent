@@ -1,0 +1,71 @@
+{
+  "id": "proc-fitness-for-work",
+  "title": "Fitness for Work Assessment",
+  "category": "procedures",
+  "tags": ["fitness for work", "FFW", "pre-placement", "return to work", "assessment", "occupational health"],
+  "synonyms": ["FFW", "Medical Fitness", "Pre-employment Medical", "Return to Work Medical"],
+  "sections": [
+    {
+      "id": "proc-fitness-for-work-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the process for conducting fitness for work (FFW) assessments on a FIFO mine site. FFW assessments determine whether a worker can safely perform the inherent requirements of their role without risk to themselves or others.\n\nFFW assessments must be conducted by a registered medical practitioner or nurse practitioner with occupational health training. Registered nurses may conduct elements of the assessment (observations, screening tests, history taking) but the final FFW decision requires a clinician operating within their authorised scope — confirm with your standing orders and the site medical director what decisions you are authorised to make independently versus what requires medical director review.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-fitness-for-work-types",
+      "type": "management_basic",
+      "title": "Types of Assessment",
+      "content": "There are four main types of FFW assessment conducted in a FIFO mine site context:\n\n1. Pre-placement — conducted before a worker commences in a role. Determines baseline health status and capacity to safely perform role demands. Includes new employees and workers transferring to a physically demanding or safety-critical role.\n2. Periodic health surveillance — scheduled assessments at defined intervals (typically annually or biannually depending on the role and regulatory requirements). Monitors for occupational health effects and ongoing fitness.\n3. Return-to-work — conducted after a period of illness, injury, or absence. Determines whether the worker is ready to return to full duties, modified duties, or requires further recovery time.\n4. For-cause — conducted when there is a specific, documented concern about a worker's fitness. May be triggered by observed behaviour, safety incident, a medical report, or supervisor referral. For-cause assessments require clear documentation of the trigger and must be conducted sensitively.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-fitness-for-work-components",
+      "type": "management_basic",
+      "title": "Assessment Components",
+      "content": "The assessment components will vary depending on the type of assessment and the role demands. The following represents a standard FIFO mine site FFW assessment:\n\n1. Medical history — current and past medical conditions, surgical history, psychiatric history, medications (prescription and over-the-counter), known allergies, recent hospitalisations, previous injuries relevant to role demands.\n2. Current medications — review all medications for potential impairment of safety-critical tasks (sedation, visual disturbance, reaction time, cardiac effects). Note controlled substances.\n3. Physical examination — targeted examination relevant to role demands. For heavy physical roles: cardiovascular assessment, musculoskeletal assessment of spine and load-bearing joints, neurological screen. For all roles: blood pressure, BMI, general appearance and affect.\n4. Functional assessment — if indicated by history or examination, a Physical Capacity and Functional Capacity Evaluation (PCFCE) may be requested through an occupational therapist or physiotherapist.\n5. Drug and alcohol screen — urine drug screen and breathalyser per site policy, per the Drug and Alcohol Testing procedure.\n6. Role-specific health surveillance tests — as required by regulation or site policy:\n- Hearing: audiometry for workers exposed to noise levels above 85 dB(A) LAeq8h\n- Spirometry: for workers exposed to dusts, gases, or respiratory sensitisers\n- Vision: for crane operators, vehicle operators, and safety-critical roles\n- ECG: for workers in safety-critical roles or with relevant cardiac history\n- Blood tests: as indicated by exposure or clinical history",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-fitness-for-work-decision",
+      "type": "management_basic",
+      "title": "Decision Framework",
+      "content": "The FFW decision must be clearly documented using one of the following categories:\n\n1. Fit — no restrictions. Worker can perform all inherent requirements of the role without limitation.\n2. Fit with restrictions — worker can perform the role with specified modifications. Restrictions must be stated clearly and specifically (e.g., \"no working at heights above 2 metres\", \"no sustained heavy lifting over 15 kg\", \"no driving heavy plant\"). Avoid vague restrictions — they cannot be enforced.\n3. Temporarily unfit — worker cannot currently perform the role safely. A specific condition causing the temporary unfitness must be stated (to the extent permitted by confidentiality requirements), and a realistic review date must be provided.\n4. Unfit for role — the worker cannot safely perform the inherent requirements of the role and this is unlikely to change in the foreseeable future. This is a significant decision and should be discussed with the medical director before communicating to the worker. Refer to the worker's treating specialist for further assessment where appropriate.\n\nDo not make a Fit decision if you have unresolved concerns. It is always better to request further information or a specialist review before certifying fitness.",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-fitness-for-work-confidentiality",
+      "type": "considerations",
+      "title": "Confidentiality",
+      "content": "- The diagnosis or medical detail behind a FFW decision is confidential health information and must not be disclosed to the employer without the worker's explicit informed consent\n- The employer is entitled to know the functional outcome — the restrictions and limitations — not the underlying diagnosis\n- For example: the employer may be told \"worker has a medical condition that prevents driving heavy plant for the next 4 weeks\" but not \"worker has uncontrolled epilepsy\"\n- The worker must be informed of their right to confidentiality before the assessment begins\n- The completed FFW certificate goes to the employer. The full clinical assessment record is retained in the worker's medical file and is not provided to the employer unless the worker consents in writing.\n- If a worker's condition presents an immediate risk to others (e.g., untreated psychosis operating heavy plant), this may override confidentiality obligations — consult the medical director and document your reasoning carefully",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-fitness-for-work-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Two records are created for every FFW assessment:\n\n1. FFW Certificate (to employer/HR) — must include:\n- Clinician name, AHPRA registration number, and contact details\n- Date of assessment\n- Worker name and date of birth\n- Assessment type (pre-placement, periodic, RTW, for-cause)\n- FFW decision (Fit / Fit with restrictions / Temporarily unfit / Unfit for role)\n- Specific restrictions if applicable\n- Review date if temporarily unfit\n- Clinician signature\n- Does NOT include diagnosis, examination findings, or test results\n\n2. Clinical Assessment Record (to medical file) — full record including:\n- Complete history and examination findings\n- Test results with reference ranges\n- Clinical reasoning for the FFW decision\n- Any referrals made\n- Worker's response to the outcome\n\nRetain both documents per the site medical records retention policy (minimum 7 years for adult records).",
+      "sortOrder": 5
+    },
+    {
+      "id": "proc-fitness-for-work-dispute",
+      "type": "considerations",
+      "title": "Dispute Process",
+      "content": "- Workers have the right to dispute a FFW decision\n- If a clinician decision is disputed by the worker or employer, refer to an independent medical examiner (IME) for a second opinion\n- The site clinician should not be the only arbiter in a disputed case — protect yourself and the worker by involving the medical director early\n- Document all disputes and the clinician's response in detail\n- Do not alter a documented FFW decision under employer pressure — this is a serious professional and legal risk. If pressured, document it and notify the medical director immediately.",
+      "sortOrder": 6
+    },
+    {
+      "id": "proc-fitness-for-work-references",
+      "type": "references",
+      "title": "Regulatory Basis",
+      "content": "- Mines Safety and Inspection Act 1994 (WA) — health surveillance requirements\n- Work Health and Safety Act 2020 (WA) — duty to manage health risks\n- Privacy Act 1988 (Cth) and Australian Privacy Principles — health information handling\n- National Health and Medical Research Council (NHMRC) — Ethical guidelines for research involving humans\n- Austroads — Assessing Fitness to Drive (relevant for workers operating vehicles)\n- Safe Work Australia — Work Health and Safety Regulations 2017 (Cth)\n- AHPRA — Code of Conduct for Nurses and Code of Conduct for Doctors",
+      "sortOrder": 7
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-drug-alcohol-testing", "proc-return-to-work", "proc-welfare-check", "functional-capacity-fit-for-work-assessment", "fitness-for-work-certification-principles"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "proc-sharps-safety",
+  "title": "Sharps Safety and Disposal",
+  "category": "procedures",
+  "tags": ["sharps", "needlestick", "disposal", "sharps container", "injury", "needle"],
+  "synonyms": ["Needle Safety", "Sharps Disposal", "Needlestick Prevention"],
+  "sections": [
+    {
+      "id": "proc-sharps-safety-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure establishes safe practices for the handling, use, and disposal of sharps — including hypodermic needles, syringes, lancets, scalpels, cannulae, and any other device capable of causing a puncture wound or laceration. Needlestick and sharps injuries are among the most common occupational exposures to blood-borne viruses in clinical practice.\n\nThis procedure applies to all clinical staff at FIFO mine site clinics. In remote settings, access to post-exposure prophylaxis and specialist assessment may be delayed — preventing sharps injuries is especially critical. Every clinician working alone or with limited support must be competent in safe sharps handling without reliance on a second person.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-sharps-safety-handling",
+      "type": "management_basic",
+      "title": "Safe Handling",
+      "content": "Apply the following principles during every sharps-related procedure:\n\n- Never resheath a used needle using two hands. If resheathing is required (e.g., for intramuscular injection from a multi-use vial), use the one-handed scoop technique: place the cap on a flat surface, scoop it up using only the needle and syringe, then secure with one hand\n- Use safety-engineered devices with integrated sharps protection mechanisms (retractable needles, auto-capping syringes) whenever they are available and appropriate\n- Never pass sharps hand-to-hand. If a sharps item must be transferred, place it on a neutral zone (tray or sterile field) and allow the recipient to pick it up\n- Keep sharps visible at all times during use — do not place them on a bed, chair, or under draping\n- Announce verbally when handling or passing a sharp in a team environment\n- Never bend, break, or manually disassemble used needles\n- Dispose of sharps immediately at the point of use — do not carry used sharps across the clinic\n- Never overfill a sharps container above the 3/4 full line (indicated by the fill line marking on the container)",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-sharps-safety-disposal",
+      "type": "management_basic",
+      "title": "Disposal",
+      "content": "All used sharps must be disposed of in an approved rigid, puncture-resistant sharps container that meets AS/NZS 4031 or AS 4031 (whichever applies) and is yellow with a biohazard label.\n\n- Position the sharps container at the point of use before beginning any procedure requiring a sharp — never carry a used sharp to a distant container\n- Seal the container when it reaches the 3/4 full line — do not attempt to compress or force further items in\n- Label the sealed container with the site name and date of sealing\n- Store sealed containers in the designated clinical waste area pending collection\n- Arrange disposal through an approved clinical waste contractor — sharps cannot be placed in general waste or taken to a municipal tip\n- Maintain a log of container sealing dates and disposal contractor collections\n- Never crush, cut, or otherwise manipulate full sharps containers\n- Never open a sealed sharps container",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-sharps-safety-injury",
+      "type": "management_basic",
+      "title": "Needlestick and Sharps Injury Response",
+      "content": "Act immediately if a needlestick or sharps injury occurs:\n\n1. Do not panic and do not suck the wound\n2. Encourage bleeding by gentle pressure around the wound — do not squeeze forcefully\n3. Wash the wound thoroughly with soap and running water for at least 2 minutes\n4. If the eye or mucous membrane is involved, irrigate immediately and copiously with water or normal saline for at least 5 minutes\n5. Apply a waterproof dressing\n6. Immediately notify your supervisor or site HSE manager — do not delay this step\n7. Complete an incident report as soon as the immediate steps are complete\n8. Initiate the blood-borne virus post-exposure protocol — contact the on-call medical director or nominated physician without delay\n9. If the source patient is known and consenting, obtain consent for blood-borne virus testing (HIV, Hepatitis B, Hepatitis C). Do not compel testing — it is voluntary\n10. Arrange urgent baseline blood-borne virus serology for the injured clinician (HIV, HBV, HCV) — ideally within 2 hours of exposure\n11. Post-exposure prophylaxis (PEP) for HIV should ideally be commenced within 2–4 hours of a high-risk exposure and no later than 72 hours — contact the medical director to arrange\n12. Arrange follow-up serology at 6 weeks, 3 months, and 6 months post-exposure as directed by the medical director",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-sharps-safety-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Document all of the following:\n\n- Every sharps injury in the site incident report system, including date, time, device involved, procedure being performed, source patient details (with consent), and immediate actions taken\n- All post-exposure steps taken: wound care, notification times, medical director contact, PEP initiation if applicable, serology arrangements\n- Source patient testing results (with consent) and injured clinician baseline and follow-up serology results — retain in the clinician's confidential occupational health record\n- Container disposal records: date sealed, contractor collection date, manifest reference number\n- Any near-misses involving sharps should also be documented via the incident reporting system to enable hazard identification and prevention",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-standard-precautions", "proc-ppe-donning-doffing", "proc-clinical-waste", "proc-blood-spill"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

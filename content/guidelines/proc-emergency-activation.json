@@ -1,0 +1,85 @@
+{
+  "id": "proc-emergency-activation",
+  "title": "Medical Emergency Activation",
+  "category": "procedures",
+  "tags": ["emergency", "activation", "code blue", "emergency response", "MCI", "escalation"],
+  "synonyms": ["Emergency Response", "Code Blue", "Medical Emergency", "Emergency Call"],
+  "sections": [
+    {
+      "id": "proc-emergency-activation-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the activation, management, and communication requirements for a medical emergency on a FIFO mine site. Medical emergencies are situations where immediate clinical intervention is required to prevent death or serious harm.\n\nOn a remote mine site, the sole clinician is simultaneously the first responder, the medical commander, the treating clinician, and the communications officer. You cannot do all of these things simultaneously. The key skill in emergency activation is knowing how to delegate, what to do first, and who to call and when. This procedure gives you that framework.\n\nEarly activation is always correct. A retrieval service that is stood down costs nothing and delays nothing. A retrieval service that is called too late cannot help.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-emergency-activation-criteria",
+      "type": "management_basic",
+      "title": "Activation Criteria",
+      "content": "Activate the full emergency response for any of the following:\n\n- Cardiac or respiratory arrest\n- Major trauma (mechanism with potential for serious internal injury, significant blood loss, suspected spinal injury, penetrating injury to the chest or abdomen, amputation)\n- Airway compromise (foreign body obstruction, anaphylaxis with stridor, severe burns to the airway, angioedema)\n- Anaphylaxis (any case requiring adrenaline)\n- Altered level of consciousness with haemodynamic instability or deteriorating GCS\n- Acute coronary syndrome with instability (hypotension, diaphoresis, severe pain unresponsive to nitrates)\n- Acute stroke (any patient meeting FAST+ criteria)\n- Severe respiratory distress (SpO2 < 90% despite oxygen, increasing work of breathing)\n- Obstetric emergency (cord prolapse, eclampsia, major PPH, imminent delivery with complications)\n- Mass casualty event (more than one serious casualty)\n- Any situation where your clinical judgement tells you the patient may not survive without resources beyond what you have\n\nWhen in doubt, activate. You can always stand down. You cannot undo a delayed activation.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-emergency-activation-immediate",
+      "type": "management_basic",
+      "title": "Immediate Actions",
+      "content": "On identifying a medical emergency, act in this order:\n\n1. Call for help — shout loudly or radio site emergency channel immediately. \"Medical emergency at [location], I need assistance now.\" Do not move to the patient until you have called for help or simultaneously called while moving.\n2. Send someone to call emergency services — delegate this to the first person who arrives. Give them the site emergency number and the address. Do not make this call yourself if it will delay patient treatment. Confirm the call was made.\n3. Activate the site emergency plan — site emergency number, supervisor notification, and HSE manager notification per site emergency response plan.\n4. Begin immediate treatment — do not delay treatment to complete paperwork, gather information, or wait for retrieval. The first 60 seconds of treatment for cardiac arrest, anaphylaxis, and airway obstruction can be the most important.\n5. Assign a timekeeper — as soon as a second person is available, assign them to record the time of all events and interventions. This cannot be done while you are treating the patient.\n6. Send someone to meet and guide response vehicles and retrieval services to the scene.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-emergency-activation-scene",
+      "type": "management_basic",
+      "title": "Scene Management",
+      "content": "You are the medical commander. As resources arrive on scene, establish command and delegate:\n\n1. Declare yourself as medical commander — verbally and clearly. \"I am in command of the medical response. I need everyone to do exactly what I ask.\"\n2. Assign one person per task — do not give the same task to multiple people and do not give one person multiple critical tasks. Assign tasks with a name and a clear instruction: \"[Name], your job is chest compressions — start now and do not stop until I tell you.\"\n3. Scene safety — confirm the scene is safe for responders before deploying additional personnel. In a trauma scenario, confirm hazards have been controlled (vehicle isolated, equipment shut down, area safe).\n4. Crowd control — assign a non-clinical person to keep bystanders and non-essential personnel at least 20 metres from the scene.\n5. Clear access path — ensure the path for the ambulance is clear and direct to the patient.\n6. Reassess your resource needs continuously — what do you have, what do you need, what is the next 15 minutes going to require?",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-emergency-activation-communications",
+      "type": "management_basic",
+      "title": "Communications",
+      "content": "Effective communications in an emergency are structured and brief. Use the METHANE format for your first report to retrieval coordination and site emergency management:\n\n- M — Major incident? (Yes or no — is this more than one casualty?)\n- E — Exact location (GPS coordinates, mine site name, specific area on site)\n- T — Type of incident (trauma, medical, hazmat, multi-casualty)\n- H — Hazards present (ongoing fire, unstable vehicle, electrical, chemical, confined space)\n- A — Access (best route to scene, any access restrictions)\n- N — Number of casualties (exact number by priority if possible)\n- E — Emergency services required (ambulance, retrieval aircraft, fire, police, specialist team)\n\nInitial report is brief. Detailed clinical handover comes later when you have more information and the patient is more stable. Do not delay calling retrieval to compile a complete clinical picture.",
+      "sortOrder": 4
+    },
+    {
+      "id": "proc-emergency-activation-retrieval",
+      "type": "management_basic",
+      "title": "Retrieval Activation",
+      "content": "Contact the retrieval service as early as possible — before you are certain retrieval is needed:\n\n- Royal Flying Doctor Service WA: 1800 625 800 (24-hour coordination)\n- RAC Retrieval WA: via Perth Hospital (SCGH trauma) or state coordination\n- Emergency helicopter: triple zero (000) — police coordinate helicopter dispatch in WA\n- For mine site emergencies in WA: confirm your site's specific retrieval pathway with the medical director before a real event occurs\n\nWhen you call retrieval coordination:\n1. Identify yourself, your qualifications, and your location\n2. Brief clinical summary: mechanism or presenting complaint, vital signs, interventions already performed\n3. What you need: aircraft, ground ambulance, specific specialist team\n4. Estimated patient stability (time-critical versus stable for now)\n\nKeep the line open or arrange a call-back at an agreed time. The retrieval coordinator may give you clinical advice and instructions — follow them.\n\nBetter to activate and stand down than to call too late.",
+      "sortOrder": 5
+    },
+    {
+      "id": "proc-emergency-activation-hospital",
+      "type": "management_basic",
+      "title": "Hospital Notification",
+      "content": "For time-critical patients being transported to hospital, notify the receiving hospital as early as possible:\n\n- STEMI: the cath lab activation must begin before the patient arrives. Every minute of call-to-balloon time matters. Call as soon as STEMI is identified.\n- CVA: stroke team and CT scanner preparation. Last known well time is critical information — have it ready.\n- Major trauma: trauma team activation and operating theatre preparation.\n- Sepsis: ICU alert and antibiotic preparation.\n\nUse ISBAR for hospital notification (see the Hospital Handover procedure for detail). Provide estimated arrival time and update the hospital if it changes significantly.",
+      "sortOrder": 6
+    },
+    {
+      "id": "proc-emergency-activation-debrief",
+      "type": "considerations",
+      "title": "Post-Emergency Debrief",
+      "content": "A debrief must occur after every significant emergency, ideally within 24 hours:\n\n- Clinical debrief — review the clinical decisions, what went well, what could be improved, any protocol deviations and why. This is not blame, it is learning.\n- Psychological debrief — for all crew and bystanders significantly involved. Acknowledge the emotional impact. Normalise distress responses. Connect people with the EAP.\n- For fatalities or particularly distressing events, a formal psychological debrief led by a mental health professional should be arranged through the EAP.\n- The attending clinician should be given the opportunity to debrief with the medical director, particularly for paediatric cases, traumatic fatalities, or cases where the outcome was unexpected.",
+      "sortOrder": 7
+    },
+    {
+      "id": "proc-emergency-activation-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Documentation during a resuscitation or major emergency is the responsibility of a delegated person — not the treating clinician. Assign a scribe early.\n\nPost-event documentation must include:\n- Time of initial call for help\n- Time of patient contact\n- Mechanism and presenting complaint\n- Timed vital signs throughout the event\n- All interventions with time performed and clinician name\n- All medications with dose, route, and time\n- Response to each intervention\n- Time of retrieval activation and service name\n- Time of retrieval arrival and handover\n- Clinical condition at time of handover\n- Names of all persons who assisted\n\nSubmit an incident report via the site safety system for all significant medical emergencies. For fatalities and serious injuries, this is mandatory under the Work Health and Safety Act 2020 (WA).",
+      "sortOrder": 8
+    },
+    {
+      "id": "proc-emergency-activation-references",
+      "type": "references",
+      "title": "Regulatory Basis",
+      "content": "- Work Health and Safety Act 2020 (WA) — mandatory notification of serious incidents\n- Mines Safety and Inspection Act 1994 (WA) — emergency management requirements for mine sites\n- Mining Regulation 2016 (WA) — emergency response capability requirements\n- Site Emergency Response Plan — site-specific activation procedures and contact numbers\n- Australian Resuscitation Council — Resuscitation Guidelines",
+      "sortOrder": 9
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-mci", "proc-hospital-handover", "proc-hlz-setup", "adult-resuscitation", "traumatic-resuscitation-algorithm", "proc-incident-reporting"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

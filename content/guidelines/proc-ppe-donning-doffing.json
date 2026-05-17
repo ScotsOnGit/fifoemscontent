@@ -1,0 +1,50 @@
+{
+  "id": "proc-ppe-donning-doffing",
+  "title": "PPE Donning and Doffing",
+  "category": "procedures",
+  "tags": ["PPE", "donning", "doffing", "gloves", "gown", "mask", "infection control"],
+  "synonyms": ["PPE Sequence", "Putting on PPE", "Removing PPE", "Doffing PPE"],
+  "sections": [
+    {
+      "id": "proc-ppe-donning-doffing-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "This procedure describes the correct sequence for donning (putting on) and doffing (removing) personal protective equipment (PPE) to minimise the risk of self-contamination. Incorrect doffing is a leading cause of exposure to infectious agents — the removal sequence is as important as the application sequence.\n\nThis procedure applies to all clinical staff at FIFO mine site clinics when PPE is required. It covers full PPE ensembles (gown, mask or respirator, eye protection, and gloves) as used for blood/body fluid precautions and aerosol-generating procedures. For routine gloves-only situations, apply standard hand hygiene principles at removal.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-ppe-donning-doffing-donning",
+      "type": "management_basic",
+      "title": "Donning Sequence",
+      "content": "Perform donning in a clean area before entering the patient care zone. Follow this sequence:\n\n1. Perform hand hygiene (ABHR or soap and water for at least 20 seconds)\n2. Put on gown — secure at the neck and waist, ensure full coverage of front and arms\n3. Put on mask or P2/N95 respirator — position over nose and mouth, mould to face, perform a fit check by breathing in sharply (P2/N95 should slightly collapse) and breathing out (check for air leakage around edges)\n4. Put on eye protection (goggles or face shield) — position comfortably over eyes, check for gaps at the sides\n5. Put on gloves — pull cuffs over the gown sleeves so there is no gap at the wrists\n\nInspect PPE for defects before donning. Do not use damaged PPE. Ensure a colleague observes donning in high-risk situations if possible.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-ppe-donning-doffing-doffing",
+      "type": "management_basic",
+      "title": "Doffing Sequence",
+      "content": "Doffing must be performed slowly and deliberately. The most contaminated surfaces are the glove exterior and the front of the gown. The least contaminated are the inner gown surfaces and mask ties at the back. Remove PPE in the designated doffing area (anteroom or clean zone near exit). Perform hand hygiene between each step.\n\n1. Remove gloves — using a glove-to-glove then skin-to-skin technique: pinch the outside of one glove near the wrist, peel it off and hold it in the gloved hand, then slide fingers under the remaining glove at the wrist and peel it off over the first glove, rolling inside out. Dispose immediately in waste bin.\n2. Perform hand hygiene\n3. Remove eye protection — grasp the outer edge of the frame or the ties/strap at the back of the head — do not touch the front of eye protection. Place in waste or designated reprocessing container.\n4. Perform hand hygiene\n5. Remove gown — unfasten ties first, then grasp the gown at the shoulders and peel away from the body, rolling it outward so contaminated surfaces fold inward. Dispose immediately.\n6. Perform hand hygiene\n7. Remove mask or respirator last — do not touch the front of the mask. For a surgical mask, untie bottom ties first then top ties, and allow it to fall away. For a P2/N95, remove by the ear loops or head straps.\n8. Perform hand hygiene\n\nNever touch your face, eyes, nose, or mouth during or after doffing until hand hygiene is complete.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-ppe-donning-doffing-keypoints",
+      "type": "considerations",
+      "title": "Key Points",
+      "content": "- The front of the gown and the exterior of gloves are considered the highest-contamination surfaces — treat them accordingly throughout doffing\n- Never touch your face at any point during the doffing process\n- Hand hygiene must occur between every step of doffing — skipping a step dramatically increases self-contamination risk\n- P2/N95 respirators require annual fit testing — a respirator that has not been fit-tested should not be used for aerosol-generating procedures\n- In remote settings where a buddy observer is unavailable, use a mirror in the doffing area and move slowly\n- Reusable eye protection (goggles, face shields) must be decontaminated after each use per the equipment decontamination procedure\n- Dispose of single-use PPE directly into waste at the point of removal — do not carry used PPE through the clinical area\n- If PPE is damaged or breached during patient care, remove it safely, perform hand hygiene, apply fresh PPE, and report the exposure via incident report",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-ppe-donning-doffing-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Routine donning and doffing does not require documentation. Document the following:\n\n- PPE breaches that resulted in potential exposure to blood, body fluids, or infectious material — complete an incident report and initiate the blood-borne virus or respiratory exposure protocol as appropriate\n- PPE supply shortages that required deviation from standard practice — notify site HSE manager and medical director\n- Staff competency in donning and doffing should be assessed during orientation and annually thereafter, with completion recorded in the training register",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-standard-precautions", "proc-sharps-safety", "proc-blood-spill"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}

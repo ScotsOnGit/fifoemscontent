@@ -1,0 +1,50 @@
+{
+  "id": "proc-standard-precautions",
+  "title": "Standard Precautions",
+  "category": "procedures",
+  "tags": ["infection control", "PPE", "hand hygiene", "standard precautions", "gloves"],
+  "synonyms": ["Universal Precautions", "Infection Control", "Personal Protective Equipment"],
+  "sections": [
+    {
+      "id": "proc-standard-precautions-overview",
+      "type": "overview",
+      "title": "Purpose & Scope",
+      "content": "Standard precautions are the minimum infection prevention measures applied to all patient care, regardless of the patient's presumed or confirmed infectious status. They are based on the principle that all blood, body fluids, secretions, excretions (except sweat), non-intact skin, and mucous membranes may contain transmissible infectious agents.\n\nThis procedure applies to all clinical staff providing patient care at FIFO mine site health clinics, including paramedics, nurses, and other allied health practitioners working as sole or primary practitioners. Standard precautions apply to every patient interaction — not just those with known infectious disease.",
+      "sortOrder": 0
+    },
+    {
+      "id": "proc-standard-precautions-hand-hygiene",
+      "type": "management_basic",
+      "title": "Hand Hygiene",
+      "content": "Hand hygiene is the single most effective measure to prevent the spread of infection. Use the World Health Organization (WHO) 5 Moments for Hand Hygiene as the framework:\n\n- Moment 1: Before touching a patient\n- Moment 2: Before a clean or aseptic procedure\n- Moment 3: After body fluid exposure risk\n- Moment 4: After touching a patient\n- Moment 5: After touching a patient's surroundings\n\nAlcohol-based hand rub (ABHR) is preferred for most situations when hands are not visibly soiled. Apply 3–5 mL and rub until dry — approximately 20–30 seconds.\n\nSoap and water is required when hands are visibly soiled with blood or body fluids, after caring for a patient with confirmed or suspected Clostridioides difficile, after using the toilet, and before and after eating.\n\nNail polish, artificial nails, and jewellery (including watches and rings) must be removed or kept short and clean. Bare below the elbows is the standard during clinical contact.",
+      "sortOrder": 1
+    },
+    {
+      "id": "proc-standard-precautions-ppe",
+      "type": "management_basic",
+      "title": "PPE Selection by Risk Level",
+      "content": "Select PPE based on the anticipated risk of exposure. The following guide applies to mine site clinical settings:\n\nRoutine patient contact (history-taking, vital signs on intact skin):\n- Gloves if contact with body fluids is possible\n- Hand hygiene before and after\n\nBlood or body fluid exposure risk (wound care, cannulation, blood sampling, catheterisation):\n- Gloves (non-sterile or sterile as appropriate)\n- Fluid-resistant mask if splashing is possible\n- Eye protection (safety glasses, goggles, or face shield)\n- Gown or apron if clothing contamination is likely\n\nAerosol-generating procedure risk (nebulised medications, airway management, high-flow oxygen, CPR):\n- P2/N95 respirator (fit-tested)\n- Eye protection (goggles or face shield)\n- Gown\n- Gloves\n\nGloves are not a substitute for hand hygiene. Change gloves between patients and whenever they become contaminated during a procedure. Dispose of single-use PPE immediately after use — do not reuse.",
+      "sortOrder": 2
+    },
+    {
+      "id": "proc-standard-precautions-keypoints",
+      "type": "considerations",
+      "title": "Key Points",
+      "content": "- Standard precautions apply to every patient contact — do not wait for a diagnosis before applying them\n- PPE protects the clinician; it does not eliminate the need for safe work practices\n- Respiratory hygiene: encourage coughing patients to cover their mouth, offer masks in the waiting area, maintain spatial separation where possible\n- Reusable equipment must be decontaminated between patients (see Equipment Decontamination procedure)\n- Safe sharps practices are part of standard precautions — use safety devices, never resheath without a one-handed technique, and dispose promptly in a rigid sharps container\n- Environmental cleaning of clinical surfaces between patients is required\n- Linen contaminated with blood or body fluids should be handled minimally and bagged at the point of use\n- In resource-limited remote settings, maintain a sufficient stockpile of PPE and order replacement supplies well before reserves are depleted",
+      "sortOrder": 3
+    },
+    {
+      "id": "proc-standard-precautions-documentation",
+      "type": "additional_notes",
+      "title": "Documentation",
+      "content": "Standard precautions do not require routine documentation for each patient encounter. However, document the following:\n\n- Any breach in standard precautions resulting in exposure to blood or body fluids (record in incident report and trigger the blood-borne virus exposure protocol)\n- PPE shortages or equipment failure that compromised infection control — document and notify medical director and site management\n- Training and competency in standard precautions should be recorded in each clinician's training register\n- Monthly infection control audit results should be retained on file at the clinic",
+      "sortOrder": 4
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": ["proc-ppe-donning-doffing", "proc-sharps-safety", "proc-blood-spill", "proc-equipment-decontamination"],
+  "relatedCalculatorIDs": [],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}
