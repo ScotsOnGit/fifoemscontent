@@ -2,54 +2,70 @@
   "id": "proc-death-on-site",
   "title": "Death on Site",
   "category": "procedures",
-  "tags": ["death", "deceased", "life extinct", "coronial", "notification", "resuscitation"],
-  "synonyms": ["Deceased Patient", "Life Extinct", "Coronial Matter", "DOA"],
+  "tags": [
+    "death",
+    "deceased",
+    "life extinct",
+    "coronial",
+    "notification",
+    "resuscitation"
+  ],
+  "synonyms": [
+    "Deceased Patient",
+    "Life Extinct",
+    "Coronial Matter",
+    "DOA"
+  ],
   "sections": [
     {
       "id": "proc-death-on-site-overview",
       "type": "overview",
       "title": "Purpose & Scope",
-      "content": "Death at a FIFO mine site is a rare but profoundly significant event. The site clinician has specific legal and professional obligations, including confirming death, preserving the scene, making statutory notifications, and supporting the workforce. These obligations must be met carefully regardless of the emotional demands of the situation.\n\nThis procedure applies to any situation in which the site clinician is called to attend a deceased or presumed deceased person. It does not override clinical judgement — if there is any doubt about whether resuscitation should be attempted, begin resuscitation and continue until the situation is clinically clear.",
+      "content": "Death at a FIFO mine site is a rare but profoundly significant event. The site clinician has specific legal and professional obligations, including confirming death, preserving the scene, making statutory notifications, and supporting the workforce. These obligations must be met carefully regardless of the emotional demands of the situation.\n\nThis procedure applies to any situation in which the site clinician is called to attend a deceased or presumed deceased person. It does not override clinical judgement; if there is any doubt about whether resuscitation should be attempted, begin resuscitation and continue until the situation is clinically clear.",
       "sortOrder": 0
     },
     {
       "id": "proc-death-on-site-resus",
       "type": "management_basic",
       "title": "Resuscitation Decisions",
-      "content": "Begin resuscitation unless one or more of the following apply:\n- The patient has an unambiguous, valid, and witnessed advance health directive (AHD) or DNAR order that is immediately available and applicable\n- Injuries are incompatible with life (decapitation, massive crushing injuries with evisceration, dependent lividity, rigor mortis, or decomposition)\n- Prolonged cardiac arrest in a non-shockable rhythm in an unwitnessed arrest with no bystander CPR and extended downtime in a normothermic patient\n\nIf in doubt — resuscitate. It is always clinically and legally safer to begin and then cease resuscitation than to withhold it.\n\nCeasing resuscitation:\n- Contact the medical director before ceasing resuscitation where possible\n- Document the time resuscitation was ceased and the clinical basis for the decision\n- In a witnessed traumatic arrest with non-survivable mechanism, resuscitation may not be appropriate — confirm with the medical director\n\nPronouncing death:\n- Confirm absence of all signs of life: no breathing, no pulse (check carotid and femoral), no response to stimulation\n- Confirm pupils fixed and dilated bilaterally\n- Note the time of confirmation and document it as the time of death (or time resuscitation was ceased if the exact time of death is unknown)",
+      "content": "Begin resuscitation unless one or more of the following apply:\n- The patient has an unambiguous, valid, and witnessed advance health directive (AHD) or DNAR order that is immediately available and applicable\n- Injuries are incompatible with life (decapitation, massive crushing injuries with evisceration, dependent lividity, rigor mortis, or decomposition)\n- Prolonged cardiac arrest in a non-shockable rhythm in an unwitnessed arrest with no bystander CPR and extended downtime in a normothermic patient\n\nIf in doubt; resuscitate. It is always clinically and legally safer to begin and then cease resuscitation than to withhold it.\n\nCeasing resuscitation:\n- Contact the medical director before ceasing resuscitation where possible\n- Document the time resuscitation was ceased and the clinical basis for the decision\n- In a witnessed traumatic arrest with non-survivable mechanism, resuscitation may not be appropriate; confirm with the medical director\n\nPronouncing death:\n- Confirm absence of all signs of life: no breathing, no pulse (check carotid and femoral), no response to stimulation\n- Confirm pupils fixed and dilated bilaterally\n- Note the time of confirmation and document it as the time of death (or time resuscitation was ceased if the exact time of death is unknown)",
       "sortOrder": 1
     },
     {
       "id": "proc-death-on-site-scene",
       "type": "management_basic",
       "title": "Scene Preservation",
-      "content": "A death at a mine site is a coronial matter. Preservation of the scene is mandatory:\n\n1. Once death is confirmed and resuscitation is not being continued: stop. Do not move the body, remove equipment attached to the patient, or disturb the immediate surroundings.\n2. Exception: equipment that was attached during resuscitation (IV cannulas, ET tube, defibrillator pads) should be left in place — do not remove them. Retrieval of equipment is not a reason to disturb the scene.\n3. Secure the scene: establish a physical boundary and ensure only authorised personnel (police, site management, coronial investigators) can enter.\n4. Remove all non-essential personnel from the scene immediately — workers who witnessed or discovered the death should be escorted away and provided support, not left at the scene.\n5. Do not take photographs unless directed to do so by police or the coroner.\n6. Document your own position and movements at the scene: what you touched, what you moved, and why — this will be required for any coronial inquiry.",
+      "content": "A death at a mine site is a coronial matter. Preservation of the scene is mandatory:\n\n1. Once death is confirmed and resuscitation is not being continued: stop. Do not move the body, remove equipment attached to the patient, or disturb the immediate surroundings.\n2. Exception: equipment that was attached during resuscitation (IV cannulas, ET tube, defibrillator pads) should be left in place; do not remove them. Retrieval of equipment is not a reason to disturb the scene.\n3. Secure the scene: establish a physical boundary and ensure only authorised personnel (police, site management, coronial investigators) can enter.\n4. Remove all non-essential personnel from the scene immediately; workers who witnessed or discovered the death should be escorted away and provided support, not left at the scene.\n5. Do not take photographs unless directed to do so by police or the coroner.\n6. Document your own position and movements at the scene: what you touched, what you moved, and why; this will be required for any coronial inquiry.",
       "sortOrder": 2
     },
     {
       "id": "proc-death-on-site-notifications",
       "type": "management_basic",
       "title": "Notifications",
-      "content": "The following notifications must be made promptly:\n\n1. WA Police — mandatory. Call 000 or the local police station. A death at a mine site is a coronial matter and police must attend. Do not move the body until police authorise it.\n2. WorkSafe WA — if the death is work-related, this is a notifiable incident under the Work Health and Safety Act 2020 (WA). The duty holder (employer/site operator) must notify WorkSafe WA immediately by phone. The clinician should notify the site HSE manager and superintendent to trigger this — it is the duty holder's obligation, not solely the clinician's, but the clinician must ensure it happens.\n3. Medical Director — notify immediately.\n4. Site management (superintendent, general manager) — notify immediately after police and medical director.\n5. Coroner — the attending police officer will advise on the coronial notification pathway. Do not contact the coroner directly unless instructed.\n6. Next of kin — notification of next of kin is the responsibility of WA Police, not the site clinician. Do not attempt to notify next of kin independently — refer any contact attempts from family to the police officer in charge.\n\nDo not make any public statements, speak to media, or post on social media about the death.",
+      "content": "The following notifications must be made promptly:\n\n1. WA Police; mandatory. Call 000 or the local police station. A death at a mine site is a coronial matter and police must attend. Do not move the body until police authorise it.\n2. WorkSafe WA; if the death is work-related, this is a notifiable incident under the Work Health and Safety Act 2020 (WA). The duty holder (employer/site operator) must notify WorkSafe WA immediately by phone. The clinician should notify the site HSE manager and superintendent to trigger this; it is the duty holder's obligation, not solely the clinician's, but the clinician must ensure it happens.\n3. Medical Director; notify immediately.\n4. Site management (superintendent, general manager): notify immediately after police and medical director.\n5. Coroner; the attending police officer will advise on the coronial notification pathway. Do not contact the coroner directly unless instructed.\n6. Next of kin; notification of next of kin is the responsibility of WA Police, not the site clinician. Do not attempt to notify next of kin independently; refer any contact attempts from family to the police officer in charge.\n\nDo not make any public statements, speak to media, or post on social media about the death.",
       "sortOrder": 3
     },
     {
       "id": "proc-death-on-site-workforce",
       "type": "considerations",
       "title": "Workforce Support",
-      "content": "A workplace death is a traumatic event for the entire site workforce:\n\n- Workers who discovered or witnessed the death, and those who attempted resuscitation, are at elevated risk of acute stress reactions and PTSD\n- The site clinician may be the first person they speak to and has an important role in immediate psychological first aid\n- Ensure all workers involved in or directly affected by the event are removed from duties and offered a confidential welfare check\n- Activate the site's critical incident stress management (CISM) protocol if one exists\n- Arrange for an external employee assistance program (EAP) or mental health clinician to attend the site as soon as possible\n- The clinician is also at risk — debrief with the medical director and access your own EAP support\n- Do not pressure workers to return to normal duties on the same day",
+      "content": "A workplace death is a traumatic event for the entire site workforce:\n\n- Workers who discovered or witnessed the death, and those who attempted resuscitation, are at elevated risk of acute stress reactions and PTSD\n- The site clinician may be the first person they speak to and has an important role in immediate psychological first aid\n- Ensure all workers involved in or directly affected by the event are removed from duties and offered a confidential welfare check\n- Activate the site's critical incident stress management (CISM) protocol if one exists\n- Arrange for an external employee assistance program (EAP) or mental health clinician to attend the site as soon as possible\n- The clinician is also at risk; debrief with the medical director and access your own EAP support\n- Do not pressure workers to return to normal duties on the same day",
       "sortOrder": 4
     },
     {
       "id": "proc-death-on-site-documentation",
       "type": "additional_notes",
       "title": "Documentation",
-      "content": "Accurate and comprehensive documentation is critical in any death at a mine site:\n\n- Document all clinical interventions: times, findings, treatments, and the time and basis for any resuscitation decision\n- Document the time of confirmed death\n- Document all notifications: who was notified, at what time, and by whom\n- Document your scene actions: what you touched, what you moved, and why\n- Write your documentation in contemporaneous notes where possible. If written later, clearly mark the time of writing and indicate that it is a retrospective entry\n- Retain all documentation securely — it may be required by the coroner, WorkSafe WA, police, or in subsequent litigation\n- Do not alter, add to, or destroy any documentation once a death has been confirmed\n- The clinician may be called to give evidence at a coronial inquest — keep a personal copy of your clinical notes in a secure location",
+      "content": "Accurate and comprehensive documentation is critical in any death at a mine site:\n\n- Document all clinical interventions: times, findings, treatments, and the time and basis for any resuscitation decision\n- Document the time of confirmed death\n- Document all notifications: who was notified, at what time, and by whom\n- Document your scene actions: what you touched, what you moved, and why\n- Write your documentation in contemporaneous notes where possible. If written later, clearly mark the time of writing and indicate that it is a retrospective entry\n- Retain all documentation securely; it may be required by the coroner, WorkSafe WA, police, or in subsequent litigation\n- Do not alter, add to, or destroy any documentation once a death has been confirmed\n- The clinician may be called to give evidence at a coronial inquest; keep a personal copy of your clinical notes in a secure location",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-emergency-activation", "proc-incident-reporting", "proc-welfare-check"],
+  "relatedGuidelineIDs": [
+    "proc-emergency-activation",
+    "proc-incident-reporting",
+    "proc-welfare-check"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

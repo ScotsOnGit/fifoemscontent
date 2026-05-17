@@ -2,47 +2,63 @@
   "id": "proc-blood-spill",
   "title": "Blood and Body Fluid Spill Management",
   "category": "procedures",
-  "tags": ["spill", "blood", "body fluid", "decontamination", "chlorine", "bleach"],
-  "synonyms": ["Spill Management", "Biohazard Spill", "Blood Spill"],
+  "tags": [
+    "spill",
+    "blood",
+    "body fluid",
+    "decontamination",
+    "chlorine",
+    "bleach"
+  ],
+  "synonyms": [
+    "Spill Management",
+    "Biohazard Spill",
+    "Blood Spill"
+  ],
   "sections": [
     {
       "id": "proc-blood-spill-overview",
       "type": "overview",
       "title": "Purpose & Scope",
-      "content": "This procedure describes the safe and effective management of blood and body fluid spills in the mine site clinical setting. Blood and body fluid spills present a risk of transmission of blood-borne viruses (HIV, Hepatitis B, Hepatitis C) and other pathogens to staff, patients, and visitors if not managed promptly and correctly.\n\nThis procedure applies to spills of blood, urine, faeces, vomit, sputum, cerebrospinal fluid, amniotic fluid, or any other body fluid occurring in the clinic, treatment room, waiting area, or clinic surrounds. It applies to all clinical staff and should be understood by any staff member who may discover a spill — including ancillary and administrative staff who should know to call clinical staff before attempting clean-up.",
+      "content": "This procedure describes the safe and effective management of blood and body fluid spills in the mine site clinical setting. Blood and body fluid spills present a risk of transmission of blood-borne viruses (HIV, Hepatitis B, Hepatitis C) and other pathogens to staff, patients, and visitors if not managed promptly and correctly.\n\nThis procedure applies to spills of blood, urine, faeces, vomit, sputum, cerebrospinal fluid, amniotic fluid, or any other body fluid occurring in the clinic, treatment room, waiting area, or clinic surrounds. It applies to all clinical staff and should be understood by any staff member who may discover a spill; including ancillary and administrative staff who should know to call clinical staff before attempting clean-up.",
       "sortOrder": 0
     },
     {
       "id": "proc-blood-spill-immediate",
       "type": "management_basic",
       "title": "Immediate Actions",
-      "content": "Never approach a blood or body fluid spill without first donning appropriate PPE. Sequence:\n\n1. Assess the spill size and location before approaching\n2. Don PPE: gloves, fluid-resistant mask (if aerosol or splashing risk), eye protection, and gown or apron if clothing contamination is likely\n3. Restrict access to the spill area — place a warning sign or physically block the area to prevent others from walking through it\n4. For small spills (< 30 cm diameter): apply paper towels or absorbent material directly over the spill to contain it\n5. For large spills (>30 cm or significant volume): apply granular chlorine-based absorbent powder or lay absorbent sheets to absorb bulk fluid before disinfection\n6. Apply a freshly prepared chlorine-based disinfectant solution (sodium hypochlorite 1:10 dilution — approximately 10,000 ppm available chlorine) over the absorbent material covering the spill, or use a TGA-registered sporicidal/virucidal product appropriate for blood spills per the product instructions\n7. Allow a minimum contact time of 10 minutes — do not disturb or wipe during this period",
+      "content": "Never approach a blood or body fluid spill without first donning appropriate PPE. Sequence:\n\n1. Assess the spill size and location before approaching\n2. Don PPE: gloves, fluid-resistant mask (if aerosol or splashing risk), eye protection, and gown or apron if clothing contamination is likely\n3. Restrict access to the spill area; place a warning sign or physically block the area to prevent others from walking through it\n4. For small spills (< 30 cm diameter): apply paper towels or absorbent material directly over the spill to contain it\n5. For large spills (>30 cm or significant volume): apply granular chlorine-based absorbent powder or lay absorbent sheets to absorb bulk fluid before disinfection\n6. Apply a freshly prepared chlorine-based disinfectant solution (sodium hypochlorite 1:10 dilution; approximately 10,000 ppm available chlorine) over the absorbent material covering the spill, or use a TGA-registered sporicidal/virucidal product appropriate for blood spills per the product instructions\n7. Allow a minimum contact time of 10 minutes; do not disturb or wipe during this period",
       "sortOrder": 1
     },
     {
       "id": "proc-blood-spill-cleanup",
       "type": "management_basic",
       "title": "Cleanup Procedure",
-      "content": "After the required contact time:\n\n1. Using gloved hands or tongs (never bare hands), remove the soaked absorbent material and place it directly into a yellow clinical waste biohazard bag\n2. Apply a second application of chlorine-based disinfectant to the now-exposed surface and wipe clean with paper towels — dispose of all used towels in the biohazard bag\n3. Wash the surface with detergent and water to remove residual chlorine (chlorine is corrosive and will damage some surfaces over time)\n4. Allow the surface to dry\n5. Remove PPE using the correct doffing sequence (gloves first, then eye protection, then gown, then mask — hand hygiene between each step)\n6. Perform hand hygiene\n7. Seal and label the biohazard bag with the date and site name and dispose of it in the clinical waste storage area\n8. Discard all single-use cleaning equipment in the biohazard bag\n9. Reusable cleaning equipment (mops, buckets) must be decontaminated with disinfectant and stored clean and dry\n\nNote: Chlorine-based solutions must be freshly prepared on the day of use — stored diluted bleach rapidly loses efficacy.",
+      "content": "After the required contact time:\n\n1. Using gloved hands or tongs (never bare hands), remove the soaked absorbent material and place it directly into a yellow clinical waste biohazard bag\n2. Apply a second application of chlorine-based disinfectant to the now-exposed surface and wipe clean with paper towels; dispose of all used towels in the biohazard bag\n3. Wash the surface with detergent and water to remove residual chlorine (chlorine is corrosive and will damage some surfaces over time)\n4. Allow the surface to dry\n5. Remove PPE using the correct doffing sequence (gloves first, then eye protection, then gown, then mask; hand hygiene between each step)\n6. Perform hand hygiene\n7. Seal and label the biohazard bag with the date and site name and dispose of it in the clinical waste storage area\n8. Discard all single-use cleaning equipment in the biohazard bag\n9. Reusable cleaning equipment (mops, buckets) must be decontaminated with disinfectant and stored clean and dry\n\nNote: Chlorine-based solutions must be freshly prepared on the day of use; stored diluted bleach rapidly loses efficacy.",
       "sortOrder": 2
     },
     {
       "id": "proc-blood-spill-smallvslarge",
       "type": "considerations",
       "title": "Small vs Large Spill Differentiation",
-      "content": "Small spill (less than approximately 30 cm diameter or a few drops/small splashes):\n- Manage with paper towels, apply chlorine solution, 10 minutes contact time, wipe clean\n- Can typically be managed by one person\n- Lower aerosol risk — surgical mask and gloves usually adequate\n\nLarge spill (large volume, spreading, or involving multiple surfaces):\n- Apply granular absorber or large absorbent pads first to manage volume before applying disinfectant\n- Greater risk of aerosol generation — P2/N95 respirator should be considered, particularly in enclosed spaces\n- Restrict access more broadly and secure the area\n- A second person should be available to assist or observe during large spill management\n- Notify site management of any large spills, particularly if they involve common areas or required significant area restriction\n\nIn all cases, if any clinical staff member is exposed to blood or body fluids during the spill clean-up (skin contact with broken skin, splash to eye or mucous membrane), immediately follow the blood-borne virus exposure protocol and complete an incident report.",
+      "content": "Small spill (less than approximately 30 cm diameter or a few drops/small splashes):\n- Manage with paper towels, apply chlorine solution, 10 minutes contact time, wipe clean\n- Can typically be managed by one person\n- Lower aerosol risk; surgical mask and gloves usually adequate\n\nLarge spill (large volume, spreading, or involving multiple surfaces):\n- Apply granular absorber or large absorbent pads first to manage volume before applying disinfectant\n- Greater risk of aerosol generation: P2/N95 respirator should be considered, particularly in enclosed spaces\n- Restrict access more broadly and secure the area\n- A second person should be available to assist or observe during large spill management\n- Notify site management of any large spills, particularly if they involve common areas or required significant area restriction\n\nIn all cases, if any clinical staff member is exposed to blood or body fluids during the spill clean-up (skin contact with broken skin, splash to eye or mucous membrane), immediately follow the blood-borne virus exposure protocol and complete an incident report.",
       "sortOrder": 3
     },
     {
       "id": "proc-blood-spill-documentation",
       "type": "additional_notes",
       "title": "Documentation",
-      "content": "Document the following:\n\n- All spills should be recorded in the clinic spill log: date, time, location, nature of fluid, spill size, persons involved in clean-up, products used, and outcome\n- If any staff member was exposed during the clean-up: complete an incident report, initiate blood-borne virus post-exposure protocol, notify supervisor and medical director\n- If a patient or visitor was exposed: document in the clinic spill log and incident report, notify site management, offer clinical assessment\n- Spill kit inventory should be checked and replenished after every use — record restock in the equipment log",
+      "content": "Document the following:\n\n- All spills should be recorded in the clinic spill log: date, time, location, nature of fluid, spill size, persons involved in clean-up, products used, and outcome\n- If any staff member was exposed during the clean-up: complete an incident report, initiate blood-borne virus post-exposure protocol, notify supervisor and medical director\n- If a patient or visitor was exposed: document in the clinic spill log and incident report, notify site management, offer clinical assessment\n- Spill kit inventory should be checked and replenished after every use; record restock in the equipment log",
       "sortOrder": 4
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-standard-precautions", "proc-ppe-donning-doffing", "proc-clinical-waste", "proc-equipment-decontamination"],
+  "relatedGuidelineIDs": [
+    "proc-standard-precautions",
+    "proc-ppe-donning-doffing",
+    "proc-clinical-waste",
+    "proc-equipment-decontamination"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

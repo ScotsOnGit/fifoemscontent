@@ -2,8 +2,19 @@
   "id": "proc-vehicle-restock",
   "title": "Post-Call Vehicle Restock",
   "category": "procedures",
-  "tags": ["restock", "vehicle", "post-call", "equipment", "resupply", "ambulance"],
-  "synonyms": ["Vehicle Resupply", "Post-Incident Restock", "Kit Restock"],
+  "tags": [
+    "restock",
+    "vehicle",
+    "post-call",
+    "equipment",
+    "resupply",
+    "ambulance"
+  ],
+  "synonyms": [
+    "Vehicle Resupply",
+    "Post-Incident Restock",
+    "Kit Restock"
+  ],
   "sections": [
     {
       "id": "proc-vehicle-restock-overview",
@@ -16,47 +27,50 @@
       "id": "proc-vehicle-restock-immediate",
       "type": "management_basic",
       "title": "Immediate Post-Call Steps",
-      "content": "Before beginning the restock, address biological contamination and sharps safety:\n\n1. Do not restock until the vehicle is clean — biological contamination must be addressed first. If blood, body fluids, or vomitus are present on surfaces or equipment, complete a decontamination process before restocking.\n2. Dispose of all used sharps immediately into the sharps container before removing them from the vehicle. Never recap needles. Do not place used sharps in waste bags or pockets.\n3. Remove and safely dispose of all used PPE (gloves, gown, mask) before handling clean stock — this prevents cross-contamination of the clean supply.\n4. Bag any contaminated linen or soft furnishings (pillow cases, blankets) and place in designated laundry bag.\n5. Perform hand hygiene before beginning restock.",
+      "content": "Before beginning the restock, address biological contamination and sharps safety:\n\n1. Do not restock until the vehicle is clean; biological contamination must be addressed first. If blood, body fluids, or vomitus are present on surfaces or equipment, complete a decontamination process before restocking.\n2. Dispose of all used sharps immediately into the sharps container before removing them from the vehicle. Never recap needles. Do not place used sharps in waste bags or pockets.\n3. Remove and safely dispose of all used PPE (gloves, gown, mask) before handling clean stock; this prevents cross-contamination of the clean supply.\n4. Bag any contaminated linen or soft furnishings (pillow cases, blankets) and place in designated laundry bag.\n5. Perform hand hygiene before beginning restock.",
       "sortOrder": 1
     },
     {
       "id": "proc-vehicle-restock-process",
       "type": "management_basic",
       "title": "Restock Process",
-      "content": "Restock systematically using the master vehicle kit list. Do not rely on memory.\n\n1. Obtain the master kit list for the vehicle — check against it item by item.\n2. Replace every item that was used, opened, or is now below the minimum quantity — even if only partially used (e.g., a bag of IV fluid that was opened but not fully used should be replaced with a sealed unit).\n3. Check expiry dates on every item being restocked — do not replace with an expired item.\n4. Record all items used in the consumables log: item name, quantity used, batch number where applicable (especially for IV fluids and biologics).\n5. Return all reusable equipment to its correct storage location in the vehicle — stowing it incorrectly creates delays in the next emergency.\n6. If any reusable equipment was damaged during the call, tag it out of service, document it in the vehicle inspection log, and replace with a serviceable spare if available.\n7. If the clinic or on-site store does not have sufficient stock to complete a full restock, the vehicle is out of service until the deficiency is resolved. Do not return a partially stocked vehicle to service.",
+      "content": "Restock systematically using the master vehicle kit list. Do not rely on memory.\n\n1. Obtain the master kit list for the vehicle; check against it item by item.\n2. Replace every item that was used, opened, or is now below the minimum quantity; even if only partially used (e.g., a bag of IV fluid that was opened but not fully used should be replaced with a sealed unit).\n3. Check expiry dates on every item being restocked; do not replace with an expired item.\n4. Record all items used in the consumables log: item name, quantity used, batch number where applicable (especially for IV fluids and biologics).\n5. Return all reusable equipment to its correct storage location in the vehicle; stowing it incorrectly creates delays in the next emergency.\n6. If any reusable equipment was damaged during the call, tag it out of service, document it in the vehicle inspection log, and replace with a serviceable spare if available.\n7. If the clinic or on-site store does not have sufficient stock to complete a full restock, the vehicle is out of service until the deficiency is resolved. Do not return a partially stocked vehicle to service.",
       "sortOrder": 2
     },
     {
       "id": "proc-vehicle-restock-drugs",
       "type": "management_basic",
       "title": "Drug Restock",
-      "content": "Drug restock requires specific attention, particularly for Schedule 8 medications:\n\n1. S8 Controlled Drugs — any S8 drug used during the call must be replaced immediately. The controlled drug register entry for use must already be completed (this should have occurred at the time of administration). Contact the medical director or on-call physician if S8 stock is unavailable or insufficient — do not substitute with a different drug without medical director authorisation.\n2. If S8 resupply is not immediately available, the vehicle must be taken out of service until stock is obtained. This is non-negotiable.\n3. S4 Prescription Drugs — replace all S4 drugs used, check all remaining S4 drugs for expiry, document in the consumables log.\n4. S2/S3 and over-the-counter items — replace all used stock. Ensure packaging is intact on all replacement items.\n5. Update the controlled drug register for all resupply movements — incoming stock must be entered with source, quantity, batch number, and clinician signature.",
+      "content": "Drug restock requires specific attention, particularly for Schedule 8 medications:\n\n1. S8 Controlled Drugs; any S8 drug used during the call must be replaced immediately. The controlled drug register entry for use must already be completed (this should have occurred at the time of administration). Contact the medical director or on-call physician if S8 stock is unavailable or insufficient; do not substitute with a different drug without medical director authorisation.\n2. If S8 resupply is not immediately available, the vehicle must be taken out of service until stock is obtained. This is non-negotiable.\n3. S4 Prescription Drugs; replace all S4 drugs used, check all remaining S4 drugs for expiry, document in the consumables log.\n4. S2/S3 and over-the-counter items; replace all used stock. Ensure packaging is intact on all replacement items.\n5. Update the controlled drug register for all resupply movements; incoming stock must be entered with source, quantity, batch number, and clinician signature.",
       "sortOrder": 3
     },
     {
       "id": "proc-vehicle-restock-documentation",
       "type": "additional_notes",
       "title": "Documentation",
-      "content": "A restock log entry must be completed after every restock event. The entry must include:\n\n- Date and time of restock\n- Incident or call reference number\n- Clinician completing the restock (name and signature)\n- List of all items replaced with quantities\n- Batch numbers for IV fluids, oxygen, and biologics\n- Any items that could not be restocked — reason and notification made\n- Confirmation that vehicle is returned to service (or documented reason for remaining out of service)\n\nIf the vehicle remains out of service after a call due to incomplete restock, document this in the vehicle inspection log and notify the site HSE manager and medical director immediately. The notification must be recorded with the time and name of the person notified.",
+      "content": "A restock log entry must be completed after every restock event. The entry must include:\n\n- Date and time of restock\n- Incident or call reference number\n- Clinician completing the restock (name and signature)\n- List of all items replaced with quantities\n- Batch numbers for IV fluids, oxygen, and biologics\n- Any items that could not be restocked; reason and notification made\n- Confirmation that vehicle is returned to service (or documented reason for remaining out of service)\n\nIf the vehicle remains out of service after a call due to incomplete restock, document this in the vehicle inspection log and notify the site HSE manager and medical director immediately. The notification must be recorded with the time and name of the person notified.",
       "sortOrder": 4
     },
     {
       "id": "proc-vehicle-restock-considerations",
       "type": "considerations",
       "title": "Key Points",
-      "content": "- Never assume the vehicle is stocked based on a previous check — use and check against the list every time\n- Oxygen cylinder pressure must be re-checked after any call where oxygen was used — replace cylinder if below site minimum threshold\n- AED pad expiry should be checked after any AED use or deployment — replace pads if used or if the patient's skin oils may have compromised the adhesive\n- Do not restock with items from another clinician's personal kit or an unregistered supply source — all stock must be sourced from the approved site medical store\n- Incomplete restock is a patient safety incident and must be reported as such via the incident reporting system if it results in a gap in service",
+      "content": "- Never assume the vehicle is stocked based on a previous check; use and check against the list every time\n- Oxygen cylinder pressure must be re-checked after any call where oxygen was used; replace cylinder if below site minimum threshold\n- AED pad expiry should be checked after any AED use or deployment; replace pads if used or if the patient's skin oils may have compromised the adhesive\n- Do not restock with items from another clinician's personal kit or an unregistered supply source; all stock must be sourced from the approved site medical store\n- Incomplete restock is a patient safety incident and must be reported as such via the incident reporting system if it results in a gap in service",
       "sortOrder": 5
     },
     {
       "id": "proc-vehicle-restock-references",
       "type": "references",
       "title": "Regulatory Basis",
-      "content": "- Medicines and Poisons Act 2014 (WA) — requirements for recording and managing controlled drugs\n- Work Health and Safety Act 2020 (WA) — duty to provide and maintain safe equipment\n- Site medical services agreement and standing orders\n- Australian Commission on Safety and Quality in Health Care — National Safety and Quality Health Service Standards",
+      "content": "- Medicines and Poisons Act 2014 (WA): requirements for recording and managing controlled drugs\n- Work Health and Safety Act 2020 (WA): duty to provide and maintain safe equipment\n- Site medical services agreement and standing orders\n- Australian Commission on Safety and Quality in Health Care: National Safety and Quality Health Service Standards",
       "sortOrder": 6
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-vehicle-inspection", "proc-vehicle-decon"],
+  "relatedGuidelineIDs": [
+    "proc-vehicle-inspection",
+    "proc-vehicle-decon"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

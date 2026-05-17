@@ -2,21 +2,32 @@
   "id": "proc-vehicle-inspection",
   "title": "Ambulance and Response Vehicle Pre-Shift Inspection",
   "category": "procedures",
-  "tags": ["vehicle", "ambulance", "inspection", "checklist", "pre-shift", "daily"],
-  "synonyms": ["Vehicle Check", "Ambulance Inspection", "Daily Vehicle Check"],
+  "tags": [
+    "vehicle",
+    "ambulance",
+    "inspection",
+    "checklist",
+    "pre-shift",
+    "daily"
+  ],
+  "synonyms": [
+    "Vehicle Check",
+    "Ambulance Inspection",
+    "Daily Vehicle Check"
+  ],
   "sections": [
     {
       "id": "proc-vehicle-inspection-overview",
       "type": "overview",
       "title": "Purpose & Scope",
-      "content": "This procedure establishes the minimum requirements for pre-shift inspection of all ambulance and emergency response vehicles operated by the site medical service. The purpose is to ensure the vehicle is mechanically safe, fully stocked with medical equipment, and ready for immediate deployment at the start of every shift.\n\nThis inspection must be completed at the beginning of every shift before the vehicle is placed in service. It applies to all medics and nurses operating a response vehicle. In a sole-practitioner setting, there is no backup — a defective or understocked vehicle represents a direct patient safety risk. Do not cut corners on this check.",
+      "content": "This procedure establishes the minimum requirements for pre-shift inspection of all ambulance and emergency response vehicles operated by the site medical service. The purpose is to ensure the vehicle is mechanically safe, fully stocked with medical equipment, and ready for immediate deployment at the start of every shift.\n\nThis inspection must be completed at the beginning of every shift before the vehicle is placed in service. It applies to all medics and nurses operating a response vehicle. In a sole-practitioner setting, there is no backup; a defective or understocked vehicle represents a direct patient safety risk. Do not cut corners on this check.",
       "sortOrder": 0
     },
     {
       "id": "proc-vehicle-inspection-mechanical",
       "type": "management_basic",
       "title": "Mechanical Checks",
-      "content": "Complete the following mechanical checks at the start of each shift:\n\n1. Fuel level — full or above minimum site requirement (typically half-tank). Fill before shift if below threshold.\n2. Engine oil — dipstick check, within normal range. Note any significant change from previous inspection.\n3. Coolant level — check reservoir, do not open radiator cap on a hot engine.\n4. Tyres — visually inspect all four road tyres and spare tyre: correct inflation (check with gauge), no cuts, bulges, or visible wire, adequate tread depth. Check spare tyre is accessible and inflated.\n5. Lights — test headlights (low and high beam), taillights, brake lights, indicators (all four corners), reversing lights, hazard lights, and all emergency lightbar functions.\n6. Wipers — test front and rear wipers, check washer fluid level.\n7. Horn — test standard horn.\n8. Seatbelts — check all seatbelts present, retract freely, and latch securely.\n9. 4WD function — if vehicle has 4WD, confirm engagement and disengagement of 4WD mode and diff lock if fitted. Do not assume function — test it.\n10. UHF/radio — power on, check channel (site emergency channel), perform radio check with site comms or camp coordinator. Confirm portable radio is charged and in vehicle.\n11. Vehicle body — check for new damage, particularly to tyres, underbody, or undercarriage that may indicate off-road damage not previously reported.",
+      "content": "Complete the following mechanical checks at the start of each shift:\n\n1. Fuel level; full or above minimum site requirement (typically half-tank). Fill before shift if below threshold.\n2. Engine oil; dipstick check, within normal range. Note any significant change from previous inspection.\n3. Coolant level; check reservoir, do not open radiator cap on a hot engine.\n4. Tyres; visually inspect all four road tyres and spare tyre: correct inflation (check with gauge), no cuts, bulges, or visible wire, adequate tread depth. Check spare tyre is accessible and inflated.\n5. Lights; test headlights (low and high beam), taillights, brake lights, indicators (all four corners), reversing lights, hazard lights, and all emergency lightbar functions.\n6. Wipers; test front and rear wipers, check washer fluid level.\n7. Horn; test standard horn.\n8. Seatbelts; check all seatbelts present, retract freely, and latch securely.\n9. 4WD function; if vehicle has 4WD, confirm engagement and disengagement of 4WD mode and diff lock if fitted. Do not assume function; test it.\n10. UHF/radio; power on, check channel (site emergency channel), perform radio check with site comms or camp coordinator. Confirm portable radio is charged and in vehicle.\n11. Vehicle body; check for new damage, particularly to tyres, underbody, or undercarriage that may indicate off-road damage not previously reported.",
       "sortOrder": 1
     },
     {
@@ -30,33 +41,36 @@
       "id": "proc-vehicle-inspection-drugs",
       "type": "management_basic",
       "title": "Drug Check",
-      "content": "Drug checks must be completed in full at every shift commencement. Do not skip this step.\n\n1. S8 Controlled Drugs — count all S8 drugs (morphine, fentanyl, midazolam, or other S8 drugs stocked per formulary). Count must match the controlled drug register. Any discrepancy must be investigated immediately and escalated to the medical director before the shift continues.\n2. S4 Prescription Drugs — check all S4 drugs present per kit list. Check expiry dates on every item.\n3. S2/S3 Medications and Other Consumables — check all remaining drugs, IV fluids, and topical agents against kit list.\n4. Expiry Dates — check every drug for expiry. Remove and document any expired item — do not leave expired medication in a clinical kit.\n5. Controlled Drug Register — sign the register at shift commencement. Entry must include: date, time, counts confirmed for each S8 drug, clinician name, and AHPRA registration number.\n6. Cold chain medications — if temperature-sensitive medications are carried, document fridge temperature at time of check.",
+      "content": "Drug checks must be completed in full at every shift commencement. Do not skip this step.\n\n1. S8 Controlled Drugs; count all S8 drugs (morphine, fentanyl, midazolam, or other S8 drugs stocked per formulary). Count must match the controlled drug register. Any discrepancy must be investigated immediately and escalated to the medical director before the shift continues.\n2. S4 Prescription Drugs; check all S4 drugs present per kit list. Check expiry dates on every item.\n3. S2/S3 Medications and Other Consumables; check all remaining drugs, IV fluids, and topical agents against kit list.\n4. Expiry Dates; check every drug for expiry. Remove and document any expired item; do not leave expired medication in a clinical kit.\n5. Controlled Drug Register; sign the register at shift commencement. Entry must include: date, time, counts confirmed for each S8 drug, clinician name, and AHPRA registration number.\n6. Cold chain medications; if temperature-sensitive medications are carried, document fridge temperature at time of check.",
       "sortOrder": 3
     },
     {
       "id": "proc-vehicle-inspection-documentation",
       "type": "additional_notes",
       "title": "Documentation",
-      "content": "A vehicle inspection log entry must be completed at the end of every pre-shift inspection. The entry must include:\n\n- Date and time of inspection\n- Clinician name and AHPRA registration number\n- Fuel level and oxygen cylinder pressure (recorded as numbers, not \"OK\")\n- Any defects identified — described specifically\n- If defects found: who was notified, at what time, and what action was taken\n- Clinician signature\n\nThe inspection log is a legal document. It demonstrates due diligence and forms part of the site medical service audit trail. Incomplete entries are unacceptable.",
+      "content": "A vehicle inspection log entry must be completed at the end of every pre-shift inspection. The entry must include:\n\n- Date and time of inspection\n- Clinician name and AHPRA registration number\n- Fuel level and oxygen cylinder pressure (recorded as numbers, not \"OK\")\n- Any defects identified; described specifically\n- If defects found: who was notified, at what time, and what action was taken\n- Clinician signature\n\nThe inspection log is a legal document. It demonstrates due diligence and forms part of the site medical service audit trail. Incomplete entries are unacceptable.",
       "sortOrder": 4
     },
     {
       "id": "proc-vehicle-inspection-defects",
       "type": "considerations",
       "title": "Defect Management and Fault Reporting",
-      "content": "- A vehicle with a critical defect must not be placed in service until the defect is rectified\n- Critical defects include: tyre failure, brake defect, fuel below minimum, non-functional emergency lights, non-functional radio, incomplete S8 drug count, non-functional AED or oxygen supply\n- Non-critical defects (e.g., minor cosmetic damage, low washer fluid) should be documented and reported but do not place the vehicle out of service\n- If the primary vehicle is out of service: activate the backup vehicle if available. If no backup is available, notify the site HSE manager and medical director immediately and document the gap in coverage.\n- All defects, regardless of severity, must be entered in the vehicle inspection log and verbally reported to the site facilities or fleet coordinator on the same shift they are identified\n- Do not rely on the outgoing clinician's verbal statement that the vehicle is fine — you are responsible for your own inspection",
+      "content": "- A vehicle with a critical defect must not be placed in service until the defect is rectified\n- Critical defects include: tyre failure, brake defect, fuel below minimum, non-functional emergency lights, non-functional radio, incomplete S8 drug count, non-functional AED or oxygen supply\n- Non-critical defects (e.g., minor cosmetic damage, low washer fluid) should be documented and reported but do not place the vehicle out of service\n- If the primary vehicle is out of service: activate the backup vehicle if available. If no backup is available, notify the site HSE manager and medical director immediately and document the gap in coverage.\n- All defects, regardless of severity, must be entered in the vehicle inspection log and verbally reported to the site facilities or fleet coordinator on the same shift they are identified\n- Do not rely on the outgoing clinician's verbal statement that the vehicle is fine; you are responsible for your own inspection",
       "sortOrder": 5
     },
     {
       "id": "proc-vehicle-inspection-references",
       "type": "references",
       "title": "Regulatory Basis",
-      "content": "- Work Health and Safety Act 2020 (WA) — employer and worker duties to ensure safe plant and equipment\n- Mining Regulation 2016 (WA) — requirements for emergency response capability on mine sites\n- Australian Commission on Safety and Quality in Health Care — National Safety and Quality Health Service Standards\n- Site-specific medical services agreement and standing orders",
+      "content": "- Work Health and Safety Act 2020 (WA): employer and worker duties to ensure safe plant and equipment\n- Mining Regulation 2016 (WA): requirements for emergency response capability on mine sites\n- Australian Commission on Safety and Quality in Health Care: National Safety and Quality Health Service Standards\n- Site-specific medical services agreement and standing orders",
       "sortOrder": 6
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-vehicle-restock", "proc-vehicle-decon"],
+  "relatedGuidelineIDs": [
+    "proc-vehicle-restock",
+    "proc-vehicle-decon"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

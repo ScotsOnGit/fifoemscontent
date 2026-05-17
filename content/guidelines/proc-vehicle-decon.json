@@ -2,8 +2,19 @@
   "id": "proc-vehicle-decon",
   "title": "Vehicle Decontamination After Infectious Patient",
   "category": "procedures",
-  "tags": ["vehicle", "decontamination", "infectious", "cleaning", "disinfection", "ambulance"],
-  "synonyms": ["Ambulance Decontamination", "Vehicle Cleaning", "Post-Infectious Clean"],
+  "tags": [
+    "vehicle",
+    "decontamination",
+    "infectious",
+    "cleaning",
+    "disinfection",
+    "ambulance"
+  ],
+  "synonyms": [
+    "Ambulance Decontamination",
+    "Vehicle Cleaning",
+    "Post-Infectious Clean"
+  ],
   "sections": [
     {
       "id": "proc-vehicle-decon-overview",
@@ -16,7 +27,7 @@
       "id": "proc-vehicle-decon-triggers",
       "type": "management_basic",
       "title": "When Decontamination Is Required",
-      "content": "Decontamination using this enhanced protocol is required following:\n\n- Any patient with a known or suspected notifiable infectious disease (e.g., active tuberculosis, viral haemorrhagic fever, meningococcal disease, COVID-19 or equivalent respiratory pathogen with aerosol-generating procedures performed)\n- Any incident involving significant blood or body fluid contamination of vehicle surfaces, equipment, or stretcher\n- Any patient with known or suspected multi-drug resistant organism (MRDO) colonisation or infection\n- Any patient with active diarrhoea or vomiting where surfaces were contaminated\n- Any situation where the attending clinician has a reasonable concern about infectious risk\n\nRoutine patient transport without the above features requires standard cleaning only — not this enhanced protocol.",
+      "content": "Decontamination using this enhanced protocol is required following:\n\n- Any patient with a known or suspected notifiable infectious disease (e.g., active tuberculosis, viral haemorrhagic fever, meningococcal disease, COVID-19 or equivalent respiratory pathogen with aerosol-generating procedures performed)\n- Any incident involving significant blood or body fluid contamination of vehicle surfaces, equipment, or stretcher\n- Any patient with known or suspected multi-drug resistant organism (MRDO) colonisation or infection\n- Any patient with active diarrhoea or vomiting where surfaces were contaminated\n- Any situation where the attending clinician has a reasonable concern about infectious risk\n\nRoutine patient transport without the above features requires standard cleaning only; not this enhanced protocol.",
       "sortOrder": 1
     },
     {
@@ -30,14 +41,14 @@
       "id": "proc-vehicle-decon-process",
       "type": "management_basic",
       "title": "Decontamination Process",
-      "content": "Complete decontamination in the following sequence:\n\n1. Remove all removable soft furnishings — blankets, pillow cases, mattress cover, and any cloth items that were in the patient compartment. Place in a sealed, labelled clinical laundry bag for laundering at appropriate temperature (minimum 60°C for 10 minutes).\n2. Remove all disposable waste — bag and seal all single-use items, packaging, and clinical waste in a clinical waste bag.\n3. Apply TGA-approved disinfectant — use a product with TGA registration as a hospital-grade disinfectant or an Organic Chlorine-based product (e.g., 1,000 ppm available chlorine for routine, 10,000 ppm for blood spills). Refer to the product label for the correct concentration and preparation.\n4. Clean in a top-to-bottom, back-to-front sequence. Begin with the ceiling and light fittings, then work down. This prevents re-contamination of already cleaned surfaces.\n5. Priority surfaces — stretcher (all surfaces, undercarriage, and wheels), side rails, stretcher locking mechanism, oxygen outlet and tubing, suction device and tubing, door handles (interior and exterior), grab rails, floor, and any surfaces the patient contacted.\n6. Allow contact time — product must remain wet on the surface for the full contact time specified on the label (typically 5–10 minutes). Do not wipe off before contact time is complete.\n7. Wipe surfaces clean after contact time with a fresh cloth or wipe.\n8. Equipment decontamination — any equipment used during the call must be decontaminated per the manufacturer's instructions. Equipment that cannot be decontaminated to manufacturer standards must be treated as single-use and disposed of.\n9. Ventilate the vehicle — leave doors open for at least 30 minutes after decontamination, particularly following patients with suspected airborne transmission.\n10. Doff PPE outside the vehicle and perform thorough hand hygiene.",
+      "content": "Complete decontamination in the following sequence:\n\n1. Remove all removable soft furnishings; blankets, pillow cases, mattress cover, and any cloth items that were in the patient compartment. Place in a sealed, labelled clinical laundry bag for laundering at appropriate temperature (minimum 60°C for 10 minutes).\n2. Remove all disposable waste; bag and seal all single-use items, packaging, and clinical waste in a clinical waste bag.\n3. Apply TGA-approved disinfectant; use a product with TGA registration as a hospital-grade disinfectant or an Organic Chlorine-based product (e.g., 1,000 ppm available chlorine for routine, 10,000 ppm for blood spills). Refer to the product label for the correct concentration and preparation.\n4. Clean in a top-to-bottom, back-to-front sequence. Begin with the ceiling and light fittings, then work down. This prevents re-contamination of already cleaned surfaces.\n5. Priority surfaces; stretcher (all surfaces, undercarriage, and wheels), side rails, stretcher locking mechanism, oxygen outlet and tubing, suction device and tubing, door handles (interior and exterior), grab rails, floor, and any surfaces the patient contacted.\n6. Allow contact time; product must remain wet on the surface for the full contact time specified on the label (typically 5–10 minutes). Do not wipe off before contact time is complete.\n7. Wipe surfaces clean after contact time with a fresh cloth or wipe.\n8. Equipment decontamination; any equipment used during the call must be decontaminated per the manufacturer's instructions. Equipment that cannot be decontaminated to manufacturer standards must be treated as single-use and disposed of.\n9. Ventilate the vehicle; leave doors open for at least 30 minutes after decontamination, particularly following patients with suspected airborne transmission.\n10. Doff PPE outside the vehicle and perform thorough hand hygiene.",
       "sortOrder": 3
     },
     {
       "id": "proc-vehicle-decon-outofservice",
       "type": "considerations",
       "title": "Vehicle Out of Service",
-      "content": "- The vehicle is out of service from the time decontamination begins until it is certified complete\n- The vehicle must not be used for any patient transport during decontamination\n- If the site has a second response vehicle, activate it immediately when the primary vehicle is placed out of service for decontamination\n- If no backup vehicle is available, notify the site HSE manager and medical director immediately so alternative emergency response arrangements can be activated\n- Do not rush decontamination to return the vehicle to service — an inadequate decontamination is worse than a delayed return to service\n- The clinician completing decontamination must certify it as complete before the vehicle is returned to service",
+      "content": "- The vehicle is out of service from the time decontamination begins until it is certified complete\n- The vehicle must not be used for any patient transport during decontamination\n- If the site has a second response vehicle, activate it immediately when the primary vehicle is placed out of service for decontamination\n- If no backup vehicle is available, notify the site HSE manager and medical director immediately so alternative emergency response arrangements can be activated\n- Do not rush decontamination to return the vehicle to service; an inadequate decontamination is worse than a delayed return to service\n- The clinician completing decontamination must certify it as complete before the vehicle is returned to service",
       "sortOrder": 4
     },
     {
@@ -51,12 +62,17 @@
       "id": "proc-vehicle-decon-references",
       "type": "references",
       "title": "Regulatory Basis",
-      "content": "- Therapeutic Goods Act 1989 (Cth) — TGA disinfectant registration requirements\n- Public Health Act 2016 (WA) — notifiable disease requirements\n- Australian Commission on Safety and Quality in Health Care — Preventing and Controlling Infections Standard\n- AS/NZS 4187:2014 — Reprocessing of reusable medical devices in health service organisations\n- Ambulance Services Act 1982 (WA) — vehicle standards for patient transport",
+      "content": "- Therapeutic Goods Act 1989 (Cth): TGA disinfectant registration requirements\n- Public Health Act 2016 (WA): notifiable disease requirements\n- Australian Commission on Safety and Quality in Health Care: Preventing and Controlling Infections Standard\n- AS/NZS 4187:2014: Reprocessing of reusable medical devices in health service organisations\n- Ambulance Services Act 1982 (WA): vehicle standards for patient transport",
       "sortOrder": 6
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-vehicle-inspection", "proc-vehicle-restock", "proc-ppe-donning-doffing", "proc-standard-precautions"],
+  "relatedGuidelineIDs": [
+    "proc-vehicle-inspection",
+    "proc-vehicle-restock",
+    "proc-ppe-donning-doffing",
+    "proc-standard-precautions"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

@@ -2,8 +2,20 @@
   "id": "proc-hospital-handover",
   "title": "Hospital and Retrieval Handover",
   "category": "procedures",
-  "tags": ["handover", "hospital", "ISBAR", "retrieval", "transfer", "communication"],
-  "synonyms": ["Clinical Handover", "Patient Transfer", "ISBAR", "SBAR"],
+  "tags": [
+    "handover",
+    "hospital",
+    "ISBAR",
+    "retrieval",
+    "transfer",
+    "communication"
+  ],
+  "synonyms": [
+    "Clinical Handover",
+    "Patient Transfer",
+    "ISBAR",
+    "SBAR"
+  ],
   "sections": [
     {
       "id": "proc-hospital-handover-overview",
@@ -16,21 +28,21 @@
       "id": "proc-hospital-handover-isbar",
       "type": "management_basic",
       "title": "ISBAR Handover Framework",
-      "content": "Use ISBAR for all clinical handovers — at bedside, by phone, and by radio.\n\nI — Identity\n- Your name and role\n- Patient name, date of birth, and gender\n- Location of patient at the time of handover\n\nS — Situation\n- The primary problem: what is happening with this patient right now?\n- One to two sentences: the most important clinical issue\nExample: \"I have a 45-year-old male with a confirmed anterior STEMI, onset 90 minutes ago, currently pain-free on morphine and aspirin.\"\n\nB — Background\n- Relevant medical history, medications, allergies\n- Mechanism of injury or onset of illness\n- Any relevant social history (e.g., remote location, language barrier, no next of kin on site)\n\nA — Assessment\n- Current vital signs: HR, BP, SpO2, RR, GCS, temperature\n- Your clinical assessment and working diagnosis\n- Response to treatment so far\n- Level of acuity: stable, deteriorating, critical\n\nR — Recommendation\n- What does the patient need next?\n- What are you requesting from the receiving team?\n- Any time-critical actions required: cath lab activation, ICU bed, surgical consult\n- Outstanding results pending (ECG, bloods, imaging)\n- Your contact number for further questions",
+      "content": "Use ISBAR for all clinical handovers; at bedside, by phone, and by radio.\n\nI: Identity\n- Your name and role\n- Patient name, date of birth, and gender\n- Location of patient at the time of handover\n\nS: Situation\n- The primary problem: what is happening with this patient right now?\n- One to two sentences: the most important clinical issue\nExample: \"I have a 45-year-old male with a confirmed anterior STEMI, onset 90 minutes ago, currently pain-free on morphine and aspirin.\"\n\nB: Background\n- Relevant medical history, medications, allergies\n- Mechanism of injury or onset of illness\n- Any relevant social history (e.g., remote location, language barrier, no next of kin on site)\n\nA: Assessment\n- Current vital signs: HR, BP, SpO2, RR, GCS, temperature\n- Your clinical assessment and working diagnosis\n- Response to treatment so far\n- Level of acuity: stable, deteriorating, critical\n\nR: Recommendation\n- What does the patient need next?\n- What are you requesting from the receiving team?\n- Any time-critical actions required: cath lab activation, ICU bed, surgical consult\n- Outstanding results pending (ECG, bloods, imaging)\n- Your contact number for further questions",
       "sortOrder": 1
     },
     {
       "id": "proc-hospital-handover-retrieval",
       "type": "management_basic",
       "title": "Handover to Retrieval Team on Site",
-      "content": "When the retrieval team arrives on site:\n\n1. Give a structured verbal ISBAR handover before physical handover begins — do not transfer care silently.\n2. Continue monitoring and treatment until explicitly told to hand over by the retrieval team lead.\n3. Transfer all documentation: patient record, drug register entry for any S8 drugs administered, any printed ECGs or test results.\n4. State the drug name, dose, route, and time of any medications administered — verbally and in writing.\n5. If the patient has received S8 medications: the quantity administered must be documented in the register before you hand over. Wastage must be witnessed and documented.\n6. Answer all questions from the retrieval team — they are not doubting you, they are completing their picture.\n7. Confirm the patient's destination and the receiving team's contact details for follow-up.\n8. Document the handover time and the name of the retrieval team lead in the patient's clinical record.",
+      "content": "When the retrieval team arrives on site:\n\n1. Give a structured verbal ISBAR handover before physical handover begins; do not transfer care silently.\n2. Continue monitoring and treatment until explicitly told to hand over by the retrieval team lead.\n3. Transfer all documentation: patient record, drug register entry for any S8 drugs administered, any printed ECGs or test results.\n4. State the drug name, dose, route, and time of any medications administered; verbally and in writing.\n5. If the patient has received S8 medications: the quantity administered must be documented in the register before you hand over. Wastage must be witnessed and documented.\n6. Answer all questions from the retrieval team; they are not doubting you, they are completing their picture.\n7. Confirm the patient's destination and the receiving team's contact details for follow-up.\n8. Document the handover time and the name of the retrieval team lead in the patient's clinical record.",
       "sortOrder": 2
     },
     {
       "id": "proc-hospital-handover-phone",
       "type": "management_basic",
       "title": "Phone or Radio Handover to Receiving Hospital",
-      "content": "For phone or radio handover to a hospital prior to patient arrival:\n\n1. Identify yourself and the hospital department you need: \"This is [name], paramedic/nurse at [site name], I need to speak with the emergency department registrar or charge nurse.\"\n2. Ask: \"Are you ready to receive a handover?\" — give them a moment to get to a quiet place with a pen.\n3. Deliver ISBAR as above.\n4. State your estimated time of arrival (ETA) if known, or confirm directly with the retrieval team.\n5. Ask for a read-back of the patient name, DOB, and primary problem to confirm they have the correct information.\n6. Leave your contact number.\n7. Document the handover: time, hospital department, name of person who received the handover, key information provided.",
+      "content": "For phone or radio handover to a hospital prior to patient arrival:\n\n1. Identify yourself and the hospital department you need: \"This is [name], paramedic/nurse at [site name], I need to speak with the emergency department registrar or charge nurse.\"\n2. Ask: \"Are you ready to receive a handover?\": give them a moment to get to a quiet place with a pen.\n3. Deliver ISBAR as above.\n4. State your estimated time of arrival (ETA) if known, or confirm directly with the retrieval team.\n5. Ask for a read-back of the patient name, DOB, and primary problem to confirm they have the correct information.\n6. Leave your contact number.\n7. Document the handover: time, hospital department, name of person who received the handover, key information provided.",
       "sortOrder": 3
     },
     {
@@ -42,7 +54,11 @@
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-emergency-activation", "proc-hlz-setup", "proc-mci"],
+  "relatedGuidelineIDs": [
+    "proc-emergency-activation",
+    "proc-hlz-setup",
+    "proc-mci"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

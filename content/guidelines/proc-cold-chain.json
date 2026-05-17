@@ -2,47 +2,65 @@
   "id": "proc-cold-chain",
   "title": "Cold Chain Management",
   "category": "procedures",
-  "tags": ["cold chain", "refrigeration", "medications", "temperature", "vaccine", "adrenaline"],
-  "synonyms": ["Medication Refrigeration", "Cold Storage", "Temperature Monitoring"],
+  "tags": [
+    "cold chain",
+    "refrigeration",
+    "medications",
+    "temperature",
+    "vaccine",
+    "adrenaline"
+  ],
+  "synonyms": [
+    "Medication Refrigeration",
+    "Cold Storage",
+    "Temperature Monitoring"
+  ],
   "sections": [
     {
       "id": "proc-cold-chain-overview",
       "type": "overview",
       "title": "Purpose & Scope",
-      "content": "Cold chain management ensures that temperature-sensitive medications and biological products are stored, transported, and handled within the manufacturer's specified temperature range throughout their entire lifecycle. Exposure to temperatures outside this range may render medications ineffective or potentially harmful, even if their appearance is unchanged.\n\nThis procedure applies to all temperature-sensitive medications and products held in the mine site clinic refrigerator. In remote FIFO settings, resupply may be infrequent and evacuation to definitive care may be delayed — compromised medications present a significant patient safety risk that must be taken seriously. The clinician on shift is responsible for cold chain integrity.\n\nMedications commonly requiring cold chain management in mine site clinics include: adrenaline (epinephrine) if held refrigerated, vaccines (all types), insulin (all types), glucagon, snake antivenom, specific antibiotics (e.g., some reconstituted IV preparations), and other biologics as specified in their Product Information (PI). Always confirm cold chain requirements against the individual product PI.",
+      "content": "Cold chain management ensures that temperature-sensitive medications and biological products are stored, transported, and handled within the manufacturer's specified temperature range throughout their entire lifecycle. Exposure to temperatures outside this range may render medications ineffective or potentially harmful, even if their appearance is unchanged.\n\nThis procedure applies to all temperature-sensitive medications and products held in the mine site clinic refrigerator. In remote FIFO settings, resupply may be infrequent and evacuation to definitive care may be delayed; compromised medications present a significant patient safety risk that must be taken seriously. The clinician on shift is responsible for cold chain integrity.\n\nMedications commonly requiring cold chain management in mine site clinics include: adrenaline (epinephrine) if held refrigerated, vaccines (all types), insulin (all types), glucagon, snake antivenom, specific antibiotics (e.g., some reconstituted IV preparations), and other biologics as specified in their Product Information (PI). Always confirm cold chain requirements against the individual product PI.",
       "sortOrder": 0
     },
     {
       "id": "proc-cold-chain-requirements",
       "type": "management_basic",
       "title": "Temperature Requirements and Monitoring",
-      "content": "Most refrigerated medications and vaccines require storage between 2°C and 8°C. Never freeze medications unless the product PI specifically requires frozen storage.\n\nTemperature monitoring requirements:\n- Use a calibrated minimum/maximum thermometer or a data logger in the clinical refrigerator\n- Record the minimum and maximum temperature readings twice daily (at the beginning and end of each shift), or at least once daily if operating a single-shift clinic\n- Reset the min/max thermometer after each reading\n- The acceptable range is 2°C to 8°C — any reading outside this range must be managed as a temperature excursion\n- Do not use a domestic refrigerator thermometer — use a purpose-designed pharmaceutical or laboratory-grade thermometer\n- Calibration of the thermometer should occur annually or per manufacturer recommendation, with a calibration certificate retained on file\n- Data loggers provide a continuous record and are strongly recommended for remote clinics where monitoring gaps (e.g., overnight) are more likely",
+      "content": "Most refrigerated medications and vaccines require storage between 2°C and 8°C. Never freeze medications unless the product PI specifically requires frozen storage.\n\nTemperature monitoring requirements:\n- Use a calibrated minimum/maximum thermometer or a data logger in the clinical refrigerator\n- Record the minimum and maximum temperature readings twice daily (at the beginning and end of each shift), or at least once daily if operating a single-shift clinic\n- Reset the min/max thermometer after each reading\n- The acceptable range is 2°C to 8°C; any reading outside this range must be managed as a temperature excursion\n- Do not use a domestic refrigerator thermometer; use a purpose-designed pharmaceutical or laboratory-grade thermometer\n- Calibration of the thermometer should occur annually or per manufacturer recommendation, with a calibration certificate retained on file\n- Data loggers provide a continuous record and are strongly recommended for remote clinics where monitoring gaps (e.g., overnight) are more likely",
       "sortOrder": 1
     },
     {
       "id": "proc-cold-chain-excursion",
       "type": "management_basic",
       "title": "Excursion Management",
-      "content": "A cold chain excursion occurs when the recorded temperature falls outside the 2–8°C range for any period.\n\nImmediate actions on discovering an excursion:\n1. Note the minimum and maximum temperatures recorded and the approximate duration (if determinable from data logger or last recorded normal reading)\n2. Do not use any potentially affected medications until further advice is received\n3. Quarantine all affected medications — place them in a sealed bag labelled 'QUARANTINED — DO NOT USE — COLD CHAIN EXCURSION — [date/time]'\n4. Do not discard the medications immediately — they may be salvageable depending on the nature and duration of the excursion\n5. Contact the medical director and the dispensing pharmacy immediately with the full excursion details: which products, estimated duration, recorded temperatures\n6. Document the excursion in the temperature log with full details\n7. Arrange emergency replacement medications if required for patient safety\n8. If affected medications include vaccines, contact the relevant state immunisation authority (WA Health, Communicable Disease Control Directorate) for advice on whether vaccine viability can be assessed\n\nDo not restart medications from an excursion without formal advice from the medical director or pharmacist.",
+      "content": "A cold chain excursion occurs when the recorded temperature falls outside the 2–8°C range for any period.\n\nImmediate actions on discovering an excursion:\n1. Note the minimum and maximum temperatures recorded and the approximate duration (if determinable from data logger or last recorded normal reading)\n2. Do not use any potentially affected medications until further advice is received\n3. Quarantine all affected medications; place them in a sealed bag labelled 'QUARANTINED: DO NOT USE: COLD CHAIN EXCURSION: [date/time]'\n4. Do not discard the medications immediately; they may be salvageable depending on the nature and duration of the excursion\n5. Contact the medical director and the dispensing pharmacy immediately with the full excursion details: which products, estimated duration, recorded temperatures\n6. Document the excursion in the temperature log with full details\n7. Arrange emergency replacement medications if required for patient safety\n8. If affected medications include vaccines, contact the relevant state immunisation authority (WA Health, Communicable Disease Control Directorate) for advice on whether vaccine viability can be assessed\n\nDo not restart medications from an excursion without formal advice from the medical director or pharmacist.",
       "sortOrder": 2
     },
     {
       "id": "proc-cold-chain-fridge",
       "type": "management_basic",
       "title": "Refrigerator Maintenance",
-      "content": "The clinic must maintain a dedicated medical-grade refrigerator for temperature-sensitive medications and products:\n\n- The medical refrigerator must be used exclusively for clinical products — no food, beverages, or personal items are to be stored in it\n- Position the fridge away from heat sources (direct sunlight, ovens, air conditioning outlets) and ensure adequate ventilation around the unit\n- Do not pack the fridge so tightly that air cannot circulate around the products — leave space between items\n- Do not store medications in the door compartments or in direct contact with the freezer plate (where present) — these areas do not maintain 2–8°C reliably\n- Clean the interior of the fridge monthly with a mild detergent, dry thoroughly before returning medications\n- Ensure the fridge door seal is intact and the door closes fully\n- The fridge must have a reliable power supply — connect to a UPS (uninterruptible power supply) or ensure the site's backup generator powers the clinic fridge circuit\n- If a power outage is anticipated or occurs, keep the fridge door closed to preserve temperature for as long as possible and notify the medical director",
+      "content": "The clinic must maintain a dedicated medical-grade refrigerator for temperature-sensitive medications and products:\n\n- The medical refrigerator must be used exclusively for clinical products; no food, beverages, or personal items are to be stored in it\n- Position the fridge away from heat sources (direct sunlight, ovens, air conditioning outlets) and ensure adequate ventilation around the unit\n- Do not pack the fridge so tightly that air cannot circulate around the products; leave space between items\n- Do not store medications in the door compartments or in direct contact with the freezer plate (where present): these areas do not maintain 2–8°C reliably\n- Clean the interior of the fridge monthly with a mild detergent, dry thoroughly before returning medications\n- Ensure the fridge door seal is intact and the door closes fully\n- The fridge must have a reliable power supply; connect to a UPS (uninterruptible power supply) or ensure the site's backup generator powers the clinic fridge circuit\n- If a power outage is anticipated or occurs, keep the fridge door closed to preserve temperature for as long as possible and notify the medical director",
       "sortOrder": 3
     },
     {
       "id": "proc-cold-chain-documentation",
       "type": "additional_notes",
       "title": "Documentation",
-      "content": "Maintain the following records:\n\n- Temperature log: date, time, minimum and maximum temperature, recorded by (name), signature, corrective action taken if out of range. Retain logs for a minimum of 2 years or per regulatory requirements.\n- Excursion records: full details of every excursion, including pharmacist/medical director advice received, actions taken, medications quarantined or discarded, replacement arrangements\n- Fridge maintenance log: monthly cleaning, inspection of door seal, thermometer calibration date\n- Medication receipt records: confirm cold chain integrity at point of receipt — record condition of packaging, temperature of delivery container where applicable\n- Vaccine records must comply with the WA Immunisation Program requirements, including cold chain documentation",
+      "content": "Maintain the following records:\n\n- Temperature log: date, time, minimum and maximum temperature, recorded by (name), signature, corrective action taken if out of range. Retain logs for a minimum of 2 years or per regulatory requirements.\n- Excursion records: full details of every excursion, including pharmacist/medical director advice received, actions taken, medications quarantined or discarded, replacement arrangements\n- Fridge maintenance log: monthly cleaning, inspection of door seal, thermometer calibration date\n- Medication receipt records: confirm cold chain integrity at point of receipt; record condition of packaging, temperature of delivery container where applicable\n- Vaccine records must comply with the WA Immunisation Program requirements, including cold chain documentation",
       "sortOrder": 4
     }
   ],
-  "relatedMedicationIDs": ["adrenaline", "glucagon", "insulin"],
-  "relatedGuidelineIDs": ["proc-drug-storage", "proc-clinic-opening-closing"],
+  "relatedMedicationIDs": [
+    "adrenaline",
+    "glucagon",
+    "insulin"
+  ],
+  "relatedGuidelineIDs": [
+    "proc-drug-storage",
+    "proc-clinic-opening-closing"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

@@ -2,8 +2,19 @@
   "id": "proc-clinical-waste",
   "title": "Clinical and Infectious Waste Management",
   "category": "procedures",
-  "tags": ["clinical waste", "infectious waste", "biohazard", "disposal", "segregation", "yellow bag"],
-  "synonyms": ["Biohazardous Waste", "Medical Waste", "Infectious Waste"],
+  "tags": [
+    "clinical waste",
+    "infectious waste",
+    "biohazard",
+    "disposal",
+    "segregation",
+    "yellow bag"
+  ],
+  "synonyms": [
+    "Biohazardous Waste",
+    "Medical Waste",
+    "Infectious Waste"
+  ],
   "sections": [
     {
       "id": "proc-clinical-waste-overview",
@@ -16,28 +27,28 @@
       "id": "proc-clinical-waste-classification",
       "type": "management_basic",
       "title": "Waste Classification and Segregation",
-      "content": "Waste must be segregated at the point of generation into the correct stream. Never mix waste streams.\n\nClinical and infectious waste (yellow biohazard bag):\n- Blood, body fluid-soaked dressings, swabs, and bandages\n- Used PPE contaminated with blood or body fluids\n- Pathological waste\n- Microbiological cultures or specimens\n- All waste from a patient with a confirmed transmissible infection\n\nSharps waste (rigid yellow sharps container — AS/NZS 4031):\n- All used needles, syringes, lancets, cannulae, blades\n- Never place sharps in yellow biohazard bags — this is a critical safety rule\n\nPharmaceutical waste (separate labelled container):\n- Expired, damaged, or unwanted medications\n- Cytotoxic drugs require separate purple-lidded containers\n- Never dispose of medications in general or clinical waste streams\n\nGeneral waste (black bag):\n- Non-contaminated packaging, paper, gloves without blood or body fluid contamination, empty IV bags without blood\n\nIf in doubt about the correct stream, treat the waste as clinical waste (yellow bag) — it is safer to over-classify than under-classify.",
+      "content": "Waste must be segregated at the point of generation into the correct stream. Never mix waste streams.\n\nClinical and infectious waste (yellow biohazard bag):\n- Blood, body fluid-soaked dressings, swabs, and bandages\n- Used PPE contaminated with blood or body fluids\n- Pathological waste\n- Microbiological cultures or specimens\n- All waste from a patient with a confirmed transmissible infection\n\nSharps waste (rigid yellow sharps container: AS/NZS 4031):\n- All used needles, syringes, lancets, cannulae, blades\n- Never place sharps in yellow biohazard bags; this is a critical safety rule\n\nPharmaceutical waste (separate labelled container):\n- Expired, damaged, or unwanted medications\n- Cytotoxic drugs require separate purple-lidded containers\n- Never dispose of medications in general or clinical waste streams\n\nGeneral waste (black bag):\n- Non-contaminated packaging, paper, gloves without blood or body fluid contamination, empty IV bags without blood\n\nIf in doubt about the correct stream, treat the waste as clinical waste (yellow bag): it is safer to over-classify than under-classify.",
       "sortOrder": 1
     },
     {
       "id": "proc-clinical-waste-storage",
       "type": "management_basic",
       "title": "Storage Requirements",
-      "content": "Clinical waste must be stored safely while awaiting collection:\n\n- Store in a designated, secure clinical waste storage area — clearly labelled with biohazard signage and inaccessible to unauthorised personnel\n- Keep separate from general waste storage areas and away from food preparation, eating, or drinking areas\n- Yellow biohazard bags must be sealed and labelled with the site name and date before storage\n- Maintain a cool, covered area to minimise decomposition and odour — clinical waste should not be stored in direct sunlight or extreme heat\n- Maximum storage periods before collection: generally not more than 30 days at room temperature; check with your approved waste contractor for specific requirements applicable to your site\n- Containers must be intact, not overfilled, and protected from vermin, birds, or weather damage\n- Maintain a waste storage register listing bag/container sealing date and volume",
+      "content": "Clinical waste must be stored safely while awaiting collection:\n\n- Store in a designated, secure clinical waste storage area; clearly labelled with biohazard signage and inaccessible to unauthorised personnel\n- Keep separate from general waste storage areas and away from food preparation, eating, or drinking areas\n- Yellow biohazard bags must be sealed and labelled with the site name and date before storage\n- Maintain a cool, covered area to minimise decomposition and odour; clinical waste should not be stored in direct sunlight or extreme heat\n- Maximum storage periods before collection: generally not more than 30 days at room temperature; check with your approved waste contractor for specific requirements applicable to your site\n- Containers must be intact, not overfilled, and protected from vermin, birds, or weather damage\n- Maintain a waste storage register listing bag/container sealing date and volume",
       "sortOrder": 2
     },
     {
       "id": "proc-clinical-waste-disposal",
       "type": "management_basic",
       "title": "Disposal",
-      "content": "Disposal of clinical waste must be through an approved clinical waste contractor licensed under Western Australian environmental legislation.\n\n- Obtain a quote and service agreement from an approved contractor before commencing clinical operations at a new site\n- A waste transport certificate or consignment note (manifest) must accompany each collection — retain copies for a minimum of 3 years\n- Never place clinical waste in site general waste skips, tip trucks, or arrange for informal disposal\n- Never transport clinical waste in a personal vehicle\n- If waste contractor access is disrupted (e.g., due to road closures or site access issues), notify the medical director and site HSE manager immediately and arrange secure interim storage\n- Pharmaceutical waste must be disposed of through a Pharmaceutical Return program or approved pharmaceutical waste contractor — not clinical waste contractors unless specifically licensed for pharmaceutical waste",
+      "content": "Disposal of clinical waste must be through an approved clinical waste contractor licensed under Western Australian environmental legislation.\n\n- Obtain a quote and service agreement from an approved contractor before commencing clinical operations at a new site\n- A waste transport certificate or consignment note (manifest) must accompany each collection; retain copies for a minimum of 3 years\n- Never place clinical waste in site general waste skips, tip trucks, or arrange for informal disposal\n- Never transport clinical waste in a personal vehicle\n- If waste contractor access is disrupted (e.g., due to road closures or site access issues), notify the medical director and site HSE manager immediately and arrange secure interim storage\n- Pharmaceutical waste must be disposed of through a Pharmaceutical Return program or approved pharmaceutical waste contractor; not clinical waste contractors unless specifically licensed for pharmaceutical waste",
       "sortOrder": 3
     },
     {
       "id": "proc-clinical-waste-keypoints",
       "type": "considerations",
       "title": "Key Points",
-      "content": "- Never place sharps inside yellow biohazard bags — this is a critical rule that protects waste handlers from needlestick injury\n- Health (Miscellaneous Provisions) Act 1911 (WA) and associated regulations mandate compliant clinical waste management — non-compliance can result in significant penalties\n- Waste segregation is the responsibility of the person generating the waste — do not leave it for cleaning or ancillary staff to sort\n- In remote locations, waste contractor visits may be infrequent — plan storage capacity accordingly and maintain a buffer\n- Staff must not enter the clinical waste storage area without appropriate PPE\n- Report any accidental contact with clinical waste, waste bin spills, or bag failures via the incident reporting system",
+      "content": "- Never place sharps inside yellow biohazard bags; this is a critical rule that protects waste handlers from needlestick injury\n- Health (Miscellaneous Provisions) Act 1911 (WA) and associated regulations mandate compliant clinical waste management; non-compliance can result in significant penalties\n- Waste segregation is the responsibility of the person generating the waste; do not leave it for cleaning or ancillary staff to sort\n- In remote locations, waste contractor visits may be infrequent; plan storage capacity accordingly and maintain a buffer\n- Staff must not enter the clinical waste storage area without appropriate PPE\n- Report any accidental contact with clinical waste, waste bin spills, or bag failures via the incident reporting system",
       "sortOrder": 4
     },
     {
@@ -49,7 +60,11 @@
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-sharps-safety", "proc-standard-precautions", "proc-blood-spill"],
+  "relatedGuidelineIDs": [
+    "proc-sharps-safety",
+    "proc-standard-precautions",
+    "proc-blood-spill"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,

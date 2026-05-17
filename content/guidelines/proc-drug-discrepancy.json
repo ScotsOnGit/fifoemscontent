@@ -2,35 +2,46 @@
   "id": "proc-drug-discrepancy",
   "title": "Controlled Drug Discrepancy Management",
   "category": "procedures",
-  "tags": ["drug discrepancy", "S8", "controlled drug", "missing", "error", "incident"],
-  "synonyms": ["Drug Missing", "Medication Error", "Drug Register Discrepancy"],
+  "tags": [
+    "drug discrepancy",
+    "S8",
+    "controlled drug",
+    "missing",
+    "error",
+    "incident"
+  ],
+  "synonyms": [
+    "Drug Missing",
+    "Medication Error",
+    "Drug Register Discrepancy"
+  ],
   "sections": [
     {
       "id": "proc-drug-discrepancy-overview",
       "type": "overview",
       "title": "Purpose & Scope",
-      "content": "A controlled drug discrepancy occurs when the physical count of Schedule 8 (S8) drugs does not match the running balance recorded in the drug register. Discrepancies may result from documentation errors, calculation mistakes, unrecorded wastage, diversion, or theft. All discrepancies must be treated seriously and investigated promptly — the cause cannot be assumed without investigation.\n\nThis procedure applies to all clinical staff working at FIFO mine site clinics. Because mine site clinicians frequently work as sole practitioners, the temptation to resolve discrepancies informally must be resisted — the correct process must be followed regardless of the apparent cause. The legal obligations under the Medicines and Poisons Act 2014 (WA) apply fully.",
+      "content": "A controlled drug discrepancy occurs when the physical count of Schedule 8 (S8) drugs does not match the running balance recorded in the drug register. Discrepancies may result from documentation errors, calculation mistakes, unrecorded wastage, diversion, or theft. All discrepancies must be treated seriously and investigated promptly; the cause cannot be assumed without investigation.\n\nThis procedure applies to all clinical staff working at FIFO mine site clinics. Because mine site clinicians frequently work as sole practitioners, the temptation to resolve discrepancies informally must be resisted; the correct process must be followed regardless of the apparent cause. The legal obligations under the Medicines and Poisons Act 2014 (WA) apply fully.",
       "sortOrder": 0
     },
     {
       "id": "proc-drug-discrepancy-immediate",
       "type": "management_basic",
       "title": "Immediate Actions",
-      "content": "On discovering a discrepancy during a drug count:\n\n1. Stop the count. Do not proceed with the shift handover until the discrepancy is investigated.\n2. Immediately obtain a second witness (the other clinician if a handover is in progress, or any available competent person on site). The recount must not be conducted alone.\n3. Recount all S8 drugs in the safe — do this carefully and more than once if needed.\n4. Cross-check every entry in the drug register covering the period since the last confirmed balanced count:\n   - Check arithmetic in the running balance column\n   - Check for entries that are unsigned, incomplete, or appear inconsistent\n   - Check for any administration entries not backed by a corresponding patient record\n   - Check for unrecorded wastage — was any drug drawn up but not fully administered?\n5. Check for any drugs that may have been removed from the safe for emergency use and not yet recorded.\n6. If the discrepancy is found to be a documentation error: correct the register entry (single line, initialled), recount to confirm balance, document the correction in full, and proceed with handover.\n7. If the discrepancy remains unresolved after approximately 30 minutes of thorough investigation: do NOT continue normal clinic activities. Escalate immediately.",
+      "content": "On discovering a discrepancy during a drug count:\n\n1. Stop the count. Do not proceed with the shift handover until the discrepancy is investigated.\n2. Immediately obtain a second witness (the other clinician if a handover is in progress, or any available competent person on site). The recount must not be conducted alone.\n3. Recount all S8 drugs in the safe; do this carefully and more than once if needed.\n4. Cross-check every entry in the drug register covering the period since the last confirmed balanced count:\n   - Check arithmetic in the running balance column\n   - Check for entries that are unsigned, incomplete, or appear inconsistent\n   - Check for any administration entries not backed by a corresponding patient record\n   - Check for unrecorded wastage; was any drug drawn up but not fully administered?\n5. Check for any drugs that may have been removed from the safe for emergency use and not yet recorded.\n6. If the discrepancy is found to be a documentation error: correct the register entry (single line, initialled), recount to confirm balance, document the correction in full, and proceed with handover.\n7. If the discrepancy remains unresolved after approximately 30 minutes of thorough investigation: do NOT continue normal clinic activities. Escalate immediately.",
       "sortOrder": 1
     },
     {
       "id": "proc-drug-discrepancy-escalation",
       "type": "management_basic",
       "title": "Escalation",
-      "content": "If the discrepancy cannot be resolved within 30 minutes:\n\n1. Notify the site HSE manager immediately — in person or by phone. Do not wait until the end of shift.\n2. Notify the medical director immediately — this is a mandatory notification. If the medical director is not contactable, escalate to the clinical governance lead or designated after-hours contact.\n3. Do not administer any further S8 drugs until the discrepancy is resolved or explicit authorisation is given by the medical director to continue (e.g., in a life-threatening emergency where S8 drug use is essential).\n4. Preserve the drug register exactly as it is — do not add, alter, or remove entries pending investigation. The register may be required as evidence.\n5. Preserve the physical drug safe and its contents — do not add new stock or remove items until directed.\n6. The incoming clinician must remain on site and assist with the investigation — the outgoing clinician must also remain until the medical director authorises their departure.\n7. Cooperate fully with any investigation — provide written accounts of all actions taken during the shift as requested.",
+      "content": "If the discrepancy cannot be resolved within 30 minutes:\n\n1. Notify the site HSE manager immediately; in person or by phone. Do not wait until the end of shift.\n2. Notify the medical director immediately; this is a mandatory notification. If the medical director is not contactable, escalate to the clinical governance lead or designated after-hours contact.\n3. Do not administer any further S8 drugs until the discrepancy is resolved or explicit authorisation is given by the medical director to continue (e.g., in a life-threatening emergency where S8 drug use is essential).\n4. Preserve the drug register exactly as it is; do not add, alter, or remove entries pending investigation. The register may be required as evidence.\n5. Preserve the physical drug safe and its contents; do not add new stock or remove items until directed.\n6. The incoming clinician must remain on site and assist with the investigation; the outgoing clinician must also remain until the medical director authorises their departure.\n7. Cooperate fully with any investigation; provide written accounts of all actions taken during the shift as requested.",
       "sortOrder": 2
     },
     {
       "id": "proc-drug-discrepancy-reporting",
       "type": "management_basic",
       "title": "Reporting Obligations",
-      "content": "Reporting requirements depend on the nature and outcome of the discrepancy investigation:\n\nInternal incident report:\n- Mandatory for all S8 discrepancies, regardless of cause or outcome\n- Complete within 24 hours of discovery\n\nMedical Director notification:\n- Mandatory at time of discovery if unresolved after 30 minutes (see Escalation above)\n\nWA Medicines and Poisons Regulation Branch:\n- A discrepancy that cannot be explained by documentation error and that suggests diversion or theft must be reported to the WA Medicines and Poisons Regulation Branch\n- The medical director will advise on whether and how this notification is made\n\nWA Police:\n- If theft or diversion of controlled drugs is suspected, this must be reported to WA Police\n- Do not make this report independently — coordinate with the medical director, site management, and legal counsel\n- Preserve all potential evidence: drug register, clinic CCTV footage (if present), access logs, and shift schedules\n\nEmployer notification:\n- Notify the mine site medical services management chain as directed by site-specific governance arrangements",
+      "content": "Reporting requirements depend on the nature and outcome of the discrepancy investigation:\n\nInternal incident report:\n- Mandatory for all S8 discrepancies, regardless of cause or outcome\n- Complete within 24 hours of discovery\n\nMedical Director notification:\n- Mandatory at time of discovery if unresolved after 30 minutes (see Escalation above)\n\nWA Medicines and Poisons Regulation Branch:\n- A discrepancy that cannot be explained by documentation error and that suggests diversion or theft must be reported to the WA Medicines and Poisons Regulation Branch\n- The medical director will advise on whether and how this notification is made\n\nWA Police:\n- If theft or diversion of controlled drugs is suspected, this must be reported to WA Police\n- Do not make this report independently; coordinate with the medical director, site management, and legal counsel\n- Preserve all potential evidence: drug register, clinic CCTV footage (if present), access logs, and shift schedules\n\nEmployer notification:\n- Notify the mine site medical services management chain as directed by site-specific governance arrangements",
       "sortOrder": 3
     },
     {
@@ -42,7 +53,11 @@
     }
   ],
   "relatedMedicationIDs": [],
-  "relatedGuidelineIDs": ["proc-drug-storage", "proc-shift-handover", "proc-clinic-opening-closing"],
+  "relatedGuidelineIDs": [
+    "proc-drug-storage",
+    "proc-shift-handover",
+    "proc-clinic-opening-closing"
+  ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
   "version": 1,
