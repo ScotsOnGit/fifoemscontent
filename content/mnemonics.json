@@ -1247,7 +1247,7 @@
       {
         "letter": "H",
         "term": "Head Impulse Test (HIT)",
-        "detail": "PERIPHERAL finding (reassuring): corrective saccade seen after rapid head thrust — indicates intact VOR with peripheral lesion. CENTRAL finding (concerning): normal HIT with no corrective saccade — in the context of AVS, this suggests central pathology. Paradox: a normal head impulse test is the dangerous result."
+        "detail": "PERIPHERAL finding (reassuring): corrective saccade seen after rapid head thrust – indicates intact VOR with peripheral lesion. CENTRAL finding (concerning): normal HIT with no corrective saccade – in the context of AVS, this suggests central pathology. Paradox: a normal head impulse test is the dangerous result."
       },
       {
         "letter": "IN",
@@ -1257,7 +1257,7 @@
       {
         "letter": "TS",
         "term": "Test of Skew",
-        "detail": "Cover-uncover test: alternately cover each eye and observe for vertical corrective movement (skew deviation). PERIPHERAL: no skew deviation. CENTRAL: vertical skew deviation present — suggests brainstem pathology. Any vertical realignment movement = central feature."
+        "detail": "Cover-uncover test: alternately cover each eye and observe for vertical corrective movement (skew deviation). PERIPHERAL: no skew deviation. CENTRAL: vertical skew deviation present – suggests brainstem pathology. Any vertical realignment movement = central feature."
       }
     ],
     "tags": [
@@ -1294,7 +1294,7 @@
       {
         "letter": "3",
         "term": "Lower rapidly to supine with head extended",
-        "detail": "With head still rotated 45°, quickly lower the patient to supine with the head extended approximately 20–30° below the horizontal (hanging off the end of the bed). Move swiftly — the speed of repositioning is important."
+        "detail": "With head still rotated 45°, quickly lower the patient to supine with the head extended approximately 20–30° below the horizontal (hanging off the end of the bed). Move swiftly – the speed of repositioning is important."
       },
       {
         "letter": "4",
@@ -1329,7 +1329,7 @@
       {
         "letter": "1",
         "term": "Start: Dix-Hallpike position (affected side down)",
-        "detail": "Begin in the Dix-Hallpike position for the affected ear — supine with head rotated 45° toward the affected side and extended 20–30° below horizontal. Hold until nystagmus resolves, or 30 seconds."
+        "detail": "Begin in the Dix-Hallpike position for the affected ear – supine with head rotated 45° toward the affected side and extended 20–30° below horizontal. Hold until nystagmus resolves, or 30 seconds."
       },
       {
         "letter": "2",
@@ -1339,7 +1339,7 @@
       {
         "letter": "3",
         "term": "Roll body and head a further 90° (face down)",
-        "detail": "The patient rolls their body in the same direction so they end up lying on their side (then nearly face-down), with the head also rolling — now facing downward at approximately 45° toward the floor. The unaffected ear remains down. Hold 30 seconds."
+        "detail": "The patient rolls their body in the same direction so they end up lying on their side (then nearly face-down), with the head also rolling – now facing downward at approximately 45° toward the floor. The unaffected ear remains down. Hold 30 seconds."
       },
       {
         "letter": "4",
@@ -1362,6 +1362,185 @@
       "posterior canal",
       "nystagmus"
     ],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "ohca",
+    "acronym": "OHCA",
+    "fullForm": "Out of Hospital Cardiac Arrest",
+    "description": "Cardiac arrest occurring outside a hospital setting. Outcomes depend on bystander CPR, time to defibrillation, and rapid EMS response. Relevant to all remote site clinicians.",
+    "category": "resuscitation",
+    "letters": [
+      { "letter": "O", "term": "Out of Hospital", "detail": "Occurs in the community – home, workplace, or remote site. Survival is strongly linked to bystander CPR and early defibrillation." },
+      { "letter": "C", "term": "Cardiac", "detail": "Primary cardiac cause (VF/VT, PEA, asystole) vs secondary to respiratory arrest, trauma, or toxicology. Identify and treat reversible causes (Hs and Ts)." },
+      { "letter": "A", "term": "Arrest", "detail": "Absence of spontaneous circulation. Confirm with absence of central pulse and apnoea. Initiate DRSABCD immediately." }
+    ],
+    "tags": ["cardiac arrest", "resuscitation", "cpr", "defibrillation", "bystander", "ohca", "out of hospital"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "rsi",
+    "acronym": "RSI",
+    "fullForm": "Rapid Sequence Induction (Intubation)",
+    "description": "A technique for emergency endotracheal intubation that minimises aspiration risk by simultaneously administering an induction agent and neuromuscular blocking agent, then immediately intubating.",
+    "category": "airway",
+    "letters": [
+      { "letter": "R", "term": "Rapid", "detail": "Induction and paralysis occur simultaneously, eliminating the lag of standard induction to reduce aspiration risk during intubation." },
+      { "letter": "S", "term": "Sequence", "detail": "Preparation, preoxygenation, pretreatment, paralysis plus induction, positioning, placement (ETT), post-intubation management." },
+      { "letter": "I", "term": "Induction", "detail": "Induction agent (e.g. ketamine, thiopentone) plus neuromuscular blocker (e.g. suxamethonium, rocuronium) given simultaneously. Confirm placement with waveform capnography." }
+    ],
+    "tags": ["airway", "intubation", "rsi", "rapid sequence", "ketamine", "suxamethonium", "rocuronium", "difficult airway", "lemon"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "map",
+    "acronym": "MAP",
+    "fullForm": "Mean Arterial Pressure",
+    "description": "The average arterial pressure throughout one cardiac cycle. A better indicator of organ perfusion than systolic BP alone. Target MAP greater than 65 mmHg in sepsis; greater than 80 mmHg in TBI.",
+    "category": "abbreviation",
+    "letters": [
+      { "letter": "M", "term": "Mean", "detail": "Average pressure across the entire cardiac cycle, weighted toward diastole as it is longer than systole." },
+      { "letter": "A", "term": "Arterial", "detail": "Reflects perfusion pressure to vital organs. Cerebral perfusion pressure (CPP) = MAP minus ICP. Target CPP greater than 60 mmHg in TBI." },
+      { "letter": "P", "term": "Pressure", "detail": "Formula: MAP = DBP + 1/3 x (SBP minus DBP). Approximate: MAP = (SBP + 2 x DBP) / 3. Target greater than 65 mmHg in septic shock." }
+    ],
+    "tags": ["blood pressure", "perfusion", "map", "sepsis", "tbi", "shock", "haemodynamics"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "dka_hhs",
+    "acronym": "DKA / HHS",
+    "fullForm": "Diabetic Ketoacidosis / Hyperosmolar Hyperglycaemic State",
+    "description": "Two life-threatening hyperglycaemic emergencies. DKA features ketoacidosis, typically in Type 1 DM. HHS presents with extreme hyperglycaemia and hyperosmolality without significant ketosis, typically in Type 2 DM.",
+    "category": "medical",
+    "letters": [
+      { "letter": "DKA", "term": "Diabetic Ketoacidosis", "detail": "Triad: hyperglycaemia (greater than 11 mmol/L), ketonaemia, and metabolic acidosis (pH less than 7.3, HCO3 less than 15). Kussmaul breathing, fruity breath, dehydration. Treatment: IV fluids, insulin infusion, electrolyte replacement." },
+      { "letter": "HHS", "term": "Hyperosmolar Hyperglycaemic State", "detail": "Extreme hyperglycaemia (often greater than 30 mmol/L), hyperosmolality (greater than 320 mOsm/kg), profound dehydration without significant ketosis. Higher mortality than DKA. Treatment: cautious IV fluid replacement, low-dose insulin." }
+    ],
+    "tags": ["diabetes", "hyperglycaemia", "dka", "ketoacidosis", "hhs", "hyperosmolar", "insulin", "bgl"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "cpap_bipap",
+    "acronym": "CPAP / BiPAP",
+    "fullForm": "Continuous Positive Airway Pressure / Bilevel Positive Airway Pressure",
+    "description": "Non-invasive ventilation (NIV) modalities used for respiratory failure. CPAP delivers a single constant pressure; BiPAP delivers separate inspiratory and expiratory pressures to assist ventilation.",
+    "category": "airway",
+    "letters": [
+      { "letter": "CPAP", "term": "Continuous Positive Airway Pressure", "detail": "Delivers a single constant pressure throughout the respiratory cycle. Improves oxygenation by recruiting collapsed alveoli. Used in pulmonary oedema, OSA, and hypoxaemic respiratory failure. Typical setting: 5 to 10 cmH2O." },
+      { "letter": "BiPAP", "term": "Bilevel Positive Airway Pressure", "detail": "Separate IPAP (e.g. 12 to 20 cmH2O) and EPAP (e.g. 4 to 8 cmH2O). Assists ventilation as well as oxygenation. Preferred in hypercapnic respiratory failure such as COPD exacerbation. Also called NIV or NIPPV." }
+    ],
+    "tags": ["respiratory", "ventilation", "niv", "cpap", "bipap", "pulmonary oedema", "copd", "respiratory failure", "non-invasive"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "icd_aicd",
+    "acronym": "ICD / AICD",
+    "fullForm": "Implantable Cardioverter Defibrillator / Automated Implantable Cardioverter Defibrillator",
+    "description": "An implanted device that monitors cardiac rhythm and delivers shocks to terminate life-threatening arrhythmias. Relevant pre-hospital: do not place AED pads directly over the device. External defibrillation can still be performed.",
+    "category": "cardiac",
+    "letters": [
+      { "letter": "ICD", "term": "Implantable Cardioverter Defibrillator", "detail": "Implanted under the skin, usually in the left pectoral region. Detects VF/VT and delivers internal shocks. Clinicians can receive a shock if touching the patient during ICD discharge." },
+      { "letter": "AICD", "term": "Automated ICD", "detail": "Equivalent to ICD in modern usage. For external defibrillation, place pads at least 8 cm from the device. Consider magnet application to inhibit ICD if it continues to shock and prevents ROSC, per local protocol." }
+    ],
+    "tags": ["cardiac", "arrhythmia", "pacemaker", "defibrillation", "icd", "aicd", "vf", "vt", "device"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "hb_hct",
+    "acronym": "Hb / Hct",
+    "fullForm": "Haemoglobin / Haematocrit",
+    "description": "Key red blood cell parameters from FBC or point-of-care blood gas. Critical for assessing anaemia, haemorrhage severity, and oxygen-carrying capacity.",
+    "category": "abbreviation",
+    "letters": [
+      { "letter": "Hb", "term": "Haemoglobin", "detail": "The oxygen-carrying protein in red blood cells. Normal: male 130 to 175 g/L; female 120 to 155 g/L. Transfusion trigger typically Hb less than 70 to 80 g/L; higher threshold (less than 100 g/L) in ACS or TBI." },
+      { "letter": "Hct", "term": "Haematocrit", "detail": "The proportion of blood volume occupied by red blood cells. Normal: male 40 to 52%; female 36 to 48%. Approximate: Hct = Hb (g/dL) x 3. Elevated in dehydration; reduced in anaemia or haemorrhage." }
+    ],
+    "tags": ["haemoglobin", "haematocrit", "anaemia", "blood", "fbc", "transfusion", "haemorrhage", "hb"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "abd",
+    "acronym": "ABD",
+    "fullForm": "Acute Behavioural Disturbance",
+    "description": "Behaviour that exposes the patient or others to immediate risk of serious harm, including threatening, aggressive, or violent behaviour, extreme distress, or self-harm. Requires rapid assessment, de-escalation, and consideration of underlying medical causes.",
+    "category": "mental_health",
+    "letters": [
+      { "letter": "A", "term": "Acute", "detail": "Sudden onset or rapidly escalating behaviour. Always consider an underlying medical or toxicological cause before attributing to a psychiatric condition. Check BGL, temperature, ETOH." },
+      { "letter": "B", "term": "Behavioural", "detail": "Manifest as aggression, agitation, psychomotor disturbance, or self-harm. De-escalation is first-line. Ensure scene safety and call for backup early." },
+      { "letter": "D", "term": "Disturbance", "detail": "Assessment: ABCDE, BGL, temperature, vital signs. Consider AEIOU-TIPS for reversible causes. Pharmacological sedation per local protocol if required for safety of patient and staff." }
+    ],
+    "tags": ["mental health", "behavioural", "agitation", "restraint", "sedation", "aggression", "aeiou-tips", "psychiatric", "abd"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "role",
+    "acronym": "ROLE",
+    "fullForm": "Recognition of Life Extinct",
+    "description": "The clinical and medico-legal determination that a patient is deceased and resuscitation should not be commenced or continued. Particularly relevant for remote and FIFO clinicians who are often the sole practitioner.",
+    "category": "resuscitation",
+    "letters": [
+      { "letter": "R", "term": "Recognition", "detail": "Clinical identification of death using accepted criteria. Must be clearly documented with time of recognition, clinical findings, and whether any advance directive was reviewed." },
+      { "letter": "O", "term": "Of", "detail": "" },
+      { "letter": "L", "term": "Life", "detail": "Obvious signs of death: rigor mortis, dependent lividity, decapitation, or hemicorporectomy. Or: confirmed asystole on ECG with no reversible cause and prolonged downtime." },
+      { "letter": "E", "term": "Extinct", "detail": "Once recognised, do not commence resuscitation. Preserve the scene, document thoroughly, notify medical direction and relevant authorities per local protocol." }
+    ],
+    "tags": ["death", "deceased", "resuscitation", "cessation", "advance directive", "medico-legal", "role", "doa"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "txa",
+    "acronym": "TXA",
+    "fullForm": "Tranexamic Acid",
+    "description": "An antifibrinolytic agent that inhibits plasminogen activation, reducing clot breakdown. Recommended in traumatic haemorrhage within 3 hours of injury (CRASH-2 trial). A key component of damage control resuscitation.",
+    "category": "trauma",
+    "letters": [
+      { "letter": "T", "term": "Tranexamic", "detail": "A synthetic lysine analogue that competitively inhibits plasminogen activators and plasmin, preventing breakdown of the fibrin clot." },
+      { "letter": "X", "term": "Anti-fibrinolytic action", "detail": "Most effective when given within 1 hour of injury; significant benefit up to 3 hours. Evidence suggests harm if given more than 3 hours post-injury. Also used in post-partum haemorrhage (PPH)." },
+      { "letter": "A", "term": "Acid", "detail": "Dose: 1 g IV over 10 minutes, followed by 1 g IV over 8 hours (per local protocol). Indications: significant traumatic haemorrhage, PPH. Relative contraindication: active thromboembolic disease." }
+    ],
+    "tags": ["trauma", "haemorrhage", "antifibrinolytic", "txa", "tranexamic acid", "crash-2", "damage control", "resuscitation", "pph"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "ssri_snri_tca",
+    "acronym": "SSRI / SNRI / TCA",
+    "fullForm": "Selective Serotonin Re-uptake Inhibitor / Serotonin-Noradrenaline Re-uptake Inhibitor / Tricyclic Antidepressant",
+    "description": "The three major classes of antidepressants encountered in patient medication histories. Each has a distinct overdose toxidrome: SSRIs cause serotonin syndrome; TCAs cause cardiac and CNS toxicity; SNRIs share features of both.",
+    "category": "toxicology",
+    "letters": [
+      { "letter": "SSRI", "term": "Selective Serotonin Re-uptake Inhibitor", "detail": "Examples: fluoxetine, sertraline, citalopram, escitalopram. Overdose: serotonin syndrome (agitation, hyperthermia, clonus, diaphoresis, tachycardia). Treatment: cyproheptadine, benzodiazepines, active cooling." },
+      { "letter": "SNRI", "term": "Serotonin-Noradrenaline Re-uptake Inhibitor", "detail": "Examples: venlafaxine, duloxetine, desvenlafaxine. Overdose features serotonin syndrome plus sympathomimetic effects. Venlafaxine can cause QTc prolongation and seizures." },
+      { "letter": "TCA", "term": "Tricyclic Antidepressant", "detail": "Examples: amitriptyline, nortriptyline, clomipramine. Overdose causes sodium channel blockade (broad QRS, VT), anticholinergic syndrome, and seizures. Treatment: sodium bicarbonate for QRS greater than 120 ms." }
+    ],
+    "tags": ["antidepressants", "ssri", "snri", "tca", "toxicology", "overdose", "serotonin syndrome", "medications", "psychiatric"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "inr",
+    "acronym": "INR",
+    "fullForm": "International Normalised Ratio",
+    "description": "A standardised measure of the extrinsic coagulation pathway. Used to monitor warfarin therapy and assess coagulopathy. Critical in trauma, bleeding emergencies, and anticoagulant reversal decisions.",
+    "category": "abbreviation",
+    "letters": [
+      { "letter": "I", "term": "International", "detail": "Standardised across laboratories worldwide, unlike raw prothrombin time which varies by reagent used." },
+      { "letter": "N", "term": "Normalised", "detail": "Ratio of patient PT to a standardised normal PT. Normal INR: 0.8 to 1.2. Therapeutic anticoagulation with warfarin: 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves)." },
+      { "letter": "R", "term": "Ratio", "detail": "Elevated INR means prolonged clotting. INR greater than 1.5: consider haemorrhage risk before invasive procedures. INR greater than 4: increased bleeding risk; consider reversal with vitamin K, FFP, or PCC." }
+    ],
+    "tags": ["coagulation", "warfarin", "anticoagulant", "bleeding", "inr", "prothrombin", "haemorrhage", "reversal"],
+    "relatedCalculatorIDs": []
+  },
+  {
+    "id": "ppe",
+    "acronym": "PPE",
+    "fullForm": "Personal Protective Equipment",
+    "description": "Equipment worn to minimise exposure to hazards causing injury or illness. In clinical care: gloves, mask, eye protection, gown. In hazmat or industrial settings: full respiratory protection and chemical-resistant suits.",
+    "category": "abbreviation",
+    "letters": [
+      { "letter": "P", "term": "Personal", "detail": "Worn by the individual clinician. The last line of defence in the hierarchy of controls, after elimination, substitution, engineering, and administrative controls." },
+      { "letter": "P", "term": "Protective", "detail": "Standard precautions: gloves plus surgical mask minimum. Airborne precautions: add N95 respirator, eye or face shield, gown. Hazmat: chemical-resistant suit and SCBA as appropriate." },
+      { "letter": "E", "term": "Equipment", "detail": "Must match the hazard. Don before patient contact; doff carefully to avoid self-contamination. Dispose of single-use PPE correctly per infection control protocols." }
+    ],
+    "tags": ["ppe", "personal protective equipment", "infection control", "standard precautions", "hazmat", "safety"],
     "relatedCalculatorIDs": []
   }
 ]
