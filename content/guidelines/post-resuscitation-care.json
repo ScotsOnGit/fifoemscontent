@@ -52,7 +52,7 @@
       "id": "post-resuscitation-care-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- All ROSC patients require a 12 lead ECG\n- 1:10000 = 1mg in 1ml adrenaline in 9ml normal saline\n- 1:20000 = 1mg in 1 ml adrenaline in 19ml normal saline\n- Prepare for handover: Downtime/time of arrest, shocks delivered, dosages of medication administered, etc",
+      "content": "- All ROSC patients require a 12 lead ECG\n- Adrenaline 0.1 mg/mL solution: 1 mg diluted to 10 mL with sodium chloride 0.9%\n- Adrenaline 0.05 mg/mL solution: 1 mg diluted to 20 mL with sodium chloride 0.9%\n- Prepare for handover: Downtime/time of arrest, shocks delivered, dosages of medication administered, etc",
       "sortOrder": 5
     }
   ],
