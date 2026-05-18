@@ -40,7 +40,7 @@
       "id": "newborn-life-support-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Dry, warm, and stimulate the newborn while maintaining neutral airway position\n- Assess heart rate by ECG or auscultation where possible; if unavailable, use the umbilical cord pulse or pulse oximetry as alternatives\n- If the baby is not breathing effectively, begin positive-pressure ventilation at 40 to 60 breaths per minute with attention to visible chest rise\n- Use room air first for term newborns during the initial phase unless local protocol or deterioration indicates oxygen escalation\n- Reassess heart rate and breathing frequently, and if heart rate remains below 60 beats per minute despite effective ventilation, begin neonatal chest compressions and expedite transport",
+      "content": "- Dry, warm, and stimulate the newborn while maintaining neutral airway position\n- Assess heart rate by ECG or auscultation where possible; if unavailable, use the umbilical cord pulse or pulse oximetry as alternatives\n- If the baby is not breathing effectively, begin positive-pressure ventilation at 40 to 60 breaths per minute with attention to visible chest rise\n- Use room air first for term newborns during the initial phase unless local protocol or deterioration indicates oxygen escalation\n- Reassess heart rate and breathing frequently, and if heart rate remains below 60 beats per minute despite effective ventilation, begin neonatal chest compressions using the two-thumb encircling technique at a 3:1 compression-to-ventilation ratio (90 compressions and 30 ventilations per minute) and expedite transport\n- If meconium is present and the newborn is not vigorous (absent or poor tone, absent or inadequate breathing, heart rate below 100), prioritise airway and ventilation — do not delay positive pressure ventilation to attempt suction; escalate for advanced airway management early",
       "sortOrder": 3
     },
     {
@@ -69,6 +69,6 @@
     "adult-resuscitation"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -27,7 +27,7 @@
       "id": "skill-breech-procedure",
       "type": "management_advanced",
       "title": "Management",
-      "content": "**If delivery is not imminent:**\n- Transport urgently and do not attempt to turn the baby\n\n**If delivery is imminent:**\n1. Prepare for neonatal resuscitation and request urgent additional support if available\n2. Support the mother in a position that allows access while preserving dignity and safety\n3. Keep a hands-off approach as far as possible while the breech delivers spontaneously to the umbilicus\n4. If the cord is visible, handle it gently and create slack only if needed to reduce tension\n5. If the arms or head do not deliver, use recognised breech manoeuvres only within training and scope while avoiding traction on the baby\n6. If head delivery is delayed, use suprapubic pressure and expedite delivery while preparing for immediate neonatal resuscitation",
+      "content": "**If delivery is not imminent:**\n- Transport urgently and do not attempt to turn the baby\n\n**If delivery is imminent:**\n1. Prepare for neonatal resuscitation and request urgent additional support if available\n2. Support the mother in a position that allows access while preserving dignity and safety\n3. Keep a hands-off approach as far as possible while the breech delivers spontaneously to the umbilicus\n4. If the cord is visible, handle it gently and create slack only if needed to reduce tension\n5. If the arms or head do not deliver, use recognised breech manoeuvres only within training and scope while avoiding traction on the baby\n6. If head delivery is delayed, apply the Mauriceau-Smellie-Veit (MSV) manoeuvre within training and scope: support the fetal body along the forearm, place fingers on the malar bones to flex the head, and apply gentle downward traction. Do not use suprapubic pressure for head entrapment — this technique is for shoulder dystocia and is not appropriate here. Prepare immediately for neonatal resuscitation",
       "sortOrder": 1
     },
     {
@@ -48,6 +48,6 @@
     "news2"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

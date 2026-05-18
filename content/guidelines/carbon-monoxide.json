@@ -52,7 +52,7 @@
       "id": "carbon-monoxide-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Up to 40% may develop delayed neuropsychiatric syndrome (DNS) days to weeks after exposure-memory loss, personality change, movement disorders, depression",
+      "content": "- Up to 40% may develop delayed neuropsychiatric syndrome (DNS) days to weeks after exposure — memory loss, personality change, movement disorders, depression\n- Hyperbaric oxygen (HBO) therapy is the definitive treatment for severe CO poisoning (loss of consciousness, seizure, cardiac compromise, pregnancy, or persistent symptoms). Confirm the nearest HBO facility and transport pathway for any severe case\n- In fire or smoke inhalation victims who are critically ill (coma, seizure, or haemodynamic compromise with metabolic acidosis and elevated lactate), concurrent cyanide poisoning should be considered and empirically treated with hydroxocobalamin — this is common in structural fires and industrial combustion events",
       "sortOrder": 5
     }
   ],
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",

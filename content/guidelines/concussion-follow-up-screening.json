@@ -39,7 +39,7 @@
       "id": "concussion-follow-up-screening-management-basic",
       "type": "management_basic",
       "title": "Management - Primary",
-      "content": "- Screen red flags and current function rather than assuming all post-head-injury symptoms are benign\n- Advise relative rest only for the immediate period, then gradual return to tolerated activity\n- Escalate if symptoms are worsening, persistent beyond expected recovery, or associated with major neurological concerns",
+      "content": "- Screen red flags and current function rather than assuming all post-head-injury symptoms are benign\n- Advise relative rest only for the immediate period, then gradual return to tolerated activity\n- Workers must not return to safety-critical duties while symptomatic — this includes operating heavy plant or machinery, working at heights, entering confined spaces, or performing any task where impaired reaction time or cognitive function creates a risk of serious injury or death. Formal medical clearance is required before return to safety-critical roles\n- Escalate if symptoms are worsening, persistent beyond expected recovery, or associated with major neurological concerns",
       "sortOrder": 3
     },
     {
@@ -60,6 +60,6 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-16T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

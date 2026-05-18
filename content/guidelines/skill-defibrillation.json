@@ -30,7 +30,7 @@
       "id": "skill-defib-procedure",
       "type": "management_advanced",
       "title": "Procedure",
-      "content": "**AED (Automated External Defibrillator):**\n\n1. Power on AED\n\n2. Attach pads: right - upper right chest (below clavicle); left - left mid-axillary line (V6 position / apex)\n\n3. Follow voice/visual prompts - stand clear during analysis\n\n4. If shock advised: ensure all clear, press shock button\n\n5. Immediately resume CPR for 2 minutes before next rhythm check\n\n**Manual Defibrillator:**\n\n1. Confirm shockable rhythm (VF/pVT)\n\n2. Apply pads in same positions (or paddles with conductive gel)\n\n3. Select energy: biphasic 150–200 J (first shock); 150–360 J (subsequent) - per device recommendation\n\n4. Charge while CPR continues\n\n5. Clear - confirm all clear verbally and visually\n\n6. Deliver shock\n\n7. Immediately resume CPR - do not pause to check rhythm",
+      "content": "**AED (Automated External Defibrillator):**\n\n1. Power on AED\n\n2. Attach pads: right - upper right chest (below clavicle); left - left mid-axillary line (V6 position / apex)\n\n3. Follow voice/visual prompts - stand clear during analysis\n\n4. If shock advised: ensure all clear, press shock button\n\n5. Immediately resume CPR for 2 minutes before next rhythm check\n\n**Manual Defibrillator:**\n\n1. Confirm shockable rhythm (VF/pVT)\n\n2. Apply pads in same positions (or paddles with conductive gel)\n\n3. Select energy: follow device-specific manufacturer recommendations for both first and subsequent shocks. 360 J is a monophasic energy level and does not apply to modern biphasic devices\n\n4. Charge while CPR continues\n\n5. Clear - confirm all clear verbally and visually\n\n6. Deliver shock\n\n7. Immediately resume CPR - do not pause to check rhythm",
       "sortOrder": 1
     },
     {
@@ -54,6 +54,6 @@
     "ecg-axis"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -46,7 +46,7 @@
       "id": "croup-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider corticosteroid therapy in line with local protocol or senior direction for croup requiring active treatment\n- Consider nebulised or IM adrenaline only within local protocol and scope for moderate to severe croup, and reassess closely for recurrence of symptoms\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
+      "content": "- Consider corticosteroid therapy (dexamethasone) in line with local protocol or senior direction for croup requiring active treatment\n- Consider nebulised adrenaline only within local protocol and scope for moderate to severe croup; observe closely for at least 2 hours after administration as symptoms can recur when the effect wears off\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
       "sortOrder": 4
     },
     {
@@ -59,6 +59,7 @@
   ],
   "relatedMedicationIDs": [
     "adrenaline-epinephrine",
+    "dexamethasone",
     "oxygen"
   ],
   "relatedGuidelineIDs": [
@@ -66,6 +67,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -22,7 +22,7 @@
       "id": "crush-injury-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Compartment syndrome is characterised by:**\n   - Palpable tension of swelling of an anatomical compartment\n   - Pain disproportionate to the injury\n   - Pain on passive stretching of muscles within the anatomical compartment\n   - Paraesthesia of skin and paresis of muscles supplied by nerves traversing the compartment\n   - Pallor of skin over the compartment\n   - Pulses diminishing as the condition develops is common, but normal peripheral pulses and capillary refill is not uncommon\n\n**Crush syndrome is characterised by:**\n   - Compartment syndrome\n   - Haemodynamic instability\n   - Reperfusion injuries leading to:\n   - Lactic acidosis and hyperkalaemia\n   - Dysrhythmias\n   - Myoglobinuria (dark \u201ctea\u201d coloured urine) leading to renal failure\n   - Shock\n   - Hypothermia",
+      "content": "**Compartment syndrome is characterised by:**\n   - Palpable tension of swelling of an anatomical compartment\n   - Pain disproportionate to the injury\n   - Pain on passive stretching of muscles within the anatomical compartment\n   - Paraesthesia of skin and paresis of muscles supplied by nerves traversing the compartment\n   - Pallor of skin over the compartment\n   - Pulses diminishing as the condition develops is common, but normal peripheral pulses and capillary refill is not uncommon\n\n**Crush syndrome is characterised by:**\n   - Compartment syndrome\n   - Haemodynamic instability\n   - Reperfusion injuries leading to:\n   - Lactic acidosis and hyperkalaemia\n   - Dysrhythmias\n   - Myoglobinuria (dark “tea” coloured urine) leading to renal failure\n   - Shock\n   - Hypothermia",
       "sortOrder": 1
     },
     {
@@ -35,15 +35,15 @@
     {
       "id": "crush-injury-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Ensure scene safety and request additional rescue resources early\n- Control catastrophic bleeding and be prepared for major bleeding on release\n- Primary Survey with c-spine consideration where indicated\n- Administer oxygen if indicated and record vital signs and rhythm\n- Minimise further tissue injury, manage temperature, and monitor for tense swollen compartments and pain out of proportion\n- Seek early senior consultation before release when prolonged entrapment is present",
       "sortOrder": 3
     },
     {
       "id": "crush-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
-      "content": "- Gain IV or IO access, ideally before release if compression has been prolonged\n- Begin IV fluids early when clinically indicated to reduce the impact of reperfusion injury\n- Provide analgesia and antiemetic therapy within scope\n- Monitor closely for hyperkalaemia, dysrhythmia, shock, and compartment syndrome\n- Treat hyperkalaemia under the relevant guideline if it develops",
+      "title": "Management – Advanced",
+      "content": "- Gain IV or IO access, ideally before release if compression has been prolonged\n- Begin IV fluids early when clinically indicated to reduce the impact of reperfusion injury; target urine output of at least 1 mL/kg/hour to reduce the risk of myoglobin-related acute kidney injury — monitor urine colour and output where possible\n- Provide analgesia and antiemetic therapy within scope\n- Monitor closely for hyperkalaemia, dysrhythmia, shock, and compartment syndrome\n- Treat hyperkalaemia under the relevant guideline if it develops",
       "sortOrder": 4
     },
     {
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "revised-trauma-score",

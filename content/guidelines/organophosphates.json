@@ -44,7 +44,7 @@
       "id": "organophosphates-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- Consider advanced airway\n- Provide assisted ventilation if required\n- Gain IV access\n- Apply cardiac monitoring and 12 lead ECG\n- Consider IV atropine in consultation with the on-call doctor; repeat and escalate promptly until bronchorrhoea and wheeze improve and oxygenation is stabilised\n- Consider fluids if indicated\n- Consider benzodiazepines for seizures or severe agitation in consultation with the on-call doctor\n- Oxime therapy, if used, should be guided by the on-call doctor or toxicology service",
+      "content": "- Consider advanced airway\n- Provide assisted ventilation if required\n- Gain IV access\n- Apply cardiac monitoring and 12 lead ECG\n- Consider atropine in consultation with the on-call doctor; titrate to drying of secretions and improved oxygenation — not to heart rate. Repeat doses may be required and large total doses are expected in severe poisoning\n- Consider fluids if indicated\n- Consider benzodiazepines for seizures or severe agitation in consultation with the on-call doctor\n- Oxime therapy, if used, should be guided by the on-call doctor or toxicology service",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",

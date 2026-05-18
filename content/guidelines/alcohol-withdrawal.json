@@ -47,7 +47,7 @@
       "id": "alcohol-withdrawal-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG and cardiac monitoring where severe withdrawal, chest pain, or significant autonomic disturbance is present\n- Gain IV access where severe withdrawal, dehydration, recurrent vomiting, or seizure risk is present\n- Treat hypoglycaemia, hyperthermia, or dehydration within local protocol\n- Consider protocol-led benzodiazepine therapy only for severe withdrawal, seizures, or dangerous agitation and only within scope or senior direction\n- Escalate early for delirium, persistent abnormal vital signs, recurrent seizure, or concern for mixed pathology",
+      "content": "- ECG and cardiac monitoring where severe withdrawal, chest pain, or significant autonomic disturbance is present\n- Gain IV access where severe withdrawal, dehydration, recurrent vomiting, or seizure risk is present\n- Administer thiamine before any glucose-containing fluids in patients with suspected chronic alcohol use or dependence — giving glucose without thiamine in a thiamine-deficient patient can precipitate Wernicke's encephalopathy, a potentially irreversible neurological emergency\n- Treat hypoglycaemia, hyperthermia, or dehydration within local protocol\n- Consider protocol-led benzodiazepine therapy only for severe withdrawal, seizures, or dangerous agitation and only within scope or senior direction\n- Escalate early for delirium, persistent abnormal vital signs, recurrent seizure, or concern for mixed pathology",
       "sortOrder": 4
     },
     {
@@ -61,7 +61,8 @@
   "relatedMedicationIDs": [
     "diazepam",
     "intravenous-glucose-10",
-    "oxygen"
+    "oxygen",
+    "thiamine"
   ],
   "relatedGuidelineIDs": [
     "seizures",
@@ -69,6 +70,6 @@
     "high-risk-mental-health-presentations"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -50,18 +50,17 @@
       "id": "stroke-tia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Maintain a high index of suspicion for stroke in patients with new focal neurological symptoms once obvious mimics such as hypoglycaemia have been excluded\n- Patients should have continuous limb lead cardiac monitoring where feasible to capture arrhythmias, especially AF, but transport should not be delayed to obtain a 12 lead ECG unless there is a specific indication such as concurrent chest pain\n- The timing of symptom onset or last-known-well time must be clearly defined so suitability for reperfusion therapy can be assessed by the receiving stroke service",
+      "content": "- Maintain a high index of suspicion for stroke in patients with new focal neurological symptoms once obvious mimics such as hypoglycaemia have been excluded\n- Patients should have continuous limb lead cardiac monitoring where feasible to capture arrhythmias, especially AF, but transport should not be delayed to obtain a 12 lead ECG unless there is a specific indication such as concurrent chest pain\n- The timing of symptom onset or last-known-well time must be clearly defined so suitability for reperfusion therapy can be assessed by the receiving stroke service\n- Do not administer aspirin in the prehospital setting — haemorrhagic stroke cannot be excluded without CT imaging. Aspirin is initiated by the hospital after stroke type is confirmed",
       "sortOrder": 5
     }
   ],
   "relatedMedicationIDs": [
-    "aspirin",
     "oxygen"
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "relatedCalculatorIDs": [
     "race-score",
     "gcs",

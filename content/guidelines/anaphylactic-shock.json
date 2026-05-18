@@ -39,7 +39,7 @@
       "id": "anaphylactic-shock-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "- Remove the trigger if this can be done safely\n- Administer IM adrenaline immediately or use an adrenaline autoinjector if appropriate and available\n- Position the patient appropriately, prioritising circulatory safety and airway protection\n- Give oxygen if clinically indicated\n- Monitor pulse, blood pressure, respiratory status, and conscious state\n- Arrange urgent transport for all cases and be prepared for recurrent deterioration",
+      "content": "- Remove the trigger if this can be done safely\n- Administer IM adrenaline into the anterolateral thigh immediately — do not delay for any other intervention; this is the definitive first-line treatment\n- An adrenaline autoinjector may be used if available while preparing parenteral adrenaline\n- Position the patient appropriately, prioritising circulatory safety and airway protection — do not allow the patient to stand or sit up\n- Give oxygen if clinically indicated\n- Monitor pulse, blood pressure, respiratory status, and conscious state\n- Arrange urgent transport for all cases and be prepared for recurrent deterioration",
       "sortOrder": 3
     },
     {
@@ -66,6 +66,6 @@
     "skill-adrenaline-autoinjector"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -47,7 +47,7 @@
       "id": "pre-eclampsia-eclampsia-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Consider magnesium sulphate only within local protocol, scope, and senior support when eclampsia or severe pre-eclampsia is suspected\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction for severe hypertension with compatible symptoms\n- Pre-notify receiving obstetric or emergency team early",
+      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Severe pre-eclampsia threshold: BP ≥160 mmHg systolic or ≥110 mmHg diastolic — this is the threshold for urgent antihypertensive treatment to prevent stroke\n- Consider magnesium sulphate within local protocol and senior support for eclampsia or imminent eclampsia — magnesium sulphate is the specific treatment for eclamptic seizures and is preferred over benzodiazepines alone; do not default to the generic seizure pathway without considering magnesium\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction for BP at or above the severe threshold\n- Pre-notify receiving obstetric or emergency team early",
       "sortOrder": 4
     },
     {
@@ -67,6 +67,6 @@
     "hypovolaemic-shock"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-18T00:00:00Z"
 }

@@ -50,7 +50,7 @@
       "id": "hyperkalaemia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Calcium Gluconate provides immediate stabilisation of the myocardium; however, it does not reduce serum potassium levels\n- Sodium Bicarbonate 8.4% will reduce serum potassium levels by 0.5 – 1 mmol/L and provide temporary effect whilst the underlying cause is treated\n- Continuous salbutamol nebuliser reduces serum potassium levels by 0.5 – 1 mmol/L within 30 minutes\n- A typical administration of 10 units of regular insulin can reduce serum potassium levels by 0.5 – 1 mmol/L within 10 – 20 mins, with effects lasting 4 – 6 hours",
+      "content": "- Calcium Gluconate provides immediate stabilisation of the myocardium; however, it does not reduce serum potassium levels\n- Sodium Bicarbonate 8.4% will reduce serum potassium levels by 0.5 – 1 mmol/L and provide temporary effect whilst the underlying cause is treated\n- Continuous salbutamol nebuliser reduces serum potassium levels by 0.5 – 1 mmol/L within 30 minutes\n- Insulin must always be co-administered with glucose — never administer insulin alone for hyperkalaemia; iatrogenic hypoglycaemia is a serious risk. Monitor blood glucose closely after administration",
       "sortOrder": 5
     }
   ],
@@ -64,8 +64,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",
