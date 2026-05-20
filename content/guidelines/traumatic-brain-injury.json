@@ -44,7 +44,7 @@
       "id": "traumatic-brain-injury-management-advanced",
       "type": "management_advanced",
       "title": "Management \u2013 Advanced",
-      "content": "- Consider advanced airway management if ventilation or airway protection is failing\n- Establish IV or IO access and avoid hypotension with judicious isotonic fluid use\n- Treat hypoglycaemia if present and apply cardiac monitoring\n- Consider tranexamic acid in eligible patients within the protocol time window\n- Provide analgesia, antiemetic therapy, and sedation within scope while avoiding deterioration in ventilation or perfusion",
+      "content": "- Consider advanced airway management if ventilation or airway protection is failing\n- Establish IV or IO access and avoid hypotension with judicious isotonic fluid use\n- Consider hypertonic saline 3% (HTS) for signs of impending transtentorial herniation \u2014 indicated when ANY of the following are present with GCS \u22648:\n  - Fixed or unequally dilated pupils\n  - Unilateral neurological signs\n  - Cushing's triad (hypertension + bradycardia + irregular respirations)\n  - GCS deterioration \u22652 points during care\n  - Dose: 5 mL/kg IV/IO over 10\u201320 minutes (ASMA consult required for paediatrics)\n  - HTS must be infused via a separate line from packed red blood cells\n\n- Treat hypoglycaemia if present and apply cardiac monitoring\n- Consider tranexamic acid in eligible patients within the protocol time window\n- Provide analgesia, antiemetic therapy, and sedation within scope while avoiding deterioration in ventilation or perfusion",
       "sortOrder": 4
     },
     {
