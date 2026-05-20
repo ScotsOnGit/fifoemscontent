@@ -7237,5 +7237,1023 @@
     "isFreeContent": true,
     "version": 1,
     "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "amoxicillin-clavulanate",
+    "name": "Amoxicillin/Clavulanic Acid",
+    "genericName": "Amoxicillin trihydrate / Potassium clavulanate",
+    "drugClass": "Penicillin + beta-lactamase inhibitor combination antibiotic",
+    "tags": [
+      "amoxicillin clavulanate",
+      "Augmentin",
+      "co-amoxiclav",
+      "antibiotic",
+      "penicillin",
+      "infection",
+      "respiratory",
+      "skin",
+      "dental"
+    ],
+    "synonyms": [
+      "Augmentin",
+      "Augmentin Duo",
+      "co-amoxiclav",
+      "Clavulin"
+    ],
+    "indications": [
+      "Lower respiratory tract infections — community-acquired pneumonia, bronchitis, sinusitis, otitis media",
+      "Skin and soft tissue infections — cellulitis, wound infections, abscesses (post-drainage)",
+      "Dental and oral infections — dental abscess, pericoronitis",
+      "Urinary tract infections — complicated or recurrent",
+      "Animal and human bite wounds (polymicrobial cover including Pasteurella, anaerobes)"
+    ],
+    "contraindications": [
+      "Penicillin allergy — anaphylaxis or severe hypersensitivity reaction (do not use); minor rash may be acceptable in some cases",
+      "Previous jaundice or hepatic dysfunction associated with prior amoxicillin/clavulanate use",
+      "Infectious mononucleosis (glandular fever) — high rate of non-immune rash"
+    ],
+    "precautions": [
+      "Always take with food — clavulanate causes GI upset on empty stomach; food substantially reduces nausea and diarrhoea",
+      "Diarrhoea more common than with amoxicillin alone — due to clavulanate altering gut flora",
+      "Dose adjustment required in significant renal impairment (CrCl <30 mL/min)",
+      "Cross-reactivity with cephalosporins: low risk (<2%) but ask about allergy history",
+      "Hepatotoxicity: rare but more likely with clavulanate than amoxicillin; avoid if prior reaction to this combination"
+    ],
+    "sideEffects": [
+      "Diarrhoea (very common), nausea, abdominal cramps",
+      "Rash (maculopapular — especially in glandular fever; urticarial — possible allergy)",
+      "Candidal (thrush) overgrowth — oral or vaginal",
+      "Hepatotoxicity (rare, cholestatic jaundice)",
+      "Clostridioides difficile colitis with prolonged use"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Amoxicillin is a broad-spectrum aminopenicillin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), disrupting transpeptidation and cross-linking of peptidoglycan. Clavulanic acid is a structural analogue of penicillin that irreversibly inhibits beta-lactamase enzymes produced by resistant organisms (Staphylococcus aureus, H. influenzae, Moraxella catarrhalis, E. coli, Bacteroides). This combination restores amoxicillin's activity against beta-lactamase-producing strains.",
+      "metabolism": "Both components absorbed well orally. Amoxicillin minimally metabolised. Clavulanate partially metabolised in liver and gut wall.",
+      "excretion": "Primarily renal; amoxicillin excreted largely unchanged. Dose reduction in CrCl <30 mL/min."
+    },
+    "adultDosing": [
+      {
+        "id": "amox-clav-adult-standard",
+        "indication": "Respiratory, skin, dental infections (moderate severity)",
+        "route": "Oral",
+        "dose": "875/125 mg (Augmentin Duo) twice daily with food",
+        "frequency": "12-hourly",
+        "maxDose": "875/125 mg per dose",
+        "notes": "Standard adult formulation. Take with food. Course length: 5–7 days for most indications; 10–14 days for more severe infections. Alternate formulation: 500/125 mg 8-hourly.",
+        "isWeightBased": false
+      },
+      {
+        "id": "amox-clav-adult-bite",
+        "indication": "Animal/human bite wound prophylaxis or treatment",
+        "route": "Oral",
+        "dose": "875/125 mg twice daily",
+        "frequency": "12-hourly",
+        "maxDose": "875/125 mg per dose",
+        "notes": "Commence within 6–8 hours of bite. Course: 5 days for prophylaxis; 7–10 days for established infection. Tetanus prophylaxis and wound cleaning also required. Document wound clearly for follow-up.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "amox-clav-paed",
+        "indication": "Respiratory, skin, ear infections",
+        "route": "Oral (suspension)",
+        "dose": "22.5 mg/kg/dose of amoxicillin component (as 400/57 mg/5 mL suspension)",
+        "frequency": "12-hourly with food",
+        "maxDose": "875 mg amoxicillin per dose",
+        "notes": "Use paediatric suspension (Augmentin Duo suspension). Standard course 5–7 days. Shake well before use.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "flucloxacillin",
+    "name": "Flucloxacillin",
+    "genericName": "Flucloxacillin sodium",
+    "drugClass": "Antistaphylococcal penicillin — beta-lactam antibiotic",
+    "tags": [
+      "flucloxacillin",
+      "Flopen",
+      "Staphylex",
+      "antibiotic",
+      "skin infection",
+      "cellulitis",
+      "wound",
+      "staph",
+      "MSSA"
+    ],
+    "synonyms": [
+      "Flopen",
+      "Staphylex",
+      "Floxapen"
+    ],
+    "indications": [
+      "Skin and soft tissue infections — cellulitis, impetigo, wound infections, infected lacerations and abrasions",
+      "Methicillin-sensitive Staphylococcus aureus (MSSA) infections — first-line",
+      "Boils, carbuncles, folliculitis",
+      "Osteomyelitis and septic arthritis — MSSA (IV form)"
+    ],
+    "contraindications": [
+      "Penicillin allergy (anaphylaxis or severe hypersensitivity)",
+      "Previous hepatic dysfunction or jaundice from flucloxacillin",
+      "Infectious mononucleosis (glandular fever) — high rate of rash with all penicillins"
+    ],
+    "precautions": [
+      "Must be taken on an empty stomach (30–60 minutes before food or 2 hours after) — food significantly reduces absorption",
+      "Does NOT cover MRSA — if MRSA suspected, use clindamycin or seek specialist advice",
+      "Does NOT cover gram-negative organisms — for mixed infections, combine with amoxicillin or switch to co-amoxiclav",
+      "Hepatotoxicity risk with courses exceeding 14 days — monitor LFTs for extended courses",
+      "IV: risk of cholestatic jaundice is higher with IV vs oral"
+    ],
+    "sideEffects": [
+      "GI upset — nausea, diarrhoea (less common if taken on empty stomach as directed)",
+      "Rash — urticarial (allergy) or maculopapular",
+      "Elevated liver enzymes, cholestatic hepatitis (rare, more with IV or prolonged use)",
+      "Clostridioides difficile colitis"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Beta-lactam antibiotic that binds penicillin-binding proteins, inhibiting peptidoglycan transpeptidation and bacterial cell wall synthesis. Its key distinction is resistance to staphylococcal beta-lactamase (penicillinase) due to the bulky isoxazolyl side chain — making it effective against MSSA strains that are resistant to standard penicillin. Does not cover MRSA (methicillin-resistant strains alter the PBP target itself).",
+      "metabolism": "Partially metabolised in liver. Oral bioavailability ~50–70% (falls significantly if taken with food).",
+      "excretion": "Primarily renal excretion (unchanged and as metabolites). Short half-life ~0.5–1 hour — requires 6-hourly dosing."
+    },
+    "adultDosing": [
+      {
+        "id": "fluclox-oral-mild-mod",
+        "indication": "Skin/soft tissue infection — mild to moderate (cellulitis, wound infection)",
+        "route": "Oral",
+        "dose": "500 mg QID (four times daily)",
+        "frequency": "Every 6 hours — 30–60 min before food",
+        "maxDose": "1 g per dose for severe infections",
+        "notes": "Must be taken on empty stomach. Course: 5–10 days for skin infections; up to 14 days for deeper infections. If no improvement after 48–72 hours, review and consider IV or alternative antibiotic.",
+        "isWeightBased": false
+      },
+      {
+        "id": "fluclox-iv-severe",
+        "indication": "Severe cellulitis / bacteraemia / osteomyelitis",
+        "route": "IV",
+        "dose": "1–2 g IV every 6 hours",
+        "frequency": "6-hourly",
+        "maxDose": "2 g per dose; 8 g/day",
+        "notes": "Administer by IV bolus over 3–5 minutes or by IV infusion over 30 minutes. Hospital-level management — initiate if severe systemic features present (fever, lymphadenopathy, spreading erythema, haemodynamic compromise) while arranging transfer.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "fluclox-oral-paed",
+        "indication": "Skin/soft tissue infection",
+        "route": "Oral",
+        "dose": "12.5–25 mg/kg/dose",
+        "frequency": "QID (every 6 hours) — on empty stomach",
+        "maxDose": "500 mg per dose",
+        "notes": "Use paediatric oral liquid (125 mg/5 mL or 250 mg/5 mL). Must be taken 30 min before food. Course 5–10 days.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "cefalexin",
+    "name": "Cefalexin",
+    "genericName": "Cefalexin monohydrate",
+    "drugClass": "First-generation cephalosporin — beta-lactam antibiotic",
+    "tags": [
+      "cefalexin",
+      "cephalexin",
+      "Keflex",
+      "antibiotic",
+      "cephalosporin",
+      "skin infection",
+      "UTI",
+      "cellulitis"
+    ],
+    "synonyms": [
+      "Cephalexin",
+      "Keflex",
+      "Rilexine",
+      "Ialex"
+    ],
+    "indications": [
+      "Skin and soft tissue infections — cellulitis, impetigo, infected wounds",
+      "Urinary tract infections — lower UTI (cystitis) in adults and children",
+      "Respiratory tract infections — streptococcal pharyngitis, tonsillitis",
+      "Penicillin-allergy alternative for skin infections (minor cross-reactivity — avoid in anaphylaxis)"
+    ],
+    "contraindications": [
+      "Known allergy to cephalosporins",
+      "Caution with penicillin allergy history — 1–5% cross-reactivity; contraindicated if history of anaphylaxis or severe penicillin reaction"
+    ],
+    "precautions": [
+      "Can be taken with or without food — food may reduce GI side effects",
+      "Dose reduction in severe renal impairment (CrCl <30 mL/min)",
+      "Not active against MRSA — if MRSA suspected, use clindamycin or seek advice",
+      "Broad gram-positive coverage (streps, MSSA) and limited gram-negative coverage (E. coli, Klebsiella)",
+      "If no improvement in cellulitis after 48–72 hours, consider alternative antibiotic or IV therapy"
+    ],
+    "sideEffects": [
+      "Diarrhoea, nausea, abdominal discomfort (common)",
+      "Rash — allergic or maculopapular",
+      "Candidal overgrowth",
+      "Elevated liver enzymes (uncommon)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Beta-lactam antibiotic that binds penicillin-binding proteins (PBPs) on bacterial cell walls, inhibiting transpeptidase activity and cross-linking of peptidoglycan. Bactericidal against susceptible gram-positive organisms (Staph aureus MSSA, streptococci) and some gram-negatives (E. coli, Klebsiella, Proteus). Stable to some staphylococcal beta-lactamases but destroyed by extended-spectrum beta-lactamases (ESBL) in gram-negatives.",
+      "metabolism": "Minimal hepatic metabolism. Well absorbed orally (~90% bioavailability — not significantly affected by food).",
+      "excretion": "Predominantly renal excretion unchanged (>90%). Half-life ~1 hour. Dose reduce if CrCl <30 mL/min."
+    },
+    "adultDosing": [
+      {
+        "id": "cefalexin-skin-adult",
+        "indication": "Skin/soft tissue infections",
+        "route": "Oral",
+        "dose": "500 mg – 1 g",
+        "frequency": "Every 6–12 hours (QID for mild; BD for moderate)",
+        "maxDose": "4 g/day",
+        "notes": "500 mg QID or 1 g BD for cellulitis. Course: 5–10 days. Can take with food. Review at 48–72 hours — if worsening or not improving, escalate to IV or alternative antibiotic.",
+        "isWeightBased": false
+      },
+      {
+        "id": "cefalexin-uti-adult",
+        "indication": "Lower UTI (cystitis)",
+        "route": "Oral",
+        "dose": "500 mg",
+        "frequency": "Every 6–12 hours",
+        "maxDose": "2 g/day for UTI",
+        "notes": "Course: 3–7 days for uncomplicated UTI. Ensure adequate fluid intake. Confirm urine MSC if symptoms persist after treatment.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "cefalexin-paed",
+        "indication": "Skin/soft tissue infections, UTI",
+        "route": "Oral",
+        "dose": "25 mg/kg/day divided 6-hourly (or 12-hourly for milder infections)",
+        "frequency": "Every 6 hours",
+        "maxDose": "500 mg per dose; 4 g/day",
+        "notes": "Available as 125 mg/5 mL or 250 mg/5 mL suspension. Can be given with food. Course 5–10 days.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "ciprofloxacin",
+    "name": "Ciprofloxacin",
+    "genericName": "Ciprofloxacin hydrochloride",
+    "drugClass": "Fluoroquinolone antibiotic",
+    "tags": [
+      "ciprofloxacin",
+      "Ciproxin",
+      "antibiotic",
+      "fluoroquinolone",
+      "UTI",
+      "GI infection",
+      "respiratory",
+      "gram negative"
+    ],
+    "synonyms": [
+      "Ciproxin",
+      "Cipro",
+      "Ciloquin"
+    ],
+    "indications": [
+      "Urinary tract infections — simple cystitis, pyelonephritis, complicated UTI",
+      "Gastrointestinal infections — traveller's diarrhoea, Salmonella, Campylobacter, Shigella",
+      "Lower respiratory tract infections — including atypical pathogens",
+      "Skin and soft tissue infections — gram-negative coverage (e.g. Pseudomonas in burn wounds)",
+      "Prophylaxis for meningococcal contacts (single dose)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to fluoroquinolones",
+      "Concurrent use with Class IA (quinidine, procainamide) or Class III (amiodarone, sotalol) antiarrhythmics — additive QT prolongation",
+      "Children and adolescents (under 18) — avoid unless benefits clearly outweigh risks (concern for articular cartilage toxicity in animal studies)",
+      "Pregnancy (particularly first trimester) — articular cartilage risk"
+    ],
+    "precautions": [
+      "QT prolongation — use with caution with other QT-prolonging drugs; obtain ECG if concerned",
+      "Achilles tendon rupture and tendinopathy — increased risk in patients aged >60, concurrent corticosteroids, or prior tendinopathy; discontinue immediately if tendon pain develops",
+      "Absorption impaired by antacids, calcium, iron, zinc, dairy — administer ciprofloxacin 2 hours before or 6 hours after these",
+      "Phototoxicity — advise sun protection during treatment",
+      "May lower seizure threshold — caution in epilepsy or CNS lesions",
+      "Can raise theophylline levels — reduce theophylline dose if co-prescribed"
+    ],
+    "sideEffects": [
+      "Nausea, diarrhoea, abdominal discomfort",
+      "Headache, dizziness",
+      "Tendinopathy / Achilles tendon rupture",
+      "QT prolongation / arrhythmia",
+      "Photosensitivity",
+      "Rash, itch",
+      "Elevated liver enzymes",
+      "Clostridioides difficile colitis"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Bactericidal. Inhibits two essential bacterial enzymes: DNA gyrase (topoisomerase II) and topoisomerase IV. These enzymes control DNA supercoiling and strand separation required for replication and transcription. By binding the enzyme-DNA complex, ciprofloxacin creates lethal double-strand DNA breaks. Excellent gram-negative activity, moderate gram-positive activity (not reliable for MRSA or streptococci).",
+      "metabolism": "Well absorbed orally (~70% bioavailability). Hepatic metabolism to active and inactive metabolites. CYP1A2 inhibitor.",
+      "excretion": "Renal and hepatic excretion. About 40–50% excreted unchanged in urine. Half-life 3–5 hours."
+    },
+    "adultDosing": [
+      {
+        "id": "cipro-uti-simple",
+        "indication": "Uncomplicated lower UTI (cystitis)",
+        "route": "Oral",
+        "dose": "500 mg",
+        "frequency": "Twice daily",
+        "maxDose": "500 mg per dose",
+        "notes": "Course: 3–7 days. Take 2 hours before or 6 hours after antacids/dairy/calcium. Not first-line for simple UTI in females (use trimethoprim); use ciprofloxacin for resistant organisms or complicated UTI.",
+        "isWeightBased": false
+      },
+      {
+        "id": "cipro-uti-complicated",
+        "indication": "Complicated UTI / pyelonephritis",
+        "route": "Oral",
+        "dose": "500–750 mg",
+        "frequency": "Twice daily",
+        "maxDose": "750 mg per dose",
+        "notes": "Course: 7–14 days. For pyelonephritis requiring IV therapy, use ceftriaxone IV and arrange hospital transfer.",
+        "isWeightBased": false
+      },
+      {
+        "id": "cipro-gi",
+        "indication": "GI infection (traveller's diarrhoea, bacterial gastroenteritis)",
+        "route": "Oral",
+        "dose": "500 mg",
+        "frequency": "Twice daily",
+        "maxDose": "500 mg per dose",
+        "notes": "Course: 3 days for traveller's diarrhoea; 5–7 days for confirmed Salmonella/Campylobacter. Note: increasing ciprofloxacin resistance in Campylobacter — review if not improving at 48 hours. Ensure adequate hydration.",
+        "isWeightBased": false
+      },
+      {
+        "id": "cipro-meningococcal-prophylaxis",
+        "indication": "Meningococcal contact prophylaxis",
+        "route": "Oral",
+        "dose": "500 mg single dose",
+        "frequency": "Single dose",
+        "maxDose": "500 mg",
+        "notes": "Single dose for elimination of meningococcal nasopharyngeal carriage in close contacts. Administer as soon as possible after exposure notification. Contact WA DoH for guidance on contact tracing.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "doxycycline",
+    "name": "Doxycycline",
+    "genericName": "Doxycycline hyclate / monohydrate",
+    "drugClass": "Tetracycline antibiotic — broad spectrum, bacteriostatic",
+    "tags": [
+      "doxycycline",
+      "Doryx",
+      "Doxylin",
+      "antibiotic",
+      "tetracycline",
+      "atypical pneumonia",
+      "chlamydia",
+      "STI",
+      "Ross River",
+      "Q fever"
+    ],
+    "synonyms": [
+      "Doryx",
+      "Doxylin",
+      "Vibramycin"
+    ],
+    "indications": [
+      "Community-acquired pneumonia — atypical organisms (Mycoplasma pneumoniae, Chlamydophila pneumoniae, Legionella)",
+      "Chlamydia trachomatis and non-gonococcal urethritis (NGU)",
+      "Ross River fever, Q fever, Borrelia (tick-borne zoonoses — highly relevant for mine sites in tropical/rural WA)",
+      "Acne vulgaris — moderate to severe",
+      "Malaria prophylaxis (mine sites operating in malaria-endemic regions)"
+    ],
+    "contraindications": [
+      "Children under 8 years of age — causes permanent tooth discolouration and inhibits bone growth",
+      "Second and third trimester of pregnancy — same dental/bone effects in the fetus",
+      "Known hypersensitivity to tetracyclines"
+    ],
+    "precautions": [
+      "Take with adequate fluid (full glass of water) and remain upright for 30 minutes — doxycycline causes oesophageal ulceration if it lodges in the oesophagus",
+      "Take with food (especially the monohydrate form) — reduces GI upset; does not significantly affect absorption",
+      "Significant photosensitivity — advise use of high-SPF sunscreen and protective clothing (particularly relevant in outdoor mine site environment)",
+      "Antacids, dairy, iron, calcium, and zinc reduce absorption — take doxycycline 2 hours before or 6 hours after these",
+      "Avoid in renal impairment — unlike other tetracyclines, doxycycline is not renally excreted and is safer in renal impairment than older tetracyclines, but monitor",
+      "May interact with warfarin — increases anticoagulant effect; monitor INR"
+    ],
+    "sideEffects": [
+      "Nausea, oesophagitis, oesophageal ulceration (if swallowed lying down without adequate fluid)",
+      "Photosensitivity — sunburn-like reaction on sun-exposed skin",
+      "Candidal overgrowth (oral, vaginal)",
+      "Diarrhoea, C.diff colitis",
+      "Increased intracranial pressure (rare — benign intracranial hypertension with prolonged use)",
+      "Tooth discolouration (under 8 years or in utero exposure)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Bacteriostatic. Reversibly binds to the 30S ribosomal subunit, blocking aminoacyl-tRNA attachment to the mRNA-ribosome complex, halting bacterial protein synthesis. Broad spectrum including gram-positives, gram-negatives, atypical bacteria (Mycoplasma, Chlamydia, Rickettsia, Coxiella — Q fever), and protozoa. More lipophilic than older tetracyclines — better tissue penetration, longer half-life, and can be given once or twice daily.",
+      "metabolism": "Chelated in gut by divalent/trivalent cations. High oral bioavailability (~93%). Partly metabolised by gut flora. Excreted mostly in bile and faeces — safer in renal impairment than tetracycline.",
+      "excretion": "Biliary/faecal excretion predominates (unlike tetracycline). Urinary excretion ~40%. Half-life 16–22 hours."
+    },
+    "adultDosing": [
+      {
+        "id": "doxy-pneumonia-std",
+        "indication": "Community-acquired pneumonia (atypical)",
+        "route": "Oral",
+        "dose": "100 mg",
+        "frequency": "Twice daily",
+        "maxDose": "200 mg/day",
+        "notes": "Course: 5–10 days. Can use as monotherapy for mild-moderate atypical CAP; combine with amoxicillin or cefalexin if typical organisms also suspected.",
+        "isWeightBased": false
+      },
+      {
+        "id": "doxy-chlamydia-sti",
+        "indication": "Chlamydia trachomatis / non-gonococcal urethritis / pelvic inflammatory disease",
+        "route": "Oral",
+        "dose": "100 mg",
+        "frequency": "Twice daily",
+        "maxDose": "200 mg/day",
+        "notes": "Course: 7 days for chlamydia; 14 days for PID. Notify partner(s). Consider azithromycin 1 g single dose as alternative if compliance is a concern.",
+        "isWeightBased": false
+      },
+      {
+        "id": "doxy-zoonoses",
+        "indication": "Q fever, Ross River fever, tick-borne diseases",
+        "route": "Oral",
+        "dose": "100 mg",
+        "frequency": "Twice daily",
+        "maxDose": "200 mg/day",
+        "notes": "Q fever: treat for minimum 2–3 weeks (or longer for chronic Q fever). Ross River fever: supportive care primarily, doxycycline for symptom reduction in some protocols. Notify WA DoH for notifiable disease requirements.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "metronidazole",
+    "name": "Metronidazole",
+    "genericName": "Metronidazole",
+    "drugClass": "Nitroimidazole antibiotic and antiprotozoal",
+    "tags": [
+      "metronidazole",
+      "Flagyl",
+      "antibiotic",
+      "anaerobic",
+      "dental abscess",
+      "Giardia",
+      "Trichomonas",
+      "C.diff",
+      "intra-abdominal"
+    ],
+    "synonyms": [
+      "Flagyl",
+      "Metronide"
+    ],
+    "indications": [
+      "Dental and oral infections — dental abscess, pericoronitis, acute necrotising ulcerative gingivitis",
+      "Intra-abdominal infections — as part of combination therapy for polymicrobial abdominal sepsis",
+      "Bacterial vaginosis, Trichomonas vaginalis",
+      "Giardia lamblia and other protozoal GI infections",
+      "Aspiration pneumonia — anaerobic lung infections",
+      "Clostridioides difficile colitis"
+    ],
+    "contraindications": [
+      "First trimester of pregnancy (relative — avoid if possible; safer in second/third trimesters)",
+      "Concurrent disulfiram use — severe interaction",
+      "Known hypersensitivity to nitroimidazoles"
+    ],
+    "precautions": [
+      "ALCOHOL — absolute prohibition during treatment and for at least 48 hours after the last dose. Disulfiram-like reaction causes severe flushing, vomiting, tachycardia, and hypotension",
+      "Metallic taste is common and expected — warn patients",
+      "Peripheral neuropathy with prolonged or high-dose courses — tingling or numbness warrants dose review",
+      "Seizures and encephalopathy at high doses or in hepatic failure",
+      "Darkens urine (expected, harmless)",
+      "IV form: infuse over 20–60 minutes (not as bolus)"
+    ],
+    "sideEffects": [
+      "Nausea, metallic taste, dry mouth (very common)",
+      "Alcohol interaction — disulfiram-like reaction (severe)",
+      "Dark urine (harmless)",
+      "Headache, dizziness",
+      "Peripheral neuropathy (prolonged use)",
+      "Seizures, encephalopathy (rare, high doses or hepatic failure)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "A pro-drug selectively activated under low-oxygen (anaerobic) conditions. Bacterial and protozoal nitroreductases reduce metronidazole to a cytotoxic nitro radical anion that disrupts DNA helical structure, inhibiting nucleic acid synthesis and causing lethal DNA strand breaks. This selective activation in anaerobic organisms explains its narrow spectrum and lack of toxicity to human cells and aerobic bacteria.",
+      "metabolism": "Extensive hepatic metabolism. Active hydroxy-metabolite contributes to activity. Inhibits CYP2C9 (warfarin interaction).",
+      "excretion": "Renal excretion of metabolites (~80%). Half-life 6–10 hours. Dose reduction in severe hepatic impairment."
+    },
+    "adultDosing": [
+      {
+        "id": "metro-dental-oral",
+        "indication": "Dental abscess / oral infections",
+        "route": "Oral",
+        "dose": "400 mg",
+        "frequency": "Three times daily (8-hourly)",
+        "maxDose": "400 mg per dose; 1.2 g/day",
+        "notes": "Course: 5–7 days. Often combined with amoxicillin/clavulanate for dental abscess for broader coverage. Patient must avoid all alcohol during treatment and 48 hours after completion.",
+        "isWeightBased": false
+      },
+      {
+        "id": "metro-bv-trich",
+        "indication": "Bacterial vaginosis or Trichomonas vaginalis",
+        "route": "Oral",
+        "dose": "400–500 mg BD for 7 days, or 2 g single dose",
+        "frequency": "See notes",
+        "maxDose": "2 g per single dose",
+        "notes": "BV: 400 mg BD for 7 days. Trichomonas: 2 g single oral dose (or 400 mg BD for 7 days). Treat sexual partner simultaneously for Trichomonas. Avoid alcohol throughout and 48 hours post-completion.",
+        "isWeightBased": false
+      },
+      {
+        "id": "metro-iv-intraabdominal",
+        "indication": "Intra-abdominal/pelvic sepsis (IV)",
+        "route": "IV infusion",
+        "dose": "500 mg IV over 20–60 minutes",
+        "frequency": "Every 8–12 hours",
+        "maxDose": "500 mg per dose",
+        "notes": "Combine with a gram-negative active agent (e.g. ceftriaxone or gentamicin). Infuse over at least 20 minutes — not as IV bolus. Hospital-level management; initiate IV metronidazole while arranging transfer if patient systemically unwell.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "metro-paed-oral",
+        "indication": "GI protozoal infection (Giardia)",
+        "route": "Oral",
+        "dose": "15 mg/kg/day divided 8-hourly",
+        "frequency": "Three times daily",
+        "maxDose": "400 mg per dose",
+        "notes": "Course: 7–10 days for Giardia. Avoid alcohol-containing formulations. Metallic taste common.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "trimethoprim",
+    "name": "Trimethoprim",
+    "genericName": "Trimethoprim",
+    "drugClass": "Dihydrofolate reductase inhibitor — antibacterial",
+    "tags": [
+      "trimethoprim",
+      "Alprim",
+      "Triprim",
+      "antibiotic",
+      "UTI",
+      "cystitis",
+      "urinary tract infection"
+    ],
+    "synonyms": [
+      "Alprim",
+      "Triprim"
+    ],
+    "indications": [
+      "Uncomplicated lower urinary tract infection (cystitis) in non-pregnant adults and children",
+      "Prophylaxis for recurrent UTI in women",
+      "Pneumocystis jirovecii pneumonia (PCP) prophylaxis in immunocompromised (as co-trimoxazole)"
+    ],
+    "contraindications": [
+      "First trimester of pregnancy — folate antagonist, teratogenic risk",
+      "Megaloblastic anaemia due to folate deficiency",
+      "Severe renal impairment (CrCl <15 mL/min)",
+      "Known hypersensitivity to trimethoprim"
+    ],
+    "precautions": [
+      "Not recommended in pregnancy (folate antagonist effect) — use cefalexin or amoxicillin instead",
+      "Dose reduction in renal impairment (CrCl 15–30 mL/min: half the dose or double the interval)",
+      "May cause a spurious rise in serum creatinine — competes with tubular secretion of creatinine (not a true decline in GFR)",
+      "Hyperkalaemia possible with high doses in elderly or those on ACE inhibitors/ARBs (blocks urinary potassium excretion)",
+      "Increases methotrexate toxicity — avoid combination"
+    ],
+    "sideEffects": [
+      "Nausea, vomiting, GI upset",
+      "Rash (maculopapular or urticarial) — common",
+      "Pruritus",
+      "Spurious creatinine rise",
+      "Bone marrow suppression (rare, with prolonged use or in folate-deficient patients)",
+      "Megaloblastic anaemia (rare)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Selectively inhibits bacterial dihydrofolate reductase (DHFR) — the enzyme that converts dihydrofolic acid to tetrahydrofolic acid, an essential co-factor for purine and pyrimidine synthesis and ultimately DNA replication. Bacterial DHFR has much greater affinity for trimethoprim than human DHFR (50,000-fold selectivity), explaining its selective antibacterial activity. Bacteriostatic; bactericidal in combination with sulfonamides.",
+      "metabolism": "Partially metabolised in liver (10–20%). Oral bioavailability >90%.",
+      "excretion": "Predominantly renal excretion unchanged (50–60%). Half-life 8–12 hours."
+    },
+    "adultDosing": [
+      {
+        "id": "trimeth-uti-acute",
+        "indication": "Acute uncomplicated lower UTI",
+        "route": "Oral",
+        "dose": "300 mg once daily at night, or 150 mg twice daily",
+        "frequency": "Once at night (or BD)",
+        "maxDose": "300 mg/day",
+        "notes": "Course: 3 days for uncomplicated cystitis in women; 7 days in men (prostatitis/complicated). Can be taken with or without food. Ensure adequate fluid intake. Confirm resolution — if symptoms persist beyond 48–72 hours, send MSC and consider alternative antibiotic.",
+        "isWeightBased": false
+      },
+      {
+        "id": "trimeth-uti-prophylaxis",
+        "indication": "Prophylaxis for recurrent UTI",
+        "route": "Oral",
+        "dose": "150 mg each night",
+        "frequency": "Once daily at night",
+        "maxDose": "150 mg/day",
+        "notes": "For women with ≥3 culture-confirmed UTIs per year. Duration: 6–12 months (reassess periodically). This is an ongoing prescription — initiate in consultation with GP or urology.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "trimeth-uti-paed",
+        "indication": "Uncomplicated UTI",
+        "route": "Oral",
+        "dose": "4 mg/kg/day in 1–2 divided doses",
+        "frequency": "Once or twice daily",
+        "maxDose": "300 mg/day",
+        "notes": "Course: 3–7 days. Suspension available (50 mg/5 mL). Avoid under 6 weeks of age.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "azithromycin",
+    "name": "Azithromycin",
+    "genericName": "Azithromycin dihydrate",
+    "drugClass": "Macrolide antibiotic",
+    "tags": [
+      "azithromycin",
+      "Zithromax",
+      "macrolide",
+      "antibiotic",
+      "pneumonia",
+      "chlamydia",
+      "STI",
+      "respiratory",
+      "whooping cough",
+      "pertussis"
+    ],
+    "synonyms": [
+      "Zithromax",
+      "Azithral",
+      "Azicip"
+    ],
+    "indications": [
+      "Community-acquired pneumonia — atypical pathogens (Mycoplasma, Chlamydophila, Legionella)",
+      "Chlamydia trachomatis — single-dose treatment",
+      "Pertussis (whooping cough) — treatment and post-exposure prophylaxis",
+      "Respiratory tract infections when penicillin allergy precludes first-line agents",
+      "Skin and soft tissue infections — minor infections where gram-positive cover required with penicillin allergy"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to azithromycin, erythromycin, or other macrolides",
+      "QT prolongation or long QT syndrome",
+      "Concurrent use of drugs that significantly prolong QT interval (check ECG and drug interactions)"
+    ],
+    "precautions": [
+      "QT prolongation — risk is class effect of macrolides; greatest concern when combined with other QT-prolonging drugs (fluoroquinolones, antipsychotics, ondansetron at high doses)",
+      "Hepatotoxicity (rare) — elevated LFTs; avoid in significant liver disease",
+      "Antacids reduce peak concentration (not total absorption) — take at different time if possible",
+      "Long tissue half-life means a short course (3–5 days) delivers sustained tissue levels for up to 10 days",
+      "Myasthenia gravis — macrolides can exacerbate neuromuscular blockade"
+    ],
+    "sideEffects": [
+      "GI upset — nausea, diarrhoea, abdominal cramps (class effect; less than erythromycin)",
+      "QT prolongation",
+      "Elevated liver enzymes, cholestatic jaundice (rare)",
+      "Ototoxicity at high doses",
+      "Rash"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Bacteriostatic; sometimes bactericidal at high concentrations. Binds to the 50S ribosomal subunit (23S rRNA), blocking translocation of the growing peptide chain and inhibiting protein synthesis. Has a uniquely long tissue half-life (2–4 days) and concentrates intracellularly at 10–100 times plasma levels — making it highly effective against intracellular pathogens (Mycoplasma, Chlamydia, Legionella) and allowing short-course therapy.",
+      "metabolism": "Hepatic metabolism to an active metabolite. First-pass effect significant. Oral bioavailability ~37%.",
+      "excretion": "Primarily biliary and faecal excretion. Tissue half-life 68–72 hours (plasma half-life ~68 hours). A 5-day course maintains tissue concentrations for ~10 days."
+    },
+    "adultDosing": [
+      {
+        "id": "azith-pneumonia-5day",
+        "indication": "Community-acquired pneumonia / atypical respiratory infection",
+        "route": "Oral",
+        "dose": "500 mg on day 1, then 250 mg once daily on days 2–5",
+        "frequency": "Once daily",
+        "maxDose": "500 mg on day 1; 250 mg on days 2–5",
+        "notes": "5-day course standard for pneumonia. Can be given with or without food (though food improves tolerance). Can be used as monotherapy for mild atypical pneumonia or in penicillin-allergic patients.",
+        "isWeightBased": false
+      },
+      {
+        "id": "azith-chlamydia-single",
+        "indication": "Chlamydia trachomatis / non-gonococcal urethritis",
+        "route": "Oral",
+        "dose": "1 g single dose",
+        "frequency": "Once (single dose)",
+        "maxDose": "1 g",
+        "notes": "Single 1 g dose. Take on an empty stomach for maximum absorption. Notify and treat sexual partner(s). If doxycycline preferred (e.g. for PID treatment), use that regimen instead.",
+        "isWeightBased": false
+      },
+      {
+        "id": "azith-pertussis",
+        "indication": "Pertussis (whooping cough) treatment or post-exposure prophylaxis",
+        "route": "Oral",
+        "dose": "500 mg on day 1, then 250 mg daily for days 2–5",
+        "frequency": "Once daily for 5 days",
+        "maxDose": "500 mg/day",
+        "notes": "Reduces infectiousness and symptom duration if commenced in catarrhal phase. Post-exposure prophylaxis for close contacts. Notify WA DoH — pertussis is a notifiable disease.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "azith-paed-respiratory",
+        "indication": "Community-acquired pneumonia / respiratory infection",
+        "route": "Oral",
+        "dose": "10 mg/kg on day 1 (max 500 mg), then 5 mg/kg daily on days 2–5 (max 250 mg/day)",
+        "frequency": "Once daily",
+        "maxDose": "500 mg day 1; 250 mg days 2–5",
+        "notes": "Suspension available (200 mg/5 mL). Can be given with food. Same 5-day course.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "benzylpenicillin",
+    "name": "Benzylpenicillin",
+    "genericName": "Benzylpenicillin sodium (Penicillin G)",
+    "drugClass": "Natural penicillin — narrow-spectrum beta-lactam antibiotic",
+    "tags": [
+      "benzylpenicillin",
+      "penicillin G",
+      "Crystapen",
+      "meningococcal",
+      "meningitis",
+      "iGAS",
+      "antibiotic",
+      "streptococcal"
+    ],
+    "synonyms": [
+      "Penicillin G",
+      "Crystapen",
+      "Bicillin (procaine form)"
+    ],
+    "indications": [
+      "Suspected meningococcal disease — pre-hospital empirical treatment before definitive diagnosis",
+      "Invasive Group A Streptococcal (iGAS) infection — in combination with clindamycin",
+      "Streptococcal pneumonia, rheumatic fever, syphilis, leptospirosis, actinomycosis"
+    ],
+    "contraindications": [
+      "Severe penicillin hypersensitivity (anaphylaxis) — use ceftriaxone as alternative",
+      "Hypersensitivity to procaine if using procaine benzylpenicillin form"
+    ],
+    "precautions": [
+      "Anaphylaxis risk — have adrenaline and resuscitation equipment immediately available",
+      "Cross-reactivity with cephalosporins (<5%) — if severe penicillin allergy, use ceftriaxone with caution (or chloramphenicol if available)",
+      "Seizures at very high doses or in patients with renal failure — dose reduction in renal impairment",
+      "IV dose must be given slowly as direct injection or short infusion — very rapid bolus risks seizures",
+      "Pre-hospital IM administration is acceptable and appropriate when IV access cannot be established rapidly",
+      "Procaine benzylpenicillin (different preparation) — confirm formulation before administration"
+    ],
+    "sideEffects": [
+      "Hypersensitivity / allergic reactions — urticaria, rash, anaphylaxis",
+      "Pain at IM injection site",
+      "Seizures (very high doses or renal failure)",
+      "Electrolyte disturbance with high doses (sodium or potassium salt load)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Bactericidal. Irreversibly binds penicillin-binding proteins (PBPs) — the transpeptidase enzymes responsible for cross-linking peptidoglycan in bacterial cell walls. This inhibits cell wall synthesis and activates autolytic enzymes, leading to bacterial cell lysis. Narrow spectrum: highly active against streptococci, meningococci, pneumococci, Listeria, Treponema pallidum, Leptospira, Clostridium, Bacillus anthracis. Poor gram-negative coverage; destroyed by beta-lactamases.",
+      "metabolism": "Not orally absorbed (destroyed by gastric acid — must be given parenterally). Distributed to tissues; limited CNS penetration except in inflamed meninges.",
+      "excretion": "Primarily renal tubular secretion. Half-life 30–60 minutes (short — requires 4–6-hourly dosing for sustained treatment)."
+    },
+    "adultDosing": [
+      {
+        "id": "benzylpen-meningococcal-adult",
+        "indication": "Suspected meningococcal disease — pre-hospital",
+        "route": "IV or IM",
+        "dose": "2.4 g (2,400,000 units) IV or IM",
+        "frequency": "Single pre-hospital dose; continue 2.4 g IV 4-hourly on arrival to hospital",
+        "maxDose": "2.4 g pre-hospital dose",
+        "notes": "Do not delay administration waiting for LP or cultures — if meningococcal disease is clinically suspected, give immediately. IV preferred; IM acceptable if IV access unavailable. Use IM into lateral thigh or deltoid. Document time of administration. Notify WA DoH — meningococcal is a notifiable disease.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "benzylpen-meningococcal-paed",
+        "indication": "Suspected meningococcal disease — pre-hospital",
+        "route": "IV or IM",
+        "dose": "Age-based: <1 year: 300 mg; 1–9 years: 600 mg; ≥10 years: 1.2 g",
+        "frequency": "Single pre-hospital dose",
+        "maxDose": "1.2 g in children ≥10 years (adult dose 2.4 g for ≥18 years)",
+        "notes": "Same principle: give without delay if meningococcal suspected. Ceftriaxone 100 mg/kg IM/IV (max 2 g) is an alternative if benzylpenicillin unavailable or penicillin allergy. IM acceptable if IV access cannot be established quickly.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [
+      "invasive-group-a-streptococcus"
+    ],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "clindamycin",
+    "name": "Clindamycin",
+    "genericName": "Clindamycin hydrochloride / phosphate",
+    "drugClass": "Lincosamide antibiotic",
+    "tags": [
+      "clindamycin",
+      "Dalacin",
+      "antibiotic",
+      "lincosamide",
+      "skin infection",
+      "anaerobic",
+      "necrotising fasciitis",
+      "MRSA",
+      "streptococcal"
+    ],
+    "synonyms": [
+      "Dalacin C",
+      "Clindacin"
+    ],
+    "indications": [
+      "Skin and soft tissue infections — particularly when MRSA suspected or penicillin allergy precludes beta-lactams",
+      "Necrotising fasciitis — adjunct to surgical debridement; inhibits toxin production by Group A Streptococcus",
+      "Dental infections — anaerobic cover when amoxicillin cannot be used",
+      "Aspiration pneumonia and lung abscess — anaerobic cover",
+      "Bone and joint infections — excellent bone penetration",
+      "Combination therapy with benzylpenicillin for severe iGAS infection"
+    ],
+    "contraindications": [
+      "History of clindamycin-associated colitis or severe antibiotic-associated diarrhoea",
+      "Known hypersensitivity to clindamycin or lincomycin"
+    ],
+    "precautions": [
+      "Clostridioides difficile — clindamycin has one of the highest rates of C.diff-associated diarrhoea of all antibiotics; monitor for watery or bloody diarrhoea during and up to 8 weeks after treatment",
+      "Diarrhoea during therapy warrants clinical review and possible cessation — never treat without first ruling out C.diff",
+      "Poor CNS penetration — do not use for meningitis or CNS infections",
+      "IV: infuse over at least 20–60 minutes — rapid IV injection risks cardiac arrhythmia and hypotension",
+      "Does NOT cover gram-negative aerobes — not suitable as monotherapy for polymicrobial infections"
+    ],
+    "sideEffects": [
+      "Diarrhoea (common) — may signal C.diff",
+      "Clostridioides difficile colitis (most important adverse effect — can be severe and life-threatening)",
+      "Nausea, metallic taste",
+      "Oesophagitis (oral capsules — take with full glass of water, remain upright)",
+      "Elevated liver enzymes",
+      "Rash"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Bacteriostatic (bactericidal at high concentrations). Binds the 50S ribosomal subunit at a site overlapping with macrolides and chloramphenicol, blocking transpeptidation and thereby halting protein synthesis. Critically, it inhibits toxin synthesis in Group A Streptococcus and Staphylococcus — explaining its use in necrotising fasciitis and toxic shock syndrome alongside a cell-wall active agent. Excellent tissue and bone penetration; good anaerobic activity; active against MRSA in some protocols.",
+      "metabolism": "Extensively metabolised in liver to active (clindamycin sulfoxide) and inactive metabolites.",
+      "excretion": "Biliary and renal excretion of metabolites. Half-life ~2–3 hours. Dose adjustment in severe hepatic impairment."
+    },
+    "adultDosing": [
+      {
+        "id": "clinda-skin-oral",
+        "indication": "Skin/soft tissue infection (MRSA-suspected or penicillin allergy)",
+        "route": "Oral",
+        "dose": "300–450 mg",
+        "frequency": "Every 6–8 hours",
+        "maxDose": "450 mg per dose; 1.8 g/day",
+        "notes": "Take with full glass of water; remain upright for 10 minutes. Course 5–10 days. Capsules (150 mg each). Stop and review immediately if diarrhoea develops.",
+        "isWeightBased": false
+      },
+      {
+        "id": "clinda-iv-serious",
+        "indication": "Necrotising fasciitis, severe iGAS, aspiration pneumonia",
+        "route": "IV infusion",
+        "dose": "600 mg IV every 8 hours",
+        "frequency": "Every 8 hours (every 6 hours for severe sepsis)",
+        "maxDose": "1.2 g every 6 hours; 4.8 g/day maximum",
+        "notes": "MUST be diluted and infused over at least 20–60 minutes — never give as rapid IV bolus. For necrotising fasciitis and iGAS, use in combination with benzylpenicillin 2.4 g IV 4-hourly. The combination provides cell-wall activity (penicillin) plus toxin suppression (clindamycin).",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "clinda-paed-oral",
+        "indication": "Skin/soft tissue infection",
+        "route": "Oral",
+        "dose": "8–16 mg/kg/day divided 6-hourly",
+        "frequency": "Four times daily",
+        "maxDose": "450 mg per dose",
+        "notes": "Oral liquid available. Course 5–10 days. Monitor closely for diarrhoea.",
+        "isWeightBased": true
+      }
+    ],
+    "relatedGuidelineIDs": [
+      "invasive-group-a-streptococcus"
+    ],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "valaciclovir",
+    "name": "Valaciclovir",
+    "genericName": "Valaciclovir hydrochloride",
+    "drugClass": "Antiviral — pro-drug of aciclovir; nucleoside analogue",
+    "tags": [
+      "valaciclovir",
+      "Valtrex",
+      "antiviral",
+      "shingles",
+      "herpes zoster",
+      "herpes simplex",
+      "varicella",
+      "chickenpox"
+    ],
+    "synonyms": [
+      "Valtrex",
+      "Zelitrex"
+    ],
+    "indications": [
+      "Herpes zoster (shingles) — first-line oral antiviral treatment",
+      "Herpes simplex — recurrent labialis (cold sores) and recurrent genital herpes",
+      "Varicella (chickenpox) in immunocompromised adults",
+      "Suppression of recurrent genital herpes"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to valaciclovir or aciclovir",
+      "Severe renal impairment (dose reduction mandatory; see dosing notes)"
+    ],
+    "precautions": [
+      "Commence as early as possible after onset of symptoms — most effective within 48–72 hours of zoster rash appearance",
+      "Dose reduction mandatory in renal impairment — high doses in renal failure cause neurological toxicity (encephalopathy, ataxia, confusion)",
+      "Adequate hydration is important during treatment",
+      "Thrombotic thrombocytopenic purpura (TTP) — rare but serious in immunocompromised patients (e.g. HIV, transplant); not a concern in immunocompetent patients",
+      "Pregnancy: aciclovir (and valaciclovir) are generally considered safe in pregnancy when clinically indicated — discuss risk-benefit"
+    ],
+    "sideEffects": [
+      "Nausea, headache, dizziness (common; well tolerated overall)",
+      "Neurological: confusion, encephalopathy (primarily in renal impairment)",
+      "Renal impairment (with inadequate hydration or high doses)",
+      "TTP (rare, immunocompromised patients)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Valaciclovir is an L-valyl ester pro-drug of aciclovir, achieving 3–5 times higher oral bioavailability (~55%) than aciclovir (~20%). After absorption, intestinal and hepatic esterases convert it to aciclovir. Aciclovir is then selectively phosphorylated by viral thymidine kinase (in herpes-infected cells) to aciclovir monophosphate, then by cellular enzymes to aciclovir triphosphate. Aciclovir triphosphate is a competitive inhibitor and chain terminator of viral DNA polymerase. Its selectivity for infected cells (where viral thymidine kinase is expressed) explains its safety profile.",
+      "metabolism": "Rapidly converted to aciclovir and valine after oral absorption. Aciclovir is minimally metabolised.",
+      "excretion": "Primarily renal excretion of aciclovir (unchanged). Half-life of aciclovir: 2.5–3.3 hours. Significantly prolonged in renal impairment."
+    },
+    "adultDosing": [
+      {
+        "id": "valacic-zoster",
+        "indication": "Herpes zoster (shingles)",
+        "route": "Oral",
+        "dose": "1 g",
+        "frequency": "Three times daily (8-hourly)",
+        "maxDose": "1 g per dose; 3 g/day",
+        "notes": "Course: 7 days. Start within 72 hours of rash onset for maximum benefit; starting up to 7 days may still reduce severity in immunocompromised patients. Dose reduction: CrCl 30–49 mL/min — 1 g 12-hourly; CrCl 10–29 mL/min — 1 g daily; CrCl <10 mL/min — 500 mg daily. Ensure good hydration.",
+        "isWeightBased": false
+      },
+      {
+        "id": "valacic-hsv-cold-sore",
+        "indication": "Herpes labialis (cold sores) — recurrent episode treatment",
+        "route": "Oral",
+        "dose": "2 g",
+        "frequency": "Twice daily for 1 day only (2 doses 12 hours apart)",
+        "maxDose": "2 g per dose; 4 g on day 1",
+        "notes": "Two-dose same-day protocol. Initiate at first sign of prodrome (tingling, burning) — before blister appears. Earlier initiation = better outcome. Not effective if lesions fully formed.",
+        "isWeightBased": false
+      },
+      {
+        "id": "valacic-genital-first",
+        "indication": "First episode genital herpes",
+        "route": "Oral",
+        "dose": "500 mg",
+        "frequency": "Twice daily",
+        "maxDose": "500 mg per dose",
+        "notes": "Course: 5–10 days. May need hospital assessment for severe first episodes (urinary retention, neurological involvement). Counsel on transmission risk.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [
+      "varicella-chickenpox"
+    ],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-20T00:00:00Z"
   }
 ]
