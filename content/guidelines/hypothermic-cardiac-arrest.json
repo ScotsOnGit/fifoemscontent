@@ -23,21 +23,21 @@
       "id": "hypothermic-arrest-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Severe hypothermia can mimic death, so continue careful assessment and manage according to established hypothermia and cardiac arrest principles\n- Handle the patient gently and minimise unnecessary movement\n- Temperature measurement and rhythm interpretation should be integrated with the whole clinical picture\n- Refer to the current ANZCOR hypothermia guidance and your local hypothermic cardiac arrest algorithm for detailed management steps\n- Avoid declaring death in severe hypothermia until the clinical context and resuscitation pathway have been fully considered",
+      "content": "- Severe hypothermia can mimic death \u2014 always assess carefully; do not declare death until the patient is warm and unresponsive to resuscitation\n- \"No one is dead until they are warm and dead\" \u2014 continue resuscitation unless obvious incompatible-with-life injuries are present or rewarming is not achievable\n- Handle gently and minimise unnecessary movement \u2014 ventricular fibrillation can be provoked by rough handling\n- Temperature measurement and rhythm interpretation should integrate with the full clinical picture\n- **Osborne (J) waves** on ECG \u2014 a positive deflection at the J-point (junction of QRS and ST segment) \u2014 are characteristic of hypothermia; they do not require treatment but confirm severity\n- Atrial arrhythmias are common in hypothermia and often resolve with rewarming; routine treatment may be harmful\n\n**Temperature thresholds and defibrillation:**\n- **Mild (32\u201335\u00b0C):** Defibrillation as per standard ALS\n- **Moderate (28\u201332\u00b0C):** Attempt defibrillation; if VF persists after 3 shocks, defer further shocks until core temp >30\u00b0C \u2014 drugs and further defibrillation have reduced efficacy\n- **Severe (<28\u00b0C / \u226430\u00b0C per some guidelines):** Limit to 3 defibrillation attempts until rewarming is achieved; vasopressors and antiarrhythmics have limited effect and may accumulate to toxic levels\n- **Asystole in hypothermia:** CPR indicated; do not use epinephrine routinely until >30\u00b0C\n\n**Rewarming hierarchy:**\n1. Passive external (remove wet clothing, insulate, warm environment)\n2. Active external (warm packs, bear-hugger, MEQU fluid warmer for IV fluids)\n3. Active internal (warmed IV fluids, warm humidified oxygen)\n4. Extracorporeal rewarming \u2014 ECMO or cardiac bypass (definitive care only)",
       "sortOrder": 1
     },
     {
       "id": "hypothermic-arrest-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
+      "title": "Management \u2013 Primary",
       "content": "- Start or continue CPR if cardiac arrest is confirmed\n- Protect the airway and provide oxygenation or ventilation as required\n- Prevent further heat loss with insulation and environmental control\n- Avoid rough handling and unnecessary pauses\n- Expedite access to definitive care capable of advanced rewarming",
       "sortOrder": 2
     },
     {
       "id": "hypothermic-arrest-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- Advanced airway, vascular access, defibrillation strategy, and medication timing should follow the current hypothermic cardiac arrest algorithm and ANZCOR guidance\n- Use core temperature and the overall resuscitation context to guide ongoing decisions where available\n- Consider specialist retrieval early if extracorporeal or advanced rewarming pathways may be relevant",
+      "title": "Management \u2013 Advanced",
+      "content": "- Advanced airway where required for airway protection or oxygenation \u2014 intubation does NOT trigger VF if handled gently and core temp >28\u00b0C\n- Administer warmed IV fluids where available (MEQU fluid warmer) to support rewarming\n- Defibrillation strategy based on core temperature (see Considerations)\n- Cardiac monitoring: identify VF, atrial arrhythmias, Osborne J waves, QT prolongation\n- Do not administer adrenaline or antiarrhythmics routinely until core temperature >30\u00b0C\n- If VF is refractory to 3 shocks at <30\u00b0C, continue CPR and defer further shocks and drugs until rewarming progresses\n- Use iSTAT or point-of-care testing where available; pH and potassium levels inform prognosis (K\u207a >12 mmol/L in non-asphyxia arrest = poor prognosis for ECMO)\n- Contact retrieval/ECMO service early if extracorporeal rewarming pathway may be relevant\n- Expedite to facility with advanced rewarming capability\n\n**This guideline should be read alongside the Hypothermia guideline and the current hypothermic cardiac arrest algorithm.**",
       "sortOrder": 3
     },
     {
