@@ -23,7 +23,7 @@
       "id": "sepsis-septic-shock-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**General:** Fever or hypothermia, chills, rigors, malaise, altered mental status (GCS <15, confusion, lethargy, coma)\n**Cardiovascular:** Hypotension (systolic BP <100 mmHg or MAP <65 mmHg), tachycardia, weak or thready pulses, delayed capillary refill, cool or mottled extremities\n**Respiratory:** Tachypnoea, hypoxia, dyspnoea, possible respiratory distress or failure\n**Renal:** Oliguria or anuria\n**Metabolic:** Elevated lactate, metabolic acidosis\n**Other:** Evidence of infection (local or systemic), possible skin mottling, cyanosis, or non- blanching rash",
+      "content": "**Red Flag Sepsis** \u2014 high deterioration risk, organ dysfunction present\n\n**Adults (\u226512 years) \u2014 Red Flag if ANY present:**\n- Objective evidence of new/altered mental status\n- SBP \u226490 mmHg or >40 mmHg drop from baseline\n- Heart rate \u2265130 bpm\n- Temperature \u226435\u00b0C\n- Respiratory rate \u226525 breaths/min\n- Oxygen required to maintain SpO\u2082 \u226594% (\u226588% in COPD)\n- Non-blanching rash, mottling, pallor, or cyanosis\n- No urine output for 18+ hours (<0.5 mL/kg/hr if catheterised)\n- Lactate \u22652 mmol/L\n- Recent chemotherapy\n\n**Children <5 years \u2014 Red Flag if ANY present:**\n- BGL <3.0 mmol/L (neonates <2.6 mmol/L)\n- Unresponsiveness or difficulty rousing\n- Appears unwell to healthcare provider\n- Respiratory rate: \u226575/min (<12 months), \u226555/min (1\u20135 years)\n- Heart rate: \u2265180/min (<12 months), \u2265170/min (1\u20135 years)\n- SBP: \u226450 mmHg (<3 months), \u226460 mmHg (3 months\u20135 years)\n- SpO\u2082 <88% or O\u2082 requirement \u226510 L/min\n- Non-blanching rash\n- Lactate >4 mmol/L\n\n**Children 5\u201311 years \u2014 Red Flag if ANY present:**\n- BGL \u22643.0 mmol/L\n- Unresponsiveness or difficulty rousing\n- Objective altered mental status\n- Respiratory rate \u226550/min; Heart rate \u2265170 bpm or bradycardia <60 bpm\n- SBP <60 mmHg\n- SpO\u2082 <88% or O\u2082 requirement >10 L/min\n- Non-blanching rash; Lactate >4 mmol/L\n\n**Pregnant patients:** Same adult Red Flag criteria; note lactate may be elevated post-delivery\n\n---\n\n**Amber Flag Sepsis (Adults)** \u2014 moderate-to-high deterioration risk:\n- Relative concern about mental status or acute functional decline\n- Recent trauma, surgery, or procedure within 8 weeks\n- Immunosuppression (cancer treatment, long-term steroids, diabetes, splenectomy)\n- Respiratory rate 21\u201324/min\n- Heart rate 91\u2013129 bpm or new dysrhythmia\n- SBP 91\u2013100 mmHg\n- Temperature 35.1\u201336\u00b0C or \u226538\u00b0C\n- Clinical wound infection signs\n\n**High-Risk Populations:**\n- Age <1 year or >75 years; frail individuals\n- Impaired immunity (cancer, diabetes, sickle cell, chronic steroids, immunosuppressants)\n- Recent surgery or invasive procedure within 6 weeks\n- Skin breach (cuts, burns, blisters, infected wounds)\n- IV drug use; indwelling lines or catheters",
       "sortOrder": 1
     },
     {
@@ -36,14 +36,14 @@
     {
       "id": "sepsis-septic-shock-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
+      "title": "Management \u2013 Primary",
       "content": "- Primary Survey\n- Oxygen only as clinically indicated\n- Perform a focused A to E assessment and frequent reassessment\n- Use sepsis screening tools as an adjunct only\n- Do not rely on qSOFA alone to exclude or confirm sepsis\n- Maintain a high index of suspicion in any patient with suspected infection plus abnormal vital signs, altered mental state, poor perfusion, or clinical deterioration\n- Minimise scene time and arrange early hospital pre-notification when sepsis or septic shock is suspected\n- Be prepared for rapid deterioration and possible cardiac arrest",
       "sortOrder": 3
     },
     {
       "id": "sepsis-septic-shock-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
+      "title": "Management \u2013 Advanced",
       "content": "- Obtain IV access early, ideally two large-bore cannulas where feasible\n- Apply cardiac monitoring\n- Measure lactate where available if this does not delay care\n- Consider crystalloid fluid resuscitation for hypotension or suspected hypoperfusion, with frequent reassessment for response and fluid overload\n- Consider early IV antibiotics only in consultation with the on-call doctor and local protocol\n- Escalate early for likely sepsis or septic shock\n- Consider vasopressor support only in consultation with the on-call doctor and within local scope or infusion capability",
       "sortOrder": 4
     },
