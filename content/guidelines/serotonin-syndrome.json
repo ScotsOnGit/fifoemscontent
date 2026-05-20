@@ -31,20 +31,20 @@
       "id": "serotonin-syndrome-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- Serotonin syndrome typically presents with altered mental state, autonomic hyperactivity, and neuromuscular excitation, especially clonus and hyperreflexia\n- More severe serotonin toxicity with progressive hyperthermia, rigidity, and seizures is life-threatening; sedation and rapid cooling are key priorities\n- Citalopram and escitalopram can prolong the QT interval and increase the risk of torsades de pointes",
+      "content": "- Investigating why/how the overdose occurred is important to rule out self-harm\n- **Hunter Criteria (most validated prehospital diagnostic tool):** Serotonin toxicity is diagnosed when a serotonergic drug has been taken AND any of the following are present:\n  - Spontaneous clonus\n  - Inducible clonus PLUS agitation or diaphoresis\n  - Ocular clonus PLUS agitation or diaphoresis\n  - Tremor PLUS hyperreflexia\n  - Hypertonia PLUS temperature >38\u00b0C PLUS ocular or inducible clonus\n- Clonus (rhythmic muscle contractions, especially at the ankle) is the most discriminating feature \u2014 more specific than diaphoresis, tremor, or tachycardia alone\n- More severe toxicity with progressive hyperthermia, rigidity, and seizures is life-threatening; sedation and rapid active cooling are the key prehospital priorities\n- Citalopram and escitalopram can prolong QT interval and increase risk of torsades de pointes\n- Cyproheptadine (serotonin antagonist) is a hospital treatment only",
       "sortOrder": 2
     },
     {
       "id": "serotonin-syndrome-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
+      "title": "Management \u2013 Primary",
       "content": "- Primary Survey\n- Offer continuous support and reassurance if applicable\n- Position patient appropriately\n- Administer oxygen if indicated\n- Initiate active cooling if the patient is hyperthermic\n- Record vital signs and assess for clonus, rigidity, agitation, and reduced conscious state\n- Have a low threshold for calling the on-call doctor or Poisons Information",
       "sortOrder": 3
     },
     {
       "id": "serotonin-syndrome-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
+      "title": "Management \u2013 Advanced",
       "content": "- Consider advanced airway\n- Provide assisted ventilation if required\n- Gain IV access\n- Consider fluids if indicated\n- Consider midazolam in consultation with the on-call doctor for agitation, clonus, or seizures\n- Apply cardiac monitoring and 12 lead ECG for QTc prolongation; be aware that tremor may cause artefact\n- Escalate early for hyperthermia, rigidity, seizures, or rapid deterioration",
       "sortOrder": 4
     },
