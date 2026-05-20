@@ -35,14 +35,14 @@
     {
       "id": "hypoglycaemia-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
-      "content": "- Primary Survey\n- Ensure airway patency and provide assisted ventilations as clinically indicated\n- Administer supplemental oxygen if indicated\n- Vital Sign Survey with repeat BGL checks\n\n**If conscious and able to swallow safely:**\n- Administer oral glucose, sugary drink, or glucose gel\n- Reassess GCS and BGL after 10 minutes\n- Provide follow-up complex carbohydrate if needed\n\n**If impaired conscious state:**\n- Withhold oral intake if airway protection is impaired\n- Administer intramuscular glucagon if within scope\n- Consider advanced management\n- Monitor closely and reassess conscious state and BGL",
+      "title": "Management \u2013 Primary",
+      "content": "- Primary Survey\n- Ensure airway patency and provide assisted ventilations as clinically indicated\n- Administer supplemental oxygen if indicated\n- Vital Sign Survey with repeat BGL checks\n\n**If conscious and able to swallow safely:**\n- Administer oral glucose, sugary drink, or glucose gel\n- Reassess GCS and BGL after 10 minutes\n- Provide follow-up complex carbohydrate if patient recovers\n\n**If impaired consciousness or unable to swallow safely:**\n- Do not administer anything orally \u2014 aspiration risk\n- **IM Glucagon** \u2014 first-line when IV access is unavailable or impractical:\n  - Adults and children \u226525 kg: 1 mg IM (anterolateral thigh)\n  - Children <25 kg: 0.5 mg IM\n  - Note: glucagon is less effective in patients with glycogen depletion (prolonged starvation, liver disease, alcohol excess)\n- Arrange IV access for glucose administration as soon as possible\n- Reassess GCS and BGL after treatment; repeat if inadequate response\n\n**Acarbose note:** Patients taking acarbose (alpha-glucosidase inhibitor) must receive pure glucose (not sucrose-based drinks) \u2014 acarbose blocks sucrose absorption, rendering sugary drinks ineffective.",
       "sortOrder": 3
     },
     {
       "id": "hypoglycaemia-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
+      "title": "Management \u2013 Advanced",
       "content": "- Obtain IV access if achievable\n- Confirm IV patency before glucose administration\n- Administer intravenous glucose, preferably 10% dextrose where available, titrating the dose to clinical effect\n- Reassess GCS and BGL after treatment\n- If BGL remains low or symptoms persist, repeat treatment and seek senior advice\n- Consider benzodiazepines if seizing\n- Consider cardiac monitoring",
       "sortOrder": 4
     },
