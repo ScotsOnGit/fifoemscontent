@@ -1,0 +1,75 @@
+{
+  "id": "invasive-group-a-streptococcus",
+  "title": "Invasive Group A Streptococcus (iGAS)",
+  "category": "medical",
+  "tags": [
+    "igas",
+    "streptococcus",
+    "strep",
+    "necrotising fasciitis",
+    "sepsis",
+    "notifiable",
+    "infectious"
+  ],
+  "synonyms": [
+    "iGAS",
+    "Group A Strep",
+    "Streptococcus pyogenes",
+    "GAS",
+    "Necrotising fasciitis",
+    "Strep throat complications"
+  ],
+  "sections": [
+    {
+      "id": "igas-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Invasive Group A Streptococcus (iGAS) is caused by *Streptococcus pyogenes*, a bacterium capable of causing a spectrum of disease from superficial infections to rapidly life-threatening invasive conditions including necrotising fasciitis and streptococcal toxic shock syndrome (STSS).\n\n**Incubation:** Typically 1\u20133 days (up to 30 days)\n\n**Infectious period:** From 7 days before symptom onset until 24 hours after effective antibiotic therapy commences\n\n**Notifiable disease in Australia.** iGAS is associated with high mortality \u2014 early recognition and rapid transport are critical.",
+      "sortOrder": 0
+    },
+    {
+      "id": "igas-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "### Invasive Presentations\n- **Necrotising fasciitis:** Rapidly spreading skin infection \u2014 red, warm, swollen, tender; **pain disproportionate to appearance**; skin may become dusky/blistered; crepitus (gas in tissue) is a late sign\n- **Streptococcal Toxic Shock Syndrome (STSS):** Fever, hypotension, multi-organ failure\n- **Bacteraemia/Sepsis:** Fever, tachycardia, hypotension\n- **Pneumonia:** Pleuritic chest pain, fever, dyspnoea\n\n### General Signs & Symptoms\n- Fever and/or chills\n- Shortness of breath, chest pain\n- Rapidly spreading skin infection with possible pus or ulceration\n- Signs of sepsis or shock with multi-organ failure\n- Nausea, vomiting, abdominal pain\n- Dizziness, headache, neck stiffness\n\n### Paediatric Presentation\nFever, rash, mottled limbs, headache, limb/abdominal pain, poor feeding, reduced urine output, lethargy, seizures, increased work of breathing, persistent tachycardia\n\n### Puerperal (Postpartum) Presentation\nVaginal bleeding or purulent discharge, fever, lower abdominal pain \u2014 evaluate mother-infant pair",
+      "sortOrder": 1
+    },
+    {
+      "id": "igas-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "### High-Risk Features \u2014 Treat as Time Critical\n- Pain out of proportion to visible injury\n- Rapid skin changes (dusky, purple, blistering)\n- Sepsis Red Flags (refer Sepsis CPG)\n- Haemodynamic instability\n\n### Transmission\n- **Contact:** Direct contact with nose/throat secretions or infected skin lesions\n- **Droplet:** Respiratory droplets and aerosols\n\n### Mine Site Context\n- Skin injuries (lacerations, abrasions) common on mine sites \u2014 any wound with rapidly worsening pain, spreading erythema, or systemic deterioration should raise concern for iGAS\n- Low threshold for urgent evacuation: iGAS can progress from minor wound to necrotising fasciitis within hours\n- Notify site medical officer of suspected cases\n\n### PPE\n- Gloves\n- P2/N95 respirator\n- Eye protection\n- Gown/coveralls (risk-assess; required for significant wound contact)\n- Apply surgical mask to patient if tolerated",
+      "sortOrder": 2
+    },
+    {
+      "id": "igas-management-basic",
+      "type": "management_basic",
+      "title": "Management \u2013 Primary",
+      "content": "- Primary Survey\n- Maintain low threshold for **Emergency Department transport** \u2014 do not delay for definitive wound management in the field\n- Administer oxygen if hypoxaemic\n- Apply clean dressings; do not debride or incise\n- Use NEWS2 or sepsis criteria to grade urgency\n- **Sepsis with iGAS features = time-critical transport**",
+      "sortOrder": 3
+    },
+    {
+      "id": "igas-management-advanced",
+      "type": "management_advanced",
+      "title": "Management \u2013 Advanced",
+      "content": "- IV access; fluid resuscitation per Sepsis/Hypovolaemic Shock CPG\n- Manage fever and pain as appropriate\n- Serial vital signs and GCS monitoring during transport\n- Notify receiving hospital of suspected iGAS/necrotising fasciitis **before arrival** \u2014 surgical team activation may be required\n- Do not attempt field incision/drainage of suspected necrotising fasciitis\n\n### Septic Shock\nManage per Sepsis CPG \u2014 target SBP \u226590 mmHg, titrate fluids, vasopressor support (hospital-initiated)",
+      "sortOrder": 4
+    },
+    {
+      "id": "igas-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- **Notifiable disease** \u2014 report to WA Department of Health\n- Definitive treatment is IV antibiotics (penicillin + clindamycin) and surgical debridement for necrotising fasciitis \u2014 time from presentation to surgery directly impacts survival\n- Close contacts (especially household/accommodation contacts) should be assessed for prophylaxis by public health\n- Document all patient contacts who may require follow-up",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [],
+  "relatedGuidelineIDs": [
+    "sepsis-septic-shock",
+    "cellulitis",
+    "proc-ppe-donning-doffing"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-20T00:00:00Z"
+}
