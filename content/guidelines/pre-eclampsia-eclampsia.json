@@ -39,15 +39,15 @@
     {
       "id": "pre-eclampsia-eclampsia-management-basic",
       "type": "management_basic",
-      "title": "Management – Primary",
+      "title": "Management \u2013 Primary",
       "content": "- Primary Survey\n- Treat seizures promptly under the seizure pathway if present\n- Position to minimise aortocaval compression where appropriate\n- Perform frequent blood pressure, conscious state, and respiratory reassessment\n- Give oxygen only if clinically indicated\n- Keep stimulation low where possible and prioritise urgent transport to an obstetric-capable facility",
       "sortOrder": 3
     },
     {
       "id": "pre-eclampsia-eclampsia-management-advanced",
       "type": "management_advanced",
-      "title": "Management – Advanced",
-      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Severe pre-eclampsia threshold: BP ≥160 mmHg systolic or ≥110 mmHg diastolic — this is the threshold for urgent antihypertensive treatment to prevent stroke\n- Consider magnesium sulphate within local protocol and senior support for eclampsia or imminent eclampsia — magnesium sulphate is the specific treatment for eclamptic seizures and is preferred over benzodiazepines alone; do not default to the generic seizure pathway without considering magnesium\n- Treat recurrent or ongoing seizure activity within protocol while maintaining airway and ventilation\n- Consider antihypertensive therapy only within local protocol or senior direction for BP at or above the severe threshold\n- Pre-notify receiving obstetric or emergency team early",
+      "title": "Management \u2013 Advanced",
+      "content": "- ECG\n- Gain IV access early and monitor closely for deterioration\n- Severe pre-eclampsia threshold: BP \u2265160 mmHg systolic or \u2265110 mmHg diastolic \u2014 urgent antihypertensive treatment required to prevent stroke\n- **Magnesium sulphate for eclamptic seizures** (within local protocol and with senior support):\n  - Dose: 20 mmol (10 mL of 2 mmol/mL solution) diluted in 40 mL sodium chloride 0.9%\n  - Infuse over 20 minutes IV\n  - Signs of magnesium toxicity: loss of deep tendon reflexes, respiratory depression\n  - Antidote: calcium gluconate 1 g IV slowly if toxicity occurs\n- Position to minimise aortocaval compression (left lateral or left lateral tilt \u226520 weeks gestation) \u2014 do not position supine\n- Provide oxygen if clinically indicated\n- Perform frequent blood pressure and conscious state reassessment\n- Priority 1 transport to obstetric unit with pre-notification",
       "sortOrder": 4
     },
     {
