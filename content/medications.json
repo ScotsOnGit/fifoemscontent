@@ -8255,5 +8255,349 @@
     "isFreeContent": true,
     "version": 1,
     "lastUpdated": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "tramadol",
+    "name": "Tramadol",
+    "genericName": "Tramadol hydrochloride",
+    "drugClass": "Centrally acting analgesic — weak opioid agonist and monoamine reuptake inhibitor",
+    "tags": [
+      "tramadol",
+      "Tramal",
+      "analgesic",
+      "pain",
+      "opioid",
+      "moderate pain",
+      "musculoskeletal"
+    ],
+    "synonyms": [
+      "Tramal",
+      "Zydol",
+      "Tramahexal"
+    ],
+    "indications": [
+      "Moderate to severe acute pain when paracetamol and NSAIDs are insufficient",
+      "Musculoskeletal pain — back injuries, fractures, soft tissue injuries",
+      "Post-procedural pain",
+      "Neuropathic pain (off-label, second-line)"
+    ],
+    "contraindications": [
+      "Concurrent or within 14 days of MAOI therapy — risk of serotonin syndrome and seizures",
+      "Concurrent SSRIs, SNRIs, or other serotonergic drugs — significant serotonin syndrome risk",
+      "Uncontrolled epilepsy or seizure disorder",
+      "Acute alcohol intoxication or concurrent CNS depressants (additive CNS and respiratory depression)",
+      "Severe hepatic or renal impairment",
+      "Children under 12 years of age (oral); under 18 years if post-tonsillectomy/adenoidectomy"
+    ],
+    "precautions": [
+      "Serotonin syndrome risk — tramadol inhibits serotonin and noradrenaline reuptake; combinations with SSRIs, SNRIs, triptans (including sumatriptan), MAOIs, tramadol, linezolid are dangerous",
+      "Seizure threshold lowered — risk is dose-dependent and increased by SSRIs, TCAs, antipsychotics",
+      "Respiratory depression less than pure opioids but still possible at high doses or in combination with other CNS depressants",
+      "Dependence and withdrawal — opioid-like dependence with prolonged use",
+      "Nausea and vomiting common on initiation — consider prophylactic ondansetron",
+      "Dose reduction in renal and hepatic impairment — extend dosing interval",
+      "CYP2D6 ultra-rapid metabolisers may experience exaggerated opioid effects; poor metabolisers may have reduced analgesia"
+    ],
+    "sideEffects": [
+      "Nausea, vomiting, constipation (very common)",
+      "Dizziness, somnolence, headache",
+      "Serotonin syndrome (with serotonergic drugs)",
+      "Seizures (dose-related; potentiated by serotonergic drugs)",
+      "Respiratory depression (less than morphine; possible at high doses or polypharmacy)",
+      "Sweating, dry mouth",
+      "Withdrawal syndrome on abrupt cessation after prolonged use"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Dual mechanism analgesic. Tramadol is a racemic mixture: the (+) enantiomer is a weak μ-opioid receptor agonist and inhibits serotonin reuptake; the (−) enantiomer inhibits noradrenaline reuptake. The combination activates descending monoaminergic inhibitory pain pathways and provides μ-opioid-mediated analgesia. CYP2D6 converts tramadol to its more potent O-desmethyl metabolite (M1) with higher μ-opioid affinity.",
+      "metabolism": "Extensive hepatic metabolism via CYP2D6 and CYP3A4. Active metabolite M1 (O-desmethyltramadol) is more potent at opioid receptors. Significant interindividual variation based on CYP2D6 genotype.",
+      "excretion": "Renal excretion of parent drug and metabolites (~90%). Half-life tramadol: 5–6 hours; M1: 9 hours. Dose interval extension required if CrCl <30 mL/min."
+    },
+    "adultDosing": [
+      {
+        "id": "tramadol-acute-oral",
+        "indication": "Moderate to severe acute pain",
+        "route": "Oral (immediate release)",
+        "dose": "50–100 mg",
+        "frequency": "Every 4–6 hours as needed",
+        "maxDose": "400 mg/day",
+        "notes": "Start at 50 mg in opioid-naïve patients; titrate to 100 mg if inadequate relief. Take with food to reduce nausea. Avoid concurrent alcohol and CNS depressants. Use lowest effective dose for shortest duration. Screen for serotonergic medications before prescribing.",
+        "isWeightBased": false
+      },
+      {
+        "id": "tramadol-acute-im",
+        "indication": "Moderate to severe acute pain — when oral not tolerated",
+        "route": "IM",
+        "dose": "50–100 mg IM",
+        "frequency": "Every 4–6 hours",
+        "maxDose": "400 mg/day",
+        "notes": "IM into deltoid or gluteus. IV use possible in hospital setting (slow IV only — rapid IV causes seizures). Nausea common — have ondansetron available.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "ketorolac",
+    "name": "Ketorolac",
+    "genericName": "Ketorolac tromethamine",
+    "drugClass": "Non-steroidal anti-inflammatory drug (NSAID) — injectable analgesic",
+    "tags": [
+      "ketorolac",
+      "Toradol",
+      "NSAID",
+      "analgesic",
+      "pain",
+      "renal colic",
+      "injectable NSAID",
+      "anti-inflammatory"
+    ],
+    "synonyms": [
+      "Toradol",
+      "Acular (ophthalmic)"
+    ],
+    "indications": [
+      "Moderate to severe acute pain where parenteral analgesic is required and oral NSAIDs are not appropriate",
+      "Renal colic — highly effective as first-line or adjunct analgesic",
+      "Post-traumatic musculoskeletal pain, fracture pain",
+      "Post-operative pain"
+    ],
+    "contraindications": [
+      "Active or history of peptic ulcer disease or GI bleeding",
+      "Renal impairment (eGFR <30 mL/min) or acute kidney injury — NSAIDs reduce renal perfusion",
+      "Severe cardiac failure",
+      "Third trimester of pregnancy — premature closure of ductus arteriosus",
+      "Hypovolaemia or dehydration — risk of acute tubular necrosis",
+      "Coagulation disorders or concurrent anticoagulant therapy",
+      "Aspirin-sensitive asthma or NSAID hypersensitivity",
+      "Prior ketorolac hypersensitivity",
+      "Children under 16 years of age"
+    ],
+    "precautions": [
+      "Maximum cumulative treatment duration 5 days (combined oral + parenteral) — longer use dramatically increases GI bleed risk",
+      "Elderly (≥65 years) and patients <50 kg — halve the dose; use lowest effective dose",
+      "Significant GI bleeding risk with concurrent anticoagulants, corticosteroids, or aspirin",
+      "Renal function monitoring — NSAIDs reduce prostaglandin-mediated renal afferent arteriolar dilation; avoid in dehydration",
+      "IV route: give over ≥15 seconds; IM: use Z-track technique to prevent tissue tracking",
+      "Do not use as sole analgesic for major trauma — not a substitute for opioids in severe pain; use as opioid-sparing adjunct"
+    ],
+    "sideEffects": [
+      "GI upset, ulceration, bleeding (major concern — most significant with prolonged use or high doses)",
+      "Renal impairment (fluid retention, raised creatinine)",
+      "Injection site pain (IM especially)",
+      "Headache, dizziness",
+      "Oedema",
+      "Elevated liver enzymes"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Potent non-selective inhibitor of cyclooxygenase (COX-1 and COX-2), blocking prostaglandin synthesis. Prostaglandins sensitise peripheral nociceptors — by reducing prostaglandin E2 and I2 at injury sites, ketorolac provides analgesic and anti-inflammatory effects. Its parenteral availability makes it effective when oral NSAIDs cannot be used. Analgesic potency approaches that of some opioids for certain pain types (particularly renal/ureteral smooth muscle spasm).",
+      "metabolism": "Minimal hepatic metabolism (<50%). Oral bioavailability >80%. Half-life 4–6 hours (prolonged in elderly and renal impairment).",
+      "excretion": "Primarily renal excretion of unchanged drug and metabolites. Dose reduction or avoidance in renal impairment."
+    },
+    "adultDosing": [
+      {
+        "id": "ketorolac-im-standard",
+        "indication": "Moderate to severe acute pain (standard adult)",
+        "route": "IM",
+        "dose": "30 mg IM",
+        "frequency": "Every 6 hours as needed",
+        "maxDose": "90 mg/day (standard); 60 mg/day in patients ≥65 years or <50 kg",
+        "notes": "Administer by deep IM injection using Z-track technique to minimise local irritation. Maximum treatment duration: 5 days (cumulative oral + parenteral). If converting to oral ketorolac, reduce IV/IM dose first.",
+        "isWeightBased": false
+      },
+      {
+        "id": "ketorolac-iv",
+        "indication": "Acute pain — IV route",
+        "route": "IV",
+        "dose": "15–30 mg IV",
+        "frequency": "Every 6 hours as needed",
+        "maxDose": "120 mg/day (healthy adults <65 years and >50 kg)",
+        "notes": "Administer IV over at least 15 seconds. Reduce dose and frequency in elderly and lower body weight patients. Combine with opioids for severe pain — opioid-sparing agent. Maximum 5-day cumulative duration.",
+        "isWeightBased": false
+      },
+      {
+        "id": "ketorolac-renal-colic",
+        "indication": "Ureteric / renal colic",
+        "route": "IM or IV",
+        "dose": "30 mg IM or 15–30 mg IV",
+        "frequency": "Single dose; may repeat at 6 hours",
+        "maxDose": "60 mg/24 hours for colic",
+        "notes": "Effective for ureteric smooth muscle spasm. Combination with IV morphine or hyoscine butylbromide provides superior analgesia. Ensure patient is hydrated. Avoid if haematuria suggests renal artery involvement (rare).",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "pantoprazole",
+    "name": "Pantoprazole",
+    "genericName": "Pantoprazole sodium sesquihydrate",
+    "drugClass": "Proton pump inhibitor (PPI)",
+    "tags": [
+      "pantoprazole",
+      "Somac",
+      "Controloc",
+      "PPI",
+      "proton pump inhibitor",
+      "antacid",
+      "GI bleeding",
+      "GORD",
+      "peptic ulcer"
+    ],
+    "synonyms": [
+      "Somac",
+      "Pantoloc",
+      "Controloc"
+    ],
+    "indications": [
+      "GI mucosal protection — for patients on NSAIDs, aspirin, anticoagulants, corticosteroids, or antiplatelet agents (high-risk combinations)",
+      "Peptic ulcer disease — treatment and maintenance",
+      "Gastro-oesophageal reflux disease (GORD) — symptomatic and erosive",
+      "Upper GI bleeding — adjunct IV therapy (reduces re-bleeding after endoscopy)",
+      "Helicobacter pylori eradication — as part of triple therapy",
+      "Stress ulcer prophylaxis in critically ill patients"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to pantoprazole, other PPIs, or benzimidazoles",
+      "Concurrent atazanavir or rilpivirine (antiretrovirals) — PPIs significantly reduce their bioavailability"
+    ],
+    "precautions": [
+      "Chronic PPI use risks (>12 months): hypomagnesaemia (can cause tetany, arrhythmias), hyponatraemia, vitamin B12 deficiency, increased fracture risk (osteoporosis), increased risk of Clostridioides difficile",
+      "May mask symptoms of gastric malignancy — ensure malignancy excluded before long-term prescribing",
+      "Oral form: take 30–60 minutes before the first meal of the day for maximum efficacy",
+      "IV pantoprazole: infuse over at least 2–15 minutes — do not give as rapid IV bolus",
+      "Clopidogrel interaction: PPIs may reduce the antiplatelet effect of clopidogrel (CYP2C19 competition); pantoprazole has lower interaction risk than omeprazole",
+      "Hypomagnesaemia — screen patients on long-term therapy or concurrent digoxin/diuretics"
+    ],
+    "sideEffects": [
+      "Headache, diarrhoea, nausea (generally well tolerated)",
+      "Hypomagnesaemia (long-term use)",
+      "Increased susceptibility to GI infections (reduced gastric acid barrier)",
+      "Clostridioides difficile (long-term use)",
+      "Interstitial nephritis (rare)",
+      "Bone fractures with prolonged use (osteoporosis effect)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Irreversibly inhibits the H+/K+-ATPase enzyme (the gastric proton pump) in parietal cells of the stomach. The proton pump is the final common pathway for gastric acid secretion regardless of the stimulating agent (histamine, gastrin, acetylcholine). Because pantoprazole is converted to its active sulfenamide form in the acidic secretory canaliculi of parietal cells, it acts selectively at the site of acid secretion. A single dose reduces 24-hour acid output by ~85%; steady-state achieved in 2–3 days.",
+      "metabolism": "Extensively metabolised in the liver (CYP2C19 primarily, CYP3A4). Lower CYP2C19 interaction profile than omeprazole — relevant for clopidogrel co-prescription.",
+      "excretion": "Renal (~80%) and biliary/faecal (~20%) excretion of inactive metabolites. Half-life ~1 hour (but pharmacodynamic effect lasts 24+ hours due to irreversible enzyme binding)."
+    },
+    "adultDosing": [
+      {
+        "id": "panto-oral-GI-protection",
+        "indication": "GI mucosal protection (NSAIDs, aspirin, anticoagulants)",
+        "route": "Oral",
+        "dose": "40 mg once daily",
+        "frequency": "Once daily, 30–60 min before breakfast",
+        "maxDose": "80 mg/day",
+        "notes": "Start at initiation of NSAID/antiplatelet/anticoagulant therapy in high-risk patients (age >65, prior ulcer, concurrent anticoagulation). Continue for duration of risk factor use. Lowest effective dose for maintenance.",
+        "isWeightBased": false
+      },
+      {
+        "id": "panto-iv-GI-bleed",
+        "indication": "Upper GI bleeding / peptic ulcer",
+        "route": "IV infusion",
+        "dose": "80 mg IV over 30 minutes (loading), then 8 mg/hour infusion",
+        "frequency": "Continuous infusion for 72 hours post-endoscopy",
+        "maxDose": "80 mg loading; 8 mg/hour maintenance",
+        "notes": "IV protocol is a hospital-level treatment for confirmed peptic ulcer bleeding. At mine site: if haematemesis or melaena with haemodynamic instability, initiate resuscitation and IV pantoprazole 80 mg over 30 minutes while arranging urgent transfer.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "ergometrine",
+    "name": "Ergometrine",
+    "genericName": "Ergometrine maleate",
+    "drugClass": "Ergot alkaloid — oxytocic uterotonic",
+    "tags": [
+      "ergometrine",
+      "ergot",
+      "uterotonic",
+      "postpartum haemorrhage",
+      "PPH",
+      "oxytocic",
+      "Syntometrine",
+      "obstetric"
+    ],
+    "synonyms": [
+      "Ergonovine",
+      "Syntometrine (combined with oxytocin)"
+    ],
+    "indications": [
+      "Postpartum haemorrhage — second-line uterotonic when oxytocin alone is insufficient",
+      "Active management of third stage of labour — in combination with oxytocin (as Syntometrine 1 mL IM)",
+      "Subinvolution of the uterus"
+    ],
+    "contraindications": [
+      "Hypertension — including pre-eclampsia and eclampsia (ABSOLUTE contraindication — risk of severe hypertensive crisis, stroke, and death)",
+      "Cardiovascular disease — coronary artery disease, obliterative vascular disease",
+      "Sepsis",
+      "Hepatic or severe renal impairment",
+      "Hypersensitivity to ergot alkaloids",
+      "Concurrent potent CYP3A4 inhibitors (azole antifungals, macrolides, HIV protease inhibitors)"
+    ],
+    "precautions": [
+      "PRE-ECLAMPSIA — absolute contraindication; do not use in any patient with hypertension, pre-eclampsia, or eclampsia; use oxytocin alone",
+      "IV route is high-risk — use only in emergencies and give very slowly (risk of acute severe hypertension and coronary vasospasm); IM preferred",
+      "Only administered after delivery of the infant — never used antepartum",
+      "Sustained uterine contraction distinguishes it from oxytocin (which produces rhythmic contractions)",
+      "Nausea and vomiting common after IM administration",
+      "Syntometrine (ergometrine 500 micrograms + oxytocin 5 units per 1 mL) is the standard combination preparation used in practice"
+    ],
+    "sideEffects": [
+      "Nausea, vomiting (common after IM; less common with oral)",
+      "Hypertension, severe hypertensive crisis (particularly IV route or pre-existing hypertension)",
+      "Coronary vasospasm, chest pain",
+      "Headache, dizziness",
+      "Peripheral vasoconstriction, pallor",
+      "Uterine hyperstimulation"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Ergometrine directly stimulates smooth muscle of the uterus and blood vessels via partial agonism at α-adrenergic and 5-HT2 receptors, and dopamine D2 receptors. In the postpartum uterus it produces sustained (tetanic) contraction — more prolonged than oxytocin's rhythmic contractions. This sustained contraction occludes uterine sinusoids and reduces postpartum blood loss. Peripheral vasoconstriction contributes to elevated blood pressure, especially with IV administration.",
+      "metabolism": "Rapidly absorbed IM (onset 2–5 minutes). Hepatic first-pass metabolism if given orally (high). Metabolised by CYP3A4.",
+      "excretion": "Biliary excretion of metabolites. Half-life ~2 hours."
+    },
+    "adultDosing": [
+      {
+        "id": "ergometrine-pph-im",
+        "indication": "Postpartum haemorrhage or third stage of labour (IM)",
+        "route": "IM",
+        "dose": "250–500 micrograms IM",
+        "frequency": "Single dose; may repeat once at 2–4 hours if PPH ongoing",
+        "maxDose": "500 micrograms per dose; 1 mg in 24 hours",
+        "notes": "Standard combination: Syntometrine 1 mL IM (ergometrine 500 micrograms + oxytocin 5 units) at delivery of anterior shoulder or immediately after delivery of placenta. Check BP before administration — do NOT give if systolic >140 mmHg or diastolic >90 mmHg (use oxytocin alone instead). IM onset: 2–5 minutes.",
+        "isWeightBased": false
+      },
+      {
+        "id": "ergometrine-pph-iv",
+        "indication": "Postpartum haemorrhage — IV (emergency only)",
+        "route": "IV",
+        "dose": "250 micrograms IV slowly over ≥60 seconds",
+        "frequency": "Single slow IV dose in emergency",
+        "maxDose": "250 micrograms IV",
+        "notes": "IV route reserved for life-threatening PPH when IM route cannot be used. Give VERY SLOWLY over at least 60 seconds — rapid IV causes acute severe hypertension and potential coronary vasospasm. Monitor BP continuously during and after IV administration. Only administer IV if BP is confirmed normal pre-delivery.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [],
+    "relatedGuidelineIDs": [
+      "antepartum-haemorrhage"
+    ],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   }
 ]
