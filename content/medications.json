@@ -41,7 +41,10 @@
       "Transient AV block, sinus pause",
       "Bronchospasm (significant in asthma/COPD - avoid)",
       "Brief hypotension",
-      "Nausea"
+      "Nausea",
+      "Chest pain (transient - seconds only)",
+      "Headache and dizziness (transient)",
+      "Transient arrhythmia post-reversion (asystole, bradycardia, ventricular ectopy) - brief and self-limiting"
     ],
     "mechanismOfAction": {
       "mechanism": "Slows conduction through the AV node via A1 adenosine receptor activation, causing transient AV block. Interrupts re-entrant circuits dependent on AV nodal conduction (AVNRT, AVRT), restoring sinus rhythm.",
@@ -86,8 +89,8 @@
       "cardiac-arrhythmia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "adrenaline-epinephrine",
@@ -114,7 +117,10 @@
       "Cardiac arrest (VF, pulseless VT, PEA, asystole)",
       "Anaphylaxis / severe allergic reaction",
       "Severe bradycardia (refractory to atropine)",
-      "Severe bronchospasm (adjunct)"
+      "Severe bronchospasm (adjunct)",
+      "Severe croup (nebulised - reduces subglottic oedema; temporary effect, requires definitive care)",
+      "Shock - vasopressor of last resort when other vasopressors unavailable (in consultation with on-call doctor)",
+      "Orolingual oedema secondary to tPA infusion (in consultation with on-call doctor)"
     ],
     "contraindications": [
       "No absolute contraindications in cardiac arrest or life-threatening anaphylaxis",
@@ -126,7 +132,10 @@
       "Anaphylaxis: IM preferred over IV - IV carries risk of severe hypertension and dysrhythmia",
       "Caution in patients with ischaemic heart disease (non-arrest use)",
       "Extravasation causes tissue necrosis - use large vein or IO",
-      "High-dose adrenaline not recommended in standard cardiac arrest"
+      "High-dose adrenaline not recommended in standard cardiac arrest",
+      "Hypovolaemia: correct fluid deficit before administering adrenaline where clinically possible",
+      "Elderly / frail patients: increased cardiovascular sensitivity - use lowest effective dose",
+      "Quetiapine toxicity: adrenaline may worsen hypotension via beta-2 mediated vasodilation - consider alternative vasopressors"
     ],
     "sideEffects": [
       "Tachycardia / dysrhythmias",
@@ -206,8 +215,8 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "adrenaline-auto-injector",
@@ -317,7 +326,11 @@
       "Sinoatrial block",
       "Second- or third-degree AV block without pacemaker",
       "Thyroid disorders (relative - may worsen hypo/hyperthyroidism)",
-      "Cardiogenic shock (relative)"
+      "Cardiogenic shock (relative)",
+      "Tricyclic antidepressant (TCA) toxicity - risk of fatal arrhythmia",
+      "QTc interval >500 milliseconds",
+      "Ventricular tachycardia following ondansetron administration - risk of torsades de pointes",
+      "Pregnancy (relative - avoid unless in cardiac arrest; consult on-call doctor)"
     ],
     "precautions": [
       "Contains benzyl alcohol and polysorbate 80 - avoid in neonates",
@@ -382,8 +395,8 @@
       "electric-shock"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "aspirin",
@@ -416,7 +429,9 @@
       "Active GI bleeding or peptic ulcer disease",
       "Severe hepatic impairment",
       "Haemophilia or bleeding disorders",
-      "Children <16 years (Reye's syndrome risk) - except Kawasaki disease under specialist direction"
+      "Children <16 years (Reye's syndrome risk) - except Kawasaki disease under specialist direction",
+      "Suspected aortic dissection - antiplatelet therapy accelerates haemorrhage",
+      "Chest pain associated with psychostimulant overdose (e.g. cocaine, amphetamine) with SBP >160 mmHg"
     ],
     "precautions": [
       "Aspirin-sensitive asthma (may precipitate bronchospasm)",
@@ -477,8 +492,8 @@
       "chest-pain"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "atropine-and-pralidoxime-duodote",
@@ -602,7 +617,8 @@
       "Acute angle-closure glaucoma",
       "Obstructive uropathy (e.g. prostatic hypertrophy) - relative",
       "Myasthenia gravis - may worsen",
-      "Hypersensitivity to atropine"
+      "Hypersensitivity to atropine",
+      "Previous heart transplant - denervated heart does not respond to atropine and may develop paradoxical bradycardia"
     ],
     "precautions": [
       "Small doses (<0.5mg) in adults may cause paradoxical bradycardia - minimum 0.5mg dose",
@@ -610,7 +626,9 @@
       "Caution in patients with myocardial ischaemia - tachycardia increases oxygen demand",
       "Caution in febrile patients - may impair sweating and worsen hyperthermia",
       "High-degree AV block (Mobitz II, complete heart block) - pacing preferred",
-      "May cause urinary retention in males with prostatic hypertrophy"
+      "May cause urinary retention in males with prostatic hypertrophy",
+      "Atrial flutter or atrial fibrillation - atropine may accelerate the ventricular rate",
+      "Do not increase heart rate above 100 bpm in adults (except children under 6 years) - excessive tachycardia increases myocardial oxygen demand"
     ],
     "sideEffects": [
       "Tachycardia",
@@ -680,8 +698,8 @@
       "toxicology"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "benzatropine",
@@ -1005,7 +1023,9 @@
       "Do not administer simultaneously with calcium-containing fluids in the same IV line",
       "Renal impairment: dose adjustment not usually required unless combined with hepatic impairment",
       "Can cause biliary sludging with prolonged use - not an acute concern",
-      "Administer as slow IV injection over 2–4 minutes or IM"
+      "Administer as slow IV injection over 2–4 minutes or IM",
+      "Neonates <28 days receiving or having recently received calcium-containing IV fluids (including Hartmann's solution): DO NOT administer ceftriaxone even via a separate IV line - risk of fatal ceftriaxone-calcium precipitate in lungs and kidneys",
+      "Incompatible with magnesium sulphate - do not co-administer or mix"
     ],
     "sideEffects": [
       "Local pain at IM injection site",
@@ -1059,8 +1079,8 @@
       "meningococcal-septicaemia-bacterial-viral-meningitis"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "chloramphenicol-eye-drops",
@@ -1260,7 +1280,10 @@
       "Acute asthma (adjunct to bronchodilator therapy)",
       "Cerebral oedema (adjunct in head injury, brain tumour)",
       "Adrenal crisis (alternative if hydrocortisone unavailable)",
-      "Antiemetic - post-operative nausea, chemotherapy-induced nausea"
+      "Antiemetic - post-operative nausea, chemotherapy-induced nausea",
+      "Acute exacerbation of COPD (adjunct to bronchodilator therapy - reduces airway inflammation)",
+      "Severe COVID-19 with hypoxia (reduces inflammatory injury)",
+      "Non-foreign body airway obstruction with stridor in adults (reduces oedema)"
     ],
     "contraindications": [
       "Known hypersensitivity to dexamethasone",
@@ -1347,8 +1370,8 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "dextrose-5",
@@ -1469,7 +1492,8 @@
       "Neuroleptic malignant syndrome (rare)",
       "Sedation - monitor airway and respiratory status",
       "Caution in elderly - increased sensitivity and risk of falls",
-      "May lower seizure threshold"
+      "May lower seizure threshold",
+      "Lewy body dementia — may cause increased agitation and worsening neuropsychiatric symptoms"
     ],
     "sideEffects": [
       "QT prolongation and torsades de pointes (rare at low doses)",
@@ -1524,8 +1548,11 @@
       "pain-management"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "QT-prolonging drugs (ondansetron, prochlorperazine, amiodarone, sotalol) — additive QT prolongation; avoid concurrent use"
+    ]
   },
   {
     "id": "enoxaparin",
@@ -1649,12 +1676,17 @@
       "Acute coronary syndrome (adjunct analgesic)",
       "Procedural analgesia",
       "Trauma analgesia",
-      "Burns analgesia"
+      "Burns analgesia",
+      "Induction for Rapid Sequence Intubation (RSI) — as adjunct",
+      "Autonomic dysreflexia (systolic BP >160 mmHg)"
     ],
     "contraindications": [
       "Known hypersensitivity to fentanyl or opioids",
       "Significant respiratory depression (unmanaged)",
-      "Concurrent or recent MAO inhibitor use (within 14 days)"
+      "Concurrent or recent MAO inhibitor use (within 14 days)",
+      "Late second stage of labour",
+      "Serotonin toxicity / serotonin syndrome",
+      "Occluded nasal passages or active epistaxis (intranasal route only)"
     ],
     "precautions": [
       "Respiratory depression - have naloxone available; monitor SpO₂ and respiratory rate",
@@ -1663,7 +1695,9 @@
       "Hepatic or renal impairment - reduced clearance",
       "Head injury - use with caution; may mask neurological changes",
       "Concurrent CNS depressants (benzodiazepines, alcohol) - additive respiratory depression",
-      "Chest wall rigidity with rapid high-dose IV administration"
+      "Chest wall rigidity with rapid high-dose IV administration",
+      "Active asthma - bronchospasm risk; consider alternative analgesic",
+      "Avoid intranasal route if rhinitis, rhinorrhoea, or facial trauma present"
     ],
     "sideEffects": [
       "Respiratory depression",
@@ -1745,8 +1779,13 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Hydroxocobalamin — incompatible; do not administer concurrently or via the same IV line",
+      "MAO inhibitors — do not use within 14 days; risk of serotonin toxicity",
+      "CNS depressants (benzodiazepines, alcohol) — additive respiratory depression"
+    ]
   },
   {
     "id": "fibrinogen",
@@ -1960,19 +1999,24 @@
       "Severe hypoglycaemia when IV access is unavailable",
       "Beta-blocker overdose / toxicity (refractory bradycardia and hypotension)",
       "Calcium channel blocker overdose (adjunct)",
-      "Oesophageal food bolus obstruction (smooth muscle relaxation - off-label)"
+      "Oesophageal food bolus obstruction (smooth muscle relaxation - off-label)",
+      "Anaphylaxis with persistent hypotension after two doses of adrenaline in patients with heart failure or on beta-blockers"
     ],
     "contraindications": [
       "Known hypersensitivity to glucagon or lactose",
       "Phaeochromocytoma (may cause severe hypertension)",
-      "Insulinoma (may cause severe rebound hypoglycaemia)"
+      "Insulinoma (may cause severe rebound hypoglycaemia)",
+      "Phaeochromocytoma — may cause catecholamine release and severe hypertension",
+      "Glucagonoma, insulinoma, or known pancreatic tumour"
     ],
     "precautions": [
       "Hypoglycaemia: patient must receive oral carbohydrates once conscious to prevent relapse",
       "Limited efficacy in malnourished patients, starvation, or adrenal insufficiency - glycogen stores depleted",
       "Vomiting common after glucagon - position patient in recovery position if unconscious",
       "Beta-blocker overdose: doses much higher than hypoglycaemia doses required - 3–10mg IV",
-      "Short duration of action (15–30 minutes) - monitor blood glucose and redose or establish IV access"
+      "Short duration of action (15–30 minutes) - monitor blood glucose and redose or establish IV access",
+      "Reduced efficacy in patients on ketogenic diets (limited hepatic glycogen)",
+      "Reduced efficacy in patients with frequent hypoglycaemic episodes — depleted hepatic glycogen stores"
     ],
     "sideEffects": [
       "Nausea and vomiting (common)",
@@ -2028,8 +2072,8 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "glucose-10-intravenous",
@@ -2067,7 +2111,8 @@
       "Risk of hyperglycaemia - particularly in diabetics and patients with critical illness",
       "Avoid extravasation - 10% glucose is mildly irritant to veins; use functioning IV line",
       "Reassess BGL 10–15 minutes after treatment - rebound hypoglycaemia may occur (especially with long-acting insulin or sulphonylureas)",
-      "Thiamine deficiency (Wernicke's) - give thiamine before glucose in malnourished/alcoholic patients where thiamine available"
+      "Thiamine deficiency (Wernicke's) - give thiamine before glucose in malnourished/alcoholic patients where thiamine available",
+      "Do not administer through the same IV set as blood products — risk of haemolysis"
     ],
     "sideEffects": [
       "Hyperglycaemia",
@@ -2111,8 +2156,11 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Blood products — incompatible via same IV administration set (causes haemolysis)"
+    ]
   },
   {
     "id": "glucose-oral-gel",
@@ -2219,14 +2267,18 @@
       "Acute coronary syndrome - chest pain relief",
       "Stable angina",
       "Acute decompensated heart failure with hypertension (pulmonary oedema)",
-      "Hypertensive emergency (sublingual - bridging only)"
+      "Hypertensive emergency (sublingual - bridging only)",
+      "Autonomic dysreflexia",
+      "Preterm labour (tocolytic — under specialist direction only)"
     ],
     "contraindications": [
       "Hypotension (systolic BP <90mmHg)",
       "Concurrent use of phosphodiesterase-5 inhibitors (sildenafil/Viagra, tadalafil/Cialis, vardenafil) within 24–48 hours - risk of severe hypotension",
       "Right ventricular infarction (inferior STEMI with RV involvement) - preload-dependent; GTN may cause severe hypotension",
       "Severe bradycardia (<50 bpm) or tachycardia (>100 bpm) with cardiac compromise",
-      "Severe aortic stenosis (relative)"
+      "Severe aortic stenosis (relative)",
+      "Concurrent riociguat (Adempas) use — absolute contraindication regardless of timing (soluble guanylate cyclase stimulator — different class from PDE5 inhibitors but same interaction mechanism)",
+      "Bleeding in pregnancy"
     ],
     "precautions": [
       "Monitor BP before and after each dose - significant hypotension risk",
@@ -2234,7 +2286,9 @@
       "Administer with patient seated or supine to prevent syncope",
       "Right ventricular infarction: perform right-sided ECG (V4R) if inferior STEMI - avoid GTN if RV involvement suspected",
       "Tolerance may develop with repeated dosing",
-      "Headache common - advise patient"
+      "Headache common - advise patient",
+      "Avoid clinician skin contact with concentrated GTN solution — systemic absorption risk",
+      "Concurrent tocolytic agents in preterm labour — increased hypotension risk"
     ],
     "sideEffects": [
       "Headache (very common)",
@@ -2291,8 +2345,14 @@
       "hypertension"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Sildenafil (Viagra/Revatio) — avoid within 24 hours; profound hypotension risk",
+      "Tadalafil (Cialis) — avoid within 48 hours; profound hypotension risk",
+      "Vardenafil (Levitra) — avoid within 24 hours; profound hypotension risk",
+      "Riociguat (Adempas) — absolute contraindication at any time"
+    ]
   },
   {
     "id": "hartmanns-solution",
@@ -2335,7 +2395,10 @@
       "Hartmann's contains lactate - mild alkalising effect; avoid in severe metabolic alkalosis",
       "Head injury: avoid hypotension (target SBP >90–110mmHg); however, limit crystalloid volume",
       "Avoid in patients with known hyperkalaemia",
-      "Monitor electrolytes, fluid balance, and signs of fluid overload during large-volume infusions"
+      "Monitor electrolytes, fluid balance, and signs of fluid overload during large-volume infusions",
+      "Do not use to prime or flush blood product administration sets — calcium causes clotting of citrated blood products",
+      "Do not administer simultaneously with ceftriaxone via the same IV line at any age — precipitation risk",
+      "CRITICAL: Do not administer ceftriaxone and Hartmann's to neonates <28 days via any route — fatal calcium-ceftriaxone precipitate risk"
     ],
     "sideEffects": [
       "Fluid overload / pulmonary oedema (with excess volumes)",
@@ -2398,8 +2461,13 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Blood products — calcium in Hartmann's causes clotting of citrated blood; do not use same IV line",
+      "Ceftriaxone (any age) — do not administer via same IV line; calcium-ceftriaxone precipitate",
+      "Ceftriaxone (neonates <28 days) — ABSOLUTE contraindication via any route; fatal precipitate risk"
+    ]
   },
   {
     "id": "heparin-sodium",
@@ -2433,7 +2501,11 @@
       "Heparin-induced thrombocytopenia (HIT)",
       "Hypersensitivity to heparin or pork products",
       "Severe thrombocytopenia (platelet count <100×10⁹/L) - relative",
-      "Recent intracranial surgery or haemorrhagic stroke"
+      "Recent intracranial surgery or haemorrhagic stroke",
+      "Current oral anticoagulant therapy (warfarin, NOAC) — additive haemorrhage risk",
+      "Active bleeding disorders (e.g. haemophilia, thrombocytopaenia)",
+      "Severe hepatic impairment or oesophageal varices",
+      "Recent major trauma or surgery within 3 weeks"
     ],
     "precautions": [
       "Monitor for signs of bleeding at all sites",
@@ -2486,8 +2558,8 @@
       "pulmonary-embolus"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "hydrocortisone",
@@ -3163,13 +3235,15 @@
       "Rapid sequence intubation (induction agent)",
       "Excited delirium / severe agitation",
       "Bronchospasm refractory to other treatment",
-      "Status epilepticus (refractory)"
+      "Status epilepticus (refractory)",
+      "Combative traumatic brain injury (dissociative sedation)"
     ],
     "contraindications": [
       "Known hypersensitivity to ketamine",
       "Uncontrolled hypertension (severe)",
       "History of psychosis or schizophrenia (relative)",
-      "Thyroid disease / thyrotoxicosis (relative)"
+      "Thyroid disease / thyrotoxicosis (relative)",
+      "Acute porphyria"
     ],
     "precautions": [
       "Increases BP, HR and ICP - use with caution in hypertension, known intracranial pathology",
@@ -3178,7 +3252,12 @@
       "Hypersalivation - consider glycopyrrolate or atropine pre-treatment",
       "Hepatic impairment - reduce dose",
       "Pregnancy - use only if clearly needed",
-      "High-dose IV must only be given by credentialled paramedic"
+      "High-dose IV must only be given by credentialled paramedic",
+      "Raised intraocular pressure — use with caution in known eye disease or penetrating eye injuries",
+      "Hypersalivation risk — particularly in children; consider glycopyrrolate or atropine pre-treatment",
+      "Uncontrolled hypertension (systolic >160 mmHg) — may further elevate blood pressure",
+      "Hyperthyroidism or thyroid replacement therapy — increased risk of hypertension and tachycardia",
+      "Known psychiatric disorders (e.g. schizophrenia) — use with caution; may exacerbate psychotic symptoms"
     ],
     "sideEffects": [
       "Emergence reactions (dysphoria, hallucinations)",
@@ -3274,8 +3353,11 @@
       "seizure"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Theophylline — combination may lower seizure threshold"
+    ]
   },
   {
     "id": "levetiracetam",
@@ -3305,7 +3387,9 @@
       "Behavioural disturbances possible (agitation, aggression)",
       "Pregnancy - use with caution, benefit vs risk",
       "Administer IV no faster than recommended rate to avoid hypotension and bradycardia",
-      "Monitor neurological status throughout infusion"
+      "Monitor neurological status throughout infusion",
+      "Must be diluted before IV administration — do not give undiluted",
+      "Infusion rate: AV CPG specifies over 5 minutes maximum; verify local protocol before administration"
     ],
     "sideEffects": [
       "Somnolence and fatigue",
@@ -3350,8 +3434,8 @@
       "seizures"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "lignocaine-1",
@@ -3740,8 +3824,11 @@
       "postpartum-haemorrhage"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Non-depolarising neuromuscular blocking agents (rocuronium, vecuronium) — potentiates neuromuscular blockade; reduced NMBA dose may be required"
+    ]
   },
   {
     "id": "metaraminol-tartrate",
@@ -3768,7 +3855,9 @@
     "contraindications": [
       "Hypertension",
       "Concurrent MAO inhibitor therapy",
-      "Hypersensitivity to metaraminol"
+      "Hypersensitivity to metaraminol",
+      "Hypertrophic obstructive cardiomyopathy (HOCM) — fixed outflow obstruction worsened by increased afterload",
+      "Occlusive vascular disease — may cause severe ischaemia in affected limbs"
     ],
     "precautions": [
       "Extravasation causes tissue necrosis - use central or large peripheral IV",
@@ -3777,7 +3866,8 @@
       "Coronary artery disease - increased myocardial oxygen demand",
       "Diabetes mellitus - may cause hyperglycaemia",
       "Pregnancy - reduces uteroplacental blood flow",
-      "Volume depletion - correct hypovolaemia concurrently"
+      "Volume depletion - correct hypovolaemia concurrently",
+      "Tachyphylaxis may develop with repeated doses — escalating doses may be required"
     ],
     "sideEffects": [
       "Hypertension",
@@ -3835,8 +3925,8 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "methoxyflurane",
@@ -3876,7 +3966,8 @@
       "Drowsiness may impair driving and coordination",
       "Head injury - may impair neurological assessment",
       "Pregnancy - limited data; use with caution",
-      "Children <6 years: not recommended"
+      "Children <6 years: not recommended",
+      "Pre-existing renal or hepatic disease (any degree) — increased risk of fluoride nephrotoxicity; not just severe impairment"
     ],
     "sideEffects": [
       "Dizziness and drowsiness",
@@ -3924,8 +4015,11 @@
       "trauma"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Tetracyclines — increased nephrotoxicity risk; avoid concurrent use"
+    ]
   },
   {
     "id": "metoclopramide",
@@ -4322,7 +4416,8 @@
       "Naloxone must be available (reverses morphine; midazolam reversed by flumazenil)",
       "Elderly - significantly reduce doses",
       "Hypotension risk - especially in volume-depleted patients",
-      "Must have IV access and airway management capability available"
+      "Must have IV access and airway management capability available",
+      "ACS/STEMI with P2Y12 inhibitors (clopidogrel, ticagrelor) — morphine delays absorption of antiplatelet agents; consider fentanyl as alternative analgesic"
     ],
     "sideEffects": [
       "Respiratory depression (additive risk)",
@@ -4376,8 +4471,7 @@
       "pain-management"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 1
   },
   {
     "id": "morphine-sulphate",
@@ -4422,7 +4516,8 @@
       "Hepatic impairment - increased bioavailability and reduced clearance",
       "Head injury - may mask neurological deterioration",
       "Concurrent CNS depressants - additive depression",
-      "Nausea - consider antiemetic (ondansetron, metoclopramide)"
+      "Nausea - consider antiemetic (ondansetron, metoclopramide)",
+      "ACS/STEMI with P2Y12 inhibitors (clopidogrel, ticagrelor) — morphine delays antiplatelet absorption; consider fentanyl as alternative analgesic"
     ],
     "sideEffects": [
       "Respiratory depression",
@@ -4507,8 +4602,11 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Clopidogrel and ticagrelor (P2Y12 inhibitors) — morphine delays gastric emptying, reducing peak plasma levels of antiplatelet agents by 30-40%; consider fentanyl as alternative analgesic in ACS where possible"
+    ]
   },
   {
     "id": "naloxone",
@@ -4540,7 +4638,8 @@
       "Titrate dose carefully in opioid-dependent patients - use lowest effective dose",
       "Monitor for re-narcotisation after effect wears off",
       "Does NOT reverse non-opioid sedation (benzodiazepines, alcohol, etc.)",
-      "Pregnancy - safe to use in life-threatening maternal opioid overdose"
+      "Pregnancy - safe to use in life-threatening maternal opioid overdose",
+      "Buprenorphine overdose — standard doses may be largely ineffective due to high receptor affinity; higher doses (up to 10mg) may be required and reversal may remain incomplete"
     ],
     "sideEffects": [
       "Acute opioid withdrawal (agitation, vomiting, diaphoresis, tachycardia)",
@@ -4617,8 +4716,8 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "noradrenaline",
@@ -4862,7 +4961,8 @@
       "Elderly with dementia - increased mortality risk",
       "Seizure threshold lowering",
       "Parkinson's disease - worsens symptoms",
-      "Respiratory depression risk in COAD or respiratory disease"
+      "Respiratory depression risk in COAD or respiratory disease",
+      "Hepatic impairment — significantly increased plasma levels and prolonged sedation; reduce dose"
     ],
     "sideEffects": [
       "Sedation",
@@ -4907,8 +5007,8 @@
       "high-risk-mental-health-presentations"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   },
   {
     "id": "ondansetron",
@@ -5019,8 +5119,15 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Droperidol — additive QT prolongation; avoid concurrent use",
+      "Prochlorperazine — additive QT prolongation; avoid concurrent use",
+      "Amiodarone — additive QT prolongation; avoid concurrent use",
+      "Sotalol — additive QT prolongation; avoid concurrent use",
+      "Apomorphine — absolute contraindication; profound hypotension"
+    ]
   },
   {
     "id": "oseltamivir",
@@ -5359,7 +5466,8 @@
       "Hypocalcaemia - citrate in stored blood can chelate calcium; replace if large volume transfusion",
       "Hyperkalaemia - stored pRBC has elevated potassium",
       "Infection transmission risk (very low with modern testing)",
-      "Compatibility - transfuse through blood giving set (170–260 micron filter)"
+      "Compatibility - transfuse through blood giving set (170–260 micron filter)",
+      "Do not administer with Hartmann's (compound sodium lactate) via the same IV line — calcium causes precipitation and clotting of citrated blood products"
     ],
     "sideEffects": [
       "Febrile non-haemolytic transfusion reaction",
@@ -5410,8 +5518,11 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Hartmann's solution (compound sodium lactate) — incompatible via same IV line; calcium causes clotting of citrated blood"
+    ]
   },
   {
     "id": "paracetamol",
@@ -5525,8 +5636,11 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Warfarin — regular paracetamol use >2g/day may enhance anticoagulant effect (INR increase); monitor INR if prolonged use"
+    ]
   },
   {
     "id": "prednisolone",
@@ -5677,7 +5791,8 @@
       "Prolonged effect in hepatic failure and Eaton-Lambert syndrome",
       "Dose adjustment in myasthenia gravis",
       "Hypothermia prolongs effect",
-      "Do not use without prior adequate induction of anaesthesia and analgesia (awareness risk)"
+      "Do not use without prior adequate induction of anaesthesia and analgesia (awareness risk)",
+      "Burns and denervation injuries — prolonged paralysis possible; use lowest effective dose"
     ],
     "sideEffects": [
       "Complete neuromuscular paralysis (apnoea) - expected effect",
@@ -5723,8 +5838,11 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Magnesium sulphate — potentiates neuromuscular blockade; reduced rocuronium dose may be required"
+    ]
   },
   {
     "id": "ropivacaine-075",
@@ -5859,7 +5977,8 @@
       "Diabetes - may cause hyperglycaemia",
       "Cardiac arrhythmias - caution in underlying arrhythmia",
       "Tremor common - dose-related",
-      "IV salbutamol - significant cardiovascular effects, use only under medical direction"
+      "IV salbutamol - significant cardiovascular effects, use only under medical direction",
+      "Concurrent corticosteroids, diuretics, or theophylline — potentiate salbutamol-induced hypokalaemia; monitor in severe asthma"
     ],
     "sideEffects": [
       "Tachycardia",
@@ -5938,8 +6057,11 @@
       "hyperkalaemia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-21T00:00:00Z",
+    "interactions": [
+      "Non-selective beta-blockers (propranolol) — antagonise bronchodilator effect and may worsen bronchospasm; avoid in asthma"
+    ]
   },
   {
     "id": "sodium-bicarbonate",
