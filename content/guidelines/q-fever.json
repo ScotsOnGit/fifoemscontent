@@ -1,0 +1,78 @@
+{
+  "id": "q-fever",
+  "title": "Q Fever",
+  "category": "medical",
+  "tags": [
+    "Q fever",
+    "Coxiella",
+    "notifiable",
+    "pastoral",
+    "zoonosis",
+    "flu-like",
+    "pneumonia",
+    "hepatitis"
+  ],
+  "synonyms": [
+    "Coxiella burnetii",
+    "query fever",
+    "nine-mile fever"
+  ],
+  "sections": [
+    {
+      "id": "qf-overview",
+      "type": "overview",
+      "title": "Overview",
+      "sortOrder": 0,
+      "content": "Q fever is a zoonotic infection caused by *Coxiella burnetii*, an obligate intracellular bacterium. It is endemic in pastoral and farming regions of Australia and is particularly relevant for mine sites adjacent to sheep, cattle, kangaroo, or feral pig populations.\n\n**MANDATORY NOTIFIABLE DISEASE in Western Australia**\n\n**Occupational notifiable disease** — workplace notification required if acquired at work.\n\n### Transmission\n- **Inhalation** of contaminated aerosols (dried birth fluids, placenta, manure, soil, wool) — primary route\n- Extremely low infectious dose — **one organism may cause infection**\n- Contact with infected animals or carcasses\n- Unpasteurised milk (rare)\n- **NOT transmitted person to person**\n\n### Mine Site Context\n- Mine sites adjacent to pastoral land, abattoirs, or with feral animal activity\n- Earthworks, road construction, or dust generation in contaminated areas\n- Workers who hunt or camp in pastoral areas during leave\n- Dust storms from farming areas can carry organism long distances\n\n### Risk Factors for Severe Disease\n- Pre-existing cardiac valvular disease, vascular aneurysm, or prosthetic valves — risk of endocarditis\n- Pregnancy — high risk of adverse outcomes\n- Immunosuppression"
+    },
+    {
+      "id": "qf-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "sortOrder": 1,
+      "content": "### Acute Q Fever (Most Common)\n- Abrupt onset after 2–3 weeks incubation\n- **High fever** (38–40°C), often with rigors\n- **Severe headache** (often frontal — characteristic)\n- Profuse sweating\n- Myalgia, arthralgia, fatigue\n- Dry cough, mild chest discomfort\n\n**Presentations within acute Q fever:**\n| Syndrome | Features |\n|---|---|\n| Flu-like (most common) | Self-limiting 2–3 weeks, fever, headache, myalgia |\n| Pneumonia | Dry cough, dyspnoea, bilateral infiltrates |\n| Hepatitis | Right upper quadrant pain, elevated LFTs, jaundice |\n| Combined | Any combination of above |\n\n### Chronic Q Fever (Rare but Serious)\n- **Endocarditis** — presents months to years after acute infection; fever, heart murmur, embolic events\n- **Vascular infection** — aortic aneurysm infection\n- Fatigue syndrome\n- High mortality if not treated\n\n### Q Fever Fatigue Syndrome\n- Prolonged fatigue, musculoskeletal pain, neuropsychological symptoms after acute Q fever\n- Can significantly impair work capacity for months"
+    },
+    {
+      "id": "qf-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "sortOrder": 2,
+      "content": "### Treatment — Doxycycline Required\n- Standard antibiotics (penicillin, most cephalosporins, aminoglycosides) are **ineffective**\n- First-line: **doxycycline 100 mg BD × 14 days** for acute Q fever\n- Fluoroquinolones (ciprofloxacin) are an alternative\n- Chronic Q fever (endocarditis): prolonged combination therapy (months to years) — specialist management\n\n### Pregnancy — Special Caution\n- Doxycycline is contraindicated in pregnancy\n- Trimethoprim-sulfamethoxazole used instead\n- Q fever in pregnancy associated with spontaneous abortion, intrauterine growth restriction, premature labour\n- Refer urgently\n\n### Vaccination — Q-VAX\n- An effective Q fever vaccine (Q-VAX) is available in Australia\n- **Pre-vaccination screening is mandatory** — previous infection or vaccination causes severe local reactions if re-vaccinated\n- Pre-vaccination protocol: skin test (intradermal) + serology before vaccination\n- Recommended for all at-risk workers in pastoral/mining areas\n- Arrange through occupational health"
+    },
+    {
+      "id": "qf-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "sortOrder": 3,
+      "content": "### Immediate Assessment\n- Vital signs: temperature, heart rate, blood pressure, SpO2, respiratory rate\n- Assess for pneumonia (SpO2, respiratory rate, chest auscultation)\n- History: recent exposure to livestock, farming areas, feral animals, dust storms\n\n### Treatment\n**Doxycycline (first-line):**\n- 100 mg PO BD × 14 days for acute uncomplicated Q fever\n- Take with a full glass of water; remain upright for 30 minutes\n\n**If pneumonia:**\n- Oxygen: titrate to SpO2 >94%\n- Doxycycline continues\n- Evacuation if SpO2 <94% on room air, respiratory rate >25/min, or haemodynamically unstable\n\n### Notification\n- Notify WA Health: (08) 9222 4177\n- Complete occupational incident notification\n\n### Symptomatic Management\n- Paracetamol or ibuprofen for fever and headache\n- Adequate hydration\n- Rest\n\n### Evacuation Indications\n- Pneumonia with SpO2 <94%\n- Jaundice or hepatitis with liver failure signs\n- Suspected chronic Q fever (new cardiac murmur, embolic events)\n- Pregnancy"
+    },
+    {
+      "id": "qf-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "sortOrder": 4,
+      "content": "### Pneumonia with Respiratory Failure\n- High-flow oxygen; NIPPV if cooperative and haemodynamically stable\n- Doxycycline IV if unable to take oral (200 mg IV day 1, then 100 mg IV BD)\n- Intubation if GCS declining or respiratory failure unresponsive to oxygen\n\n### Endocarditis / Chronic Q Fever\n- Suspected if: known previous Q fever + new cardiac murmur, embolic signs, prolonged fever\n- Requires urgent evacuation and specialist management\n- Treatment: doxycycline + hydroxychloroquine for 18 months minimum (valvular disease)"
+    },
+    {
+      "id": "qf-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "sortOrder": 5,
+      "content": "### Post-Q Fever Fatigue Syndrome\n- Persistent fatigue after acute Q fever is common (up to 20%)\n- Investigate and exclude other causes\n- Graded activity program — see post-viral-fatigue-and-graded-recovery guideline\n\n### Workplace Response\n- Identify source of exposure if possible\n- Check vaccination status of all exposed workers\n- Consider serology testing of other workers with similar exposure history\n\n### Return to Work\n- Uncomplicated acute Q fever: can usually return to work after 2–3 weeks with completed antibiotic course and symptom resolution\n- Document return to work clearly"
+    }
+  ],
+  "relatedMedicationIDs": [
+    "doxycycline",
+    "paracetamol",
+    "ibuprofen",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "chest-infection",
+    "sepsis-septic-shock",
+    "post-viral-fatigue-and-graded-recovery"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
