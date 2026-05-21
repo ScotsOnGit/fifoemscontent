@@ -1,0 +1,87 @@
+{
+  "id": "diphtheria",
+  "title": "Diphtheria",
+  "category": "medical",
+  "tags": [
+    "diphtheria",
+    "corynebacterium",
+    "pseudomembrane",
+    "antitoxin",
+    "DAT",
+    "infectious",
+    "notifiable",
+    "airway",
+    "respiratory",
+    "outbreak",
+    "bull neck",
+    "RFDS",
+    "evacuation"
+  ],
+  "synonyms": [
+    "Corynebacterium diphtheriae infection",
+    "Pharyngeal diphtheria",
+    "Respiratory diphtheria",
+    "Cutaneous diphtheria"
+  ],
+  "sections": [
+    {
+      "id": "diphtheria-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Diphtheria is a serious, potentially fatal infection caused by toxin-producing *Corynebacterium diphtheriae*. The toxin causes local tissue necrosis, producing the characteristic pseudomembrane, along with systemic complications including myocarditis and neuropathy. Transmission occurs via respiratory droplets or direct contact with respiratory secretions, wound exudate, or fluid from skin lesions.\n\n**Incubation period:** 2–5 days (up to 10 days)\n\n**Infectious period:** From approximately one week before symptom onset and up to six weeks if untreated. Effective antibiotics reduce shedding to around five days.\n\n**Case fatality rate:** 5–10% even with treatment — higher if treatment delayed.\n\n**MANDATORY NOTIFIABLE DISEASE in Western Australia** — report on clinical suspicion. A single case at a remote mine site constitutes a public health emergency.\n\n### High-Risk Groups at Mine Sites\n- Inadequately vaccinated persons (including those with unknown vaccination history)\n- Overseas-born workers from endemic regions\n- Remote Indigenous community contacts with potential vaccination gaps\n- Workers with recent travel to or from outbreak areas (NT, QLD)",
+      "sortOrder": 0
+    },
+    {
+      "id": "diphtheria-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "### Hallmark Sign\nGrey-white **pseudomembrane** on the tonsils/pharynx — leathery, tough, and adherent. **Bleeds when you attempt to wipe it off.** May extend onto the soft palate, uvula, or larynx.\n\n### Early Symptoms (Days 1–2)\n- Mild sore throat — often less painful than it appears\n- Low-grade fever 38–38.5°C — **patient looks sicker than the temperature suggests**\n- Fatigue, malaise, loss of appetite\n- Muffled or \"hot potato\" voice\n\n### Progressing Disease (Days 2–4)\n- **Bull neck** — dramatic cervical swelling from lymphadenopathy and soft tissue oedema\n- Hoarse voice and barking cough (laryngeal involvement)\n- Nasal discharge, possibly blood-tinged\n- Dysphagia, drooling\n\n### Severe / Late Complications\n| Complication | Timing | Notes |\n|---|---|---|\n| Airway obstruction | Days 2–5 | Membrane extension and oedema |\n| Myocarditis | ~1 week | Arrhythmias, conduction defects, cardiomyopathy |\n| Neuropathy | Weeks–months | Cranial nerve palsy, respiratory muscle weakness |\n| Renal failure | Variable | Toxin-mediated |\n\n### ⚠️ Danger Signs — Act Immediately\n- Stridor or respiratory distress\n- Cyanosis\n- Drooling or inability to swallow\n- Arrhythmia or chest pain\n- Airway obstruction\n\n### Differential Diagnosis\n| Condition | Key Differentiators |\n|---|---|\n| Strep tonsillitis | Membrane wipes off cleanly without bleeding; higher fever |\n| Glandular fever (EBV) | Membrane softer and white; different lymph node pattern; splenomegaly |\n| Viral croup | Barking cough but NO membrane, NO bull neck |\n| Peritonsillar abscess | Unilateral swelling, fluctuant, no membrane, uvula deviated |\n| Epiglottitis | Drooling, tripod posture, high fever, rapid onset; no membrane on exam |",
+      "sortOrder": 1
+    },
+    {
+      "id": "diphtheria-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "### PPE Requirements\n- **Standard, contact, and droplet precautions** — surgical mask, eye protection, gloves, gown\n- Apply a surgical mask to the patient if tolerated\n- Isolate in a single room immediately on clinical suspicion\n\n### Critical Rules\n- **DO NOT attempt to remove or dislodge the pseudomembrane** — risk of haemorrhage and complete airway obstruction\n- **Do not delay antibiotics** waiting for laboratory confirmation\n- **ESOs must have an extremely low threshold for escalating** — MESO sites call 000 where appropriate\n\n### Antibiotic Resistance\nPenicillin resistance is emerging in Australian outbreak strains (NT, QLD). **Azithromycin is the preferred first-line antibiotic** per WHO 2024 guidance.\n\n### Diphtheria Antitoxin (DAT)\n- DAT is not stocked at mine sites — it must be requested on the RFDS evacuation aircraft\n- National supply is limited — early coordination with WA Health and RFDS is essential\n- Cutaneous diphtheria can transmit to susceptible persons and cause respiratory disease in contacts\n\n### Contact Tracing\nA single confirmed case requires urgent contact tracing across all shared spaces: accommodation, dining, vehicles, and worksite. Identify all close contacts and notify WA Health.\n\n| Contact Level | Definition | Action |\n|---|---|---|\n| High-risk | Household, overnight, intimate | Swabs + prophylactic antibiotics + vaccination review |\n| Medium-risk | ≥8 hours in shared space | Risk assessment; consider swabs and antibiotics |\n| Low-risk | Brief/incidental contact | Information and vaccination advice |",
+      "sortOrder": 2
+    },
+    {
+      "id": "diphtheria-management-basic",
+      "type": "management_basic",
+      "title": "Management — Primary",
+      "content": "### Immediate Actions (On Suspicion)\n\n1. **ISOLATE** — Droplet precautions. Single room. Mask the patient.\n2. **CALL RFDS & WA HEALTH — REPORT NOW** — Mandatory notifiable on clinical suspicion. Contact your local Public Health Unit for urgent medical advice.\n3. **REQUEST ANTITOXIN** — Request diphtheria antitoxin (DAT) on the evacuation aircraft.\n4. **SWABS** — Take swabs from tonsils prior to starting antibiotics where possible. Specify 'culture for suspected diphtheria' — standard lab processing may not identify *C. diphtheriae* without this request. Do **not** delay treatment for swabs.\n5. **START ANTIBIOTICS** — Do not wait for laboratory confirmation.\n6. **AIRWAY READY** — **DO NOT REMOVE THE MEMBRANE.**\n\n### Primary Survey\n- Position of comfort for airway protection\n- Oxygen — titrate to SpO₂ ≥94%\n- Have suction, airway adjuncts, and BVM ready at all times\n- Vital signs: respiratory rate, heart rate, blood pressure, SpO₂, temperature, BGL (fingerprick)\n- Limb-lead ECG; continuous cardiac monitoring if available\n- Nil by mouth if any airway concern\n\n### Supportive Care\n- Anticipate IV fluid requirements; strict fluid balance\n- Keep patient warm\n- Analgesia and antipyretics as required\n- Consider antiemetic if required\n\n### Antibiotic Therapy (WHO 2024)\nFirst-line: macrolides preferred over penicillin (resistance emerging in Australian strains)\n\n| Agent | Adult Dose | Paediatric Dose | Duration |\n|---|---|---|---|\n| **Azithromycin** *(preferred)* | 500 mg PO/IV daily | 10 mg/kg/day (max 500 mg) PO/IV | 7 days |\n| Erythromycin *(alternative)* | 500 mg PO/IV 6-hourly | 10 mg/kg (max 500 mg) 6-hourly | 14 days |\n| Doxycycline *(macrolide allergy/CI)* | 200 mg PO day 1, then 100 mg BD | Not for <8 years | 7 days |\n\n*Doxycycline: use only if macrolide allergy or contraindication — in consultation with on-call doctor.*\n\n### Key Contacts\n| Service | Number |\n|---|---|\n| RFDS Perth 24/7 | 1800 625 800 |\n| WA Country Health On-Call | 1800 633 592 |\n| WA Health Notifiable Disease | (08) 9222 4177 |",
+      "sortOrder": 3
+    },
+    {
+      "id": "diphtheria-management-advanced",
+      "type": "management_advanced",
+      "title": "Management — Advanced",
+      "content": "Ensure adrenaline and resuscitation equipment are immediately available.\n\n### Airway Management\n- Anticipate airway deterioration — the membrane can extend and cause complete obstruction\n- Prepare difficult airway equipment early\n- If intubation required, use the smallest ETT that will pass — the membrane narrows the lumen\n- Surgical airway may be required if membrane prevents intubation\n- Avoid blind pharyngeal suctioning — may dislodge membrane causing haemorrhage or obstruction\n- Consider advanced airway management early if stridor, respiratory distress, or declining GCS\n- **MUST contact RFDS if advanced airway management is required**\n\n### Cardiac Monitoring\n- Continuous ECG monitoring for arrhythmias and conduction defects\n- 12-lead ECG — look for PR prolongation, ST changes, T-wave inversion, and heart block\n- Myocarditis typically develops around day 7 — maintain monitoring throughout\n\n### Supportive Care\n- Gain IV access — 2 large-bore cannulae\n- Consider troponin (i-STAT) if available and time permits\n- Consider i-STAT Chem8+ / CG4+ bloods where applicable\n- IV fluids where clinically indicated\n- Consider antiemetic\n- Administer appropriate IV analgesia\n\n### Diphtheria Antitoxin (DAT)\nDAT neutralises circulating toxin but **cannot reverse toxin already bound to tissue** — early administration is critical. DAT is equine-derived; anaphylaxis is possible. Have adrenaline drawn up throughout administration.\n\n**WHO 2024 dose by severity:**\n\n| Severity / Presentation | DAT Dose (IU) |\n|---|---|\n| Laryngeal/pharyngeal disease <48 hours | 20,000–40,000 |\n| Nasopharyngeal disease | 40,000–60,000 |\n| Severe: bull neck, extensive membrane, or disease >48 hours | 80,000–100,000 |\n\n- Same dose for adults and children\n- Single dose only — do not repeat\n- Mix in 250–500 mL normal saline; infuse slowly over 2–4 hours\n- Give 10% of the volume over the first 30 minutes, remainder over 2–4 hours\n- **Obtaining DAT in WA:** request via WA Health HCID on-call or arrange on RFDS aircraft. National supply is limited — coordinate early.\n\n### Hospital-Level Complications\n- Myocarditis / cardiac failure — may require inotropes or temporary cardiac pacing\n- Neuropathy with respiratory muscle weakness — may require mechanical ventilation\n- Renal failure — monitor urine output and electrolytes\n- All suspected cases of respiratory diphtheria must be evacuated off site",
+      "sortOrder": 4
+    },
+    {
+      "id": "diphtheria-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "### Swab Collection\n- Specify **'culture for suspected diphtheria'** on the request form — standard processing may not identify *C. diphtheriae* without a specific request\n- Collect from tonsils/pharynx and any membrane edge (and skin lesions if cutaneous diphtheria)\n- Collect before starting antibiotics where possible — but **do not delay treatment for swabs**\n- Always follow WA Department of Health guidance on specimen handling and transport\n\n### Vaccination\n- Diphtheria infection does not reliably confer lasting immunity — vaccinate during convalescence\n- If DAT was administered, delay vaccination by 4 weeks (immunological interference)\n- Contacts: booster if >12 months since last dose; primary/catch-up course if unvaccinated\n\n### Clearance Criteria\n- Two consecutive negative nasopharyngeal AND throat cultures, taken ≥24 hours apart, and >24 hours after completing antibiotics\n- If still positive after initial course: additional 10-day antibiotic course\n\n### WA Notification\n- Report to WA Health immediately on **clinical suspicion** — do not wait for lab confirmation\n- A single case triggers full public health contact tracing and response\n- WA Health Notifiable Diseases: (08) 9222 4177",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "azithromycin",
+    "doxycycline",
+    "adrenaline-epinephrine",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "dyspnoea",
+    "cardiac-arrhythmia",
+    "sepsis-septic-shock",
+    "invasive-group-a-streptococcus",
+    "measles",
+    "mpox"
+  ],
+  "isFreeContent": true,
+  "version": 2,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
