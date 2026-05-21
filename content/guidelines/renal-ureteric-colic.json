@@ -1,0 +1,82 @@
+{
+  "id": "renal-ureteric-colic",
+  "title": "Renal and Ureteric Colic",
+  "category": "medical",
+  "tags": [
+    "renal colic",
+    "ureteric colic",
+    "kidney stone",
+    "urolithiasis",
+    "loin to groin",
+    "haematuria"
+  ],
+  "synonyms": [
+    "kidney stones",
+    "urolithiasis",
+    "nephrolithiasis",
+    "renal calculi",
+    "ureteral calculus"
+  ],
+  "sections": [
+    {
+      "id": "rc-overview",
+      "type": "overview",
+      "title": "Overview",
+      "sortOrder": 0,
+      "content": "Renal and ureteric colic is caused by the passage of a calculus (stone) through the ureter. It is one of the most painful acute conditions encountered in a clinical setting.\n\n**Incidence is significantly increased by dehydration and heat** — directly relevant in the mine site context. Young to middle-aged males are disproportionately affected.\n\n### Must Differentiate From Aortic Emergencies\nIn any male >50 years with loin pain and vascular risk factors, **aortic dissection or ruptured AAA must be excluded before treating as renal colic**. An AAA can mimic renal colic and is fatal if missed.\n\n### Stone Locations and Presentation\n- Pelvi-ureteric junction (PUJ): flank pain, less colicky\n- Mid-ureter: loin to groin radiation\n- Vesico-ureteric junction (VUJ): urinary frequency, urgency, dysuria, referred scrotal/labial pain"
+    },
+    {
+      "id": "rc-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "sortOrder": 1,
+      "content": "### Classic Presentation\n- **Sudden onset, severe, unilateral loin to groin pain**\n- **Colicky** — comes in waves, peaks and partially resolves, then returns\n- Patient is **unable to find a comfortable position** — writhes, cannot lie still (distinguishes from peritonism where movement worsens pain)\n- Pain radiates from loin → iliac fossa → groin → inner thigh → scrotum/labia\n- Nausea and vomiting (very common)\n- Haematuria in ~80% (may be microscopic only)\n- Ipsilateral renal angle (costovertebral) tenderness\n- **No peritoneal signs** — no guarding, no rebound tenderness\n\n### Red Flags — NOT Renal Colic: Consider AAA/Dissection\n- Age >50 with vascular risk factors (hypertension, smoking, vascular disease)\n- Pain that is **constant** rather than colicky\n- Pain radiating to the **back** (interscapular or lower back)\n- **Haemodynamic instability** — hypotension, tachycardia\n- Pulsatile abdominal mass\n- Syncope or near-syncope\n- **If any doubt: treat as AAA — nil by mouth, IV access, urgent RFDS, cautious fluids**\n\n### Complicated Colic — Requires Urgent Evacuation\n- Fever with ureteric colic = infected obstructed kidney — surgical emergency\n- Single kidney with obstruction\n- Bilateral obstruction\n- AKI (reduced urine output)\n- Pain not controlled with analgesia"
+    },
+    {
+      "id": "rc-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "sortOrder": 2,
+      "content": "### NSAIDs Are First-Line Analgesia\n- NSAIDs (ketorolac, ibuprofen) are more effective than opioids alone for renal colic\n- Reduce ureteral spasm in addition to analgesia\n- Use opioids if NSAIDs contraindicated (renal impairment, single kidney, allergy, haemodynamic instability)\n\n### Hydration\n- IV fluids are not proven to accelerate stone passage\n- Encourage oral fluids if tolerating, but **do not force high oral intake** acutely — can worsen pain from increased renal pelvic pressure\n- IV fluids for volume replacement if vomiting severely\n\n### Urine Dipstick\n- Blood on dipstick supports diagnosis (~80% sensitivity)\n- Normal dipstick does NOT exclude renal colic\n- Positive nitrites/leukocytes + loin pain + fever = infected obstruction → urgent surgery\n\n### Stone Passage\n- Stones <4 mm: ~80% pass spontaneously\n- Stones 4–6 mm: ~50% pass\n- Stones >6 mm: <20% pass spontaneously; usually require intervention"
+    },
+    {
+      "id": "rc-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "sortOrder": 3,
+      "content": "### Immediate Actions\n1. **Exclude AAA** — assess for red flags above before starting analgesics\n2. **Analgesia** — aggressive, don't undertreated\n3. **Urine dipstick** — check for blood, leucocytes, nitrites\n4. **IV access** — all patients (vomiting may require IV fluids; opioids IV if NSAIDs insufficient)\n5. **Temperature** — fever + loin pain = surgical emergency, call RFDS immediately\n\n### Analgesia Protocol\n**Step 1 — NSAID (first-line):**\n- Ketorolac 30 mg IM or 15–30 mg IV (avoid if renal impairment, single kidney, haemodynamic instability)\n- OR Ibuprofen 400 mg PO if able to tolerate orally\n\n**Step 2 — Antispasmodic:**\n- Hyoscine butylbromide (Buscopan) 20 mg IV or IM — smooth muscle relaxation\n\n**Step 3 — Opioid if NSAID insufficient:**\n- Morphine 2.5–5 mg IV titrated, or fentanyl 25–50 mcg IV\n\n**Step 4 — Antiemetic:**\n- Ondansetron 4–8 mg IV/oral, or metoclopramide 10 mg IV\n\n### Fever + Loin Pain (Infected Obstruction)\n- This is a **surgical emergency** — infected obstructed kidney can cause fatal sepsis within hours\n- IV access, IV antibiotics (ceftriaxone 1 g IV)\n- IV fluids\n- Urgent RFDS — requires emergency urological drainage\n\n### Evacuation Indications\n- Fever (any temperature with loin pain)\n- Pain not controlled with above protocol\n- Suspected AAA\n- Single kidney or bilateral stones\n- AKI or anuric\n- First presentation (requires CT urogram for diagnosis and stone characterisation)"
+    },
+    {
+      "id": "rc-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "sortOrder": 4,
+      "content": "### Septic Shock from Infected Obstruction\nIf hypotension + fever + loin pain:\n- Treat per sepsis-septic-shock guideline\n- IV ceftriaxone 2 g stat\n- Aggressive fluid resuscitation\n- Vasopressors if not responding to fluids\n- Urgent RFDS — this patient requires emergency intervention\n\n### Failed Analgesia\n- If pain not controlled with NSAID + opioid combination:\n- Consider ketamine 0.1–0.3 mg/kg IV titrated (sub-dissociative dose) for severe refractory pain\n- Reassess for complications (expanding AAA, infected obstruction)\n\n### Pain Resolved — Observation Period\n- Resolution of pain does not indicate stone has passed\n- Stone may have moved to less obstructed position temporarily\n- Patient still requires evacuation for imaging and urological assessment if first episode or complications present"
+    },
+    {
+      "id": "rc-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "sortOrder": 5,
+      "content": "### Prevention — Mine Site Context\n- Adequate daily fluid intake (2.5–3 L/day minimum in tropical/hot conditions)\n- Electrolyte replacement drinks to maintain mineral balance\n- Workers who have had one stone have ~50% chance of recurrence within 5 years\n\n### Dietary Advice (On Discharge)\n- Increase fluid intake\n- Reduce salt and animal protein intake\n- For calcium oxalate stones (most common): moderate calcium intake, reduce oxalate-rich foods (spinach, nuts, chocolate)\n\n### Return to Work\n- Workers with untreated stones may pass them at any time\n- Risk of sudden incapacitation — consider fitness-for-work implications for safety-critical roles\n- Advise to notify medical staff if symptoms recur"
+    }
+  ],
+  "relatedMedicationIDs": [
+    "ketorolac",
+    "hyoscine-butylbromide",
+    "morphine-sulphate",
+    "fentanyl",
+    "ondansetron",
+    "ibuprofen",
+    "ceftriaxone"
+  ],
+  "relatedGuidelineIDs": [
+    "acute-urinary-retention",
+    "urinary-tract-infection",
+    "sepsis-septic-shock",
+    "acute-aortic-dissection"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
