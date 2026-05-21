@@ -49,7 +49,6 @@
     "guidelines/deconditioning-and-graded-reconditioning": 1,
     "guidelines/dental-pain-non-traumatic": 3,
     "guidelines/diastasis-recti-screening": 1,
-    "guidelines/diptheria": 1,
     "guidelines/disturbed-behaviour-sedation": 1,
     "guidelines/diving-emergencies": 2,
     "guidelines/dizziness": 3,
@@ -272,10 +271,11 @@
     "guidelines/vehicle-ergonomics": 1,
     "guidelines/vertigo": 3,
     "guidelines/vestibular-rehabilitation-persistent-dizziness": 1,
-    "medications": 130428510,
+    "medications": 130428511,
     "mnemonics": 141952569,
-    "references": 90878001
+    "references": 90878001,
+    "guidelines/diphtheria": 2
   },
-  "lastUpdated": "2026-05-20T00:00:00Z",
+  "lastUpdated": "2026-05-21T00:00:00Z",
   "version": 3
 }
