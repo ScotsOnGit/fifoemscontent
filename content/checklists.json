@@ -606,7 +606,7 @@
         "id": "ir-notifications",
         "title": "Notifications",
         "items": [
-          { "id": "ir-n-01", "label": "Supervisor notified — name and time", "detail": null, "type": "text", "required": true },
+          { "id": "ir-n-01", "label": "Supervisor notified - name and time", "detail": null, "type": "text", "required": true },
           { "id": "ir-n-02", "label": "HSE manager notified", "detail": null, "type": "check", "required": true },
           { "id": "ir-n-03", "label": "WorkSafe WA notified if required", "detail": null, "type": "check", "required": false },
           { "id": "ir-n-04", "label": "Notification time if notifiable", "detail": "Leave blank if not a notifiable incident", "type": "text", "required": false }
