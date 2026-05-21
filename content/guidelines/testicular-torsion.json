@@ -1,0 +1,75 @@
+{
+  "id": "testicular-torsion",
+  "title": "Testicular Torsion",
+  "category": "medical",
+  "tags": [
+    "testicular torsion",
+    "scrotal pain",
+    "orchidopexy",
+    "spermatic cord",
+    "cremasteric reflex",
+    "urological emergency"
+  ],
+  "synonyms": [
+    "torsion of testis",
+    "spermatic cord torsion",
+    "acute scrotum"
+  ],
+  "sections": [
+    {
+      "id": "tt-overview",
+      "type": "overview",
+      "title": "Overview",
+      "sortOrder": 0,
+      "content": "Testicular torsion is twisting of the spermatic cord that cuts off the blood supply to the testis. It is a **time-critical urological emergency**.\n\n### Time to Salvage Rates\n| Time to Surgical Detorsion | Testicular Salvage |\n|---|---|\n| <6 hours | ~100% |\n| 6–12 hours | ~50% |\n| 12–24 hours | ~10% |\n| >24 hours | Near 0% |\n\n**Do not delay evacuation.** The window is short and closed consultations waste irreplaceable time.\n\n### Who Gets Testicular Torsion\n- Peak incidence: **12–25 years** — the exact demographic of much of the FIFO workforce\n- Can occur at any age including neonates and older men\n- Predisposing anatomy: **\"bell-clapper\" deformity** — high horizontal testicular lie; often bilateral\n- Precipitants: physical activity, minor trauma, cold exposure, or **no precipitant at all** (may occur during sleep)\n\n### Missed Torsion\nTesticular torsion is one of the most commonly missed diagnoses in young men presenting with scrotal pain — often misdiagnosed as epididymo-orchitis and treated with antibiotics, resulting in loss of the testis."
+    },
+    {
+      "id": "tt-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "sortOrder": 1,
+      "content": "### Classic Presentation\n- **Sudden onset, severe, unilateral testicular/scrotal pain**\n- Pain may radiate to lower abdomen, groin, or flank\n- **Nausea and vomiting** — very common (from vagal response to pain)\n- Ipsilateral testis is high-riding (elevated and lies transversely)\n- **Absent cremasteric reflex** ipsilaterally — the most clinically reliable sign\n\n### The Cremasteric Reflex\n- Stroke the inner thigh → normal response = ipsilateral testis rises\n- **Absent cremasteric reflex = testicular torsion until proven otherwise**\n- Present reflex does not completely exclude torsion (30% false negative in confirmed torsion)\n\n### Signs Developing Over Time\n- Scrotal oedema and erythema (may develop within hours)\n- Tender, firm testis\n- Horizontal lie of testis\n- Low-grade fever (late, from ischaemic inflammation)\n\n### Distinguishing from Epididymo-Orchitis\n| Feature | Testicular Torsion | Epididymo-Orchitis |\n|---|---|---|\n| Onset | Sudden | Gradual over hours-days |\n| Age | Typically young | Any age; older more common |\n| Fever | Absent or late | Common |\n| Urinary symptoms | Absent | Often present (dysuria, discharge) |\n| Cremasteric reflex | Absent | Usually present |\n| Prehn's sign | Negative (elevation worsens) | Positive (elevation relieves) |\n| Urinalysis | Normal | May show leucocytes |\n\n**If uncertain: treat as torsion and evacuate.**"
+    },
+    {
+      "id": "tt-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "sortOrder": 2,
+      "content": "### Clinical Diagnosis — Do Not Wait for Investigations\n- Testicular torsion is a **clinical diagnosis** in the field\n- Do NOT wait for ultrasound, urinalysis, or other investigations\n- Doppler ultrasound is the investigation of choice at hospital — but must never delay evacuation\n- A missed torsion results in loss of the testis and often permanent fertility impact\n\n### Time of Pain Onset Must Be Documented\n- The 6-hour window starts from **onset of pain, not from time of presentation**\n- If patient has had pain for 4 hours before presenting, there are only 2 hours of remaining viable window\n- Communicate onset time clearly to RFDS\n\n### Antibiotics Are NOT the Answer\n- Do not treat presumed \"epididymo-orchitis\" with antibiotics without excluding torsion\n- If uncertain: evacuate for urgent surgical assessment\n\n### Manual Detorsion\n- Can be attempted if evacuation is significantly delayed\n- Technique: rotate the testis **lateral to medial** (\"opening a book\") — left testis counterclockwise, right testis clockwise when viewed from below\n- Successful detorsion = rapid, dramatic pain relief\n- **Even if successful, urgent surgical fixation (orchidopexy) is still required** — torsion can recur and contralateral fixation is also performed"
+    },
+    {
+      "id": "tt-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "sortOrder": 3,
+      "content": "### Immediate Actions\n1. **Call RFDS immediately** — time-critical surgical emergency\n2. **Document time of pain onset** — communicate to RFDS\n3. **Nil by mouth** — surgical candidate\n4. **IV access**\n5. **Analgesia** — aggressive\n\n### Analgesia\n- Morphine 2.5–5 mg IV titrated, or fentanyl 25–50 mcg IV\n- Ondansetron 4–8 mg IV for nausea/vomiting\n- Scrotal elevation (on a towel) reduces discomfort from oedema\n\n### Attempted Manual Detorsion (If Evacuation Significantly Delayed)\n1. Administer adequate IV analgesia first\n2. Stand at patient's feet; rotate testis lateral to medial\n3. Left testis: rotate counterclockwise (viewed from below)\n4. Right testis: rotate clockwise (viewed from below)\n5. Successful if pain dramatically decreases\n6. May require 1.5 turns (540 degrees)\n7. **Evacuate regardless of outcome** — orchidopexy still required\n\n### Communication to RFDS\n- Time of pain onset (exact)\n- Examination findings: cremasteric reflex absent/present, testis position, oedema\n- Any attempted manual detorsion and outcome"
+    },
+    {
+      "id": "tt-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "sortOrder": 4,
+      "content": "### Consideration of Other Acute Scrotal Conditions\nIf torsion cannot be confirmed or excluded and evacuation is significantly delayed:\n\n**Torsion of the appendix testis:**\n- Less severe pain, gradual onset, \"blue dot sign\" (small blue-black nodule visible through scrotal skin)\n- Managed conservatively (analgesia, anti-inflammatories)\n- Still requires medical review\n\n**Incarcerated inguinal hernia:**\n- Scrotal or inguinal swelling, unable to reduce\n- Bowel obstruction symptoms (nausea, vomiting, inability to pass flatus)\n- Surgical emergency\n\n**Fournier's gangrene:**\n- Necrotising fasciitis of the perineum\n- Systemic sepsis, rapidly spreading erythema and crepitus of scrotum/perineum\n- Immediate IV antibiotics (meropenem or cefazolin + metronidazole) and urgent surgery"
+    },
+    {
+      "id": "tt-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "sortOrder": 5,
+      "content": "### After Surgical Treatment\n- Orchidopexy (bilateral testicular fixation) is performed surgically\n- Contralateral testis is fixed at the same time\n- Fertility may be affected even after successful detorsion (ischaemic damage)\n- Return to physical work: typically 2–4 weeks post-surgery"
+    }
+  ],
+  "relatedMedicationIDs": [
+    "morphine-sulphate",
+    "fentanyl",
+    "ondansetron"
+  ],
+  "relatedGuidelineIDs": [
+    "urinary-tract-infection",
+    "acute-urinary-retention",
+    "sepsis-septic-shock"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
