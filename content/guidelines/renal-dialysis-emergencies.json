@@ -1,0 +1,72 @@
+{
+  "id": "renal-dialysis-emergencies",
+  "title": "Renal Dialysis Emergencies",
+  "category": "medical",
+  "tags": [
+    "dialysis",
+    "haemodialysis",
+    "fistula",
+    "air embolism",
+    "renal"
+  ],
+  "synonyms": [
+    "Renal Dialysis Emergencies",
+    "Dialysis Emergency",
+    "Haemodialysis Emergency"
+  ],
+  "sections": [
+    {
+      "id": "renal-dialysis-emergencies-overview",
+      "type": "overview",
+      "title": "Overview",
+      "content": "Dialysis emergencies can include circuit disconnection, access haemorrhage, air embolism, severe hypotension, dysrhythmia, sepsis, and electrolyte complications. Prehospital priorities are scene-safe machine separation where required, bleeding control, airway and seizure management, and rapid transport.",
+      "sortOrder": 0
+    },
+    {
+      "id": "renal-dialysis-emergencies-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "content": "- Collapse, chest pain, dyspnoea, seizure, stroke-like deficit, or reduced conscious state during or soon after dialysis\n- Significant bleeding from a fistula, graft, or dialysis tubing\n- Hypotension, pallor, tachycardia, or shock\n- Hyperkalaemia features such as weakness, bradycardia, or arrhythmia\n- Fever, rigors, or abdominal pain suggesting infection, especially in peritoneal dialysis patients",
+      "sortOrder": 1
+    },
+    {
+      "id": "renal-dialysis-emergencies-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "content": "- If the patient is still connected, disconnection and clamping may be time critical but should be done only by people who can do so safely\n- Access sites may bleed heavily once disconnected\n- Air embolism can present with acute neurological or cardiorespiratory collapse\n- Inspect the dialysis lines for air if an embolic complication is suspected\n- Avoid using the dialysis access limb for routine IV procedures unless there is no alternative and the situation is life threatening",
+      "sortOrder": 2
+    },
+    {
+      "id": "renal-dialysis-emergencies-management-basic",
+      "type": "management_basic",
+      "title": "Management – Primary",
+      "content": "- Primary Survey\n- If still connected to the dialysis circuit, stop the machine and clamp lines only if this can be done safely and promptly\n- Control access-site bleeding with direct pressure and escalate to tourniquet use only if severe haemorrhage cannot be controlled otherwise\n- Give oxygen only if clinically indicated and support ventilation if required\n- Manage seizures or altered conscious state under the relevant emergency pathway\n- Prioritise urgent transport for collapse, neurological deficit, severe bleeding, or suspected hyperkalaemia",
+      "sortOrder": 3
+    },
+    {
+      "id": "renal-dialysis-emergencies-management-advanced",
+      "type": "management_advanced",
+      "title": "Management – Advanced",
+      "content": "- ECG and cardiac monitoring\n- Gain IV access away from the dialysis limb if possible\n- If trained and necessary in a home-dialysis emergency, clamp both blood lines and disconnect the machine safely without delaying patient rescue\n- Consider crystalloid therapy for symptomatic hypotension or shock, with repeated reassessment\n- Treat hyperkalaemia, seizure, or severe haemorrhage according to the relevant protocol and companion guideline\n- Consider prehospital blood sampling only if this does not delay time-critical transport\n- Pre-notify early when air embolism, major haemorrhage, hyperkalaemia, or sepsis is suspected",
+      "sortOrder": 4
+    },
+    {
+      "id": "renal-dialysis-emergencies-additional-notes",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "content": "- Peritoneal dialysis patients with abdominal pain, cloudy fluid, or fever should raise concern for infection or sepsis\n- Document the dialysis setting, whether the machine was disconnected, access-site management, and any suspected air entry into the circuit\n- Patients may know the name of their dialysis centre or machine and this information may help hospital teams",
+      "sortOrder": 5
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "hyperkalaemia",
+    "haemorrhage",
+    "sepsis-septic-shock"
+  ],
+  "isFreeContent": true,
+  "version": 2,
+  "lastUpdated": "2026-05-15T00:00:00Z"
+}
