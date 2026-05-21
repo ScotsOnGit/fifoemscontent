@@ -1,0 +1,83 @@
+{
+  "id": "blast-explosion-injuries",
+  "title": "Blast and Explosion Injuries",
+  "category": "medical",
+  "tags": [
+    "blast",
+    "explosion",
+    "blasting",
+    "mining",
+    "primary blast",
+    "blast lung",
+    "fragmentation",
+    "tympanic"
+  ],
+  "synonyms": [
+    "explosion injuries",
+    "blast injuries",
+    "mining blast",
+    "primary blast injury"
+  ],
+  "sections": [
+    {
+      "id": "blast-overview",
+      "type": "overview",
+      "title": "Overview",
+      "sortOrder": 0,
+      "content": "Blast injuries occur from explosions during mining operations (blasting) or from accidental detonation of explosives or flammable gases. Injuries result from four distinct mechanisms simultaneously.\n\n### Four Mechanisms of Blast Injury\n| Type | Mechanism | Organs Affected |\n|---|---|---|\n| **Primary** | Overpressure/blast wave | Lungs, ears, bowel, sinuses — air-filled organs |\n| **Secondary** | Fragmentation — projectiles from explosion debris | Any body region — penetrating wounds |\n| **Tertiary** | Translocation — victim thrown by blast wind | Blunt trauma, fractures, TBI |\n| **Quaternary** | All other effects: flash burns, crush from collapse, toxic inhalation | Burns, inhalation injury, crush |\n\n### Key Principle\nExternal injuries may dramatically **underestimate** internal injury. A patient with no visible wounds may have lethal primary blast lung injury."
+    },
+    {
+      "id": "blast-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "sortOrder": 1,
+      "content": "### Primary Blast Lung (Most Lethal Primary Blast Injury)\n- May present with NO external injuries\n- Onset: immediate or **delayed up to 48 hours**\n- Haemoptysis, dyspnoea, hypoxia, chest pain\n- Bilateral pulmonary contusions on CXR (if available)\n- Cyanosis, decreased SpO2\n- High mortality if severe\n\n### Tympanic Membrane Rupture (Most Common Primary Blast Injury)\n- Ear pain, sudden hearing loss, tinnitus\n- Visible perforation on otoscopy\n- Blood in ear canal\n- Usually self-healing — keep dry, no ear drops\n- Bilateral TM rupture = significant blast exposure → investigate for blast lung\n\n### Blast Wave (Primary) — Other Organs\n- **Abdominal:** bowel perforation — abdominal pain, guarding, delayed peritonitis\n- **Eye:** globe rupture, hyphaema — visual disturbance, eye pain\n- **Sinus:** sinus fractures, bleeding\n\n### Secondary (Fragmentation) Injuries\n- Multiple entry wounds of varying size\n- May not be visible in hair, axillae, perineum — do full exposure\n- Haemorrhage — may be severe and occult (abdominal)\n\n### Tertiary (Translocation) Injuries\n- Head injury, spinal injury\n- Long bone fractures, joint dislocations\n- Solid organ injury (liver, spleen, kidney)\n\n### Quaternary\n- Burns: flash (superficial/partial thickness), contact\n- Crush injury from structural collapse\n- Toxic inhalation (dust, chemical combustion products)\n\n### Danger Signs — Blast Lung\n- SpO2 <94% in absence of airway obstruction\n- Haemoptysis\n- Bilateral chest findings\n- Dyspnoea at rest"
+    },
+    {
+      "id": "blast-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "sortOrder": 2,
+      "content": "### Blast Lung — Ventilation Caution\n- **Avoid high-pressure positive pressure ventilation** where possible — barotrauma risk in injured lung\n- Use lowest tidal volumes and pressures that maintain adequate SpO2\n- Air embolism risk: avoid Valsalva, coughing, straining in suspected blast lung\n\n### Do Not Be Falsely Reassured\n- Walking wounded may have serious blast lung — reassess all survivors regularly\n- Initial SpO2 may be normal then deteriorate over hours\n\n### Scene Safety\n- Confirm with mine management that the area is secured — secondary explosion risk from residual explosive or ignition sources\n- Multiple casualties likely — activate MCI protocol early\n\n### Ear Protection and Communication\n- Survivors may have significant hearing loss — use visual communication, written instructions if needed\n\n### Toxic Inhalation\n- Explosives combustion produces nitrogen oxides, carbon monoxide, and fine particulates\n- All patients near blast should receive supplemental oxygen\n- See toxic-inhalations guideline if persistent respiratory symptoms"
+    },
+    {
+      "id": "blast-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "sortOrder": 3,
+      "content": "### Scene Assessment\n1. Confirm scene safety with mine management — no secondary blast risk\n2. Activate site MCI plan if multiple casualties\n3. Call RFDS early — blast casualties require hospital care\n\n### Triage\n- All blast casualties must be assessed — including apparently uninjured bystanders\n- Re-triage regularly — blast lung can deteriorate over hours\n\n### Primary Survey — All Blast Casualties\n- **Airway:** open, suction, protect — blast lung patients tolerate airway manoeuvres poorly\n- **Breathing:** SpO2 (critical marker), respiratory rate, bilateral air entry — treat hypoxia urgently\n- **Circulation:** control external haemorrhage (tourniquets, pressure), two large-bore IV, TXA 1 g IV if haemorrhagic\n- **Disability:** GCS, pupils — high rate of TBI from translocation\n- **Exposure:** full body inspection for fragmentation wounds, burns\n\n### Blast Lung Management\n- Oxygen: high-flow 15 L/min NRB; titrate to SpO2 >94%\n- Position: sitting upright if haemodynamically stable\n- Avoid BVM with high pressures if spontaneously breathing — support rather than override\n- IV access, fluid resuscitation cautiously (avoid fluid overload in lung injury)\n- Analgesia: morphine IV titrated — avoid IM in haemodynamic instability\n\n### TM Rupture\n- Confirm no other head/ear injury\n- Keep ear dry — no ear drops, no cotton wool\n- Cover with clean dressing\n- Routine ENT follow-up — most heal spontaneously within 8 weeks"
+    },
+    {
+      "id": "blast-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "sortOrder": 4,
+      "content": "### Blast Lung — Deteriorating Patient\n- NIPPV (CPAP) may be used cautiously if patient is cooperative and haemodynamically stable\n- Intubation if unconscious or apnoeic — lowest pressures possible, permissive hypoxia acceptable over barotrauma\n- Tidal volume 6 mL/kg ideal body weight\n- Avoid PEEP >8 cmH2O if possible\n- Suction haemoptysis, maintain airway clear\n\n### Pneumothorax\n- High rate post-blast\n- Tension pneumothorax: needle decompression (2nd ICS MCL), finger thoracostomy if trained\n- Bilateral pneumothorax possible with primary blast — consider bilateral decompression if deteriorating\n\n### Haemorrhage Control\n- Tourniquet for limb haemorrhage\n- Haemostatic dressings (QuikClot) for junctional/truncal wounds\n- TXA 1 g IV within 3 hours of injury if haemorrhagic shock\n- Pelvic splint if pelvic injury suspected\n\n### Penetrating Abdominal Injury\n- Cover evisceration with moist dressing\n- Do NOT reduce eviscerated bowel\n- IV access, nil by mouth, urgent evacuation\n- Analgesia\n\n### Eye Injury — Globe Rupture Suspected\n- DO NOT apply pressure to the eye\n- Rigid eye shield (not pad)\n- Analgesia, antiemetic\n- Urgent evacuation — ophthalmological emergency"
+    },
+    {
+      "id": "blast-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "sortOrder": 5,
+      "content": "### Incident Notification\n- All blast-related injuries are notifiable events under WA mines safety legislation\n- Notify WA DMIRS and complete site incident report\n\n### Documentation\n- Time of blast, distance from explosion, type of explosive if known\n- All symptoms including hearing loss, tinnitus, haemoptysis, abdominal pain\n- Initial vital signs, SpO2 trend over time\n\n### Handover to RFDS\n- Emphasise mechanism (proximity to blast, type of explosion)\n- Report SpO2 trend — deteriorating SpO2 indicates blast lung\n- Report TM status, any haemoptysis"
+    }
+  ],
+  "relatedMedicationIDs": [
+    "oxygen",
+    "tranexamic-acid",
+    "morphine-sulphate",
+    "ketamine",
+    "midazolam"
+  ],
+  "relatedGuidelineIDs": [
+    "haemorrhage",
+    "traumatic-brain-injury",
+    "chest-trauma",
+    "burns",
+    "pneumothorax",
+    "toxic-inhalations"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
