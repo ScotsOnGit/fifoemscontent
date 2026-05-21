@@ -8599,5 +8599,91 @@
     "isFreeContent": true,
     "version": 1,
     "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "box-jellyfish-antivenom",
+    "name": "Box Jellyfish Antivenom",
+    "genericName": "Chironex fleckeri antivenom (equine-derived immunoglobulin)",
+    "drugClass": "Antivenom — concentrated immunoglobulin preparation",
+    "tags": [
+      "box jellyfish",
+      "antivenom",
+      "Chironex fleckeri",
+      "envenomation",
+      "jellyfish",
+      "marine",
+      "venom",
+      "cardiac arrest",
+      "tropical"
+    ],
+    "synonyms": [
+      "Chironex antivenom",
+      "CSL Box Jellyfish Antivenom",
+      "Seqirus box jellyfish antivenom"
+    ],
+    "indications": [
+      "Box jellyfish (Chironex fleckeri) envenomation with any of the following: cardiac arrest, decreased level of consciousness, cardiac and/or respiratory distress or collapse, total surface area affected greater than half the surface area of one limb, or intractable pain unrelieved by icepacks, methoxyflurane, and/or opioid analgesia"
+    ],
+    "contraindications": [
+      "Known allergy or prior adverse drug reaction to equine-derived antivenom or antivenom preparations"
+    ],
+    "precautions": [
+      "Foreign equine protein — anaphylaxis risk; adrenaline must be immediately available throughout administration",
+      "If anaphylaxis occurs: cease antivenom infusion immediately and manage per anaphylaxis protocol",
+      "In cardiac arrest due to box jellyfish envenomation: administer antivenom only after effective CPR, ALS measures, and cardioactive drugs (adrenaline) have been commenced",
+      "Dose is based on the estimated venom load — NOT on patient weight or age; the same dose is used for adults and children",
+      "Cold chain: store at 2–8°C; protect from light; do NOT freeze — cold chain breach renders the product unreliable",
+      "Available at coastal QAS stations from Rainbow Beach northward; relevant for tropical and coastal mine sites (north WA, north QLD)",
+      "Serum sickness (delayed) may develop 5–14 days after antivenom administration"
+    ],
+    "sideEffects": [
+      "Anaphylaxis (acute — most dangerous; have adrenaline drawn up)",
+      "Allergic reaction — urticaria, bronchospasm",
+      "Intense burning/stinging at injection site",
+      "Delayed serum sickness (5–14 days post-administration): fever, rash, arthralgia, lymphadenopathy"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Concentrated equine-derived immunoglobulin fragments (F(ab')₂) that bind to and neutralise Chironex fleckeri venom toxins. Box jellyfish venom contains cardiotoxic, cytolytic, and haemolytic proteins that cause rapid cardiac arrhythmias, cardiovascular collapse, and dermal necrosis. Antivenom neutralises circulating venom before it binds to target tissues; it cannot reverse toxin that has already bound. Earliest possible administration is therefore critical.",
+      "metabolism": "Metabolised in the liver and muscle tissue. Immunoglobulin fragments are proteolytically degraded.",
+      "excretion": "Half-life and elimination data not established for this antivenom product."
+    },
+    "adultDosing": [
+      {
+        "id": "bjav-severe-iv-acp",
+        "indication": "Box jellyfish envenomation with severe features — IV infusion",
+        "route": "IV infusion (via syringe driver / SPRINGFUSOR®)",
+        "dose": "20,000 units (1 ampoule)",
+        "frequency": "Single IV infusion dose at this authority level",
+        "maxDose": "20,000 units (single dose via IV infusion — ACP2 scope)",
+        "notes": "Dilute 20,000 units of antivenom with 0.9% NaCl in a 30 mL syringe to achieve 20,000 units/20 mL. Administer via SPRINGFUSOR® at 60 mL/hour (over 20 minutes). Adrenaline must be immediately available — have 500 mcg IM drawn up. Monitor for anaphylaxis throughout infusion. Dose is NOT weight-based — same for adults and children.",
+        "isWeightBased": false
+      },
+      {
+        "id": "bjav-severe-iv-ccp",
+        "indication": "Box jellyfish envenomation with severe features — IV/IO slow push (CCP scope)",
+        "route": "IV or IO (slow push)",
+        "dose": "20,000 units (1 ampoule) slow IV/IO push over 2–5 minutes",
+        "frequency": "Repeat immediately for up to 2 further doses if required",
+        "maxDose": "60,000 units (3 ampoules) total",
+        "notes": "Give each 20,000 unit ampoule as slow IV or IO push over 2–5 minutes. May repeat immediately × 2 further doses (total maximum 60,000 units / 3 ampoules) based on clinical response. IO route is available to CCP scope only. Adrenaline immediately available throughout.",
+        "isWeightBased": false
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "id": "bjav-paed",
+        "indication": "Box jellyfish envenomation with severe features",
+        "route": "IV infusion or slow IV/IO push",
+        "dose": "20,000 units — same as adult (dose based on venom load, not body weight)",
+        "frequency": "See adult dosing notes for repeat dosing at respective scope levels",
+        "maxDose": "60,000 units (3 ampoules) total at CCP scope",
+        "notes": "Dose is identical to adult — NOT weight-based. The venom load determines the required antivenom dose, not patient size. Administer using the same IV infusion or IV/IO push protocols as adult dosing above.",
+        "isWeightBased": false
+      }
+    ],
+    "relatedGuidelineIDs": [],
+    "isFreeContent": true,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   }
 ]
