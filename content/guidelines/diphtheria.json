@@ -2,6 +2,9 @@
   "id": "diphtheria",
   "title": "Diphtheria",
   "category": "medical",
+  "isFreeContent": true,
+  "version": 4,
+  "lastUpdated": "2026-05-21T10:41:48Z",
   "tags": [
     "diphtheria",
     "corynebacterium",
@@ -22,6 +25,18 @@
     "Respiratory diphtheria",
     "Cutaneous diphtheria"
   ],
+  "relatedMedicationIDs": [
+    "azithromycin",
+    "doxycycline",
+    "adrenaline-epinephrine",
+    "oxygen"
+  ],
+  "relatedGuidelineIDs": [
+    "dyspnoea",
+    "cardiac-arrhythmia",
+    "sepsis-septic-shock"
+  ],
+  "relatedCalculatorIDs": [],
   "sections": [
     {
       "id": "diphtheria-overview",
@@ -34,7 +49,7 @@
       "id": "diphtheria-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Hallmark Sign:** Grey/white **pseudo membrane** on tonsils/pharynx. Leathery, tough, adherent. **Bleeds when you try to wipe it off.** May extend onto soft palate, uvula, or larynx.\n\n### Early Symptoms (Days 1-2)\n- Mild sore throat - often less painful than it looks\n- Low-grade fever 38-38.5°C - **patient looks sicker than the temperature suggests**\n- Fatigue, malaise, loss of appetite\n- Muffled or \"hot potato\" voice\n\n### Progressing Disease (Days 2-4)\n- **Bull neck** - dramatic swelling from lymph nodes and tissue oedema\n- Hoarse voice, barking cough (laryngeal involvement)\n- Nasal discharge, possibly blood-tinged\n- Dysphagia, drooling\n\n### Severe / Late Complications\n| Complication | Timing | Notes |\n|---|---|---|\n| Airway obstruction | Days 2-5 | Membrane extension and oedema |\n| Myocarditis | Approximately 1 week | Arrhythmias, conduction defects, cardiomyopathy |\n| Neuropathy | Weeks to months | Cranial nerve palsy, respiratory muscle weakness |\n\n**DANGER SIGNS - ACT IMMEDIATELY:** Stridor, respiratory distress, cyanosis, drooling/inability to swallow, arrhythmia/chest pain, airway obstruction",
+      "content": "**Hallmark Sign:** Grey/white **pseudo membrane** on tonsils/pharynx. Leathery, tough, adherent. **Bleeds when you try to wipe it off.** May extend onto soft palate, uvula, or larynx.\n\n**Early Symptoms (Days 1-2)**\n- Mild sore throat - often less painful than it looks\n- Low-grade fever 38-38.5°C - **patient looks sicker than the temperature suggests**\n- Fatigue, malaise, loss of appetite\n- Muffled or \"hot potato\" voice\n\n**Progressing Disease (Days 2-4)**\n- **Bull neck** - dramatic swelling from lymph nodes and tissue oedema\n- Hoarse voice, barking cough (laryngeal involvement)\n- Nasal discharge, possibly blood-tinged\n- Dysphagia, drooling\n\n**Severe / Late Complications**\n| Complication | Timing | Notes |\n|---|---|---|\n| Airway obstruction | Days 2-5 | Membrane extension and oedema |\n| Myocarditis | Approximately 1 week | Arrhythmias, conduction defects, cardiomyopathy |\n| Neuropathy | Weeks to months | Cranial nerve palsy, respiratory muscle weakness |\n\n**DANGER SIGNS - ACT IMMEDIATELY:** \n- Stridor\n- Respiratory distress\n- Airway Obstruction\n- Cyanosis\n- Drooling/inability to swallow\n- Arrhythmia/chest pain",
       "sortOrder": 1
     },
     {
@@ -48,14 +63,14 @@
       "id": "diphtheria-management-basic",
       "type": "management_basic",
       "title": "Management - Primary",
-      "content": "### Immediate Actions - On Suspicion\n\n- **ISOLATE:** Droplet precautions. Single room. Mask the patient.\n- **CALL RFDS and WA HEALTH - REPORT NOW:** Mandatory notifiable on clinical suspicion. Contact your local Public Health Unit for urgent medical advice.\n- Take swabs from tonsils prior to treatment where possible - do not delay treatment.\n- **START ANTIBIOTICS:** Do not wait for laboratory confirmation.\n- **AIRWAY READY: DO NOT REMOVE MEMBRANE**\n- **Request antitoxin on evacuation aircraft**\n\nESOs MUST have an extremely low threshold for getting help (MESO sites call 000 where appropriate).\n\n### Primary Survey\n- Position of comfort for airway protection\n- Consider oxygen; titrate to SpO2 94% or above\n- Have suction, airway adjuncts, and BVM ready at all times\n- Vital sign survey - particularly respiratory rate, heart rate, blood pressure, SpO2, temperature, BGL dip\n- Limb-lead ECG; continuous cardiac monitoring if available\n\n### Supportive Care\n- Nil by mouth if airway concerns\n- Anticipate fluid requirements; strict fluid balance\n- Keep patient warm\n- Analgesia/antipyretics as required\n- Consider antiemetic if required",
+      "content": "**Immediate Actions - On Suspicion**\n\n- **ISOLATE:** Droplet precautions. Single room. Mask the patient.\n- **CALL RFDS and WA HEALTH - REPORT NOW:** Mandatory notifiable on clinical suspicion. Contact your local Public Health Unit for urgent medical advice.\n- Take swabs from tonsils prior to treatment where possible - do not delay treatment.\n- **START ANTIBIOTICS:** Do not wait for laboratory confirmation.\n- **AIRWAY READY: DO NOT REMOVE MEMBRANE**\n- **Request antitoxin on evacuation aircraft**\n\nESOs MUST have an extremely low threshold for getting help (MESO sites call 000 where appropriate).\n\n**Primary Survey**\n- Position of comfort for airway protection\n- Consider oxygen; titrate to SpO2 94% or above\n- Have suction, airway adjuncts, and BVM ready at all times\n- Vital sign survey - particularly respiratory rate, heart rate, blood pressure, SpO2, temperature, BGL dip\n- Limb-lead ECG; continuous cardiac monitoring if available\n\n**Supportive Care**\n- Nil by mouth if airway concerns\n- Anticipate fluid requirements; strict fluid balance\n- Keep patient warm\n- Analgesia/antipyretics as required\n- Consider antiemetic if required",
       "sortOrder": 3
     },
     {
       "id": "diphtheria-management-advanced",
       "type": "management_advanced",
       "title": "Management - Advanced",
-      "content": "Ensure adrenaline and resuscitation equipment are immediately available.\n\n### Airway Management\n- Anticipate airway deterioration - membrane can extend causing complete obstruction\n- Prepare difficult airway equipment\n- If intubation required, use smallest ETT that will pass - membrane narrows the lumen\n- Surgical airway may be needed if membrane prevents intubation\n- Avoid blind suctioning of pharynx (may dislodge membrane)\n- Consider advanced airway early if stridor, respiratory distress, or declining GCS\n- **MUST contact RFDS if advanced airway is required**\n\n### Cardiac Monitoring\n- Continuous ECG monitoring for arrhythmias, conduction defects\n- 12-lead ECG - look for PR prolongation, ST changes, T-wave inversion, heart block\n\n### Supportive Care\n- Gain IV access, 2 x large bore\n- Consider troponin (i-STAT) if available and time permits\n- Consider blood draw for i-STAT (Chem8+, CG4+) where applicable\n- Consider IV fluids where indicated\n- Consider antiemetic\n- Administer IV appropriate pain relief\n\n### Antibiotics (in consult with on-call doctor)\n- **Azithromycin (preferred)**\n- Erythromycin\n- If allergy/contraindication to macrolides, consider doxycycline (200 mg day 1, then 100 mg BD for 7 days) in consultation with on-call doctor",
+      "content": "Ensure adrenaline and resuscitation equipment are immediately available.\n\n**Airway Management**\n- Anticipate airway deterioration - membrane can extend causing complete obstruction\n- Prepare difficult airway equipment\n- If intubation required, use smallest ETT that will pass - membrane narrows the lumen\n- Surgical airway may be needed if membrane prevents intubation\n- Avoid blind suctioning of pharynx (may dislodge membrane)\n- Consider advanced airway early if stridor, respiratory distress, or declining GCS\n- **MUST contact RFDS if advanced airway is required**\n\n**Cardiac Monitoring**\n- Continuous ECG monitoring for arrhythmias, conduction defects\n- 12-lead ECG - look for PR prolongation, ST changes, T-wave inversion, heart block\n\n**Supportive Care**\n- Gain IV access, 2 x large bore\n- Consider troponin (i-STAT) if available and time permits\n- Consider blood draw for i-STAT (Chem8+, CG4+) where applicable\n- Consider IV fluids where indicated\n- Consider antiemetic\n- Administer IV appropriate pain relief\n\n**Antibiotics (in consult with on-call doctor)**\n- **Azithromycin (preferred)**\n- Erythromycin\n- If allergy/contraindication to macrolides, consider doxycycline (200 mg day 1, then 100 mg BD for 7 days) in consultation with on-call doctor",
       "sortOrder": 4
     },
     {
@@ -65,19 +80,5 @@
       "content": "- **Swab Collection:** Specify \"culture for suspected diphtheria\" on request form - standard lab processing may not identify *C. diphtheriae* without specific request. Collect specimens before antibiotics where possible, but do not delay antibiotics for swabs. Always follow WA Department of Health guidance.\n- Diphtheria does not reliably confer immunity - vaccinate during convalescence.\n- All suspected cases of respiratory diphtheria must be evacuated off site.",
       "sortOrder": 5
     }
-  ],
-  "relatedMedicationIDs": [
-    "azithromycin",
-    "doxycycline",
-    "adrenaline-epinephrine",
-    "oxygen"
-  ],
-  "relatedGuidelineIDs": [
-    "dyspnoea",
-    "cardiac-arrhythmia",
-    "sepsis-septic-shock"
-  ],
-  "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-21T00:00:00Z"
+  ]
 }
