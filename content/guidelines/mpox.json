@@ -21,42 +21,42 @@
       "id": "mpox-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Mpox is a viral zoonotic disease caused by Orthopoxvirus (Poxviridae family), related to variola (smallpox) and vaccinia viruses. It is a notifiable disease in Australia. Mine site dormitory environments create elevated risk for transmission if a case is not rapidly identified and isolated.\n\n**Incubation period:** 7\u201314 days (range 5\u201321 days)\n\n**Infectious period:** From onset of prodrome until all lesions have scabbed and scabs have fully separated.",
+      "content": "Mpox is a viral zoonotic disease caused by Orthopoxvirus (Poxviridae family), related to variola (smallpox) and vaccinia viruses. It is a notifiable disease in Australia. Mine site dormitory environments create elevated risk for transmission if a case is not rapidly identified and isolated.\n\n**Incubation period:** 7–14 days (range 5–21 days)\n\n**Infectious period:** From onset of prodrome until all lesions have scabbed and scabs have fully separated.",
       "sortOrder": 0
     },
     {
       "id": "mpox-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "### Prodromal Phase (days 1\u20135)\n- Fever, chills, headache, myalgia, arthralgia, back pain\n- Fatigue\n- **Lymphadenopathy** (distinguishes mpox from smallpox and chickenpox)\n\n### Rash (begins 1\u20133 days after fever)\n- Classically: **face \u2192 palms/soles \u2192 genitalia \u2192 eyes**\n- Lesion distribution: face (95%), palms/soles (75%), mouth (70%), genitalia (30%), eyes (20%)\n- Progression: **macule \u2192 papule \u2192 vesicle \u2192 pustule \u2192 scab** (all lesions synchronous)\n- Duration: 2\u20133 weeks\n\n### Atypical Presentations\n- Mild or absent prodrome\n- Minimal or single lesion\n- Proctitis without rash\n\n### Complications\nCellulitis, pneumonia, sepsis, encephalitis, corneal infection/blindness",
+      "content": "**Prodromal Phase (days 1–5)**\n- Fever, chills, headache, myalgia, arthralgia, back pain\n- Fatigue\n- **Lymphadenopathy** (distinguishes mpox from smallpox and chickenpox)\n\n**Rash (begins 1–3 days after fever)**\n- Classically: **face → palms/soles → genitalia → eyes**\n- Lesion distribution: face (95%), palms/soles (75%), mouth (70%), genitalia (30%), eyes (20%)\n- Progression: **macule → papule → vesicle → pustule → scab** (all lesions synchronous)\n- Duration: 2–3 weeks\n\n**Atypical Presentations**\n- Mild or absent prodrome\n- Minimal or single lesion\n- Proctitis without rash\n\n**Complications**\nCellulitis, pneumonia, sepsis, encephalitis, corneal infection/blindness",
       "sortOrder": 1
     },
     {
       "id": "mpox-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "### Transmission Routes\n- **Contact:** Skin-to-skin or contact with lesions, body fluids, contaminated materials (bedding, clothing, towels)\n- **Droplet/Airborne:** Prolonged face-to-face contact; aerosol-generating procedures (AGPs) carry elevated risk\n\n### Mine Site Context\n- Communal accommodation (dongas, camp dining) significantly increases outbreak potential\n- Notify site medical officer and line management immediately if mpox suspected\n- Affected worker must be isolated in private accommodation pending transfer\n- Shared amenities (shower, gym, kitchen) that contact used before diagnosis must be identified for decontamination\n\n### Differential Diagnosis\n- Chickenpox (varicella): lesions in different stages simultaneously; no lymphadenopathy\n- Syphilis, herpes, molluscum contagiosum\n- Impetigo, scabies",
+      "content": "**Transmission Routes**\n- **Contact:** Skin-to-skin or contact with lesions, body fluids, contaminated materials (bedding, clothing, towels)\n- **Droplet/Airborne:** Prolonged face-to-face contact; aerosol-generating procedures (AGPs) carry elevated risk\n\n**Mine Site Context**\n- Communal accommodation (dongas, camp dining) significantly increases outbreak potential\n- Notify site medical officer and line management immediately if mpox suspected\n- Affected worker must be isolated in private accommodation pending transfer\n- Shared amenities (shower, gym, kitchen) that contact used before diagnosis must be identified for decontamination\n\n**Differential Diagnosis**\n- Chickenpox (varicella): lesions in different stages simultaneously; no lymphadenopathy\n- Syphilis, herpes, molluscum contagiosum\n- Impetigo, scabies",
       "sortOrder": 2
     },
     {
       "id": "mpox-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
-      "content": "**Apply PPE before patient contact:**\n- P2/N95 respirator (fit-tested)\n- Gloves (double-glove for AGPs)\n- Eye protection (goggles or face shield)\n- Fluid-resistant gown or coveralls\n- Apply surgical mask to patient if tolerated\n\n**Clinical management:**\n- Primary survey; manage complications (sepsis, respiratory distress, altered consciousness)\n- Administer antipyretics/analgesia as indicated\n- Isolate from other patients \u2014 **do not share transport with another patient**\n- Notify receiving facility before arrival so isolation room can be prepared\n\n**Wound care:**\n- Do not puncture or drain lesions\n- Cover open lesions with clean dry dressings",
+      "title": "Management – Primary",
+      "content": "**Apply PPE before patient contact:**\n- P2/N95 respirator (fit-tested)\n- Gloves (double-glove for AGPs)\n- Eye protection (goggles or face shield)\n- Fluid-resistant gown or coveralls\n- Apply surgical mask to patient if tolerated\n\n**Clinical management:**\n- Primary survey; manage complications (sepsis, respiratory distress, altered consciousness)\n- Administer antipyretics/analgesia as indicated\n- Isolate from other patients — **do not share transport with another patient**\n- Notify receiving facility before arrival so isolation room can be prepared\n\n**Wound care:**\n- Do not puncture or drain lesions\n- Cover open lesions with clean dry dressings",
       "sortOrder": 3
     },
     {
       "id": "mpox-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
-      "content": "- IV access and fluid resuscitation if sepsis or dehydration present\n- Manage complications per relevant guidelines (Sepsis, Encephalitis, Pneumonia)\n- If airway compromise: standard airway management with full PPE; aerosol precautions for all AGPs\n\n### Vehicle Decontamination\n- Set vehicle airflow to directed exhaust (as per airflow protocol)\n- Do not shake or agitate soiled linen \u2014 bag and label as clinical/infectious waste\n- Vehicle cleaning per transmission-based precautions protocol\n- Document case and notify infection control",
+      "title": "Management – Advanced",
+      "content": "- IV access and fluid resuscitation if sepsis or dehydration present\n- Manage complications per relevant guidelines (Sepsis, Encephalitis, Pneumonia)\n- If airway compromise: standard airway management with full PPE; aerosol precautions for all AGPs\n\n**Vehicle Decontamination**\n- Set vehicle airflow to directed exhaust (as per airflow protocol)\n- Do not shake or agitate soiled linen — bag and label as clinical/infectious waste\n- Vehicle cleaning per transmission-based precautions protocol\n- Document case and notify infection control",
       "sortOrder": 4
     },
     {
       "id": "mpox-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- **Mpox is a notifiable disease** \u2014 report to WA Department of Health within 24 hours\n- Vaccination (modified vaccinia Ankara \u2014 Imvanex) available for high-risk contacts and outbreak response\n- Contacts who shared accommodation or close contact during infectious period should be identified for public health follow-up\n- Consider informing site management to facilitate environmental cleaning and contact tracing of shared spaces",
+      "content": "- **Mpox is a notifiable disease** — report to WA Department of Health within 24 hours\n- Vaccination (modified vaccinia Ankara — Imvanex) available for high-risk contacts and outbreak response\n- Contacts who shared accommodation or close contact during infectious period should be identified for public health follow-up\n- Consider informing site management to facilitate environmental cleaning and contact tracing of shared spaces",
       "sortOrder": 5
     }
   ],
@@ -66,6 +66,6 @@
     "proc-ppe-donning-doffing"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-20T00:00:00Z"
+  "version": 2,
+  "lastUpdated": "2026-05-21T00:00:00Z"
 }
