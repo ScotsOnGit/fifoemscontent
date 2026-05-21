@@ -8863,5 +8863,82 @@
     "isFreeContent": false,
     "version": 1,
     "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "acetylcysteine",
+    "name": "Acetylcysteine (Parvolex)",
+    "genericName": "N-acetylcysteine",
+    "drugClass": "Antidote — glutathione precursor",
+    "tags": [
+      "antidote",
+      "paracetamol overdose",
+      "NAC",
+      "toxicology",
+      "hepatoprotective"
+    ],
+    "synonyms": [
+      "NAC",
+      "N-acetylcysteine",
+      "Parvolex",
+      "acetylcysteine"
+    ],
+    "indications": [
+      "Paracetamol (acetaminophen) overdose — primary indication",
+      "Hepatic failure from paracetamol toxicity"
+    ],
+    "contraindications": [
+      "No absolute contraindications in paracetamol overdose — the risk of not treating exceeds the risk of anaphylactoid reaction"
+    ],
+    "precautions": [
+      "Anaphylactoid reactions are common during the first infusion bag (15–20% incidence) — rash, urticaria, bronchospasm, hypotension",
+      "If anaphylactoid reaction occurs: pause infusion, treat with IV antihistamine (promethazine) and/or adrenaline if severe, then restart at slower rate when settled",
+      "Asthma: increased risk of bronchospasm — have salbutamol ready",
+      "Dose calculation is weight-based — confirm weight before prescribing",
+      "Paracetamol nomogram (Rumack-Matthew) should guide treatment decision — contact Poisons Information Centre: 13 11 26"
+    ],
+    "sideEffects": [
+      "Anaphylactoid reaction (15–20% during first bag): rash, flushing, urticaria, bronchospasm, hypotension — usually mild and manageable",
+      "Nausea and vomiting (common)",
+      "Tachycardia",
+      "Hypotension (rare)"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Paracetamol overdose depletes hepatic glutathione, allowing the toxic metabolite NAPQI to accumulate and cause hepatocellular necrosis. Acetylcysteine replenishes glutathione stores (acting as a precursor), directly conjugates NAPQI, and improves microcirculatory blood flow in the liver. Most effective when started within 8 hours of overdose but reduces mortality even if started up to 24 hours post-ingestion.",
+      "metabolism": "Hepatic — converted to cysteine and incorporated into glutathione",
+      "excretion": "Renal"
+    },
+    "adultDosing": [
+      {
+        "indication": "Paracetamol overdose — IV 3-bag regimen",
+        "dose": "Bag 1: 150 mg/kg in 200 mL glucose 5% over 60 minutes; Bag 2: 50 mg/kg in 500 mL glucose 5% over 4 hours; Bag 3: 100 mg/kg in 1000 mL glucose 5% over 16 hours",
+        "route": "Intravenous infusion",
+        "frequency": "Sequential — total 21 hours",
+        "notes": "Total dose = 300 mg/kg over 21 hours. Use glucose 5% as diluent. In fluid-restricted patients, lower volumes can be used — contact RFDS. If vomiting prevents oral treatment, IV is preferred."
+      },
+      {
+        "indication": "Paracetamol overdose — oral regimen (if IV unavailable)",
+        "dose": "140 mg/kg loading dose then 70 mg/kg every 4 hours for 17 doses",
+        "route": "Oral or via nasogastric tube",
+        "frequency": "Every 4 hours for 17 doses after loading",
+        "notes": "Oral NAC is unpalatable — dilute in juice. Vomiting is a major problem with oral route. Administer antiemetic. IV route is strongly preferred."
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "indication": "Paracetamol overdose (paediatric)",
+        "dose": "Same weight-based regimen as adult (150/50/100 mg/kg). Adjust fluid volumes for weight — consult Poisons Information Centre: 13 11 26",
+        "route": "Intravenous infusion",
+        "frequency": "Sequential 3-bag regimen",
+        "notes": "In infants and young children, total IV fluid volumes must be carefully calculated to avoid fluid overload. Seek Poisons Information Centre guidance."
+      }
+    ],
+    "relatedGuidelineIDs": [
+      "opioid-toxicity",
+      "benzodiazepine-toxicity",
+      "serotonin-syndrome"
+    ],
+    "isFreeContent": false,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   }
 ]
