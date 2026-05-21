@@ -22,42 +22,42 @@
       "id": "measles-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Measles is caused by *Morbillivirus* (Paramyxoviridae). It is one of the most contagious infectious diseases known (R0 12–18). Unvaccinated or under-vaccinated individuals — including some overseas-born workers — are at significant risk.\n\n**Incubation:** 10–14 days (range 7–21 days) from exposure to rash\n\n**Infectious period:** 4 days before to 4 days after rash onset\n\n**Notifiable disease.** One case on a remote mine site is a public health emergency — early notification and isolation are critical.\n\n**Transmission:** Airborne — virus can remain suspended in the air for up to 2 hours in a room previously occupied by an infected person.",
+      "content": "Measles is caused by *Morbillivirus* (Paramyxoviridae). It is one of the most contagious infectious diseases known (R0 12–18). Unvaccinated or under-vaccinated individuals - including some overseas-born workers - are at significant risk.\n\n**Incubation:** 10–14 days (range 7–21 days) from exposure to rash\n\n**Infectious period:** 4 days before to 4 days after rash onset\n\n**Notifiable disease.** One case on a remote mine site is a public health emergency - early notification and isolation are critical.\n\n**Transmission:** Airborne - virus can remain suspended in the air for up to 2 hours in a room previously occupied by an infected person.",
       "sortOrder": 0
     },
     {
       "id": "measles-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Prodrome (days 1–4) — Highly Infectious**\n- High fever (≥38.5°C, may reach 40–41°C)\n- **Cough, coryza (runny nose), conjunctivitis** — the 3 Cs\n- **Koplik spots** (pathognomonic): tiny white/grey spots on buccal mucosa opposite molars — appear 1–2 days before rash\n\n**Rash (day 3–5)**\n- Maculopapular, **begins on face/hairline → spreads downward to trunk → extremities**\n- Coalesces on trunk\n- Lasts 5–6 days; fades in the same order it appeared\n- Concurrent fever often spikes with rash onset\n\n**Complications**\n| Complication | Notes |\n|---|---|\n| Otitis media | Most common (1 in 10) |\n| Pneumonia | Leading cause of measles death; 1–6% cases |\n| Encephalitis | 1 in 1000 cases; ~15% mortality |\n| Subacute sclerosing panencephalitis (SSPE) | Rare, fatal; years after infection |\n| Febrile seizures | Especially in children |\n| Death | Higher in immunocompromised, malnourished, infants |",
+      "content": "**Prodrome (days 1–4) - Highly Infectious**\n- High fever (≥38.5°C, may reach 40–41°C)\n- **Cough, coryza (runny nose), conjunctivitis** - the 3 Cs\n- **Koplik spots** (pathognomonic): tiny white/grey spots on buccal mucosa opposite molars - appear 1–2 days before rash\n\n**Rash (day 3–5)**\n- Maculopapular, **begins on face/hairline → spreads downward to trunk → extremities**\n- Coalesces on trunk\n- Lasts 5–6 days; fades in the same order it appeared\n- Concurrent fever often spikes with rash onset\n\n**Complications**\n| Complication | Notes |\n|---|---|\n| Otitis media | Most common (1 in 10) |\n| Pneumonia | Leading cause of measles death; 1–6% cases |\n| Encephalitis | 1 in 1000 cases; ~15% mortality |\n| Subacute sclerosing panencephalitis (SSPE) | Rare, fatal; years after infection |\n| Febrile seizures | Especially in children |\n| Death | Higher in immunocompromised, malnourished, infants |",
       "sortOrder": 1
     },
     {
       "id": "measles-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "**High-Risk Groups**\n- Unvaccinated (including those with only 1 MMR dose)\n- Infants <12 months (not yet vaccinated)\n- Immunocompromised\n- Pregnant women (increased risk of miscarriage, preterm birth, low birthweight)\n- Malnourished, Vitamin A deficient\n\n**Mine Site Context**\n- One confirmed case triggers mandatory public health notification\n- Identify all contacts — anyone in the same building, dining room, or vehicle during infectious period (4 days pre-rash to 4 days post-rash)\n- Airborne precautions essential — virus persists in enclosed spaces (vehicles, donga rooms, meal rooms)\n- Suspect measles in any febrile patient with rash + cough/coryza/conjunctivitis, especially if overseas-born or unvaccinated\n\n**PPE**\n- **P2/N95 respirator** (standard surgical masks are insufficient — measles is airborne)\n- Gloves\n- Eye protection\n- Gown\n- Apply surgical mask to patient if tolerated (limits aerosolisation)",
+      "content": "**High-Risk Groups**\n- Unvaccinated (including those with only 1 MMR dose)\n- Infants <12 months (not yet vaccinated)\n- Immunocompromised\n- Pregnant women (increased risk of miscarriage, preterm birth, low birthweight)\n- Malnourished, Vitamin A deficient\n\n**Mine Site Context**\n- One confirmed case triggers mandatory public health notification\n- Identify all contacts - anyone in the same building, dining room, or vehicle during infectious period (4 days pre-rash to 4 days post-rash)\n- Airborne precautions essential - virus persists in enclosed spaces (vehicles, donga rooms, meal rooms)\n- Suspect measles in any febrile patient with rash + cough/coryza/conjunctivitis, especially if overseas-born or unvaccinated\n\n**PPE**\n- **P2/N95 respirator** (standard surgical masks are insufficient - measles is airborne)\n- Gloves\n- Eye protection\n- Gown\n- Apply surgical mask to patient if tolerated (limits aerosolisation)",
       "sortOrder": 2
     },
     {
       "id": "measles-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "**Apply P2/N95 before contact**\n\n**Uncomplicated measles:**\n- Antipyretics (paracetamol or ibuprofen — avoid aspirin)\n- Ensure adequate oral hydration\n- Isolate from non-immune contacts immediately\n- Notify receiving facility before transport (airborne precautions required on arrival)\n\n**Indications for urgent transport:**\n- Dyspnoea, hypoxia (pneumonia)\n- Seizures or altered conscious state (encephalitis)\n- Signs of sepsis/secondary bacterial infection\n- Pregnancy\n- Infants <12 months\n- Immunocompromised\n- Signs of dehydration with inability to maintain oral intake",
+      "content": "**Apply P2/N95 before contact**\n\n**Uncomplicated measles:**\n- Antipyretics (paracetamol or ibuprofen - avoid aspirin)\n- Ensure adequate oral hydration\n- Isolate from non-immune contacts immediately\n- Notify receiving facility before transport (airborne precautions required on arrival)\n\n**Indications for urgent transport:**\n- Dyspnoea, hypoxia (pneumonia)\n- Seizures or altered conscious state (encephalitis)\n- Signs of sepsis/secondary bacterial infection\n- Pregnancy\n- Infants <12 months\n- Immunocompromised\n- Signs of dehydration with inability to maintain oral intake",
       "sortOrder": 3
     },
     {
       "id": "measles-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "**Measles Pneumonia**\n- Administer oxygen; titrate to SpO2 ≥94%\n- IV access for IV fluid support if required\n- Minimise AGPs in vehicle (nebulisers increase aerosolisation)\n- Antiviral/antibiotic therapy is hospital-initiated — do not delay transport\n\n**Measles Encephalitis**\n- Airway management if GCS depressed\n- Manage seizures per Seizure CPG\n- IV access; observe for raised ICP signs (Cushing's triad)\n- Urgent P1 transport\n\n**Vehicle Management**\n- Keep vehicle ventilation set to directed exhaust\n- Vehicle must not be re-used until full decontamination is performed (virus can survive in air for up to 2 hours)\n- Document exposure times and notify infection control",
+      "content": "**Measles Pneumonia**\n- Administer oxygen; titrate to SpO2 ≥94%\n- IV access for IV fluid support if required\n- Minimise AGPs in vehicle (nebulisers increase aerosolisation)\n- Antiviral/antibiotic therapy is hospital-initiated - do not delay transport\n\n**Measles Encephalitis**\n- Airway management if GCS depressed\n- Manage seizures per Seizure CPG\n- IV access; observe for raised ICP signs (Cushing's triad)\n- Urgent P1 transport\n\n**Vehicle Management**\n- Keep vehicle ventilation set to directed exhaust\n- Vehicle must not be re-used until full decontamination is performed (virus can survive in air for up to 2 hours)\n- Document exposure times and notify infection control",
       "sortOrder": 4
     },
     {
       "id": "measles-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- **Measles is a notifiable disease** — notify WA DoH within 24 hours; this triggers contact tracing\n- Two MMR doses provide ~97% protection; employers should consider vaccination verification during pre-employment health checks\n- Post-exposure prophylaxis options (for non-immune contacts within 72 hours of exposure): MMR vaccine; or Normal Human Immunoglobulin (NHIG) for high-risk groups within 6 days\n- **Vitamin A deficiency** increases severity — consider supplementation in high-risk unvaccinated travellers (hospital-initiated)\n- Do not return confirmed or suspected cases to shared accommodation — isolate until 4 days after rash onset",
+      "content": "- **Measles is a notifiable disease** - notify WA DoH within 24 hours; this triggers contact tracing\n- Two MMR doses provide ~97% protection; employers should consider vaccination verification during pre-employment health checks\n- Post-exposure prophylaxis options (for non-immune contacts within 72 hours of exposure): MMR vaccine; or Normal Human Immunoglobulin (NHIG) for high-risk groups within 6 days\n- **Vitamin A deficiency** increases severity - consider supplementation in high-risk unvaccinated travellers (hospital-initiated)\n- Do not return confirmed or suspected cases to shared accommodation - isolate until 4 days after rash onset",
       "sortOrder": 5
     }
   ],
@@ -68,6 +68,6 @@
     "proc-ppe-donning-doffing"
   ],
   "isFreeContent": true,
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-05-21T00:00:00Z"
 }

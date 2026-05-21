@@ -25,7 +25,7 @@
       "id": "croup-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Barking cough and hoarse voice\n- Inspiratory stridor, especially at rest in more severe cases\n- Increased work of breathing, agitation, or fatigue\n- Fever may be present, but toxic appearance or drooling should raise concern for an alternate diagnosis\n\n**Westley Croup Score** (use to guide severity classification and treatment decisions):\n\n| Feature | Score |\n|---|---|\n| **Stridor:** None=0, At rest with stethoscope=1, At rest without stethoscope=2 | 0\u20132 |\n| **Retractions:** None=0, Mild=1, Moderate=2, Severe=3 | 0\u20133 |\n| **Air entry:** Normal=0, Decreased=1, Markedly decreased=2 | 0\u20132 |\n| **Cyanosis:** None=0, With agitation=4, At rest=5 | 0\u20135 |\n| **Consciousness:** Normal=0, Altered=5 | 0\u20135 |\n\n- **Score \u22642:** Mild \u2014 oral/nebulised dexamethasone, observe\n- **Score 3\u20135:** Moderate \u2014 nebulised adrenaline + dexamethasone, 2-hour observation post-adrenaline\n- **Score \u22656:** Severe \u2014 as above, Priority 1 transport, prepare for airway deterioration",
+      "content": "- Barking cough and hoarse voice\n- Inspiratory stridor, especially at rest in more severe cases\n- Increased work of breathing, agitation, or fatigue\n- Fever may be present, but toxic appearance or drooling should raise concern for an alternate diagnosis\n\n**Westley Croup Score** (use to guide severity classification and treatment decisions):\n\n| Feature | Score |\n|---|---|\n| **Stridor:** None=0, At rest with stethoscope=1, At rest without stethoscope=2 | 0–2 |\n| **Retractions:** None=0, Mild=1, Moderate=2, Severe=3 | 0–3 |\n| **Air entry:** Normal=0, Decreased=1, Markedly decreased=2 | 0–2 |\n| **Cyanosis:** None=0, With agitation=4, At rest=5 | 0–5 |\n| **Consciousness:** Normal=0, Altered=5 | 0–5 |\n\n- **Score ≤2:** Mild - oral/nebulised dexamethasone, observe\n- **Score 3–5:** Moderate - nebulised adrenaline + dexamethasone, 2-hour observation post-adrenaline\n- **Score ≥6:** Severe - as above, Priority 1 transport, prepare for airway deterioration",
       "sortOrder": 1
     },
     {
@@ -38,14 +38,14 @@
     {
       "id": "croup-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Primary Survey\n- Keep the child with the caregiver and avoid unnecessary separation or handling\n- Allow the child to remain in the position of comfort\n- Give oxygen only if it can be tolerated without increasing distress or if clinically essential\n- Assess and document severity, including whether stridor is present at rest\n- Escalate early and prepare for rapid transport if stridor is present at rest or the child is tiring",
       "sortOrder": 3
     },
     {
       "id": "croup-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Consider corticosteroid therapy (dexamethasone) in line with local protocol or senior direction for croup requiring active treatment\n- Consider nebulised adrenaline only within local protocol and scope for moderate to severe croup; observe closely for at least 2 hours after administration as symptoms can recur when the effect wears off\n- Avoid repeated upsetting interventions when the child has significant upper airway obstruction\n- Prepare for advanced airway difficulty and urgent hospital handover if deterioration continues",
       "sortOrder": 4
     },
@@ -67,6 +67,6 @@
     "dyspnoea"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-18T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-21T00:00:00Z"
 }

@@ -32,20 +32,20 @@
       "id": "anaphylactic-shock-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "- Keep the patient lying flat or in another position they can tolerate safely; avoid standing or unnecessary mobilisation \u2014 positional change in anaphylaxis can cause cardiac arrest\n- Prepare early for airway deterioration\n- Multiple doses of IM adrenaline may be required; do not delay repeat dosing if the first dose produces incomplete response\n- **Biphasic reactions:** A second wave of anaphylaxis can occur 1\u201372 hours after apparent recovery \u2014 most commonly 4\u201312 hours later \u2014 even without re-exposure to the trigger. All patients require hospital transport and observation regardless of apparent response to treatment\n- Nebulised bronchodilator therapy is an adjunct for lower-airway wheeze and does not replace adrenaline\n- Antihistamines and corticosteroids are not first-line treatments for life-threatening anaphylaxis \u2014 they are slow-acting adjuncts only",
+      "content": "- Keep the patient lying flat or in another position they can tolerate safely; avoid standing or unnecessary mobilisation - positional change in anaphylaxis can cause cardiac arrest\n- Prepare early for airway deterioration\n- Multiple doses of IM adrenaline may be required; do not delay repeat dosing if the first dose produces incomplete response\n- **Biphasic reactions:** A second wave of anaphylaxis can occur 1–72 hours after apparent recovery - most commonly 4–12 hours later - even without re-exposure to the trigger. All patients require hospital transport and observation regardless of apparent response to treatment\n- Nebulised bronchodilator therapy is an adjunct for lower-airway wheeze and does not replace adrenaline\n- Antihistamines and corticosteroids are not first-line treatments for life-threatening anaphylaxis - they are slow-acting adjuncts only",
       "sortOrder": 2
     },
     {
       "id": "anaphylactic-shock-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
-      "content": "- Remove the trigger if this can be done safely\n- Administer IM adrenaline into the anterolateral thigh immediately \u2014 do not delay for any other intervention; this is the definitive first-line treatment\n- An adrenaline autoinjector may be used if available while preparing parenteral adrenaline\n- Position the patient appropriately, prioritising circulatory safety and airway protection \u2014 do not allow the patient to stand or sit up\n- Give oxygen if clinically indicated\n- Monitor pulse, blood pressure, respiratory status, and conscious state\n- Arrange urgent transport for all cases and be prepared for recurrent deterioration",
+      "title": "Management – Primary",
+      "content": "- Remove the trigger if this can be done safely\n- Administer IM adrenaline into the anterolateral thigh immediately - do not delay for any other intervention; this is the definitive first-line treatment\n- An adrenaline autoinjector may be used if available while preparing parenteral adrenaline\n- Position the patient appropriately, prioritising circulatory safety and airway protection - do not allow the patient to stand or sit up\n- Give oxygen if clinically indicated\n- Monitor pulse, blood pressure, respiratory status, and conscious state\n- Arrange urgent transport for all cases and be prepared for recurrent deterioration",
       "sortOrder": 3
     },
     {
       "id": "anaphylactic-shock-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Repeat IM adrenaline when the response is inadequate or symptoms recur, according to current guidance and local protocol\n- Establish IV or IO access and give fluid boluses for shock when indicated\n- Consider inhaled bronchodilator therapy for persistent lower-airway bronchospasm as an adjunct only\n- Consider nebulised adrenaline only within local protocol for upper-airway oedema and stridor, and never as a replacement for IM adrenaline\n- IV adrenaline infusion should only be used within protocol or with senior critical-care guidance when refractory anaphylaxis persists\n- Escalate urgently for airway obstruction, persistent hypotension, or peri-arrest state",
       "sortOrder": 4
     },
@@ -66,6 +66,6 @@
     "skill-adrenaline-autoinjector"
   ],
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-18T00:00:00Z"
+  "version": 5,
+  "lastUpdated": "2026-05-21T00:00:00Z"
 }

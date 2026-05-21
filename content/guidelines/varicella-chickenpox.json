@@ -32,35 +32,35 @@
       "id": "varicella-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "**Prodrome (24–48 hours)**\n- Fever, malaise, anorexia, headache\n\n**Rash**\n- Begins on face/scalp/trunk → spreads to extremities\n- **Lesions in multiple simultaneous stages** (macule → papule → vesicle → pustule → crust) — distinguishes varicella from mpox/smallpox where lesions are synchronous\n- Intensely pruritic\n- Mucous membranes commonly involved\n\n**Severe/Complicated Varicella**\n- **Varicella pneumonia:** Most common fatal complication in adults — productive cough, dyspnoea, haemoptysis, pleuritic chest pain 1–6 days after rash\n- **Bacterial superinfection:** Cellulitis, abscess, necrotising fasciitis\n- **CNS:** Cerebellar ataxia, encephalitis\n- **Haemorrhagic varicella:** Haemorrhagic lesions, high mortality\n\n**Herpes Zoster (Shingles) — Contact Risk**\n- Reactivation in dermatomal distribution — zoster is infectious to non-immune contacts via vesicle contact",
+      "content": "**Prodrome (24–48 hours)**\n- Fever, malaise, anorexia, headache\n\n**Rash**\n- Begins on face/scalp/trunk → spreads to extremities\n- **Lesions in multiple simultaneous stages** (macule → papule → vesicle → pustule → crust) - distinguishes varicella from mpox/smallpox where lesions are synchronous\n- Intensely pruritic\n- Mucous membranes commonly involved\n\n**Severe/Complicated Varicella**\n- **Varicella pneumonia:** Most common fatal complication in adults - productive cough, dyspnoea, haemoptysis, pleuritic chest pain 1–6 days after rash\n- **Bacterial superinfection:** Cellulitis, abscess, necrotising fasciitis\n- **CNS:** Cerebellar ataxia, encephalitis\n- **Haemorrhagic varicella:** Haemorrhagic lesions, high mortality\n\n**Herpes Zoster (Shingles) - Contact Risk**\n- Reactivation in dermatomal distribution - zoster is infectious to non-immune contacts via vesicle contact",
       "sortOrder": 1
     },
     {
       "id": "varicella-considerations",
       "type": "considerations",
       "title": "Considerations",
-      "content": "**High-Risk Groups — Increased Severity**\n- Adults (especially >20 years): 25× higher risk of pneumonia than children\n- Immunocompromised (HIV, chemotherapy, steroids)\n- Pregnant women: risk of maternal pneumonia AND neonatal varicella\n- Neonates (perinatal varicella: if maternal rash within 5 days pre-birth to 2 days post-birth — high neonatal mortality)\n- Unvaccinated adults on mine sites (overseas-born workers may have lower immunity)\n\n**Transmission**\n- **Airborne:** Highly contagious — respiratory droplets and aerosolised vesicular fluid\n- **Contact:** Direct contact with lesion fluid\n- Can spread in communal settings (camp dining, shared dongas) before rash appears\n\n**Mine Site Context**\n- High-density accommodation substantially increases outbreak risk\n- Identify potentially non-immune co-workers for public health notification\n- Isolate case in private accommodation until all lesions crusted\n\n**PPE**\n- P2/N95 respirator\n- Gloves\n- Eye protection\n- Gown",
+      "content": "**High-Risk Groups - Increased Severity**\n- Adults (especially >20 years): 25× higher risk of pneumonia than children\n- Immunocompromised (HIV, chemotherapy, steroids)\n- Pregnant women: risk of maternal pneumonia AND neonatal varicella\n- Neonates (perinatal varicella: if maternal rash within 5 days pre-birth to 2 days post-birth - high neonatal mortality)\n- Unvaccinated adults on mine sites (overseas-born workers may have lower immunity)\n\n**Transmission**\n- **Airborne:** Highly contagious - respiratory droplets and aerosolised vesicular fluid\n- **Contact:** Direct contact with lesion fluid\n- Can spread in communal settings (camp dining, shared dongas) before rash appears\n\n**Mine Site Context**\n- High-density accommodation substantially increases outbreak risk\n- Identify potentially non-immune co-workers for public health notification\n- Isolate case in private accommodation until all lesions crusted\n\n**PPE**\n- P2/N95 respirator\n- Gloves\n- Eye protection\n- Gown",
       "sortOrder": 2
     },
     {
       "id": "varicella-management-basic",
       "type": "management_basic",
       "title": "Management – Primary",
-      "content": "**Apply PPE before contact**\n\n**Uncomplicated varicella:**\n- Symptomatic relief: antipyretics (avoid aspirin — Reye's syndrome risk)\n- Antihistamines/calamine for pruritus\n- Hygiene: keep fingernails short; advise against scratching\n- Isolate from non-immune individuals\n\n**Indications for urgent transport to hospital:**\n- Dyspnoea, tachypnoea, haemoptysis (varicella pneumonia)\n- Altered consciousness, seizures, ataxia (CNS involvement)\n- Haemorrhagic lesions\n- Pregnancy\n- Immunocompromised\n- Spreading cellulitis or signs of bacterial superinfection\n- Neonate or infant with suspected perinatal varicella",
+      "content": "**Apply PPE before contact**\n\n**Uncomplicated varicella:**\n- Symptomatic relief: antipyretics (avoid aspirin - Reye's syndrome risk)\n- Antihistamines/calamine for pruritus\n- Hygiene: keep fingernails short; advise against scratching\n- Isolate from non-immune individuals\n\n**Indications for urgent transport to hospital:**\n- Dyspnoea, tachypnoea, haemoptysis (varicella pneumonia)\n- Altered consciousness, seizures, ataxia (CNS involvement)\n- Haemorrhagic lesions\n- Pregnancy\n- Immunocompromised\n- Spreading cellulitis or signs of bacterial superinfection\n- Neonate or infant with suspected perinatal varicella",
       "sortOrder": 3
     },
     {
       "id": "varicella-management-advanced",
       "type": "management_advanced",
       "title": "Management – Advanced",
-      "content": "**Varicella Pneumonia**\n- High-flow oxygen; titrate to SpO2 ≥94%\n- IV access; support with IV fluids if required\n- Full PPE; nebulised medications only if clinically essential (AGP — increases airborne risk)\n- Antiviral therapy (IV aciclovir) is hospital-initiated — do not delay transport\n\n**CNS Complications**\n- Airway management if GCS reduced\n- Manage seizures per Seizure CPG\n- Urgent evacuation\n\n**Haemorrhagic Varicella**\n- IV access; treat coagulopathy per haemorrhage protocol\n- Urgent P1 transport",
+      "content": "**Varicella Pneumonia**\n- High-flow oxygen; titrate to SpO2 ≥94%\n- IV access; support with IV fluids if required\n- Full PPE; nebulised medications only if clinically essential (AGP - increases airborne risk)\n- Antiviral therapy (IV aciclovir) is hospital-initiated - do not delay transport\n\n**CNS Complications**\n- Airway management if GCS reduced\n- Manage seizures per Seizure CPG\n- Urgent evacuation\n\n**Haemorrhagic Varicella**\n- IV access; treat coagulopathy per haemorrhage protocol\n- Urgent P1 transport",
       "sortOrder": 4
     },
     {
       "id": "varicella-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- **Varicella is a notifiable disease** in Australia\n- Varicella vaccine (VZV) is on the National Immunisation Program — two doses provide ~90% protection\n- Varicella-Zoster Immunoglobulin (VZIG) available for post-exposure prophylaxis in high-risk non-immune contacts (pregnant women, neonates, immunocompromised) — must be given within 96 hours of exposure\n- **Do not give aspirin** for fever — risk of Reye's syndrome in children\n- Mining companies should verify staff vaccination status; non-immune workers should be vaccinated pre-deployment",
+      "content": "- **Varicella is a notifiable disease** in Australia\n- Varicella vaccine (VZV) is on the National Immunisation Program - two doses provide ~90% protection\n- Varicella-Zoster Immunoglobulin (VZIG) available for post-exposure prophylaxis in high-risk non-immune contacts (pregnant women, neonates, immunocompromised) - must be given within 96 hours of exposure\n- **Do not give aspirin** for fever - risk of Reye's syndrome in children\n- Mining companies should verify staff vaccination status; non-immune workers should be vaccinated pre-deployment",
       "sortOrder": 5
     }
   ],
@@ -72,6 +72,6 @@
     "proc-ppe-donning-doffing"
   ],
   "isFreeContent": true,
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-05-21T00:00:00Z"
 }

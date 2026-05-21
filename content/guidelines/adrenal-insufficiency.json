@@ -40,15 +40,15 @@
     {
       "id": "adrenal-insufficiency-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Primary Survey\n- Check BGL early and treat hypoglycaemia promptly within scope\n- Give oxygen only if clinically indicated\n- Keep the patient warm and perform frequent reassessment of blood pressure, conscious state, respiratory effort, and perfusion\n- Obtain medication history, trigger history, and any patient-held adrenal action plan if this does not delay care\n- Prioritise urgent transport for shock, reduced conscious state, recurrent vomiting, severe weakness, or suspected electrolyte disturbance",
       "sortOrder": 3
     },
     {
       "id": "adrenal-insufficiency-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
-      "content": "- ECG\n- Gain IV access early if adrenal crisis is suspected\n- **Administer hydrocortisone** within local protocol, scope, or senior direction \u2014 hydrocortisone is life-saving in adrenal crisis; do not unreasonably delay administration\n  - IM and IV routes are equally effective for hydrocortisone\n  - Some patients carry their own emergency hydrocortisone kit (e.g., Solu-Cortef) \u2014 use it if available and within protocol, with senior consultation\n  - **Ultra-rapid metabolisers:** A subset of patients with known adrenal insufficiency require 3\u00d7 the standard hydrocortisone dose due to accelerated drug metabolism \u2014 check the patient's action plan\n- Provide isotonic crystalloid therapy for hypotension, shock, or dehydration, with repeated reassessment\n- Treat hypoglycaemia with oral, IV, or IM therapy according to the patient's condition and local protocol\n- Monitor for hyperkalaemia (ECG changes) and hyponatraemia\n- Escalate early \u2014 hypotension, reduced conscious state, recurrent vomiting, or severe weakness require Priority 1 transport with pre-notification",
+      "title": "Management – Advanced",
+      "content": "- ECG\n- Gain IV access early if adrenal crisis is suspected\n- **Administer hydrocortisone** within local protocol, scope, or senior direction - hydrocortisone is life-saving in adrenal crisis; do not unreasonably delay administration\n  - IM and IV routes are equally effective for hydrocortisone\n  - Some patients carry their own emergency hydrocortisone kit (e.g., Solu-Cortef) - use it if available and within protocol, with senior consultation\n  - **Ultra-rapid metabolisers:** A subset of patients with known adrenal insufficiency require 3× the standard hydrocortisone dose due to accelerated drug metabolism - check the patient's action plan\n- Provide isotonic crystalloid therapy for hypotension, shock, or dehydration, with repeated reassessment\n- Treat hypoglycaemia with oral, IV, or IM therapy according to the patient's condition and local protocol\n- Monitor for hyperkalaemia (ECG changes) and hyponatraemia\n- Escalate early - hypotension, reduced conscious state, recurrent vomiting, or severe weakness require Priority 1 transport with pre-notification",
       "sortOrder": 4
     },
     {
@@ -70,6 +70,6 @@
     "sepsis-septic-shock"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-21T00:00:00Z"
 }

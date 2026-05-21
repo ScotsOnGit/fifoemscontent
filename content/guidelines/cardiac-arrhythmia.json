@@ -35,22 +35,22 @@
     {
       "id": "cardiac-arrhythmia-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Primary Survey\n- Continuous reassurance and minimise exertion\n- Perform repeated vital signs and rhythm assessment\n- Oxygen only if clinically indicated\n- Apply ECG monitoring where available\n- Consider Secondary Survey\n- Escalate early if the patient is hypotensive, has chest pain, syncope, heart failure, or altered conscious state",
       "sortOrder": 3
     },
     {
       "id": "cardiac-arrhythmia-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
-      "content": "- Obtain a 12 lead ECG\n- Gain vascular access\n- Consider appropriate analgesia or antiemetic if required\n\n**Unstable bradycardia:**\n  - Address reversible causes first\n  - Manage hypovolaemia, hypoxia, ACS, and toxins as indicated\n  - Consider atropine and or pacing in consultation with the on-call doctor\n  - If inferior or right ventricular MI with hypotension is suspected, consider cautious fluids and senior clinical input early\n\n**Unstable tachycardia:**\n  - Treat as peri-arrest, apply defibrillation pads, and prepare for synchronised cardioversion with appropriate sedation where feasible\n\n**Regular narrow-complex tachycardia:**\n  - If unstable, perform synchronised cardioversion\n  - If stable, begin with vagal manoeuvres, ideally modified Valsalva where appropriate\n  - If vagal manoeuvres fail and the rhythm remains regular and narrow-complex, consider adenosine in consultation with the on-call doctor: 6 mg rapid IV bolus followed immediately by saline flush; if unsuccessful after 1\u20132 minutes, 12 mg; if still unsuccessful, a further 12 mg. Administer via large-bore IV as proximal as possible through a 3-way tap with immediate saline flush\n\n**Irregular narrow-complex tachycardia:**\n  - Identify and treat contributing causes such as sepsis, ACS, hypoxia, pain, hypovolaemia, or electrolyte disturbance\n  - IV fluids may be appropriate when hypovolaemia is suspected, but should not be used as routine rhythm control\n  - Consider rate control or anti-arrhythmic therapy only in consultation with the on-call doctor and local protocol\n\n**Regular broad-complex tachycardia:**\n  - Treat as VT until proven otherwise\n  - If unstable, perform synchronised cardioversion\n  - If not immediately cardioverted or if cardioversion fails, consider amiodarone in consultation with the on-call doctor\n\n**Torsades de pointes:**\n  - Consider magnesium sulphate in consultation with the on-call doctor\n\n**Modified Valsalva Manoeuvre for SVT (use before adenosine where possible):**\n1. Patient semi-recumbent (45\u00b0), blows into 10 mL syringe for 15 seconds (hard enough to move the plunger)\n2. Immediately after blowing: lay the patient flat and passively raise legs to 45\u00b0 for 15 seconds\n3. Return to semi-recumbent and reassess rhythm\n- Success rate approximately 43% for SVT conversion \u2014 significantly higher than standard Valsalva\n- Can repeat once if no response before proceeding to adenosine",
+      "title": "Management – Advanced",
+      "content": "- Obtain a 12 lead ECG\n- Gain vascular access\n- Consider appropriate analgesia or antiemetic if required\n\n**Unstable bradycardia:**\n  - Address reversible causes first\n  - Manage hypovolaemia, hypoxia, ACS, and toxins as indicated\n  - Consider atropine and or pacing in consultation with the on-call doctor\n  - If inferior or right ventricular MI with hypotension is suspected, consider cautious fluids and senior clinical input early\n\n**Unstable tachycardia:**\n  - Treat as peri-arrest, apply defibrillation pads, and prepare for synchronised cardioversion with appropriate sedation where feasible\n\n**Regular narrow-complex tachycardia:**\n  - If unstable, perform synchronised cardioversion\n  - If stable, begin with vagal manoeuvres, ideally modified Valsalva where appropriate\n  - If vagal manoeuvres fail and the rhythm remains regular and narrow-complex, consider adenosine in consultation with the on-call doctor: 6 mg rapid IV bolus followed immediately by saline flush; if unsuccessful after 1–2 minutes, 12 mg; if still unsuccessful, a further 12 mg. Administer via large-bore IV as proximal as possible through a 3-way tap with immediate saline flush\n\n**Irregular narrow-complex tachycardia:**\n  - Identify and treat contributing causes such as sepsis, ACS, hypoxia, pain, hypovolaemia, or electrolyte disturbance\n  - IV fluids may be appropriate when hypovolaemia is suspected, but should not be used as routine rhythm control\n  - Consider rate control or anti-arrhythmic therapy only in consultation with the on-call doctor and local protocol\n\n**Regular broad-complex tachycardia:**\n  - Treat as VT until proven otherwise\n  - If unstable, perform synchronised cardioversion\n  - If not immediately cardioverted or if cardioversion fails, consider amiodarone in consultation with the on-call doctor\n\n**Torsades de pointes:**\n  - Consider magnesium sulphate in consultation with the on-call doctor\n\n**Modified Valsalva Manoeuvre for SVT (use before adenosine where possible):**\n1. Patient semi-recumbent (45°), blows into 10 mL syringe for 15 seconds (hard enough to move the plunger)\n2. Immediately after blowing: lay the patient flat and passively raise legs to 45° for 15 seconds\n3. Return to semi-recumbent and reassess rhythm\n- Success rate approximately 43% for SVT conversion - significantly higher than standard Valsalva\n- Can repeat once if no response before proceeding to adenosine",
       "sortOrder": 4
     },
     {
       "id": "cardiac-arrhythmia-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Resuscitation equipment should be at hand for any of the above presentations\n- Consideration should be made that any unstable patient is peri-arrest and time critical.\n- ESO\u2019s should have a very low threshold for calling for help\n- Clinical deterioration is likely\n- Adenosine has a very short half-life. It should be administered rapidly, via a 3-way tap, followed by a saline flush, through a large bore IV (18 \u2013 14g) as close to the heart as practicable, such as the cubital fossa",
+      "content": "- Resuscitation equipment should be at hand for any of the above presentations\n- Consideration should be made that any unstable patient is peri-arrest and time critical.\n- ESO’s should have a very low threshold for calling for help\n- Clinical deterioration is likely\n- Adenosine has a very short half-life. It should be administered rapidly, via a 3-way tap, followed by a saline flush, through a large bore IV (18 – 14g) as close to the heart as practicable, such as the cubital fossa",
       "sortOrder": 5
     }
   ],
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-21T00:00:00Z",
   "relatedCalculatorIDs": [
     "bazett-qtc",
     "ecg-axis",

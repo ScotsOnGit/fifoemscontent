@@ -22,7 +22,7 @@
       "id": "dyspnoea-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Distressed, anxious, fighting to breath, exhausted, altered level of consciousness\n- Pale, sweaty and can be cyanosed\n- Single words responses or unable to speak\n- Stridor, crackles, wheeze, silent chest\n- Breathing rate of < 6 or > 20\n- Accessory muscle use, intercostal recession and/or tracheal tug, prolonged expiratory phases\n- Tachycardia > 120 or bradycardia < 60\n\n**PARROT Score (Paediatric Respiratory Assessment):**\n\n| Domain | Assessment | Score |\n|---|---|---|\n| **P**osture | Normal=0, Upright preference=1, Tripod/unable to lay flat=2 | 0\u20132 |\n| **A**ir entry | Normal=0, Reduced one side=1, Reduced both sides/absent=2 | 0\u20132 |\n| **R**etraction | None=0, Subcostal/intercostal=1, Supraclavicular/tracheal tug=2 | 0\u20132 |\n| **R**ate | Age-appropriate=0, Mildly elevated=1, Markedly elevated=2 | 0\u20132 |\n| **O**xygen saturation | \u226594%=0, 90\u201393%=1, <90%=2 | 0\u20132 |\n| **T**one / alertness | Normal=0, Reduced=1, Unresponsive/floppy=2 | 0\u20132 |\n\n- **Score 0\u20133:** Mild \u2014 manage and monitor\n- **Score 4\u20137:** Moderate \u2014 active intervention required\n- **Score 8\u201312:** Severe \u2014 time-critical, Priority 1",
+      "content": "- Distressed, anxious, fighting to breath, exhausted, altered level of consciousness\n- Pale, sweaty and can be cyanosed\n- Single words responses or unable to speak\n- Stridor, crackles, wheeze, silent chest\n- Breathing rate of < 6 or > 20\n- Accessory muscle use, intercostal recession and/or tracheal tug, prolonged expiratory phases\n- Tachycardia > 120 or bradycardia < 60\n\n**PARROT Score (Paediatric Respiratory Assessment):**\n\n| Domain | Assessment | Score |\n|---|---|---|\n| **P**osture | Normal=0, Upright preference=1, Tripod/unable to lay flat=2 | 0–2 |\n| **A**ir entry | Normal=0, Reduced one side=1, Reduced both sides/absent=2 | 0–2 |\n| **R**etraction | None=0, Subcostal/intercostal=1, Supraclavicular/tracheal tug=2 | 0–2 |\n| **R**ate | Age-appropriate=0, Mildly elevated=1, Markedly elevated=2 | 0–2 |\n| **O**xygen saturation | ≥94%=0, 90–93%=1, <90%=2 | 0–2 |\n| **T**one / alertness | Normal=0, Reduced=1, Unresponsive/floppy=2 | 0–2 |\n\n- **Score 0–3:** Mild - manage and monitor\n- **Score 4–7:** Moderate - active intervention required\n- **Score 8–12:** Severe - time-critical, Priority 1",
       "sortOrder": 1
     },
     {
@@ -35,14 +35,14 @@
     {
       "id": "dyspnoea-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Primary Survey\n- Continuous reassurance while minimising patient effort and unnecessary movement\n- Treat life-threatening airway obstruction immediately\n- If respiratory distress is caused by hazardous exposure, remove the patient or substance only if safe to do so and request appropriate hazard support early\n- Position the patient to optimise breathing and airway protection\n- Perform frequent vital signs, particularly respiratory rate, effort, and oxygen saturation\n- Give oxygen only as clinically indicated and titrate to need\n- Ventilate the patient if required\n- Auscultate for diagnostic clues such as wheeze, crackles, stridor, pleuritic rub, or silent chest\n- Apply ECG monitoring where available\n- Consider Secondary Survey",
       "sortOrder": 3
     },
     {
       "id": "dyspnoea-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Manage the likely underlying condition if identified\n- Follow the asthma, heart failure, chest trauma, anaphylaxis, ACS, or pulmonary embolus guideline as appropriate\n- Consider advanced airway management if indicated and within scope\n- Consider IV access if advanced therapy or deterioration is likely\n- Obtain a 12 lead ECG when clinically appropriate",
       "sortOrder": 4
     }
@@ -54,8 +54,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-21T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu"

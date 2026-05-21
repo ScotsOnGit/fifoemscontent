@@ -37,15 +37,15 @@
     {
       "id": "post-resuscitation-care-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Re-evaluate Primary Survey\n- Reassess oxygenation and ventilation continuously\n- Provide ventilatory support if required\n- Titrate oxygen delivery to maintain SpO2 around 94 to 98% and avoid routine hyperoxia where possible\n- Avoid hyperventilation and excessive inflation, as these may impair venous return and cerebral perfusion\n- Perform frequent vital signs, including ETCO2 where available\n- In patients who remain comatose after ROSC, monitor temperature and actively prevent fever where feasible\n- If not already contacted, ensure consultation with the on-call doctor",
       "sortOrder": 3
     },
     {
       "id": "post-resuscitation-care-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
-      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12 lead ECGs because the first post-ROSC tracing may be non-diagnostic\n- Manage hypotension promptly:\n  - Consider IV or IO crystalloid while reassessing for fluid responsiveness and signs of overload\n  - Aim initially for adequate perfusion, commonly SBP above 100 mmHg or MAP at least 60 to 65 mmHg, adjusted to the clinical context where known\n  - If hypotension persists, seek early medical advice regarding vasopressor support and continue frequent reassessment\n- **Temperature management:** Avoid hyperthermia post-ROSC \u2014 fever significantly worsens neurological outcomes. Target normothermia (36\u201337.5\u00b0C). Active cooling may be required if temperature exceeds 37.5\u00b0C. Targeted temperature management (TTM) protocols are initiated at the receiving hospital, but pre-hospital temperature monitoring and avoidance of overheating should begin immediately after ROSC\n",
+      "title": "Management – Advanced",
+      "content": "- Consider and address precipitating causes of arrest\n- Perform serial 12 lead ECGs because the first post-ROSC tracing may be non-diagnostic\n- Manage hypotension promptly:\n  - Consider IV or IO crystalloid while reassessing for fluid responsiveness and signs of overload\n  - Aim initially for adequate perfusion, commonly SBP above 100 mmHg or MAP at least 60 to 65 mmHg, adjusted to the clinical context where known\n  - If hypotension persists, seek early medical advice regarding vasopressor support and continue frequent reassessment\n- **Temperature management:** Avoid hyperthermia post-ROSC - fever significantly worsens neurological outcomes. Target normothermia (36–37.5°C). Active cooling may be required if temperature exceeds 37.5°C. Targeted temperature management (TTM) protocols are initiated at the receiving hospital, but pre-hospital temperature monitoring and avoidance of overheating should begin immediately after ROSC\n",
       "sortOrder": 4
     },
     {
@@ -62,8 +62,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-21T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",
