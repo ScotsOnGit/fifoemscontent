@@ -8685,5 +8685,184 @@
     "isFreeContent": true,
     "version": 1,
     "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "amoxicillin",
+    "name": "Amoxicillin (Amoxil)",
+    "genericName": "Amoxicillin",
+    "drugClass": "Aminopenicillin / Beta-lactam antibiotic",
+    "tags": [
+      "antibiotic",
+      "oral",
+      "penicillin",
+      "infection"
+    ],
+    "synonyms": [
+      "Amoxil",
+      "amoxicillin trihydrate"
+    ],
+    "indications": [
+      "Streptococcal pharyngitis / tonsillitis",
+      "Acute otitis media",
+      "Acute sinusitis",
+      "Mild community-acquired pneumonia (where atypical cover is not required)",
+      "Uncomplicated dental infections",
+      "Endocarditis prophylaxis",
+      "Asplenic patient infection prophylaxis"
+    ],
+    "contraindications": [
+      "Penicillin allergy (any type — confirm before prescribing)",
+      "Infectious mononucleosis (EBV) — high risk of maculopapular rash"
+    ],
+    "precautions": [
+      "Cross-reactivity with cephalosporins (~1–2%); use with caution if cephalosporin allergy reported",
+      "Dose reduction required in significant renal impairment (eGFR <30 mL/min)",
+      "Prolonged use may cause oral/vaginal candidiasis or Clostridioides difficile-associated diarrhoea",
+      "Use amoxicillin-clavulanate when beta-lactamase-producing organisms are likely (e.g. animal bites, polymicrobial wound infections)"
+    ],
+    "sideEffects": [
+      "Diarrhoea, nausea (most common)",
+      "Maculopapular rash — particularly if given during active EBV infection",
+      "Urticaria or anaphylaxis (IgE-mediated) — rare but serious",
+      "Clostridioides difficile-associated colitis — rare"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Inhibits bacterial cell wall synthesis by irreversibly binding penicillin-binding proteins (PBPs), disrupting peptidoglycan cross-linking. Bactericidal. Susceptible organisms include most Streptococcus spp., Enterococcus spp., Listeria monocytogenes, and many Haemophilus influenzae (if non-beta-lactamase-producing). Inactivated by beta-lactamases — combine with clavulanate when resistance is likely.",
+      "metabolism": "Hepatic (minimal); largely excreted unchanged",
+      "excretion": "Renal — 60–70% excreted unchanged in urine"
+    },
+    "adultDosing": [
+      {
+        "indication": "Streptococcal pharyngitis / tonsillitis",
+        "dose": "500 mg PO TDS × 10 days (or 1 g BD × 10 days)",
+        "route": "Oral",
+        "frequency": "Three times daily or twice daily",
+        "notes": "10-day course for complete eradication; penicillin V is an alternative"
+      },
+      {
+        "indication": "Acute otitis media / sinusitis",
+        "dose": "500 mg PO TDS × 5–7 days",
+        "route": "Oral",
+        "frequency": "Three times daily",
+        "notes": "Consider watchful waiting for mild/moderate AOM before prescribing"
+      },
+      {
+        "indication": "Mild community-acquired pneumonia",
+        "dose": "1 g PO TDS × 5–7 days",
+        "route": "Oral",
+        "frequency": "Three times daily",
+        "notes": "Add doxycycline or azithromycin if atypical pathogens (Mycoplasma, Chlamydophila) are suspected"
+      },
+      {
+        "indication": "Uncomplicated dental infection",
+        "dose": "500 mg PO TDS × 5 days",
+        "route": "Oral",
+        "frequency": "Three times daily",
+        "notes": "Dental treatment (drainage) remains the definitive management; antibiotics are adjunctive"
+      },
+      {
+        "indication": "Dental / endocarditis prophylaxis",
+        "dose": "3 g PO single dose (pre-procedure)",
+        "route": "Oral",
+        "frequency": "Single dose, 1 hour before procedure",
+        "notes": "For patients at high endocarditis risk undergoing dental procedures; clindamycin 600 mg if penicillin allergic"
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "indication": "Otitis media / tonsillitis / general infections",
+        "dose": "25 mg/kg PO BD or 15 mg/kg TDS (max 500 mg per dose)",
+        "route": "Oral",
+        "frequency": "Twice or three times daily",
+        "notes": "Use age/weight-appropriate formulation (suspension available). Duration 5–10 days depending on indication."
+      }
+    ],
+    "relatedGuidelineIDs": [
+      "sore-throat",
+      "chest-infection",
+      "otitis-media",
+      "otitis-externa",
+      "dental-pain-non-traumatic",
+      "diphtheria"
+    ],
+    "isFreeContent": false,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
+  },
+  {
+    "id": "diphoterine",
+    "name": "Diphoterine (Prevor)",
+    "genericName": "Diphoterine",
+    "drugClass": "Chemical decontaminant — amphoteric hypertonic irrigant",
+    "tags": [
+      "decontaminant",
+      "chemical burn",
+      "eye wash",
+      "topical",
+      "industrial",
+      "mine site"
+    ],
+    "synonyms": [
+      "Prevor",
+      "Diphoterine solution",
+      "chemical eyewash"
+    ],
+    "indications": [
+      "Immediate first-aid decontamination of chemical eye splashes (acids, alkalis, oxidising/reducing agents, solvents, chelating agents)",
+      "Immediate first-aid decontamination of chemical skin splashes",
+      "Industrial chemical burns — standard first aid on WA mine sites under OccuMED / site SASA protocols"
+    ],
+    "contraindications": [
+      "Not for ingestion, inhalation, or injection",
+      "Not a substitute for definitive ophthalmology or burns review after irrigation"
+    ],
+    "precautions": [
+      "Use within seconds to minutes of chemical contact for maximum efficacy — delay significantly worsens outcomes",
+      "Do NOT delay irrigation to identify the chemical; irrigate immediately",
+      "After irrigation, all significant chemical eye or skin burns require urgent medical review and transfer",
+      "Confirm product is in-date and sealed before use; each pod/bottle is single-use"
+    ],
+    "sideEffects": [
+      "Mild transient stinging or discomfort during irrigation — expected and not a reason to stop",
+      "No systemic toxicity reported at doses used in first aid"
+    ],
+    "mechanismOfAction": {
+      "mechanism": "Diphoterine is an amphoteric (reacts with both acidic and alkaline agents), hypertonic, chelating solution. Its three mechanisms work simultaneously: (1) amphoteric buffering neutralises both acid and alkali splashes; (2) hypertonic osmotic gradient draws chemical molecules away from tissue rather than pushing them further in (unlike water); (3) chelating action binds heavy metals and other reactive ions. This combination makes Diphoterine effective across a broad range of industrial chemicals, unlike water which is only effective for water-soluble agents and can drive some chemicals deeper into tissue.",
+      "metabolism": "Not applicable — topical external use only",
+      "excretion": "Not applicable"
+    },
+    "adultDosing": [
+      {
+        "indication": "Chemical eye splash",
+        "dose": "1 × 50 mL single-use pod: irrigate both eyes continuously for 15 minutes",
+        "route": "Topical ocular irrigation",
+        "frequency": "Single application; may repeat with second pod if symptoms persist",
+        "notes": "Hold eyelids open throughout irrigation. Remove contact lenses before or during irrigation if possible. Refer to ophthalmology for all significant chemical eye injuries post-irrigation."
+      },
+      {
+        "indication": "Chemical skin splash / burn",
+        "dose": "500 mL spray bottle: irrigate affected area continuously for minimum 5 minutes",
+        "route": "Topical skin irrigation",
+        "frequency": "Single application; repeat if burning or pain persists",
+        "notes": "Remove contaminated clothing and jewellery immediately before or during irrigation. Cover with non-adherent dressing post-irrigation. Transfer to burns unit if TBSA significant."
+      }
+    ],
+    "paediatricDosing": [
+      {
+        "indication": "Chemical eye or skin splash (paediatric)",
+        "dose": "Same as adult — eye: 50 mL pod; skin: 500 mL spray",
+        "route": "Topical",
+        "frequency": "Single application; repeat if needed",
+        "notes": "Dosing is not weight-based. Smaller volume may be needed for very young children; use clinical judgement. Immediate transfer to hospital mandatory for all paediatric chemical burns."
+      }
+    ],
+    "relatedGuidelineIDs": [
+      "corrosives",
+      "eye-injury",
+      "diphtheria"
+    ],
+    "isFreeContent": false,
+    "version": 1,
+    "lastUpdated": "2026-05-21T00:00:00Z"
   }
 ]
