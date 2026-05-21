@@ -1,0 +1,84 @@
+{
+  "id": "rhabdomyolysis",
+  "title": "Rhabdomyolysis",
+  "category": "medical",
+  "tags": [
+    "rhabdomyolysis",
+    "rhabdo",
+    "myoglobin",
+    "AKI",
+    "dark urine",
+    "exertional",
+    "crush",
+    "CK"
+  ],
+  "synonyms": [
+    "rhabdo",
+    "myoglobinuria",
+    "exertional rhabdomyolysis",
+    "crush syndrome"
+  ],
+  "sections": [
+    {
+      "id": "rhab-overview",
+      "type": "overview",
+      "title": "Overview",
+      "sortOrder": 0,
+      "content": "Rhabdomyolysis is the breakdown of skeletal muscle, releasing myoglobin, creatine kinase (CK), potassium, and phosphate into the circulation. Myoglobin is directly toxic to renal tubules and causes acute kidney injury (AKI).\n\n### Mine Site Causes\n| Cause | Context |\n|---|---|\n| **Exertional** | Heavy physical labour in heat, inadequate acclimatisation — the most common mine site cause |\n| **Crush injury** | Prolonged entrapment with muscle compression |\n| **Heat stroke** | Extreme hyperthermia causes direct muscle necrosis |\n| **Prolonged immobility** | Unconscious worker in fixed position (positional rhabdo) |\n| **Alcohol/drugs** | Heavy alcohol use, stimulant drugs (amphetamines, MDMA) |\n| **Seizures** | Prolonged or repeated seizure activity |\n| **Sickle cell trait** | Exertional rhabdo at lower exercise intensities |\n\n### Why It Is Dangerous\n- AKI develops in up to 50% of severe cases\n- Hyperkalaemia from massive potassium release can cause fatal arrhythmia\n- May occur with minimal or no muscle pain (particularly in exertional cases)"
+    },
+    {
+      "id": "rhab-presentation",
+      "type": "presentation",
+      "title": "Clinical Presentation",
+      "sortOrder": 1,
+      "content": "### Classic Triad\n1. **Muscle pain and tenderness** (may be absent in exertional cases)\n2. **Weakness** of affected muscle groups\n3. **Dark urine** — tea-coloured, cola-coloured, or pink/brown (myoglobinuria)\n\n### Symptoms\n- Muscle aching, stiffness, swelling\n- Generalised fatigue and malaise\n- Nausea, vomiting\n- Dark or discoloured urine — the most important sign to identify in the field\n- Reduced urine output (oliguria)\n- Fever (from muscle inflammation)\n\n### Exertional Rhabdomyolysis — Mine Site Specific\n- May present after a particularly heavy shift, especially in hot weather\n- Worker complains of unusual muscle soreness, dark or brown urine\n- May have no significant trauma or crush mechanism\n- Symptoms may develop hours after the work period ends\n\n### Complications\n- **Acute kidney injury:** oliguria, fluid retention\n- **Hyperkalaemia:** arrhythmia (peaked T-waves, widened QRS, VF)\n- **Hypocalcaemia:** tetany, seizures (calcium deposited in necrotic muscle)\n- **DIC:** in severe cases\n- **Compartment syndrome:** muscle swelling within fascial compartments"
+    },
+    {
+      "id": "rhab-considerations",
+      "type": "considerations",
+      "title": "Considerations",
+      "sortOrder": 2,
+      "content": "### Urine Colour is the Key Field Sign\n- Pink, red, brown, or tea-coloured urine in a worker after physical exertion or trauma = rhabdomyolysis until proven otherwise\n- Dipstick will show blood positive (detects myoglobin) with few or no red cells on microscopy\n- A normal urine colour does NOT exclude early rhabdomyolysis\n\n### Fluid Volume Is the Priority\n- Aggressive IV fluid resuscitation is the cornerstone of treatment\n- Goal: maintain urine output ≥1 mL/kg/hr to flush myoglobin from tubules\n- Use Hartmann's solution or normal saline\n\n### Hyperkalaemia Risk\n- Potassium is released from necrotic muscle in massive amounts\n- ECG monitoring is mandatory — peaked T-waves, widened QRS = danger\n- Treat hyperkalaemia per hyperkalaemia guideline if ECG changes present\n- Do NOT give potassium-containing fluids if hyperkalaemia suspected\n\n### NSAIDs Are Contraindicated\n- NSAIDs reduce renal perfusion and worsen AKI\n- Use opioids or paracetamol for analgesia only"
+    },
+    {
+      "id": "rhab-management-basic",
+      "type": "management_basic",
+      "title": "Management - Primary",
+      "sortOrder": 3,
+      "content": "### Immediate Actions\n1. **Rest and remove from exertion/heat** immediately\n2. **IV access** — two large-bore cannulae\n3. **Aggressive fluid resuscitation** — Hartmann's or normal saline 1–1.5 L/hr initially\n4. **Urinary catheter** if available — monitor output closely; target ≥1 mL/kg/hr\n5. **12-lead ECG** — assess for hyperkalaemia changes\n6. **Call RFDS** — requires hospital for IV fluids, CK monitoring, electrolyte management\n\n### Fluid Resuscitation\n- Hartmann's solution preferred (normal saline acceptable)\n- Rate: 1–1.5 L/hr until urine output established, then titrate to ≥1 mL/kg/hr\n- **Total volumes may be very large** (10–20 L in 24 hours in severe cases)\n- Reassess fluid status frequently — look for signs of overload (if concurrent cardiac disease)\n\n### Do NOT Give\n- NSAIDs (worsen renal impairment)\n- Potassium-containing IV supplements (risk of hyperkalaemia)\n\n### Monitoring\n- Urine colour and output (IDC if available)\n- ECG for hyperkalaemia: peaked T-waves (earliest), prolonged PR, widened QRS, sine wave pattern\n- Vital signs every 15–30 minutes\n- Blood glucose (hypoglycaemia can accompany severe cases)"
+    },
+    {
+      "id": "rhab-management-advanced",
+      "type": "management_advanced",
+      "title": "Management - Advanced",
+      "sortOrder": 4,
+      "content": "### Hyperkalaemia Management\nIf ECG changes present (peaked T-waves or wider):\n- **Calcium gluconate 10%** 10 mL IV over 2–5 minutes — cardioprotective, does not lower potassium\n- **Salbutamol** 10–20 mg nebulised — shifts potassium intracellularly\n- **50% glucose 50 mL + insulin 10 units IV** — shifts potassium intracellularly\n- Refer to hyperkalaemia guideline for full management\n\n### Compartment Syndrome\n- Monitor limbs for tense compartments, pain on passive stretch\n- If suspected, see compartment syndrome guideline\n- Do NOT elevate affected limbs\n\n### Cardiac Monitoring\n- Continuous ECG monitoring during transport\n- Defibrillator available for hyperkalaemia-induced VF\n\n### Urinary Alkalinisation\n- Sodium bicarbonate infusion to alkalinise urine (reduces myoglobin nephrotoxicity) — in consultation with RFDS\n- 100–200 mEq added to 1L 5% glucose — not routinely used in field but may be directed by RFDS"
+    },
+    {
+      "id": "rhab-additional",
+      "type": "additional_notes",
+      "title": "Additional Information",
+      "sortOrder": 5,
+      "content": "### Return to Work\n- Workers must not return to heavy physical activity until CK has normalised and renal function confirmed normal\n- Recurrent exertional rhabdomyolysis warrants investigation for predisposing conditions (metabolic myopathy, sickle cell trait)\n\n### Prevention on Mine Sites\n- Adequate heat acclimatisation program\n- Work/rest ratios in extreme heat\n- Adequate hydration protocols\n- Monitoring of at-risk workers (first week on site, after illness, returning from leave)\n- Education on dark urine as a warning sign\n\n### Sickle Cell Trait\n- Workers with sickle cell trait are at significantly increased risk of exertional rhabdomyolysis\n- Low threshold for assessment after any significant physical exertion in heat"
+    }
+  ],
+  "relatedMedicationIDs": [
+    "hartmanns-solution",
+    "intravenous-normal-saline",
+    "calcium-gluconate",
+    "salbutamol-sulphate",
+    "glucose-50",
+    "insulin",
+    "sodium-bicarbonate"
+  ],
+  "relatedGuidelineIDs": [
+    "crush-injury",
+    "compartment-syndrome",
+    "hyperkalaemia",
+    "hyperthermia-heat-stroke-heat-related-sickness",
+    "acute-kidney-injury"
+  ],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-21T00:00:00Z"
+}
