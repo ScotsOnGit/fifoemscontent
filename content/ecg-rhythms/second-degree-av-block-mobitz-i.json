@@ -1,7 +1,13 @@
 {
   "id": "second-degree-av-block-mobitz-i",
   "name": "2° AV Block Mobitz I (Wenckebach)",
-  "aliases": ["Wenckebach", "Mobitz I", "Mobitz Type I", "Wenckebach block", "Second Degree AV Block Type I"],
+  "aliases": [
+    "Wenckebach",
+    "Mobitz I",
+    "Mobitz Type I",
+    "Wenckebach block",
+    "Second Degree AV Block Type I"
+  ],
   "urgency": "recognition",
   "category": "blocks",
   "actionLabel": null,
@@ -41,58 +47,95 @@
     "Complete heart block (no P waves conduct)",
     "Blocked PAC (premature P wave not conducted)"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["Wenckebach", "Mobitz I", "second degree AV block", "group beating", "PR prolongation", "dropped beat"],
+  "tags": [
+    "Wenckebach",
+    "Mobitz I",
+    "second degree AV block",
+    "group beating",
+    "PR prolongation",
+    "dropped beat"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 1100,
     "avBlock": {
       "type": "wenckebach",
-      "atrialCycleMs": 700.0,
-      "atrialPhaseOffsetMs": 0.0,
+      "atrialCycleMs": 700,
+      "atrialPhaseOffsetMs": 0,
       "wenckebachGroupSize": 4,
-      "wenckebachStartPrMs": 160.0,
-      "wenckebachPrIncrementMs": 70.0
+      "wenckebachStartPrMs": 160,
+      "wenckebachPrIncrementMs": 70
     },
     "singleLead": {
       "lead": "II",
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 240,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 240,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 100,
-          "amplitudeMm": 9.0,
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 70,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 180,
+          "shape": "normal",
           "amplitudeMm": 2.5,
-          "morphology": "normal",
+          "durationMs": 180,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 55,
+    "rrVariation": "regularlyIrregular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

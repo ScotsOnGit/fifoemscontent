@@ -1,7 +1,13 @@
 {
   "id": "rapid-af",
   "name": "Rapid AF",
-  "aliases": ["Fast AF", "AF with rapid ventricular response", "Uncontrolled AF", "RVR", "AF-RVR"],
+  "aliases": [
+    "Fast AF",
+    "AF with rapid ventricular response",
+    "Uncontrolled AF",
+    "RVR",
+    "AF-RVR"
+  ],
   "urgency": "recognition",
   "category": "supraventricular",
   "actionLabel": null,
@@ -41,15 +47,22 @@
     "Atrial flutter 2:1 (rate ~150, regular)",
     "MAT (distinct P waves, usually in COPD context)"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["rapid AF", "fast AF", "AF RVR", "tachycardia", "rate control"],
+  "tags": [
+    "rapid AF",
+    "fast AF",
+    "AF RVR",
+    "tachycardia",
+    "rate control"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 360,
     "singleLead": {
@@ -57,34 +70,63 @@
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 60,
+          "shape": "fibrillatory",
           "amplitudeMm": 0.4,
-          "morphology": "fibrillatory"
+          "durationMs": 60,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 40,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 40,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 90,
-          "amplitudeMm": 9.0,
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 60,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": -0.5,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": -0.5,
+          "durationMs": 80,
+          "elevationMm": -0.5,
           "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 100,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal",
+          "durationMs": 100,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 167,
+    "rrVariation": "irregular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

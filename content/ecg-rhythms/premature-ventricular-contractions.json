@@ -1,7 +1,15 @@
 {
   "id": "premature-ventricular-contractions",
   "name": "PVC - Premature Ventricular Contractions",
-  "aliases": ["PVC", "PVCs", "Ventricular Ectopic Beats", "VEB", "VPB", "Ventricular Premature Beat", "Ectopic ventricular beat"],
+  "aliases": [
+    "PVC",
+    "PVCs",
+    "Ventricular Ectopic Beats",
+    "VEB",
+    "VPB",
+    "Ventricular Premature Beat",
+    "Ectopic ventricular beat"
+  ],
   "urgency": "recognition",
   "category": "ventricular",
   "actionLabel": null,
@@ -45,13 +53,19 @@
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],
-  "tags": ["PVC", "premature ventricular contraction", "ventricular ectopic", "bigeminy", "compensatory pause", "wide QRS"],
+  "tags": [
+    "PVC",
+    "premature ventricular contraction",
+    "ventricular ectopic",
+    "bigeminy",
+    "compensatory pause",
+    "wide QRS"
+  ],
   "isFreeContent": false,
   "version": 2,
   "lastUpdated": "2026-05-23T12:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 860,
     "singleLead": {
@@ -59,63 +73,120 @@
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80.0,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 160,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": { "intervalMs": 160.0, "segmentDeviationMm": 0.0 },
-        "qrs": {
-          "durationMs": 90.0,
-          "amplitudeMm": 9.0,
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
+        },
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 60,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 160.0,
+          "shape": "normal",
           "amplitudeMm": 2.5,
-          "morphology": "normal",
+          "durationMs": 160,
           "notched": false
         }
       }
     },
     "ectopicBeat": {
       "period": 3,
-      "compensatoryPauseMs": 860.0,
+      "compensatoryPauseMs": 860,
       "components": {
         "pWave": {
           "present": false,
-          "durationMs": 0.0,
-          "amplitudeMm": 0.0,
-          "morphology": "absent"
+          "shape": "absent",
+          "amplitudeMm": 0,
+          "durationMs": 0,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 0,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": { "intervalMs": 0.0, "segmentDeviationMm": 0.0 },
-        "qrs": {
-          "durationMs": 150.0,
-          "amplitudeMm": 14.0,
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
+        },
+        "rWave": {
+          "amplitudeMm": 14,
+          "durationMs": 120,
           "morphology": "bizarre",
           "axisDeviation": "extreme",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 1.5,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 1.5,
+          "durationMs": 80,
+          "elevationMm": 1.5,
           "morphology": "concaveUp",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 200.0,
-          "amplitudeMm": -4.0,
-          "morphology": "inverted",
+          "shape": "inverted",
+          "amplitudeMm": -4,
+          "durationMs": 200,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 70,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

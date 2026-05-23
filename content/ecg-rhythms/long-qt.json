@@ -1,7 +1,13 @@
 {
   "id": "long-qt",
   "name": "Long QT Syndrome",
-  "aliases": ["Long QT", "LQTS", "Prolonged QT", "Drug-induced long QT", "QT prolongation"],
+  "aliases": [
+    "Long QT",
+    "LQTS",
+    "Prolonged QT",
+    "Drug-induced long QT",
+    "QT prolongation"
+  ],
   "urgency": "findings",
   "category": "other",
   "actionLabel": null,
@@ -44,14 +50,22 @@
     "Normal QT at slow HR (always use QTc - heart rate corrected value)"
   ],
   "relatedGuidelineIDs": [],
-  "relatedCalculatorIDs": ["qtc-calculator"],
-  "tags": ["long QT", "LQTS", "Torsades de Pointes", "QT prolongation", "drug-induced", "QTc"],
+  "relatedCalculatorIDs": [
+    "qtc-calculator"
+  ],
+  "tags": [
+    "long QT",
+    "LQTS",
+    "Torsades de Pointes",
+    "QT prolongation",
+    "drug-induced",
+    "QTc"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 1000,
     "singleLead": {
@@ -59,34 +73,63 @@
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 160,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 160,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 90,
-          "amplitudeMm": 9.0,
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 60,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
+          "durationMs": 80,
+          "elevationMm": 0,
           "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
+          "shape": "biphasic",
+          "amplitudeMm": 3,
           "durationMs": 320,
-          "amplitudeMm": 3.0,
-          "morphology": "biphasicNegPos",
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 60,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

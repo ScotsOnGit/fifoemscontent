@@ -1,7 +1,13 @@
 {
   "id": "sinus-node-dysfunction",
   "name": "Sinus Node Dysfunction",
-  "aliases": ["Sick Sinus Syndrome", "SSS", "Sinus Node Disease", "Bradycardia-Tachycardia Syndrome", "Tachy-Brady Syndrome"],
+  "aliases": [
+    "Sick Sinus Syndrome",
+    "SSS",
+    "Sinus Node Disease",
+    "Bradycardia-Tachycardia Syndrome",
+    "Tachy-Brady Syndrome"
+  ],
   "urgency": "urgent",
   "category": "supraventricular",
   "actionLabel": "PACE",
@@ -43,15 +49,24 @@
     "Hypervagotonia (athletes, at rest - not pathological)",
     "Drug-induced bradycardia"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["sick sinus syndrome", "sinus node dysfunction", "sinus pause", "tachy-brady", "syncope", "bradycardia", "pacing"],
+  "tags": [
+    "sick sinus syndrome",
+    "sinus node dysfunction",
+    "sinus pause",
+    "tachy-brady",
+    "syncope",
+    "bradycardia",
+    "pacing"
+  ],
   "isFreeContent": true,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 2,
     "cycleDurationMs": 1800,
     "singleLead": {
@@ -59,34 +74,63 @@
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 160,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 160,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 100,
-          "amplitudeMm": 9.0,
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 70,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 180,
+          "shape": "normal",
           "amplitudeMm": 2.5,
-          "morphology": "normal",
+          "durationMs": 180,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 33,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

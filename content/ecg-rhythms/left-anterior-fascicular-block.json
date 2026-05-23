@@ -1,7 +1,12 @@
 {
   "id": "left-anterior-fascicular-block",
   "name": "Left Anterior Fascicular Block",
-  "aliases": ["LAFB", "Left Anterior Hemiblock", "LAH", "Left Axis Deviation due to LAFB"],
+  "aliases": [
+    "LAFB",
+    "Left Anterior Hemiblock",
+    "LAH",
+    "Left Axis Deviation due to LAFB"
+  ],
   "urgency": "recognition",
   "category": "blocks",
   "actionLabel": null,
@@ -43,13 +48,18 @@
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],
-  "tags": ["LAFB", "left anterior fascicular block", "left axis deviation", "hemiblock", "conduction"],
+  "tags": [
+    "LAFB",
+    "left anterior fascicular block",
+    "left axis deviation",
+    "hemiblock",
+    "conduction"
+  ],
   "isFreeContent": false,
   "version": 2,
   "lastUpdated": "2026-05-23T12:00:00Z",
   "waveform": {
     "mode": "multiLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "multiLead": {
@@ -59,45 +69,181 @@
           "lead": "I",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 80.0, "amplitudeMm": 1.5, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160.0, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110.0, "amplitudeMm": 10.0, "morphology": "normal",
-              "axisDeviation": "left", "qWaves": true
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.5,
+              "durationMs": 80,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 160.0, "amplitudeMm": 2.5, "morphology": "normal", "notched": false }
+            "qWave": {
+              "present": true,
+              "amplitudeMm": 0.8,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": 10,
+              "durationMs": 60,
+              "morphology": "normal",
+              "axisDeviation": "left",
+              "notched": false,
+              "notchAmplitudeMm": 1,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
+            },
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 2.5,
+              "durationMs": 160,
+              "notched": false
+            }
           }
         },
         {
           "lead": "II",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 80.0, "amplitudeMm": 1.0, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160.0, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110.0, "amplitudeMm": -7.0, "morphology": "normal",
-              "axisDeviation": "left", "qWaves": false
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1,
+              "durationMs": 80,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 140.0, "amplitudeMm": -1.5, "morphology": "inverted", "notched": false }
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": -7,
+              "durationMs": 80,
+              "morphology": "normal",
+              "axisDeviation": "left",
+              "notched": false,
+              "notchAmplitudeMm": 1,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
+            },
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "inverted",
+              "amplitudeMm": -1.5,
+              "durationMs": 140,
+              "notched": false
+            }
           }
         },
         {
           "lead": "aVF",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 80.0, "amplitudeMm": 1.0, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160.0, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110.0, "amplitudeMm": -8.0, "morphology": "normal",
-              "axisDeviation": "left", "qWaves": false
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1,
+              "durationMs": 80,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 140.0, "amplitudeMm": -1.5, "morphology": "inverted", "notched": false }
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": -8,
+              "durationMs": 80,
+              "morphology": "normal",
+              "axisDeviation": "left",
+              "notched": false,
+              "notchAmplitudeMm": 1,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
+            },
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "inverted",
+              "amplitudeMm": -1.5,
+              "durationMs": 140,
+              "notched": false
+            }
           }
         }
       ]
-    }
+    },
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

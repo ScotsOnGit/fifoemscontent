@@ -1,7 +1,10 @@
 {
   "id": "asystole",
   "name": "Asystole",
-  "aliases": ["Flatline", "No electrical activity"],
+  "aliases": [
+    "Flatline",
+    "No electrical activity"
+  ],
   "urgency": "arrest",
   "category": "other",
   "actionLabel": "CPR",
@@ -40,15 +43,21 @@
     "Lead disconnection",
     "PEA"
   ],
-  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedGuidelineIDs": [
+    "adult-resuscitation"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["asystole", "cardiac arrest", "non-shockable", "flatline"],
+  "tags": [
+    "asystole",
+    "cardiac arrest",
+    "non-shockable",
+    "flatline"
+  ],
   "isFreeContent": true,
   "version": 1,
   "lastUpdated": "2026-05-22T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "singleLead": {
@@ -56,34 +65,63 @@
       "components": {
         "pWave": {
           "present": false,
+          "shape": "absent",
+          "amplitudeMm": 0,
           "durationMs": 0,
-          "amplitudeMm": 0.0,
-          "morphology": "absent"
+          "correlatesWithQRS": true,
+          "prIntervalMs": 0,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 0,
-          "segmentDeviationMm": 0.0
-        },
-        "qrs": {
-          "durationMs": 40,
+        "qWave": {
+          "present": false,
           "amplitudeMm": 0.5,
+          "durationMs": 20
+        },
+        "rWave": {
+          "amplitudeMm": 0.5,
+          "durationMs": 20,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": false,
+          "shape": "flat",
+          "amplitudeMm": 0,
           "durationMs": 0,
-          "amplitudeMm": 0.0,
-          "morphology": "flat",
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

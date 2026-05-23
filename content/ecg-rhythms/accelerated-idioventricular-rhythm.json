@@ -1,7 +1,12 @@
 {
   "id": "accelerated-idioventricular-rhythm",
   "name": "Accelerated Idioventricular Rhythm",
-  "aliases": ["AIVR", "Accelerated Ventricular Rhythm", "Slow VT", "Idioventricular tachycardia"],
+  "aliases": [
+    "AIVR",
+    "Accelerated Ventricular Rhythm",
+    "Slow VT",
+    "Idioventricular tachycardia"
+  ],
   "urgency": "recognition",
   "category": "ventricular",
   "actionLabel": null,
@@ -42,15 +47,23 @@
     "Junctional rhythm with aberrant conduction",
     "Complete heart block with ventricular escape"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["AIVR", "accelerated idioventricular", "reperfusion arrhythmia", "slow VT", "wide complex", "benign"],
+  "tags": [
+    "AIVR",
+    "accelerated idioventricular",
+    "reperfusion arrhythmia",
+    "slow VT",
+    "wide complex",
+    "benign"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "singleLead": {
@@ -58,34 +71,63 @@
       "components": {
         "pWave": {
           "present": false,
+          "shape": "absent",
+          "amplitudeMm": 0,
           "durationMs": 0,
-          "amplitudeMm": 0.0,
-          "morphology": "absent"
+          "correlatesWithQRS": true,
+          "prIntervalMs": 0,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 0,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 140,
-          "amplitudeMm": 9.0,
+        "rWave": {
+          "amplitudeMm": 9,
+          "durationMs": 110,
           "morphology": "wide",
           "axisDeviation": "left",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 180,
+          "shape": "normal",
           "amplitudeMm": 2.5,
-          "morphology": "normal",
+          "durationMs": 180,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

@@ -1,7 +1,11 @@
 {
   "id": "bifascicular-block",
   "name": "Bifascicular Block",
-  "aliases": ["Bifascicular Block", "RBBB + LAFB", "Right bundle left anterior hemiblock"],
+  "aliases": [
+    "Bifascicular Block",
+    "RBBB + LAFB",
+    "Right bundle left anterior hemiblock"
+  ],
   "urgency": "recognition",
   "category": "blocks",
   "actionLabel": null,
@@ -42,15 +46,23 @@
     "LAFB alone (no RBBB)",
     "Anteroseptal MI with conduction defect"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["bifascicular block", "RBBB LAFB", "trifascicular", "conduction system", "syncope risk", "left axis"],
+  "tags": [
+    "bifascicular block",
+    "RBBB LAFB",
+    "trifascicular",
+    "conduction system",
+    "syncope risk",
+    "left axis"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "singleLead": {
@@ -58,40 +70,66 @@
       "components": {
         "pWave": {
           "present": true,
+          "shape": "normal",
+          "amplitudeMm": 1,
           "durationMs": 90,
-          "amplitudeMm": 1.0,
-          "morphology": "normal"
+          "correlatesWithQRS": true,
+          "prIntervalMs": 200,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 200,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 140,
-          "amplitudeMm": 5.0,
+        "rWave": {
+          "amplitudeMm": 5,
+          "durationMs": 110,
           "morphology": "rbbb",
           "axisDeviation": "left",
-          "qWaves": false,
-          "rsrPattern": {
-            "r1AmplitudeMm": 3.0,
-            "sDepthMm": 2.0,
-            "r2AmplitudeMm": 5.5,
-            "r2DurationMs": 50
-          }
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": true,
+          "rPrimeAmplitudeMm": 5.5,
+          "rPrimeDurationMs": 50
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": -0.5,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": -0.5,
+          "durationMs": 80,
+          "elevationMm": -0.5,
           "morphology": "flatDepression",
-          "leadsAffected": ["V1", "V2"]
+          "leadsAffected": [
+            "V1",
+            "V2"
+          ]
         },
         "tWave": {
           "present": true,
+          "shape": "inverted",
+          "amplitudeMm": -2,
           "durationMs": 180,
-          "amplitudeMm": -2.0,
-          "morphology": "inverted",
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

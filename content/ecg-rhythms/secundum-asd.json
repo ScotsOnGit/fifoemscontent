@@ -1,7 +1,13 @@
 {
   "id": "secundum-asd",
   "name": "Secundum ASD",
-  "aliases": ["ASD", "Atrial Septal Defect", "Ostium secundum ASD", "Crochetage Sign", "rSr prime V1 ASD"],
+  "aliases": [
+    "ASD",
+    "Atrial Septal Defect",
+    "Ostium secundum ASD",
+    "Crochetage Sign",
+    "rSr prime V1 ASD"
+  ],
   "urgency": "findings",
   "category": "structural",
   "actionLabel": null,
@@ -47,13 +53,20 @@
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],
-  "tags": ["ASD", "atrial septal defect", "rSr prime", "incomplete RBBB", "right axis deviation", "crochetage", "congenital heart"],
+  "tags": [
+    "ASD",
+    "atrial septal defect",
+    "rSr prime",
+    "incomplete RBBB",
+    "right axis deviation",
+    "crochetage",
+    "congenital heart"
+  ],
   "isFreeContent": false,
   "version": 2,
   "lastUpdated": "2026-05-23T16:00:00Z",
   "waveform": {
     "mode": "multiLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "multiLead": {
@@ -63,80 +76,238 @@
           "lead": "II",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.5, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110,
-              "amplitudeMm": 8.0,
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.5,
+              "durationMs": 90,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
+            },
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": 8,
+              "durationMs": 80,
               "morphology": "normal",
               "axisDeviation": "right",
-              "qWaves": false,
-              "notches": [{ "position": "descending", "amplitudeMm": 0.8, "durationMs": 20 }]
+              "notched": true,
+              "notchAmplitudeMm": 0.8,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 2.0, "morphology": "normal", "notched": false }
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 2,
+              "durationMs": 160,
+              "notched": false
+            }
           }
         },
         {
           "lead": "III",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.0, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110,
-              "amplitudeMm": 7.0,
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1,
+              "durationMs": 90,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
+            },
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": 7,
+              "durationMs": 80,
               "morphology": "normal",
               "axisDeviation": "right",
-              "qWaves": false,
-              "notches": [{ "position": "descending", "amplitudeMm": 0.8, "durationMs": 20 }]
+              "notched": true,
+              "notchAmplitudeMm": 0.8,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 1.8, "morphology": "normal", "notched": false }
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.8,
+              "durationMs": 160,
+              "notched": false
+            }
           }
         },
         {
           "lead": "aVF",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.5, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110,
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.5,
+              "durationMs": 90,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
+            },
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
               "amplitudeMm": 7.5,
+              "durationMs": 80,
               "morphology": "normal",
               "axisDeviation": "right",
-              "qWaves": false,
-              "notches": [{ "position": "descending", "amplitudeMm": 0.8, "durationMs": 20 }]
+              "notched": true,
+              "notchAmplitudeMm": 0.8,
+              "hasRPrime": false,
+              "rPrimeAmplitudeMm": 3,
+              "rPrimeDurationMs": 20
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 1.8, "morphology": "normal", "notched": false }
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 2,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.8,
+              "durationMs": 160,
+              "notched": false
+            }
           }
         },
         {
           "lead": "V1",
           "isDiagnosticLead": false,
           "components": {
-            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.0, "morphology": "normal" },
-            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
-            "qrs": {
-              "durationMs": 110,
-              "amplitudeMm": 3.0,
+            "pWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1,
+              "durationMs": 90,
+              "correlatesWithQRS": true,
+              "prIntervalMs": 160,
+              "prMorphology": "isoelectric",
+              "progressive": false,
+              "progressiveStepMs": 40,
+              "progressiveCycles": 3
+            },
+            "qWave": {
+              "present": false,
+              "amplitudeMm": 0.5,
+              "durationMs": 20
+            },
+            "rWave": {
+              "amplitudeMm": 3,
+              "durationMs": 80,
               "morphology": "normal",
               "axisDeviation": "right",
-              "qWaves": false,
-              "rsrPattern": {
-                "r1AmplitudeMm": 2.0,
-                "sDepthMm": 1.5,
-                "r2AmplitudeMm": 2.5,
-                "r2DurationMs": 20.0
-              }
+              "notched": false,
+              "notchAmplitudeMm": 1,
+              "hasRPrime": true,
+              "rPrimeAmplitudeMm": 2.5,
+              "rPrimeDurationMs": 20
             },
-            "stSegment": { "deviationMm": 0.0, "morphology": "normal", "leadsAffected": [] },
-            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 1.5, "morphology": "normal", "notched": false }
+            "sWave": {
+              "present": true,
+              "amplitudeMm": 1.5,
+              "durationMs": 30
+            },
+            "jPoint": {
+              "elevationMm": 0,
+              "shape": "normal",
+              "durationMs": 0
+            },
+            "stSegment": {
+              "durationMs": 80,
+              "elevationMm": 0,
+              "morphology": "flat",
+              "leadsAffected": []
+            },
+            "tWave": {
+              "present": true,
+              "shape": "normal",
+              "amplitudeMm": 1.5,
+              "durationMs": 160,
+              "notched": false
+            }
           }
         }
       ]
-    }
+    },
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

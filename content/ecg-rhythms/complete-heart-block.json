@@ -1,7 +1,13 @@
 {
   "id": "complete-heart-block",
   "name": "3° AV Block (Complete Heart Block)",
-  "aliases": ["Complete Heart Block", "CHB", "Third Degree AV Block", "3° AV Block", "Complete AV Block"],
+  "aliases": [
+    "Complete Heart Block",
+    "CHB",
+    "Third Degree AV Block",
+    "3° AV Block",
+    "Complete AV Block"
+  ],
   "urgency": "urgent",
   "category": "blocks",
   "actionLabel": "PACE",
@@ -42,55 +48,92 @@
     "High-degree AV block",
     "AV dissociation (isorhythmic has a different mechanism, different rates)"
   ],
-  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedGuidelineIDs": [
+    "cardiac-arrhythmia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["complete heart block", "CHB", "third degree AV block", "AV dissociation", "bradycardia", "pacing"],
+  "tags": [
+    "complete heart block",
+    "CHB",
+    "third degree AV block",
+    "AV dissociation",
+    "bradycardia",
+    "pacing"
+  ],
   "isFreeContent": true,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 1600,
     "avBlock": {
       "type": "complete",
-      "atrialCycleMs": 700.0,
-      "atrialPhaseOffsetMs": 150.0
+      "atrialCycleMs": 700,
+      "atrialPhaseOffsetMs": 150
     },
     "singleLead": {
       "lead": "II",
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 0,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 0,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 140,
-          "amplitudeMm": 8.0,
+        "rWave": {
+          "amplitudeMm": 8,
+          "durationMs": 110,
           "morphology": "wide",
           "axisDeviation": "left",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": 0,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 0.0,
-          "morphology": "normal",
+          "durationMs": 80,
+          "elevationMm": 0,
+          "morphology": "flat",
           "leadsAffected": []
         },
         "tWave": {
           "present": true,
-          "durationMs": 200,
+          "shape": "normal",
           "amplitudeMm": 2.5,
-          "morphology": "normal",
+          "durationMs": 200,
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 38,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

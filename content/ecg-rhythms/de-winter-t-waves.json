@@ -1,7 +1,13 @@
 {
   "id": "de-winter-t-waves",
   "name": "De Winter T-waves",
-  "aliases": ["De Winter Pattern", "De Winter ECG", "LAD equivalent", "Hyperacute LAD", "De Winter sign"],
+  "aliases": [
+    "De Winter Pattern",
+    "De Winter ECG",
+    "LAD equivalent",
+    "Hyperacute LAD",
+    "De Winter sign"
+  ],
   "urgency": "urgent",
   "category": "stemi",
   "actionLabel": "EVACUATE",
@@ -41,15 +47,25 @@
     "Early repolarisation (no ST depression, different morphology)",
     "Hyperkalaemia (peaked T waves but different distribution)"
   ],
-  "relatedGuidelineIDs": ["acute-coronary-syndrome"],
-  "relatedCalculatorIDs": ["heart-score"],
-  "tags": ["De Winter", "De Winter T waves", "LAD occlusion", "STEMI equivalent", "hyperacute T", "ACS"],
+  "relatedGuidelineIDs": [
+    "acute-coronary-syndrome"
+  ],
+  "relatedCalculatorIDs": [
+    "heart-score"
+  ],
+  "tags": [
+    "De Winter",
+    "De Winter T waves",
+    "LAD occlusion",
+    "STEMI equivalent",
+    "hyperacute T",
+    "ACS"
+  ],
   "isFreeContent": true,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "singleLead": {
@@ -57,35 +73,71 @@
       "components": {
         "pWave": {
           "present": true,
-          "durationMs": 80,
+          "shape": "normal",
           "amplitudeMm": 1.5,
-          "morphology": "normal"
+          "durationMs": 80,
+          "correlatesWithQRS": true,
+          "prIntervalMs": 160,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 160,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 100,
-          "amplitudeMm": 10.0,
+        "rWave": {
+          "amplitudeMm": 10,
+          "durationMs": 70,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
+        },
+        "jPoint": {
+          "elevationMm": -1.5,
+          "shape": "normal",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": -1.5,
+          "durationMs": 80,
+          "elevationMm": -1.5,
           "morphology": "concaveUp",
-          "leadsAffected": ["V1", "V2", "V3", "V4", "V5", "V6"]
+          "leadsAffected": [
+            "V1",
+            "V2",
+            "V3",
+            "V4",
+            "V5",
+            "V6"
+          ]
         },
         "tWave": {
           "present": true,
+          "shape": "hyperacute",
+          "amplitudeMm": 8,
           "durationMs": 200,
-          "amplitudeMm": 8.0,
-          "morphology": "hyperacute",
           "notched": false
         }
       }
     },
-    "multiLead": null
+    "multiLead": null,
+    "heartRate": 75,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }

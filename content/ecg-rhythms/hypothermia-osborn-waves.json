@@ -1,7 +1,12 @@
 {
   "id": "hypothermia-osborn-waves",
   "name": "Hypothermia / Osborn (J) Waves",
-  "aliases": ["Osborn waves", "J waves hypothermia", "Hypothermia ECG", "Camel hump sign"],
+  "aliases": [
+    "Osborn waves",
+    "J waves hypothermia",
+    "Hypothermia ECG",
+    "Camel hump sign"
+  ],
   "urgency": "findings",
   "category": "other",
   "actionLabel": null,
@@ -45,15 +50,23 @@
     "Hyperacute STEMI (convex ST, no J wave, normal intervals)",
     "Benign Osborn-like waves in hypercalcaemia or normal variant athletes"
   ],
-  "relatedGuidelineIDs": ["hypothermia"],
+  "relatedGuidelineIDs": [
+    "hypothermia"
+  ],
   "relatedCalculatorIDs": [],
-  "tags": ["hypothermia", "Osborn waves", "J waves", "camel hump", "bradycardia", "cold exposure"],
+  "tags": [
+    "hypothermia",
+    "Osborn waves",
+    "J waves",
+    "camel hump",
+    "bradycardia",
+    "cold exposure"
+  ],
   "isFreeContent": false,
   "version": 1,
   "lastUpdated": "2026-05-23T00:00:00Z",
   "waveform": {
     "mode": "singleLead",
-    "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 1500,
     "singleLead": {
@@ -61,39 +74,70 @@
       "components": {
         "pWave": {
           "present": true,
+          "shape": "normal",
+          "amplitudeMm": 1,
           "durationMs": 100,
-          "amplitudeMm": 1.0,
-          "morphology": "normal"
+          "correlatesWithQRS": true,
+          "prIntervalMs": 220,
+          "prMorphology": "isoelectric",
+          "progressive": false,
+          "progressiveStepMs": 40,
+          "progressiveCycles": 3
         },
-        "prSegment": {
-          "intervalMs": 220,
-          "segmentDeviationMm": 0.0
+        "qWave": {
+          "present": false,
+          "amplitudeMm": 0.5,
+          "durationMs": 20
         },
-        "qrs": {
-          "durationMs": 130,
-          "amplitudeMm": 8.0,
+        "rWave": {
+          "amplitudeMm": 8,
+          "durationMs": 100,
           "morphology": "normal",
           "axisDeviation": "normal",
-          "qWaves": false
+          "notched": false,
+          "notchAmplitudeMm": 1,
+          "hasRPrime": false,
+          "rPrimeAmplitudeMm": 3,
+          "rPrimeDurationMs": 20
+        },
+        "sWave": {
+          "present": true,
+          "amplitudeMm": 2,
+          "durationMs": 30
         },
         "jPoint": {
-          "deviationMm": 3.0,
-          "morphology": "osborn",
-          "scaledByHypothermia": true
+          "elevationMm": 3,
+          "shape": "osborn",
+          "durationMs": 0
         },
         "stSegment": {
-          "deviationMm": 1.5,
+          "durationMs": 80,
+          "elevationMm": 1.5,
           "morphology": "concaveUp",
-          "leadsAffected": ["V4", "V5", "V6", "II", "III", "aVF"]
+          "leadsAffected": [
+            "V4",
+            "V5",
+            "V6",
+            "II",
+            "III",
+            "aVF"
+          ]
         },
         "tWave": {
           "present": true,
+          "shape": "normal",
+          "amplitudeMm": 2,
           "durationMs": 200,
-          "amplitudeMm": 2.0,
-          "morphology": "normal",
           "notched": false
         }
       }
-    }
+    },
+    "heartRate": 40,
+    "rrVariation": "regular",
+    "previewOrientation": "portrait",
+    "stripSmallBoxes": 83,
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "stripDurationSec": 3.32
   }
 }
