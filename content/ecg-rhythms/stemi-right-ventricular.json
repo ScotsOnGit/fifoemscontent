@@ -6,10 +6,10 @@
   "category": "stemi",
   "actionLabel": "EVACUATE",
   "identifyBy": [
-    "ST elevation ≥1mm in right-sided lead V4R (most sensitive and specific)",
-    "Usually occurs with inferior STEMI (RCA occlusion)",
+    "ST elevation >=1mm in right-sided lead V4R (most sensitive and specific)",
+    "Usually occurs with inferior STEMI (RCA occlusion) - look for II, III, aVF elevation",
     "Classic triad: hypotension + elevated JVP + clear lung fields",
-    "ST elevation may extend to V3R–V6R on right-sided ECG",
+    "ST elevation may extend to V3R-V6R on right-sided ECG",
     "ST elevation in V1 with inferior STEMI also suggests RV involvement"
   ],
   "measurements": {
@@ -20,12 +20,12 @@
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
     "axis": "Normal",
-    "stSegment": "Elevation V3R–V6R (right-sided leads)"
+    "stSegment": "Elevation V3R-V6R (right-sided leads) + inferior II, III, aVF"
   },
   "management": [
     "Inferior STEMI protocol - always check right-sided leads",
     "AVOID GTN and other vasodilators - RV is preload-dependent",
-    "IV fluid challenge 250–500mL - RV infarct is preload-dependent (BP often improves)",
+    "IV fluid challenge 250-500mL - RV infarct is preload-dependent (BP often improves)",
     "Urgent evacuation",
     "Manage bradycardia with Atropine",
     "Dobutamine may support RV function if fluid unresponsive"
@@ -33,7 +33,7 @@
   "pearls": [
     "GTN is absolutely contraindicated - causes profound hypotension in RV infarct",
     "The right ventricle has little collateral circulation - it relies entirely on the RCA",
-    "V4R ST elevation resolves within 12–18 hours - do right-sided ECG early if inferior STEMI suspected",
+    "V4R ST elevation resolves within 12-18 hours - do right-sided ECG early if inferior STEMI suspected",
     "Kussmaul's sign (JVP rising on inspiration) may be present - RV failure finding",
     "RV infarct triad: hypotension + raised JVP + clear lung fields (not heart failure)"
   ],
@@ -46,8 +46,8 @@
   "relatedCalculatorIDs": ["heart-score"],
   "tags": ["STEMI", "RV infarct", "right ventricular STEMI", "V4R", "right-sided leads", "ACS", "GTN contraindicated"],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-23T15:00:00Z",
   "waveform": {
     "mode": "multiLead",
     "baseline": { "deviationMm": 0.0 },
@@ -60,105 +60,55 @@
           "lead": "V4R",
           "isDiagnosticLead": true,
           "components": {
-            "pWave": {
-              "present": true,
-              "durationMs": 80,
-              "amplitudeMm": 1.5,
-              "morphology": "normal"
-            },
-            "prSegment": {
-              "intervalMs": 180,
-              "segmentDeviationMm": 0.0
-            },
-            "qrs": {
-              "durationMs": 100,
-              "amplitudeMm": 8.0,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "qWaves": false
-            },
-            "stSegment": {
-              "deviationMm": 1.5,
-              "morphology": "convex",
-              "leadsAffected": ["V3R", "V4R", "V5R", "V6R"]
-            },
-            "tWave": {
-              "present": true,
-              "durationMs": 160,
-              "amplitudeMm": 2.5,
-              "morphology": "hyperacute",
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "V1",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "durationMs": 80,
-              "amplitudeMm": 1.0,
-              "morphology": "normal"
-            },
-            "prSegment": {
-              "intervalMs": 180,
-              "segmentDeviationMm": 0.0
-            },
-            "qrs": {
-              "durationMs": 100,
-              "amplitudeMm": 7.0,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "qWaves": false
-            },
-            "stSegment": {
-              "deviationMm": 1.0,
-              "morphology": "convex",
-              "leadsAffected": ["V1"]
-            },
-            "tWave": {
-              "present": true,
-              "durationMs": 160,
-              "amplitudeMm": 2.0,
-              "morphology": "hyperacute",
-              "notched": false
-            }
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 8.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": false },
+            "stSegment": { "deviationMm": 1.5, "morphology": "convex", "leadsAffected": ["V3R", "V4R", "V5R", "V6R"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 2.5, "morphology": "hyperacute", "notched": false }
           }
         },
         {
           "lead": "V3R",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 7.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": false },
+            "stSegment": { "deviationMm": 1.2, "morphology": "convex", "leadsAffected": ["V3R", "V4R", "V5R", "V6R"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 2.0, "morphology": "hyperacute", "notched": false }
+          }
+        },
+        {
+          "lead": "III",
           "isDiagnosticLead": false,
           "components": {
-            "pWave": {
-              "present": true,
-              "durationMs": 80,
-              "amplitudeMm": 1.5,
-              "morphology": "normal"
-            },
-            "prSegment": {
-              "intervalMs": 180,
-              "segmentDeviationMm": 0.0
-            },
-            "qrs": {
-              "durationMs": 100,
-              "amplitudeMm": 8.0,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "qWaves": false
-            },
-            "stSegment": {
-              "deviationMm": 1.2,
-              "morphology": "convex",
-              "leadsAffected": ["V3R", "V4R", "V5R", "V6R"]
-            },
-            "tWave": {
-              "present": true,
-              "durationMs": 160,
-              "amplitudeMm": 2.0,
-              "morphology": "hyperacute",
-              "notched": false
-            }
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 8.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.5, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.5, "morphology": "hyperacute", "notched": false }
+          }
+        },
+        {
+          "lead": "II",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 9.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.0, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.0, "morphology": "hyperacute", "notched": false }
+          }
+        },
+        {
+          "lead": "aVF",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 8.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.0, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.0, "morphology": "hyperacute", "notched": false }
           }
         }
       ]

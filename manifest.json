@@ -60,13 +60,13 @@
     "ecg-rhythms/sinus-node-dysfunction": 2,
     "ecg-rhythms/sinus-rhythm": 2,
     "ecg-rhythms/sinus-tachycardia": 2,
-    "ecg-rhythms/stemi-anterior": 2,
-    "ecg-rhythms/stemi-inferior": 2,
-    "ecg-rhythms/stemi-lateral": 2,
-    "ecg-rhythms/stemi-lbbb-sgarbossa": 2,
-    "ecg-rhythms/stemi-posterior": 2,
-    "ecg-rhythms/stemi-right-ventricular": 2,
-    "ecg-rhythms/stemi-septal": 2,
+    "ecg-rhythms/stemi-anterior": 3,
+    "ecg-rhythms/stemi-inferior": 3,
+    "ecg-rhythms/stemi-lateral": 3,
+    "ecg-rhythms/stemi-lbbb-sgarbossa": 3,
+    "ecg-rhythms/stemi-posterior": 3,
+    "ecg-rhythms/stemi-right-ventricular": 3,
+    "ecg-rhythms/stemi-septal": 3,
     "ecg-rhythms/torsades-de-pointes": 2,
     "ecg-rhythms/ventricular-fibrillation": 2,
     "ecg-rhythms/ventricular-parasystole": 2,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-23T14:00:00Z",
-  "version": 7
+  "lastUpdated": "2026-05-23T16:00:00Z",
+  "version": 8
 }

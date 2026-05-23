@@ -6,11 +6,11 @@
   "category": "stemi",
   "actionLabel": "EVACUATE",
   "identifyBy": [
-    "ST elevation ≥1mm in 2 or more inferior leads (II, III, aVF)",
+    "ST elevation >=1mm in 2 or more inferior leads (II, III, aVF)",
     "Reciprocal ST depression in I and aVL (mirror image)",
     "ST elevation greater in lead III than II suggests RCA occlusion",
     "ST elevation greater in lead II than III suggests LCx occlusion",
-    "Check right-sided leads (V3R–V6R) - RV infarct present in up to 50%"
+    "Check right-sided leads (V3R-V6R) - RV infarct present in up to 50%"
   ],
   "measurements": {
     "rate": "May be bradycardic (vagal tone - 'Bezold-Jarisch reflex')",
@@ -23,72 +23,98 @@
     "stSegment": "Elevation II, III, aVF; Depression I, aVL (reciprocal)"
   },
   "management": [
-    "12-lead ECG - confirm ≥1mm ST elevation in II, III, aVF",
-    "Obtain right-sided ECG (V3R–V6R) - critical to exclude RV infarct",
+    "12-lead ECG - confirm >=1mm ST elevation in II, III, aVF",
+    "Obtain right-sided ECG (V3R-V6R) - critical to exclude RV infarct",
     "Aspirin 300mg PO (chew)",
     "GTN - USE WITH EXTREME CAUTION if RV infarct suspected (will cause profound hypotension)",
-    "IV fluid bolus 250–500mL if hypotensive with RV infarct",
+    "IV fluid bolus 250-500mL if hypotensive with RV infarct",
     "Morphine or Fentanyl for pain",
     "Atropine 0.6mg IV if symptomatic bradycardia/hypotension",
     "Urgent evacuation - PCI target <90 minutes"
   ],
   "pearls": [
     "GTN is CONTRAINDICATED in RV infarction - the right ventricle is preload-dependent; GTN drops preload and causes circulatory collapse",
-    "Bezold-Jarisch reflex: inferior STEMI → vagal surge → bradycardia + hypotension + diaphoresis - treat with atropine and IV fluids",
-    "AV blocks (1°, 2° Mobitz I, even 3°) are common in inferior STEMI due to AV node ischaemia - usually transient",
-    "Posterior extension (tall R in V1–V2, ST depression) indicates larger territory - higher risk",
+    "Bezold-Jarisch reflex: inferior STEMI causes vagal surge causing bradycardia + hypotension + diaphoresis - treat with atropine and IV fluids",
+    "AV blocks (1st, 2nd Mobitz I, even 3rd) are common in inferior STEMI due to AV node ischaemia - usually transient",
+    "Posterior extension (tall R in V1-V2, ST depression) indicates larger territory - higher risk",
     "New complete heart block in inferior STEMI: pace if haemodynamically unstable"
   ],
   "differentials": [
     "Pericarditis (diffuse, not lead-specific)",
     "Early repolarisation",
-    "Posterior STEMI (reciprocal changes - check V7–V9)",
+    "Posterior STEMI (reciprocal changes - check V7-V9)",
     "Pulmonary embolism (right heart strain pattern)"
   ],
   "relatedGuidelineIDs": ["acute-coronary-syndrome"],
   "relatedCalculatorIDs": ["heart-score"],
   "tags": ["STEMI", "inferior STEMI", "RCA", "ST elevation", "myocardial infarction", "ACS"],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-22T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-23T15:00:00Z",
   "waveform": {
-    "mode": "singleLead",
+    "mode": "multiLead",
     "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 920,
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "durationMs": 80,
-          "amplitudeMm": 1.5,
-          "morphology": "normal"
+    "multiLead": {
+      "focusLead": "III",
+      "leads": [
+        {
+          "lead": "III",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 8.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.5, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.5, "morphology": "hyperacute", "notched": false }
+          }
         },
-        "prSegment": {
-          "intervalMs": 180,
-          "segmentDeviationMm": 0.0
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 10.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.0, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.0, "morphology": "hyperacute", "notched": false }
+          }
         },
-        "qrs": {
-          "durationMs": 100,
-          "amplitudeMm": 10.0,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "qWaves": true
+        {
+          "lead": "aVF",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 9.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": true },
+            "stSegment": { "deviationMm": 2.0, "morphology": "convex", "leadsAffected": ["II", "III", "aVF"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": 3.0, "morphology": "hyperacute", "notched": false }
+          }
         },
-        "stSegment": {
-          "deviationMm": 2.0,
-          "morphology": "convex",
-          "leadsAffected": ["II", "III", "aVF"]
+        {
+          "lead": "I",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 7.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": false },
+            "stSegment": { "deviationMm": -1.5, "morphology": "flatDepression", "leadsAffected": ["I", "aVL"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": -2.0, "morphology": "inverted", "notched": false }
+          }
         },
-        "tWave": {
-          "present": true,
-          "durationMs": 160,
-          "amplitudeMm": 3.5,
-          "morphology": "hyperacute",
-          "notched": false
+        {
+          "lead": "aVL",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 80, "amplitudeMm": 1.0, "morphology": "normal" },
+            "prSegment": { "intervalMs": 180, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 100, "amplitudeMm": 5.0, "morphology": "normal", "axisDeviation": "normal", "qWaves": false },
+            "stSegment": { "deviationMm": -1.5, "morphology": "flatDepression", "leadsAffected": ["I", "aVL"] },
+            "tWave": { "present": true, "durationMs": 160, "amplitudeMm": -2.0, "morphology": "inverted", "notched": false }
+          }
         }
-      }
+      ]
     }
   }
 }

@@ -7,13 +7,13 @@
   "actionLabel": "EVACUATE",
   "identifyBy": [
     "New or presumed-new LBBB with ischaemic symptoms = STEMI equivalent",
-    "Sgarbossa Criterion 1: Concordant ST elevation ≥1mm in leads with positive QRS (score 5)",
-    "Sgarbossa Criterion 2: Concordant ST depression ≥1mm in V1–V3 (score 3)",
-    "Sgarbossa Criterion 3: Discordant ST elevation ≥5mm (score 2) - less specific",
+    "Sgarbossa Criterion 1: Concordant ST elevation >=1mm in leads with positive QRS (score 5)",
+    "Sgarbossa Criterion 2: Concordant ST depression >=1mm in V1-V3 (score 3)",
+    "Sgarbossa Criterion 3: Discordant ST elevation >=5mm (score 2) - less specific",
     "Modified Sgarbossa: ratio of ST deviation to S wave amplitude >0.25 in any lead"
   ],
   "measurements": {
-    "rate": "60–100 bpm",
+    "rate": "60-100 bpm",
     "rhythm": "Regular",
     "pWaves": "Normal",
     "prInterval": "Not measurable (LBBB)",
@@ -46,47 +46,61 @@
   "relatedCalculatorIDs": ["sgarbossa-score"],
   "tags": ["STEMI", "LBBB", "Sgarbossa", "STEMI equivalent", "wide complex", "ACS"],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-23T15:00:00Z",
   "waveform": {
-    "mode": "singleLead",
+    "mode": "multiLead",
     "baseline": { "deviationMm": 0.0 },
     "repeatCount": 3,
     "cycleDurationMs": 800,
-    "singleLead": {
-      "lead": "V3",
-      "components": {
-        "pWave": {
-          "present": true,
-          "durationMs": 90,
-          "amplitudeMm": 1.5,
-          "morphology": "normal"
+    "multiLead": {
+      "focusLead": "V5",
+      "leads": [
+        {
+          "lead": "V5",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 140, "amplitudeMm": 12.0, "morphology": "lbbb", "axisDeviation": "left", "qWaves": false },
+            "stSegment": { "deviationMm": 1.5, "morphology": "convex", "leadsAffected": ["V5", "V6"] },
+            "tWave": { "present": true, "durationMs": 200, "amplitudeMm": 2.5, "morphology": "hyperacute", "notched": false }
+          }
         },
-        "prSegment": {
-          "intervalMs": 160,
-          "segmentDeviationMm": 0.0
+        {
+          "lead": "V6",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.5, "morphology": "normal" },
+            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 140, "amplitudeMm": 10.0, "morphology": "lbbb", "axisDeviation": "left", "qWaves": false },
+            "stSegment": { "deviationMm": 1.0, "morphology": "convex", "leadsAffected": ["V5", "V6"] },
+            "tWave": { "present": true, "durationMs": 200, "amplitudeMm": 2.0, "morphology": "hyperacute", "notched": false }
+          }
         },
-        "qrs": {
-          "durationMs": 140,
-          "amplitudeMm": -8.0,
-          "morphology": "lbbb",
-          "axisDeviation": "left",
-          "qWaves": false
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.0, "morphology": "normal" },
+            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 140, "amplitudeMm": -8.0, "morphology": "lbbb", "axisDeviation": "left", "qWaves": false },
+            "stSegment": { "deviationMm": -1.5, "morphology": "flatDepression", "leadsAffected": ["V1", "V2"] },
+            "tWave": { "present": true, "durationMs": 200, "amplitudeMm": -2.0, "morphology": "inverted", "notched": false }
+          }
         },
-        "stSegment": {
-          "deviationMm": 2.0,
-          "morphology": "convex",
-          "leadsAffected": ["V3", "V4"]
-        },
-        "tWave": {
-          "present": true,
-          "durationMs": 200,
-          "amplitudeMm": 3.0,
-          "morphology": "hyperacute",
-          "notched": false
+        {
+          "lead": "V2",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": { "present": true, "durationMs": 90, "amplitudeMm": 1.0, "morphology": "normal" },
+            "prSegment": { "intervalMs": 160, "segmentDeviationMm": 0.0 },
+            "qrs": { "durationMs": 140, "amplitudeMm": -5.0, "morphology": "lbbb", "axisDeviation": "left", "qWaves": false },
+            "stSegment": { "deviationMm": 4.0, "morphology": "convex", "leadsAffected": ["V2"] },
+            "tWave": { "present": true, "durationMs": 200, "amplitudeMm": 3.0, "morphology": "hyperacute", "notched": false }
+          }
         }
-      }
-    },
-    "multiLead": null
+      ]
+    }
   }
 }
