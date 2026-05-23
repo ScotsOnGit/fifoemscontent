@@ -28,9 +28,9 @@
     "ecg-rhythms/idioventricular-rhythm": 1,
     "ecg-rhythms/interpolated-pvcs": 1,
     "ecg-rhythms/junctional-rhythm": 1,
-    "ecg-rhythms/left-anterior-fascicular-block": 1,
-    "ecg-rhythms/left-bundle-branch-block": 1,
-    "ecg-rhythms/left-posterior-fascicular-block": 1,
+    "ecg-rhythms/left-anterior-fascicular-block": 2,
+    "ecg-rhythms/left-bundle-branch-block": 2,
+    "ecg-rhythms/left-posterior-fascicular-block": 2,
     "ecg-rhythms/long-qt": 1,
     "ecg-rhythms/low-nodal-junctional": 1,
     "ecg-rhythms/lv-rv-hypertrophy": 1,
@@ -45,7 +45,7 @@
     "ecg-rhythms/pre-excited-af-wpw": 1,
     "ecg-rhythms/premature-atrial-contractions": 1,
     "ecg-rhythms/premature-junctional-contractions": 1,
-    "ecg-rhythms/premature-ventricular-contractions": 1,
+    "ecg-rhythms/premature-ventricular-contractions": 2,
     "ecg-rhythms/pulseless-electrical-activity": 1,
     "ecg-rhythms/pulseless-ventricular-tachycardia": 1,
     "ecg-rhythms/rapid-af": 1,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-23T05:29:15Z",
-  "version": 4
+  "lastUpdated": "2026-05-23T12:00:00Z",
+  "version": 5
 }

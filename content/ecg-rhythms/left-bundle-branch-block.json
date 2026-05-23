@@ -54,7 +54,7 @@
     "repeatCount": 3,
     "cycleDurationMs": 800,
     "multiLead": {
-      "focusLead": "V6",
+      "focusLead": "V1",
       "leads": [
         {
           "lead": "V1",

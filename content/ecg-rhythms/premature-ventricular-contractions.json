@@ -58,17 +58,46 @@
       "lead": "II",
       "components": {
         "pWave": {
+          "present": true,
+          "durationMs": 80.0,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": { "intervalMs": 160.0, "segmentDeviationMm": 0.0 },
+        "qrs": {
+          "durationMs": 90.0,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160.0,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    },
+    "ectopicBeat": {
+      "period": 3,
+      "compensatoryPauseMs": 860.0,
+      "components": {
+        "pWave": {
           "present": false,
-          "durationMs": 0,
+          "durationMs": 0.0,
           "amplitudeMm": 0.0,
           "morphology": "absent"
         },
-        "prSegment": {
-          "intervalMs": 0,
-          "segmentDeviationMm": 0.0
-        },
+        "prSegment": { "intervalMs": 0.0, "segmentDeviationMm": 0.0 },
         "qrs": {
-          "durationMs": 150,
+          "durationMs": 150.0,
           "amplitudeMm": 14.0,
           "morphology": "bizarre",
           "axisDeviation": "extreme",
@@ -81,7 +110,7 @@
         },
         "tWave": {
           "present": true,
-          "durationMs": 200,
+          "durationMs": 200.0,
           "amplitudeMm": -4.0,
           "morphology": "inverted",
           "notched": false
