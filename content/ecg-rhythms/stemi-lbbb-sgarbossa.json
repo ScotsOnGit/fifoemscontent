@@ -1,6 +1,6 @@
 {
   "id": "stemi-lbbb-sgarbossa",
-  "name": "STEMI in LBBB — Sgarbossa Criteria",
+  "name": "STEMI in LBBB - Sgarbossa Criteria",
   "aliases": ["Sgarbossa Criteria", "LBBB STEMI", "STEMI equivalent LBBB"],
   "urgency": "urgent",
   "category": "stemi",
@@ -9,7 +9,7 @@
     "New or presumed-new LBBB with ischaemic symptoms = STEMI equivalent",
     "Sgarbossa Criterion 1: Concordant ST elevation ≥1mm in leads with positive QRS (score 5)",
     "Sgarbossa Criterion 2: Concordant ST depression ≥1mm in V1–V3 (score 3)",
-    "Sgarbossa Criterion 3: Discordant ST elevation ≥5mm (score 2) — less specific",
+    "Sgarbossa Criterion 3: Discordant ST elevation ≥5mm (score 2) - less specific",
     "Modified Sgarbossa: ratio of ST deviation to S wave amplitude >0.25 in any lead"
   ],
   "measurements": {
@@ -20,21 +20,21 @@
     "qrsDuration": ">120ms (LBBB)",
     "qtInterval": "Not reliably measurable",
     "axis": "Left (LBBB)",
-    "stSegment": "Concordant changes — see Sgarbossa criteria"
+    "stSegment": "Concordant changes - see Sgarbossa criteria"
   },
   "management": [
-    "Treat as STEMI — activate cath lab if Sgarbossa criteria met",
+    "Treat as STEMI - activate cath lab if Sgarbossa criteria met",
     "Aspirin 300mg PO",
     "Do NOT dismiss wide-complex tachycardia without considering STEMI + LBBB",
     "Analgesia",
-    "Urgent evacuation — door-to-balloon <90 minutes",
+    "Urgent evacuation - door-to-balloon <90 minutes",
     "Old LBBB vs new LBBB: treat as new unless prior ECG confirms LBBB pre-dates symptoms"
   ],
   "pearls": [
     "New LBBB + chest pain = treat as STEMI until proven otherwise (Sgarbossa or not)",
     "Modified Sgarbossa (Smith criteria) has higher sensitivity than original scoring",
     "Concordant = ST deflection in same direction as QRS terminal deflection",
-    "Discordant ST elevation in LBBB is normal (expected) — only worry about concordant or excessively discordant",
+    "Discordant ST elevation in LBBB is normal (expected) - only worry about concordant or excessively discordant",
     "Right bundle branch block does NOT mask ischaemia as reliably as LBBB"
   ],
   "differentials": [

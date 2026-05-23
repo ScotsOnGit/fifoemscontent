@@ -6,9 +6,9 @@
   "category": "ventricular",
   "actionLabel": "SHOCK",
   "identifyBy": [
-    "Regular wide-complex tachycardia — rate 100–250 bpm",
+    "Regular wide-complex tachycardia - rate 100–250 bpm",
     "QRS duration >120ms, monomorphic (uniform shape)",
-    "No palpable pulse — distinguishes from VT with pulse",
+    "No palpable pulse - distinguishes from VT with pulse",
     "AV dissociation: P waves dissociated from QRS (if visible)",
     "Fusion beats or capture beats may be present"
   ],
@@ -23,7 +23,7 @@
     "stSegment": null
   },
   "management": [
-    "Confirm pulseless — no carotid pulse for 10 seconds",
+    "Confirm pulseless - no carotid pulse for 10 seconds",
     "Begin CPR immediately",
     "Defibrillate 200J biphasic as soon as available",
     "Continue CPR 2 minutes post-shock",
@@ -32,10 +32,10 @@
     "Reassess rhythm and pulse every 2 minutes"
   ],
   "pearls": [
-    "Cannot distinguish from VF clinically — treat the same if pulseless",
+    "Cannot distinguish from VF clinically - treat the same if pulseless",
     "If organised rhythm returns, check pulse immediately",
     "Adenosine contraindicated in wide-complex tachycardia",
-    "Polymorphic VT: consider Torsades — magnesium 2g IV"
+    "Polymorphic VT: consider Torsades - magnesium 2g IV"
   ],
   "differentials": [
     "SVT with aberrant conduction",

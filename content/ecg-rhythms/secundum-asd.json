@@ -6,18 +6,18 @@
   "category": "structural",
   "actionLabel": null,
   "identifyBy": [
-    "rSr' pattern in V1 — small r, S, small narrow r' (like incomplete RBBB but smaller r')",
-    "QRS duration normal to mildly prolonged (<120ms — incomplete RBBB pattern)",
+    "rSr' pattern in V1 - small r, S, small narrow r' (like incomplete RBBB but smaller r')",
+    "QRS duration normal to mildly prolonged (<120ms - incomplete RBBB pattern)",
     "Right axis deviation",
     "Right ventricular volume overload pattern",
-    "QRS duration usually <120ms (incomplete RBBB) — distinguishes from full RBBB"
+    "QRS duration usually <120ms (incomplete RBBB) - distinguishes from full RBBB"
   ],
   "measurements": {
     "rate": "60–90 bpm",
     "rhythm": "Regular (or AF in older patients with longstanding ASD)",
     "pWaves": "Normal or P-pulmonale if significant shunting",
     "prInterval": "Normal (or prolonged)",
-    "qrsDuration": "100–120ms (incomplete RBBB — rSr' V1)",
+    "qrsDuration": "100–120ms (incomplete RBBB - rSr' V1)",
     "qtInterval": "Normal",
     "axis": "Right (+90° to +150°)",
     "stSegment": "Normal"
@@ -32,18 +32,18 @@
     "Eisenmenger syndrome (reversal of shunt due to pulmonary HTN): closure contraindicated"
   ],
   "pearls": [
-    "The rSr' in ASD reflects right ventricular diastolic volume overload — broader RV activation pattern",
+    "The rSr' in ASD reflects right ventricular diastolic volume overload - broader RV activation pattern",
     "Unlike RBBB: the r' in ASD is small and narrow; the r' in RBBB is tall, broad, and slurred",
-    "Secundum ASD (most common): ostium secundum — closes with catheter device",
-    "Primum ASD: ostium primum — associated with AV septal defect, requires surgery; different ECG (left axis)",
-    "ASD in adults often presents with AF or gradual dyspnoea — ECG may show AF + RV changes",
-    "Down syndrome (Trisomy 21) has high prevalence of AV septal/primum ASD — different ECG pattern"
+    "Secundum ASD (most common): ostium secundum - closes with catheter device",
+    "Primum ASD: ostium primum - associated with AV septal defect, requires surgery; different ECG (left axis)",
+    "ASD in adults often presents with AF or gradual dyspnoea - ECG may show AF + RV changes",
+    "Down syndrome (Trisomy 21) has high prevalence of AV septal/primum ASD - different ECG pattern"
   ],
   "differentials": [
     "Incomplete RBBB (similar rSr' but broader r', right chest lead changes throughout V1–V3)",
     "Complete RBBB (QRS >120ms, slurred broad R')",
     "RV hypertrophy (tall R in V1, right axis, different cause)",
-    "Normal rSr' variant (small narrow r' in V1, no right axis, normal QRS — common benign variant in up to 3% of population)"
+    "Normal rSr' variant (small narrow r' in V1, no right axis, normal QRS - common benign variant in up to 3% of population)"
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],

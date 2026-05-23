@@ -1,6 +1,6 @@
 {
   "id": "stemi-posterior",
-  "name": "STEMI — Posterior",
+  "name": "STEMI - Posterior",
   "aliases": ["Posterior STEMI", "Posterior MI", "True Posterior MI", "V7-V9 STEMI"],
   "urgency": "urgent",
   "category": "stemi",
@@ -10,7 +10,7 @@
     "Direct confirmation: ST elevation ≥0.5mm in posterior leads V7–V9",
     "Often co-presents with inferior STEMI (RCA or LCx territory)",
     "Tall broad R wave in V1 ≥0.04s (equivalent to posterior Q wave)",
-    "Most commonly missed STEMI — requires posterior leads to confirm"
+    "Most commonly missed STEMI - requires posterior leads to confirm"
   ],
   "measurements": {
     "rate": "60–100 bpm",
@@ -23,16 +23,16 @@
     "stSegment": "Depression V1–V3 (mirror); Elevation V7–V9 (posterior leads)"
   },
   "management": [
-    "Standard 12-lead — look for ST depression + tall R in V1–V3",
+    "Standard 12-lead - look for ST depression + tall R in V1–V3",
     "Apply posterior leads V7–V9 if posterior STEMI suspected",
     "Aspirin 300mg PO",
-    "GTN with caution — assess for RV co-involvement",
+    "GTN with caution - assess for RV co-involvement",
     "Urgent evacuation",
     "Posterior STEMI has same reperfusion priority as anterior STEMI"
   ],
   "pearls": [
-    "The 'dominant R in V1' should trigger suspicion for posterior STEMI — this is a Q-wave equivalent",
-    "Posterior STEMI is the most commonly missed STEMI territory — always consider when V1–V3 show ST depression + tall R",
+    "The 'dominant R in V1' should trigger suspicion for posterior STEMI - this is a Q-wave equivalent",
+    "Posterior STEMI is the most commonly missed STEMI territory - always consider when V1–V3 show ST depression + tall R",
     "V7 is placed at the left posterior axillary line, V8 at left scapular tip, V9 at left paravertebral",
     "ST depression ≥0.5mm in V1–V3 + tall R wave = apply posterior leads immediately"
   ],

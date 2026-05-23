@@ -8,12 +8,12 @@
   "identifyBy": [
     "Wide ectopic QRS complexes at a mathematically fixed rate (parasystolic rate)",
     "Inter-ectopic intervals are multiples of the shortest inter-ectopic interval",
-    "Fusion beats — hybrid QRS when sinus and ventricular impulse coincide",
+    "Fusion beats - hybrid QRS when sinus and ventricular impulse coincide",
     "Variable coupling interval (unlike fixed-coupling PVCs)",
-    "Protected focus — entrance block prevents sinus resetting of ventricular focus"
+    "Protected focus - entrance block prevents sinus resetting of ventricular focus"
   ],
   "measurements": {
-    "rate": "Variable — sinus rhythm plus independent ventricular rate",
+    "rate": "Variable - sinus rhythm plus independent ventricular rate",
     "rhythm": "Irregular (two competing rhythms)",
     "pWaves": "Normal sinus P waves",
     "prInterval": "Normal for sinus beats",
@@ -23,17 +23,17 @@
     "stSegment": "Normal (sinus)"
   },
   "management": [
-    "Usually benign if structurally normal heart — no treatment required",
+    "Usually benign if structurally normal heart - no treatment required",
     "Distinguish from fixed-coupling PVCs (different mechanism, different implications)",
     "Cardiology review if symptomatic or high burden",
     "Treat underlying disease if cardiomyopathy or ischaemia present"
   ],
   "pearls": [
-    "Parasystole = independent protected pacemaker in the ventricle — protected by entrance block (sinus cannot reset it)",
+    "Parasystole = independent protected pacemaker in the ventricle - protected by entrance block (sinus cannot reset it)",
     "Key feature: variable coupling interval (distance from preceding sinus beat to ectopic varies)",
     "The parasystolic rate can be calculated: all inter-ectopic intervals are multiples of the basic rate",
-    "Fusion beats (hybrid morphology) are common — QRS is intermediate between sinus and ectopic",
-    "Uncommon and often unrecognised — requires careful measurement of inter-ectopic intervals"
+    "Fusion beats (hybrid morphology) are common - QRS is intermediate between sinus and ectopic",
+    "Uncommon and often unrecognised - requires careful measurement of inter-ectopic intervals"
   ],
   "differentials": [
     "Fixed-coupling PVCs (constant coupling interval)",

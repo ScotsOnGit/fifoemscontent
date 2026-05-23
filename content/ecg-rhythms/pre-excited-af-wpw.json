@@ -1,6 +1,6 @@
 {
   "id": "pre-excited-af-wpw",
-  "name": "Pre-excited AF — WPW + Atrial Fibrillation",
+  "name": "Pre-excited AF - WPW + Atrial Fibrillation",
   "aliases": ["WPW with AF", "Pre-excited AF", "Antidromic AF", "WPW atrial fibrillation", "Accessory pathway AF"],
   "urgency": "urgent",
   "category": "supraventricular",
@@ -9,13 +9,13 @@
     "Irregular wide-complex tachycardia at very high rate (>200 bpm)",
     "Grossly irregular RR intervals (irregular irregularity)",
     "Wide bizarre QRS complexes (delta wave + accessory pathway conduction)",
-    "Rate can exceed 300 bpm — ventricular fibrillation risk",
-    "ECG looks chaotic — often misidentified as VF or VT"
+    "Rate can exceed 300 bpm - ventricular fibrillation risk",
+    "ECG looks chaotic - often misidentified as VF or VT"
   ],
   "measurements": {
     "rate": "200–300 bpm (dangerously fast)",
     "rhythm": "Irregular (irregular irregularity)",
-    "pWaves": "Absent — AF",
+    "pWaves": "Absent - AF",
     "prInterval": "Not measurable",
     "qrsDuration": "Wide and variable (pre-excitation)",
     "qtInterval": "Not measurable",
@@ -25,13 +25,13 @@
   "management": [
     "If haemodynamically unstable: immediate synchronised DC cardioversion",
     "AVOID AV nodal blocking drugs: Adenosine CONTRAINDICATED, Verapamil CONTRAINDICATED, Digoxin CONTRAINDICATED",
-    "These drugs block the AV node, forcing all conduction down the accessory pathway at maximum rate — can precipitate VF",
+    "These drugs block the AV node, forcing all conduction down the accessory pathway at maximum rate - can precipitate VF",
     "Procainamide (preferred) or Flecainide may slow accessory pathway conduction",
     "If deteriorates to VF: defibrillate 200J unsynchronised"
   ],
   "pearls": [
-    "The most dangerous WPW presentation — AV nodal drugs are potentially fatal",
-    "If in doubt between this and VF: defibrillate — safe for both",
+    "The most dangerous WPW presentation - AV nodal drugs are potentially fatal",
+    "If in doubt between this and VF: defibrillate - safe for both",
     "Rate >250 bpm in irregular wide complex = pre-excited AF until proven otherwise",
     "The irregularity distinguishes pre-excited AF from VT (VT is usually regular)",
     "After conversion: definitive treatment is accessory pathway ablation"
@@ -39,7 +39,7 @@
   "differentials": [
     "VF (no QRS complexes visible)",
     "Polymorphic VT (different morphology, usually no delta waves)",
-    "AF with aberrant conduction (LBBB/RBBB — but rate <200 bpm usually)"
+    "AF with aberrant conduction (LBBB/RBBB - but rate <200 bpm usually)"
   ],
   "relatedGuidelineIDs": ["cardiac-arrhythmia"],
   "relatedCalculatorIDs": [],

@@ -7,7 +7,7 @@
   "actionLabel": null,
   "identifyBy": [
     "Left axis deviation (axis −45° to −90°)",
-    "QRS duration <120ms (narrow QRS — not a full BBB)",
+    "QRS duration <120ms (narrow QRS - not a full BBB)",
     "Small R, deep S in II, III, aVF (rS pattern inferior)",
     "Small Q, tall R in I, aVL (qR pattern lateral)",
     "No other cause of left axis deviation (e.g. not inferior MI, not WPW)"
@@ -25,15 +25,15 @@
   "management": [
     "LAFB alone: no treatment required",
     "Investigate for cause: hypertension, aortic valve disease, ischaemic heart disease, cardiomyopathy",
-    "LAFB + RBBB = bifascicular block — monitor for progression to complete heart block",
-    "Trifascicular block (bifascicular + 1° AV block): cardiology referral — pacemaker consideration"
+    "LAFB + RBBB = bifascicular block - monitor for progression to complete heart block",
+    "Trifascicular block (bifascicular + 1° AV block): cardiology referral - pacemaker consideration"
   ],
   "pearls": [
-    "LAFB is the most common fascicular block — present in 4% of ECGs",
+    "LAFB is the most common fascicular block - present in 4% of ECGs",
     "Left axis deviation has many causes: LAFB, inferior MI, WPW, hyperkalaemia, LV pacing",
     "The left bundle has 2 fascicles: anterior (LAFB → left axis) and posterior (LPFB → right axis)",
-    "LAFB does not prolong QRS significantly — unlike full BBB",
-    "In the context of anterior MI, LAFB may indicate periinfarction block — worse prognosis"
+    "LAFB does not prolong QRS significantly - unlike full BBB",
+    "In the context of anterior MI, LAFB may indicate periinfarction block - worse prognosis"
   ],
   "differentials": [
     "Inferior MI (left axis with Q waves in II, III, aVF)",

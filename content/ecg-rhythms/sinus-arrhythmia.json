@@ -9,13 +9,13 @@
     "Irregular rhythm with normal P waves preceding every QRS",
     "Rate increases with inspiration, decreases with expiration",
     "P-P interval variation >10% (or >0.16s)",
-    "All P waves identical morphology — confirms sinus origin",
-    "Common in children, young adults, athletes — generally benign"
+    "All P waves identical morphology - confirms sinus origin",
+    "Common in children, young adults, athletes - generally benign"
   ],
   "measurements": {
     "rate": "60–100 bpm (variable)",
     "rhythm": "Irregular (respiratory variation)",
-    "pWaves": "Upright II — identical morphology",
+    "pWaves": "Upright II - identical morphology",
     "prInterval": "Constant 120–200ms",
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
@@ -23,15 +23,15 @@
     "stSegment": "Normal"
   },
   "management": [
-    "No intervention required — benign normal variant",
+    "No intervention required - benign normal variant",
     "Reassure patient",
     "Common in young, fit individuals and athletes"
   ],
   "pearls": [
-    "Sinus arrhythmia is a sign of good autonomic tone — more pronounced in athletes and children",
+    "Sinus arrhythmia is a sign of good autonomic tone - more pronounced in athletes and children",
     "Distinguished from AF by identical P wave morphology preceding every QRS",
-    "Non-respiratory sinus arrhythmia (unrelated to breathing) may indicate sinus node disease — investigate if symptomatic",
-    "Pronounced in bradycardic patients — may look irregular at rest"
+    "Non-respiratory sinus arrhythmia (unrelated to breathing) may indicate sinus node disease - investigate if symptomatic",
+    "Pronounced in bradycardic patients - may look irregular at rest"
   ],
   "differentials": [
     "Atrial fibrillation (no P waves, irregularly irregular)",

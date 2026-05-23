@@ -7,13 +7,13 @@
   "actionLabel": "EVACUATE",
   "identifyBy": [
     "Progressive ECG changes as K+ rises: peaked T → wide QRS → PR prolongation → P wave flattening → sine wave",
-    "Sine wave pattern (sinusoidal QRS-T morphology) = pre-terminal — immediate risk of arrest",
+    "Sine wave pattern (sinusoidal QRS-T morphology) = pre-terminal - immediate risk of arrest",
     "No discernible P waves when severely elevated (>7.0 mmol/L)",
     "QRS duration >200ms in severe cases",
     "Often associated with renal failure, DKA, crush injury, rhabdomyolysis"
   ],
   "measurements": {
-    "rate": "Variable — may be bradycardic",
+    "rate": "Variable - may be bradycardic",
     "rhythm": "Regular or deteriorating",
     "pWaves": "Absent or flattened (severe)",
     "prInterval": "Prolonged or absent",
@@ -23,26 +23,26 @@
     "stSegment": "Merges with T wave in sine wave pattern"
   },
   "management": [
-    "Calcium gluconate 10mL 10% IV over 2–5 minutes — membrane stabilisation (acts in 1–2 min)",
-    "Sodium bicarbonate 8.4% 50mL IV — shifts K+ intracellularly (metabolic acidosis)",
-    "Salbutamol 10–20mg nebulised — beta-2 mediated K+ shift into cells",
-    "Dextrose/Insulin (if available) — insulin drives K+ into cells",
+    "Calcium gluconate 10mL 10% IV over 2–5 minutes - membrane stabilisation (acts in 1–2 min)",
+    "Sodium bicarbonate 8.4% 50mL IV - shifts K+ intracellularly (metabolic acidosis)",
+    "Salbutamol 10–20mg nebulised - beta-2 mediated K+ shift into cells",
+    "Dextrose/Insulin (if available) - insulin drives K+ into cells",
     "Urgent evacuation for dialysis if renal failure",
     "If arrest occurs: treat cause alongside standard ALS"
   ],
   "pearls": [
-    "Calcium gluconate does NOT lower serum K+ — it stabilises the cardiac membrane to buy time",
-    "The ECG changes correlate imperfectly with K+ level — always treat the ECG, not just the number",
+    "Calcium gluconate does NOT lower serum K+ - it stabilises the cardiac membrane to buy time",
+    "The ECG changes correlate imperfectly with K+ level - always treat the ECG, not just the number",
     "Sine wave pattern + no pulse = treat as PEA (reversible cause: H = hyperkalaemia)",
-    "Pseudo-hyperkalaemia: haemolysed sample — repeat before treating if patient clinically stable",
-    "ECG may normalise rapidly with treatment — repeat ECG every 30 minutes after interventions"
+    "Pseudo-hyperkalaemia: haemolysed sample - repeat before treating if patient clinically stable",
+    "ECG may normalise rapidly with treatment - repeat ECG every 30 minutes after interventions"
   ],
   "differentials": [
     "LBBB (wide QRS)",
     "Complete heart block",
     "Pulseless VT",
     "Ventricular escape rhythm",
-    "Drug toxicity (sodium channel blockers — e.g. TCA overdose)"
+    "Drug toxicity (sodium channel blockers - e.g. TCA overdose)"
   ],
   "relatedGuidelineIDs": ["hyperkalaemia"],
   "relatedCalculatorIDs": [],

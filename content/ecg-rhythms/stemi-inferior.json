@@ -1,6 +1,6 @@
 {
   "id": "stemi-inferior",
-  "name": "STEMI — Inferior",
+  "name": "STEMI - Inferior",
   "aliases": ["Inferior STEMI", "RCA STEMI", "Inferior MI", "Inferoposterior MI"],
   "urgency": "urgent",
   "category": "stemi",
@@ -10,10 +10,10 @@
     "Reciprocal ST depression in I and aVL (mirror image)",
     "ST elevation greater in lead III than II suggests RCA occlusion",
     "ST elevation greater in lead II than III suggests LCx occlusion",
-    "Check right-sided leads (V3R–V6R) — RV infarct present in up to 50%"
+    "Check right-sided leads (V3R–V6R) - RV infarct present in up to 50%"
   ],
   "measurements": {
-    "rate": "May be bradycardic (vagal tone — 'Bezold-Jarisch reflex')",
+    "rate": "May be bradycardic (vagal tone - 'Bezold-Jarisch reflex')",
     "rhythm": "Regular or Sinus Bradycardia",
     "pWaves": "Normal",
     "prInterval": "May be prolonged (AV node ischaemia)",
@@ -23,26 +23,26 @@
     "stSegment": "Elevation II, III, aVF; Depression I, aVL (reciprocal)"
   },
   "management": [
-    "12-lead ECG — confirm ≥1mm ST elevation in II, III, aVF",
-    "Obtain right-sided ECG (V3R–V6R) — critical to exclude RV infarct",
+    "12-lead ECG - confirm ≥1mm ST elevation in II, III, aVF",
+    "Obtain right-sided ECG (V3R–V6R) - critical to exclude RV infarct",
     "Aspirin 300mg PO (chew)",
-    "GTN — USE WITH EXTREME CAUTION if RV infarct suspected (will cause profound hypotension)",
+    "GTN - USE WITH EXTREME CAUTION if RV infarct suspected (will cause profound hypotension)",
     "IV fluid bolus 250–500mL if hypotensive with RV infarct",
     "Morphine or Fentanyl for pain",
     "Atropine 0.6mg IV if symptomatic bradycardia/hypotension",
-    "Urgent evacuation — PCI target <90 minutes"
+    "Urgent evacuation - PCI target <90 minutes"
   ],
   "pearls": [
-    "GTN is CONTRAINDICATED in RV infarction — the right ventricle is preload-dependent; GTN drops preload and causes circulatory collapse",
-    "Bezold-Jarisch reflex: inferior STEMI → vagal surge → bradycardia + hypotension + diaphoresis — treat with atropine and IV fluids",
-    "AV blocks (1°, 2° Mobitz I, even 3°) are common in inferior STEMI due to AV node ischaemia — usually transient",
-    "Posterior extension (tall R in V1–V2, ST depression) indicates larger territory — higher risk",
+    "GTN is CONTRAINDICATED in RV infarction - the right ventricle is preload-dependent; GTN drops preload and causes circulatory collapse",
+    "Bezold-Jarisch reflex: inferior STEMI → vagal surge → bradycardia + hypotension + diaphoresis - treat with atropine and IV fluids",
+    "AV blocks (1°, 2° Mobitz I, even 3°) are common in inferior STEMI due to AV node ischaemia - usually transient",
+    "Posterior extension (tall R in V1–V2, ST depression) indicates larger territory - higher risk",
     "New complete heart block in inferior STEMI: pace if haemodynamically unstable"
   ],
   "differentials": [
     "Pericarditis (diffuse, not lead-specific)",
     "Early repolarisation",
-    "Posterior STEMI (reciprocal changes — check V7–V9)",
+    "Posterior STEMI (reciprocal changes - check V7–V9)",
     "Pulmonary embolism (right heart strain pattern)"
   ],
   "relatedGuidelineIDs": ["acute-coronary-syndrome"],

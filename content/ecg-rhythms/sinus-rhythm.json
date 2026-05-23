@@ -7,7 +7,7 @@
   "actionLabel": null,
   "identifyBy": [
     "Regular rhythm at 60–100 bpm",
-    "Upright P waves in leads I, II, aVF — precede every QRS",
+    "Upright P waves in leads I, II, aVF - precede every QRS",
     "Constant PR interval 120–200ms",
     "P wave axis 0–75° (upright I and II, inverted aVR)",
     "QRS narrow (<120ms) unless BBB present"
@@ -28,8 +28,8 @@
     "Reassess if clinical symptoms develop"
   ],
   "pearls": [
-    "Sinus rhythm does not exclude acute pathology — always interpret ECG in clinical context",
-    "P wave morphology (upright II, inverted aVR) confirms sinus origin — differentiates from ectopic atrial rhythm",
+    "Sinus rhythm does not exclude acute pathology - always interpret ECG in clinical context",
+    "P wave morphology (upright II, inverted aVR) confirms sinus origin - differentiates from ectopic atrial rhythm",
     "PR interval >200ms in sinus rhythm = first-degree AV block",
     "Slight rate variation with respiration is normal (sinus arrhythmia)"
   ],

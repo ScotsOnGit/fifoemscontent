@@ -1,14 +1,14 @@
 {
   "id": "ventricular-tachycardia-stable",
-  "name": "VT with Pulse — Stable (Monomorphic)",
+  "name": "VT with Pulse - Stable (Monomorphic)",
   "aliases": ["Stable VT", "Monomorphic VT", "VT with pulse", "Slow VT stable"],
   "urgency": "recognition",
   "category": "ventricular",
   "actionLabel": null,
   "identifyBy": [
-    "Regular wide complex tachycardia — rate 100–250 bpm",
+    "Regular wide complex tachycardia - rate 100–250 bpm",
     "QRS duration >120ms, uniform morphology (monomorphic)",
-    "Pulse IS present — haemodynamically stable",
+    "Pulse IS present - haemodynamically stable",
     "AV dissociation: P waves dissociated from QRS (if visible)",
     "Fusion beats or capture beats confirm ventricular origin"
   ],
@@ -23,23 +23,23 @@
     "stSegment": "Discordant"
   },
   "management": [
-    "Confirm haemodynamic stability — BP, mental state, any instability → immediate cardioversion",
+    "Confirm haemodynamic stability - BP, mental state, any instability → immediate cardioversion",
     "Amiodarone 150mg IV over 10 minutes, then 1mg/min infusion (preferred)",
     "Alternative: Procainamide 10–15mg/kg IV at 20–50mg/min",
     "If deteriorates: synchronised DC cardioversion",
     "Investigate and correct reversible causes: electrolytes, ischaemia",
-    "All VT requires cardiology follow-up — ICD evaluation"
+    "All VT requires cardiology follow-up - ICD evaluation"
   ],
   "pearls": [
     "All wide complex tachycardia should be treated as VT until proven otherwise",
-    "Haemodynamic stability does NOT mean the rhythm is SVT — stable VT is common",
+    "Haemodynamic stability does NOT mean the rhythm is SVT - stable VT is common",
     "Brugada criteria, Vereckei algorithm: systematic tools to confirm ventricular origin",
     "Lidocaine: second-line; less effective than amiodarone for sustained VT",
     "After successful cardioversion: oral antiarrhythmic bridge to EP study/ICD"
   ],
   "differentials": [
     "SVT with aberrant conduction (narrow becomes wide)",
-    "Pre-excited tachycardia (WPW — antidromic)",
+    "Pre-excited tachycardia (WPW - antidromic)",
     "Pacemaker-mediated tachycardia",
     "Hyperkalaemia (wide complex, slower)"
   ],

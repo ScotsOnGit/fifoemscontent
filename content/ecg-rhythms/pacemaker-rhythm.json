@@ -6,10 +6,10 @@
   "category": "other",
   "actionLabel": null,
   "identifyBy": [
-    "Pacing spike immediately before the QRS (ventricular pacing) — sharp vertical deflection",
-    "Wide QRS ≥120ms following each spike — LBBB morphology if RV apex pacing",
+    "Pacing spike immediately before the QRS (ventricular pacing) - sharp vertical deflection",
+    "Wide QRS ≥120ms following each spike - LBBB morphology if RV apex pacing",
     "Atrial pacing spike before P wave (if dual-chamber)",
-    "Fixed rate or demand mode — spikes appear when rate drops below set rate",
+    "Fixed rate or demand mode - spikes appear when rate drops below set rate",
     "Paced QRS: discordant ST-T changes expected (LBBB pattern)"
   ],
   "measurements": {
@@ -26,16 +26,16 @@
     "Pacemaker rhythm itself: no intervention needed",
     "Pacemaker malfunction: failure to pace (no spike), failure to capture (spike without QRS), failure to sense (inappropriate firing)",
     "Check pacemaker settings and battery",
-    "Magnet application: converts to fixed rate — confirms capture in demand pacemakers",
+    "Magnet application: converts to fixed rate - confirms capture in demand pacemakers",
     "Cardiology referral for any pacemaker dysfunction",
-    "ICD: similar appearance but also delivers shocks — check patient's device card"
+    "ICD: similar appearance but also delivers shocks - check patient's device card"
   ],
   "pearls": [
-    "Sgarbossa criteria apply to paced rhythms just as to LBBB — concordant ST elevation in paced rhythm = possible STEMI",
+    "Sgarbossa criteria apply to paced rhythms just as to LBBB - concordant ST elevation in paced rhythm = possible STEMI",
     "Pacemaker malfunction types: failure to pace, failure to capture, failure to sense, oversensing",
-    "Twiddler's syndrome: patient manipulation of pacemaker rotates leads — loss of capture",
-    "Rate-responsive pacemakers: increase rate with activity — not pacemaker malfunction if rate rises with exertion",
-    "Pacemaker-mediated tachycardia (PMT): endless loop tachycardia in dual-chamber devices — magnet breaks the loop"
+    "Twiddler's syndrome: patient manipulation of pacemaker rotates leads - loss of capture",
+    "Rate-responsive pacemakers: increase rate with activity - not pacemaker malfunction if rate rises with exertion",
+    "Pacemaker-mediated tachycardia (PMT): endless loop tachycardia in dual-chamber devices - magnet breaks the loop"
   ],
   "differentials": [
     "LBBB (no pacing spikes)",

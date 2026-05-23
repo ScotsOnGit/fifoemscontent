@@ -6,7 +6,7 @@
   "category": "other",
   "actionLabel": "CPR",
   "identifyBy": [
-    "Flat or near-flat baseline — no electrical activity",
+    "Flat or near-flat baseline - no electrical activity",
     "Confirm in ≥2 leads to exclude fine VF or cable disconnection",
     "No QRS complexes, no P waves",
     "Occasional P waves may be visible (P-wave asystole)"
@@ -22,15 +22,15 @@
     "stSegment": null
   },
   "management": [
-    "Confirm in 2 leads — fine VF may mimic asystole",
+    "Confirm in 2 leads - fine VF may mimic asystole",
     "Check lead connections and gain settings",
-    "Begin CPR immediately — 30:2",
+    "Begin CPR immediately - 30:2",
     "Adrenaline 1mg IV/IO every 3–5 minutes",
     "Identify and treat reversible causes (4Hs and 4Ts)",
     "Do not defibrillate asystole"
   ],
   "pearls": [
-    "Do NOT defibrillate asystole — it will not restart the heart",
+    "Do NOT defibrillate asystole - it will not restart the heart",
     "4Hs: Hypoxia, Hypovolaemia, Hypo/Hyperkalaemia, Hypothermia",
     "4Ts: Tension pneumothorax, Tamponade, Toxins, Thrombosis",
     "P-wave asystole may respond to pacing"

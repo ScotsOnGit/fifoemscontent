@@ -7,10 +7,10 @@
   "actionLabel": null,
   "identifyBy": [
     "P wave duration ≥120ms (broad, similar to P-mitrale but different mechanism)",
-    "Biphasic P wave morphology in inferior leads (positive then negative) — advanced IAB (Bayes criterion)",
+    "Biphasic P wave morphology in inferior leads (positive then negative) - advanced IAB (Bayes criterion)",
     "P wave changes throughout leads as interatrial conduction timing is altered",
     "First degree IAB: P wave duration ≥120ms only (similar to P-mitrale)",
-    "Advanced IAB: P wave biphasic in inferior leads (positive-negative) — much higher AF risk"
+    "Advanced IAB: P wave biphasic in inferior leads (positive-negative) - much higher AF risk"
   ],
   "measurements": {
     "rate": "60–90 bpm",
@@ -25,17 +25,17 @@
   "management": [
     "Bachmann bundle block itself does not require direct treatment",
     "Advanced IAB (biphasic P in inferior leads): strong predictor of AF and cardioembolic stroke",
-    "Bayes syndrome: advanced IAB + AF history = high stroke risk — cardiology referral for anticoagulation decision",
+    "Bayes syndrome: advanced IAB + AF history = high stroke risk - cardiology referral for anticoagulation decision",
     "Screen for: LV dysfunction, LA enlargement, ischaemic heart disease (common associations)",
     "Echocardiogram: assess LA size and LV function",
     "Holter monitoring: AF detection if symptomatic (palpitations, unexplained stroke)"
   ],
   "pearls": [
-    "Bachmann's bundle is the principal interatrial conduction pathway — connects right to left atrium",
+    "Bachmann's bundle is the principal interatrial conduction pathway - connects right to left atrium",
     "Advanced IAB (biphasic P inferior leads) is associated with AF, stroke, and atrial cardiomyopathy",
     "Bayes syndrome = advanced IAB + history of AF → high stroke risk even if currently in sinus rhythm",
     "Distinguishing P-mitrale from Bachmann block: P-mitrale has bifid/notched P in II but positive throughout; IAB has biphasic (pos-neg) P in inferior leads",
-    "P-wave duration ≥120ms is the ECG hallmark of BOTH P-mitrale and IAB — lead V1 pattern and clinical context differentiate"
+    "P-wave duration ≥120ms is the ECG hallmark of BOTH P-mitrale and IAB - lead V1 pattern and clinical context differentiate"
   ],
   "differentials": [
     "P-mitrale (broad bifid P, positive throughout inferior leads, mitral valve disease)",

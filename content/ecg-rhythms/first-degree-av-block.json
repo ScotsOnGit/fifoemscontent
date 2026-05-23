@@ -1,6 +1,6 @@
 {
   "id": "first-degree-av-block",
-  "name": "1° AV Block — First-Degree AV Block",
+  "name": "1° AV Block - First-Degree AV Block",
   "aliases": ["First Degree AV Block", "1° AV Block", "PR prolongation", "Long PR interval"],
   "urgency": "recognition",
   "category": "blocks",
@@ -8,14 +8,14 @@
   "identifyBy": [
     "PR interval >200ms (>5 small squares) in every beat",
     "Every P wave is followed by a QRS (1:1 conduction)",
-    "Constant PR interval — does not vary",
+    "Constant PR interval - does not vary",
     "QRS narrow unless associated BBB",
     "Most common AV conduction abnormality"
   ],
   "measurements": {
     "rate": "Normal 60–100 bpm",
     "rhythm": "Regular",
-    "pWaves": "Normal — every P followed by QRS",
+    "pWaves": "Normal - every P followed by QRS",
     "prInterval": ">200ms (prolonged but constant)",
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
@@ -25,16 +25,16 @@
   "management": [
     "First degree AV block alone requires no acute treatment",
     "Identify cause: medications (digoxin, beta-blockers, calcium channel blockers), inferior MI, myocarditis, Lyme disease",
-    "Monitor — may progress to higher-degree block in acute inferior MI",
+    "Monitor - may progress to higher-degree block in acute inferior MI",
     "Stop causative drugs if symptomatic or PR >300ms",
     "Pacing not indicated for 1° AV block alone"
   ],
   "pearls": [
-    "1° AV block is not a 'block' in the true sense — all impulses conduct, just slowly",
-    "PR >300ms: very long — P wave may merge with preceding T wave; may cause symptoms (pacemaker syndrome physiology)",
-    "Lyme carditis: 1° AV block is the most common cardiac manifestation — serological testing warranted",
+    "1° AV block is not a 'block' in the true sense - all impulses conduct, just slowly",
+    "PR >300ms: very long - P wave may merge with preceding T wave; may cause symptoms (pacemaker syndrome physiology)",
+    "Lyme carditis: 1° AV block is the most common cardiac manifestation - serological testing warranted",
     "1° AV block can be physiological in athletes due to high vagal tone",
-    "Progression to 2° or 3° block: important in inferior MI context — monitor closely"
+    "Progression to 2° or 3° block: important in inferior MI context - monitor closely"
   ],
   "differentials": [
     "Normal PR (120–200ms)",

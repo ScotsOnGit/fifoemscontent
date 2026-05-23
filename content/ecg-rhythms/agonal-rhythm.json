@@ -6,11 +6,11 @@
   "category": "ventricular",
   "actionLabel": "CPR",
   "identifyBy": [
-    "Very slow wide bizarre QRS complexes — rate <20 bpm",
+    "Very slow wide bizarre QRS complexes - rate <20 bpm",
     "No P waves",
     "Irregular timing of complexes",
     "Grossly abnormal QRS morphology",
-    "Terminal rhythm — precedes asystole"
+    "Terminal rhythm - precedes asystole"
   ],
   "measurements": {
     "rate": "<20 bpm",
@@ -24,10 +24,10 @@
   },
   "management": [
     "Begin CPR immediately",
-    "Treat as non-shockable arrest — do not defibrillate",
+    "Treat as non-shockable arrest - do not defibrillate",
     "Adrenaline 1mg IV/IO every 3–5 minutes",
     "Identify reversible causes (4Hs and 4Ts)",
-    "Confirm no pulse — agonal rhythm is incompatible with life"
+    "Confirm no pulse - agonal rhythm is incompatible with life"
   ],
   "pearls": [
     "Agonal rhythm is a pre-terminal pattern",

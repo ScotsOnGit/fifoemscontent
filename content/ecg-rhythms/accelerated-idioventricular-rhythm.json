@@ -10,7 +10,7 @@
     "AV dissociation or fusion beats common",
     "No P waves or dissociated P waves",
     "Regular or slightly irregular",
-    "Classic association: reperfusion after MI (good sign — 'reperfusion arrhythmia')"
+    "Classic association: reperfusion after MI (good sign - 'reperfusion arrhythmia')"
   ],
   "measurements": {
     "rate": "50–100 bpm",
@@ -23,18 +23,18 @@
     "stSegment": "Normal or mildly discordant"
   },
   "management": [
-    "Usually benign — no treatment required in most cases",
+    "Usually benign - no treatment required in most cases",
     "Monitor for degeneration to VT/VF",
     "Treat underlying cause if possible",
-    "Do NOT give antiarrhythmics routinely — may suppress the rhythm and cause asystole",
+    "Do NOT give antiarrhythmics routinely - may suppress the rhythm and cause asystole",
     "Atropine may suppress AIVR by increasing sinus rate to override ventricular focus"
   ],
   "pearls": [
-    "AIVR after thrombolysis or PCI = reperfusion arrhythmia — generally good prognostic sign",
+    "AIVR after thrombolysis or PCI = reperfusion arrhythmia - generally good prognostic sign",
     "Rate 'accelerated' compared to ventricular escape (20–40 bpm) but slower than VT (>100 bpm)",
     "Fusion beats (hybrid QRS) confirm AV dissociation and ventricular origin",
-    "Usually self-limiting — lasts minutes to hours during reperfusion phase",
-    "Distinguish from slow VT (same appearance — clinical context is key)"
+    "Usually self-limiting - lasts minutes to hours during reperfusion phase",
+    "Distinguish from slow VT (same appearance - clinical context is key)"
   ],
   "differentials": [
     "VT (rate >100 bpm)",

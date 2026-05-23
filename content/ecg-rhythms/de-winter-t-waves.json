@@ -10,7 +10,7 @@
     "Followed immediately by tall, symmetric, hyperacute T waves (positive)",
     "Absent or minimal ST elevation in V1–V6",
     "ST elevation in aVR (reciprocal pattern)",
-    "Pattern is static — does not evolve like classic STEMI (does not develop Q waves acutely)"
+    "Pattern is static - does not evolve like classic STEMI (does not develop Q waves acutely)"
   ],
   "measurements": {
     "rate": "60–100 bpm",
@@ -23,16 +23,16 @@
     "stSegment": "Upsloping depression 1–3mm V1–V6 + hyperacute T waves"
   },
   "management": [
-    "Treat as STEMI equivalent — activate cath lab immediately",
+    "Treat as STEMI equivalent - activate cath lab immediately",
     "Aspirin 300mg PO",
-    "Urgent evacuation — door-to-balloon target same as STEMI",
+    "Urgent evacuation - door-to-balloon target same as STEMI",
     "Analgesia",
     "This pattern indicates proximal LAD occlusion equivalent to anterior STEMI"
   ],
   "pearls": [
-    "De Winter T-waves are present in ~2% of acute LAD occlusions — easily missed because there is no classic ST elevation",
-    "The upsloping ST depression IS the key — it goes down at the J-point then T wave shoots up",
-    "Pattern may be present on the first ECG and does not evolve — serial ECGs may not show progression",
+    "De Winter T-waves are present in ~2% of acute LAD occlusions - easily missed because there is no classic ST elevation",
+    "The upsloping ST depression IS the key - it goes down at the J-point then T wave shoots up",
+    "Pattern may be present on the first ECG and does not evolve - serial ECGs may not show progression",
     "Reciprocal ST elevation in aVR is a supporting clue",
     "Reperfusion may convert De Winter pattern to typical anterior STEMI pattern"
   ],

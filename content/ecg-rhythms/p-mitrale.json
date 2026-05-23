@@ -9,13 +9,13 @@
     "P wave duration ≥120ms (prolonged, broad)",
     "Notched or bifid P wave shape ('two humps') in lead II",
     "Biphasic P wave in V1 with deep wide terminal negative component",
-    "P wave amplitude normal (<2.5mm) — it is broad, not tall",
+    "P wave amplitude normal (<2.5mm) - it is broad, not tall",
     "Most prominent in lead II and V1"
   ],
   "measurements": {
     "rate": "60–90 bpm",
     "rhythm": "Regular",
-    "pWaves": "Broad, notched ≥120ms — bifid in II; biphasic in V1",
+    "pWaves": "Broad, notched ≥120ms - bifid in II; biphasic in V1",
     "prInterval": "Normal to prolonged",
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
@@ -23,9 +23,9 @@
     "stSegment": "Normal"
   },
   "management": [
-    "P-mitrale = left atrial enlargement — treat the underlying cause",
+    "P-mitrale = left atrial enlargement - treat the underlying cause",
     "Common causes: mitral valve disease (stenosis, regurgitation), hypertension, cardiomyopathy, longstanding AF",
-    "AF risk: LAE is the strongest ECG predictor of AF — monitor and consider anticoagulation risk stratification",
+    "AF risk: LAE is the strongest ECG predictor of AF - monitor and consider anticoagulation risk stratification",
     "Echocardiogram: confirms LA size, mitral valve morphology and gradient",
     "Mitral stenosis: percutaneous balloon mitral valvotomy or surgical repair/replacement",
     "Anticoagulation: if AF develops (CHA2DS2-VASc score)"
@@ -35,7 +35,7 @@
     "The inter-atrial delay causes the bifid P: right atrium activates (first hump), then slow conduction to left atrium (second hump)",
     "V1 biphasic P: first positive deflection = right atrium, deep terminal negative = delayed LA activation",
     "Longstanding mitral stenosis: chronic LAE → AF → loss of P waves",
-    "The degree of LA enlargement on ECG does not reliably predict LA dimension — echo is required for quantification"
+    "The degree of LA enlargement on ECG does not reliably predict LA dimension - echo is required for quantification"
   ],
   "differentials": [
     "P-pulmonale (tall peaked narrow P vs broad notched)",

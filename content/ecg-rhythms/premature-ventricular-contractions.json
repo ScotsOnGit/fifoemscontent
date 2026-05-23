@@ -1,14 +1,14 @@
 {
   "id": "premature-ventricular-contractions",
-  "name": "PVC — Premature Ventricular Contractions",
+  "name": "PVC - Premature Ventricular Contractions",
   "aliases": ["PVC", "PVCs", "Ventricular Ectopic Beats", "VEB", "VPB", "Ventricular Premature Beat", "Ectopic ventricular beat"],
   "urgency": "recognition",
   "category": "ventricular",
   "actionLabel": null,
   "identifyBy": [
     "Early wide bizarre QRS (>120ms) without preceding P wave",
-    "Fully compensatory pause (sinus node not reset — unlike PACs)",
-    "T wave in opposite direction to QRS (discordant — secondary repolarisation change)",
+    "Fully compensatory pause (sinus node not reset - unlike PACs)",
+    "T wave in opposite direction to QRS (discordant - secondary repolarisation change)",
     "May occur in bigeminy (every alternate beat), trigeminy, or couplets (2 consecutive)",
     "Uniform morphology = unifocal; variable morphology = multifocal"
   ],
@@ -23,19 +23,19 @@
     "stSegment": "Discordant to QRS"
   },
   "management": [
-    "Isolated PVCs in structurally normal heart: reassure — benign",
+    "Isolated PVCs in structurally normal heart: reassure - benign",
     "Frequent PVCs (>10,000/day or >15% of beats): risk of PVC-induced cardiomyopathy if long-standing",
     "Echocardiogram if frequent to exclude structural disease",
     "Reduce triggers: caffeine, stress, electrolyte abnormalities, stimulants",
     "Beta-blockers for symptomatic PVCs; catheter ablation for refractory cases",
-    "R-on-T PVC: early PVC landing on T wave of preceding beat — can trigger VF"
+    "R-on-T PVC: early PVC landing on T wave of preceding beat - can trigger VF"
   ],
   "pearls": [
     "Compensatory pause: PVC occurs, P fires on time (buried in PVC), next sinus beat fires on time → RR interval surrounding PVC = 2x normal RR",
-    "PVC in cardiomyopathy is a high-risk finding — LVEF should be checked",
-    "Uniform (unifocal) PVCs originate from single focus; multifocal from multiple foci — higher risk",
+    "PVC in cardiomyopathy is a high-risk finding - LVEF should be checked",
+    "Uniform (unifocal) PVCs originate from single focus; multifocal from multiple foci - higher risk",
     "R-on-T phenomenon: PVC in the vulnerable period (on T wave) can trigger VF",
-    "PVC bigeminy may reduce effective heart rate by 50% — can cause symptoms"
+    "PVC bigeminy may reduce effective heart rate by 50% - can cause symptoms"
   ],
   "differentials": [
     "Aberrant PAC (wide QRS but non-compensatory pause, different P morphology)",

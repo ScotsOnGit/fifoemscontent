@@ -7,9 +7,9 @@
   "actionLabel": null,
   "identifyBy": [
     "PVC occurs between two normal sinus beats WITHOUT a compensatory pause",
-    "Both flanking sinus beats conduct normally — PVC is 'sandwiched'",
+    "Both flanking sinus beats conduct normally - PVC is 'sandwiched'",
     "PR interval of the beat AFTER the PVC may be slightly prolonged (retrograde concealed conduction)",
-    "Occurs at slower sinus rates — PVC 'fits' between beats without displacing them",
+    "Occurs at slower sinus rates - PVC 'fits' between beats without displacing them",
     "Rate must be slow enough to allow the PVC to occur without disrupting the next P wave"
   ],
   "measurements": {
@@ -23,15 +23,15 @@
     "stSegment": "Normal (sinus beats)"
   },
   "management": [
-    "As for standard PVCs — benign in structurally normal heart",
+    "As for standard PVCs - benign in structurally normal heart",
     "Monitor for frequency and symptoms",
     "No specific additional treatment beyond standard PVC management"
   ],
   "pearls": [
     "Interpolated PVCs occur when the sinus rate is slow enough to allow a PVC without displacing sinus rhythm",
-    "The slightly prolonged PR after the PVC is pathognomonic — retrograde conduction into the AV node causes transient refractoriness",
-    "Unlike standard PVCs: NO compensatory pause — sinus rhythm continues uninterrupted",
-    "May be missed if not looking carefully — only identified by the absence of the expected compensatory pause"
+    "The slightly prolonged PR after the PVC is pathognomonic - retrograde conduction into the AV node causes transient refractoriness",
+    "Unlike standard PVCs: NO compensatory pause - sinus rhythm continues uninterrupted",
+    "May be missed if not looking carefully - only identified by the absence of the expected compensatory pause"
   ],
   "differentials": [
     "Standard PVC (compensatory pause present)",

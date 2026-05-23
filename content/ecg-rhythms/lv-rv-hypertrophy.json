@@ -23,19 +23,19 @@
     "stSegment": "Depression with T inversion in V5–V6, I, aVL (lateral strain)"
   },
   "management": [
-    "LVH itself is not treated — it is a marker of underlying disease",
+    "LVH itself is not treated - it is a marker of underlying disease",
     "Treat the cause: hypertension (most common), aortic stenosis, hypertrophic cardiomyopathy, coarctation of aorta",
     "Antihypertensive therapy: ACEi/ARB shown to reverse LVH over time (most evidence)",
     "Screen for hypertrophic cardiomyopathy: echocardiogram is definitive",
-    "Stroke risk: LVH with HTN doubles stroke risk — aggressive BP control",
+    "Stroke risk: LVH with HTN doubles stroke risk - aggressive BP control",
     "Exercise restriction in hypertrophic cardiomyopathy with outflow obstruction or VT"
   ],
   "pearls": [
-    "LVH by voltage alone is a sensitive but non-specific finding — confirm with echo",
+    "LVH by voltage alone is a sensitive but non-specific finding - confirm with echo",
     "Strain pattern (ST/T changes) increases specificity for pathological LVH",
     "Cornell criteria (R aVL + S V3 >20mm women, >28mm men) less body-habitus dependent than Sokolow-Lyon",
     "Sokolow-Lyon false negatives: obese patients, LBBB, COPD (low voltage masks criteria)",
-    "LVH + LBBB: electrolyte and ischaemia changes are masked — echo is essential"
+    "LVH + LBBB: electrolyte and ischaemia changes are masked - echo is essential"
   ],
   "differentials": [
     "Normal high voltage in thin young patients (no strain pattern)",

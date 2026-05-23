@@ -1,24 +1,24 @@
 {
   "id": "avrt-orthodromic-wpw",
-  "name": "AVRT — Orthodromic (WPW)",
+  "name": "AVRT - Orthodromic (WPW)",
   "aliases": ["AVRT orthodromic", "Orthodromic AVRT", "WPW tachycardia narrow QRS", "WPW SVT"],
   "urgency": "recognition",
   "category": "supraventricular",
   "actionLabel": null,
   "identifyBy": [
-    "Narrow QRS tachycardia (no delta wave — AV node conducts antegrade)",
+    "Narrow QRS tachycardia (no delta wave - AV node conducts antegrade)",
     "Rate typically 150–250 bpm (most common 180–220 bpm)",
-    "Retrograde (inverted) P waves visible AFTER the QRS — short RP interval (RP' <70ms)",
-    "P waves negative in inferior leads (II, III, aVF) — retrograde atrial activation",
+    "Retrograde (inverted) P waves visible AFTER the QRS - short RP interval (RP' <70ms)",
+    "P waves negative in inferior leads (II, III, aVF) - retrograde atrial activation",
     "Distinguished from AVNRT: P wave visible AFTER QRS with RP' <70ms (in AVNRT, P is buried in or just at end of QRS)",
     "History of WPW (delta wave in sinus rhythm) or pre-excitation pattern on baseline ECG"
   ],
   "measurements": {
     "rate": "150–250 bpm (typically 180–220 bpm)",
     "rhythm": "Regular",
-    "pWaves": "Retrograde — inverted in II/III/aVF, visible just after QRS",
+    "pWaves": "Retrograde - inverted in II/III/aVF, visible just after QRS",
     "prInterval": "Short RP' <70ms (P after QRS); long P'R to next beat",
-    "qrsDuration": "<120ms (narrow — no delta wave)",
+    "qrsDuration": "<120ms (narrow - no delta wave)",
     "qtInterval": "Short (fast rate)",
     "axis": "Normal",
     "stSegment": "Normal to mild depression (rate-related)"
@@ -29,22 +29,22 @@
     "If adenosine fails: adenosine 12mg IV x1 repeat",
     "Verapamil 5–10mg IV (slow): alternative if adenosine unavailable; CONTRAINDICATED in pre-excited AF",
     "DC cardioversion: if haemodynamically unstable",
-    "Long-term: accessory pathway ablation (catheter ablation) — highly effective, curative",
+    "Long-term: accessory pathway ablation (catheter ablation) - highly effective, curative",
     "Refer cardiology: electrophysiology study (EPS) and ablation recommended for all symptomatic WPW"
   ],
   "pearls": [
-    "Orthodromic = AV node antegrade, accessory pathway retrograde — narrow QRS (no delta wave)",
-    "Antidromic (opposite) = accessory pathway antegrade, AV node retrograde — WIDE QRS with delta wave",
-    "AVRT vs AVNRT: RP' interval is key — AVRT has visible retrograde P after QRS; AVNRT hides P in QRS",
-    "Adenosine is SAFE in orthodromic AVRT — it terminates the reentry circuit via AV node block",
-    "DO NOT give adenosine/verapamil in PRE-EXCITED AF (very fast irregular wide QRS) — may cause VF",
-    "The accessory pathway in WPW can conduct in both directions — but most tachycardias are orthodromic (80–90%)"
+    "Orthodromic = AV node antegrade, accessory pathway retrograde - narrow QRS (no delta wave)",
+    "Antidromic (opposite) = accessory pathway antegrade, AV node retrograde - WIDE QRS with delta wave",
+    "AVRT vs AVNRT: RP' interval is key - AVRT has visible retrograde P after QRS; AVNRT hides P in QRS",
+    "Adenosine is SAFE in orthodromic AVRT - it terminates the reentry circuit via AV node block",
+    "DO NOT give adenosine/verapamil in PRE-EXCITED AF (very fast irregular wide QRS) - may cause VF",
+    "The accessory pathway in WPW can conduct in both directions - but most tachycardias are orthodromic (80–90%)"
   ],
   "differentials": [
-    "AVNRT (P wave buried in or at terminal portion of QRS — shorter RP' and different P wave location)",
+    "AVNRT (P wave buried in or at terminal portion of QRS - shorter RP' and different P wave location)",
     "Sinus tachycardia (upright P waves, rate <150 bpm usually, gradual onset)",
     "Atrial flutter with 2:1 block (regular ~150bpm, sawtooth P waves in inferior leads)",
-    "Antidromic AVRT (wide QRS, delta wave visible — looks like VT)"
+    "Antidromic AVRT (wide QRS, delta wave visible - looks like VT)"
   ],
   "relatedGuidelineIDs": ["cardiac-arrhythmia"],
   "relatedCalculatorIDs": [],

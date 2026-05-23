@@ -1,6 +1,6 @@
 {
   "id": "stemi-septal",
-  "name": "STEMI — Septal",
+  "name": "STEMI - Septal",
   "aliases": ["Septal STEMI", "Septal MI", "V1-V2 STEMI"],
   "urgency": "urgent",
   "category": "stemi",
@@ -9,7 +9,7 @@
     "ST elevation ≥1mm in V1 and V2 (septal leads)",
     "May extend to involve anterior territory (V1–V4)",
     "Often associated with LBBB or RBBB (septal infarction disrupts conduction)",
-    "Reciprocal changes may be subtle — check inferior leads",
+    "Reciprocal changes may be subtle - check inferior leads",
     "Septal Q waves may develop (loss of septal depolarisation)"
   ],
   "measurements": {
@@ -17,24 +17,24 @@
     "rhythm": "Regular",
     "pWaves": "Normal",
     "prInterval": "May be prolonged or first-degree block",
-    "qrsDuration": "May widen (BBB) — often >120ms",
+    "qrsDuration": "May widen (BBB) - often >120ms",
     "qtInterval": "May be prolonged",
     "axis": "Variable",
     "stSegment": "Elevation V1–V2; may involve V3"
   },
   "management": [
-    "12-lead ECG — confirm V1–V2 ST elevation",
-    "Consider bundled STEMI protocol — septal MI has high conduction block risk",
+    "12-lead ECG - confirm V1–V2 ST elevation",
+    "Consider bundled STEMI protocol - septal MI has high conduction block risk",
     "Aspirin 300mg PO",
-    "Analgesia — Morphine or Fentanyl",
+    "Analgesia - Morphine or Fentanyl",
     "IV access, monitor for AV block and complete heart block",
     "Urgent evacuation",
-    "If complete heart block develops — transcutaneous pacing ready"
+    "If complete heart block develops - transcutaneous pacing ready"
   ],
   "pearls": [
-    "Septal STEMI frequently causes complete AV block — have pacing equipment ready",
+    "Septal STEMI frequently causes complete AV block - have pacing equipment ready",
     "New RBBB in the context of acute chest pain = possible septal infarction",
-    "Isolated V1–V2 ST elevation may represent posterior STEMI mirror — check V7–V9",
+    "Isolated V1–V2 ST elevation may represent posterior STEMI mirror - check V7–V9",
     "Septal infarcts often co-present with anterior infarcts (proximal LAD occlusion)"
   ],
   "differentials": [

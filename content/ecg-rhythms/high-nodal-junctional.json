@@ -9,13 +9,13 @@
     "Retrograde P wave BEFORE the QRS (short PR <120ms)",
     "P wave inverted in II, III, aVF (retrograde atrial activation)",
     "Rate 40–60 bpm (junctional escape) or 60–100 bpm (accelerated junctional)",
-    "Narrow QRS — normal ventricular conduction",
-    "Impulse originates high in AV node — activates atria slightly before ventricles"
+    "Narrow QRS - normal ventricular conduction",
+    "Impulse originates high in AV node - activates atria slightly before ventricles"
   ],
   "measurements": {
     "rate": "40–100 bpm",
     "rhythm": "Regular",
-    "pWaves": "Inverted in II, III, aVF — precede QRS",
+    "pWaves": "Inverted in II, III, aVF - precede QRS",
     "prInterval": "Short <120ms (inverted P before narrow QRS)",
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
@@ -23,7 +23,7 @@
     "stSegment": "Normal"
   },
   "management": [
-    "As for junctional rhythm — treat underlying cause",
+    "As for junctional rhythm - treat underlying cause",
     "Atropine if symptomatic bradycardia",
     "Assess for AV node disease, inferior MI, digoxin toxicity"
   ],
@@ -35,7 +35,7 @@
   ],
   "differentials": [
     "Sinus rhythm with short PR (WPW or LGL)",
-    "Accelerated junctional tachycardia (rate >60 bpm — AIT)"
+    "Accelerated junctional tachycardia (rate >60 bpm - AIT)"
   ],
   "relatedGuidelineIDs": ["cardiac-arrhythmia"],
   "relatedCalculatorIDs": [],

@@ -1,12 +1,12 @@
 {
   "id": "hyperkalaemia-moderate",
-  "name": "Hyperkalaemia — Moderate",
+  "name": "Hyperkalaemia - Moderate",
   "aliases": ["Moderate Hyperkalemia", "Peaked T waves", "Hyperkalaemia ECG", "Tall T waves"],
   "urgency": "findings",
   "category": "electrolyte",
   "actionLabel": null,
   "identifyBy": [
-    "Tall, narrow, peaked T waves ('tent-shaped') — symmetrical and sharply pointed",
+    "Tall, narrow, peaked T waves ('tent-shaped') - symmetrical and sharply pointed",
     "T wave amplitude often >6mm in precordial leads",
     "Short QT interval (early sign)",
     "P wave flattening (as K+ rises)",
@@ -23,26 +23,26 @@
     "stSegment": "Normal or slight changes"
   },
   "management": [
-    "Confirm with serum potassium — ECG changes appear at K+ 5.5–6.5 mmol/L (moderate)",
+    "Confirm with serum potassium - ECG changes appear at K+ 5.5–6.5 mmol/L (moderate)",
     "IV Calcium gluconate 10mL of 10% over 2–5 min: membrane stabilisation (does NOT lower K+)",
     "Insulin + glucose: 10 units actrapid in 50mL of 50% dextrose IV over 15–30 min (drives K+ into cells)",
     "Salbutamol nebuliser 10–20mg: additional cellular shift (additive to insulin)",
     "Consider sodium bicarbonate if acidotic (1–2 mmol/kg IV)",
-    "Definitive: dialysis, cation exchange resins (e.g. patiromer) — hospital definitive care",
+    "Definitive: dialysis, cation exchange resins (e.g. patiromer) - hospital definitive care",
     "Identify and treat cause: renal failure, ACEi/ARB, spironolactone, rhabdomyolysis, Addison's disease"
   ],
   "pearls": [
     "Progressive ECG changes: tall T → flat P → wide QRS → sine wave → VF/asystole",
-    "Calcium gluconate stabilises cardiac membranes within minutes — give FIRST if haemodynamically compromised",
-    "Pseudohyperkalaemia: haemolysed sample gives falsely elevated K+ — always recheck clinical correlation",
+    "Calcium gluconate stabilises cardiac membranes within minutes - give FIRST if haemodynamically compromised",
+    "Pseudohyperkalaemia: haemolysed sample gives falsely elevated K+ - always recheck clinical correlation",
     "Severe hyperkalaemia (K+ >6.5 mmol/L with wide QRS): treat as emergency regardless of symptoms",
-    "Hyperkalaemia + digoxin toxicity: DO NOT give calcium (may precipitate stone heart syndrome — IV calcium contraindicated in digoxin toxicity)"
+    "Hyperkalaemia + digoxin toxicity: DO NOT give calcium (may precipitate stone heart syndrome - IV calcium contraindicated in digoxin toxicity)"
   ],
   "differentials": [
-    "Severe hyperkalaemia (ECG is a spectrum — more changes = higher K+)",
+    "Severe hyperkalaemia (ECG is a spectrum - more changes = higher K+)",
     "Normal high T waves (in young patients, V2–V4 precordial, asymmetric)",
     "STEMI hyperacute T waves (asymmetric, with ST elevation)",
-    "De Winter T waves (upsloping ST depression with tall T — LAD equivalent)"
+    "De Winter T waves (upsloping ST depression with tall T - LAD equivalent)"
   ],
   "relatedGuidelineIDs": ["hyperkalaemia"],
   "relatedCalculatorIDs": [],

@@ -1,14 +1,14 @@
 {
   "id": "ventricular-tachycardia-unstable",
-  "name": "VT with Pulse — Unstable",
+  "name": "VT with Pulse - Unstable",
   "aliases": ["Unstable VT", "Haemodynamically Unstable VT", "VT with shock", "VT pulse present"],
   "urgency": "urgent",
   "category": "ventricular",
   "actionLabel": "SHOCK",
   "identifyBy": [
-    "Regular wide-complex tachycardia — rate 100–250 bpm",
+    "Regular wide-complex tachycardia - rate 100–250 bpm",
     "QRS duration >120ms, monomorphic (uniform shape beat-to-beat)",
-    "PULSE IS PRESENT — distinguishes from pulseless VT",
+    "PULSE IS PRESENT - distinguishes from pulseless VT",
     "Haemodynamic instability: hypotension, altered consciousness, chest pain, or acute pulmonary oedema",
     "AV dissociation, fusion beats, or capture beats confirm ventricular origin"
   ],
@@ -23,17 +23,17 @@
     "stSegment": "Discordant"
   },
   "management": [
-    "Confirm pulse present — if absent, treat as cardiac arrest (pulseless VT)",
+    "Confirm pulse present - if absent, treat as cardiac arrest (pulseless VT)",
     "If haemodynamically unstable: synchronised DC cardioversion 100–200J",
     "Ensure adequate sedation/analgesia before cardioversion if time allows",
     "Consider Amiodarone 300mg IV over 20–60 minutes if borderline stability",
-    "Prepare defibrillator — may deteriorate to pulseless VT or VF",
+    "Prepare defibrillator - may deteriorate to pulseless VT or VF",
     "Urgent evacuation after stabilisation"
   ],
   "pearls": [
-    "'Stable' VT is a dangerous misnomer — ALL VT is potentially life-threatening",
+    "'Stable' VT is a dangerous misnomer - ALL VT is potentially life-threatening",
     "Synchronised cardioversion is preferred over drugs when haemodynamically compromised",
-    "Adenosine is contraindicated — can precipitate VF if wrong diagnosis (pre-excited pathway)",
+    "Adenosine is contraindicated - can precipitate VF if wrong diagnosis (pre-excited pathway)",
     "Broad complex tachycardia with haemodynamic compromise = treat as VT first",
     "If uncertain: use the Brugada criteria or default to treatment for VT"
   ],

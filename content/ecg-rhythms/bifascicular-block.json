@@ -10,7 +10,7 @@
     "PLUS Left axis deviation −45° to −90° (LAFB component)",
     "QRS duration ≥120ms (RBBB)",
     "The combination blocks 2 of 3 fascicles of the conduction system",
-    "One fascicle (left posterior) still conducting — trifascicular block if PR also prolonged"
+    "One fascicle (left posterior) still conducting - trifascicular block if PR also prolonged"
   ],
   "measurements": {
     "rate": "Normal",
@@ -23,18 +23,18 @@
     "stSegment": "Discordant (RBBB pattern)"
   },
   "management": [
-    "Bifascicular block without symptoms: no urgent treatment — cardiology referral",
-    "With syncope or near-syncope: urgent evaluation — may require pacemaker",
-    "Trifascicular block (bifascicular + 1° AV block): high risk — pacemaker strongly considered",
-    "In acute anterior MI: bifascicular block suggests extensive damage — high mortality risk",
+    "Bifascicular block without symptoms: no urgent treatment - cardiology referral",
+    "With syncope or near-syncope: urgent evaluation - may require pacemaker",
+    "Trifascicular block (bifascicular + 1° AV block): high risk - pacemaker strongly considered",
+    "In acute anterior MI: bifascicular block suggests extensive damage - high mortality risk",
     "Intermittent 3° AV block causing syncope: permanent pacemaker"
   ],
   "pearls": [
     "Bifascicular block = 2/3 fascicles blocked; trifascicular = all 3 (permanent complete heart block)",
     "RBBB + LAFB is more common than RBBB + LPFB (LAFB more common than LPFB)",
     "In anterior MI, new bifascicular block indicates major conduction system damage",
-    "Syncope in bifascicular block must be investigated urgently — may be Stokes-Adams attack (intermittent complete heart block)",
-    "Electrophysiology study (EPS) can assess HV interval — prolonged HV (>70ms) = high risk"
+    "Syncope in bifascicular block must be investigated urgently - may be Stokes-Adams attack (intermittent complete heart block)",
+    "Electrophysiology study (EPS) can assess HV interval - prolonged HV (>70ms) = high risk"
   ],
   "differentials": [
     "RBBB alone (no left axis deviation)",

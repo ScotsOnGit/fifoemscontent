@@ -1,16 +1,16 @@
 {
   "id": "premature-junctional-contractions",
-  "name": "PJC — Premature Junctional Contractions",
+  "name": "PJC - Premature Junctional Contractions",
   "aliases": ["PJC", "PJCs", "Junctional Ectopic Beats", "Nodal Ectopic Beats", "AV nodal ectopics"],
   "urgency": "recognition",
   "category": "supraventricular",
   "actionLabel": null,
   "identifyBy": [
     "Early QRS with no preceding P wave OR retrograde (inverted) P wave in II/III/aVF",
-    "QRS narrow — normal ventricular conduction",
+    "QRS narrow - normal ventricular conduction",
     "Non-compensatory pause following the ectopic",
     "Usually followed by resumption of normal sinus rhythm",
-    "Less common than PACs — often asymptomatic"
+    "Less common than PACs - often asymptomatic"
   ],
   "measurements": {
     "rate": "Normal with ectopics",
@@ -23,17 +23,17 @@
     "stSegment": "Normal"
   },
   "management": [
-    "Isolated PJCs: benign — no treatment needed",
+    "Isolated PJCs: benign - no treatment needed",
     "Address triggers: digitalis toxicity is a classic cause",
     "Frequent PJCs: monitor, check digoxin levels if applicable",
     "Beta-blockers if symptomatic",
     "Consider echocardiogram to exclude structural disease"
   ],
   "pearls": [
-    "PJCs are much less common than PACs — when frequent, check for digoxin toxicity",
+    "PJCs are much less common than PACs - when frequent, check for digoxin toxicity",
     "Differentiation from PACs: no P wave or retrograde P in PJCs; abnormal P morphology in PACs",
     "Non-compensatory pause distinguishes ectopics from complete heart block",
-    "PJCs in narrow complex bigeminy: AV node has enhanced automaticity — classic with digoxin"
+    "PJCs in narrow complex bigeminy: AV node has enhanced automaticity - classic with digoxin"
   ],
   "differentials": [
     "PAC with very short PR",

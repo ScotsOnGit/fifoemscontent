@@ -1,23 +1,23 @@
 {
   "id": "avnrt-antidromic",
-  "name": "AVNRT — Antidromic",
+  "name": "AVNRT - Antidromic",
   "aliases": ["Antidromic SVT", "Wide complex SVT", "Antidromic tachycardia"],
   "urgency": "recognition",
   "category": "supraventricular",
   "actionLabel": null,
   "identifyBy": [
-    "Wide complex tachycardia — QRS >120ms, rate 140–250 bpm",
+    "Wide complex tachycardia - QRS >120ms, rate 140–250 bpm",
     "Regular rhythm",
     "Antegrade conduction via accessory pathway (wide, pre-excited QRS)",
     "Retrograde conduction back via AV node",
-    "Rare form — accounts for <10% of re-entrant tachycardia in WPW"
+    "Rare form - accounts for <10% of re-entrant tachycardia in WPW"
   ],
   "measurements": {
     "rate": "140–250 bpm",
     "rhythm": "Regular",
     "pWaves": "Retrograde (after QRS)",
     "prInterval": "Not measurable",
-    "qrsDuration": ">120ms (wide — accessory pathway conduction)",
+    "qrsDuration": ">120ms (wide - accessory pathway conduction)",
     "qtInterval": "Not measurable",
     "axis": "Variable",
     "stSegment": "Discordant (expected with wide QRS)"
@@ -25,18 +25,18 @@
   "management": [
     "Treat as wide complex tachycardia of uncertain origin",
     "If haemodynamically unstable: synchronised cardioversion",
-    "Avoid AV nodal blocking drugs (adenosine, verapamil) — may accelerate accessory pathway",
+    "Avoid AV nodal blocking drugs (adenosine, verapamil) - may accelerate accessory pathway",
     "Procainamide may be effective",
     "Refer for definitive EP study and ablation"
   ],
   "pearls": [
-    "Antidromic AVNRT is rare but important — mimics VT on ECG",
-    "Cannot safely give adenosine without confirming no accessory pathway — risk of accelerating AF via pathway",
+    "Antidromic AVNRT is rare but important - mimics VT on ECG",
+    "Cannot safely give adenosine without confirming no accessory pathway - risk of accelerating AF via pathway",
     "Delta waves may be visible at start of QRS if conduction begins via accessory pathway",
-    "In practice: treat all regular wide-complex tachycardia as VT unless proven otherwise — safer default"
+    "In practice: treat all regular wide-complex tachycardia as VT unless proven otherwise - safer default"
   ],
   "differentials": [
-    "VT (most important — default diagnosis for wide complex tachycardia)",
+    "VT (most important - default diagnosis for wide complex tachycardia)",
     "Pre-excited AF (irregular)",
     "SVT with aberrant conduction"
   ],

@@ -7,13 +7,13 @@
   "actionLabel": null,
   "identifyBy": [
     "P wave amplitude ≥2.5mm in lead II (tall, peaked, narrow)",
-    "P wave duration normal (<120ms) — narrow and pointed",
+    "P wave duration normal (<120ms) - narrow and pointed",
     "P wave axis: normal to rightward (positive in inferior leads)",
     "Most prominent in II, III, aVF (inferior leads)",
     "May see right axis deviation and right ventricular strain pattern if severe cor pulmonale"
   ],
   "measurements": {
-    "rate": "80–100 bpm (often tachycardic — underlying pulmonary pathology)",
+    "rate": "80–100 bpm (often tachycardic - underlying pulmonary pathology)",
     "rhythm": "Regular",
     "pWaves": "Tall peaked ≥2.5mm in II, narrow <120ms",
     "prInterval": "Normal",
@@ -23,7 +23,7 @@
     "stSegment": "Normal (or RV strain in severe cases)"
   },
   "management": [
-    "P-pulmonale is a marker — treat the underlying cause",
+    "P-pulmonale is a marker - treat the underlying cause",
     "Common causes: COPD (most common in adults), pulmonary hypertension, pulmonary fibrosis, severe obesity, PE",
     "Acute PE: peaked P waves may develop acutely with sinus tachycardia + S1Q3T3",
     "COPD management: bronchodilators, smoking cessation, oxygen (target SpO2 88–92% in hypercapnic), CPAP/BIPAP",
@@ -33,13 +33,13 @@
   "pearls": [
     "P-pulmonale = right atrial enlargement (peaked P) vs P-mitrale = left atrial enlargement (broad bifid P)",
     "'Pulmonary P' = Pointed; 'Mitral P' = Massive (wide)",
-    "Acute onset of P-pulmonale pattern: think PE or acute severe asthma — right heart pressure acutely elevated",
+    "Acute onset of P-pulmonale pattern: think PE or acute severe asthma - right heart pressure acutely elevated",
     "In COPD: P-pulmonale may be present chronically with right axis deviation and low voltage QRS (air trapping)",
-    "S1Q3T3 pattern in PE: S wave in I, Q wave and T inversion in III — combined with peaked P and sinus tachycardia"
+    "S1Q3T3 pattern in PE: S wave in I, Q wave and T inversion in III - combined with peaked P and sinus tachycardia"
   ],
   "differentials": [
-    "P-mitrale (broad, bifid P wave — left atrial enlargement)",
-    "Normal high P wave variant (measure amplitude carefully — must be ≥2.5mm)",
+    "P-mitrale (broad, bifid P wave - left atrial enlargement)",
+    "Normal high P wave variant (measure amplitude carefully - must be ≥2.5mm)",
     "Hyperkalaemia (peaked P early, then P wave disappears)",
     "Biatrial enlargement (both peaked and bifid P wave components)"
   ],

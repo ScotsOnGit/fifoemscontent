@@ -1,6 +1,6 @@
 {
   "id": "right-bundle-branch-block",
-  "name": "RBBB — Right Bundle Branch Block",
+  "name": "RBBB - Right Bundle Branch Block",
   "aliases": ["RBBB", "Right Bundle Branch Block", "Right BBB", "RSR prime"],
   "urgency": "recognition",
   "category": "blocks",
@@ -23,17 +23,17 @@
     "stSegment": "Discordant in V1–V3 (expected)"
   },
   "management": [
-    "RBBB itself is usually benign — investigate for cause in new presentation",
+    "RBBB itself is usually benign - investigate for cause in new presentation",
     "Causes: PE, right heart strain, anterior MI, congenital, idiopathic",
     "New RBBB + chest pain: consider anterior STEMI or Brugada (check V1 morphology)",
     "Bifascicular block (RBBB + LAFB or LPFB): cardiology referral",
-    "Trifascicular block (bifascicular + PR prolongation): high risk — pacemaker consideration"
+    "Trifascicular block (bifascicular + PR prolongation): high risk - pacemaker consideration"
   ],
   "pearls": [
     "MaRRoW mnemonic: M in V1, W in V6 = RBBB (vs WiLLiaM for LBBB)",
-    "RBBB does NOT mask ischaemia as effectively as LBBB — ST changes in RBBB are more interpretable",
+    "RBBB does NOT mask ischaemia as effectively as LBBB - ST changes in RBBB are more interpretable",
     "New RBBB in acute PE: suggests right heart strain (associated with S1Q3T3)",
-    "Brugada pattern: coved ST in V1 + RBBB morphology — critically important to distinguish",
+    "Brugada pattern: coved ST in V1 + RBBB morphology - critically important to distinguish",
     "Brugada vs RBBB: coved ST ≥2mm in V1–V2 = Brugada (not just RBBB)"
   ],
   "differentials": [

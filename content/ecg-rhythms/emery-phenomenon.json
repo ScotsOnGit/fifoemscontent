@@ -9,7 +9,7 @@
     "Junctional rhythm with inverted P waves (retrograde atrial depolarisation)",
     "Short PR interval or P wave buried in/after QRS",
     "Apparent ST elevation in inferior leads (II, III, aVF) that is actually the Ta wave (atrial repolarisation)",
-    "Ta wave (atrial T wave) appears in the ST segment — normally hidden but visible when P wave is inverted",
+    "Ta wave (atrial T wave) appears in the ST segment - normally hidden but visible when P wave is inverted",
     "ST elevation resolves when rhythm reverts to sinus (diagnostic clue)"
   ],
   "measurements": {
@@ -20,12 +20,12 @@
     "qrsDuration": "<120ms (junctional, narrow)",
     "qtInterval": "Normal",
     "axis": "Normal",
-    "stSegment": "Apparent elevation in inferior leads — actually Ta wave artefact"
+    "stSegment": "Apparent elevation in inferior leads - actually Ta wave artefact"
   },
   "management": [
-    "Emery phenomenon itself requires no treatment — it is a benign mimicker",
+    "Emery phenomenon itself requires no treatment - it is a benign mimicker",
     "The underlying junctional rhythm may need treatment if symptomatic",
-    "Critical: Do not treat as STEMI — serial ECGs and clinical correlation are essential",
+    "Critical: Do not treat as STEMI - serial ECGs and clinical correlation are essential",
     "Return to sinus rhythm will abolish the 'ST elevation' (diagnostic)",
     "Causes of junctional rhythm: vagal tone, inferior MI, post-cardiac surgery, sick sinus syndrome, drug toxicity",
     "If uncertain: immediate cardiology review and echocardiogram"
@@ -35,13 +35,13 @@
     "In junctional rhythm, inverted P → Ta wave is positive in inferior leads → mimics ST elevation",
     "Classic scenario: elderly patient in junctional rhythm, 'inferior STEMI' found in ED, but serial ECGs show resolution when rate increases to sinus",
     "Differentiates from STEMI: no wall motion abnormality, normal troponin, ST resolves with sinus conversion",
-    "Named after Emery who described the Ta wave causing artefactual ST changes — rare but important STEMI mimic"
+    "Named after Emery who described the Ta wave causing artefactual ST changes - rare but important STEMI mimic"
   ],
   "differentials": [
     "Inferior STEMI (convex ST, reciprocal aVL depression, wall motion abnormality, troponin rise)",
     "Pericarditis (diffuse saddle-back, PR depression)",
     "High nodal junctional with ischaemia (actual ST changes co-exist)",
-    "Hyperacute T waves inferior (early STEMI — needs serial ECG)"
+    "Hyperacute T waves inferior (early STEMI - needs serial ECG)"
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],

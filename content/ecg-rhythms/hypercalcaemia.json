@@ -7,7 +7,7 @@
   "actionLabel": null,
   "identifyBy": [
     "Short QT interval (<350ms or QTc <350ms)",
-    "Shortened or absent ST segment — T wave follows QRS with minimal flat segment",
+    "Shortened or absent ST segment - T wave follows QRS with minimal flat segment",
     "Broad-based T wave (T wave may appear wide)",
     "Osborn (J) wave may occasionally be present",
     "Bradycardia in severe hypercalcaemia (calcium depresses automaticity)"
@@ -20,27 +20,27 @@
     "qrsDuration": "<120ms",
     "qtInterval": "Short <350ms (absent ST segment)",
     "axis": "Normal",
-    "stSegment": "Short/absent — QRS runs directly into T wave"
+    "stSegment": "Short/absent - QRS runs directly into T wave"
   },
   "management": [
-    "IV 0.9% normal saline aggressive hydration: 200–500mL/hr (first-line — promotes renal calcium excretion)",
+    "IV 0.9% normal saline aggressive hydration: 200–500mL/hr (first-line - promotes renal calcium excretion)",
     "Loop diuretics (frusemide) ONLY after adequate hydration (increases urinary Ca2+ excretion)",
-    "Bisphosphonates (zoledronate): long-term control — onset 1–3 days (not acute)",
+    "Bisphosphonates (zoledronate): long-term control - onset 1–3 days (not acute)",
     "Calcitonin: rapid but short-lived effect (24–48 hours)",
     "Identify and treat cause: malignancy (most common), hyperparathyroidism, sarcoidosis, vitamin D toxicity, immobilisation",
     "Dialysis for severe/refractory hypercalcaemia with renal failure"
   ],
   "pearls": [
-    "Mnemonic: Bones, Groans, Moans, Stones — bone pain, GI symptoms, psychosis, renal calculi",
+    "Mnemonic: Bones, Groans, Moans, Stones - bone pain, GI symptoms, psychosis, renal calculi",
     "Malignancy is the most common cause of acute severe hypercalcaemia",
-    "Short QT in hypercalcaemia is physiological (not arrhythmogenic) — unlike congenital short QT syndrome",
+    "Short QT in hypercalcaemia is physiological (not arrhythmogenic) - unlike congenital short QT syndrome",
     "Bradyarrhythmias and AV block may occur in severe hypercalcaemia",
     "Do NOT confuse short QT hypercalcaemia with congenital short QT syndrome (different arrhythmia risk)"
   ],
   "differentials": [
     "Congenital Short QT syndrome (<330ms, family history, tall peaked T waves, VF risk)",
     "WPW (short PR, delta wave, not short QT)",
-    "Normal variant (QT varies with HR — use QTc formula)",
+    "Normal variant (QT varies with HR - use QTc formula)",
     "Digoxin effect (short QT + specific ST changes 'reverse tick')"
   ],
   "relatedGuidelineIDs": [],

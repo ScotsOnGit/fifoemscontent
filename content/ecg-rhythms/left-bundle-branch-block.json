@@ -1,6 +1,6 @@
 {
   "id": "left-bundle-branch-block",
-  "name": "LBBB — Left Bundle Branch Block",
+  "name": "LBBB - Left Bundle Branch Block",
   "aliases": ["LBBB", "Left Bundle Branch Block", "Left BBB"],
   "urgency": "recognition",
   "category": "blocks",
@@ -10,7 +10,7 @@
     "Broad notched or slurred R wave in I, aVL, V5–V6 ('M' pattern in lateral leads)",
     "Absent septal Q waves in I, aVL, V5–V6 (loss of normal septal activation)",
     "Deep broad S wave in V1 (rS or QS pattern)",
-    "Secondary ST and T wave changes: discordant — opposite direction to QRS"
+    "Secondary ST and T wave changes: discordant - opposite direction to QRS"
   ],
   "measurements": {
     "rate": "Variable",
@@ -20,24 +20,24 @@
     "qrsDuration": "≥120ms (wide, notched)",
     "qtInterval": "Prolonged (often >480ms)",
     "axis": "Left or normal",
-    "stSegment": "Discordant — depression/inversion in leads with tall R; elevation in leads with S/QS"
+    "stSegment": "Discordant - depression/inversion in leads with tall R; elevation in leads with S/QS"
   },
   "management": [
-    "LBBB itself does not require treatment — investigate the cause",
+    "LBBB itself does not require treatment - investigate the cause",
     "New LBBB with chest pain: treat as STEMI equivalent (Sgarbossa criteria)",
     "Causes: ischaemic heart disease, hypertension, aortic stenosis, cardiomyopathy, idiopathic (Lenegre's disease)",
     "Consider cardiac resynchronisation therapy (CRT) in heart failure with LBBB and EF <35%",
     "Bundle of His pacing: emerging therapy for LBBB-mediated dyssynchrony"
   ],
   "pearls": [
-    "New LBBB + chest pain = STEMI equivalent — activate cath lab if Sgarbossa criteria met",
-    "LBBB masks ischaemia — ST changes in LBBB are expected (discordant); only concordant changes are diagnostic",
+    "New LBBB + chest pain = STEMI equivalent - activate cath lab if Sgarbossa criteria met",
+    "LBBB masks ischaemia - ST changes in LBBB are expected (discordant); only concordant changes are diagnostic",
     "William (W) pattern in V1–V6: WiLLiaM = W in V1, M in V6 (LBBB); MaRRoW = M in V1, W in V6 (RBBB)",
-    "Septal Q waves are abolished in LBBB — their presence suggests co-existing anterior infarction",
+    "Septal Q waves are abolished in LBBB - their presence suggests co-existing anterior infarction",
     "LBBB with rate-related (tachycardia-dependent) or bradycardia-dependent variants exist"
   ],
   "differentials": [
-    "RBBB (M pattern in V1, W in V6 — opposite)",
+    "RBBB (M pattern in V1, W in V6 - opposite)",
     "Ventricular paced rhythm (pacing spike before wide QRS)",
     "Hyperkalaemia (wide QRS, different context)",
     "Left anterior fascicular block (narrow QRS, left axis only)"

@@ -6,7 +6,7 @@
   "category": "other",
   "actionLabel": null,
   "identifyBy": [
-    "Prominent J (Osborn) waves — positive deflection at J point, 'camel hump' appearance",
+    "Prominent J (Osborn) waves - positive deflection at J point, 'camel hump' appearance",
     "Bradycardia (sinus bradycardia common with hypothermia)",
     "J wave amplitude proportional to degree of hypothermia",
     "Osborn waves most prominent in V4–V6 and inferior leads",
@@ -29,15 +29,15 @@
     "Active external rewarming for moderate (28–32°C): warm blankets, forced warm air, warm IV fluids",
     "Active internal/core rewarming for severe (<28°C or VF): warm humidified O2, warmed IV saline, bladder/gastric irrigation, ECMO in refractory cases",
     "VF in hypothermia: CPR + defibrillation; if no response, continue CPR until rewarm to >30°C ('not dead until warm and dead')",
-    "Avoid rough handling — hypothermic myocardium is highly irritable",
+    "Avoid rough handling - hypothermic myocardium is highly irritable",
     "Target core temperature monitoring (oesophageal or rectal)"
   ],
   "pearls": [
-    "Osborn wave amplitude inversely correlates with core temperature — bigger J wave = colder patient",
-    "Hypothermia can mimic death: no pupil response, asystole — do not pronounce until fully rewarmed",
-    "'Not dead until warm and dead' — core temp goal >30°C before ceasing resuscitation",
-    "Atrial fibrillation is common in moderate hypothermia — rate often spontaneously resolves with rewarming",
-    "Shivering artefact may mimic VF on the monitor — check patient pulse before defibrillating"
+    "Osborn wave amplitude inversely correlates with core temperature - bigger J wave = colder patient",
+    "Hypothermia can mimic death: no pupil response, asystole - do not pronounce until fully rewarmed",
+    "'Not dead until warm and dead' - core temp goal >30°C before ceasing resuscitation",
+    "Atrial fibrillation is common in moderate hypothermia - rate often spontaneously resolves with rewarming",
+    "Shivering artefact may mimic VF on the monitor - check patient pulse before defibrillating"
   ],
   "differentials": [
     "Early repolarisation (J point elevation but NO bradycardia, normal intervals)",

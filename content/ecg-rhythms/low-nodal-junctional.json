@@ -7,15 +7,15 @@
   "actionLabel": null,
   "identifyBy": [
     "Retrograde P wave AFTER the QRS (RP interval <PR interval)",
-    "P wave inverted in II, III, aVF — follows the QRS",
+    "P wave inverted in II, III, aVF - follows the QRS",
     "Rate 40–60 bpm",
     "Narrow QRS",
-    "Impulse originates low in AV node — ventricles activate before atria"
+    "Impulse originates low in AV node - ventricles activate before atria"
   ],
   "measurements": {
     "rate": "40–60 bpm",
     "rhythm": "Regular",
-    "pWaves": "Inverted in II/III/aVF — follow QRS",
+    "pWaves": "Inverted in II/III/aVF - follow QRS",
     "prInterval": "RP short (<200ms); P follows QRS",
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
@@ -23,7 +23,7 @@
     "stSegment": "Normal"
   },
   "management": [
-    "As for junctional rhythm variants — treat underlying cause",
+    "As for junctional rhythm variants - treat underlying cause",
     "Atropine if symptomatic",
     "Transcutaneous pacing if unstable"
   ],

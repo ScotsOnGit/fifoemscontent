@@ -10,7 +10,7 @@
     "PR segment depression in multiple leads (reciprocal PR elevation in aVR)",
     "ST elevation is concave/saddle-back, NOT convex (unlike STEMI)",
     "Reciprocal ST depression ONLY in aVR and V1 (vs STEMI with territory-specific reciprocal changes)",
-    "Pleuritic chest pain — worsens lying flat, improves leaning forward"
+    "Pleuritic chest pain - worsens lying flat, improves leaning forward"
   ],
   "measurements": {
     "rate": "70–100 bpm",
@@ -36,7 +36,7 @@
     "Spodick's sign: downward slope of TP segment (highly specific when present)",
     "STEMI mimic: pericarditis ST is diffuse and concave; STEMI is territorial and convex",
     "aVR is the key lead: ST depression + PR elevation in aVR is characteristic of pericarditis",
-    "Athlete's heart (early repolarisation) can look similar — PR segment is the key differentiator (normal PR in ER)"
+    "Athlete's heart (early repolarisation) can look similar - PR segment is the key differentiator (normal PR in ER)"
   ],
   "differentials": [
     "STEMI (convex ST, territorial distribution, reciprocal changes, wall motion abnormality)",

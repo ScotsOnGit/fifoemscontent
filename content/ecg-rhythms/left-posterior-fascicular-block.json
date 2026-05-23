@@ -6,7 +6,7 @@
   "category": "blocks",
   "actionLabel": null,
   "identifyBy": [
-    "Right axis deviation (axis +90° to +180°) — must exclude other causes",
+    "Right axis deviation (axis +90° to +180°) - must exclude other causes",
     "QRS duration <120ms (narrow)",
     "Small R, deep S in I, aVL (rS pattern lateral)",
     "Small Q, tall R in II, III, aVF (qR pattern inferior)",
@@ -23,17 +23,17 @@
     "stSegment": "Normal"
   },
   "management": [
-    "LPFB alone: no treatment required — rare in isolation",
+    "LPFB alone: no treatment required - rare in isolation",
     "Uncommon: posterior fascicle has dual blood supply (LAD + RCA)",
     "LPFB occurrence strongly suggests significant coronary artery disease",
-    "Cardiology referral — risk of bifascicular block and progression",
+    "Cardiology referral - risk of bifascicular block and progression",
     "RBBB + LPFB = bifascicular block with high risk of complete heart block"
   ],
   "pearls": [
-    "LPFB is much rarer than LAFB — posterior fascicle has dual blood supply (harder to block)",
+    "LPFB is much rarer than LAFB - posterior fascicle has dual blood supply (harder to block)",
     "Always exclude right heart strain, RV hypertrophy, and lateral MI before diagnosing LPFB",
-    "LPFB with anterior MI = suggests large infarct involving both fascicles — poor prognosis",
-    "Right axis deviation mnemonic: Remember LPFB is the rare one — isolated right axis is usually normal variant in young patients"
+    "LPFB with anterior MI = suggests large infarct involving both fascicles - poor prognosis",
+    "Right axis deviation mnemonic: Remember LPFB is the rare one - isolated right axis is usually normal variant in young patients"
   ],
   "differentials": [
     "RV hypertrophy (right axis, tall R V1, other features)",

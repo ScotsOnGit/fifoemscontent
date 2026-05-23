@@ -10,10 +10,10 @@
     "T wave may be: abnormally wide, biphasic, notched, or late-peaking",
     "Drug-induced: T wave becomes broad and bizarre; may develop notching",
     "Congenital LQTS type 1: broad-based T wave; Type 2: biphasic T; Type 3: long isoelectric ST then peaked T",
-    "Risk of Torsades de Pointes — 'twisting of the points' polymorphic VT"
+    "Risk of Torsades de Pointes - 'twisting of the points' polymorphic VT"
   ],
   "measurements": {
-    "rate": "60–80 bpm (measured at slow HR — QTc corrects for rate)",
+    "rate": "60–80 bpm (measured at slow HR - QTc corrects for rate)",
     "rhythm": "Regular",
     "pWaves": "Normal",
     "prInterval": "Normal",
@@ -23,7 +23,7 @@
     "stSegment": "Normal (ST segment may be prolonged in congenital LQTS type 3)"
   },
   "management": [
-    "Discontinue all QT-prolonging drugs: antipsychotics, antibiotics (azithromycin, ciprofloxacin), antifungals, metoclopramide — check CredibleMeds database",
+    "Discontinue all QT-prolonging drugs: antipsychotics, antibiotics (azithromycin, ciprofloxacin), antifungals, metoclopramide - check CredibleMeds database",
     "Correct electrolytes: hypokalaemia and hypomagnesaemia are major contributors",
     "IV magnesium sulphate 2g over 10 min: drug-induced long QT with Torsades",
     "Torsades de Pointes: MgSO4, correct electrolytes, increase HR (overdrive pacing or isoprenaline to shorten QT)",
@@ -31,9 +31,9 @@
     "Avoid competitive sports, triggers (LQTS1: swimming/exercise; LQTS2: auditory stimuli)"
   ],
   "pearls": [
-    "QTc >500ms: very high risk — Torsades risk increases sharply above this threshold",
-    "Bazett formula (QTc = QT/√RR) overcorrects at high HR — use Fridericia (cube root) for tachycardia",
-    "Drug checklist: EVERY new medication should be checked for QTc prolongation potential — CredibleMeds.org",
+    "QTc >500ms: very high risk - Torsades risk increases sharply above this threshold",
+    "Bazett formula (QTc = QT/√RR) overcorrects at high HR - use Fridericia (cube root) for tachycardia",
+    "Drug checklist: EVERY new medication should be checked for QTc prolongation potential - CredibleMeds.org",
     "Hypokalaemia + QT-prolonging drug = markedly elevated risk (synergistic)",
     "Congenital vs drug-induced: family history, syncope on exertion or loud noise, gene testing for congenital LQTS"
   ],
@@ -41,7 +41,7 @@
     "Hypokalaemia long QT (prominent U waves, flat T)",
     "Hypocalcaemia long QT (prolonged flat ST, normal T shape)",
     "Complete heart block (long RR, may have long apparent QT)",
-    "Normal QT at slow HR (always use QTc — heart rate corrected value)"
+    "Normal QT at slow HR (always use QTc - heart rate corrected value)"
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": ["qtc-calculator"],

@@ -8,7 +8,7 @@
   "identifyBy": [
     "≥3 consecutive ventricular beats at rate >100 bpm",
     "Spontaneously terminates within 30 seconds",
-    "Wide bizarre QRS complexes — ventricular morphology",
+    "Wide bizarre QRS complexes - ventricular morphology",
     "Often asymptomatic or causes brief palpitations/dizziness",
     "If >30 seconds = sustained VT (separate category)"
   ],
@@ -23,8 +23,8 @@
     "stSegment": "Discordant during run"
   },
   "management": [
-    "Isolated asymptomatic NSVT in structurally normal heart: often benign — monitor",
-    "NSVT with structural heart disease (cardiomyopathy, post-MI): significant risk marker — cardiology referral",
+    "Isolated asymptomatic NSVT in structurally normal heart: often benign - monitor",
+    "NSVT with structural heart disease (cardiomyopathy, post-MI): significant risk marker - cardiology referral",
     "Correct reversible triggers: electrolytes, ischaemia, drugs",
     "Symptomatic or frequent NSVT: Holter monitoring, echocardiogram, cardiology review",
     "ICD evaluation if NSVT + EF <35% (MADIT-2 criteria)"
@@ -32,8 +32,8 @@
   "pearls": [
     "NSVT in a healthy young person during exercise: often benign (outflow tract VT)",
     "NSVT in post-MI patient or cardiomyopathy: significant risk of sustained VT/sudden death",
-    "Torsades de Pointes may present as recurrent NSVT — check QT interval in sinus beats",
-    "Right ventricular outflow tract (RVOT) VT: LBBB morphology with inferior axis — typically benign",
+    "Torsades de Pointes may present as recurrent NSVT - check QT interval in sinus beats",
+    "Right ventricular outflow tract (RVOT) VT: LBBB morphology with inferior axis - typically benign",
     "Holter monitoring: captures frequency, rate, and duration of NSVT runs"
   ],
   "differentials": [

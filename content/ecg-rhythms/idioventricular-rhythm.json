@@ -7,7 +7,7 @@
   "actionLabel": null,
   "identifyBy": [
     "Wide bizarre QRS at very slow rate 20–40 bpm",
-    "Ventricular escape — fires when all higher pacemakers fail",
+    "Ventricular escape - fires when all higher pacemakers fail",
     "No P waves or complete AV dissociation",
     "Irregular rate possible if multiple ventricular foci competing",
     "Pre-terminal rhythm in severe bradycardia/cardiac arrest"
@@ -23,17 +23,17 @@
     "stSegment": "Normal (discordant)"
   },
   "management": [
-    "Treat aggressively — idioventricular escape is a failing heart rhythm",
-    "Atropine 0.6–1.2mg IV — to increase rate of higher pacemakers",
+    "Treat aggressively - idioventricular escape is a failing heart rhythm",
+    "Atropine 0.6–1.2mg IV - to increase rate of higher pacemakers",
     "Transcutaneous pacing immediately if haemodynamically unstable",
     "IV adrenaline infusion if pacing fails",
     "Identify reversible causes: hypoxia, drug toxicity, complete AV block, electrolyte disturbance",
-    "Prepare for CPR — may deteriorate to asystole"
+    "Prepare for CPR - may deteriorate to asystole"
   ],
   "pearls": [
     "Idioventricular rhythm is the last escape mechanism before asystole",
-    "Do NOT give lidocaine or other antiarrhythmics — will suppress the only remaining pacemaker",
-    "Pulsed idioventricular rhythm (with pulse) still requires urgent treatment — prognosis is poor without intervention",
+    "Do NOT give lidocaine or other antiarrhythmics - will suppress the only remaining pacemaker",
+    "Pulsed idioventricular rhythm (with pulse) still requires urgent treatment - prognosis is poor without intervention",
     "Complete AV block with ventricular escape: pace immediately",
     "Agonal rhythm is a form of idioventricular rhythm with rate <20 bpm"
   ],

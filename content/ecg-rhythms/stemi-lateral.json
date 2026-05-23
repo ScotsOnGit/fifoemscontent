@@ -1,6 +1,6 @@
 {
   "id": "stemi-lateral",
-  "name": "STEMI — Lateral",
+  "name": "STEMI - Lateral",
   "aliases": ["Lateral STEMI", "High Lateral MI", "Low Lateral MI", "I aVL STEMI"],
   "urgency": "urgent",
   "category": "stemi",
@@ -23,18 +23,18 @@
     "stSegment": "Elevation I, aVL, V5–V6; Reciprocal depression inferior leads"
   },
   "management": [
-    "12-lead ECG — confirm lateral ST elevation",
+    "12-lead ECG - confirm lateral ST elevation",
     "Aspirin 300mg PO",
     "GTN sublingual if systolic BP >90mmHg",
-    "Analgesia — Morphine or Fentanyl",
+    "Analgesia - Morphine or Fentanyl",
     "IV access, continuous monitoring",
     "Urgent evacuation for PCI"
   ],
   "pearls": [
-    "Isolated high lateral STEMI (I, aVL only) can be subtle — easily missed on quick glance",
+    "Isolated high lateral STEMI (I, aVL only) can be subtle - easily missed on quick glance",
     "Reciprocal inferior ST depression is the key clue when lateral changes are small",
     "Lateral extension of inferior STEMI suggests LCx territory involvement (larger territory)",
-    "De Winter pattern may involve lateral leads — check for upsloping ST depression"
+    "De Winter pattern may involve lateral leads - check for upsloping ST depression"
   ],
   "differentials": [
     "LVH (lateral ST depression, not elevation)",

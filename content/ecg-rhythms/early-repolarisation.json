@@ -6,11 +6,11 @@
   "category": "other",
   "actionLabel": null,
   "identifyBy": [
-    "J-point elevation (slur or notch at end of QRS) — typically 1–3mm in precordial leads V2–V5",
+    "J-point elevation (slur or notch at end of QRS) - typically 1–3mm in precordial leads V2–V5",
     "Concave-up (saddle-back) ST elevation following the J-point elevation",
-    "'Fish-hook' appearance in lateral leads — notch on descending limb of R wave",
+    "'Fish-hook' appearance in lateral leads - notch on descending limb of R wave",
     "Most common in young, athletic, Afro-Caribbean males",
-    "ST elevation is stable over time — does NOT evolve like STEMI"
+    "ST elevation is stable over time - does NOT evolve like STEMI"
   ],
   "measurements": {
     "rate": "60–80 bpm",
@@ -20,20 +20,20 @@
     "qrsDuration": "<120ms",
     "qtInterval": "Normal",
     "axis": "Normal",
-    "stSegment": "1–2mm J-point elevation, concave-up — V2–V5 most prominent"
+    "stSegment": "1–2mm J-point elevation, concave-up - V2–V5 most prominent"
   },
   "management": [
-    "No treatment required in most cases — benign finding in majority",
+    "No treatment required in most cases - benign finding in majority",
     "Documentation and reassurance: 'This is a common normal variant in young healthy adults'",
-    "High-risk ER: inferior leads (II, III, aVF) + horizontal/downsloping ST after J-point — slightly increased VF risk (rare)",
+    "High-risk ER: inferior leads (II, III, aVF) + horizontal/downsloping ST after J-point - slightly increased VF risk (rare)",
     "Avoid confusion with STEMI: key features distinguish (no evolution, no symptoms, no reciprocal changes)",
     "In context of chest pain: rule out STEMI before attributing to ER",
     "Cardiology referral if: syncope, family history of SCD, high-risk ER pattern"
   ],
   "pearls": [
-    "ER is present in up to 5–10% of young adults — overwhelmingly benign",
+    "ER is present in up to 5–10% of young adults - overwhelmingly benign",
     "The 'fish-hook' notch on R wave descending limb is characteristic and reassuring",
-    "High-risk ER: horizontal or downsloping ST segment in inferior leads + notch — small increased SCD risk",
+    "High-risk ER: horizontal or downsloping ST segment in inferior leads + notch - small increased SCD risk",
     "Compared to pericarditis: ER has no PR depression, no pain evolution, and affects younger patients",
     "STEMI vs ER: STEMI evolves over hours with reciprocal changes; ER is static over years"
   ],
@@ -41,7 +41,7 @@
     "STEMI (evolving ST, convex morphology, reciprocal changes, chest pain)",
     "Pericarditis (PR depression, diffuse involvement, pleuritic pain)",
     "Brugada pattern (coved morphology in V1–V2 only, not precordial)",
-    "Normal variant ECG (difficult to distinguish — clinical context essential)"
+    "Normal variant ECG (difficult to distinguish - clinical context essential)"
   ],
   "relatedGuidelineIDs": [],
   "relatedCalculatorIDs": [],

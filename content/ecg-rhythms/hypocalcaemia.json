@@ -18,9 +18,9 @@
     "pWaves": "Normal",
     "prInterval": "Normal",
     "qrsDuration": "<120ms",
-    "qtInterval": ">470ms (prolonged — ST segment elongated)",
+    "qtInterval": ">470ms (prolonged - ST segment elongated)",
     "axis": "Normal",
-    "stSegment": "Flat and prolonged — ST segment duration increased"
+    "stSegment": "Flat and prolonged - ST segment duration increased"
   },
   "management": [
     "Check serum calcium (ionised if possible), magnesium, phosphate, PTH",
@@ -30,11 +30,11 @@
     "Identify cause: hypoparathyroidism, pancreatitis, rhabdomyolysis, massive transfusion, bisphosphonates"
   ],
   "pearls": [
-    "The prolonged QT in hypocalcaemia is due to ST lengthening, not T wave shape change — unlike drug-induced long QT",
-    "Magnesium and calcium derangements often co-exist — replace both",
+    "The prolonged QT in hypocalcaemia is due to ST lengthening, not T wave shape change - unlike drug-induced long QT",
+    "Magnesium and calcium derangements often co-exist - replace both",
     "Risk of VT/Torsades is lower in hypocalcaemia than drug-induced long QT despite similar QTc",
     "Burns victims and pancreatitis patients are at high risk for hypocalcaemia",
-    "IV calcium in suspected digoxin toxicity: CAUTION — same risk of stone heart syndrome"
+    "IV calcium in suspected digoxin toxicity: CAUTION - same risk of stone heart syndrome"
   ],
   "differentials": [
     "Drug-induced long QT (T wave shape changes, biphasic T waves)",

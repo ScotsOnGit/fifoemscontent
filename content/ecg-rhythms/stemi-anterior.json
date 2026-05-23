@@ -1,6 +1,6 @@
 {
   "id": "stemi-anterior",
-  "name": "STEMI — Anterior",
+  "name": "STEMI - Anterior",
   "aliases": ["Anterior STEMI", "LAD STEMI", "Anterior MI", "Anterior Infarct"],
   "urgency": "urgent",
   "category": "stemi",
@@ -9,7 +9,7 @@
     "ST elevation ≥2mm in 2 or more contiguous precordial leads (V1–V4)",
     "Reciprocal ST depression in inferior leads (II, III, aVF)",
     "Hyperacute (tall, broad) T waves may precede ST elevation",
-    "Pathological Q waves develop within hours — loss of R wave progression V1–V4",
+    "Pathological Q waves develop within hours - loss of R wave progression V1–V4",
     "New LBBB may represent anterior STEMI equivalent"
   ],
   "measurements": {
@@ -23,20 +23,20 @@
     "stSegment": "Elevation ≥2mm V1–V4; Depression II, III, aVF (reciprocal)"
   },
   "management": [
-    "12-lead ECG — confirm in 2 contiguous leads; repeat if initial ECG non-diagnostic",
-    "Aspirin 300mg PO (chew) — give immediately unless allergy/contraindication",
-    "GTN sublingual — titrate for pain if systolic BP >90mmHg (caution: RV infarct)",
+    "12-lead ECG - confirm in 2 contiguous leads; repeat if initial ECG non-diagnostic",
+    "Aspirin 300mg PO (chew) - give immediately unless allergy/contraindication",
+    "GTN sublingual - titrate for pain if systolic BP >90mmHg (caution: RV infarct)",
     "IV access, oxygen if SpO2 <94%",
-    "Morphine or Fentanyl — titrate for pain relief",
-    "Urgent evacuation — door-to-balloon time target <90 minutes",
-    "Continuous ECG monitoring — watch for VF/VT",
+    "Morphine or Fentanyl - titrate for pain relief",
+    "Urgent evacuation - door-to-balloon time target <90 minutes",
+    "Continuous ECG monitoring - watch for VF/VT",
     "Consider P2Y12 inhibitor (Ticagrelor/Clopidogrel) per protocol"
   ],
   "pearls": [
-    "Anterior STEMI carries the highest mortality of all STEMI territories — LAD is the 'widow maker'",
-    "Hyperacute T waves (tall, peaked, broad base) may precede ST elevation — treat as STEMI equivalent",
+    "Anterior STEMI carries the highest mortality of all STEMI territories - LAD is the 'widow maker'",
+    "Hyperacute T waves (tall, peaked, broad base) may precede ST elevation - treat as STEMI equivalent",
     "Loss of R wave progression in V1–V4 indicates prior or evolving anterior infarction",
-    "Left main occlusion: ST elevation in aVR >1mm with diffuse ST depression — highest mortality pattern",
+    "Left main occlusion: ST elevation in aVR >1mm with diffuse ST depression - highest mortality pattern",
     "De Winter T-waves (upsloping ST depression + hyperacute T) are a LAD occlusion equivalent without ST elevation"
   ],
   "differentials": [

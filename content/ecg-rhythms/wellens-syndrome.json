@@ -8,8 +8,8 @@
   "identifyBy": [
     "Type A: Biphasic T waves in V2–V3 (initial positive deflection then negative)",
     "Type B: Deep symmetric T-wave inversion in V2–V3 (more common, 75%)",
-    "Minimal or no ST elevation — patient may be pain-free when ECG taken",
-    "Preserved R wave progression (no Q waves — myocardium not yet infarcted)",
+    "Minimal or no ST elevation - patient may be pain-free when ECG taken",
+    "Preserved R wave progression (no Q waves - myocardium not yet infarcted)",
     "History: recent chest pain, now resolved or minimal"
   ],
   "measurements": {
@@ -23,19 +23,19 @@
     "stSegment": "Minimal or no elevation; characteristic T-wave changes"
   },
   "management": [
-    "Urgent evacuation even if pain-free — risk of imminent LAD occlusion and anterior STEMI",
-    "Do NOT stress test — may precipitate complete LAD occlusion",
+    "Urgent evacuation even if pain-free - risk of imminent LAD occlusion and anterior STEMI",
+    "Do NOT stress test - may precipitate complete LAD occlusion",
     "Aspirin 300mg PO",
     "Continuous monitoring",
     "Urgent cardiology consultation and coronary angiography",
     "High-flow oxygen if SpO2 <94%"
   ],
   "pearls": [
-    "Wellens syndrome indicates critical (>90%) proximal LAD stenosis — without intervention, anterior STEMI is imminent",
-    "The pain-free Wellens patient is deceptively stable — they are at extreme risk",
-    "Stress testing is CONTRAINDICATED — it can trigger complete occlusion",
-    "Type A (biphasic) can be subtle — measure T wave carefully in V2–V3",
-    "Wellens is a reperfusion pattern — it occurs when the vessel has transiently opened then re-narrowed"
+    "Wellens syndrome indicates critical (>90%) proximal LAD stenosis - without intervention, anterior STEMI is imminent",
+    "The pain-free Wellens patient is deceptively stable - they are at extreme risk",
+    "Stress testing is CONTRAINDICATED - it can trigger complete occlusion",
+    "Type A (biphasic) can be subtle - measure T wave carefully in V2–V3",
+    "Wellens is a reperfusion pattern - it occurs when the vessel has transiently opened then re-narrowed"
   ],
   "differentials": [
     "Anterior STEMI (Q waves, pain, evolving)",

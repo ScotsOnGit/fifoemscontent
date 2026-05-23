@@ -7,14 +7,14 @@
   "actionLabel": null,
   "identifyBy": [
     "Regular rhythm at <60 bpm",
-    "Upright P waves in II precede every QRS — normal morphology",
+    "Upright P waves in II precede every QRS - normal morphology",
     "Constant PR interval",
     "Clinically significant if symptomatic: dizziness, syncope, hypotension, chest pain"
   ],
   "measurements": {
     "rate": "<60 bpm",
     "rhythm": "Regular",
-    "pWaves": "Upright II — normal",
+    "pWaves": "Upright II - normal",
     "prInterval": "120–200ms (normal)",
     "qrsDuration": "<120ms",
     "qtInterval": "Prolonged (rate-related)",
@@ -22,18 +22,18 @@
     "stSegment": "Normal"
   },
   "management": [
-    "Asymptomatic: observe — no intervention required",
+    "Asymptomatic: observe - no intervention required",
     "Symptomatic (hypotension, syncope, altered consciousness): Atropine 0.6–1.2mg IV",
     "If atropine-refractory: transcutaneous pacing",
     "Identify and treat reversible causes: drugs (beta-blockers, calcium channel blockers, digoxin), hypothyroidism, hypothermia, raised ICP",
-    "Inferior STEMI: bradycardia due to vagal tone — Atropine usually effective"
+    "Inferior STEMI: bradycardia due to vagal tone - Atropine usually effective"
   ],
   "pearls": [
-    "Sinus bradycardia in athletes at rest is physiological (high vagal tone) — HR may be 35–45 bpm",
-    "Chronotropic incompetence: failure to accelerate HR appropriately with exercise — sinus node disease",
-    "Inferior MI bradycardia: Bezold-Jarisch reflex — treat with atropine and IV fluid",
-    "Hypothermia: bradycardia expected at core temp <35°C — Osborn waves may co-exist",
-    "Post-cardiac arrest: sinus bradycardia common — ensure adequate perfusion pressure"
+    "Sinus bradycardia in athletes at rest is physiological (high vagal tone) - HR may be 35–45 bpm",
+    "Chronotropic incompetence: failure to accelerate HR appropriately with exercise - sinus node disease",
+    "Inferior MI bradycardia: Bezold-Jarisch reflex - treat with atropine and IV fluid",
+    "Hypothermia: bradycardia expected at core temp <35°C - Osborn waves may co-exist",
+    "Post-cardiac arrest: sinus bradycardia common - ensure adequate perfusion pressure"
   ],
   "differentials": [
     "2° or 3° AV block (P waves present but not all conducting)",

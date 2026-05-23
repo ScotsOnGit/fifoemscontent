@@ -9,8 +9,8 @@
     "Narrow complex rhythm at 40–60 bpm (AV node escape rate)",
     "Absent P waves OR retrograde P waves (inverted in II, III, aVF)",
     "If retrograde P: may appear before, during, or after QRS depending on timing",
-    "QRS narrow — conduction through ventricles is normal",
-    "Escape rhythm — appears when sinus node fails or AV conduction is impaired"
+    "QRS narrow - conduction through ventricles is normal",
+    "Escape rhythm - appears when sinus node fails or AV conduction is impaired"
   ],
   "measurements": {
     "rate": "40–60 bpm",
@@ -23,16 +23,16 @@
     "stSegment": "Normal"
   },
   "management": [
-    "Treat the underlying cause — junctional rhythm is an escape mechanism",
+    "Treat the underlying cause - junctional rhythm is an escape mechanism",
     "If symptomatic (hypotension, altered consciousness): Atropine 0.6mg IV",
     "Identify cause: inferior MI, digoxin toxicity, increased vagal tone, post-cardiac surgery",
     "Transcutaneous pacing if haemodynamically unstable and atropine fails",
-    "Do NOT suppress the junctional rhythm without an alternative pacemaker — it is keeping the heart going"
+    "Do NOT suppress the junctional rhythm without an alternative pacemaker - it is keeping the heart going"
   ],
   "pearls": [
-    "Junctional rhythm is a protective escape mechanism — its suppression without pacemaker backup is dangerous",
-    "Digoxin toxicity is a classic cause — check serum digoxin level",
-    "Junctional rhythm after inferior MI: AV node ischaemia — usually transient and resolves",
+    "Junctional rhythm is a protective escape mechanism - its suppression without pacemaker backup is dangerous",
+    "Digoxin toxicity is a classic cause - check serum digoxin level",
+    "Junctional rhythm after inferior MI: AV node ischaemia - usually transient and resolves",
     "The position of the P wave relative to QRS defines high (P before QRS), mid (P in QRS), or low (P after QRS) nodal origin"
   ],
   "differentials": [

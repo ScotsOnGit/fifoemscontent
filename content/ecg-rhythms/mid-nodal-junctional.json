@@ -6,16 +6,16 @@
   "category": "supraventricular",
   "actionLabel": null,
   "identifyBy": [
-    "P wave hidden within QRS complex — simultaneous atrial and ventricular activation",
-    "QRS appears normal width — no P wave visible before or after",
+    "P wave hidden within QRS complex - simultaneous atrial and ventricular activation",
+    "QRS appears normal width - no P wave visible before or after",
     "Rate 40–60 bpm",
-    "Narrow QRS — normal ventricular conduction",
-    "Cannot see P wave on surface ECG — atria and ventricles activate simultaneously"
+    "Narrow QRS - normal ventricular conduction",
+    "Cannot see P wave on surface ECG - atria and ventricles activate simultaneously"
   ],
   "measurements": {
     "rate": "40–60 bpm",
     "rhythm": "Regular",
-    "pWaves": "Hidden within QRS — not visible",
+    "pWaves": "Hidden within QRS - not visible",
     "prInterval": "Not measurable",
     "qrsDuration": "<120ms (may appear slightly wider due to hidden P)",
     "qtInterval": "Normal",
@@ -23,11 +23,11 @@
     "stSegment": "Normal"
   },
   "management": [
-    "As for junctional rhythm — treat underlying cause",
+    "As for junctional rhythm - treat underlying cause",
     "Clinical management identical to other junctional variants"
   ],
   "pearls": [
-    "The P wave is simultaneous with QRS — hidden, not absent",
+    "The P wave is simultaneous with QRS - hidden, not absent",
     "May cause a subtle widening of the QRS or small notch at beginning or end of QRS",
     "Esophageal lead may reveal hidden P wave",
     "Practically indistinguishable from junctional rhythm without P waves on surface ECG"

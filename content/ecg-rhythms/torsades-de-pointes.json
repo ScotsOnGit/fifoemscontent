@@ -6,7 +6,7 @@
   "category": "ventricular",
   "actionLabel": "SHOCK",
   "identifyBy": [
-    "Polymorphic VT — QRS amplitude and axis rotate cyclically ('twisting of the points')",
+    "Polymorphic VT - QRS amplitude and axis rotate cyclically ('twisting of the points')",
     "Rate 150–300 bpm, irregular",
     "Preceded by prolonged QT interval (>470ms)",
     "Often self-terminating but can degenerate to VF",
@@ -33,7 +33,7 @@
     "Magnesium works even with normal magnesium levels",
     "Key triggers: hypokalaemia, medications (antiarrhythmics, antipsychotics, antibiotics)",
     "Congenital long QT (Romano-Ward, Jervell-Lange-Nielsen) in young patients",
-    "Avoid amiodarone — prolongs QT further"
+    "Avoid amiodarone - prolongs QT further"
   ],
   "differentials": [
     "Polymorphic VT without long QT",

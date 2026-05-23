@@ -9,7 +9,7 @@
     "Flat or inverted T waves (early sign)",
     "Prominent U waves (amplitude > T wave in same lead)",
     "ST depression (down-sloping or horizontal)",
-    "Apparent QT prolongation (actually QU interval — T and U waves merge)",
+    "Apparent QT prolongation (actually QU interval - T and U waves merge)",
     "PR interval may be prolonged in severe cases"
   ],
   "measurements": {
@@ -18,30 +18,30 @@
     "pWaves": "Normal",
     "prInterval": "Normal to prolonged",
     "qrsDuration": "<120ms",
-    "qtInterval": "Prolonged (QU interval >500ms — T+U merge)",
+    "qtInterval": "Prolonged (QU interval >500ms - T+U merge)",
     "axis": "Normal",
     "stSegment": "Depression, down-sloping or flat"
   },
   "management": [
-    "Check serum potassium — ECG changes correlate roughly with K+ level",
+    "Check serum potassium - ECG changes correlate roughly with K+ level",
     "K+ 3.0–3.5 mmol/L (mild): oral potassium replacement if tolerated",
     "K+ 2.5–3.0 mmol/L (moderate): IV potassium chloride 10–20 mmol/hr (max 40 mmol/hr via central line)",
     "K+ <2.5 mmol/L or symptomatic: IV replacement, cardiac monitoring, correct co-existing hypomagnesaemia",
-    "Monitor ECG during replacement — risk of VT/VF at severe levels or with rapid correction",
+    "Monitor ECG during replacement - risk of VT/VF at severe levels or with rapid correction",
     "Identify cause: diuretics, vomiting, diarrhoea, hyperaldosteronism, renal losses"
   ],
   "pearls": [
-    "Hypokalaemia potentiates digoxin toxicity — dangerous combination even at 'therapeutic' digoxin levels",
-    "Hypomagnesaemia frequently co-exists — must replace Mg2+ or K+ replacement will fail",
+    "Hypokalaemia potentiates digoxin toxicity - dangerous combination even at 'therapeutic' digoxin levels",
+    "Hypomagnesaemia frequently co-exists - must replace Mg2+ or K+ replacement will fail",
     "Prominent U wave >1mm in V2–V3, or U wave taller than T wave, is clinically significant",
-    "ECG changes lag behind serum levels — patient may have dangerous hypokalaemia with subtle ECG",
-    "Torsades de Pointes is a feared complication — especially with concurrent QT-prolonging drugs"
+    "ECG changes lag behind serum levels - patient may have dangerous hypokalaemia with subtle ECG",
+    "Torsades de Pointes is a feared complication - especially with concurrent QT-prolonging drugs"
   ],
   "differentials": [
     "Long QT syndrome (no U waves)",
     "Hypothyroidism (bradycardia, diffuse T changes)",
     "Normal ECG variant (small U waves in V2–V3 are normal)",
-    "Hypomagnesaemia (similar ECG — treat together)"
+    "Hypomagnesaemia (similar ECG - treat together)"
   ],
   "relatedGuidelineIDs": ["hyperkalaemia"],
   "relatedCalculatorIDs": ["qtc-calculator"],

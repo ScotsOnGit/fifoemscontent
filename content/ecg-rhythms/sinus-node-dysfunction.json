@@ -6,8 +6,8 @@
   "category": "supraventricular",
   "actionLabel": "PACE",
   "identifyBy": [
-    "Symptomatic sinus bradycardia — rate <40 bpm with symptoms (syncope, presyncope)",
-    "Sinus pauses >3 seconds — prolonged periods without any electrical activity",
+    "Symptomatic sinus bradycardia - rate <40 bpm with symptoms (syncope, presyncope)",
+    "Sinus pauses >3 seconds - prolonged periods without any electrical activity",
     "Chronotropic incompetence: failure to increase heart rate with exertion",
     "Tachy-brady pattern: alternating fast (AF/flutter) and slow (sinus pause after conversion)",
     "Sinoatrial exit block: regular P wave dropped creating a pause equal to 2x (or 3x) normal P-P interval"
@@ -33,14 +33,14 @@
   "pearls": [
     "Sick sinus syndrome most commonly presents as unexplained syncope in older adults",
     "Tachy-brady syndrome: AF terminates → long sinus pause → syncope (the pause is the dangerous event)",
-    "Chronotropic incompetence is underdiagnosed — suspect if HR fails to reach 85% predicted max during stress",
+    "Chronotropic incompetence is underdiagnosed - suspect if HR fails to reach 85% predicted max during stress",
     "External pacing pads should be applied even before symptoms worsen",
-    "Reversible causes: medications, hypothyroidism, hypothermia, inferior MI — always check first"
+    "Reversible causes: medications, hypothyroidism, hypothermia, inferior MI - always check first"
   ],
   "differentials": [
     "Vasovagal syncope (no structural ECG abnormality)",
     "AV block",
-    "Hypervagotonia (athletes, at rest — not pathological)",
+    "Hypervagotonia (athletes, at rest - not pathological)",
     "Drug-induced bradycardia"
   ],
   "relatedGuidelineIDs": ["cardiac-arrhythmia"],

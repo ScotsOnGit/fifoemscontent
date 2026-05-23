@@ -8,14 +8,14 @@
   "identifyBy": [
     "P waves present but no ventricular response (no QRS)",
     "Atrial activity continues, ventricles are quiescent",
-    "Functionally asystole — no cardiac output",
+    "Functionally asystole - no cardiac output",
     "Also called 'P-wave asystole'",
     "Rate of P waves: usually 60–100 bpm; QRS rate: 0"
   ],
   "measurements": {
     "rate": "P waves: 60–100 bpm / QRS: absent",
     "rhythm": "P-wave activity only",
-    "pWaves": "Present — regular P waves without QRS response",
+    "pWaves": "Present - regular P waves without QRS response",
     "prInterval": "Not applicable",
     "qrsDuration": "Absent",
     "qtInterval": null,
@@ -24,16 +24,16 @@
   },
   "management": [
     "Begin CPR immediately",
-    "Transcutaneous pacing — may capture if conduction pathway functional",
+    "Transcutaneous pacing - may capture if conduction pathway functional",
     "Adrenaline 1mg IV/IO every 3–5 minutes",
     "Atropine 1mg IV (limited evidence)",
     "Identify reversible causes",
     "Do not defibrillate"
   ],
   "pearls": [
-    "Pacing may be effective — unlike asystole, the problem is AV conduction not ventricular automaticity",
-    "Distinguish from complete heart block — in CHB, ventricular escape rhythm is usually present",
-    "Rarely seen — most progress rapidly to asystole"
+    "Pacing may be effective - unlike asystole, the problem is AV conduction not ventricular automaticity",
+    "Distinguish from complete heart block - in CHB, ventricular escape rhythm is usually present",
+    "Rarely seen - most progress rapidly to asystole"
   ],
   "differentials": [
     "Asystole",

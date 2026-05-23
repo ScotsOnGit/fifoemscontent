@@ -6,8 +6,8 @@
   "category": "other",
   "actionLabel": "CPR",
   "identifyBy": [
-    "Any organised ECG rhythm without a palpable pulse — this strip shows ONE example pattern",
-    "Organised electrical activity on ECG — but no palpable pulse",
+    "Any organised ECG rhythm without a palpable pulse - this strip shows ONE example pattern",
+    "Organised electrical activity on ECG - but no palpable pulse",
     "Any rhythm can be the underlying ECG pattern (sinus, idioventricular, wide complex, narrow complex)",
     "Rate typically slow (<60 bpm) in true PEA",
     "Narrow QRS PEA carries better prognosis than wide QRS PEA",
@@ -32,10 +32,10 @@
     "Consider point-of-care ultrasound if available"
   ],
   "pearls": [
-    "PEA is defined by the CLINICAL finding (no pulse) — NOT by any specific ECG morphology. PEA can look like sinus rhythm, bradycardia, wide complex, or anything organised.",
+    "PEA is defined by the CLINICAL finding (no pulse) - NOT by any specific ECG morphology. PEA can look like sinus rhythm, bradycardia, wide complex, or anything organised.",
     "Most survivable arrest rhythm when cause is identified and treated quickly",
-    "Tension pneumothorax: absent breath sounds + tracheal deviation — needle decompression",
-    "Tamponade: Beck's triad — hypotension, muffled heart sounds, JVD",
+    "Tension pneumothorax: absent breath sounds + tracheal deviation - needle decompression",
+    "Tamponade: Beck's triad - hypotension, muffled heart sounds, JVD",
     "Hypovolaemia: fluid challenge 500mL rapid infusion",
     "Consider thrombolysis for massive PE"
   ],

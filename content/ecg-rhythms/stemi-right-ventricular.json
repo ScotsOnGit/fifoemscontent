@@ -1,6 +1,6 @@
 {
   "id": "stemi-right-ventricular",
-  "name": "STEMI — Right Ventricular",
+  "name": "STEMI - Right Ventricular",
   "aliases": ["RV STEMI", "Right Ventricular MI", "Right Heart Infarction", "V4R STEMI"],
   "urgency": "urgent",
   "category": "stemi",
@@ -23,24 +23,24 @@
     "stSegment": "Elevation V3R–V6R (right-sided leads)"
   },
   "management": [
-    "Inferior STEMI protocol — always check right-sided leads",
-    "AVOID GTN and other vasodilators — RV is preload-dependent",
-    "IV fluid challenge 250–500mL — RV infarct is preload-dependent (BP often improves)",
+    "Inferior STEMI protocol - always check right-sided leads",
+    "AVOID GTN and other vasodilators - RV is preload-dependent",
+    "IV fluid challenge 250–500mL - RV infarct is preload-dependent (BP often improves)",
     "Urgent evacuation",
     "Manage bradycardia with Atropine",
     "Dobutamine may support RV function if fluid unresponsive"
   ],
   "pearls": [
-    "GTN is absolutely contraindicated — causes profound hypotension in RV infarct",
-    "The right ventricle has little collateral circulation — it relies entirely on the RCA",
-    "V4R ST elevation resolves within 12–18 hours — do right-sided ECG early if inferior STEMI suspected",
-    "Kussmaul's sign (JVP rising on inspiration) may be present — RV failure finding",
+    "GTN is absolutely contraindicated - causes profound hypotension in RV infarct",
+    "The right ventricle has little collateral circulation - it relies entirely on the RCA",
+    "V4R ST elevation resolves within 12–18 hours - do right-sided ECG early if inferior STEMI suspected",
+    "Kussmaul's sign (JVP rising on inspiration) may be present - RV failure finding",
     "RV infarct triad: hypotension + raised JVP + clear lung fields (not heart failure)"
   ],
   "differentials": [
     "Inferior STEMI without RV involvement",
     "Pericarditis (diffuse changes)",
-    "PE (right heart strain — different pattern)"
+    "PE (right heart strain - different pattern)"
   ],
   "relatedGuidelineIDs": ["acute-coronary-syndrome"],
   "relatedCalculatorIDs": ["heart-score"],

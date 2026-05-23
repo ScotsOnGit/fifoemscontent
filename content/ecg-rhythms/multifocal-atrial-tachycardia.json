@@ -9,13 +9,13 @@
     "Irregular rhythm with DISTINCT P waves of ≥3 different morphologies",
     "Rate >100 bpm (if <100 bpm = wandering atrial pacemaker)",
     "Variable PR intervals (each focus has different conduction time)",
-    "No dominant atrial pacemaker — multiple competing foci",
+    "No dominant atrial pacemaker - multiple competing foci",
     "Classic context: severe COPD, hypoxia, hypomagnesaemia, heart failure"
   ],
   "measurements": {
     "rate": ">100 bpm (irregular)",
     "rhythm": "Irregular (but has P waves before each QRS)",
-    "pWaves": "≥3 distinct morphologies — key diagnostic criterion",
+    "pWaves": "≥3 distinct morphologies - key diagnostic criterion",
     "prInterval": "Variable (changes beat to beat)",
     "qrsDuration": "<120ms",
     "qtInterval": "Variable",
@@ -23,19 +23,19 @@
     "stSegment": "Normal"
   },
   "management": [
-    "Treat the underlying cause — MAT rarely responds to antiarrhythmics alone",
+    "Treat the underlying cause - MAT rarely responds to antiarrhythmics alone",
     "COPD: optimise bronchodilators, treat infection, correct hypoxia",
-    "Correct electrolytes: Magnesium 2g IV (even if normal levels — effective)",
-    "Verapamil may slow rate (but check lung function — some bronchospasm risk)",
-    "Avoid digoxin — usually ineffective for MAT",
+    "Correct electrolytes: Magnesium 2g IV (even if normal levels - effective)",
+    "Verapamil may slow rate (but check lung function - some bronchospasm risk)",
+    "Avoid digoxin - usually ineffective for MAT",
     "Note: cardioversion is NOT effective for MAT (not a re-entrant rhythm)"
   ],
   "pearls": [
     "MAT is pathognomonic of COPD with cor pulmonale in the right clinical context",
     "Magnesium is the most effective first-line drug for rate control in MAT",
-    "Easily confused with AF — the key difference: MAT has distinct P waves before each QRS",
-    "Theophylline toxicity is a classic cause — check drug history",
-    "Cardioversion is completely ineffective — MAT is an automatic (not re-entrant) tachycardia"
+    "Easily confused with AF - the key difference: MAT has distinct P waves before each QRS",
+    "Theophylline toxicity is a classic cause - check drug history",
+    "Cardioversion is completely ineffective - MAT is an automatic (not re-entrant) tachycardia"
   ],
   "differentials": [
     "AF (no distinct P waves, no isoelectric baseline between P waves)",
