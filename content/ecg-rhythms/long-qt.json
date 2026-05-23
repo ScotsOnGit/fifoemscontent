@@ -1,0 +1,92 @@
+{
+  "id": "long-qt",
+  "name": "Long QT Syndrome",
+  "aliases": ["Long QT", "LQTS", "Prolonged QT", "Drug-induced long QT", "QT prolongation"],
+  "urgency": "findings",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "QTc >470ms in women, >450ms in men (Bazett formula)",
+    "T wave may be: abnormally wide, biphasic, notched, or late-peaking",
+    "Drug-induced: T wave becomes broad and bizarre; may develop notching",
+    "Congenital LQTS type 1: broad-based T wave; Type 2: biphasic T; Type 3: long isoelectric ST then peaked T",
+    "Risk of Torsades de Pointes — 'twisting of the points' polymorphic VT"
+  ],
+  "measurements": {
+    "rate": "60–80 bpm (measured at slow HR — QTc corrects for rate)",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal",
+    "qrsDuration": "<120ms",
+    "qtInterval": ">470ms (QTc prolonged)",
+    "axis": "Normal",
+    "stSegment": "Normal (ST segment may be prolonged in congenital LQTS type 3)"
+  },
+  "management": [
+    "Discontinue all QT-prolonging drugs: antipsychotics, antibiotics (azithromycin, ciprofloxacin), antifungals, metoclopramide — check CredibleMeds database",
+    "Correct electrolytes: hypokalaemia and hypomagnesaemia are major contributors",
+    "IV magnesium sulphate 2g over 10 min: drug-induced long QT with Torsades",
+    "Torsades de Pointes: MgSO4, correct electrolytes, increase HR (overdrive pacing or isoprenaline to shorten QT)",
+    "Congenital LQTS: beta-blockers (LQTS1 and 2), mexiletine (LQTS3), ICD if high risk",
+    "Avoid competitive sports, triggers (LQTS1: swimming/exercise; LQTS2: auditory stimuli)"
+  ],
+  "pearls": [
+    "QTc >500ms: very high risk — Torsades risk increases sharply above this threshold",
+    "Bazett formula (QTc = QT/√RR) overcorrects at high HR — use Fridericia (cube root) for tachycardia",
+    "Drug checklist: EVERY new medication should be checked for QTc prolongation potential — CredibleMeds.org",
+    "Hypokalaemia + QT-prolonging drug = markedly elevated risk (synergistic)",
+    "Congenital vs drug-induced: family history, syncope on exertion or loud noise, gene testing for congenital LQTS"
+  ],
+  "differentials": [
+    "Hypokalaemia long QT (prominent U waves, flat T)",
+    "Hypocalcaemia long QT (prolonged flat ST, normal T shape)",
+    "Complete heart block (long RR, may have long apparent QT)",
+    "Normal QT at slow HR (always use QTc — heart rate corrected value)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": ["qtc-calculator"],
+  "tags": ["long QT", "LQTS", "Torsades de Pointes", "QT prolongation", "drug-induced", "QTc"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1000,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "flat",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 320,
+          "amplitudeMm": 3.0,
+          "morphology": "biphasicNegPos",
+          "notched": false
+        }
+      }
+    }
+  }
+}

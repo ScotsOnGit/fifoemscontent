@@ -1,0 +1,90 @@
+{
+  "id": "left-posterior-fascicular-block",
+  "name": "Left Posterior Fascicular Block",
+  "aliases": ["LPFB", "Left Posterior Hemiblock", "LPH", "Right Axis Deviation due to LPFB"],
+  "urgency": "recognition",
+  "category": "blocks",
+  "actionLabel": null,
+  "identifyBy": [
+    "Right axis deviation (axis +90° to +180°) — must exclude other causes",
+    "QRS duration <120ms (narrow)",
+    "Small R, deep S in I, aVL (rS pattern lateral)",
+    "Small Q, tall R in II, III, aVF (qR pattern inferior)",
+    "Diagnosis of exclusion: no RV hypertrophy, no lateral MI, no normal variant (young, thin)"
+  ],
+  "measurements": {
+    "rate": "Normal",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal",
+    "axis": "Right: +90° to +180°",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "LPFB alone: no treatment required — rare in isolation",
+    "Uncommon: posterior fascicle has dual blood supply (LAD + RCA)",
+    "LPFB occurrence strongly suggests significant coronary artery disease",
+    "Cardiology referral — risk of bifascicular block and progression",
+    "RBBB + LPFB = bifascicular block with high risk of complete heart block"
+  ],
+  "pearls": [
+    "LPFB is much rarer than LAFB — posterior fascicle has dual blood supply (harder to block)",
+    "Always exclude right heart strain, RV hypertrophy, and lateral MI before diagnosing LPFB",
+    "LPFB with anterior MI = suggests large infarct involving both fascicles — poor prognosis",
+    "Right axis deviation mnemonic: Remember LPFB is the rare one — isolated right axis is usually normal variant in young patients"
+  ],
+  "differentials": [
+    "RV hypertrophy (right axis, tall R V1, other features)",
+    "Lateral MI (Q waves in I, aVL)",
+    "Normal variant right axis (young, thin patients)",
+    "WPW (short PR, delta wave)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["LPFB", "left posterior fascicular block", "right axis deviation", "hemiblock", "conduction"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 110,
+          "amplitudeMm": 12.0,
+          "morphology": "normal",
+          "axisDeviation": "right",
+          "qWaves": true
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

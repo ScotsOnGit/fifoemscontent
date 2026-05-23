@@ -1,0 +1,91 @@
+{
+  "id": "atrial-fibrillation",
+  "name": "Atrial Fibrillation",
+  "aliases": ["AF", "AFib", "A-Fib", "Atrial fibrillation", "Irregularly irregular"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Irregularly irregular rhythm — no two RR intervals are equal",
+    "Absent P waves — replaced by fibrillatory baseline (f waves)",
+    "Fibrillatory baseline: rapid irregular undulations 350–600/min — best seen in V1",
+    "Ventricular rate depends on AV node conduction — typically 100–170 bpm (uncontrolled)",
+    "Narrow QRS unless aberrant conduction (LBBB/RBBB) or pre-excitation (WPW)"
+  ],
+  "measurements": {
+    "rate": "Ventricular: 60–170 bpm (variable)",
+    "rhythm": "Irregularly irregular",
+    "pWaves": "Absent — replaced by fibrillatory f waves",
+    "prInterval": "None — no organised P waves",
+    "qrsDuration": "<120ms (usually)",
+    "qtInterval": "Difficult to measure (irregular)",
+    "axis": "Normal",
+    "stSegment": "Normal (unless rate-related or ischaemia)"
+  },
+  "management": [
+    "Rate control (preferred for most): Metoprolol, Diltiazem, or Digoxin",
+    "Consider rhythm control (cardioversion/antiarrhythmics) for new-onset <48h with symptoms",
+    "Anticoagulation: CHA₂DS₂-VASc score ≥2 in men / ≥3 in women — DOAC preferred",
+    "Pre-cardioversion: if AF >48h or unknown — anticoagulate 3 weeks OR TOE to exclude LAA thrombus",
+    "Urgent DC cardioversion if haemodynamically compromised"
+  ],
+  "pearls": [
+    "AF is the most common sustained arrhythmia — affects 1–2% of the general population",
+    "Lone AF in the young: often vagally mediated (post-exercise, post-meal, alcohol)",
+    "CHA₂DS₂-VASc score: Congestive HF, Hypertension, Age ≥75 (x2), Diabetes, Stroke/TIA (x2), Vascular disease, Age 65–74, Sex female",
+    "Rate vs rhythm control: RACE and AFFIRM trials showed similar outcomes — rate control is simpler",
+    "Cardioversion without anticoagulation: risk of stroke if LAA clot dislodges — always anticoagulate first unless emergency"
+  ],
+  "differentials": [
+    "Sinus arrhythmia (P waves present, same morphology)",
+    "Atrial flutter (regular or regularly irregular)",
+    "MAT (distinct P wave morphologies)",
+    "Pre-excited AF (wide complex, very fast — see separate entry)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["AF", "atrial fibrillation", "irregularly irregular", "f waves", "anticoagulation", "CHADS-VASc"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 560,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 0.5,
+          "morphology": "fibrillatory"
+        },
+        "prSegment": {
+          "intervalMs": 60,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 130,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

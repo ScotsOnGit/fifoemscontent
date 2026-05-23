@@ -1,0 +1,99 @@
+{
+  "id": "hypothermia-osborn-waves",
+  "name": "Hypothermia / Osborn (J) Waves",
+  "aliases": ["Osborn waves", "J waves hypothermia", "Hypothermia ECG", "Camel hump sign"],
+  "urgency": "findings",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "Prominent J (Osborn) waves — positive deflection at J point, 'camel hump' appearance",
+    "Bradycardia (sinus bradycardia common with hypothermia)",
+    "J wave amplitude proportional to degree of hypothermia",
+    "Osborn waves most prominent in V4–V6 and inferior leads",
+    "Prolonged PR, QRS, and QT intervals (hypothermia slows all conduction)",
+    "Shivering artefact: muscle tremor baseline wander may be present",
+    "Risk of VF when core temp <30°C"
+  ],
+  "measurements": {
+    "rate": "30–60 bpm (sinus bradycardia)",
+    "rhythm": "Regular (or irregular if AF)",
+    "pWaves": "Normal sinus",
+    "prInterval": "Prolonged (>200ms)",
+    "qrsDuration": "Prolonged (>120ms)",
+    "qtInterval": "Prolonged (>500ms)",
+    "axis": "Normal",
+    "stSegment": "J-point elevation from Osborn wave"
+  },
+  "management": [
+    "Passive rewarming for mild hypothermia (>32°C): blankets, warm environment, remove wet clothing",
+    "Active external rewarming for moderate (28–32°C): warm blankets, forced warm air, warm IV fluids",
+    "Active internal/core rewarming for severe (<28°C or VF): warm humidified O2, warmed IV saline, bladder/gastric irrigation, ECMO in refractory cases",
+    "VF in hypothermia: CPR + defibrillation; if no response, continue CPR until rewarm to >30°C ('not dead until warm and dead')",
+    "Avoid rough handling — hypothermic myocardium is highly irritable",
+    "Target core temperature monitoring (oesophageal or rectal)"
+  ],
+  "pearls": [
+    "Osborn wave amplitude inversely correlates with core temperature — bigger J wave = colder patient",
+    "Hypothermia can mimic death: no pupil response, asystole — do not pronounce until fully rewarmed",
+    "'Not dead until warm and dead' — core temp goal >30°C before ceasing resuscitation",
+    "Atrial fibrillation is common in moderate hypothermia — rate often spontaneously resolves with rewarming",
+    "Shivering artefact may mimic VF on the monitor — check patient pulse before defibrillating"
+  ],
+  "differentials": [
+    "Early repolarisation (J point elevation but NO bradycardia, normal intervals)",
+    "Brugada pattern (V1–V2 only, coved ST, not temperature dependent)",
+    "Hyperacute STEMI (convex ST, no J wave, normal intervals)",
+    "Benign Osborn-like waves in hypercalcaemia or normal variant athletes"
+  ],
+  "relatedGuidelineIDs": ["hypothermia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["hypothermia", "Osborn waves", "J waves", "camel hump", "bradycardia", "cold exposure"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1500,
+    "singleLead": {
+      "lead": "V4",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 1.0,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 220,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 130,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "jPoint": {
+          "deviationMm": 3.0,
+          "morphology": "osborn",
+          "scaledByHypothermia": true
+        },
+        "stSegment": {
+          "deviationMm": 1.5,
+          "morphology": "concaveUp",
+          "leadsAffected": ["V4", "V5", "V6", "II", "III", "aVF"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 200,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "pulseless-electrical-activity",
+  "name": "Pulseless Electrical Activity",
+  "aliases": ["PEA", "Electromechanical dissociation"],
+  "urgency": "arrest",
+  "category": "other",
+  "actionLabel": "CPR",
+  "identifyBy": [
+    "Any organised ECG rhythm without a palpable pulse — this strip shows ONE example pattern",
+    "Organised electrical activity on ECG — but no palpable pulse",
+    "Any rhythm can be the underlying ECG pattern (sinus, idioventricular, wide complex, narrow complex)",
+    "Rate typically slow (<60 bpm) in true PEA",
+    "Narrow QRS PEA carries better prognosis than wide QRS PEA",
+    "Clinical diagnosis: ECG activity + absent pulse"
+  ],
+  "measurements": {
+    "rate": "Variable (any)",
+    "rhythm": "Organised but variable",
+    "pWaves": "May be present",
+    "prInterval": "Variable",
+    "qrsDuration": "Variable (<120ms or >120ms)",
+    "qtInterval": null,
+    "axis": "Variable",
+    "stSegment": null
+  },
+  "management": [
+    "Confirm no pulse despite ECG activity",
+    "Begin CPR immediately",
+    "Identify and treat reversible cause urgently (4Hs and 4Ts)",
+    "Adrenaline 1mg IV/IO every 3–5 minutes",
+    "Reassess rhythm and pulse every 2 minutes",
+    "Consider point-of-care ultrasound if available"
+  ],
+  "pearls": [
+    "PEA is defined by the CLINICAL finding (no pulse) — NOT by any specific ECG morphology. PEA can look like sinus rhythm, bradycardia, wide complex, or anything organised.",
+    "Most survivable arrest rhythm when cause is identified and treated quickly",
+    "Tension pneumothorax: absent breath sounds + tracheal deviation — needle decompression",
+    "Tamponade: Beck's triad — hypotension, muffled heart sounds, JVD",
+    "Hypovolaemia: fluid challenge 500mL rapid infusion",
+    "Consider thrombolysis for massive PE"
+  ],
+  "differentials": [
+    "True asystole",
+    "VT with pulse (always check pulse)",
+    "Pseudo-PEA (low cardiac output states)"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedCalculatorIDs": [],
+  "tags": ["PEA", "pulseless electrical activity", "cardiac arrest", "non-shockable", "reversible causes"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1500,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 140,
+          "amplitudeMm": 8.0,
+          "morphology": "wide",
+          "axisDeviation": "left",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

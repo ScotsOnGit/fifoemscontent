@@ -1,0 +1,91 @@
+{
+  "id": "pulseless-ventricular-tachycardia",
+  "name": "Pulseless Ventricular Tachycardia",
+  "aliases": ["Pulseless VT", "VT arrest"],
+  "urgency": "shockable",
+  "category": "ventricular",
+  "actionLabel": "SHOCK",
+  "identifyBy": [
+    "Regular wide-complex tachycardia — rate 100–250 bpm",
+    "QRS duration >120ms, monomorphic (uniform shape)",
+    "No palpable pulse — distinguishes from VT with pulse",
+    "AV dissociation: P waves dissociated from QRS (if visible)",
+    "Fusion beats or capture beats may be present"
+  ],
+  "measurements": {
+    "rate": "100–250 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Dissociated (if visible)",
+    "prInterval": "Not measurable",
+    "qrsDuration": ">120ms",
+    "qtInterval": "Variable",
+    "axis": "Left or Extreme",
+    "stSegment": null
+  },
+  "management": [
+    "Confirm pulseless — no carotid pulse for 10 seconds",
+    "Begin CPR immediately",
+    "Defibrillate 200J biphasic as soon as available",
+    "Continue CPR 2 minutes post-shock",
+    "Adrenaline 1mg IV/IO every 3–5 minutes",
+    "Amiodarone 300mg IV/IO after 3rd shock",
+    "Reassess rhythm and pulse every 2 minutes"
+  ],
+  "pearls": [
+    "Cannot distinguish from VF clinically — treat the same if pulseless",
+    "If organised rhythm returns, check pulse immediately",
+    "Adenosine contraindicated in wide-complex tachycardia",
+    "Polymorphic VT: consider Torsades — magnesium 2g IV"
+  ],
+  "differentials": [
+    "SVT with aberrant conduction",
+    "Torsades de Pointes",
+    "VT with pulse (stable)"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation", "cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["pulseless VT", "VT", "cardiac arrest", "shockable", "wide complex"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 4,
+    "cycleDurationMs": 400,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 12.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

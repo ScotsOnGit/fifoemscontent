@@ -1,0 +1,90 @@
+{
+  "id": "junctional-rhythm",
+  "name": "Junctional Rhythm",
+  "aliases": ["AV Junctional Rhythm", "Nodal Rhythm", "Junctional Escape Rhythm"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Narrow complex rhythm at 40–60 bpm (AV node escape rate)",
+    "Absent P waves OR retrograde P waves (inverted in II, III, aVF)",
+    "If retrograde P: may appear before, during, or after QRS depending on timing",
+    "QRS narrow — conduction through ventricles is normal",
+    "Escape rhythm — appears when sinus node fails or AV conduction is impaired"
+  ],
+  "measurements": {
+    "rate": "40–60 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Absent or retrograde (inverted II, III, aVF)",
+    "prInterval": "Short (<120ms) if P before QRS; negative RP if P after QRS",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal to prolonged",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Treat the underlying cause — junctional rhythm is an escape mechanism",
+    "If symptomatic (hypotension, altered consciousness): Atropine 0.6mg IV",
+    "Identify cause: inferior MI, digoxin toxicity, increased vagal tone, post-cardiac surgery",
+    "Transcutaneous pacing if haemodynamically unstable and atropine fails",
+    "Do NOT suppress the junctional rhythm without an alternative pacemaker — it is keeping the heart going"
+  ],
+  "pearls": [
+    "Junctional rhythm is a protective escape mechanism — its suppression without pacemaker backup is dangerous",
+    "Digoxin toxicity is a classic cause — check serum digoxin level",
+    "Junctional rhythm after inferior MI: AV node ischaemia — usually transient and resolves",
+    "The position of the P wave relative to QRS defines high (P before QRS), mid (P in QRS), or low (P after QRS) nodal origin"
+  ],
+  "differentials": [
+    "Sinus bradycardia (P waves present, upright)",
+    "AF with slow ventricular response",
+    "Complete heart block with junctional escape",
+    "Accelerated junctional (rate >60 bpm)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["junctional rhythm", "nodal rhythm", "escape rhythm", "AV node", "retrograde P"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1200,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 200,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

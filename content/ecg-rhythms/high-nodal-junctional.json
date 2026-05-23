@@ -1,0 +1,86 @@
+{
+  "id": "high-nodal-junctional",
+  "name": "High Nodal Junctional Rhythm",
+  "aliases": ["High Junctional", "High Nodal Rhythm", "Upper Nodal Rhythm", "AV node high"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Retrograde P wave BEFORE the QRS (short PR <120ms)",
+    "P wave inverted in II, III, aVF (retrograde atrial activation)",
+    "Rate 40–60 bpm (junctional escape) or 60–100 bpm (accelerated junctional)",
+    "Narrow QRS — normal ventricular conduction",
+    "Impulse originates high in AV node — activates atria slightly before ventricles"
+  ],
+  "measurements": {
+    "rate": "40–100 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Inverted in II, III, aVF — precede QRS",
+    "prInterval": "Short <120ms (inverted P before narrow QRS)",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "As for junctional rhythm — treat underlying cause",
+    "Atropine if symptomatic bradycardia",
+    "Assess for AV node disease, inferior MI, digoxin toxicity"
+  ],
+  "pearls": [
+    "High nodal: P before QRS with short PR <120ms",
+    "Mid nodal: P hidden within QRS",
+    "Low nodal: retrograde P after QRS (RP <PR)",
+    "Differentiating nodal origin matters academically but management is the same in the acute setting"
+  ],
+  "differentials": [
+    "Sinus rhythm with short PR (WPW or LGL)",
+    "Accelerated junctional tachycardia (rate >60 bpm — AIT)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["high nodal", "junctional rhythm", "retrograde P", "short PR"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1090,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 70,
+          "amplitudeMm": -1.2,
+          "morphology": "inverted"
+        },
+        "prSegment": {
+          "intervalMs": 90,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 200,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

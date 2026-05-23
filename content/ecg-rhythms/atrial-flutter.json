@@ -1,0 +1,91 @@
+{
+  "id": "atrial-flutter",
+  "name": "Atrial Flutter",
+  "aliases": ["Flutter", "AFL", "Atrial flutter 2:1", "Sawtooth flutter waves", "Type I flutter"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Regular atrial rate 250–350 bpm (typically 300 bpm)",
+    "Sawtooth flutter waves in inferior leads (II, III, aVF) — no isoelectric baseline",
+    "Regular ventricular response — most commonly 2:1 (rate ~150 bpm)",
+    "Flutter waves best seen at slower ventricular rates (4:1) or with adenosine (slows AV conduction transiently)",
+    "Regular rate of exactly 150 bpm: always suspect 2:1 flutter"
+  ],
+  "measurements": {
+    "rate": "Ventricular: 75–150 bpm (depends on ratio); Atrial: 250–350 bpm",
+    "rhythm": "Regular (with fixed AV block ratio)",
+    "pWaves": "Sawtooth flutter waves — negative in II, III, aVF",
+    "prInterval": "Fixed if regular AV conduction ratio",
+    "qrsDuration": "<120ms (usually narrow)",
+    "qtInterval": "Cannot be measured accurately",
+    "axis": "Normal",
+    "stSegment": "Cannot assess — hidden by flutter waves"
+  },
+  "management": [
+    "Rate control: beta-blocker or diltiazem (IV) for rapid rate",
+    "Anticoagulation if >48 hours duration or uncertain — AF/flutter stroke risk similar",
+    "DC cardioversion 50–100J for cardioversion (flutter is very cardioversion-sensitive)",
+    "Flecainide or Amiodarone for chemical cardioversion",
+    "Definitive: catheter ablation of cavotricuspid isthmus (>95% cure rate for typical flutter)"
+  ],
+  "pearls": [
+    "Rate of exactly 150 bpm = think 2:1 flutter first — P waves hidden in T waves",
+    "Adenosine can unmask flutter waves by transiently blocking AV conduction",
+    "Typical (type I) flutter: negative flutter waves in II, III, aVF; positive in V1",
+    "Atrial flutter is NOT the same as AF — flutter is organised, a re-entry macro-circuit",
+    "Flutter can conduct 1:1 at >300 bpm if AV node is sympathetically stimulated — dangerous"
+  ],
+  "differentials": [
+    "Sinus tachycardia at 150 bpm",
+    "AVNRT at 150 bpm",
+    "AF (irregular, no organised flutter waves)",
+    "Atrial tachycardia (discrete P waves, isoelectric baseline)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["atrial flutter", "flutter", "sawtooth", "2:1 block", "150 bpm", "AFL"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 400,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": -2.5,
+          "morphology": "sawtooth"
+        },
+        "prSegment": {
+          "intervalMs": 60,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 120,
+          "amplitudeMm": 1.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

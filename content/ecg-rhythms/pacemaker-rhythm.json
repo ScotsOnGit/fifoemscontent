@@ -1,0 +1,91 @@
+{
+  "id": "pacemaker-rhythm",
+  "name": "Pacemaker Rhythm",
+  "aliases": ["Ventricular Paced Rhythm", "VVI pacing", "DDD pacing", "Paced ECG", "Electronic pacemaker"],
+  "urgency": "recognition",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "Pacing spike immediately before the QRS (ventricular pacing) — sharp vertical deflection",
+    "Wide QRS ≥120ms following each spike — LBBB morphology if RV apex pacing",
+    "Atrial pacing spike before P wave (if dual-chamber)",
+    "Fixed rate or demand mode — spikes appear when rate drops below set rate",
+    "Paced QRS: discordant ST-T changes expected (LBBB pattern)"
+  ],
+  "measurements": {
+    "rate": "Set pacing rate (usually 60–80 bpm)",
+    "rhythm": "Regular (paced) or sinus with pacemaker backup",
+    "pWaves": "May be native (DDD) or paced",
+    "prInterval": "If DDD: normal PR with atrial then ventricular spikes",
+    "qrsDuration": "≥120ms (paced QRS)",
+    "qtInterval": "Prolonged",
+    "axis": "Left (RV apex pacing)",
+    "stSegment": "Discordant (LBBB-like)"
+  },
+  "management": [
+    "Pacemaker rhythm itself: no intervention needed",
+    "Pacemaker malfunction: failure to pace (no spike), failure to capture (spike without QRS), failure to sense (inappropriate firing)",
+    "Check pacemaker settings and battery",
+    "Magnet application: converts to fixed rate — confirms capture in demand pacemakers",
+    "Cardiology referral for any pacemaker dysfunction",
+    "ICD: similar appearance but also delivers shocks — check patient's device card"
+  ],
+  "pearls": [
+    "Sgarbossa criteria apply to paced rhythms just as to LBBB — concordant ST elevation in paced rhythm = possible STEMI",
+    "Pacemaker malfunction types: failure to pace, failure to capture, failure to sense, oversensing",
+    "Twiddler's syndrome: patient manipulation of pacemaker rotates leads — loss of capture",
+    "Rate-responsive pacemakers: increase rate with activity — not pacemaker malfunction if rate rises with exertion",
+    "Pacemaker-mediated tachycardia (PMT): endless loop tachycardia in dual-chamber devices — magnet breaks the loop"
+  ],
+  "differentials": [
+    "LBBB (no pacing spikes)",
+    "VT (no pacing spikes, haemodynamically unstable)",
+    "AIVR (no spikes, different rate)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["pacemaker", "paced rhythm", "VVI", "DDD", "pacing spike", "LBBB morphology", "ICD"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 857,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 40,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 10.0,
+          "morphology": "paced",
+          "axisDeviation": "left",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -1.5,
+          "morphology": "flatDepression",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 200,
+          "amplitudeMm": -3.0,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

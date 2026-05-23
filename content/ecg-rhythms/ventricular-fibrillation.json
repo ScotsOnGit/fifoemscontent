@@ -1,0 +1,89 @@
+{
+  "id": "ventricular-fibrillation",
+  "name": "Ventricular Fibrillation",
+  "aliases": ["VF", "V-Fib"],
+  "urgency": "shockable",
+  "category": "ventricular",
+  "actionLabel": "SHOCK",
+  "identifyBy": [
+    "Chaotic, irregular baseline with no identifiable QRS complexes",
+    "No discernible P waves, QRS, or T waves",
+    "Amplitude variable, fine (<5mm) to coarse (>10mm)",
+    "Rate: 150–500 Hz undulations"
+  ],
+  "measurements": {
+    "rate": "150–500 undulations/min",
+    "rhythm": "Chaotic/Irregular",
+    "pWaves": "Absent",
+    "prInterval": null,
+    "qrsDuration": "Not measurable",
+    "qtInterval": null,
+    "axis": null,
+    "stSegment": null
+  },
+  "management": [
+    "Confirm cardiac arrest: no pulse, unresponsive",
+    "Begin CPR immediately: 30:2 ratio",
+    "Defibrillate as soon as available: 200J biphasic",
+    "Continue CPR 2 minutes post-shock",
+    "Adrenaline 1mg IV/IO every 3-5 minutes after 2nd shock",
+    "Amiodarone 300mg IV/IO after 3rd shock",
+    "Reassess rhythm every 2 minutes"
+  ],
+  "pearls": [
+    "Fine VF may be misidentified as asystole, confirm in two leads",
+    "Do not delay defibrillation to establish IV access",
+    "Coarse VF responds better to defibrillation than fine VF",
+    "VF in hypothermia: defibrillate once, then focus on rewarming"
+  ],
+  "differentials": [
+    "Asystole (very fine VF)",
+    "Artifact"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedCalculatorIDs": [],
+  "tags": ["VF", "cardiac arrest", "shockable", "defibrillation"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 1,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 40,
+          "amplitudeMm": 4.0,
+          "morphology": "fibrillatory"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 40,
+          "amplitudeMm": 4.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

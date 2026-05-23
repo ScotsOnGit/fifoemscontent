@@ -1,0 +1,95 @@
+{
+  "id": "pre-excited-af-wpw",
+  "name": "Pre-excited AF — WPW + Atrial Fibrillation",
+  "aliases": ["WPW with AF", "Pre-excited AF", "Antidromic AF", "WPW atrial fibrillation", "Accessory pathway AF"],
+  "urgency": "urgent",
+  "category": "supraventricular",
+  "actionLabel": "SHOCK",
+  "identifyBy": [
+    "Irregular wide-complex tachycardia at very high rate (>200 bpm)",
+    "Grossly irregular RR intervals (irregular irregularity)",
+    "Wide bizarre QRS complexes (delta wave + accessory pathway conduction)",
+    "Rate can exceed 300 bpm — ventricular fibrillation risk",
+    "ECG looks chaotic — often misidentified as VF or VT"
+  ],
+  "measurements": {
+    "rate": "200–300 bpm (dangerously fast)",
+    "rhythm": "Irregular (irregular irregularity)",
+    "pWaves": "Absent — AF",
+    "prInterval": "Not measurable",
+    "qrsDuration": "Wide and variable (pre-excitation)",
+    "qtInterval": "Not measurable",
+    "axis": "Variable",
+    "stSegment": "Cannot assess"
+  },
+  "management": [
+    "If haemodynamically unstable: immediate synchronised DC cardioversion",
+    "AVOID AV nodal blocking drugs: Adenosine CONTRAINDICATED, Verapamil CONTRAINDICATED, Digoxin CONTRAINDICATED",
+    "These drugs block the AV node, forcing all conduction down the accessory pathway at maximum rate — can precipitate VF",
+    "Procainamide (preferred) or Flecainide may slow accessory pathway conduction",
+    "If deteriorates to VF: defibrillate 200J unsynchronised"
+  ],
+  "pearls": [
+    "The most dangerous WPW presentation — AV nodal drugs are potentially fatal",
+    "If in doubt between this and VF: defibrillate — safe for both",
+    "Rate >250 bpm in irregular wide complex = pre-excited AF until proven otherwise",
+    "The irregularity distinguishes pre-excited AF from VT (VT is usually regular)",
+    "After conversion: definitive treatment is accessory pathway ablation"
+  ],
+  "differentials": [
+    "VF (no QRS complexes visible)",
+    "Polymorphic VT (different morphology, usually no delta waves)",
+    "AF with aberrant conduction (LBBB/RBBB — but rate <200 bpm usually)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["WPW", "pre-excited AF", "accessory pathway", "atrial fibrillation", "wide complex", "irregular", "adenosine contraindicated"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 4,
+    "cycleDurationMs": 280,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 80,
+          "segmentDeviationMm": 0.0
+        },
+        "deltaWave": {
+          "durationMs": 40,
+          "amplitudeMm": 3.0,
+          "polarity": "positive"
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 14.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

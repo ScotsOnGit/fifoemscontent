@@ -1,0 +1,98 @@
+{
+  "id": "second-degree-av-block-mobitz-i",
+  "name": "2° AV Block Mobitz I (Wenckebach)",
+  "aliases": ["Wenckebach", "Mobitz I", "Mobitz Type I", "Wenckebach block", "Second Degree AV Block Type I"],
+  "urgency": "recognition",
+  "category": "blocks",
+  "actionLabel": null,
+  "identifyBy": [
+    "Progressive PR interval prolongation with each beat",
+    "Followed by a dropped QRS (non-conducted P wave)",
+    "Shortest PR after the dropped beat, then progressively lengthens",
+    "Regular PP interval but irregular RR (due to dropped beat)",
+    "Group beating pattern: '3 P waves with 2 QRS complexes' etc."
+  ],
+  "measurements": {
+    "rate": "Ventricular slightly slower than atrial",
+    "rhythm": "Regularly irregular (group beating)",
+    "pWaves": "More P waves than QRS complexes",
+    "prInterval": "Progressive lengthening then dropped beat",
+    "qrsDuration": "Narrow (nodal block)",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Usually benign, often no treatment required if asymptomatic",
+    "Symptomatic: Atropine 0.6mg IV (responds well - nodal block)",
+    "Identify and treat cause: inferior MI, drug toxicity, vagal excess, myocarditis",
+    "Monitor for progression to complete heart block (rare with Mobitz I)",
+    "Stop causative medications if symptomatic"
+  ],
+  "pearls": [
+    "Wenckebach is an AV node (nodal) block and responds to Atropine (unlike Mobitz II)",
+    "Inferior MI + Wenckebach: common, usually transient, good prognosis",
+    "Shorter cycles: the increment of PR prolongation gets smaller each beat (though PR keeps getting longer)",
+    "The most common and benign form of second-degree AV block",
+    "Distinguish from Mobitz II: Mobitz I has narrow QRS and gradual PR prolongation; Mobitz II has wide QRS and sudden drop"
+  ],
+  "differentials": [
+    "Mobitz II (sudden dropped QRS, constant PR, wide QRS)",
+    "Complete heart block (no P waves conduct)",
+    "Blocked PAC (premature P wave not conducted)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["Wenckebach", "Mobitz I", "second degree AV block", "group beating", "PR prolongation", "dropped beat"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1100,
+    "avBlock": {
+      "type": "wenckebach",
+      "atrialCycleMs": 700.0,
+      "atrialPhaseOffsetMs": 0.0,
+      "wenckebachGroupSize": 4,
+      "wenckebachStartPrMs": 160.0,
+      "wenckebachPrIncrementMs": 70.0
+    },
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 240,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

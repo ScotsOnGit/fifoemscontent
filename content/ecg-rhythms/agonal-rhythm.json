@@ -1,0 +1,89 @@
+{
+  "id": "agonal-rhythm",
+  "name": "Agonal Rhythm",
+  "aliases": ["Dying heart rhythm", "Terminal rhythm"],
+  "urgency": "arrest",
+  "category": "ventricular",
+  "actionLabel": "CPR",
+  "identifyBy": [
+    "Very slow wide bizarre QRS complexes — rate <20 bpm",
+    "No P waves",
+    "Irregular timing of complexes",
+    "Grossly abnormal QRS morphology",
+    "Terminal rhythm — precedes asystole"
+  ],
+  "measurements": {
+    "rate": "<20 bpm",
+    "rhythm": "Irregular",
+    "pWaves": "Absent",
+    "prInterval": null,
+    "qrsDuration": ">200ms (grossly wide)",
+    "qtInterval": null,
+    "axis": "Extreme",
+    "stSegment": null
+  },
+  "management": [
+    "Begin CPR immediately",
+    "Treat as non-shockable arrest — do not defibrillate",
+    "Adrenaline 1mg IV/IO every 3–5 minutes",
+    "Identify reversible causes (4Hs and 4Ts)",
+    "Confirm no pulse — agonal rhythm is incompatible with life"
+  ],
+  "pearls": [
+    "Agonal rhythm is a pre-terminal pattern",
+    "Do not defibrillate",
+    "Complexes may slow and widen progressively before asystole",
+    "Sometimes called 'dying heart rhythm'"
+  ],
+  "differentials": [
+    "Idioventricular rhythm (has pulse)",
+    "Third-degree AV block with ventricular escape",
+    "Asystole"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedCalculatorIDs": [],
+  "tags": ["agonal", "agonal rhythm", "cardiac arrest", "non-shockable", "dying heart"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 2,
+    "cycleDurationMs": 3000,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 200,
+          "amplitudeMm": 6.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

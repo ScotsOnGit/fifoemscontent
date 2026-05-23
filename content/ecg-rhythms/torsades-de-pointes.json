@@ -1,0 +1,89 @@
+{
+  "id": "torsades-de-pointes",
+  "name": "Torsades de Pointes",
+  "aliases": ["TdP", "Torsades", "Polymorphic VT"],
+  "urgency": "shockable",
+  "category": "ventricular",
+  "actionLabel": "SHOCK",
+  "identifyBy": [
+    "Polymorphic VT — QRS amplitude and axis rotate cyclically ('twisting of the points')",
+    "Rate 150–300 bpm, irregular",
+    "Preceded by prolonged QT interval (>470ms)",
+    "Often self-terminating but can degenerate to VF",
+    "Long-short RR sequence ('short-long-short') may precede onset"
+  ],
+  "measurements": {
+    "rate": "150–300 bpm",
+    "rhythm": "Irregular",
+    "pWaves": "Absent",
+    "prInterval": null,
+    "qrsDuration": ">120ms (variable)",
+    "qtInterval": ">470ms (preceding rhythm)",
+    "axis": "Rotating",
+    "stSegment": null
+  },
+  "management": [
+    "If pulseless: defibrillate 200J biphasic, begin CPR",
+    "Magnesium sulfate 2g IV over 1–2 minutes (drug of choice)",
+    "Correct reversible causes: hypokalemia, hypomagnesemia, drugs",
+    "Overdrive pacing if refractory",
+    "Withhold QT-prolonging drugs"
+  ],
+  "pearls": [
+    "Magnesium works even with normal magnesium levels",
+    "Key triggers: hypokalaemia, medications (antiarrhythmics, antipsychotics, antibiotics)",
+    "Congenital long QT (Romano-Ward, Jervell-Lange-Nielsen) in young patients",
+    "Avoid amiodarone — prolongs QT further"
+  ],
+  "differentials": [
+    "Polymorphic VT without long QT",
+    "VF",
+    "Artifact"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation", "cardiac-arrhythmia", "hypokalaemia"],
+  "relatedCalculatorIDs": ["qtc-bazett"],
+  "tags": ["TdP", "Torsades", "torsades de pointes", "polymorphic VT", "shockable", "long QT"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 400,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 8.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

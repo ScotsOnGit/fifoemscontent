@@ -1,0 +1,92 @@
+{
+  "id": "ventricular-tachycardia-unstable",
+  "name": "VT with Pulse — Unstable",
+  "aliases": ["Unstable VT", "Haemodynamically Unstable VT", "VT with shock", "VT pulse present"],
+  "urgency": "urgent",
+  "category": "ventricular",
+  "actionLabel": "SHOCK",
+  "identifyBy": [
+    "Regular wide-complex tachycardia — rate 100–250 bpm",
+    "QRS duration >120ms, monomorphic (uniform shape beat-to-beat)",
+    "PULSE IS PRESENT — distinguishes from pulseless VT",
+    "Haemodynamic instability: hypotension, altered consciousness, chest pain, or acute pulmonary oedema",
+    "AV dissociation, fusion beats, or capture beats confirm ventricular origin"
+  ],
+  "measurements": {
+    "rate": "100–250 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Dissociated (if visible)",
+    "prInterval": "Not measurable",
+    "qrsDuration": ">120ms",
+    "qtInterval": "Variable",
+    "axis": "Often Left or Extreme",
+    "stSegment": "Discordant"
+  },
+  "management": [
+    "Confirm pulse present — if absent, treat as cardiac arrest (pulseless VT)",
+    "If haemodynamically unstable: synchronised DC cardioversion 100–200J",
+    "Ensure adequate sedation/analgesia before cardioversion if time allows",
+    "Consider Amiodarone 300mg IV over 20–60 minutes if borderline stability",
+    "Prepare defibrillator — may deteriorate to pulseless VT or VF",
+    "Urgent evacuation after stabilisation"
+  ],
+  "pearls": [
+    "'Stable' VT is a dangerous misnomer — ALL VT is potentially life-threatening",
+    "Synchronised cardioversion is preferred over drugs when haemodynamically compromised",
+    "Adenosine is contraindicated — can precipitate VF if wrong diagnosis (pre-excited pathway)",
+    "Broad complex tachycardia with haemodynamic compromise = treat as VT first",
+    "If uncertain: use the Brugada criteria or default to treatment for VT"
+  ],
+  "differentials": [
+    "SVT with aberrant conduction",
+    "Pre-excited tachycardia",
+    "Pulseless VT (no pulse)",
+    "Torsades de Pointes (polymorphic)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["VT", "ventricular tachycardia", "unstable VT", "wide complex", "haemodynamic instability", "cardioversion"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 4,
+    "cycleDurationMs": 360,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 60,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 12.0,
+          "morphology": "wide",
+          "axisDeviation": "left",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -1.5,
+          "morphology": "flatDepression",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 120,
+          "amplitudeMm": 3.0,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

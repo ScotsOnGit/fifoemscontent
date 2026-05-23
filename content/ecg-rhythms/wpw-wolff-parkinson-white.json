@@ -1,0 +1,96 @@
+{
+  "id": "wpw-wolff-parkinson-white",
+  "name": "WPW — Wolff-Parkinson-White",
+  "aliases": ["WPW", "Wolff Parkinson White", "Pre-excitation", "Delta wave", "Accessory pathway"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Short PR interval <120ms (pre-excitation — impulse bypasses AV node)",
+    "Delta wave: slurred upstroke at onset of QRS (initial slow conduction via accessory pathway)",
+    "Wide QRS >120ms (delta wave + QRS fusion)",
+    "Pseudo ST/T changes secondary to abnormal depolarisation",
+    "Secondary ST-T changes: ST depression and T inversion in leads with dominant delta waves"
+  ],
+  "measurements": {
+    "rate": "Normal 60–100 bpm (at rest)",
+    "rhythm": "Regular",
+    "pWaves": "Normal — precede every QRS",
+    "prInterval": "<120ms (short)",
+    "qrsDuration": ">120ms (delta wave + widened)",
+    "qtInterval": "Normal to prolonged",
+    "axis": "Variable — depends on pathway location",
+    "stSegment": "Secondary changes (discordant to delta wave)"
+  },
+  "management": [
+    "Asymptomatic WPW: cardiology referral for risk stratification",
+    "Symptomatic WPW (SVT, AF, syncope): urgent cardiology referral for EP study",
+    "Definitive: radiofrequency catheter ablation",
+    "AVOID: Digoxin, Verapamil, Adenosine (in AF) — may preferentially conduct AF via pathway",
+    "If presenting with WPW + AF: treat as pre-excited AF (see separate entry)"
+  ],
+  "pearls": [
+    "Delta wave polarity localises the accessory pathway: positive V1 = left-sided, negative V1 = right-sided",
+    "Up to 25% of WPW is asymptomatic — found incidentally",
+    "Risk of sudden death: ~1 in 1000 patient-years — due to rapid AF conducting via accessory pathway to ventricles",
+    "Lown-Ganong-Levine (LGL) syndrome: short PR, narrow QRS, no delta wave — different pathway location",
+    "WPW on ECG mimics MI: negative delta waves in inferior/anterior leads simulate pathological Q waves"
+  ],
+  "differentials": [
+    "1° AV block (PR prolonged not short)",
+    "LBBB/RBBB (wide QRS but no delta wave, no short PR)",
+    "Inferior MI with Q waves (delta wave mimics Q)",
+    "LGL syndrome (short PR, no delta)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["WPW", "Wolff-Parkinson-White", "delta wave", "pre-excitation", "accessory pathway", "short PR"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 80,
+          "segmentDeviationMm": 0.0
+        },
+        "deltaWave": {
+          "durationMs": 50,
+          "amplitudeMm": 3.0,
+          "polarity": "positive"
+        },
+        "qrs": {
+          "durationMs": 130,
+          "amplitudeMm": 12.0,
+          "morphology": "deltaWave",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -0.5,
+          "morphology": "flatDepression",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": 2.0,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

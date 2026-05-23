@@ -1,0 +1,97 @@
+{
+  "id": "bifascicular-block",
+  "name": "Bifascicular Block",
+  "aliases": ["Bifascicular Block", "RBBB + LAFB", "Right bundle left anterior hemiblock"],
+  "urgency": "recognition",
+  "category": "blocks",
+  "actionLabel": null,
+  "identifyBy": [
+    "RBBB morphology: RSR' in V1, wide S in I/V6",
+    "PLUS Left axis deviation −45° to −90° (LAFB component)",
+    "QRS duration ≥120ms (RBBB)",
+    "The combination blocks 2 of 3 fascicles of the conduction system",
+    "One fascicle (left posterior) still conducting — trifascicular block if PR also prolonged"
+  ],
+  "measurements": {
+    "rate": "Normal",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal or prolonged (if trifascicular)",
+    "qrsDuration": "≥120ms (RBBB)",
+    "qtInterval": "Normal to prolonged",
+    "axis": "Left: −45° to −90°",
+    "stSegment": "Discordant (RBBB pattern)"
+  },
+  "management": [
+    "Bifascicular block without symptoms: no urgent treatment — cardiology referral",
+    "With syncope or near-syncope: urgent evaluation — may require pacemaker",
+    "Trifascicular block (bifascicular + 1° AV block): high risk — pacemaker strongly considered",
+    "In acute anterior MI: bifascicular block suggests extensive damage — high mortality risk",
+    "Intermittent 3° AV block causing syncope: permanent pacemaker"
+  ],
+  "pearls": [
+    "Bifascicular block = 2/3 fascicles blocked; trifascicular = all 3 (permanent complete heart block)",
+    "RBBB + LAFB is more common than RBBB + LPFB (LAFB more common than LPFB)",
+    "In anterior MI, new bifascicular block indicates major conduction system damage",
+    "Syncope in bifascicular block must be investigated urgently — may be Stokes-Adams attack (intermittent complete heart block)",
+    "Electrophysiology study (EPS) can assess HV interval — prolonged HV (>70ms) = high risk"
+  ],
+  "differentials": [
+    "RBBB alone (no left axis deviation)",
+    "LBBB (different morphology)",
+    "LAFB alone (no RBBB)",
+    "Anteroseptal MI with conduction defect"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["bifascicular block", "RBBB LAFB", "trifascicular", "conduction system", "syncope risk", "left axis"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "V1",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 90,
+          "amplitudeMm": 1.0,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 200,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 140,
+          "amplitudeMm": 5.0,
+          "morphology": "rbbb",
+          "axisDeviation": "left",
+          "qWaves": false,
+          "rsrPattern": {
+            "r1AmplitudeMm": 3.0,
+            "sDepthMm": 2.0,
+            "r2AmplitudeMm": 5.5,
+            "r2DurationMs": 50
+          }
+        },
+        "stSegment": {
+          "deviationMm": -0.5,
+          "morphology": "flatDepression",
+          "leadsAffected": ["V1", "V2"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": -2.0,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

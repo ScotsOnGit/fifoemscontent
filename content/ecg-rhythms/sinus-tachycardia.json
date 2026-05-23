@@ -1,0 +1,92 @@
+{
+  "id": "sinus-tachycardia",
+  "name": "Sinus Tachycardia",
+  "aliases": ["Tachycardia", "Sinus Tachy", "Fast Heart Rate", "ST"],
+  "urgency": "recognition",
+  "category": "normal",
+  "actionLabel": null,
+  "identifyBy": [
+    "Regular rhythm at >100 bpm (usually 100–150 bpm)",
+    "Upright P waves in II precede every QRS",
+    "P waves may merge with preceding T wave at high rates",
+    "Rate is appropriate to physiological state (pain, fever, anxiety, exercise)",
+    "Gradual onset and offset — distinguishes from paroxysmal SVT"
+  ],
+  "measurements": {
+    "rate": ">100 bpm (usually 100–150 bpm)",
+    "rhythm": "Regular",
+    "pWaves": "Upright II — may be hidden in T wave at fast rates",
+    "prInterval": "120–200ms (may shorten slightly)",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Shortened (rate-related)",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Treat the underlying cause — sinus tachycardia is a response, not a primary rhythm",
+    "Causes: pain, fever, anxiety, hypovolaemia, anaemia, hyperthyroidism, PE, sepsis, heart failure",
+    "Do NOT use AV nodal blocking drugs (adenosine, verapamil) — will not terminate and can cause hypotension",
+    "IV fluid if hypovolaemia",
+    "Analgesia if pain-related",
+    "Beta-blockers only if thyrotoxicosis or specific indication — not general first-line"
+  ],
+  "pearls": [
+    "Sinus tachycardia is never the primary problem — always find the cause",
+    "Rate >150 bpm: P waves may be hidden in T waves — compare multiple leads to find them",
+    "Inappropriate sinus tachycardia (IST): persistent elevated rate without physiological trigger — rare, diagnosis of exclusion",
+    "After exercise, heart rate should decrease within 1 minute — failure to do so suggests chronotropic dysfunction",
+    "PE classically causes sinus tachycardia — not necessarily any other arrhythmia"
+  ],
+  "differentials": [
+    "SVT/AVNRT (abrupt onset/offset, P after QRS)",
+    "Atrial flutter (rate 150 bpm = 2:1 flutter)",
+    "Atrial tachycardia",
+    "Junctional tachycardia"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["sinus tachycardia", "tachycardia", "fast", "secondary", "causes"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 500,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 70,
+          "amplitudeMm": 1.8,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 140,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 10.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 140,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

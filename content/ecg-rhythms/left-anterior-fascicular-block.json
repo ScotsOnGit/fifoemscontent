@@ -1,0 +1,90 @@
+{
+  "id": "left-anterior-fascicular-block",
+  "name": "Left Anterior Fascicular Block",
+  "aliases": ["LAFB", "Left Anterior Hemiblock", "LAH", "Left Axis Deviation due to LAFB"],
+  "urgency": "recognition",
+  "category": "blocks",
+  "actionLabel": null,
+  "identifyBy": [
+    "Left axis deviation (axis −45° to −90°)",
+    "QRS duration <120ms (narrow QRS — not a full BBB)",
+    "Small R, deep S in II, III, aVF (rS pattern inferior)",
+    "Small Q, tall R in I, aVL (qR pattern lateral)",
+    "No other cause of left axis deviation (e.g. not inferior MI, not WPW)"
+  ],
+  "measurements": {
+    "rate": "Normal",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal",
+    "axis": "Left: −45° to −90°",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "LAFB alone: no treatment required",
+    "Investigate for cause: hypertension, aortic valve disease, ischaemic heart disease, cardiomyopathy",
+    "LAFB + RBBB = bifascicular block — monitor for progression to complete heart block",
+    "Trifascicular block (bifascicular + 1° AV block): cardiology referral — pacemaker consideration"
+  ],
+  "pearls": [
+    "LAFB is the most common fascicular block — present in 4% of ECGs",
+    "Left axis deviation has many causes: LAFB, inferior MI, WPW, hyperkalaemia, LV pacing",
+    "The left bundle has 2 fascicles: anterior (LAFB → left axis) and posterior (LPFB → right axis)",
+    "LAFB does not prolong QRS significantly — unlike full BBB",
+    "In the context of anterior MI, LAFB may indicate periinfarction block — worse prognosis"
+  ],
+  "differentials": [
+    "Inferior MI (left axis with Q waves in II, III, aVF)",
+    "LV hypertrophy with strain",
+    "WPW with negative delta in inferior leads",
+    "Hyperkalaemia (left axis + wide QRS)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["LAFB", "left anterior fascicular block", "left axis deviation", "hemiblock", "conduction"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "I",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 110,
+          "amplitudeMm": 10.0,
+          "morphology": "normal",
+          "axisDeviation": "left",
+          "qWaves": true
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

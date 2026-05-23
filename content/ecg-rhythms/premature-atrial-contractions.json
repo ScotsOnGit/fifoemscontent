@@ -1,0 +1,90 @@
+{
+  "id": "premature-atrial-contractions",
+  "name": "PAC — Premature Atrial Contractions",
+  "aliases": ["PAC", "PACs", "Premature Atrial Beats", "Atrial Ectopic Beats", "Supraventricular Ectopics", "APB"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Early P wave with different morphology from sinus P waves",
+    "QRS usually narrow — same as sinus QRS unless aberrant conduction",
+    "Usually followed by a non-compensatory pause (sinus node reset)",
+    "May occur in bigeminy (every other beat) or trigeminy",
+    "Aberrant PAC: wide QRS (RBBB morphology usually) — aberrant conduction due to early firing"
+  ],
+  "measurements": {
+    "rate": "Normal sinus rate with ectopics",
+    "rhythm": "Irregular (ectopic beats)",
+    "pWaves": "Ectopic P: different morphology, earlier than expected",
+    "prInterval": "Variable (depends on ectopic focus location)",
+    "qrsDuration": "Usually <120ms (narrow) unless aberrant",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Isolated PACs in structurally normal heart: reassure — benign",
+    "Reduce triggers: caffeine, alcohol, stress, sleep deprivation, hyperthyroidism",
+    "Frequent PACs (>1000/day): consider Holter, echocardiogram — trigger for AF in susceptible individuals",
+    "Beta-blockers or calcium channel blockers if symptomatic",
+    "PACs can trigger AF — if frequent with symptoms, cardiology review"
+  ],
+  "pearls": [
+    "PACs are the most common cardiac ectopic — present in virtually everyone at some point",
+    "Ectopic P wave may be hidden in the preceding T wave — distorting T wave shape",
+    "Non-compensatory pause: sinus node resets after PAC — RR interval containing PAC < 2x normal RR",
+    "Nonconducted PAC: early P wave with no QRS — may be confused with 2° AV block or SA block",
+    "Frequent PACs (>30/hour) with symptoms: consider catheter ablation at tertiary centre"
+  ],
+  "differentials": [
+    "Sinus arrhythmia (regular P morphology)",
+    "Nonconducted PAC vs AV block",
+    "PVC (wide QRS, fully compensatory pause)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["PAC", "premature atrial contraction", "atrial ectopic", "ectopic", "palpitations"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 740,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.8,
+          "morphology": "peaked"
+        },
+        "prSegment": {
+          "intervalMs": 150,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 95,
+          "amplitudeMm": 10.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 150,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

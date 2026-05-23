@@ -1,0 +1,167 @@
+{
+  "id": "stemi-posterior",
+  "name": "STEMI — Posterior",
+  "aliases": ["Posterior STEMI", "Posterior MI", "True Posterior MI", "V7-V9 STEMI"],
+  "urgency": "urgent",
+  "category": "stemi",
+  "actionLabel": "EVACUATE",
+  "identifyBy": [
+    "Mirror image in standard leads: dominant R in V1–V2, horizontal ST depression V1–V3, upright T waves",
+    "Direct confirmation: ST elevation ≥0.5mm in posterior leads V7–V9",
+    "Often co-presents with inferior STEMI (RCA or LCx territory)",
+    "Tall broad R wave in V1 ≥0.04s (equivalent to posterior Q wave)",
+    "Most commonly missed STEMI — requires posterior leads to confirm"
+  ],
+  "measurements": {
+    "rate": "60–100 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "120–200ms",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Depression V1–V3 (mirror); Elevation V7–V9 (posterior leads)"
+  },
+  "management": [
+    "Standard 12-lead — look for ST depression + tall R in V1–V3",
+    "Apply posterior leads V7–V9 if posterior STEMI suspected",
+    "Aspirin 300mg PO",
+    "GTN with caution — assess for RV co-involvement",
+    "Urgent evacuation",
+    "Posterior STEMI has same reperfusion priority as anterior STEMI"
+  ],
+  "pearls": [
+    "The 'dominant R in V1' should trigger suspicion for posterior STEMI — this is a Q-wave equivalent",
+    "Posterior STEMI is the most commonly missed STEMI territory — always consider when V1–V3 show ST depression + tall R",
+    "V7 is placed at the left posterior axillary line, V8 at left scapular tip, V9 at left paravertebral",
+    "ST depression ≥0.5mm in V1–V3 + tall R wave = apply posterior leads immediately"
+  ],
+  "differentials": [
+    "RBBB (tall R V1, but different morphology)",
+    "WPW (delta wave, short PR)",
+    "RV hypertrophy (tall R V1, right axis deviation)",
+    "Anterior STEMI reciprocal changes"
+  ],
+  "relatedGuidelineIDs": ["acute-coronary-syndrome"],
+  "relatedCalculatorIDs": ["heart-score"],
+  "tags": ["STEMI", "posterior STEMI", "V7 V8 V9", "posterior leads", "missed STEMI", "ACS"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "multiLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "multiLead": {
+      "focusLead": "V7",
+      "leads": [
+        {
+          "lead": "V7",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": true,
+              "durationMs": 80,
+              "amplitudeMm": 1.5,
+              "morphology": "normal"
+            },
+            "prSegment": {
+              "intervalMs": 160,
+              "segmentDeviationMm": 0.0
+            },
+            "qrs": {
+              "durationMs": 100,
+              "amplitudeMm": 8.0,
+              "morphology": "normal",
+              "axisDeviation": "normal",
+              "qWaves": false
+            },
+            "stSegment": {
+              "deviationMm": 1.5,
+              "morphology": "convex",
+              "leadsAffected": ["V7", "V8", "V9"]
+            },
+            "tWave": {
+              "present": true,
+              "durationMs": 160,
+              "amplitudeMm": 2.5,
+              "morphology": "hyperacute",
+              "notched": false
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": {
+              "present": true,
+              "durationMs": 80,
+              "amplitudeMm": 1.0,
+              "morphology": "normal"
+            },
+            "prSegment": {
+              "intervalMs": 160,
+              "segmentDeviationMm": 0.0
+            },
+            "qrs": {
+              "durationMs": 100,
+              "amplitudeMm": 10.0,
+              "morphology": "normal",
+              "axisDeviation": "normal",
+              "qWaves": false
+            },
+            "stSegment": {
+              "deviationMm": -1.5,
+              "morphology": "flatDepression",
+              "leadsAffected": ["V1", "V2", "V3"]
+            },
+            "tWave": {
+              "present": true,
+              "durationMs": 160,
+              "amplitudeMm": 3.0,
+              "morphology": "peaked",
+              "notched": false
+            }
+          }
+        },
+        {
+          "lead": "V3",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": {
+              "present": true,
+              "durationMs": 80,
+              "amplitudeMm": 1.5,
+              "morphology": "normal"
+            },
+            "prSegment": {
+              "intervalMs": 160,
+              "segmentDeviationMm": 0.0
+            },
+            "qrs": {
+              "durationMs": 100,
+              "amplitudeMm": 9.0,
+              "morphology": "normal",
+              "axisDeviation": "normal",
+              "qWaves": false
+            },
+            "stSegment": {
+              "deviationMm": -1.0,
+              "morphology": "flatDepression",
+              "leadsAffected": ["V1", "V2", "V3"]
+            },
+            "tWave": {
+              "present": true,
+              "durationMs": 160,
+              "amplitudeMm": 2.0,
+              "morphology": "peaked",
+              "notched": false
+            }
+          }
+        }
+      ]
+    }
+  }
+}

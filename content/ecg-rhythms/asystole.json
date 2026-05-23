@@ -1,0 +1,89 @@
+{
+  "id": "asystole",
+  "name": "Asystole",
+  "aliases": ["Flatline", "No electrical activity"],
+  "urgency": "arrest",
+  "category": "other",
+  "actionLabel": "CPR",
+  "identifyBy": [
+    "Flat or near-flat baseline — no electrical activity",
+    "Confirm in ≥2 leads to exclude fine VF or cable disconnection",
+    "No QRS complexes, no P waves",
+    "Occasional P waves may be visible (P-wave asystole)"
+  ],
+  "measurements": {
+    "rate": "0 bpm (absent)",
+    "rhythm": "Absent",
+    "pWaves": "Absent (rarely P-wave asystole)",
+    "prInterval": null,
+    "qrsDuration": "Absent",
+    "qtInterval": null,
+    "axis": null,
+    "stSegment": null
+  },
+  "management": [
+    "Confirm in 2 leads — fine VF may mimic asystole",
+    "Check lead connections and gain settings",
+    "Begin CPR immediately — 30:2",
+    "Adrenaline 1mg IV/IO every 3–5 minutes",
+    "Identify and treat reversible causes (4Hs and 4Ts)",
+    "Do not defibrillate asystole"
+  ],
+  "pearls": [
+    "Do NOT defibrillate asystole — it will not restart the heart",
+    "4Hs: Hypoxia, Hypovolaemia, Hypo/Hyperkalaemia, Hypothermia",
+    "4Ts: Tension pneumothorax, Tamponade, Toxins, Thrombosis",
+    "P-wave asystole may respond to pacing"
+  ],
+  "differentials": [
+    "Fine VF",
+    "Lead disconnection",
+    "PEA"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedCalculatorIDs": [],
+  "tags": ["asystole", "cardiac arrest", "non-shockable", "flatline"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 40,
+          "amplitudeMm": 0.5,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

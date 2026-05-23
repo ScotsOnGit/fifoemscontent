@@ -1,0 +1,92 @@
+{
+  "id": "short-qt",
+  "name": "Short QT Syndrome",
+  "aliases": ["Short QT", "SQTS", "Short QTc", "Congenital Short QT"],
+  "urgency": "findings",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "QTc <330ms (short absolute QT — Gollob criteria)",
+    "Tall, peaked, narrow T waves in precordial leads",
+    "Absent or minimal ST segment — T wave immediately follows QRS",
+    "QT interval barely changes with heart rate (flat QT/RR relationship)",
+    "Risk of VF, SCD, atrial fibrillation in young patients"
+  ],
+  "measurements": {
+    "rate": "60–90 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal",
+    "qrsDuration": "<120ms",
+    "qtInterval": "<330ms (Gollob criteria; <350ms in some guidelines)",
+    "axis": "Normal",
+    "stSegment": "Absent or minimal — T wave immediately follows QRS"
+  },
+  "management": [
+    "ICD implantation for survivors of cardiac arrest or with documented spontaneous VF",
+    "Quinidine: class IA drug — prolongs QT (only drug shown effective); blocks Ito current",
+    "Avoid QT-shortening factors: hypercalcaemia, acidosis, cocaine",
+    "Genetic testing: KCNH2 (hERG), KCNQ1, KCNJ2 mutations identified",
+    "First-degree relatives should be screened with ECG",
+    "Restrict competitive sport pending specialist evaluation"
+  ],
+  "pearls": [
+    "Short QT syndrome: QTc <330ms + symptoms = high-risk (VF, SCD, AF in young)",
+    "Unlike hypercalcaemia short QT: congenital SQTS has tall peaked T waves + VF risk",
+    "The short QT makes it very hard to see the T wave until you look carefully — easy to miss",
+    "AF in young patients without obvious cause: consider SQTS screening",
+    "Prevalence is rare (<1 in 2000) but important because ICD is the only proven survival benefit"
+  ],
+  "differentials": [
+    "Hypercalcaemia (short QT but broad T, no tall peaks, electrolyte cause)",
+    "WPW (short PR due to delta wave, not short QT)",
+    "Normal ECG at fast HR (QT shortens physiologically — use QTc formula)",
+    "Digoxin effect (reverse tick ST, short QT but different context)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": ["qtc-calculator"],
+  "tags": ["short QT", "SQTS", "congenital short QT", "QTc", "tall T waves", "VF risk"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 85,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 6.0,
+          "morphology": "peaked",
+          "notched": false
+        }
+      }
+    }
+  }
+}

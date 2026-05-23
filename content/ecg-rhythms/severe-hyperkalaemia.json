@@ -1,0 +1,93 @@
+{
+  "id": "severe-hyperkalaemia",
+  "name": "Severe Hyperkalaemia",
+  "aliases": ["Severe Hyperkalemia", "Hyperkalaemia ECG", "High Potassium ECG", "K+ toxicity", "Sine wave pattern"],
+  "urgency": "urgent",
+  "category": "electrolyte",
+  "actionLabel": "EVACUATE",
+  "identifyBy": [
+    "Progressive ECG changes as K+ rises: peaked T → wide QRS → PR prolongation → P wave flattening → sine wave",
+    "Sine wave pattern (sinusoidal QRS-T morphology) = pre-terminal — immediate risk of arrest",
+    "No discernible P waves when severely elevated (>7.0 mmol/L)",
+    "QRS duration >200ms in severe cases",
+    "Often associated with renal failure, DKA, crush injury, rhabdomyolysis"
+  ],
+  "measurements": {
+    "rate": "Variable — may be bradycardic",
+    "rhythm": "Regular or deteriorating",
+    "pWaves": "Absent or flattened (severe)",
+    "prInterval": "Prolonged or absent",
+    "qrsDuration": ">120–200ms (wide and widening)",
+    "qtInterval": "Not measurable in severe cases",
+    "axis": "Variable",
+    "stSegment": "Merges with T wave in sine wave pattern"
+  },
+  "management": [
+    "Calcium gluconate 10mL 10% IV over 2–5 minutes — membrane stabilisation (acts in 1–2 min)",
+    "Sodium bicarbonate 8.4% 50mL IV — shifts K+ intracellularly (metabolic acidosis)",
+    "Salbutamol 10–20mg nebulised — beta-2 mediated K+ shift into cells",
+    "Dextrose/Insulin (if available) — insulin drives K+ into cells",
+    "Urgent evacuation for dialysis if renal failure",
+    "If arrest occurs: treat cause alongside standard ALS"
+  ],
+  "pearls": [
+    "Calcium gluconate does NOT lower serum K+ — it stabilises the cardiac membrane to buy time",
+    "The ECG changes correlate imperfectly with K+ level — always treat the ECG, not just the number",
+    "Sine wave pattern + no pulse = treat as PEA (reversible cause: H = hyperkalaemia)",
+    "Pseudo-hyperkalaemia: haemolysed sample — repeat before treating if patient clinically stable",
+    "ECG may normalise rapidly with treatment — repeat ECG every 30 minutes after interventions"
+  ],
+  "differentials": [
+    "LBBB (wide QRS)",
+    "Complete heart block",
+    "Pulseless VT",
+    "Ventricular escape rhythm",
+    "Drug toxicity (sodium channel blockers — e.g. TCA overdose)"
+  ],
+  "relatedGuidelineIDs": ["hyperkalaemia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["hyperkalaemia", "hyperkalemia", "high potassium", "peaked T wave", "sine wave", "wide QRS", "renal failure", "DKA"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1000,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 200,
+          "amplitudeMm": 10.0,
+          "morphology": "sinusoidal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 300,
+          "amplitudeMm": 8.0,
+          "morphology": "peaked",
+          "notched": false
+        }
+      }
+    }
+  }
+}

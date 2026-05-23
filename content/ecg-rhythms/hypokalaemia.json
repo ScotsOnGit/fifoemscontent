@@ -1,0 +1,96 @@
+{
+  "id": "hypokalaemia",
+  "name": "Hypokalaemia",
+  "aliases": ["Hypokalemia", "Low Potassium", "Hypokalaemia ECG"],
+  "urgency": "findings",
+  "category": "electrolyte",
+  "actionLabel": null,
+  "identifyBy": [
+    "Flat or inverted T waves (early sign)",
+    "Prominent U waves (amplitude > T wave in same lead)",
+    "ST depression (down-sloping or horizontal)",
+    "Apparent QT prolongation (actually QU interval — T and U waves merge)",
+    "PR interval may be prolonged in severe cases"
+  ],
+  "measurements": {
+    "rate": "60–100 bpm (depends on underlying rhythm)",
+    "rhythm": "Usually regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal to prolonged",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Prolonged (QU interval >500ms — T+U merge)",
+    "axis": "Normal",
+    "stSegment": "Depression, down-sloping or flat"
+  },
+  "management": [
+    "Check serum potassium — ECG changes correlate roughly with K+ level",
+    "K+ 3.0–3.5 mmol/L (mild): oral potassium replacement if tolerated",
+    "K+ 2.5–3.0 mmol/L (moderate): IV potassium chloride 10–20 mmol/hr (max 40 mmol/hr via central line)",
+    "K+ <2.5 mmol/L or symptomatic: IV replacement, cardiac monitoring, correct co-existing hypomagnesaemia",
+    "Monitor ECG during replacement — risk of VT/VF at severe levels or with rapid correction",
+    "Identify cause: diuretics, vomiting, diarrhoea, hyperaldosteronism, renal losses"
+  ],
+  "pearls": [
+    "Hypokalaemia potentiates digoxin toxicity — dangerous combination even at 'therapeutic' digoxin levels",
+    "Hypomagnesaemia frequently co-exists — must replace Mg2+ or K+ replacement will fail",
+    "Prominent U wave >1mm in V2–V3, or U wave taller than T wave, is clinically significant",
+    "ECG changes lag behind serum levels — patient may have dangerous hypokalaemia with subtle ECG",
+    "Torsades de Pointes is a feared complication — especially with concurrent QT-prolonging drugs"
+  ],
+  "differentials": [
+    "Long QT syndrome (no U waves)",
+    "Hypothyroidism (bradycardia, diffuse T changes)",
+    "Normal ECG variant (small U waves in V2–V3 are normal)",
+    "Hypomagnesaemia (similar ECG — treat together)"
+  ],
+  "relatedGuidelineIDs": ["hyperkalaemia"],
+  "relatedCalculatorIDs": ["qtc-calculator"],
+  "tags": ["hypokalaemia", "hypokalemia", "U waves", "low potassium", "electrolyte", "flat T waves"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "V3",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.0,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -0.5,
+          "morphology": "downsloping",
+          "leadsAffected": ["II", "V2", "V3", "V4"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 140,
+          "amplitudeMm": 0.5,
+          "morphology": "flat",
+          "notched": false
+        },
+        "uWave": {
+          "present": true,
+          "amplitudeMm": 2.5
+        }
+      }
+    }
+  }
+}

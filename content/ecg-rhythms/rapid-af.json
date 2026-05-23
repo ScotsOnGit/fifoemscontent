@@ -1,0 +1,90 @@
+{
+  "id": "rapid-af",
+  "name": "Rapid AF",
+  "aliases": ["Fast AF", "AF with rapid ventricular response", "Uncontrolled AF", "RVR", "AF-RVR"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Atrial fibrillation with ventricular rate >110 bpm",
+    "Irregularly irregular rhythm, absent P waves",
+    "May cause haemodynamic compromise at rates >150 bpm",
+    "Tachycardia-induced cardiomyopathy if sustained >24–48 hours",
+    "Common precipitants: infection, pain, hyperthyroidism, PE, decompensated heart failure"
+  ],
+  "measurements": {
+    "rate": ">110 bpm (up to 170–200 bpm uncontrolled)",
+    "rhythm": "Irregularly irregular",
+    "pWaves": "Absent",
+    "prInterval": "None",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Short (rate-related)",
+    "axis": "Normal",
+    "stSegment": "May show rate-related ST changes"
+  },
+  "management": [
+    "IV rate control: Metoprolol 5mg IV or Diltiazem 10–20mg IV",
+    "If haemodynamically compromised: synchronised DC cardioversion",
+    "Treat precipitating cause (infection, pain, hyperthyroidism)",
+    "Anticoagulation consideration — same as AF",
+    "Caution with rate control in heart failure — avoid negatively inotropic agents"
+  ],
+  "pearls": [
+    "'Rapid AF' is not a separate rhythm — it's AF with inadequate rate control",
+    "Rate >150: consider AF with 2:1 flutter — look closely for flutter waves",
+    "Target resting ventricular rate <80–110 bpm depending on guidelines and patient",
+    "Avoid verapamil in decompensated HF — can precipitate acute decompensation",
+    "Digoxin: slow rate control, mainly effective at rest — poor for exercise-induced tachycardia"
+  ],
+  "differentials": [
+    "AF with good rate control (same rhythm, different rate)",
+    "Atrial flutter 2:1 (rate ~150, regular)",
+    "MAT (distinct P waves, usually in COPD context)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["rapid AF", "fast AF", "AF RVR", "tachycardia", "rate control"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 360,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 60,
+          "amplitudeMm": 0.4,
+          "morphology": "fibrillatory"
+        },
+        "prSegment": {
+          "intervalMs": 40,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -0.5,
+          "morphology": "flat",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 1.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

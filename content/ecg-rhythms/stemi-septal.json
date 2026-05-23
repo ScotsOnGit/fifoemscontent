@@ -1,0 +1,93 @@
+{
+  "id": "stemi-septal",
+  "name": "STEMI — Septal",
+  "aliases": ["Septal STEMI", "Septal MI", "V1-V2 STEMI"],
+  "urgency": "urgent",
+  "category": "stemi",
+  "actionLabel": "EVACUATE",
+  "identifyBy": [
+    "ST elevation ≥1mm in V1 and V2 (septal leads)",
+    "May extend to involve anterior territory (V1–V4)",
+    "Often associated with LBBB or RBBB (septal infarction disrupts conduction)",
+    "Reciprocal changes may be subtle — check inferior leads",
+    "Septal Q waves may develop (loss of septal depolarisation)"
+  ],
+  "measurements": {
+    "rate": "60–100 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "May be prolonged or first-degree block",
+    "qrsDuration": "May widen (BBB) — often >120ms",
+    "qtInterval": "May be prolonged",
+    "axis": "Variable",
+    "stSegment": "Elevation V1–V2; may involve V3"
+  },
+  "management": [
+    "12-lead ECG — confirm V1–V2 ST elevation",
+    "Consider bundled STEMI protocol — septal MI has high conduction block risk",
+    "Aspirin 300mg PO",
+    "Analgesia — Morphine or Fentanyl",
+    "IV access, monitor for AV block and complete heart block",
+    "Urgent evacuation",
+    "If complete heart block develops — transcutaneous pacing ready"
+  ],
+  "pearls": [
+    "Septal STEMI frequently causes complete AV block — have pacing equipment ready",
+    "New RBBB in the context of acute chest pain = possible septal infarction",
+    "Isolated V1–V2 ST elevation may represent posterior STEMI mirror — check V7–V9",
+    "Septal infarcts often co-present with anterior infarcts (proximal LAD occlusion)"
+  ],
+  "differentials": [
+    "Anterior STEMI (extending to V3–V4)",
+    "Posterior STEMI (reciprocal changes in V1–V2)",
+    "Brugada pattern (V1–V2 coved ST, no reciprocal changes)",
+    "LBBB",
+    "RBBB"
+  ],
+  "relatedGuidelineIDs": ["acute-coronary-syndrome"],
+  "relatedCalculatorIDs": ["heart-score"],
+  "tags": ["STEMI", "septal STEMI", "V1 V2 ST elevation", "ACS"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "V1",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.0,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 110,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": true
+        },
+        "stSegment": {
+          "deviationMm": 2.0,
+          "morphology": "convex",
+          "leadsAffected": ["V1", "V2"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": 2.5,
+          "morphology": "hyperacute",
+          "notched": false
+        }
+      }
+    }
+  }
+}

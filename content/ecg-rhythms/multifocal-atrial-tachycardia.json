@@ -1,0 +1,92 @@
+{
+  "id": "multifocal-atrial-tachycardia",
+  "name": "Multifocal Atrial Tachycardia",
+  "aliases": ["MAT", "Chaotic Atrial Tachycardia", "Multifocal atrial rhythm"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Irregular rhythm with DISTINCT P waves of ≥3 different morphologies",
+    "Rate >100 bpm (if <100 bpm = wandering atrial pacemaker)",
+    "Variable PR intervals (each focus has different conduction time)",
+    "No dominant atrial pacemaker — multiple competing foci",
+    "Classic context: severe COPD, hypoxia, hypomagnesaemia, heart failure"
+  ],
+  "measurements": {
+    "rate": ">100 bpm (irregular)",
+    "rhythm": "Irregular (but has P waves before each QRS)",
+    "pWaves": "≥3 distinct morphologies — key diagnostic criterion",
+    "prInterval": "Variable (changes beat to beat)",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Variable",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Treat the underlying cause — MAT rarely responds to antiarrhythmics alone",
+    "COPD: optimise bronchodilators, treat infection, correct hypoxia",
+    "Correct electrolytes: Magnesium 2g IV (even if normal levels — effective)",
+    "Verapamil may slow rate (but check lung function — some bronchospasm risk)",
+    "Avoid digoxin — usually ineffective for MAT",
+    "Note: cardioversion is NOT effective for MAT (not a re-entrant rhythm)"
+  ],
+  "pearls": [
+    "MAT is pathognomonic of COPD with cor pulmonale in the right clinical context",
+    "Magnesium is the most effective first-line drug for rate control in MAT",
+    "Easily confused with AF — the key difference: MAT has distinct P waves before each QRS",
+    "Theophylline toxicity is a classic cause — check drug history",
+    "Cardioversion is completely ineffective — MAT is an automatic (not re-entrant) tachycardia"
+  ],
+  "differentials": [
+    "AF (no distinct P waves, no isoelectric baseline between P waves)",
+    "Sinus tachycardia with PACs",
+    "Wandering atrial pacemaker (rate <100 bpm)",
+    "Atrial flutter with variable block"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["MAT", "multifocal atrial tachycardia", "COPD", "chaotic", "multiple P waves", "magnesium"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 540,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 90,
+          "amplitudeMm": 2.5,
+          "morphology": "peaked"
+        },
+        "prSegment": {
+          "intervalMs": 140,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 140,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

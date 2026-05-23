@@ -1,0 +1,87 @@
+{
+  "id": "interpolated-pvcs",
+  "name": "Interpolated PVCs",
+  "aliases": ["Interpolated PVC", "Interpolated Ventricular Ectopic", "Sandwiched PVC", "Interpolated beat"],
+  "urgency": "recognition",
+  "category": "ventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "PVC occurs between two normal sinus beats WITHOUT a compensatory pause",
+    "Both flanking sinus beats conduct normally — PVC is 'sandwiched'",
+    "PR interval of the beat AFTER the PVC may be slightly prolonged (retrograde concealed conduction)",
+    "Occurs at slower sinus rates — PVC 'fits' between beats without displacing them",
+    "Rate must be slow enough to allow the PVC to occur without disrupting the next P wave"
+  ],
+  "measurements": {
+    "rate": "Normal or slow sinus rate",
+    "rhythm": "Irregular (interpolated ectopic)",
+    "pWaves": "Normal sinus P waves before and after PVC",
+    "prInterval": "Slightly prolonged after interpolated PVC (concealed retrograde conduction)",
+    "qrsDuration": ">120ms (PVC)",
+    "qtInterval": "Normal (sinus beats)",
+    "axis": "Normal (sinus)",
+    "stSegment": "Normal (sinus beats)"
+  },
+  "management": [
+    "As for standard PVCs — benign in structurally normal heart",
+    "Monitor for frequency and symptoms",
+    "No specific additional treatment beyond standard PVC management"
+  ],
+  "pearls": [
+    "Interpolated PVCs occur when the sinus rate is slow enough to allow a PVC without displacing sinus rhythm",
+    "The slightly prolonged PR after the PVC is pathognomonic — retrograde conduction into the AV node causes transient refractoriness",
+    "Unlike standard PVCs: NO compensatory pause — sinus rhythm continues uninterrupted",
+    "May be missed if not looking carefully — only identified by the absence of the expected compensatory pause"
+  ],
+  "differentials": [
+    "Standard PVC (compensatory pause present)",
+    "PAC with aberrant conduction (non-compensatory pause, different P morphology)",
+    "Fusion beat (hybrid QRS)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["interpolated PVC", "interpolated ectopic", "no compensatory pause", "sandwiched PVC", "slow rate"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 150,
+          "amplitudeMm": 13.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 1.0,
+          "morphology": "concaveUp",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": -3.5,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "ventricular-standstill",
+  "name": "Ventricular Standstill",
+  "aliases": ["P-wave asystole"],
+  "urgency": "arrest",
+  "category": "ventricular",
+  "actionLabel": "CPR",
+  "identifyBy": [
+    "P waves present but no ventricular response (no QRS)",
+    "Atrial activity continues, ventricles are quiescent",
+    "Functionally asystole — no cardiac output",
+    "Also called 'P-wave asystole'",
+    "Rate of P waves: usually 60–100 bpm; QRS rate: 0"
+  ],
+  "measurements": {
+    "rate": "P waves: 60–100 bpm / QRS: absent",
+    "rhythm": "P-wave activity only",
+    "pWaves": "Present — regular P waves without QRS response",
+    "prInterval": "Not applicable",
+    "qrsDuration": "Absent",
+    "qtInterval": null,
+    "axis": null,
+    "stSegment": null
+  },
+  "management": [
+    "Begin CPR immediately",
+    "Transcutaneous pacing — may capture if conduction pathway functional",
+    "Adrenaline 1mg IV/IO every 3–5 minutes",
+    "Atropine 1mg IV (limited evidence)",
+    "Identify reversible causes",
+    "Do not defibrillate"
+  ],
+  "pearls": [
+    "Pacing may be effective — unlike asystole, the problem is AV conduction not ventricular automaticity",
+    "Distinguish from complete heart block — in CHB, ventricular escape rhythm is usually present",
+    "Rarely seen — most progress rapidly to asystole"
+  ],
+  "differentials": [
+    "Asystole",
+    "Complete (3°) AV block",
+    "Lead disconnection"
+  ],
+  "relatedGuidelineIDs": ["adult-resuscitation"],
+  "relatedCalculatorIDs": [],
+  "tags": ["ventricular standstill", "P-wave asystole", "cardiac arrest", "non-shockable"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-22T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 90,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "flat",
+          "notched": false
+        }
+      }
+    }
+  }
+}

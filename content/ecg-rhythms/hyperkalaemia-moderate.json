@@ -1,0 +1,93 @@
+{
+  "id": "hyperkalaemia-moderate",
+  "name": "Hyperkalaemia — Moderate",
+  "aliases": ["Moderate Hyperkalemia", "Peaked T waves", "Hyperkalaemia ECG", "Tall T waves"],
+  "urgency": "findings",
+  "category": "electrolyte",
+  "actionLabel": null,
+  "identifyBy": [
+    "Tall, narrow, peaked T waves ('tent-shaped') — symmetrical and sharply pointed",
+    "T wave amplitude often >6mm in precordial leads",
+    "Short QT interval (early sign)",
+    "P wave flattening (as K+ rises)",
+    "QRS normal width at moderate levels (widening occurs at severe levels)"
+  ],
+  "measurements": {
+    "rate": "60–100 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Flattened or small",
+    "prInterval": "May be prolonged",
+    "qrsDuration": "<120ms (moderate); ≥120ms (severe)",
+    "qtInterval": "Short (early); may prolong with QRS widening",
+    "axis": "Normal",
+    "stSegment": "Normal or slight changes"
+  },
+  "management": [
+    "Confirm with serum potassium — ECG changes appear at K+ 5.5–6.5 mmol/L (moderate)",
+    "IV Calcium gluconate 10mL of 10% over 2–5 min: membrane stabilisation (does NOT lower K+)",
+    "Insulin + glucose: 10 units actrapid in 50mL of 50% dextrose IV over 15–30 min (drives K+ into cells)",
+    "Salbutamol nebuliser 10–20mg: additional cellular shift (additive to insulin)",
+    "Consider sodium bicarbonate if acidotic (1–2 mmol/kg IV)",
+    "Definitive: dialysis, cation exchange resins (e.g. patiromer) — hospital definitive care",
+    "Identify and treat cause: renal failure, ACEi/ARB, spironolactone, rhabdomyolysis, Addison's disease"
+  ],
+  "pearls": [
+    "Progressive ECG changes: tall T → flat P → wide QRS → sine wave → VF/asystole",
+    "Calcium gluconate stabilises cardiac membranes within minutes — give FIRST if haemodynamically compromised",
+    "Pseudohyperkalaemia: haemolysed sample gives falsely elevated K+ — always recheck clinical correlation",
+    "Severe hyperkalaemia (K+ >6.5 mmol/L with wide QRS): treat as emergency regardless of symptoms",
+    "Hyperkalaemia + digoxin toxicity: DO NOT give calcium (may precipitate stone heart syndrome — IV calcium contraindicated in digoxin toxicity)"
+  ],
+  "differentials": [
+    "Severe hyperkalaemia (ECG is a spectrum — more changes = higher K+)",
+    "Normal high T waves (in young patients, V2–V4 precordial, asymmetric)",
+    "STEMI hyperacute T waves (asymmetric, with ST elevation)",
+    "De Winter T waves (upsloping ST depression with tall T — LAD equivalent)"
+  ],
+  "relatedGuidelineIDs": ["hyperkalaemia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["hyperkalaemia", "hyperkalemia", "peaked T waves", "tall T waves", "electrolyte", "tent T waves"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "V3",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 0.8,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 140,
+          "amplitudeMm": 8.0,
+          "morphology": "peaked",
+          "notched": false
+        }
+      }
+    }
+  }
+}

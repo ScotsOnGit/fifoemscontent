@@ -1,0 +1,90 @@
+{
+  "id": "non-sustained-ventricular-tachycardia",
+  "name": "Non-Sustained VT (NSVT)",
+  "aliases": ["NSVT", "Non-sustained Ventricular Tachycardia", "Short burst VT", "Unsustained VT"],
+  "urgency": "recognition",
+  "category": "ventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "≥3 consecutive ventricular beats at rate >100 bpm",
+    "Spontaneously terminates within 30 seconds",
+    "Wide bizarre QRS complexes — ventricular morphology",
+    "Often asymptomatic or causes brief palpitations/dizziness",
+    "If >30 seconds = sustained VT (separate category)"
+  ],
+  "measurements": {
+    "rate": ">100 bpm (during run)",
+    "rhythm": "Regular (during run), then resumes sinus",
+    "pWaves": "Absent during VT run",
+    "prInterval": "Not measurable during run",
+    "qrsDuration": ">120ms (during run)",
+    "qtInterval": "Not measurable",
+    "axis": "Variable",
+    "stSegment": "Discordant during run"
+  },
+  "management": [
+    "Isolated asymptomatic NSVT in structurally normal heart: often benign — monitor",
+    "NSVT with structural heart disease (cardiomyopathy, post-MI): significant risk marker — cardiology referral",
+    "Correct reversible triggers: electrolytes, ischaemia, drugs",
+    "Symptomatic or frequent NSVT: Holter monitoring, echocardiogram, cardiology review",
+    "ICD evaluation if NSVT + EF <35% (MADIT-2 criteria)"
+  ],
+  "pearls": [
+    "NSVT in a healthy young person during exercise: often benign (outflow tract VT)",
+    "NSVT in post-MI patient or cardiomyopathy: significant risk of sustained VT/sudden death",
+    "Torsades de Pointes may present as recurrent NSVT — check QT interval in sinus beats",
+    "Right ventricular outflow tract (RVOT) VT: LBBB morphology with inferior axis — typically benign",
+    "Holter monitoring: captures frequency, rate, and duration of NSVT runs"
+  ],
+  "differentials": [
+    "Sustained VT (>30 seconds)",
+    "SVT with aberrant conduction (short run)",
+    "Accelerated idioventricular rhythm (rate 50–100 bpm, benign)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["NSVT", "non-sustained VT", "short burst", "ventricular", "palpitations", "cardiomyopathy risk"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 4,
+    "cycleDurationMs": 400,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 60,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 150,
+          "amplitudeMm": 11.0,
+          "morphology": "wide",
+          "axisDeviation": "left",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -1.0,
+          "morphology": "flatDepression",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 2.5,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

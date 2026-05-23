@@ -1,0 +1,92 @@
+{
+  "id": "idioventricular-rhythm",
+  "name": "Idioventricular Rhythm",
+  "aliases": ["Ventricular Escape Rhythm", "IVR", "Slow Idioventricular", "Ventricular Escape"],
+  "urgency": "recognition",
+  "category": "ventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Wide bizarre QRS at very slow rate 20–40 bpm",
+    "Ventricular escape — fires when all higher pacemakers fail",
+    "No P waves or complete AV dissociation",
+    "Irregular rate possible if multiple ventricular foci competing",
+    "Pre-terminal rhythm in severe bradycardia/cardiac arrest"
+  ],
+  "measurements": {
+    "rate": "20–40 bpm",
+    "rhythm": "Slow, may be irregular",
+    "pWaves": "Absent or completely dissociated",
+    "prInterval": "Not measurable",
+    "qrsDuration": ">120ms (wide, bizarre)",
+    "qtInterval": "Not measurable",
+    "axis": "Extreme or variable",
+    "stSegment": "Normal (discordant)"
+  },
+  "management": [
+    "Treat aggressively — idioventricular escape is a failing heart rhythm",
+    "Atropine 0.6–1.2mg IV — to increase rate of higher pacemakers",
+    "Transcutaneous pacing immediately if haemodynamically unstable",
+    "IV adrenaline infusion if pacing fails",
+    "Identify reversible causes: hypoxia, drug toxicity, complete AV block, electrolyte disturbance",
+    "Prepare for CPR — may deteriorate to asystole"
+  ],
+  "pearls": [
+    "Idioventricular rhythm is the last escape mechanism before asystole",
+    "Do NOT give lidocaine or other antiarrhythmics — will suppress the only remaining pacemaker",
+    "Pulsed idioventricular rhythm (with pulse) still requires urgent treatment — prognosis is poor without intervention",
+    "Complete AV block with ventricular escape: pace immediately",
+    "Agonal rhythm is a form of idioventricular rhythm with rate <20 bpm"
+  ],
+  "differentials": [
+    "Agonal rhythm (<20 bpm, terminal)",
+    "AIVR (50–100 bpm, benign)",
+    "Complete heart block with ventricular escape",
+    "VT (>100 bpm)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["idioventricular", "ventricular escape", "IVR", "bradycardia", "pre-terminal", "wide complex"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 2000,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 160,
+          "amplitudeMm": 7.0,
+          "morphology": "bizarre",
+          "axisDeviation": "extreme",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 300,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

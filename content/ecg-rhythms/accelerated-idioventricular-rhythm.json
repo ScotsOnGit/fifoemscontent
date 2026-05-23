@@ -1,0 +1,91 @@
+{
+  "id": "accelerated-idioventricular-rhythm",
+  "name": "Accelerated Idioventricular Rhythm",
+  "aliases": ["AIVR", "Accelerated Ventricular Rhythm", "Slow VT", "Idioventricular tachycardia"],
+  "urgency": "recognition",
+  "category": "ventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Wide QRS complex rhythm at 50–100 bpm (between idioventricular escape and VT)",
+    "AV dissociation or fusion beats common",
+    "No P waves or dissociated P waves",
+    "Regular or slightly irregular",
+    "Classic association: reperfusion after MI (good sign — 'reperfusion arrhythmia')"
+  ],
+  "measurements": {
+    "rate": "50–100 bpm",
+    "rhythm": "Mostly regular",
+    "pWaves": "Absent or dissociated",
+    "prInterval": "Not measurable",
+    "qrsDuration": ">120ms (ventricular origin)",
+    "qtInterval": "Not measurable",
+    "axis": "Variable",
+    "stSegment": "Normal or mildly discordant"
+  },
+  "management": [
+    "Usually benign — no treatment required in most cases",
+    "Monitor for degeneration to VT/VF",
+    "Treat underlying cause if possible",
+    "Do NOT give antiarrhythmics routinely — may suppress the rhythm and cause asystole",
+    "Atropine may suppress AIVR by increasing sinus rate to override ventricular focus"
+  ],
+  "pearls": [
+    "AIVR after thrombolysis or PCI = reperfusion arrhythmia — generally good prognostic sign",
+    "Rate 'accelerated' compared to ventricular escape (20–40 bpm) but slower than VT (>100 bpm)",
+    "Fusion beats (hybrid QRS) confirm AV dissociation and ventricular origin",
+    "Usually self-limiting — lasts minutes to hours during reperfusion phase",
+    "Distinguish from slow VT (same appearance — clinical context is key)"
+  ],
+  "differentials": [
+    "VT (rate >100 bpm)",
+    "Idioventricular escape rhythm (<50 bpm)",
+    "Junctional rhythm with aberrant conduction",
+    "Complete heart block with ventricular escape"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["AIVR", "accelerated idioventricular", "reperfusion arrhythmia", "slow VT", "wide complex", "benign"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 140,
+          "amplitudeMm": 9.0,
+          "morphology": "wide",
+          "axisDeviation": "left",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

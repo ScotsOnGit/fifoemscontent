@@ -1,0 +1,97 @@
+{
+  "id": "emery-phenomenon",
+  "name": "Emery Phenomenon",
+  "aliases": ["Emery phenomenon", "Ta wave ST elevation", "Atrial repolarisation ST elevation", "Junctional rhythm ST mimic"],
+  "urgency": "findings",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "Junctional rhythm with inverted P waves (retrograde atrial depolarisation)",
+    "Short PR interval or P wave buried in/after QRS",
+    "Apparent ST elevation in inferior leads (II, III, aVF) that is actually the Ta wave (atrial repolarisation)",
+    "Ta wave (atrial T wave) appears in the ST segment — normally hidden but visible when P wave is inverted",
+    "ST elevation resolves when rhythm reverts to sinus (diagnostic clue)"
+  ],
+  "measurements": {
+    "rate": "40–60 bpm (junctional rate)",
+    "rhythm": "Regular",
+    "pWaves": "Inverted (retrograde) or absent",
+    "prInterval": "Short <120ms or negative (P after QRS)",
+    "qrsDuration": "<120ms (junctional, narrow)",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Apparent elevation in inferior leads — actually Ta wave artefact"
+  },
+  "management": [
+    "Emery phenomenon itself requires no treatment — it is a benign mimicker",
+    "The underlying junctional rhythm may need treatment if symptomatic",
+    "Critical: Do not treat as STEMI — serial ECGs and clinical correlation are essential",
+    "Return to sinus rhythm will abolish the 'ST elevation' (diagnostic)",
+    "Causes of junctional rhythm: vagal tone, inferior MI, post-cardiac surgery, sick sinus syndrome, drug toxicity",
+    "If uncertain: immediate cardiology review and echocardiogram"
+  ],
+  "pearls": [
+    "Emery phenomenon: the Ta wave (atrial repolarisation wave) is normally opposite in polarity to the P wave",
+    "In junctional rhythm, inverted P → Ta wave is positive in inferior leads → mimics ST elevation",
+    "Classic scenario: elderly patient in junctional rhythm, 'inferior STEMI' found in ED, but serial ECGs show resolution when rate increases to sinus",
+    "Differentiates from STEMI: no wall motion abnormality, normal troponin, ST resolves with sinus conversion",
+    "Named after Emery who described the Ta wave causing artefactual ST changes — rare but important STEMI mimic"
+  ],
+  "differentials": [
+    "Inferior STEMI (convex ST, reciprocal aVL depression, wall motion abnormality, troponin rise)",
+    "Pericarditis (diffuse saddle-back, PR depression)",
+    "High nodal junctional with ischaemia (actual ST changes co-exist)",
+    "Hyperacute T waves inferior (early STEMI — needs serial ECG)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["Emery phenomenon", "Ta wave", "atrial repolarisation", "junctional rhythm", "STEMI mimic", "inferior ST elevation"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1200,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": -1.5,
+          "morphology": "inverted"
+        },
+        "prSegment": {
+          "intervalMs": 80,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 1.0,
+          "morphology": "concaveUp",
+          "leadsAffected": ["II", "III", "aVF"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        },
+        "taWave": {
+          "present": true,
+          "amplitudeMm": 1.5,
+          "positionInCycle": "st_segment"
+        }
+      }
+    }
+  }
+}

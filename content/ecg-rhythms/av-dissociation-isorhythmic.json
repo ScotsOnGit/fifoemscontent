@@ -1,0 +1,89 @@
+{
+  "id": "av-dissociation-isorhythmic",
+  "name": "AV Dissociation (Isorhythmic)",
+  "aliases": ["AV Dissociation", "Isorhythmic AV dissociation", "Isorhythmic dissociation"],
+  "urgency": "recognition",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "P waves and QRS complexes march independently at nearly the same rate",
+    "P waves appear to 'walk through' the QRS — sometimes before, sometimes within, sometimes after",
+    "Rate of sinus P waves ≈ rate of junctional/ventricular QRS complexes",
+    "No fixed PR interval — varies as P and QRS drift in and out of phase",
+    "Capture beats may occur when P wave conducts — confirms functional AV conduction"
+  ],
+  "measurements": {
+    "rate": "Both atrial and ventricular rates 60–100 bpm (nearly equal)",
+    "rhythm": "Regular (each independently regular)",
+    "pWaves": "Present but unrelated to QRS — march through",
+    "prInterval": "Variable — no fixed relationship",
+    "qrsDuration": "Narrow (junctional) or wide (ventricular)",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Often benign — frequently transient and self-terminating",
+    "Occurs in: inferior MI (enhanced junctional automaticity), digoxin toxicity, post-cardiac surgery",
+    "Treat underlying cause",
+    "If junctional rate suppresses sinus: treat with Atropine to increase sinus rate",
+    "Do not confuse with complete heart block — in AV dissociation, AV conduction is FUNCTIONAL (capture beats possible)"
+  ],
+  "pearls": [
+    "AV dissociation ≠ complete heart block — the key difference: in AV dissociation, P waves CAN conduct when timing is right (capture beats); in CHB, NO P waves ever conduct",
+    "Isorhythmic = both rates are approximately equal — the two rhythms are in synchrony but not coupled",
+    "Enhanced junctional automaticity in inferior MI: junctional rate increases to match sinus rate — creates isorhythmic dissociation",
+    "Capture beats (short PR, conducted sinus beat): the diagnostic proof that AV conduction is intact"
+  ],
+  "differentials": [
+    "Complete heart block (P waves never conduct — no capture beats)",
+    "Junctional rhythm with sinus bradycardia",
+    "Accelerated junctional tachycardia (rate >60 bpm, AV dissociation at faster rate)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["AV dissociation", "isorhythmic", "P wave march through", "capture beats", "junctional"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 900,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.3,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 120,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

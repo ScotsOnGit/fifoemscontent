@@ -1,0 +1,86 @@
+{
+  "id": "mid-nodal-junctional",
+  "name": "Mid Nodal Junctional Rhythm",
+  "aliases": ["Mid Junctional", "Mid Nodal Rhythm", "AV node mid"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "P wave hidden within QRS complex — simultaneous atrial and ventricular activation",
+    "QRS appears normal width — no P wave visible before or after",
+    "Rate 40–60 bpm",
+    "Narrow QRS — normal ventricular conduction",
+    "Cannot see P wave on surface ECG — atria and ventricles activate simultaneously"
+  ],
+  "measurements": {
+    "rate": "40–60 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Hidden within QRS — not visible",
+    "prInterval": "Not measurable",
+    "qrsDuration": "<120ms (may appear slightly wider due to hidden P)",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "As for junctional rhythm — treat underlying cause",
+    "Clinical management identical to other junctional variants"
+  ],
+  "pearls": [
+    "The P wave is simultaneous with QRS — hidden, not absent",
+    "May cause a subtle widening of the QRS or small notch at beginning or end of QRS",
+    "Esophageal lead may reveal hidden P wave",
+    "Practically indistinguishable from junctional rhythm without P waves on surface ECG"
+  ],
+  "differentials": [
+    "Junctional rhythm with P in QRS vs absent P",
+    "High nodal (P before QRS)",
+    "Low nodal (P after QRS)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["mid nodal", "junctional rhythm", "hidden P wave", "AV node"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 1200,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 105,
+          "amplitudeMm": 8.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 200,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

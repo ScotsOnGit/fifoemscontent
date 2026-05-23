@@ -1,0 +1,91 @@
+{
+  "id": "avnrt-orthodromic",
+  "name": "SVT — AVNRT (Orthodromic)",
+  "aliases": ["SVT", "AVNRT", "Supraventricular Tachycardia", "AV Node Re-entry", "Paroxysmal SVT", "PSVT"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Narrow complex tachycardia — rate 140–280 bpm",
+    "Abrupt onset and termination ('paroxysmal')",
+    "P waves hidden within or immediately after QRS (short RP tachycardia)",
+    "Retrograde P waves — inverted in II, III, aVF if visible",
+    "Pseudo-R' in V1 or pseudo-S in II/III/aVF (retrograde P distorting the terminal QRS)"
+  ],
+  "measurements": {
+    "rate": "140–280 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Retrograde — hidden in QRS or immediately after",
+    "prInterval": "Short — RP < PR (short RP tachycardia)",
+    "qrsDuration": "<120ms (narrow)",
+    "qtInterval": "Shortened",
+    "axis": "Normal",
+    "stSegment": "May show rate-related changes"
+  },
+  "management": [
+    "Vagal manoeuvres first: Valsalva (modified — legs elevated), carotid sinus massage",
+    "Adenosine 6mg rapid IV push with fast flush — if vagal fails (warn: brief asystole, chest discomfort)",
+    "Repeat adenosine 12mg if 6mg fails",
+    "Verapamil 5mg IV if adenosine fails or unavailable (avoid in WPW, hypotension)",
+    "Synchronised cardioversion if haemodynamically unstable"
+  ],
+  "pearls": [
+    "AVNRT is the most common form of SVT — re-entry circuit within the AV node",
+    "Modified Valsalva: strain for 15s → supine → legs elevated 45° for 15s — doubles conversion rate",
+    "Adenosine has a half-life of <10 seconds — must be given as rapid bolus with fast saline flush",
+    "Pseudo-R' in V1 is the most reliable ECG sign of AVNRT — caused by retrograde P wave distorting terminal QRS",
+    "Recurrent SVT: referral for EP study and ablation (>95% cure rate)"
+  ],
+  "differentials": [
+    "Sinus tachycardia (gradual onset, P before QRS)",
+    "Atrial flutter 2:1 (rate ~150, flutter waves)",
+    "AVRT/WPW (similar appearance)",
+    "Atrial tachycardia (P wave before QRS, different morphology)"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["SVT", "AVNRT", "narrow complex", "tachycardia", "adenosine", "paroxysmal", "re-entry"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 340,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 60,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 60,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 10.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": -0.5,
+          "morphology": "flat",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 100,
+          "amplitudeMm": 1.5,
+          "morphology": "inverted",
+          "notched": false
+        }
+      }
+    }
+  }
+}

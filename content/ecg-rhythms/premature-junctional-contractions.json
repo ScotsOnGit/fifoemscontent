@@ -1,0 +1,89 @@
+{
+  "id": "premature-junctional-contractions",
+  "name": "PJC — Premature Junctional Contractions",
+  "aliases": ["PJC", "PJCs", "Junctional Ectopic Beats", "Nodal Ectopic Beats", "AV nodal ectopics"],
+  "urgency": "recognition",
+  "category": "supraventricular",
+  "actionLabel": null,
+  "identifyBy": [
+    "Early QRS with no preceding P wave OR retrograde (inverted) P wave in II/III/aVF",
+    "QRS narrow — normal ventricular conduction",
+    "Non-compensatory pause following the ectopic",
+    "Usually followed by resumption of normal sinus rhythm",
+    "Less common than PACs — often asymptomatic"
+  ],
+  "measurements": {
+    "rate": "Normal with ectopics",
+    "rhythm": "Irregular (ectopic beats)",
+    "pWaves": "Absent or retrograde (inverted II/III/aVF) in ectopic beat",
+    "prInterval": "Short or none for ectopic beat",
+    "qrsDuration": "Narrow <120ms",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Isolated PJCs: benign — no treatment needed",
+    "Address triggers: digitalis toxicity is a classic cause",
+    "Frequent PJCs: monitor, check digoxin levels if applicable",
+    "Beta-blockers if symptomatic",
+    "Consider echocardiogram to exclude structural disease"
+  ],
+  "pearls": [
+    "PJCs are much less common than PACs — when frequent, check for digoxin toxicity",
+    "Differentiation from PACs: no P wave or retrograde P in PJCs; abnormal P morphology in PACs",
+    "Non-compensatory pause distinguishes ectopics from complete heart block",
+    "PJCs in narrow complex bigeminy: AV node has enhanced automaticity — classic with digoxin"
+  ],
+  "differentials": [
+    "PAC with very short PR",
+    "PVC (wide QRS, compensatory pause)",
+    "Junctional escape (rate <60 bpm, different mechanism)"
+  ],
+  "relatedGuidelineIDs": [],
+  "relatedCalculatorIDs": [],
+  "tags": ["PJC", "junctional ectopic", "premature junctional", "digoxin toxicity", "ectopic"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 740,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": false,
+          "durationMs": 0,
+          "amplitudeMm": 0.0,
+          "morphology": "absent"
+        },
+        "prSegment": {
+          "intervalMs": 0,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 95,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 160,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

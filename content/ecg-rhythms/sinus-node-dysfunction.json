@@ -1,0 +1,92 @@
+{
+  "id": "sinus-node-dysfunction",
+  "name": "Sinus Node Dysfunction",
+  "aliases": ["Sick Sinus Syndrome", "SSS", "Sinus Node Disease", "Bradycardia-Tachycardia Syndrome", "Tachy-Brady Syndrome"],
+  "urgency": "urgent",
+  "category": "supraventricular",
+  "actionLabel": "PACE",
+  "identifyBy": [
+    "Symptomatic sinus bradycardia — rate <40 bpm with symptoms (syncope, presyncope)",
+    "Sinus pauses >3 seconds — prolonged periods without any electrical activity",
+    "Chronotropic incompetence: failure to increase heart rate with exertion",
+    "Tachy-brady pattern: alternating fast (AF/flutter) and slow (sinus pause after conversion)",
+    "Sinoatrial exit block: regular P wave dropped creating a pause equal to 2x (or 3x) normal P-P interval"
+  ],
+  "measurements": {
+    "rate": "<40 bpm (symptomatic) or pause >3 seconds",
+    "rhythm": "Irregular (pauses; or alternating fast/slow)",
+    "pWaves": "Present when sinus, absent during pauses",
+    "prInterval": "Normal when conducting",
+    "qrsDuration": "Normal",
+    "qtInterval": "Normal",
+    "axis": "Normal",
+    "stSegment": "Normal"
+  },
+  "management": [
+    "Assess haemodynamic stability and symptom severity",
+    "Atropine 0.6mg IV if symptomatic bradycardia",
+    "Transcutaneous pacing if atropine fails or pauses >5 seconds with symptoms",
+    "Stop any causative drugs: beta-blockers, calcium channel blockers, digoxin, amiodarone",
+    "Urgent evacuation if symptomatic pauses or syncopal episodes",
+    "Definitive: permanent pacemaker"
+  ],
+  "pearls": [
+    "Sick sinus syndrome most commonly presents as unexplained syncope in older adults",
+    "Tachy-brady syndrome: AF terminates → long sinus pause → syncope (the pause is the dangerous event)",
+    "Chronotropic incompetence is underdiagnosed — suspect if HR fails to reach 85% predicted max during stress",
+    "External pacing pads should be applied even before symptoms worsen",
+    "Reversible causes: medications, hypothyroidism, hypothermia, inferior MI — always check first"
+  ],
+  "differentials": [
+    "Vasovagal syncope (no structural ECG abnormality)",
+    "AV block",
+    "Hypervagotonia (athletes, at rest — not pathological)",
+    "Drug-induced bradycardia"
+  ],
+  "relatedGuidelineIDs": ["cardiac-arrhythmia"],
+  "relatedCalculatorIDs": [],
+  "tags": ["sick sinus syndrome", "sinus node dysfunction", "sinus pause", "tachy-brady", "syncope", "bradycardia", "pacing"],
+  "isFreeContent": true,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 2,
+    "cycleDurationMs": 1800,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 80,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": 0.0
+        },
+        "qrs": {
+          "durationMs": 100,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 0.0,
+          "morphology": "normal",
+          "leadsAffected": []
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.5,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}

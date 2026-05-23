@@ -1,0 +1,93 @@
+{
+  "id": "pericarditis",
+  "name": "Pericarditis",
+  "aliases": ["Acute pericarditis", "Pericardial effusion ECG", "Pericarditis ECG", "STEMI mimic pericarditis"],
+  "urgency": "findings",
+  "category": "other",
+  "actionLabel": null,
+  "identifyBy": [
+    "Diffuse saddle-back (concave-up) ST elevation in multiple leads (I, II, III, aVF, V2–V6)",
+    "PR segment depression in multiple leads (reciprocal PR elevation in aVR)",
+    "ST elevation is concave/saddle-back, NOT convex (unlike STEMI)",
+    "Reciprocal ST depression ONLY in aVR and V1 (vs STEMI with territory-specific reciprocal changes)",
+    "Pleuritic chest pain — worsens lying flat, improves leaning forward"
+  ],
+  "measurements": {
+    "rate": "70–100 bpm",
+    "rhythm": "Regular",
+    "pWaves": "Normal",
+    "prInterval": "Normal to slightly prolonged (PR depression is segment, not interval)",
+    "qrsDuration": "<120ms",
+    "qtInterval": "Normal to mildly prolonged",
+    "axis": "Normal",
+    "stSegment": "Diffuse elevation 1–2mm, concave-up (saddle-back) pattern"
+  },
+  "management": [
+    "NSAIDs (ibuprofen 400–800mg TDS or aspirin 500–1000mg TDS): first-line",
+    "Colchicine 0.5mg BD for 3 months: reduces recurrence rate significantly",
+    "Restrict strenuous activity for 3 months",
+    "Corticosteroids only if NSAID/colchicine failure (risk of recurrence/chronicity)",
+    "Investigate cause: idiopathic/viral most common; also bacterial, TB, autoimmune, uraemia, malignancy",
+    "Cardiac MRI if effusion or haemodynamic compromise suspected",
+    "Large effusion with haemodynamic compromise: pericardiocentesis urgently"
+  ],
+  "pearls": [
+    "PR depression + diffuse saddle-back ST elevation = pericarditis until proven otherwise",
+    "Spodick's sign: downward slope of TP segment (highly specific when present)",
+    "STEMI mimic: pericarditis ST is diffuse and concave; STEMI is territorial and convex",
+    "aVR is the key lead: ST depression + PR elevation in aVR is characteristic of pericarditis",
+    "Athlete's heart (early repolarisation) can look similar — PR segment is the key differentiator (normal PR in ER)"
+  ],
+  "differentials": [
+    "STEMI (convex ST, territorial distribution, reciprocal changes, wall motion abnormality)",
+    "Early repolarisation (no PR depression, young/athletic patient, no pain progression)",
+    "Myocarditis (similar ECG, more severe, troponin rise, wall motion abnormality)",
+    "Takotsubo/stress cardiomyopathy (diffuse ST, different wall motion pattern)"
+  ],
+  "relatedGuidelineIDs": ["acute-coronary-syndrome"],
+  "relatedCalculatorIDs": [],
+  "tags": ["pericarditis", "PR depression", "saddle-back ST", "diffuse ST elevation", "STEMI mimic", "chest pain"],
+  "isFreeContent": false,
+  "version": 1,
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "waveform": {
+    "mode": "singleLead",
+    "baseline": { "deviationMm": 0.0 },
+    "repeatCount": 3,
+    "cycleDurationMs": 750,
+    "singleLead": {
+      "lead": "II",
+      "components": {
+        "pWave": {
+          "present": true,
+          "durationMs": 90,
+          "amplitudeMm": 1.5,
+          "morphology": "normal"
+        },
+        "prSegment": {
+          "intervalMs": 160,
+          "segmentDeviationMm": -0.5
+        },
+        "qrs": {
+          "durationMs": 90,
+          "amplitudeMm": 9.0,
+          "morphology": "normal",
+          "axisDeviation": "normal",
+          "qWaves": false
+        },
+        "stSegment": {
+          "deviationMm": 1.5,
+          "morphology": "saddleback",
+          "leadsAffected": ["I", "II", "III", "aVF", "V2", "V3", "V4", "V5", "V6"]
+        },
+        "tWave": {
+          "present": true,
+          "durationMs": 180,
+          "amplitudeMm": 2.0,
+          "morphology": "normal",
+          "notched": false
+        }
+      }
+    }
+  }
+}
