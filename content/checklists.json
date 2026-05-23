@@ -12,51 +12,177 @@
         "id": "clinic-opening-facilities",
         "title": "Facilities",
         "items": [
-          { "id": "co-f-01", "label": "Lights on", "detail": null, "type": "check", "required": true },
-          { "id": "co-f-02", "label": "Temperature acceptable (16–26°C)", "detail": null, "type": "check", "required": true },
-          { "id": "co-f-03", "label": "Clinic clean and tidy", "detail": null, "type": "check", "required": true },
-          { "id": "co-f-04", "label": "Sharps containers not overfull", "detail": null, "type": "check", "required": true },
-          { "id": "co-f-05", "label": "Biohazard bags available", "detail": null, "type": "check", "required": true }
+          {
+            "id": "co-f-01",
+            "label": "Lights on",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-f-02",
+            "label": "Temperature acceptable (16–26°C)",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-f-03",
+            "label": "Clinic clean and tidy",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-f-04",
+            "label": "Sharps containers not overfull",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-f-05",
+            "label": "Biohazard bags available",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "clinic-opening-equipment",
         "title": "Equipment",
         "items": [
-          { "id": "co-e-01", "label": "AED green indicator confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "co-e-02", "label": "O₂ cylinder pressure (kPa)", "detail": "Note actual pressure reading", "type": "number", "required": true },
-          { "id": "co-e-03", "label": "Monitoring equipment powered on", "detail": null, "type": "check", "required": true },
-          { "id": "co-e-04", "label": "Resus bag complete and functional", "detail": null, "type": "check", "required": true },
-          { "id": "co-e-05", "label": "Suction device operational", "detail": null, "type": "check", "required": true }
+          {
+            "id": "co-e-01",
+            "label": "AED green indicator confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-e-02",
+            "label": "O₂ cylinder pressure (kPa)",
+            "detail": "Note actual pressure reading",
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "co-e-03",
+            "label": "Monitoring equipment powered on",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-e-04",
+            "label": "Resus bag complete and functional",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-e-05",
+            "label": "Suction device operational",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "clinic-opening-medications",
         "title": "Medications",
         "items": [
-          { "id": "co-m-01", "label": "Drug safe locked overnight", "detail": null, "type": "check", "required": true },
-          { "id": "co-m-02", "label": "S8 count complete with witness", "detail": null, "type": "check", "required": true },
-          { "id": "co-m-03", "label": "No expired medications on shelf", "detail": null, "type": "check", "required": true },
-          { "id": "co-m-04", "label": "Cold chain fridge temperature (°C)", "detail": "Note actual temperature reading", "type": "number", "required": true }
+          {
+            "id": "co-m-01",
+            "label": "Drug safe locked overnight",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-m-02",
+            "label": "S8 count complete with witness",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-m-03",
+            "label": "No expired medications on shelf",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-m-04",
+            "label": "Cold chain fridge temperature (°C)",
+            "detail": "Note actual temperature reading",
+            "type": "number",
+            "required": true
+          }
         ]
       },
       {
         "id": "clinic-opening-comms",
         "title": "Communications",
         "items": [
-          { "id": "co-c-01", "label": "Emergency contacts list current", "detail": null, "type": "check", "required": true },
-          { "id": "co-c-02", "label": "Site emergency number confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "co-c-03", "label": "Hospital/retrieval contact confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "co-c-04", "label": "On-call doctor contact confirmed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "co-c-01",
+            "label": "Emergency contacts list current",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-c-02",
+            "label": "Site emergency number confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-c-03",
+            "label": "Hospital/retrieval contact confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-c-04",
+            "label": "On-call doctor contact confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "clinic-opening-docs",
         "title": "Documentation",
         "items": [
-          { "id": "co-d-01", "label": "Shift log opened", "detail": null, "type": "check", "required": true },
-          { "id": "co-d-02", "label": "Previous shift notes reviewed", "detail": null, "type": "check", "required": true },
-          { "id": "co-d-03", "label": "Outstanding actions from previous shift reviewed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "co-d-01",
+            "label": "Shift log opened",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-d-02",
+            "label": "Previous shift notes reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "co-d-03",
+            "label": "Outstanding actions from previous shift reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
@@ -68,55 +194,150 @@
     "category": "shift",
     "icon": "arrow.left.arrow.right",
     "frequency": "Per Shift",
-    "version": 1,
     "sections": [
       {
         "id": "sh-patients",
         "title": "Active Patients",
         "items": [
-          { "id": "sh-p-01", "label": "Active patient list reviewed with outgoing clinician", "detail": null, "type": "check", "required": true },
-          { "id": "sh-p-02", "label": "Outstanding results or investigations noted", "detail": null, "type": "check", "required": true },
-          { "id": "sh-p-03", "label": "Follow-up appointments or reviews required", "detail": null, "type": "check", "required": true }
+          {
+            "id": "sh-p-01",
+            "label": "Active patient list reviewed with outgoing clinician",
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-p-02",
+            "label": "Outstanding results or investigations noted",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-p-03",
+            "label": "Follow-up appointments or reviews required",
+            "detail": "Any patients that may need reviewed, a telehealth appointment or may have been advised to come back if required.",
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "sh-drugs",
         "title": "Drug Count",
         "items": [
-          { "id": "sh-d-01", "label": "S8 count completed by outgoing AND incoming clinician", "detail": null, "type": "check", "required": true },
-          { "id": "sh-d-02", "label": "Drug register signed by both clinicians", "detail": null, "type": "check", "required": true },
-          { "id": "sh-d-03", "label": "Any discrepancy noted and escalated", "detail": "Mark as checked if no discrepancy (N/A)", "type": "check", "required": false }
+          {
+            "id": "sh-d-01",
+            "label": "S8 count completed by outgoing AND incoming clinician",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-d-02",
+            "label": "Drug register signed by both clinicians",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-d-03",
+            "label": "Any discrepancy noted and escalated",
+            "detail": "Mark as checked if no discrepancy (N/A)",
+            "type": "check",
+            "required": false
+          }
         ]
       },
       {
         "id": "sh-equipment",
         "title": "Equipment Status",
         "items": [
-          { "id": "sh-e-01", "label": "AED status confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "sh-e-02", "label": "O₂ cylinder pressure noted", "detail": null, "type": "check", "required": true },
-          { "id": "sh-e-03", "label": "Equipment faults from outgoing shift noted", "detail": null, "type": "check", "required": false },
-          { "id": "sh-e-04", "label": "Vehicle inspection log reviewed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "sh-e-01",
+            "label": "AED status confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-e-02",
+            "label": "O₂ cylinder pressure noted",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-e-03",
+            "label": "Equipment faults from outgoing shift noted",
+            "detail": null,
+            "type": "check",
+            "required": false
+          },
+          {
+            "id": "sh-e-04",
+            "label": "Vehicle inspection log reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "sh-comms",
         "title": "Communications",
         "items": [
-          { "id": "sh-c-01", "label": "On-call contact confirmed for incoming shift", "detail": null, "type": "check", "required": true },
-          { "id": "sh-c-02", "label": "Outstanding communications or notifications reviewed", "detail": null, "type": "check", "required": true },
-          { "id": "sh-c-03", "label": "Emergency contact list current", "detail": null, "type": "check", "required": true }
+          {
+            "id": "sh-c-01",
+            "label": "On-call contact confirmed for incoming shift",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-c-02",
+            "label": "Outstanding communications or notifications reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "sh-c-03",
+            "label": "Emergency contact list current",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "sh-signoff",
         "title": "Handover Sign-Off",
         "items": [
-          { "id": "sh-s-01", "label": "Outgoing clinician name", "detail": null, "type": "text", "required": true },
-          { "id": "sh-s-02", "label": "Incoming clinician name", "detail": null, "type": "text", "required": true },
-          { "id": "sh-s-03", "label": "Handover complete", "detail": null, "type": "check", "required": true }
+          {
+            "id": "sh-s-01",
+            "label": "Outgoing clinician name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "sh-s-02",
+            "label": "Incoming clinician name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "sh-s-03",
+            "label": "Handover complete",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
-    ]
+    ],
+    "version": 1
   },
   {
     "id": "daily-drug-count",
@@ -131,47 +352,149 @@
         "id": "ddc-details",
         "title": "Count Details",
         "items": [
-          { "id": "ddc-det-01", "label": "Date", "detail": null, "type": "text", "required": true },
-          { "id": "ddc-det-02", "label": "Time", "detail": null, "type": "text", "required": true },
-          { "id": "ddc-det-03", "label": "Clinician performing count", "detail": null, "type": "text", "required": true },
-          { "id": "ddc-det-04", "label": "Witness name", "detail": null, "type": "text", "required": true }
+          {
+            "id": "ddc-det-01",
+            "label": "Date",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ddc-det-02",
+            "label": "Time",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ddc-det-03",
+            "label": "Clinician performing count",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ddc-det-04",
+            "label": "Witness name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          }
         ]
       },
       {
         "id": "ddc-s8",
         "title": "S8 Controlled Drugs",
         "items": [
-          { "id": "ddc-s8-01", "label": "Morphine count", "detail": null, "type": "number", "required": true },
-          { "id": "ddc-s8-02", "label": "Fentanyl count", "detail": null, "type": "number", "required": true },
-          { "id": "ddc-s8-03", "label": "Midazolam count", "detail": null, "type": "number", "required": true },
-          { "id": "ddc-s8-04", "label": "Ketamine count", "detail": null, "type": "number", "required": true },
-          { "id": "ddc-s8-05", "label": "Other S8 if applicable", "detail": "List any additional S8 controlled drugs and quantities", "type": "text", "required": false }
+          {
+            "id": "ddc-s8-01",
+            "label": "Morphine count",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "ddc-s8-02",
+            "label": "Fentanyl count",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "ddc-s8-03",
+            "label": "Midazolam count",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "ddc-s8-04",
+            "label": "Ketamine count",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "ddc-s8-05",
+            "label": "Other S8 if applicable",
+            "detail": "List any additional S8 controlled drugs and quantities",
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ddc-s4",
         "title": "S4 Prescription Drugs",
         "items": [
-          { "id": "ddc-s4-01", "label": "Count matches register", "detail": null, "type": "check", "required": true },
-          { "id": "ddc-s4-02", "label": "No expired S4 medications", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ddc-s4-01",
+            "label": "Count matches register",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ddc-s4-02",
+            "label": "No expired S4 medications",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "ddc-recon",
         "title": "Reconciliation",
         "items": [
-          { "id": "ddc-r-01", "label": "Count matches drug register", "detail": null, "type": "yesNo", "required": true },
-          { "id": "ddc-r-02", "label": "If discrepancy, describe", "detail": "Leave blank if no discrepancy", "type": "text", "required": false },
-          { "id": "ddc-r-03", "label": "Discrepancy escalated to supervisor", "detail": "Mark as checked if no discrepancy (N/A)", "type": "check", "required": false }
+          {
+            "id": "ddc-r-01",
+            "label": "Count matches drug register",
+            "detail": null,
+            "type": "yesNo",
+            "required": true
+          },
+          {
+            "id": "ddc-r-02",
+            "label": "If discrepancy, describe",
+            "detail": "Leave blank if no discrepancy",
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "ddc-r-03",
+            "label": "Discrepancy escalated to supervisor",
+            "detail": "Mark as checked if no discrepancy (N/A)",
+            "type": "check",
+            "required": false
+          }
         ]
       },
       {
         "id": "ddc-signoff",
         "title": "Sign-Off",
         "items": [
-          { "id": "ddc-s-01", "label": "Clinician signature", "detail": null, "type": "text", "required": true },
-          { "id": "ddc-s-02", "label": "Witness signature", "detail": null, "type": "text", "required": true },
-          { "id": "ddc-s-03", "label": "Count satisfactory", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ddc-s-01",
+            "label": "Clinician signature",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ddc-s-02",
+            "label": "Witness signature",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ddc-s-03",
+            "label": "Count satisfactory",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
@@ -189,50 +512,170 @@
         "id": "de-resus",
         "title": "Resuscitation Equipment",
         "items": [
-          { "id": "de-r-01", "label": "AED operational and pads in date", "detail": null, "type": "check", "required": true },
-          { "id": "de-r-02", "label": "AED last checked", "detail": null, "type": "text", "required": true },
-          { "id": "de-r-03", "label": "Oxygen cylinder 1 pressure (kPa)", "detail": null, "type": "number", "required": true },
-          { "id": "de-r-04", "label": "Oxygen cylinder 2 pressure if present (kPa)", "detail": "Leave blank if not present", "type": "number", "required": false },
-          { "id": "de-r-05", "label": "Bag-valve-mask complete and functional", "detail": null, "type": "check", "required": true },
-          { "id": "de-r-06", "label": "Suction device operational", "detail": null, "type": "check", "required": true }
+          {
+            "id": "de-r-01",
+            "label": "AED operational and pads in date",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-r-02",
+            "label": "AED last checked",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "de-r-03",
+            "label": "Oxygen cylinder 1 pressure (kPa)",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "de-r-04",
+            "label": "Oxygen cylinder 2 pressure if present (kPa)",
+            "detail": "Leave blank if not present",
+            "type": "number",
+            "required": false
+          },
+          {
+            "id": "de-r-05",
+            "label": "Bag-valve-mask complete and functional",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-r-06",
+            "label": "Suction device operational",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "de-monitoring",
         "title": "Monitoring Equipment",
         "items": [
-          { "id": "de-m-01", "label": "Cardiac monitor/defibrillator operational", "detail": null, "type": "check", "required": true },
-          { "id": "de-m-02", "label": "SpO₂ probe functional", "detail": null, "type": "check", "required": true },
-          { "id": "de-m-03", "label": "BP cuff and stethoscope present", "detail": null, "type": "check", "required": true },
-          { "id": "de-m-04", "label": "Thermometer functional", "detail": null, "type": "check", "required": true },
-          { "id": "de-m-05", "label": "Glucometer functional and strips in date", "detail": null, "type": "check", "required": true }
+          {
+            "id": "de-m-01",
+            "label": "Cardiac monitor/defibrillator operational",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-m-02",
+            "label": "SpO₂ probe functional",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-m-03",
+            "label": "BP cuff and stethoscope present",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-m-04",
+            "label": "Thermometer functional",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-m-05",
+            "label": "Glucometer functional and strips in date",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "de-airway",
         "title": "Airway Equipment",
         "items": [
-          { "id": "de-a-01", "label": "Airway adjuncts (OPA/NPA) complete", "detail": null, "type": "check", "required": true },
-          { "id": "de-a-02", "label": "Laryngoscope battery and blade functional", "detail": null, "type": "check", "required": true },
-          { "id": "de-a-03", "label": "ET tubes in stock", "detail": null, "type": "check", "required": true },
-          { "id": "de-a-04", "label": "Supraglottic airway present and in date", "detail": null, "type": "check", "required": true }
+          {
+            "id": "de-a-01",
+            "label": "Airway adjuncts (OPA/NPA) complete",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-a-02",
+            "label": "Laryngoscope battery and blade functional",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-a-03",
+            "label": "ET tubes in stock",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-a-04",
+            "label": "Supraglottic airway present and in date",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "de-vehicle",
         "title": "Vehicle",
         "items": [
-          { "id": "de-v-01", "label": "Vehicle inspection completed", "detail": null, "type": "check", "required": true },
-          { "id": "de-v-02", "label": "Fuel adequate", "detail": null, "type": "check", "required": true },
-          { "id": "de-v-03", "label": "Vehicle defects to report", "detail": "Leave blank if none", "type": "text", "required": false }
+          {
+            "id": "de-v-01",
+            "label": "Vehicle inspection completed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-v-02",
+            "label": "Fuel adequate",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-v-03",
+            "label": "Vehicle defects to report",
+            "detail": "Leave blank if none",
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "de-general",
         "title": "General",
         "items": [
-          { "id": "de-g-01", "label": "All defects documented", "detail": null, "type": "check", "required": true },
-          { "id": "de-g-02", "label": "Defects reported to", "detail": "Name of person defects reported to", "type": "text", "required": false }
+          {
+            "id": "de-g-01",
+            "label": "All defects documented",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "de-g-02",
+            "label": "Defects reported to",
+            "detail": "Name of person defects reported to",
+            "type": "text",
+            "required": false
+          }
         ]
       }
     ]
@@ -250,46 +693,142 @@
         "id": "we-aed",
         "title": "AED",
         "items": [
-          { "id": "we-a-01", "label": "Self-test indicator green", "detail": null, "type": "check", "required": true },
-          { "id": "we-a-02", "label": "Pads expiry date checked", "detail": "Enter expiry date", "type": "text", "required": true },
-          { "id": "we-a-03", "label": "Battery indicator checked", "detail": null, "type": "check", "required": true },
-          { "id": "we-a-04", "label": "AED cleaned", "detail": null, "type": "check", "required": true }
+          {
+            "id": "we-a-01",
+            "label": "Self-test indicator green",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-a-02",
+            "label": "Pads expiry date checked",
+            "detail": "Enter expiry date",
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "we-a-03",
+            "label": "Battery indicator checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-a-04",
+            "label": "AED cleaned",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "we-oxygen",
         "title": "Oxygen Equipment",
         "items": [
-          { "id": "we-o-01", "label": "Cylinder 1 pressure (kPa)", "detail": null, "type": "number", "required": true },
-          { "id": "we-o-02", "label": "Cylinder 2 pressure (kPa)", "detail": "Leave blank if not present", "type": "number", "required": false },
-          { "id": "we-o-03", "label": "Regulator connections checked for leaks", "detail": null, "type": "check", "required": true },
-          { "id": "we-o-04", "label": "Masks and non-rebreather bags in stock", "detail": null, "type": "check", "required": true }
+          {
+            "id": "we-o-01",
+            "label": "Cylinder 1 pressure (kPa)",
+            "detail": null,
+            "type": "number",
+            "required": true
+          },
+          {
+            "id": "we-o-02",
+            "label": "Cylinder 2 pressure (kPa)",
+            "detail": "Leave blank if not present",
+            "type": "number",
+            "required": false
+          },
+          {
+            "id": "we-o-03",
+            "label": "Regulator connections checked for leaks",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-o-04",
+            "label": "Masks and non-rebreather bags in stock",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "we-medications",
         "title": "Medications",
         "items": [
-          { "id": "we-m-01", "label": "All medication expiries checked", "detail": null, "type": "check", "required": true },
-          { "id": "we-m-02", "label": "Items expiring within 30 days", "detail": "List any items expiring within 30 days", "type": "text", "required": false },
-          { "id": "we-m-03", "label": "Cold chain fridge min/max temp reset after recording", "detail": null, "type": "check", "required": true }
+          {
+            "id": "we-m-01",
+            "label": "All medication expiries checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-m-02",
+            "label": "Items expiring within 30 days",
+            "detail": "List any items expiring within 30 days",
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "we-m-03",
+            "label": "Cold chain fridge min/max temp reset after recording",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "we-vehicle",
         "title": "Vehicle",
         "items": [
-          { "id": "we-v-01", "label": "Tyre pressures checked", "detail": null, "type": "check", "required": true },
-          { "id": "we-v-02", "label": "Fluid levels checked", "detail": null, "type": "check", "required": true },
-          { "id": "we-v-03", "label": "Emergency equipment in boot checked", "detail": null, "type": "check", "required": true }
+          {
+            "id": "we-v-01",
+            "label": "Tyre pressures checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-v-02",
+            "label": "Fluid levels checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-v-03",
+            "label": "Emergency equipment in boot checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "we-docs",
         "title": "Documentation",
         "items": [
-          { "id": "we-d-01", "label": "Any maintenance issues logged", "detail": null, "type": "check", "required": true },
-          { "id": "we-d-02", "label": "Items requiring ordering noted", "detail": "List any items that need to be ordered", "type": "text", "required": false }
+          {
+            "id": "we-d-01",
+            "label": "Any maintenance issues logged",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "we-d-02",
+            "label": "Items requiring ordering noted",
+            "detail": "List any items that need to be ordered",
+            "type": "text",
+            "required": false
+          }
         ]
       }
     ]
@@ -307,48 +846,156 @@
         "id": "mde-details",
         "title": "Audit Details",
         "items": [
-          { "id": "mde-det-01", "label": "Date", "detail": null, "type": "text", "required": true },
-          { "id": "mde-det-02", "label": "Clinician", "detail": null, "type": "text", "required": true },
-          { "id": "mde-det-03", "label": "Witness", "detail": null, "type": "text", "required": true }
+          {
+            "id": "mde-det-01",
+            "label": "Date",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "mde-det-02",
+            "label": "Clinician",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "mde-det-03",
+            "label": "Witness",
+            "detail": null,
+            "type": "text",
+            "required": true
+          }
         ]
       },
       {
         "id": "mde-s8",
         "title": "S8 Controlled Drugs",
         "items": [
-          { "id": "mde-s8-01", "label": "All S8 drugs checked for expiry", "detail": null, "type": "check", "required": true },
-          { "id": "mde-s8-02", "label": "Items expiring within 60 days", "detail": "List any items expiring within 60 days", "type": "text", "required": false },
-          { "id": "mde-s8-03", "label": "Expired S8 drugs found", "detail": null, "type": "yesNo", "required": true },
-          { "id": "mde-s8-04", "label": "Expired S8 drugs destroyed with witness and documented", "detail": "Mark as checked if no expired drugs found (N/A)", "type": "check", "required": false }
+          {
+            "id": "mde-s8-01",
+            "label": "All S8 drugs checked for expiry",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-s8-02",
+            "label": "Items expiring within 60 days",
+            "detail": "List any items expiring within 60 days",
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "mde-s8-03",
+            "label": "Expired S8 drugs found",
+            "detail": null,
+            "type": "yesNo",
+            "required": true
+          },
+          {
+            "id": "mde-s8-04",
+            "label": "Expired S8 drugs destroyed with witness and documented",
+            "detail": "Mark as checked if no expired drugs found (N/A)",
+            "type": "check",
+            "required": false
+          }
         ]
       },
       {
         "id": "mde-s4",
         "title": "S4 and General Medications",
         "items": [
-          { "id": "mde-s4-01", "label": "All S4 drugs checked", "detail": null, "type": "check", "required": true },
-          { "id": "mde-s4-02", "label": "All OTC medications checked", "detail": null, "type": "check", "required": true },
-          { "id": "mde-s4-03", "label": "Items expiring within 60 days", "detail": "List any items expiring within 60 days", "type": "text", "required": false },
-          { "id": "mde-s4-04", "label": "Expired medications quarantined", "detail": null, "type": "check", "required": true }
+          {
+            "id": "mde-s4-01",
+            "label": "All S4 drugs checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-s4-02",
+            "label": "All OTC medications checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-s4-03",
+            "label": "Items expiring within 60 days",
+            "detail": "List any items expiring within 60 days",
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "mde-s4-04",
+            "label": "Expired medications quarantined",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "mde-consumables",
         "title": "IV Fluids and Consumables",
         "items": [
-          { "id": "mde-c-01", "label": "IV fluids checked", "detail": null, "type": "check", "required": true },
-          { "id": "mde-c-02", "label": "Wound care consumables checked", "detail": null, "type": "check", "required": true },
-          { "id": "mde-c-03", "label": "Airway consumables checked", "detail": null, "type": "check", "required": true }
+          {
+            "id": "mde-c-01",
+            "label": "IV fluids checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-c-02",
+            "label": "Wound care consumables checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-c-03",
+            "label": "Airway consumables checked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "mde-actions",
         "title": "Actions",
         "items": [
-          { "id": "mde-a-01", "label": "All expired items removed from service", "detail": null, "type": "check", "required": true },
-          { "id": "mde-a-02", "label": "Replacement order placed", "detail": null, "type": "check", "required": true },
-          { "id": "mde-a-03", "label": "Drug register updated for destroyed items", "detail": null, "type": "check", "required": true },
-          { "id": "mde-a-04", "label": "Audit record filed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "mde-a-01",
+            "label": "All expired items removed from service",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-a-02",
+            "label": "Replacement order placed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-a-03",
+            "label": "Drug register updated for destroyed items",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "mde-a-04",
+            "label": "Audit record filed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
@@ -366,58 +1013,226 @@
         "id": "nss-facility",
         "title": "Facility Assessment",
         "items": [
-          { "id": "nss-f-01", "label": "Dedicated clinical space available", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-02", "label": "Space can be secured and locked", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-03", "label": "Running water and handwashing facilities", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-04", "label": "Adequate lighting", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-05", "label": "Temperature controlled", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-06", "label": "Secure storage for medications", "detail": null, "type": "check", "required": true },
-          { "id": "nss-f-07", "label": "Drug safe present and compliant", "detail": null, "type": "yesNo", "required": true }
+          {
+            "id": "nss-f-01",
+            "label": "Dedicated clinical space available",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-02",
+            "label": "Space can be secured and locked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-03",
+            "label": "Running water and handwashing facilities",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-04",
+            "label": "Adequate lighting",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-05",
+            "label": "Temperature controlled",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-06",
+            "label": "Secure storage for medications",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-f-07",
+            "label": "Drug safe present and compliant",
+            "detail": null,
+            "type": "yesNo",
+            "required": true
+          }
         ]
       },
       {
         "id": "nss-contacts",
         "title": "Emergency Contacts",
         "items": [
-          { "id": "nss-c-01", "label": "Site emergency number confirmed and tested", "detail": null, "type": "check", "required": true },
-          { "id": "nss-c-02", "label": "Local hospital name and number", "detail": null, "type": "text", "required": true },
-          { "id": "nss-c-03", "label": "Retrieval service contact confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "nss-c-04", "label": "Medical director name and number", "detail": null, "type": "text", "required": true },
-          { "id": "nss-c-05", "label": "Poisons information centre 13 11 26 accessible", "detail": null, "type": "check", "required": true },
-          { "id": "nss-c-06", "label": "WorkSafe WA contact accessible", "detail": null, "type": "check", "required": true }
+          {
+            "id": "nss-c-01",
+            "label": "Site emergency number confirmed and tested",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-c-02",
+            "label": "Local hospital name and number",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "nss-c-03",
+            "label": "Retrieval service contact confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-c-04",
+            "label": "Medical director name and number",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "nss-c-05",
+            "label": "Poisons information centre 13 11 26 accessible",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-c-06",
+            "label": "WorkSafe WA contact accessible",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "nss-equipment",
         "title": "Equipment Minimum Standards",
         "items": [
-          { "id": "nss-e-01", "label": "AED present and operational", "detail": null, "type": "check", "required": true },
-          { "id": "nss-e-02", "label": "Oxygen and delivery devices present", "detail": null, "type": "check", "required": true },
-          { "id": "nss-e-03", "label": "Resuscitation equipment present", "detail": null, "type": "check", "required": true },
-          { "id": "nss-e-04", "label": "Monitoring equipment present", "detail": null, "type": "check", "required": true },
-          { "id": "nss-e-05", "label": "Trauma kit present", "detail": null, "type": "check", "required": true },
-          { "id": "nss-e-06", "label": "Vehicle available for medical response", "detail": null, "type": "check", "required": true }
+          {
+            "id": "nss-e-01",
+            "label": "AED present and operational",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-e-02",
+            "label": "Oxygen and delivery devices present",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-e-03",
+            "label": "Resuscitation equipment present",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-e-04",
+            "label": "Monitoring equipment present",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-e-05",
+            "label": "Trauma kit present",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-e-06",
+            "label": "Vehicle available for medical response",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "nss-regulatory",
         "title": "Regulatory Requirements",
         "items": [
-          { "id": "nss-r-01", "label": "Drug storage meets WA Medicines and Poisons regulations", "detail": null, "type": "check", "required": true },
-          { "id": "nss-r-02", "label": "AHPRA scope of practice confirmed for site role", "detail": null, "type": "check", "required": true },
-          { "id": "nss-r-03", "label": "Site emergency plan reviewed", "detail": null, "type": "check", "required": true },
-          { "id": "nss-r-04", "label": "Local site protocols reviewed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "nss-r-01",
+            "label": "Drug storage meets WA Medicines and Poisons regulations",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-r-02",
+            "label": "AHPRA scope of practice confirmed for site role",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-r-03",
+            "label": "Site emergency plan reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-r-04",
+            "label": "Local site protocols reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "nss-documentation",
         "title": "Documentation",
         "items": [
-          { "id": "nss-d-01", "label": "Site-specific risk register reviewed", "detail": null, "type": "check", "required": true },
-          { "id": "nss-d-02", "label": "Worker demographics and medical history access confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "nss-d-03", "label": "PRF system in place", "detail": null, "type": "check", "required": true },
-          { "id": "nss-d-04", "label": "Incident reporting system identified", "detail": null, "type": "check", "required": true },
-          { "id": "nss-d-05", "label": "Clinician details registered with site HSE", "detail": null, "type": "check", "required": true }
+          {
+            "id": "nss-d-01",
+            "label": "Site-specific risk register reviewed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-d-02",
+            "label": "Worker demographics and medical history access confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-d-03",
+            "label": "PRF system in place",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-d-04",
+            "label": "Incident reporting system identified",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "nss-d-05",
+            "label": "Clinician details registered with site HSE",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
@@ -435,58 +1250,190 @@
         "id": "ec-emergency",
         "title": "Emergency Services",
         "items": [
-          { "id": "ec-e-01", "label": "Triple zero (000) confirmed accessible from site", "detail": null, "type": "check", "required": true },
-          { "id": "ec-e-02", "label": "Site emergency number", "detail": null, "type": "text", "required": true },
-          { "id": "ec-e-03", "label": "Site emergency number tested", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ec-e-01",
+            "label": "Triple zero (000) confirmed accessible from site",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ec-e-02",
+            "label": "Site emergency number",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-e-03",
+            "label": "Site emergency number tested",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "ec-medical",
         "title": "Medical Services",
         "items": [
-          { "id": "ec-m-01", "label": "Local/nearest hospital", "detail": null, "type": "text", "required": true },
-          { "id": "ec-m-02", "label": "Hospital phone", "detail": null, "type": "text", "required": true },
-          { "id": "ec-m-03", "label": "Hospital called and confirmed receiving", "detail": null, "type": "check", "required": true },
-          { "id": "ec-m-04", "label": "RAC Retrieval WA or RFDS contact", "detail": null, "type": "text", "required": true },
-          { "id": "ec-m-05", "label": "Retrieval contact confirmed", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ec-m-01",
+            "label": "Local/nearest hospital",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-m-02",
+            "label": "Hospital phone",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-m-03",
+            "label": "Hospital called and confirmed receiving",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ec-m-04",
+            "label": "RAC Retrieval WA or RFDS contact",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-m-05",
+            "label": "Retrieval contact confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "ec-support",
         "title": "Medical Support",
         "items": [
-          { "id": "ec-s-01", "label": "On-call doctor name", "detail": null, "type": "text", "required": true },
-          { "id": "ec-s-02", "label": "On-call doctor phone", "detail": null, "type": "text", "required": true },
-          { "id": "ec-s-03", "label": "Medical director name", "detail": null, "type": "text", "required": true },
-          { "id": "ec-s-04", "label": "Medical director phone", "detail": null, "type": "text", "required": true }
+          {
+            "id": "ec-s-01",
+            "label": "On-call doctor name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-s-02",
+            "label": "On-call doctor phone",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-s-03",
+            "label": "Medical director name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-s-04",
+            "label": "Medical director phone",
+            "detail": null,
+            "type": "text",
+            "required": true
+          }
         ]
       },
       {
         "id": "ec-specialist",
         "title": "Poison and Specialist Lines",
         "items": [
-          { "id": "ec-sp-01", "label": "Poisons information centre 13 11 26 confirmed", "detail": null, "type": "check", "required": true },
-          { "id": "ec-sp-02", "label": "Mental health emergency line number", "detail": null, "type": "text", "required": false },
-          { "id": "ec-sp-03", "label": "Toxicology service if applicable", "detail": null, "type": "text", "required": false }
+          {
+            "id": "ec-sp-01",
+            "label": "Poisons information centre 13 11 26 confirmed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ec-sp-02",
+            "label": "Mental health emergency line number",
+            "detail": null,
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "ec-sp-03",
+            "label": "Toxicology service if applicable",
+            "detail": null,
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ec-site",
         "title": "Site Contacts",
         "items": [
-          { "id": "ec-sc-01", "label": "Site HSE manager", "detail": null, "type": "text", "required": true },
-          { "id": "ec-sc-02", "label": "Site HSE phone", "detail": null, "type": "text", "required": true },
-          { "id": "ec-sc-03", "label": "Company emergency 24hr line", "detail": null, "type": "text", "required": true },
-          { "id": "ec-sc-04", "label": "Nearest colleague medic/nurse", "detail": null, "type": "text", "required": false }
+          {
+            "id": "ec-sc-01",
+            "label": "Site HSE manager",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-sc-02",
+            "label": "Site HSE phone",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-sc-03",
+            "label": "Company emergency 24hr line",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ec-sc-04",
+            "label": "Nearest colleague medic/nurse",
+            "detail": null,
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ec-verification",
         "title": "Verification",
         "items": [
-          { "id": "ec-v-01", "label": "All numbers tested or confirmed in last 30 days", "detail": null, "type": "check", "required": true },
-          { "id": "ec-v-02", "label": "Contact list printed and displayed in clinic", "detail": null, "type": "check", "required": true },
-          { "id": "ec-v-03", "label": "Contact list in vehicle", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ec-v-01",
+            "label": "All numbers tested or confirmed in last 30 days",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ec-v-02",
+            "label": "Contact list printed and displayed in clinic",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ec-v-03",
+            "label": "Contact list in vehicle",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
@@ -504,49 +1451,163 @@
         "id": "pcr-decon",
         "title": "Decontamination",
         "items": [
-          { "id": "pcr-d-01", "label": "Vehicle decontaminated if required", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-d-02", "label": "Used PPE disposed", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-d-03", "label": "Biological material cleaned and disinfected", "detail": null, "type": "check", "required": true }
+          {
+            "id": "pcr-d-01",
+            "label": "Vehicle decontaminated if required",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-d-02",
+            "label": "Used PPE disposed",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-d-03",
+            "label": "Biological material cleaned and disinfected",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "pcr-resus",
         "title": "Resuscitation Kit",
         "items": [
-          { "id": "pcr-r-01", "label": "O₂ cylinder pressure adequate", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-r-02", "label": "BVM replaced if used", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-r-03", "label": "AED pads replaced if used", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-r-04", "label": "Airway adjuncts restocked", "detail": null, "type": "check", "required": true }
+          {
+            "id": "pcr-r-01",
+            "label": "O₂ cylinder pressure adequate",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-r-02",
+            "label": "BVM replaced if used",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-r-03",
+            "label": "AED pads replaced if used",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-r-04",
+            "label": "Airway adjuncts restocked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "pcr-drugs",
         "title": "Drug Restock",
         "items": [
-          { "id": "pcr-dr-01", "label": "All drugs used documented in drug register", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-dr-02", "label": "S8 drugs replaced and register updated", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-dr-03", "label": "S4 drugs replaced", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-dr-04", "label": "Drug safe secured", "detail": null, "type": "check", "required": true }
+          {
+            "id": "pcr-dr-01",
+            "label": "All drugs used documented in drug register",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-dr-02",
+            "label": "S8 drugs replaced and register updated",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-dr-03",
+            "label": "S4 drugs replaced",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-dr-04",
+            "label": "Drug safe secured",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "pcr-consumables",
         "title": "Consumables",
         "items": [
-          { "id": "pcr-c-01", "label": "IV cannulas and fluids restocked", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-c-02", "label": "Wound care supplies restocked", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-c-03", "label": "Gloves and PPE restocked", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-c-04", "label": "Documentation forms restocked", "detail": null, "type": "check", "required": true }
+          {
+            "id": "pcr-c-01",
+            "label": "IV cannulas and fluids restocked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-c-02",
+            "label": "Wound care supplies restocked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-c-03",
+            "label": "Gloves and PPE restocked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-c-04",
+            "label": "Documentation forms restocked",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "pcr-signoff",
         "title": "Sign-Off",
         "items": [
-          { "id": "pcr-s-01", "label": "Restock complete and vehicle ready for service", "detail": null, "type": "check", "required": true },
-          { "id": "pcr-s-02", "label": "Any items unable to be restocked", "detail": "Leave blank if fully restocked", "type": "text", "required": false },
-          { "id": "pcr-s-03", "label": "Supervisor notified if unable to fully restock", "detail": "Mark as checked if fully restocked (N/A)", "type": "check", "required": false },
-          { "id": "pcr-s-04", "label": "Clinician", "detail": null, "type": "text", "required": true }
+          {
+            "id": "pcr-s-01",
+            "label": "Restock complete and vehicle ready for service",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "pcr-s-02",
+            "label": "Any items unable to be restocked",
+            "detail": "Leave blank if fully restocked",
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "pcr-s-03",
+            "label": "Supervisor notified if unable to fully restock",
+            "detail": "Mark as checked if fully restocked (N/A)",
+            "type": "check",
+            "required": false
+          },
+          {
+            "id": "pcr-s-04",
+            "label": "Clinician",
+            "detail": null,
+            "type": "text",
+            "required": true
+          }
         ]
       }
     ]
@@ -564,62 +1625,218 @@
         "id": "ir-details",
         "title": "Incident Details",
         "items": [
-          { "id": "ir-d-01", "label": "Date of incident", "detail": null, "type": "text", "required": true },
-          { "id": "ir-d-02", "label": "Time of incident", "detail": null, "type": "text", "required": true },
-          { "id": "ir-d-03", "label": "Location", "detail": null, "type": "text", "required": true },
-          { "id": "ir-d-04", "label": "Type of incident", "detail": null, "type": "text", "required": true },
-          { "id": "ir-d-05", "label": "Brief description", "detail": null, "type": "text", "required": true }
+          {
+            "id": "ir-d-01",
+            "label": "Date of incident",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-d-02",
+            "label": "Time of incident",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-d-03",
+            "label": "Location",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-d-04",
+            "label": "Type of incident",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-d-05",
+            "label": "Brief description",
+            "detail": null,
+            "type": "text",
+            "required": true
+          }
         ]
       },
       {
         "id": "ir-persons",
         "title": "Persons Involved",
         "items": [
-          { "id": "ir-p-01", "label": "Injured/affected person name", "detail": null, "type": "text", "required": true },
-          { "id": "ir-p-02", "label": "Worker ID or DOB", "detail": null, "type": "text", "required": true },
-          { "id": "ir-p-03", "label": "Employer", "detail": null, "type": "text", "required": true },
-          { "id": "ir-p-04", "label": "Witnesses", "detail": null, "type": "text", "required": false }
+          {
+            "id": "ir-p-01",
+            "label": "Injured/affected person name",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-p-02",
+            "label": "Worker ID or DOB",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-p-03",
+            "label": "Employer",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-p-04",
+            "label": "Witnesses",
+            "detail": null,
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ir-injury",
         "title": "Injury/Event Details",
         "items": [
-          { "id": "ir-i-01", "label": "Nature of injury or illness", "detail": null, "type": "text", "required": true },
-          { "id": "ir-i-02", "label": "Body part affected if applicable", "detail": null, "type": "text", "required": false },
-          { "id": "ir-i-03", "label": "Mechanism of injury", "detail": null, "type": "text", "required": true },
-          { "id": "ir-i-04", "label": "Contributing factors identified", "detail": null, "type": "text", "required": false }
+          {
+            "id": "ir-i-01",
+            "label": "Nature of injury or illness",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-i-02",
+            "label": "Body part affected if applicable",
+            "detail": null,
+            "type": "text",
+            "required": false
+          },
+          {
+            "id": "ir-i-03",
+            "label": "Mechanism of injury",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-i-04",
+            "label": "Contributing factors identified",
+            "detail": null,
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ir-actions",
         "title": "Immediate Actions",
         "items": [
-          { "id": "ir-a-01", "label": "First aid provided", "detail": null, "type": "text", "required": true },
-          { "id": "ir-a-02", "label": "Medical treatment required", "detail": null, "type": "yesNo", "required": true },
-          { "id": "ir-a-03", "label": "Hospital transfer required", "detail": null, "type": "yesNo", "required": true },
-          { "id": "ir-a-04", "label": "Scene made safe", "detail": null, "type": "check", "required": true },
-          { "id": "ir-a-05", "label": "Evidence preserved", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ir-a-01",
+            "label": "First aid provided",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-a-02",
+            "label": "Medical treatment required",
+            "detail": null,
+            "type": "yesNo",
+            "required": true
+          },
+          {
+            "id": "ir-a-03",
+            "label": "Hospital transfer required",
+            "detail": null,
+            "type": "yesNo",
+            "required": true
+          },
+          {
+            "id": "ir-a-04",
+            "label": "Scene made safe",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ir-a-05",
+            "label": "Evidence preserved",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       },
       {
         "id": "ir-notifications",
         "title": "Notifications",
         "items": [
-          { "id": "ir-n-01", "label": "Supervisor notified - name and time", "detail": null, "type": "text", "required": true },
-          { "id": "ir-n-02", "label": "HSE manager notified", "detail": null, "type": "check", "required": true },
-          { "id": "ir-n-03", "label": "WorkSafe WA notified if required", "detail": null, "type": "check", "required": false },
-          { "id": "ir-n-04", "label": "Notification time if notifiable", "detail": "Leave blank if not a notifiable incident", "type": "text", "required": false }
+          {
+            "id": "ir-n-01",
+            "label": "Supervisor notified - name and time",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-n-02",
+            "label": "HSE manager notified",
+            "detail": null,
+            "type": "check",
+            "required": true
+          },
+          {
+            "id": "ir-n-03",
+            "label": "WorkSafe WA notified if required",
+            "detail": null,
+            "type": "check",
+            "required": false
+          },
+          {
+            "id": "ir-n-04",
+            "label": "Notification time if notifiable",
+            "detail": "Leave blank if not a notifiable incident",
+            "type": "text",
+            "required": false
+          }
         ]
       },
       {
         "id": "ir-signoff",
         "title": "Sign-Off",
         "items": [
-          { "id": "ir-s-01", "label": "Report completed by", "detail": null, "type": "text", "required": true },
-          { "id": "ir-s-02", "label": "Clinician registration number", "detail": null, "type": "text", "required": true },
-          { "id": "ir-s-03", "label": "Date submitted", "detail": null, "type": "text", "required": true },
-          { "id": "ir-s-04", "label": "Report lodged in site system", "detail": null, "type": "check", "required": true }
+          {
+            "id": "ir-s-01",
+            "label": "Report completed by",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-s-02",
+            "label": "Clinician registration number",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-s-03",
+            "label": "Date submitted",
+            "detail": null,
+            "type": "text",
+            "required": true
+          },
+          {
+            "id": "ir-s-04",
+            "label": "Report lodged in site system",
+            "detail": null,
+            "type": "check",
+            "required": true
+          }
         ]
       }
     ]
