@@ -52,7 +52,7 @@
     "ecg-rhythms/right-bundle-branch-block": 2,
     "ecg-rhythms/second-degree-av-block-mobitz-i": 2,
     "ecg-rhythms/second-degree-av-block-mobitz-ii": 2,
-    "ecg-rhythms/secundum-asd": 2,
+    "ecg-rhythms/secundum-asd": 3,
     "ecg-rhythms/severe-hyperkalaemia": 2,
     "ecg-rhythms/short-qt": 2,
     "ecg-rhythms/sinus-arrhythmia": 2,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-23T16:00:00Z",
-  "version": 8
+  "lastUpdated": "2026-05-23T16:30:00Z",
+  "version": 9
 }
