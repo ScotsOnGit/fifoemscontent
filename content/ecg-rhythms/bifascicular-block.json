@@ -94,7 +94,8 @@
           "notchAmplitudeMm": 1,
           "hasRPrime": true,
           "rPrimeAmplitudeMm": 5.5,
-          "rPrimeDurationMs": 50
+          "rPrimeDurationMs": 50,
+          "peakShape": "pointed"
         },
         "sWave": {
           "present": true,

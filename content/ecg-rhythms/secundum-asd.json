@@ -102,7 +102,8 @@
               "notchAmplitudeMm": 0.8,
               "hasRPrime": false,
               "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20
+              "rPrimeDurationMs": 20,
+              "peakShape": "pointed"
             },
             "sWave": {
               "present": true,
@@ -159,7 +160,8 @@
               "notchAmplitudeMm": 0.8,
               "hasRPrime": false,
               "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20
+              "rPrimeDurationMs": 20,
+              "peakShape": "pointed"
             },
             "sWave": {
               "present": true,
@@ -216,7 +218,8 @@
               "notchAmplitudeMm": 0.8,
               "hasRPrime": false,
               "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20
+              "rPrimeDurationMs": 20,
+              "peakShape": "pointed"
             },
             "sWave": {
               "present": true,
@@ -273,7 +276,8 @@
               "notchAmplitudeMm": 1,
               "hasRPrime": true,
               "rPrimeAmplitudeMm": 2.5,
-              "rPrimeDurationMs": 20
+              "rPrimeDurationMs": 20,
+              "peakShape": "pointed"
             },
             "sWave": {
               "present": true,

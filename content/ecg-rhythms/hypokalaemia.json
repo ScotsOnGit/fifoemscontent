@@ -97,7 +97,8 @@
           "notchAmplitudeMm": 1,
           "hasRPrime": false,
           "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20
+          "rPrimeDurationMs": 20,
+          "peakShape": "pointed"
         },
         "sWave": {
           "present": true,
@@ -131,7 +132,8 @@
           "present": true,
           "shape": "normal",
           "amplitudeMm": 2.5,
-          "durationMs": 80
+          "durationMs": 80,
+          "tWaveGapMs": 0
         }
       }
     },
