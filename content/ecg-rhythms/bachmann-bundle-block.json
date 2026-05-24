@@ -61,8 +61,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T08:50:50Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "structural",
@@ -76,7 +76,8 @@
       "pAmplitudeMm": 1.5,
       "pDurationMs": 140,
       "prMs": 160,
-      "prSegmentMs": 40
+      "prSegmentMs": 40,
+      "pMorphology": "biphasicPosNeg"
     },
     "qrs": {
       "type": "narrow",
@@ -97,6 +98,7 @@
       "durationMs": 180,
       "shape": "normal"
     },
+    "tpSegmentMs": 260,
     "sourceUrls": [],
     "qaNotes": [
       "Structural/atrial enlargement pattern preserves P/QRS/ST-T morphology from source content."
