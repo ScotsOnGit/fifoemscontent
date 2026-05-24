@@ -58,11 +58,11 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "svt",
+    "rhythmFamily": "junctional",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
@@ -96,7 +96,8 @@
     },
     "sourceUrls": [],
     "qaNotes": [
-      "Supraventricular rhythm migrated from v1 components; verify P-wave relationship in editor."
+      "Supraventricular rhythm migrated from v1 components; verify P-wave relationship in editor.",
+      "Junctional rhythm family: absent/hidden P waves with regular narrow QRS at 40-60 bpm."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
     "qaConfidence": "pattern-reviewed"

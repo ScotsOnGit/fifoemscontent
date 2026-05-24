@@ -54,21 +54,21 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "svt",
+    "rhythmFamily": "junctional",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
     "heartRate": 50,
     "atrialActivity": {
-      "type": "none",
-      "pAmplitudeMm": 0,
-      "pDurationMs": 0,
-      "prMs": 0,
+      "type": "retrogradeP",
+      "pAmplitudeMm": -0.9,
+      "pDurationMs": 60,
+      "prMs": -90,
       "prSegmentMs": 40
     },
     "qrs": {
@@ -92,7 +92,8 @@
     },
     "sourceUrls": [],
     "qaNotes": [
-      "Supraventricular rhythm migrated from v1 components; verify P-wave relationship in editor."
+      "Supraventricular rhythm migrated from v1 components; verify P-wave relationship in editor.",
+      "Low junctional rhythm: retrograde P waves after the QRS."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
     "qaConfidence": "pattern-reviewed"
