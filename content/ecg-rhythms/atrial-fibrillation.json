@@ -61,75 +61,34 @@
     "CHADS-VASc"
   ],
   "isFreeContent": false,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-24T01:45:04Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 560,
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "fibrillatory",
-          "amplitudeMm": 0.5,
-          "durationMs": 80,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 60,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 9,
-          "durationMs": 60,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": 0,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": 0,
-          "morphology": "flat",
-          "leadsAffected": []
-        },
-        "tWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 2,
-          "durationMs": 130,
-          "notched": false
-        }
-      }
-    },
-    "heartRate": 107,
-    "rrVariation": "irregular",
+    "engineVersion": 2,
+    "rhythmFamily": "atrialFibrillation",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "irregular",
+    "heartRate": 120,
+    "atrialActivity": {
+      "type": "fibrillatory",
+      "fibrillationAmplitudeMm": 0.7
+    },
+    "qrs": {
+      "type": "narrow",
+      "amplitudeMm": 9,
+      "durationMs": 85,
+      "sAmplitudeMm": -2
+    },
+    "st": {
+      "elevationMm": 0,
+      "morphology": "flat"
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 1.6,
+      "durationMs": 140
+    }
   }
 }
