@@ -60,338 +60,52 @@
     "V4R",
     "right-sided leads",
     "ACS",
-    "GTN contraindicated"
+    "GTN contraindicated",
+    "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-23T15:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "multiLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 920,
-    "multiLead": {
-      "focusLead": "V4R",
-      "leads": [
-        {
-          "lead": "V4R",
-          "isDiagnosticLead": true,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 180,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": false,
-              "amplitudeMm": 0.5,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 8,
-              "durationMs": 70,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 1.5,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 1.5,
-              "morphology": "convex",
-              "leadsAffected": [
-                "V3R",
-                "V4R",
-                "V5R",
-                "V6R"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "hyperacute",
-              "amplitudeMm": 2.5,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "V3R",
-          "isDiagnosticLead": true,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 180,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": false,
-              "amplitudeMm": 0.5,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 7,
-              "durationMs": 70,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 1.2,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 1.2,
-              "morphology": "convex",
-              "leadsAffected": [
-                "V3R",
-                "V4R",
-                "V5R",
-                "V6R"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "hyperacute",
-              "amplitudeMm": 2,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "III",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 180,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": true,
-              "amplitudeMm": 0.8,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 8,
-              "durationMs": 50,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 2.5,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 2.5,
-              "morphology": "convex",
-              "leadsAffected": [
-                "II",
-                "III",
-                "aVF"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "hyperacute",
-              "amplitudeMm": 3.5,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "II",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 180,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": true,
-              "amplitudeMm": 0.8,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 9,
-              "durationMs": 50,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 2,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 2,
-              "morphology": "convex",
-              "leadsAffected": [
-                "II",
-                "III",
-                "aVF"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "hyperacute",
-              "amplitudeMm": 3,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "aVF",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 180,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": true,
-              "amplitudeMm": 0.8,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 8,
-              "durationMs": 50,
-              "morphology": "normal",
-              "axisDeviation": "normal",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 2,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 2,
-              "morphology": "convex",
-              "leadsAffected": [
-                "II",
-                "III",
-                "aVF"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "hyperacute",
-              "amplitudeMm": 3,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        }
-      ]
-    },
-    "heartRate": 65,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "stemi",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 65,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": 1.5,
+      "pDurationMs": 80,
+      "prMs": 180,
+      "prSegmentMs": 100
+    },
+    "qrs": {
+      "type": "narrow",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": 8,
+      "durationMs": 100,
+      "sAmplitudeMm": -2,
+      "notch": false
+    },
+    "st": {
+      "elevationMm": 1.5,
+      "morphology": "convex",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 2.5,
+      "durationMs": 160
+    },
+    "sourceUrls": [
+      "https://litfl.com/right-ventricular-infarction/"
+    ],
+    "qaNotes": [
+      "Ischaemia/STEMI morphology retained from source content; verify affected leads in multi-lead view."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

@@ -58,83 +58,59 @@
     "AV block",
     "dropped beat",
     "pacing",
-    "infranodal"
+    "infranodal",
+    "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 1200,
+    "engineVersion": 2,
+    "rhythmFamily": "avBlock",
+    "previewOrientation": "portrait",
+    "stripSmallBoxesPortrait": 83,
+    "stripSmallBoxesLandscape": 140,
+    "rrPattern": "regularlyIrregular",
+    "heartRate": 50,
+    "atrialActivity": {
+      "type": "discreteP",
+      "independent": true,
+      "pAmplitudeMm": 1.3,
+      "pDurationMs": 80,
+      "atrialCycleMs": 600,
+      "atrialPhaseOffsetMs": 0,
+      "prMs": 180
+    },
+    "qrs": {
+      "type": "wide",
+      "amplitudeMm": 9,
+      "durationMs": 130,
+      "sAmplitudeMm": -4,
+      "qAmplitudeMm": -0.5
+    },
+    "st": {
+      "elevationMm": 0,
+      "morphology": "flat",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 2.5,
+      "durationMs": 180,
+      "shape": "normal"
+    },
+    "sourceUrls": [
+      "https://litfl.com/av-block-2nd-degree-mobitz-ii-hay-block/"
+    ],
+    "qaNotes": [
+      "Constant PR intervals in conducted beats with intermittent non-conducted P waves; often wide QRS."
+    ],
     "avBlock": {
       "type": "mobitzII_2to1",
       "atrialCycleMs": 600,
       "atrialPhaseOffsetMs": 0
     },
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 1.5,
-          "durationMs": 80,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 180,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 9,
-          "durationMs": 100,
-          "morphology": "wide",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": 0,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": 0,
-          "morphology": "flat",
-          "leadsAffected": []
-        },
-        "tWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 2.5,
-          "durationMs": 180,
-          "notched": false
-        }
-      }
-    },
-    "heartRate": 50,
-    "rrVariation": "regularlyIrregular",
-    "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
-    "stripSmallBoxesPortrait": 83,
-    "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

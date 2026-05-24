@@ -55,78 +55,55 @@
     "premature atrial contraction",
     "atrial ectopic",
     "ectopic",
-    "palpitations"
+    "palpitations",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 740,
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "peaked",
-          "amplitudeMm": 1.8,
-          "durationMs": 80,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 150,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 10,
-          "durationMs": 65,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": 0,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": 0,
-          "morphology": "flat",
-          "leadsAffected": []
-        },
-        "tWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 2,
-          "durationMs": 150,
-          "notched": false
-        }
-      }
-    },
-    "heartRate": 81,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "ectopy",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 81,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": 1.8,
+      "pDurationMs": 80,
+      "prMs": 150,
+      "prSegmentMs": 70
+    },
+    "qrs": {
+      "type": "narrow",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": 10,
+      "durationMs": 95,
+      "sAmplitudeMm": -2,
+      "notch": false
+    },
+    "st": {
+      "elevationMm": 0,
+      "morphology": "flat",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 2,
+      "durationMs": 150,
+      "shape": "normal"
+    },
+    "sourceUrls": [],
+    "qaNotes": [
+      "Underlying sinus rhythm with premature supraventricular complexes."
+    ],
+    "ectopy": {
+      "type": "atrial",
+      "frequency": "occasional"
+    },
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

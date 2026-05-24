@@ -58,11 +58,12 @@
     "irregularly irregular",
     "f waves",
     "anticoagulation",
-    "CHADS-VASc"
+    "CHADS-VASc",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 2,
-  "lastUpdated": "2026-05-24T01:45:04Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "atrialFibrillation",
@@ -70,25 +71,37 @@
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "irregular",
-    "heartRate": 120,
+    "heartRate": 110,
     "atrialActivity": {
       "type": "fibrillatory",
-      "fibrillationAmplitudeMm": 0.7
+      "fibrillationAmplitudeMm": 0.45
     },
     "qrs": {
       "type": "narrow",
       "amplitudeMm": 9,
-      "durationMs": 85,
-      "sAmplitudeMm": -2
+      "durationMs": 84,
+      "sAmplitudeMm": -2,
+      "qAmplitudeMm": -0.4
     },
     "st": {
       "elevationMm": 0,
-      "morphology": "flat"
+      "morphology": "flat",
+      "durationMs": 90
     },
     "tWave": {
       "present": true,
-      "amplitudeMm": 1.6,
-      "durationMs": 140
-    }
+      "amplitudeMm": 2,
+      "durationMs": 160,
+      "shape": "rounded"
+    },
+    "sourceUrls": [
+      "https://litfl.com/atrial-fibrillation-ecg-library/",
+      "https://litfl.com/atrial-fibrillation/"
+    ],
+    "qaNotes": [
+      "Irregularly irregular narrow-complex rhythm with fibrillatory baseline and no organised P waves."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

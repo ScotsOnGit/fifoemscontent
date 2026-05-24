@@ -56,87 +56,51 @@
     "atrial repolarisation",
     "junctional rhythm",
     "STEMI mimic",
-    "inferior ST elevation"
+    "inferior ST elevation",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 1200,
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "inverted",
-          "amplitudeMm": -1.5,
-          "durationMs": 80,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 80,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 9,
-          "durationMs": 60,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": 1,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": 1,
-          "morphology": "concaveUp",
-          "leadsAffected": [
-            "II",
-            "III",
-            "aVF"
-          ]
-        },
-        "tWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 2.5,
-          "durationMs": 180,
-          "notched": false
-        },
-        "taWave": {
-          "present": true,
-          "amplitudeMm": 1.5,
-          "positionInCycle": "st_segment"
-        }
-      }
-    },
-    "heartRate": 50,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "sinus",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 50,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": -1.5,
+      "pDurationMs": 80,
+      "prMs": 80,
+      "prSegmentMs": 40
+    },
+    "qrs": {
+      "type": "narrow",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": 9,
+      "durationMs": 90,
+      "sAmplitudeMm": -2,
+      "notch": false
+    },
+    "st": {
+      "elevationMm": 1,
+      "morphology": "concave",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 2.5,
+      "durationMs": 180,
+      "shape": "normal"
+    },
+    "sourceUrls": [],
+    "qaNotes": [
+      "Generic migration from v1 components."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

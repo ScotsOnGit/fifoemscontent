@@ -57,150 +57,53 @@
     "left bundle branch block",
     "wide QRS",
     "conduction",
-    "Sgarbossa"
+    "Sgarbossa",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 2,
-  "lastUpdated": "2026-05-23T12:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "multiLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 800,
-    "multiLead": {
-      "focusLead": "V1",
-      "leads": [
-        {
-          "lead": "V1",
-          "isDiagnosticLead": true,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1,
-              "durationMs": 90,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 160,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": false,
-              "amplitudeMm": 0.5,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": -8,
-              "durationMs": 110,
-              "morphology": "lbbb",
-              "axisDeviation": "left",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 2,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 2,
-              "morphology": "concaveUp",
-              "leadsAffected": [
-                "V1",
-                "V2"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 2.5,
-              "durationMs": 180,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "V6",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 90,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 160,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": false,
-              "amplitudeMm": 0.5,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 12,
-              "durationMs": 110,
-              "morphology": "lbbb",
-              "axisDeviation": "left",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": -1.5,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": -1.5,
-              "morphology": "flatDepression",
-              "leadsAffected": [
-                "V5",
-                "V6",
-                "I",
-                "aVL"
-              ]
-            },
-            "tWave": {
-              "present": true,
-              "shape": "inverted",
-              "amplitudeMm": -3,
-              "durationMs": 200,
-              "notched": false
-            }
-          }
-        }
-      ]
-    },
-    "heartRate": 75,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "bundleBranchBlock",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 75,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": 1,
+      "pDurationMs": 90,
+      "prMs": 160,
+      "prSegmentMs": 70
+    },
+    "qrs": {
+      "type": "lbbb",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": -8,
+      "durationMs": 155,
+      "sAmplitudeMm": -2,
+      "notch": true
+    },
+    "st": {
+      "elevationMm": 2,
+      "morphology": "discordant",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 2.5,
+      "durationMs": 180,
+      "shape": "normal"
+    },
+    "sourceUrls": [
+      "https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/"
+    ],
+    "qaNotes": [
+      "Conduction abnormality pattern: QRS/axis morphology should be checked in diagnostic leads."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

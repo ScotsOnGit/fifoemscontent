@@ -53,200 +53,53 @@
     "left posterior fascicular block",
     "right axis deviation",
     "hemiblock",
-    "conduction"
+    "conduction",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 2,
-  "lastUpdated": "2026-05-23T12:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "multiLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 800,
-    "multiLead": {
-      "focusLead": "II",
-      "leads": [
-        {
-          "lead": "I",
-          "isDiagnosticLead": false,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 160,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": false,
-              "amplitudeMm": 0.5,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": -6,
-              "durationMs": 80,
-              "morphology": "normal",
-              "axisDeviation": "right",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 0,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 0,
-              "morphology": "flat",
-              "leadsAffected": []
-            },
-            "tWave": {
-              "present": true,
-              "shape": "inverted",
-              "amplitudeMm": -1.5,
-              "durationMs": 140,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "II",
-          "isDiagnosticLead": true,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 160,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": true,
-              "amplitudeMm": 0.8,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 10,
-              "durationMs": 60,
-              "morphology": "normal",
-              "axisDeviation": "right",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 0,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 0,
-              "morphology": "flat",
-              "leadsAffected": []
-            },
-            "tWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 2.5,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        },
-        {
-          "lead": "aVF",
-          "isDiagnosticLead": true,
-          "components": {
-            "pWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 1.5,
-              "durationMs": 80,
-              "correlatesWithQRS": true,
-              "prIntervalMs": 160,
-              "prMorphology": "isoelectric",
-              "progressive": false,
-              "progressiveStepMs": 40,
-              "progressiveCycles": 3
-            },
-            "qWave": {
-              "present": true,
-              "amplitudeMm": 0.8,
-              "durationMs": 20
-            },
-            "rWave": {
-              "amplitudeMm": 9,
-              "durationMs": 60,
-              "morphology": "normal",
-              "axisDeviation": "right",
-              "notched": false,
-              "notchAmplitudeMm": 1,
-              "hasRPrime": false,
-              "rPrimeAmplitudeMm": 3,
-              "rPrimeDurationMs": 20,
-              "peakShape": "pointed"
-            },
-            "sWave": {
-              "present": true,
-              "amplitudeMm": 2,
-              "durationMs": 30
-            },
-            "jPoint": {
-              "elevationMm": 0,
-              "shape": "normal",
-              "durationMs": 0
-            },
-            "stSegment": {
-              "durationMs": 80,
-              "elevationMm": 0,
-              "morphology": "flat",
-              "leadsAffected": []
-            },
-            "tWave": {
-              "present": true,
-              "shape": "normal",
-              "amplitudeMm": 2.5,
-              "durationMs": 160,
-              "notched": false
-            }
-          }
-        }
-      ]
-    },
-    "heartRate": 75,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "bundleBranchBlock",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 75,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": 1.5,
+      "pDurationMs": 80,
+      "prMs": 160,
+      "prSegmentMs": 80
+    },
+    "qrs": {
+      "type": "narrow",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": -6,
+      "durationMs": 95,
+      "sAmplitudeMm": -2,
+      "notch": false
+    },
+    "st": {
+      "elevationMm": 0,
+      "morphology": "flat",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": -1.5,
+      "durationMs": 140,
+      "shape": "inverted"
+    },
+    "sourceUrls": [
+      "https://litfl.com/left-posterior-fascicular-block-lpfb-ecg-library/"
+    ],
+    "qaNotes": [
+      "Conduction abnormality pattern: QRS/axis morphology should be checked in diagnostic leads."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }
