@@ -5,6 +5,8 @@
     "Flutter",
     "AFL",
     "Atrial flutter 2:1",
+    "Atrial flutter 3:1",
+    "Atrial flutter 4:1",
     "Sawtooth flutter waves",
     "Type I flutter"
   ],
@@ -61,8 +63,8 @@
     "AFL"
   ],
   "isFreeContent": false,
-  "version": 2,
-  "lastUpdated": "2026-05-24T02:26:14Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T02:27:28Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "atrialFlutter",
