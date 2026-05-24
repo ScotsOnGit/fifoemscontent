@@ -55,47 +55,41 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T08:19:02Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "sinus",
+    "rhythmFamily": "junctional",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
-    "heartRate": 67,
+    "heartRate": 50,
     "atrialActivity": {
       "type": "discreteP",
-      "pAmplitudeMm": 1.3,
-      "pDurationMs": 80,
-      "prMs": 120,
-      "prSegmentMs": 40
+      "pAmplitudeMm": 2.2,
+      "pDurationMs": 70,
+      "prMs": 0,
+      "independent": true,
+      "atrialRate": 86,
+      "atrialCycleMs": 700,
+      "atrialPhaseOffsetMs": 180
     },
     "qrs": {
       "type": "narrow",
       "qAmplitudeMm": -0.35,
       "amplitudeMm": 8,
-      "durationMs": 100,
-      "sAmplitudeMm": -2,
-      "notch": false
+      "durationMs": 90,
+      "sAmplitudeMm": -2
     },
     "st": {
       "elevationMm": 0,
-      "morphology": "flat",
-      "durationMs": 80
+      "morphology": "flat"
     },
     "tWave": {
       "present": true,
       "amplitudeMm": 2,
-      "durationMs": 180,
-      "shape": "normal"
-    },
-    "sourceUrls": [],
-    "qaNotes": [
-      "Generic migration from v1 components."
-    ],
-    "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+      "durationMs": 170
+    }
   }
 }
