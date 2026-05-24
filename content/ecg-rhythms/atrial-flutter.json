@@ -64,8 +64,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 4,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 5,
+  "lastUpdated": "2026-05-24T07:28:07Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "atrialFlutter",
@@ -76,18 +76,20 @@
     "heartRate": 150,
     "atrialActivity": {
       "type": "flutter",
-      "atrialRate": 300,
-      "avRatio": "4:1",
+      "atrialRate": 390,
+      "avRatio": "variable",
       "flutterAmplitudeMm": 1.65,
+      "flutterPolarity": "positive",
+      "flutterMorphology": "classicSawtooth",
       "flutterPattern": "simulatorLike",
       "phaseOffset": 0.03
     },
     "qrs": {
       "type": "narrow",
-      "qAmplitudeMm": -0.25,
       "amplitudeMm": 8.2,
       "durationMs": 64,
-      "sAmplitudeMm": -1.1
+      "sAmplitudeMm": -1.1,
+      "qAmplitudeMm": -0.25
     },
     "st": {
       "elevationMm": 0,
@@ -95,8 +97,8 @@
     },
     "tWave": {
       "present": true,
-      "amplitudeMm": 0.15,
-      "durationMs": 90,
+      "amplitudeMm": -0.2,
+      "durationMs": 170,
       "visibility": "mostlyObscured"
     },
     "sourceUrls": [
