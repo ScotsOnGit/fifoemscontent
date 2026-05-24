@@ -56,41 +56,40 @@
     "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T07:13:21Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "ventricularRhythm",
+    "rhythmFamily": "sinus",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "rrPattern": "irregular",
-    "heartRate": 20,
+    "rrPattern": "regular",
+    "heartRate": 28,
     "atrialActivity": {
-      "type": "none"
+      "type": "hiddenP",
+      "pAmplitudeMm": 1.4,
+      "pDurationMs": 90,
+      "prMs": 160,
+      "prSegmentMs": 70
     },
     "qrs": {
-      "type": "ventricular",
-      "amplitudeMm": 7,
-      "durationMs": 210,
-      "sAmplitudeMm": -4,
-      "qAmplitudeMm": -0.5
+      "type": "wide",
+      "qAmplitudeMm": -0.9,
+      "amplitudeMm": 1.5,
+      "durationMs": 86,
+      "sAmplitudeMm": -2.5
     },
     "st": {
       "elevationMm": 0,
       "morphology": "flat",
-      "durationMs": 80
+      "durationMs": 105
     },
     "tWave": {
-      "present": false,
-      "amplitudeMm": 0,
-      "durationMs": 0
+      "present": true,
+      "amplitudeMm": 1.5,
+      "durationMs": 140
     },
-    "sourceUrls": [],
-    "qaNotes": [
-      "Very slow broad ventricular escape complexes approaching asystole."
-    ],
-    "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "tpSegmentMs": 260
   }
 }
