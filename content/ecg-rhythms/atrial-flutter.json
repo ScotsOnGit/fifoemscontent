@@ -60,11 +60,12 @@
     "sawtooth",
     "2:1 block",
     "150 bpm",
-    "AFL"
+    "AFL",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T02:27:28Z",
+  "version": 4,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "atrialFlutter",
@@ -97,6 +98,14 @@
       "amplitudeMm": 0.15,
       "durationMs": 90,
       "visibility": "mostlyObscured"
-    }
+    },
+    "sourceUrls": [
+      "https://litfl.com/atrial-flutter-ecg-library/"
+    ],
+    "qaNotes": [
+      "Atrial rate around 300 bpm, saw-tooth flutter waves, AV ratio controls ventricular rate."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

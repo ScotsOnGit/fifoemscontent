@@ -50,78 +50,49 @@
     "ventricular standstill",
     "P-wave asystole",
     "cardiac arrest",
-    "non-shockable"
+    "non-shockable",
+    "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-22T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 800,
-    "singleLead": {
-      "lead": "II",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 1.5,
-          "durationMs": 90,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 160,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 0,
-          "durationMs": 50,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": 0,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": 0,
-          "morphology": "flat",
-          "leadsAffected": []
-        },
-        "tWave": {
-          "present": false,
-          "shape": "flat",
-          "amplitudeMm": 0,
-          "durationMs": 0,
-          "notched": false
-        }
-      }
-    },
-    "heartRate": 75,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "avBlock",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 0,
+    "atrialActivity": {
+      "type": "discreteP",
+      "independent": true,
+      "pAmplitudeMm": 1.2,
+      "pDurationMs": 80,
+      "atrialCycleMs": 800
+    },
+    "qrs": {
+      "type": "none",
+      "amplitudeMm": 0,
+      "durationMs": 0,
+      "sAmplitudeMm": 0,
+      "qAmplitudeMm": 0
+    },
+    "st": {
+      "elevationMm": 0,
+      "morphology": "flat",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": false,
+      "amplitudeMm": 0,
+      "durationMs": 0
+    },
+    "sourceUrls": [],
+    "qaNotes": [
+      "P waves continue without ventricular escape complexes."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

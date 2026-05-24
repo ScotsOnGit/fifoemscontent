@@ -57,11 +57,12 @@
     "reperfusion arrhythmia",
     "slow VT",
     "wide complex",
-    "benign"
+    "benign",
+    "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 7,
-  "lastUpdated": "2026-05-24T05:21:52Z",
+  "version": 8,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "ventricularRhythm",
@@ -75,18 +76,29 @@
     },
     "qrs": {
       "type": "ventricular",
-      "amplitudeMm": 6,
-      "durationMs": 170,
-      "sAmplitudeMm": -6
+      "amplitudeMm": 11,
+      "durationMs": 165,
+      "sAmplitudeMm": -5,
+      "qAmplitudeMm": 0
     },
     "st": {
       "elevationMm": 0,
-      "morphology": "discordant"
+      "morphology": "discordant",
+      "durationMs": 90
     },
     "tWave": {
       "present": true,
-      "amplitudeMm": 1.2,
-      "durationMs": 180
-    }
+      "amplitudeMm": -2,
+      "durationMs": 170,
+      "shape": "inverted"
+    },
+    "sourceUrls": [
+      "https://litfl.com/accelerated-idioventricular-rhythm-aivr/"
+    ],
+    "qaNotes": [
+      "Slow broad ventricular rhythm without preceding P waves."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

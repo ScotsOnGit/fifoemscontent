@@ -59,86 +59,53 @@
     "LAD occlusion",
     "STEMI equivalent",
     "hyperacute T",
-    "ACS"
+    "ACS",
+    "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 1,
-  "lastUpdated": "2026-05-23T00:00:00Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
-    "mode": "singleLead",
-    "repeatCount": 3,
-    "cycleDurationMs": 800,
-    "singleLead": {
-      "lead": "V3",
-      "components": {
-        "pWave": {
-          "present": true,
-          "shape": "normal",
-          "amplitudeMm": 1.5,
-          "durationMs": 80,
-          "correlatesWithQRS": true,
-          "prIntervalMs": 160,
-          "prMorphology": "isoelectric",
-          "progressive": false,
-          "progressiveStepMs": 40,
-          "progressiveCycles": 3
-        },
-        "qWave": {
-          "present": false,
-          "amplitudeMm": 0.5,
-          "durationMs": 20
-        },
-        "rWave": {
-          "amplitudeMm": 10,
-          "durationMs": 70,
-          "morphology": "normal",
-          "axisDeviation": "normal",
-          "notched": false,
-          "notchAmplitudeMm": 1,
-          "hasRPrime": false,
-          "rPrimeAmplitudeMm": 3,
-          "rPrimeDurationMs": 20,
-          "peakShape": "pointed"
-        },
-        "sWave": {
-          "present": true,
-          "amplitudeMm": 2,
-          "durationMs": 30
-        },
-        "jPoint": {
-          "elevationMm": -1.5,
-          "shape": "normal",
-          "durationMs": 0
-        },
-        "stSegment": {
-          "durationMs": 80,
-          "elevationMm": -1.5,
-          "morphology": "concaveUp",
-          "leadsAffected": [
-            "V1",
-            "V2",
-            "V3",
-            "V4",
-            "V5",
-            "V6"
-          ]
-        },
-        "tWave": {
-          "present": true,
-          "shape": "hyperacute",
-          "amplitudeMm": 8,
-          "durationMs": 200,
-          "notched": false
-        }
-      }
-    },
-    "multiLead": null,
-    "heartRate": 75,
-    "rrVariation": "regular",
+    "engineVersion": 2,
+    "rhythmFamily": "stemi",
     "previewOrientation": "portrait",
-    "stripSmallBoxes": 83,
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
-    "stripDurationSec": 3.32
+    "rrPattern": "regular",
+    "heartRate": 75,
+    "atrialActivity": {
+      "type": "discreteP",
+      "pAmplitudeMm": 1.5,
+      "pDurationMs": 80,
+      "prMs": 160,
+      "prSegmentMs": 80
+    },
+    "qrs": {
+      "type": "narrow",
+      "qAmplitudeMm": -0.35,
+      "amplitudeMm": 10,
+      "durationMs": 100,
+      "sAmplitudeMm": -2,
+      "notch": false
+    },
+    "st": {
+      "elevationMm": -1.5,
+      "morphology": "convex",
+      "durationMs": 80
+    },
+    "tWave": {
+      "present": true,
+      "amplitudeMm": 8,
+      "durationMs": 200,
+      "shape": "hyperacute"
+    },
+    "sourceUrls": [
+      "https://litfl.com/de-winter-t-wave/"
+    ],
+    "qaNotes": [
+      "Ischaemia/STEMI morphology retained from source content; verify affected leads in multi-lead view."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }

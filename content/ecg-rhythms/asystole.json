@@ -51,43 +51,45 @@
     "asystole",
     "cardiac arrest",
     "non-shockable",
-    "flatline"
+    "flatline",
+    "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-24T02:31:40Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "sinus",
+    "rhythmFamily": "asystole",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
-    "heartRate": 31,
+    "heartRate": 0,
     "atrialActivity": {
-      "type": "hiddenP",
-      "pAmplitudeMm": 1.4,
-      "pDurationMs": 90,
-      "prMs": 160,
-      "prSegmentMs": 70
+      "type": "none"
     },
     "qrs": {
-      "type": "narrow",
-      "qAmplitudeMm": -0.9,
-      "amplitudeMm": 1,
+      "type": "none",
+      "amplitudeMm": 0,
       "durationMs": 0,
-      "sAmplitudeMm": -0.5
+      "sAmplitudeMm": 0,
+      "qAmplitudeMm": 0
     },
     "st": {
       "elevationMm": 0,
-      "morphology": "convex",
-      "durationMs": 105
+      "morphology": "flat",
+      "durationMs": 0
     },
     "tWave": {
       "present": false,
-      "amplitudeMm": 3.1,
-      "durationMs": 210
+      "amplitudeMm": 0,
+      "durationMs": 0
     },
-    "tpSegmentMs": 260
+    "sourceUrls": [],
+    "qaNotes": [
+      "Flat/isoelectric trace; no organised atrial or ventricular activity."
+    ],
+    "qaReviewedAt": "2026-05-24T00:00:00Z",
+    "qaConfidence": "pattern-reviewed"
   }
 }
