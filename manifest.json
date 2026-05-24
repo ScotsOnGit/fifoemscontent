@@ -11,7 +11,7 @@
     "ecg-rhythms/avnrt-antidromic": 3,
     "ecg-rhythms/avnrt-orthodromic": 3,
     "ecg-rhythms/avrt-orthodromic-wpw": 3,
-    "ecg-rhythms/bachmann-bundle-block": 4,
+    "ecg-rhythms/bachmann-bundle-block": 5,
     "ecg-rhythms/bifascicular-block": 3,
     "ecg-rhythms/brugada-pattern": 3,
     "ecg-rhythms/complete-heart-block": 3,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-24T09:22:50Z",
-  "version": 18
+  "lastUpdated": "2026-05-24T10:41:36Z",
+  "version": 19
 }
