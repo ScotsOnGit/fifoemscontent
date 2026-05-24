@@ -61,8 +61,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 8,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 9,
+  "lastUpdated": "2026-05-24T09:22:47Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "ventricularRhythm",
@@ -70,9 +70,15 @@
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
-    "heartRate": 45,
+    "heartRate": 59,
     "atrialActivity": {
-      "type": "none"
+      "type": "none",
+      "independent": true,
+      "pAmplitudeMm": 0.9,
+      "pDurationMs": 80,
+      "atrialRate": 70,
+      "atrialCycleMs": 860,
+      "atrialPhaseOffsetMs": 180
     },
     "qrs": {
       "type": "ventricular",
