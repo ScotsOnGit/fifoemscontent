@@ -5,7 +5,8 @@
     "AIVR",
     "Accelerated Ventricular Rhythm",
     "Slow VT",
-    "Idioventricular tachycardia"
+    "Idioventricular tachycardia",
+    "Ventricular"
   ],
   "urgency": "recognition",
   "category": "ventricular",
@@ -60,8 +61,8 @@
     "benign"
   ],
   "isFreeContent": false,
-  "version": 2,
-  "lastUpdated": "2026-05-24T02:32:24Z",
+  "version": 3,
+  "lastUpdated": "2026-05-24T03:09:10Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "ventricularRhythm",
