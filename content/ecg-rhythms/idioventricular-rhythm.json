@@ -62,7 +62,7 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
@@ -73,7 +73,13 @@
     "rrPattern": "regular",
     "heartRate": 30,
     "atrialActivity": {
-      "type": "none"
+      "type": "discreteP",
+      "independent": true,
+      "pAmplitudeMm": 0.8,
+      "pDurationMs": 80,
+      "atrialRate": 70,
+      "atrialCycleMs": 860,
+      "atrialPhaseOffsetMs": 320
     },
     "qrs": {
       "type": "ventricular",
@@ -97,7 +103,8 @@
       "https://litfl.com/ventricular-escape-rhythm-ecg-library/"
     ],
     "qaNotes": [
-      "Slow broad ventricular rhythm without preceding P waves."
+      "Slow broad ventricular rhythm without preceding P waves.",
+      "Slow ventricular escape rhythm with dissociated sinus P waves marching through."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
     "qaConfidence": "pattern-reviewed"

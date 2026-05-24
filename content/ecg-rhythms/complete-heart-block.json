@@ -62,7 +62,7 @@
     "ecg-v2"
   ],
   "isFreeContent": true,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
@@ -77,8 +77,9 @@
       "independent": true,
       "pAmplitudeMm": 1.2,
       "pDurationMs": 80,
-      "atrialCycleMs": 760,
-      "atrialPhaseOffsetMs": 0
+      "atrialRate": 86,
+      "atrialCycleMs": 700,
+      "atrialPhaseOffsetMs": 150
     },
     "qrs": {
       "type": "wide",
@@ -102,7 +103,8 @@
       "https://litfl.com/av-block-3rd-degree-complete-heart-block/"
     ],
     "qaNotes": [
-      "AV dissociation with independent atrial activity and slower escape rhythm."
+      "AV dissociation with independent atrial activity and slower escape rhythm.",
+      "Separate atrial rate (~86 bpm) and slower ventricular escape (~38 bpm) to show AV dissociation."
     ],
     "avBlock": {
       "type": "complete",

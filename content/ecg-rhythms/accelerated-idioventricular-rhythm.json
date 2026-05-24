@@ -61,7 +61,7 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 8,
+  "version": 9,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
@@ -70,9 +70,15 @@
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
-    "heartRate": 45,
+    "heartRate": 65,
     "atrialActivity": {
-      "type": "none"
+      "type": "discreteP",
+      "independent": true,
+      "pAmplitudeMm": 0.8,
+      "pDurationMs": 80,
+      "atrialRate": 72,
+      "atrialCycleMs": 833,
+      "atrialPhaseOffsetMs": 300
     },
     "qrs": {
       "type": "ventricular",
@@ -96,7 +102,8 @@
       "https://litfl.com/accelerated-idioventricular-rhythm-aivr/"
     ],
     "qaNotes": [
-      "Slow broad ventricular rhythm without preceding P waves."
+      "Slow broad ventricular rhythm without preceding P waves.",
+      "Accelerated ventricular rhythm with independent sinus P waves/AV dissociation."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
     "qaConfidence": "pattern-reviewed"

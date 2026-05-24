@@ -55,7 +55,7 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
@@ -66,11 +66,12 @@
     "rrPattern": "regular",
     "heartRate": 67,
     "atrialActivity": {
-      "type": "none",
-      "pAmplitudeMm": 0,
-      "pDurationMs": 0,
-      "prMs": 0,
-      "prSegmentMs": 40
+      "type": "discreteP",
+      "independent": false,
+      "pAmplitudeMm": 1.2,
+      "pDurationMs": 80,
+      "prMs": 160,
+      "prSegmentMs": 80
     },
     "qrs": {
       "type": "narrow",
@@ -95,7 +96,8 @@
       "https://litfl.com/fusion-beat-dressler-beat-ecg-library/"
     ],
     "qaNotes": [
-      "Underlying sinus rhythm with intermittent premature wide ventricular complexes."
+      "Underlying sinus rhythm with intermittent premature wide ventricular complexes.",
+      "Underlying sinus P waves plus independent ventricular ectopic focus/parasystolic beats."
     ],
     "ectopy": {
       "type": "ventricular",

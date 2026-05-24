@@ -55,11 +55,11 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-05-24T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "sinus",
+    "rhythmFamily": "avBlock",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
@@ -67,10 +67,12 @@
     "heartRate": 67,
     "atrialActivity": {
       "type": "discreteP",
-      "pAmplitudeMm": 1.3,
+      "independent": true,
+      "pAmplitudeMm": 1.2,
       "pDurationMs": 80,
-      "prMs": 120,
-      "prSegmentMs": 40
+      "atrialRate": 72,
+      "atrialCycleMs": 833,
+      "atrialPhaseOffsetMs": 260
     },
     "qrs": {
       "type": "narrow",
@@ -93,7 +95,8 @@
     },
     "sourceUrls": [],
     "qaNotes": [
-      "Generic migration from v1 components."
+      "Generic migration from v1 components.",
+      "Independent atrial rhythm close to the ventricular rate with drifting P/QRS relationship."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
     "qaConfidence": "pattern-reviewed"
