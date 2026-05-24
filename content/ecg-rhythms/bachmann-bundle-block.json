@@ -61,8 +61,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 4,
-  "lastUpdated": "2026-05-24T08:50:50Z",
+  "version": 5,
+  "lastUpdated": "2026-05-24T10:41:34Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "structural",
@@ -74,7 +74,7 @@
     "atrialActivity": {
       "type": "discreteP",
       "pAmplitudeMm": 1.5,
-      "pDurationMs": 140,
+      "pDurationMs": 150,
       "prMs": 160,
       "prSegmentMs": 40,
       "pMorphology": "biphasicPosNeg"
