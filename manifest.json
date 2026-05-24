@@ -2,7 +2,7 @@
   "files": {
     "calculators": 62241122,
     "checklists": 1,
-    "ecg-rhythms/accelerated-idioventricular-rhythm": 4,
+    "ecg-rhythms/accelerated-idioventricular-rhythm": 6,
     "ecg-rhythms/agonal-rhythm": 1,
     "ecg-rhythms/asystole": 2,
     "ecg-rhythms/atrial-fibrillation": 2,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-24T04:55:34.247Z",
-  "version": 11
+  "lastUpdated": "2026-05-24T05:21:03Z",
+  "version": 12
 }
