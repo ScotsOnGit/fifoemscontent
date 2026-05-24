@@ -2,7 +2,7 @@
   "files": {
     "calculators": 62241122,
     "checklists": 1,
-    "ecg-rhythms/accelerated-idioventricular-rhythm": 2,
+    "ecg-rhythms/accelerated-idioventricular-rhythm": 4,
     "ecg-rhythms/agonal-rhythm": 2,
     "ecg-rhythms/asystole": 2,
     "ecg-rhythms/atrial-fibrillation": 2,
@@ -25,7 +25,7 @@
     "ecg-rhythms/hypocalcaemia": 2,
     "ecg-rhythms/hypokalaemia": 2,
     "ecg-rhythms/hypothermia-osborn-waves": 2,
-    "ecg-rhythms/idioventricular-rhythm": 2,
+    "ecg-rhythms/idioventricular-rhythm": 1,
     "ecg-rhythms/interpolated-pvcs": 2,
     "ecg-rhythms/junctional-rhythm": 2,
     "ecg-rhythms/left-anterior-fascicular-block": 4,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-23T16:30:00Z",
-  "version": 9
+  "lastUpdated": "2026-05-24T04:51:37Z",
+  "version": 10
 }
