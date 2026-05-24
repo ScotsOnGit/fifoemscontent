@@ -7,7 +7,7 @@
     "ecg-rhythms/asystole": 3,
     "ecg-rhythms/atrial-fibrillation": 3,
     "ecg-rhythms/atrial-flutter": 5,
-    "ecg-rhythms/av-dissociation-isorhythmic": 3,
+    "ecg-rhythms/av-dissociation-isorhythmic": 4,
     "ecg-rhythms/avnrt-antidromic": 3,
     "ecg-rhythms/avnrt-orthodromic": 3,
     "ecg-rhythms/avrt-orthodromic-wpw": 3,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-24T07:28:09Z",
-  "version": 15
+  "lastUpdated": "2026-05-24T08:19:04Z",
+  "version": 16
 }
