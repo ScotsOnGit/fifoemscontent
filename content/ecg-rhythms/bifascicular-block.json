@@ -60,8 +60,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 4,
-  "lastUpdated": "2026-05-26T09:27:47Z",
+  "version": 5,
+  "lastUpdated": "2026-05-26T11:01:23Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "bundleBranchBlock",
@@ -103,6 +103,32 @@
       "Conduction abnormality pattern: QRS/axis morphology should be checked in diagnostic leads."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "diagnosticLeads": [
+      {
+        "lead": "V1",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "amplitudeMm": 5.5,
+          "durationMs": 140,
+          "sAmplitudeMm": 5,
+          "notch": true,
+          "qAmplitudeMm": -0.35
+        },
+        "st": {
+          "elevationMm": -0.5,
+          "morphology": "discordant",
+          "durationMs": 80
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": -2,
+          "durationMs": 180,
+          "shape": "inverted"
+        },
+        "baselineMm": 0
+      }
+    ]
   }
 }
