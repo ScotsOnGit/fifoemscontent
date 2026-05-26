@@ -60,8 +60,8 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-26T09:27:47Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "bundleBranchBlock",
@@ -74,16 +74,16 @@
       "type": "discreteP",
       "pAmplitudeMm": 1,
       "pDurationMs": 90,
-      "prMs": 200,
+      "prMs": 140,
       "prSegmentMs": 110
     },
     "qrs": {
-      "type": "rbbb",
-      "qAmplitudeMm": -0.35,
-      "amplitudeMm": 5,
+      "type": "wide",
+      "amplitudeMm": 1,
       "durationMs": 140,
-      "sAmplitudeMm": -2,
-      "notch": true
+      "sAmplitudeMm": -6,
+      "notch": true,
+      "qAmplitudeMm": -0.35
     },
     "st": {
       "elevationMm": -0.5,
