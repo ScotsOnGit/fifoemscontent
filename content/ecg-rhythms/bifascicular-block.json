@@ -57,11 +57,12 @@
     "conduction system",
     "syncope risk",
     "left axis",
-    "ecg-v2"
+    "ecg-v2",
+    "ecg-v2-multilead"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-26T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "bundleBranchBlock",
@@ -72,37 +73,130 @@
     "heartRate": 75,
     "atrialActivity": {
       "type": "discreteP",
-      "pAmplitudeMm": 1,
-      "pDurationMs": 90,
-      "prMs": 200,
-      "prSegmentMs": 110
+      "pAmplitudeMm": 1.1,
+      "pDurationMs": 85,
+      "prMs": 180
     },
     "qrs": {
-      "type": "rbbb",
-      "qAmplitudeMm": -0.35,
-      "amplitudeMm": 5,
+      "type": "wide",
+      "qAmplitudeMm": -0.5,
+      "amplitudeMm": 9,
       "durationMs": 140,
-      "sAmplitudeMm": -2,
+      "sAmplitudeMm": -4,
       "notch": true
     },
     "st": {
-      "elevationMm": -0.5,
-      "morphology": "discordant",
-      "durationMs": 80
+      "elevationMm": 0,
+      "morphology": "discordant"
     },
     "tWave": {
       "present": true,
-      "amplitudeMm": -2,
-      "durationMs": 180,
-      "shape": "inverted"
+      "amplitudeMm": -1.5,
+      "durationMs": 170
     },
-    "sourceUrls": [
-      "https://litfl.com/bifascicular-block-ecg-library/"
-    ],
-    "qaNotes": [
-      "Conduction abnormality pattern: QRS/axis morphology should be checked in diagnostic leads."
-    ],
-    "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "diagnosticLeads": [
+      {
+        "lead": "V1",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": -0.2,
+          "amplitudeMm": 8,
+          "durationMs": 145,
+          "sAmplitudeMm": -3,
+          "notch": true
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": -2,
+          "durationMs": 170
+        }
+      },
+      {
+        "lead": "V6",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": -0.3,
+          "amplitudeMm": 3,
+          "durationMs": 145,
+          "sAmplitudeMm": -8,
+          "notch": false
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": 1.2,
+          "durationMs": 170
+        }
+      },
+      {
+        "lead": "I",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": -0.2,
+          "amplitudeMm": 9,
+          "durationMs": 135,
+          "sAmplitudeMm": -2,
+          "notch": false
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": -1.2,
+          "durationMs": 160
+        }
+      },
+      {
+        "lead": "II",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": 0.2,
+          "amplitudeMm": -6,
+          "durationMs": 135,
+          "sAmplitudeMm": 1,
+          "notch": false
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": 1,
+          "durationMs": 160
+        }
+      },
+      {
+        "lead": "III",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": 0.2,
+          "amplitudeMm": -7,
+          "durationMs": 135,
+          "sAmplitudeMm": 1,
+          "notch": false
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": 1,
+          "durationMs": 160
+        }
+      },
+      {
+        "lead": "aVF",
+        "isDiagnosticLead": true,
+        "qrs": {
+          "type": "wide",
+          "qAmplitudeMm": 0.2,
+          "amplitudeMm": -6,
+          "durationMs": 135,
+          "sAmplitudeMm": 1,
+          "notch": false
+        },
+        "tWave": {
+          "present": true,
+          "amplitudeMm": 1,
+          "durationMs": 160
+        }
+      }
+    ]
   }
 }
