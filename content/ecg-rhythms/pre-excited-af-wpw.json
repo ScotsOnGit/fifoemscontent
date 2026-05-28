@@ -59,11 +59,12 @@
     "wide complex",
     "irregular",
     "adenosine contraindicated",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "atrialFibrillation",
@@ -102,6 +103,78 @@
       "Irregular broad-complex tachycardia with variable pre-excitation in AF/WPW."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 150,
+              "amplitudeMm": 12,
+              "morphology": "wide"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 2
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "deltaWave": {
+              "durationMs": 45,
+              "amplitudeMm": 3,
+              "polarity": "positive"
+            },
+            "qrs": {
+              "durationMs": 170,
+              "amplitudeMm": 14,
+              "morphology": "deltaWave"
+            },
+            "tWave": {
+              "amplitudeMm": -2,
+              "morphology": "inverted"
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "deltaWave": {
+              "durationMs": 45,
+              "amplitudeMm": 2,
+              "polarity": "positive"
+            },
+            "qrs": {
+              "durationMs": 135,
+              "amplitudeMm": 10,
+              "morphology": "deltaWave"
+            }
+          }
+        }
+      ]
+    }
   }
 }

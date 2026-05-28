@@ -63,11 +63,12 @@
     "wide QRS",
     "renal failure",
     "DKA",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "electrolyte",
@@ -109,6 +110,87 @@
       "Electrolyte pattern emphasises QT/ST duration and T-wave morphology."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "prSegment": {
+              "intervalMs": 220
+            },
+            "qrs": {
+              "durationMs": 190,
+              "amplitudeMm": 13,
+              "morphology": "sinusoidal"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 8,
+              "morphology": "peaked",
+              "durationMs": 240
+            }
+          }
+        },
+        {
+          "lead": "V3",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 200,
+              "amplitudeMm": 15,
+              "morphology": "sinusoidal"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 9,
+              "morphology": "peaked",
+              "durationMs": 250
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 190,
+              "amplitudeMm": 12,
+              "morphology": "sinusoidal"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 7,
+              "morphology": "peaked",
+              "durationMs": 240
+            }
+          }
+        }
+      ]
+    }
   }
 }

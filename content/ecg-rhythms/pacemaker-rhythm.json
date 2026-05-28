@@ -58,11 +58,12 @@
     "pacing spike",
     "LBBB morphology",
     "ICD",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "paced",
@@ -99,6 +100,80 @@
       "Pacing spike immediately precedes a broad paced QRS with discordant repolarisation."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 160,
+              "amplitudeMm": 12,
+              "morphology": "paced"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": -2,
+              "morphology": "inverted"
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 165,
+              "amplitudeMm": -9,
+              "morphology": "paced"
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": 2
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "present": false,
+              "morphology": "absent"
+            },
+            "qrs": {
+              "durationMs": 165,
+              "amplitudeMm": 13,
+              "morphology": "paced"
+            },
+            "stSegment": {
+              "deviationMm": -1,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": -2.5,
+              "morphology": "inverted"
+            }
+          }
+        }
+      ]
+    }
   }
 }

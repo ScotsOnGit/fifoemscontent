@@ -59,11 +59,12 @@
     "pre-excitation",
     "accessory pathway",
     "short PR",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "svt",
@@ -104,6 +105,95 @@
       "Short PR interval, delta wave, widened QRS."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "prSegment": {
+              "intervalMs": 80
+            },
+            "deltaWave": {
+              "durationMs": 55,
+              "amplitudeMm": 3,
+              "polarity": "positive"
+            },
+            "qrs": {
+              "durationMs": 130,
+              "morphology": "deltaWave"
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "prSegment": {
+              "intervalMs": 80
+            },
+            "deltaWave": {
+              "durationMs": 55,
+              "amplitudeMm": 3.5,
+              "polarity": "positive"
+            },
+            "qrs": {
+              "durationMs": 135,
+              "amplitudeMm": 14,
+              "morphology": "deltaWave"
+            },
+            "stSegment": {
+              "deviationMm": -0.5,
+              "morphology": "flatDepression"
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": false,
+          "components": {
+            "prSegment": {
+              "intervalMs": 80
+            },
+            "deltaWave": {
+              "durationMs": 50,
+              "amplitudeMm": 2.4,
+              "polarity": "positive"
+            },
+            "qrs": {
+              "durationMs": 130,
+              "amplitudeMm": 10,
+              "morphology": "deltaWave"
+            }
+          }
+        },
+        {
+          "lead": "III",
+          "isDiagnosticLead": false,
+          "components": {
+            "prSegment": {
+              "intervalMs": 80
+            },
+            "deltaWave": {
+              "durationMs": 50,
+              "amplitudeMm": 2,
+              "polarity": "negative"
+            },
+            "qrs": {
+              "durationMs": 130,
+              "amplitudeMm": 7,
+              "morphology": "deltaWave"
+            },
+            "tWave": {
+              "morphology": "inverted",
+              "amplitudeMm": -1.2
+            }
+          }
+        }
+      ]
+    }
   }
 }

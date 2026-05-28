@@ -58,11 +58,12 @@
     "voltage criteria",
     "strain pattern",
     "hypertension",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "structural",
@@ -105,6 +106,84 @@
       "Structural/atrial enlargement pattern preserves P/QRS/ST-T morphology from source content."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "V5",
+      "leads": [
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "amplitudeMm": 5,
+              "morphology": "normal",
+              "qWaves": false
+            },
+            "stSegment": {
+              "deviationMm": 0,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 1.2,
+              "morphology": "normal"
+            }
+          }
+        },
+        {
+          "lead": "V5",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "amplitudeMm": 24,
+              "morphology": "normal"
+            },
+            "stSegment": {
+              "deviationMm": -1.8,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": -3.5,
+              "morphology": "inverted"
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "amplitudeMm": 22,
+              "morphology": "normal"
+            },
+            "stSegment": {
+              "deviationMm": -1.6,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": -3,
+              "morphology": "inverted"
+            }
+          }
+        },
+        {
+          "lead": "aVL",
+          "isDiagnosticLead": false,
+          "components": {
+            "qrs": {
+              "amplitudeMm": 13
+            },
+            "stSegment": {
+              "deviationMm": -1,
+              "morphology": "downsloping"
+            },
+            "tWave": {
+              "amplitudeMm": -2,
+              "morphology": "inverted"
+            }
+          }
+        }
+      ]
+    }
   }
 }

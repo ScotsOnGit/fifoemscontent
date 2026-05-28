@@ -60,11 +60,12 @@
     "STEMI equivalent",
     "hyperacute T",
     "ACS",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "stemi",
@@ -106,6 +107,86 @@
       "Ischaemia/STEMI morphology retained from source content; verify affected leads in multi-lead view."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "V3",
+      "leads": [
+        {
+          "lead": "V2",
+          "isDiagnosticLead": true,
+          "components": {
+            "stSegment": {
+              "deviationMm": -1.4,
+              "morphology": "flatDepression",
+              "leadsAffected": [
+                "V2"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": 7.2,
+              "morphology": "hyperacute",
+              "durationMs": 210
+            }
+          }
+        },
+        {
+          "lead": "V3",
+          "isDiagnosticLead": true,
+          "components": {
+            "stSegment": {
+              "deviationMm": -2,
+              "morphology": "flatDepression",
+              "leadsAffected": [
+                "V3"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": 8.8,
+              "morphology": "hyperacute",
+              "durationMs": 220
+            }
+          }
+        },
+        {
+          "lead": "V5",
+          "isDiagnosticLead": true,
+          "components": {
+            "stSegment": {
+              "deviationMm": -1.5,
+              "morphology": "flatDepression",
+              "leadsAffected": [
+                "V5"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": 7.5,
+              "morphology": "hyperacute",
+              "durationMs": 210
+            }
+          }
+        },
+        {
+          "lead": "aVR",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "amplitudeMm": -5
+            },
+            "stSegment": {
+              "deviationMm": 0.8,
+              "morphology": "flat",
+              "leadsAffected": [
+                "aVR"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": -1,
+              "morphology": "inverted"
+            }
+          }
+        }
+      ]
+    }
   }
 }

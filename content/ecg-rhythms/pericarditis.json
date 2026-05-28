@@ -60,11 +60,12 @@
     "diffuse ST elevation",
     "STEMI mimic",
     "chest pain",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "sinus",
@@ -107,6 +108,89 @@
       "Generic migration from v1 components."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "prSegment": {
+              "segmentDeviationMm": -0.7
+            },
+            "stSegment": {
+              "deviationMm": 1.5,
+              "morphology": "saddleback",
+              "leadsAffected": [
+                "II"
+              ]
+            }
+          }
+        },
+        {
+          "lead": "V5",
+          "isDiagnosticLead": true,
+          "components": {
+            "prSegment": {
+              "segmentDeviationMm": -0.6
+            },
+            "stSegment": {
+              "deviationMm": 1.6,
+              "morphology": "saddleback",
+              "leadsAffected": [
+                "V5"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": 2.4
+            }
+          }
+        },
+        {
+          "lead": "aVR",
+          "isDiagnosticLead": true,
+          "components": {
+            "prSegment": {
+              "segmentDeviationMm": 0.6
+            },
+            "qrs": {
+              "amplitudeMm": -6
+            },
+            "stSegment": {
+              "deviationMm": -1,
+              "morphology": "downsloping",
+              "leadsAffected": [
+                "aVR"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": -1,
+              "morphology": "inverted"
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": false,
+          "components": {
+            "prSegment": {
+              "segmentDeviationMm": 0.2
+            },
+            "stSegment": {
+              "deviationMm": -0.4,
+              "morphology": "flatDepression",
+              "leadsAffected": [
+                "V1"
+              ]
+            },
+            "tWave": {
+              "amplitudeMm": 1
+            }
+          }
+        }
+      ]
+    }
   }
 }

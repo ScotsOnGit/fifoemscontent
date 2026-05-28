@@ -58,11 +58,12 @@
     "P wave",
     "AF risk",
     "Bayes syndrome",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "structural",
@@ -102,6 +103,56 @@
       "Structural/atrial enlargement pattern preserves P/QRS/ST-T morphology from source content."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "III",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 130,
+              "amplitudeMm": 1.6,
+              "morphology": "biphasic"
+            }
+          }
+        },
+        {
+          "lead": "III",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 140,
+              "amplitudeMm": 1.8,
+              "morphology": "biphasic"
+            }
+          }
+        },
+        {
+          "lead": "aVF",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 140,
+              "amplitudeMm": 1.8,
+              "morphology": "biphasic"
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": false,
+          "components": {
+            "pWave": {
+              "durationMs": 120,
+              "amplitudeMm": 1.2,
+              "morphology": "biphasic"
+            }
+          }
+        }
+      ]
+    }
   }
 }

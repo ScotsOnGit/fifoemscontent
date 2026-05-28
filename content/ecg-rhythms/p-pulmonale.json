@@ -58,11 +58,12 @@
     "cor pulmonale",
     "COPD",
     "pulmonary hypertension",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "structural",
@@ -104,6 +105,45 @@
       "Structural/atrial enlargement pattern preserves P/QRS/ST-T morphology from source content."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "II",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 80,
+              "amplitudeMm": 3.5,
+              "morphology": "pPulmonale"
+            }
+          }
+        },
+        {
+          "lead": "III",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 80,
+              "amplitudeMm": 3,
+              "morphology": "pPulmonale"
+            }
+          }
+        },
+        {
+          "lead": "V1",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "durationMs": 80,
+              "amplitudeMm": 2.8,
+              "morphology": "peaked"
+            }
+          }
+        }
+      ]
+    }
   }
 }

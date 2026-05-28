@@ -60,11 +60,12 @@
     "tall T waves",
     "electrolyte",
     "tent T waves",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "electrolyte",
@@ -106,6 +107,72 @@
       "Electrolyte pattern emphasises QT/ST duration and T-wave morphology."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "V3",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "amplitudeMm": 0.8
+            },
+            "prSegment": {
+              "intervalMs": 190
+            },
+            "qrs": {
+              "durationMs": 100
+            },
+            "tWave": {
+              "amplitudeMm": 6,
+              "morphology": "peaked",
+              "durationMs": 140
+            }
+          }
+        },
+        {
+          "lead": "V3",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "amplitudeMm": 0.7
+            },
+            "prSegment": {
+              "intervalMs": 200
+            },
+            "qrs": {
+              "durationMs": 105
+            },
+            "tWave": {
+              "amplitudeMm": 8,
+              "morphology": "peaked",
+              "durationMs": 150
+            }
+          }
+        },
+        {
+          "lead": "V5",
+          "isDiagnosticLead": true,
+          "components": {
+            "pWave": {
+              "amplitudeMm": 0.7
+            },
+            "prSegment": {
+              "intervalMs": 200
+            },
+            "qrs": {
+              "durationMs": 105
+            },
+            "tWave": {
+              "amplitudeMm": 7,
+              "morphology": "peaked",
+              "durationMs": 145
+            }
+          }
+        }
+      ]
+    }
   }
 }

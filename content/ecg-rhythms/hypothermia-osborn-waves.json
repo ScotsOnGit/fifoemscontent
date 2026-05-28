@@ -61,11 +61,12 @@
     "camel hump",
     "bradycardia",
     "cold exposure",
-    "ecg-v2"
+    "ecg-v2",
+    "multi-lead-authored"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-28T00:00:00Z",
   "waveform": {
     "engineVersion": 2,
     "rhythmFamily": "sinus",
@@ -108,6 +109,75 @@
       "Generic migration from v1 components."
     ],
     "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "qaConfidence": "pattern-reviewed",
+    "mode": "multiLead",
+    "multiLead": {
+      "focusLead": "V4",
+      "leads": [
+        {
+          "lead": "II",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "durationMs": 110
+            },
+            "jPoint": {
+              "deviationMm": 1.8,
+              "morphology": "osborn",
+              "scaledByHypothermia": true
+            },
+            "stSegment": {
+              "deviationMm": 0.5,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 1.2
+            }
+          }
+        },
+        {
+          "lead": "V4",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "durationMs": 115
+            },
+            "jPoint": {
+              "deviationMm": 3,
+              "morphology": "osborn",
+              "scaledByHypothermia": true
+            },
+            "stSegment": {
+              "deviationMm": 0.8,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 1.5
+            }
+          }
+        },
+        {
+          "lead": "V6",
+          "isDiagnosticLead": true,
+          "components": {
+            "qrs": {
+              "durationMs": 110
+            },
+            "jPoint": {
+              "deviationMm": 2.4,
+              "morphology": "osborn",
+              "scaledByHypothermia": true
+            },
+            "stSegment": {
+              "deviationMm": 0.5,
+              "morphology": "flat"
+            },
+            "tWave": {
+              "amplitudeMm": 1.2
+            }
+          }
+        }
+      ]
+    }
   }
 }
