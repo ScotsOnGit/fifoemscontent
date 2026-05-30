@@ -131,7 +131,7 @@
           "id": "erg",
           "title": "Emergency Response Guidebook",
           "subtitle": "PHMSA / Transport Canada / SCT",
-          "url": "https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg"
+          "url": "https://tc.canada.ca/en/dangerous-goods/canutec/emergency-response-guidebook/pdf-version"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "id": "samn-perelli",
           "title": "Samn-Perelli Fatigue Scale",
           "subtitle": "Samn & Perelli, 1982",
-          "url": "https://apps.dtic.mil/sti/citations/ADA122177"
+          "url": "https://skybrary.aero/articles/samn-perelli-fatigue-checklist"
         },
         {
           "id": "spirometry",
@@ -236,7 +236,7 @@
           "id": "physio-thresholds",
           "title": "Physiotherapy Practice Thresholds",
           "subtitle": "Australian Physiotherapy Council, 2025",
-          "url": "https://physiocouncil.com.au/resources/physiotherapy-practice-thresholds-in-australia-and-aotearoa-new-zealand/"
+          "url": "https://cdn.physiocouncil.com.au/assets/volumes/downloads/Physiotherapy-Board-Physiotherapy-practice-thresholds-in-Australia-and-Aotearoa-New-Zealand.PDF"
         },
         {
           "id": "ahpra-code",
@@ -265,7 +265,7 @@
           "id": "anzcor-guidelines",
           "title": "ANZCOR Guidelines",
           "subtitle": "Australian and New Zealand Committee on Resuscitation",
-          "url": "https://www.anzcor.org/home/guidelines/"
+          "url": "https://www.anzcor.org/"
         },
         {
           "id": "arc-guidelines",
@@ -312,7 +312,7 @@
           "id": "tga-product-information",
           "title": "TGA Product Information",
           "subtitle": "Australian product information and consumer medicine information resources",
-          "url": "https://www.tga.gov.au/resources/resource/guidance/product-information"
+          "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-databases"
         },
         {
           "id": "aidh",
@@ -330,7 +330,7 @@
           "id": "anzca-acute-pain",
           "title": "Acute Pain Management: Scientific Evidence",
           "subtitle": "ANZCA and FPM acute pain evidence reference",
-          "url": "https://www.anzca.edu.au/resources/college-publications/acute-pain-management"
+          "url": "https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf"
         }
       ]
     },
@@ -347,7 +347,7 @@
           "id": "heart-foundation-acs",
           "title": "Heart Foundation ACS Guidance",
           "subtitle": "Australian acute coronary syndrome professional resources",
-          "url": "https://www.heartfoundation.org.au/for-professionals/clinical-information/acute-coronary-syndromes"
+          "url": "https://www.heartfoundation.org.au/for-professionals/acs-guideline?tab=2"
         },
         {
           "id": "stroke-foundation-guidelines",
@@ -359,7 +359,7 @@
           "id": "ascia-anaphylaxis",
           "title": "ASCIA Acute Management of Anaphylaxis Guidelines",
           "subtitle": "Australasian Society of Clinical Immunology and Allergy",
-          "url": "https://www.allergy.org.au/hp/papers/acute-management-of-anaphylaxis-guidelines"
+          "url": "https://www.allergy.org.au/images/ASCIA_HP_Guidelines_Acute_Management_Anaphylaxis_2024.pdf"
         },
         {
           "id": "ginasthma",
@@ -483,7 +483,7 @@
           "id": "apa-telehealth",
           "title": "APA Telehealth Resources",
           "subtitle": "Physiotherapy telehealth practice resources",
-          "url": "https://australian.physio/advocacy/telehealth"
+          "url": "https://australian.physio/"
         }
       ]
     },
@@ -517,7 +517,7 @@
               "label": "(b)",
               "title": "AHA 2025 Guidelines for CPR and ECC, Part 9: Adult ALS",
               "subtitle": "American Heart Association, Circulation 2025",
-              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41122884/"
             },
             {
               "label": "(c)",
@@ -555,7 +555,7 @@
               "label": "(b)",
               "title": "Wilderness Medical Society Clinical Practice Guidelines: Accidental Hypothermia",
               "subtitle": "McIntosh SE et al., 2024 update",
-              "url": "https://wms.org/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31740369/"
             },
             {
               "label": "(c)",
@@ -593,7 +593,7 @@
               "label": "(b)",
               "title": "AHA 2023 Focused Update on Targeted Temperature Management",
               "subtitle": "American Heart Association. Avoid fever >37.7°C for ≥72 h; prehospital cold IV infusion: no benefit (Class III)",
-              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001149"
+              "url": "https://professional.heart.org/en/science-news/2023-aha-focused-update-on-adult-advanced-cardiovascular-life-support/top-things-to-know"
             },
             {
               "label": "(c)",
@@ -718,13 +718,13 @@
               "label": "(b)",
               "title": "Anaphylaxis: A 2023 Practice Parameter Update",
               "subtitle": "Lieberman P et al., Annals of Allergy, Asthma & Immunology, 2023",
-              "url": "https://www.annallergy.org/article/S1081-1206(23)01304-2/fulltext"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38108678/"
             },
             {
               "label": "(b)",
               "title": "GA2LEN Anaphylaxis 2024 Consensus Report",
               "subtitle": "Journal of Allergy and Clinical Immunology, 2025. New clinical criteria; epinephrine every 5–15 min as needed",
-              "url": "https://www.jacionline.org/article/S0091-6749(25)00072-7/fulltext"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39880313/"
             },
             {
               "label": "(c)",
@@ -806,7 +806,7 @@
               "label": "(b)",
               "title": "2025 ACC Expert Consensus Statement on Cardiogenic Shock",
               "subtitle": "Morrow DA et al., JACC 2025. Norepinephrine as first-line vasopressor; SCAI shock staging",
-              "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.02.018"
+              "url": "https://www.acc.org/Guidelines"
             },
             {
               "label": "(c)",
@@ -832,7 +832,7 @@
               "label": "(a)",
               "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 (Critical Bleeding / Massive Transfusion)",
               "subtitle": "Australian Government NBA, 2011 (updated)",
-              "url": "https://www.blood.gov.au/pbm-guidelines"
+              "url": "https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding"
             },
             {
               "label": "(b)",
@@ -881,7 +881,7 @@
               "label": "(a)",
               "title": "NSW Health NSW Chest Pain Pathway",
               "subtitle": "NSW Health, ACI, current edition",
-              "url": "https://aci.health.nsw.gov.au/"
+              "url": "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/IB2023_009.pdf"
             },
             {
               "label": "(b)",
@@ -893,7 +893,7 @@
               "label": "(b)",
               "title": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes",
               "subtitle": "Circulation 2025",
-              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309"
+              "url": "https://professional.heart.org/en/guidelines-statements/2025-accahaacepnaemspscai-guideline-for-the-management-of-patients-with-acutecir0000000000001309"
             },
             {
               "label": "(c)",
@@ -969,7 +969,7 @@
               "label": "(b)",
               "title": "ACC/AHA/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation 2023",
               "subtitle": "American College of Cardiology / AHA / HRS, 2023",
-              "url": "https://www.ahajournals.org/"
+              "url": "https://www.acc.org/Guidelines/Guidelines/2023/11/30/12/05/Atrial-Fibrillation-2023-Guideline"
             },
             {
               "label": "(c)",
@@ -1082,7 +1082,7 @@
               "label": "(b)",
               "title": "ACC/AHA 2026 Acute Pulmonary Embolism Guideline",
               "subtitle": "JACC 2025",
-              "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.12.023"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41712898/"
             },
             {
               "label": "(c)",
@@ -1163,7 +1163,7 @@
               "label": "(b)",
               "title": "ILAE Updated Classification of Seizure Types",
               "subtitle": "International League Against Epilepsy, 2017",
-              "url": "https://www.ilae.org/"
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12169392/"
             },
             {
               "label": "(c)",
@@ -1238,7 +1238,7 @@
               "label": "(a)",
               "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 (Critical Bleeding / Massive Transfusion)",
               "subtitle": "Australian Government NBA, current edition",
-              "url": "https://www.blood.gov.au/pbm-guidelines"
+              "url": "https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding"
             },
             {
               "label": "(a)",
@@ -1330,9 +1330,9 @@
             },
             {
               "label": "(a)",
-              "title": "NSW ITIM Spinal Trauma Management Guidelines",
-              "subtitle": "NSW Institute of Trauma and Injury Management",
-              "url": "https://aci.health.nsw.gov.au/networks/trauma"
+              "title": "ANZCOR Guideline 9.1.6: Management of Suspected Spinal Injury",
+              "subtitle": "Australian Resuscitation Council, suspected spinal injury first aid guidance",
+              "url": "https://resus.org.au/download/anzcor-guideline-9-1-6-management-of-suspected-spinal-injury-january-2016-0-1-mib/"
             },
             {
               "label": "(b)",
@@ -1382,7 +1382,7 @@
               "label": "(b)",
               "title": "NAEMSP Prehospital Trauma Compendium: Traumatic Pneumothorax Care",
               "subtitle": "NAEMSP, 2024. Needle thoracostomy first-line; high failure rate at 2nd ICS MCL; 4th/5th ICS AAL emerging as preferred site",
-              "url": "https://www.tandfonline.com/doi/full/10.1080/10903127.2024.2416978"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1080%2F10903127.2024.2416978"
             },
             {
               "label": "(b)",
@@ -1547,7 +1547,7 @@
               "label": "(b)",
               "title": "AHA Management of Life-Threatening Poisonings 2023",
               "subtitle": "American Heart Association. Atropine immediately for bronchospasm/secretions; pralidoxime as adjunct in early presentation",
-              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001122"
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10725808/"
             },
             {
               "label": "(c)",
@@ -1602,9 +1602,9 @@
             },
             {
               "label": "(a)",
-              "title": "Queensland Clinical Guidelines: Postpartum Haemorrhage",
-              "subtitle": "Queensland Health, current edition",
-              "url": "https://www.health.qld.gov.au/qcg"
+              "title": "RANZCOG Statements and Guidelines Directory",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, current clinical statements and guidance",
+              "url": "https://ranzcog.edu.au/resources/statements-and-guidelines-directory/"
             },
             {
               "label": "(b)",
@@ -1640,9 +1640,9 @@
             },
             {
               "label": "(a)",
-              "title": "Queensland Clinical Guidelines: Hypertensive Disorders of Pregnancy",
-              "subtitle": "Queensland Health, current edition",
-              "url": "https://www.health.qld.gov.au/qcg"
+              "title": "RANZCOG Statements and Guidelines Directory",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, current clinical statements and guidance",
+              "url": "https://ranzcog.edu.au/resources/statements-and-guidelines-directory/"
             },
             {
               "label": "(b)",
@@ -1672,9 +1672,9 @@
             },
             {
               "label": "(a)",
-              "title": "Queensland Clinical Guidelines: Maternity and Neonatal",
-              "subtitle": "Queensland Health. Cord prolapse, preterm labour, shoulder dystocia, breech delivery",
-              "url": "https://www.health.qld.gov.au/qcg"
+              "title": "RANZCOG Statements and Guidelines Directory",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, current clinical statements and guidance",
+              "url": "https://ranzcog.edu.au/resources/statements-and-guidelines-directory/"
             },
             {
               "label": "(b)",
@@ -1723,7 +1723,7 @@
               "label": "(b)",
               "title": "American Diabetes Association Standards of Care in Diabetes 2024",
               "subtitle": "Diabetes Care 2024. Glucose 15–20 g oral if conscious; IV dextrose or IM glucagon if unconscious",
-              "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S295/153950/"
+              "url": "https://ada.silverchair-cdn.com/ada/content_public/journal/care/issue/47/supplement_1/15/standards-of-care-2024.pdf"
             },
             {
               "label": "(c)",
@@ -1844,7 +1844,7 @@
               "label": "(b)",
               "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Accidental Hypothermia",
               "subtitle": "2024 update",
-              "url": "https://wms.org/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31740369/"
             },
             {
               "label": "(b)",
@@ -1882,7 +1882,7 @@
               "label": "(b)",
               "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness",
               "subtitle": "2019 (2024 update)",
-              "url": "https://wms.org/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31221601/"
             },
             {
               "label": "(c)",
@@ -1902,7 +1902,7 @@
               "label": "(a)",
               "title": "AVRU First Aid and Clinical Advice for Australian Snake Bite",
               "subtitle": "Australian Venom Research Unit, University of Melbourne",
-              "url": "https://biomedicalsciences.unimelb.edu.au/departments/department-of-biochemistry-and-pharmacology/engage/avru"
+              "url": "https://www.poisonsinfo.nsw.gov.au/"
             },
             {
               "label": "(a)",
