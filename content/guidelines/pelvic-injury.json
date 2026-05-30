@@ -35,14 +35,14 @@
     {
       "id": "pelvic-injury-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Ensure scene safety and manage catastrophic haemorrhage\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation if required\n- Apply a pelvic binder early over the greater trochanters when indicated\n- Limit movement, record vital signs, and complete focused secondary survey\n- Provide simple or inhaled analgesia within scope and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "pelvic-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Gain IV or IO access when clinically indicated\n- Consider tranexamic acid for significant traumatic bleeding within the appropriate time window\n- Use IV fluids cautiously and provide further analgesia and antiemetic therapy within scope\n- Escalate early for shock, prolonged transport, or multisystem trauma",
       "sortOrder": 4
     },
@@ -64,11 +64,19 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "batt-score",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

@@ -3,8 +3,8 @@
   "title": "Richmond Agitation Sedation Scale (RASS)",
   "category": "mental_health",
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-15T13:14:05Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "tags": [
     "rass",
     "agitation",
@@ -53,5 +53,12 @@
       "content": "- Use serial RASS scoring to monitor response to sedation, restraint release, deterioration, or recovery\n- Combine RASS with airway, respiratory, circulatory, and temperature assessment rather than relying on it in isolation\n- Manage the patient under the relevant behavioural disturbance, intoxication, or unconsciousness guideline rather than as a stand-alone pathway",
       "sortOrder": 3
     }
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "mhfa-guidelines",
+    "safe-work-psychosocial"
   ]
 }

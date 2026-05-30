@@ -11,7 +11,7 @@
     "injury"
   ],
   "synonyms": [
-    "S.P.E.E.D \u2013 Spinal Emergency Evaluation of Deficits"
+    "S.P.E.E.D – Spinal Emergency Evaluation of Deficits"
   ],
   "sections": [
     {
@@ -28,6 +28,14 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
+  ]
 }

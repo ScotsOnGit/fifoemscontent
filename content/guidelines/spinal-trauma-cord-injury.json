@@ -36,14 +36,14 @@
     {
       "id": "spinal-trauma-cord-injury-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Ensure scene safety and perform the Primary Survey with spinal consideration where indicated\n- Record vital signs and complete focused secondary and neurological assessment\n- Apply spinal-motion restriction when pain, tenderness, neurological deficit, reduced consciousness, intoxication, distracting injury, or major mechanism makes injury likely\n- Use a vacuum mattress or other low-movement packaging where appropriate\n- Seek early senior consultation for neurological deficit, prolonged evacuation, or diagnostic uncertainty",
       "sortOrder": 3
     },
     {
       "id": "spinal-trauma-cord-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Gain IV or IO access when clinically indicated\n- Consider fluids, analgesia, and antiemetic therapy within scope\n- If hypotension and bradycardia suggest neurogenic shock, treat under the shock pathway and consult early\n- Avoid unnecessary procedures that delay transport to definitive care",
       "sortOrder": 4
     },
@@ -66,6 +66,15 @@
     "speed-assessment"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed",
+    "ranzcog-guidelines"
+  ]
 }

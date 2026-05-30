@@ -3,8 +3,8 @@
   "title": "Diphtheria",
   "category": "medical",
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-21T10:41:48Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "tags": [
     "diphtheria",
     "corynebacterium",
@@ -80,5 +80,11 @@
       "content": "- **Swab Collection:** Specify \"culture for suspected diphtheria\" on request form - standard lab processing may not identify *C. diphtheriae* without specific request. Collect specimens before antibiotics where possible, but do not delay antibiotics for swabs. Always follow WA Department of Health guidance.\n- Diphtheria does not reliably confer immunity - vaccinate during convalescence.\n- All suspected cases of respiratory diphtheria must be evacuated off site.",
       "sortOrder": 5
     }
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "australian-immunisation-handbook"
   ]
 }

@@ -62,6 +62,10 @@
   ],
   "relatedCalculatorIDs": [],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-18T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "nsqhs-standards",
+    "ahpra-code"
+  ]
 }

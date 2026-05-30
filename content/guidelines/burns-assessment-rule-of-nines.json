@@ -1,6 +1,6 @@
 {
   "id": "burns-assessment-rule-of-nines",
-  "title": "Burns Assessment \u2013 Rule of Nines",
+  "title": "Burns Assessment – Rule of Nines",
   "category": "trauma",
   "tags": [
     "burns",
@@ -11,7 +11,7 @@
     "injury"
   ],
   "synonyms": [
-    "Burns Assessment \u2013 Rule of Nines"
+    "Burns Assessment – Rule of Nines"
   ],
   "sections": [
     {
@@ -29,6 +29,16 @@
     "parkland-burns"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed",
+    "anzba-burns",
+    "parkland"
+  ]
 }

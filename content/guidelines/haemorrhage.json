@@ -35,14 +35,14 @@
     {
       "id": "haemorrhage-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Control catastrophic haemorrhage immediately with direct pressure, wound packing, haemostatic dressings, or tourniquet as appropriate\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation and administer oxygen if required\n- Use pelvic binders or splints where indicated and keep the patient warm\n- Minimise on-scene time and complete focused secondary survey\n- Seek early senior support for major haemorrhage or prolonged transport",
       "sortOrder": 3
     },
     {
       "id": "haemorrhage-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Establish IV or IO access when clinically indicated\n- Use fluid therapy cautiously and target perfusion rather than normalising blood pressure when permissive hypotension is appropriate\n- Consider tranexamic acid within 3 hours of injury when significant traumatic bleeding is suspected\n- Provide analgesia and antiemetic therapy within scope\n- Reassess haemorrhage control repeatedly during transport",
       "sortOrder": 4
     },
@@ -64,12 +64,20 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "batt-score",
     "crams",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

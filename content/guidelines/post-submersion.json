@@ -60,11 +60,19 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "gcs",
     "avpu"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

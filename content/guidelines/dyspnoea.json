@@ -54,10 +54,17 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-21T00:00:00Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "avpu"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "ginasthma",
+    "gold-copd"
   ]
 }

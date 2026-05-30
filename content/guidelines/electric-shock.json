@@ -23,7 +23,7 @@
       "id": "electric-shock-presentation",
       "type": "presentation",
       "title": "Clinical Presentation",
-      "content": "- Pain\n- Burns, entry and exit wounds\n- Respiratory arrest or dysfunction\n- Cardiac arrest, arrhythmias, palpitations, myocardial damage\n- Urinary symptoms\n- Neurological deficits, ALOC, seizures, amnesia, motor dysfunction, dysphasia, spinal cord damage\n- Fractures \u2013 consider spinal injuries\n- Compartment syndrome (more likely from high voltage exposure)\n- Visual and auditory disturbances",
+      "content": "- Pain\n- Burns, entry and exit wounds\n- Respiratory arrest or dysfunction\n- Cardiac arrest, arrhythmias, palpitations, myocardial damage\n- Urinary symptoms\n- Neurological deficits, ALOC, seizures, amnesia, motor dysfunction, dysphasia, spinal cord damage\n- Fractures – consider spinal injuries\n- Compartment syndrome (more likely from high voltage exposure)\n- Visual and auditory disturbances",
       "sortOrder": 1
     },
     {
@@ -36,14 +36,14 @@
     {
       "id": "electric-shock-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Do not approach until the source is confirmed de-energised\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation and administer oxygen if required\n- Assess burns, entry and exit wounds, fractures, and muscle injury\n- Record vital signs and complete focused secondary survey\n- Manage burns under the burns guideline and transport if high-risk features are present",
       "sortOrder": 3
     },
     {
       "id": "electric-shock-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Obtain 12 lead ECG and cardiac monitoring where indicated\n- Treat arrhythmias under the relevant guideline\n- Gain IV access and provide fluids or analgesia only when clinically indicated\n- Escalate for high-voltage injury, significant burns, loss of consciousness, cardiac symptoms, or traumatic arrest",
       "sortOrder": 4
     },
@@ -62,13 +62,21 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "news2",
     "bazett-qtc",
     "ecg-axis",
     "gcs",
     "avpu"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

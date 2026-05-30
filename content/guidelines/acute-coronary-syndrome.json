@@ -65,13 +65,20 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-14T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "heart-score",
     "sgarbossa-criteria",
     "bazett-qtc",
     "ecg-axis",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "heart-foundation-acs",
+    "anzcor-guidelines"
   ]
 }

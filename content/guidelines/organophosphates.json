@@ -62,11 +62,18 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-18T00:00:00Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "avpu",
     "gcs",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "toxinz",
+    "cdc-niosh-pocket-guide"
   ]
 }

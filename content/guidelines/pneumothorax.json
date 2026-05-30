@@ -35,14 +35,14 @@
     {
       "id": "pneumothorax-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Manage catastrophic bleeding if required\n- Primary Survey with c-spine consideration where indicated\n- Position for comfort where possible and support ventilation as required\n- Administer oxygen if required\n- For open pneumothorax, apply a vented chest seal and monitor closely for deterioration\n- Complete focused secondary survey and seek early senior consultation when the diagnosis is uncertain",
       "sortOrder": 3
     },
     {
       "id": "pneumothorax-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Gain IV access if indicated\n- Provide analgesia and cardiac monitoring within scope\n- Perform immediate thoracic decompression only when tension pneumothorax is strongly suspected and this is within scope or protocol\n- Reassess after decompression because tension may recur or persist",
       "sortOrder": 4
     },
@@ -57,6 +57,16 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "ginasthma",
+    "gold-copd",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
+  ]
 }

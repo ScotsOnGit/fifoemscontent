@@ -35,14 +35,14 @@
     {
       "id": "chest-trauma-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Ensure scene safety and control catastrophic haemorrhage\n- Primary Survey with c-spine consideration where indicated\n- Support airway and ventilation and administer oxygen if required\n- Leave impaled objects in place and stabilise them\n- Manage open chest wounds with a vented chest seal where available and monitor for deterioration\n- Complete focused secondary survey and expedite transport",
       "sortOrder": 3
     },
     {
       "id": "chest-trauma-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Consider advanced airway management if required\n- Gain IV or IO access\n- Consider cautious fluids only when indicated\n- Provide analgesia, antiemetic therapy, and cardiac monitoring within scope\n- Perform thoracic decompression only within local scope or protocol when tension pneumothorax is suspected\n- Escalate early for severe respiratory distress, shock, or traumatic cardiac arrest",
       "sortOrder": 4
     },
@@ -63,8 +63,8 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "revised-trauma-score",
     "mgap",
@@ -72,5 +72,13 @@
     "crams",
     "batt-score",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

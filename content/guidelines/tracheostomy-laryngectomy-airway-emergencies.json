@@ -67,6 +67,11 @@
     "skill-bvm-ventilation"
   ],
   "isFreeContent": true,
-  "version": 2,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 3,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code"
+  ]
 }

@@ -64,10 +64,16 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-21T00:00:00Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "relatedCalculatorIDs": [
     "qsofa",
     "news2"
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "surviving-sepsis"
   ]
 }

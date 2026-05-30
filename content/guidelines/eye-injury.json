@@ -35,14 +35,14 @@
     {
       "id": "eye-injury-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Primary Survey with c-spine consideration where indicated\n- Reassure the patient, keep them at rest, and discourage eye movement\n- Do not manipulate the injured eye\n- For suspected globe rupture or penetrating injury, place a rigid shield if tolerated and do not pad the eye\n- For chemical injury, start immediate copious irrigation and continue during transport if needed\n- Document vision, pupils, eye movements, and key symptoms where assessment is possible",
       "sortOrder": 3
     },
     {
       "id": "eye-injury-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Gain IV access if indicated\n- Consider analgesia and antiemetic therapy within scope\n- Avoid fluorescein or foreign-body removal if globe rupture is suspected\n- Escalate urgently for chemical injury, penetrating injury, globe rupture, or significant visual loss",
       "sortOrder": 4
     },
@@ -57,6 +57,14 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
+  ]
 }

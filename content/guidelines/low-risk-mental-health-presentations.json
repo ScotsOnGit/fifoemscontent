@@ -64,6 +64,13 @@
     "domestic-and-family-violence"
   ],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-14T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "mhfa-guidelines",
+    "safe-work-psychosocial"
+  ]
 }

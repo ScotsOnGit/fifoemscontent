@@ -89,8 +89,18 @@
       "cardiac-arrhythmia"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "adrenaline-epinephrine",
@@ -215,8 +225,19 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ascia-anaphylaxis"
+    ]
   },
   {
     "id": "adrenaline-auto-injector",
@@ -293,8 +314,19 @@
       "anaphylaxis"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ascia-anaphylaxis"
+    ]
   },
   {
     "id": "amiodarone",
@@ -395,8 +427,18 @@
       "electric-shock"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "aspirin",
@@ -492,8 +534,17 @@
       "chest-pain"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "atropine-and-pralidoxime-duodote",
@@ -586,8 +637,19 @@
       "toxicology"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "toxinz"
+    ]
   },
   {
     "id": "atropine-sulphate",
@@ -698,8 +760,19 @@
       "toxicology"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "toxinz"
+    ]
   },
   {
     "id": "benzatropine",
@@ -779,8 +852,18 @@
       "acute-dystonic-reactions"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "calcium-gluconate",
@@ -889,8 +972,17 @@
       "toxicology"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "toxinz"
+    ]
   },
   {
     "id": "cefazolin",
@@ -983,8 +1075,17 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "ceftriaxone",
@@ -1079,8 +1180,17 @@
       "meningococcal-septicaemia-bacterial-viral-meningitis"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "chloramphenicol-eye-drops",
@@ -1171,8 +1281,17 @@
       "skill-fluorescein"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "cophenylcaine",
@@ -1253,8 +1372,16 @@
       "pain-management"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "dexamethasone",
@@ -1370,8 +1497,20 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ascia-anaphylaxis",
+      "ginasthma"
+    ]
   },
   {
     "id": "dextrose-5",
@@ -1450,8 +1589,18 @@
       "hypoglycaemia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "droperidol",
@@ -1548,10 +1697,18 @@
       "pain-management"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "QT-prolonging drugs (ondansetron, prochlorperazine, amiodarone, sotalol) - additive QT prolongation; avoid concurrent use"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
     ]
   },
   {
@@ -1649,8 +1806,16 @@
       "pulmonary-embolus"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "fentanyl",
@@ -1779,12 +1944,21 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": false,
-    "version": 3,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 4,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Hydroxocobalamin - incompatible; do not administer concurrently or via the same IV line",
       "MAO inhibitors - do not use within 14 days; risk of serotonin toxicity",
       "CNS depressants (benzodiazepines, alcohol) - additive respiratory depression"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -1880,8 +2054,16 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "furosemide",
@@ -1975,8 +2157,16 @@
       "hyperkalaemia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "glucagon",
@@ -2072,8 +2262,20 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "toxinz",
+      "ascia-anaphylaxis"
+    ]
   },
   {
     "id": "glucose-10-intravenous",
@@ -2156,10 +2358,18 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Blood products - incompatible via same IV administration set (causes haemolysis)"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
     ]
   },
   {
@@ -2237,8 +2447,16 @@
       "hypoglycaemia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "glyceryl-trinitrate",
@@ -2345,13 +2563,21 @@
       "hypertension"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Sildenafil (Viagra/Revatio) - avoid within 24 hours; profound hypotension risk",
       "Tadalafil (Cialis) - avoid within 48 hours; profound hypotension risk",
       "Vardenafil (Levitra) - avoid within 24 hours; profound hypotension risk",
       "Riociguat (Adempas) - absolute contraindication at any time"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
     ]
   },
   {
@@ -2461,12 +2687,21 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Blood products - calcium in Hartmann's causes clotting of citrated blood; do not use same IV line",
       "Ceftriaxone (any age) - do not administer via same IV line; calcium-ceftriaxone precipitate",
       "Ceftriaxone (neonates <28 days) - ABSOLUTE contraindication via any route; fatal precipitate risk"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
     ]
   },
   {
@@ -2558,8 +2793,16 @@
       "pulmonary-embolus"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "hydrocortisone",
@@ -2663,8 +2906,20 @@
       "asthma"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ascia-anaphylaxis",
+      "ginasthma"
+    ]
   },
   {
     "id": "hydroxocobalamin",
@@ -2745,8 +3000,17 @@
       "toxicology"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "toxinz"
+    ]
   },
   {
     "id": "hyoscine-butylbromide",
@@ -2840,8 +3104,16 @@
       "abdominal-pain"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "hypertonic-saline-3",
@@ -2935,8 +3207,16 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "ibuprofen",
@@ -3028,8 +3308,17 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "insulin",
@@ -3126,8 +3415,16 @@
       "sepsis-septic-shock"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "ipratropium-bromide",
@@ -3208,8 +3505,17 @@
       "dyspnoea"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "ginasthma"
+    ]
   },
   {
     "id": "ketamine",
@@ -3353,10 +3659,19 @@
       "seizure"
     ],
     "isFreeContent": false,
-    "version": 3,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 4,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Theophylline - combination may lower seizure threshold"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -3434,8 +3749,17 @@
       "seizures"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "lignocaine-1",
@@ -3548,8 +3872,18 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "loperamide",
@@ -3617,8 +3951,16 @@
       "gastroenteritis"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "loratadine",
@@ -3703,8 +4045,16 @@
       "anaphylaxis"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "magnesium-sulphate",
@@ -3824,10 +4174,22 @@
       "postpartum-haemorrhage"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Non-depolarising neuromuscular blocking agents (rocuronium, vecuronium) - potentiates neuromuscular blockade; reduced NMBA dose may be required"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ginasthma",
+      "ranzcog-guidelines"
     ]
   },
   {
@@ -3925,8 +4287,16 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "methoxyflurane",
@@ -4015,10 +4385,19 @@
       "trauma"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Tetracyclines - increased nephrotoxicity risk; avoid concurrent use"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -4124,8 +4503,17 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "metoprolol",
@@ -4225,8 +4613,18 @@
       "acute-coronary-syndrome"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "midazolam",
@@ -4376,8 +4774,17 @@
       "traumatic-brain-injury"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "morphine-midazolam-combination",
@@ -4471,8 +4878,17 @@
       "pain-management"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "morphine-sulphate",
@@ -4603,10 +5019,19 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Clopidogrel and ticagrelor (P2Y12 inhibitors) - morphine delays gastric emptying, reducing peak plasma levels of antiplatelet agents by 30-40%; consider fentanyl as alternative analgesic in ACS where possible"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -4717,8 +5142,18 @@
       "unconsciousness"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain",
+      "toxinz"
+    ]
   },
   {
     "id": "noradrenaline",
@@ -4806,8 +5241,18 @@
       "sepsis-septic-shock"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "intravenous-normal-saline",
@@ -4921,8 +5366,16 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "olanzapine-oral-dispersible",
@@ -5008,8 +5461,16 @@
       "high-risk-mental-health-presentations"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "ondansetron",
@@ -5120,14 +5581,23 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Droperidol - additive QT prolongation; avoid concurrent use",
       "Prochlorperazine - additive QT prolongation; avoid concurrent use",
       "Amiodarone - additive QT prolongation; avoid concurrent use",
       "Sotalol - additive QT prolongation; avoid concurrent use",
       "Apomorphine - absolute contraindication; profound hypotension"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -5214,8 +5684,17 @@
       "influenza-like-illness"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "oxygen",
@@ -5331,8 +5810,19 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "toxinz",
+      "ascia-anaphylaxis",
+      "ginasthma"
+    ]
   },
   {
     "id": "oxytocin",
@@ -5426,8 +5916,17 @@
       "postpartum-haemorrhage"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "ranzcog-guidelines"
+    ]
   },
   {
     "id": "packed-red-blood-cells",
@@ -5519,10 +6018,19 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Hartmann's solution (compound sodium lactate) - incompatible via same IV line; calcium causes clotting of citrated blood"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "ranzcog-guidelines"
     ]
   },
   {
@@ -5637,10 +6145,19 @@
       "pain-management"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Warfarin - regular paracetamol use >2g/day may enhance anticoagulant effect (INR increase); monitor INR if prolonged use"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
     ]
   },
   {
@@ -5752,8 +6269,20 @@
       "asthma"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "ascia-anaphylaxis",
+      "ginasthma"
+    ]
   },
   {
     "id": "rocuronium-bromide",
@@ -5839,10 +6368,18 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Magnesium sulphate - potentiates neuromuscular blockade; reduced rocuronium dose may be required"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
     ]
   },
   {
@@ -5937,8 +6474,16 @@
       "trauma"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "salbutamol-sulphate",
@@ -6058,10 +6603,20 @@
       "hyperkalaemia"
     ],
     "isFreeContent": true,
-    "version": 2,
-    "lastUpdated": "2026-05-21T00:00:00Z",
+    "version": 3,
+    "lastUpdated": "2026-05-30T00:00:00Z",
     "interactions": [
       "Non-selective beta-blockers (propranolol) - antagonise bronchodilator effect and may worsen bronchospasm; avoid in asthma"
+    ],
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "ascia-anaphylaxis",
+      "ginasthma"
     ]
   },
   {
@@ -6175,8 +6730,19 @@
       "tricyclic-antidepressants-toxicity"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzcor-guidelines",
+      "arc-guidelines",
+      "toxinz"
+    ]
   },
   {
     "id": "sodium-fluorescein",
@@ -6267,8 +6833,16 @@
       "skill-eye-washing"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "sumatriptan",
@@ -6361,8 +6935,15 @@
       "headache"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise"
+    ]
   },
   {
     "id": "tenecteplase",
@@ -6444,8 +7025,15 @@
       "acute-coronary-syndrome"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise"
+    ]
   },
   {
     "id": "tranexamic-acid",
@@ -6547,8 +7135,16 @@
       "traumatic-resuscitation-algorithm"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2025-01-15T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "clopidogrel",
@@ -6623,8 +7219,15 @@
       "acute-coronary-syndrome"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise"
+    ]
   },
   {
     "id": "ticagrelor",
@@ -6692,8 +7295,15 @@
       "acute-coronary-syndrome"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise"
+    ]
   },
   {
     "id": "nifedipine",
@@ -6761,8 +7371,16 @@
       "pre-eclampsia-eclampsia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "ranzcog-guidelines"
+    ]
   },
   {
     "id": "charcoal-activated",
@@ -6840,8 +7458,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "toxinz"
+    ]
   },
   {
     "id": "flumazenil",
@@ -6915,8 +7542,18 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain",
+      "toxinz"
+    ]
   },
   {
     "id": "vasopressin",
@@ -6993,8 +7630,17 @@
       "adult-resuscitation"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "anzcor-guidelines",
+      "arc-guidelines"
+    ]
   },
   {
     "id": "diazepam",
@@ -7113,8 +7759,17 @@
       "alcohol-withdrawal"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "silver-sulfadiazine",
@@ -7192,8 +7847,17 @@
       "burns"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "prochlorperazine",
@@ -7280,8 +7944,16 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "glucose-50",
@@ -7358,8 +8030,16 @@
       "hypoglycaemia"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "amoxicillin-clavulanate",
@@ -7450,8 +8130,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "flucloxacillin",
@@ -7539,8 +8228,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "cefalexin",
@@ -7627,8 +8325,18 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook",
+      "ascia-anaphylaxis"
+    ]
   },
   {
     "id": "ciprofloxacin",
@@ -7731,8 +8439,16 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "doxycycline",
@@ -7824,8 +8540,16 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "metronidazole",
@@ -7927,8 +8651,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "trimethoprim",
@@ -8015,8 +8748,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "azithromycin",
@@ -8117,8 +8859,17 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "benzylpenicillin",
@@ -8196,8 +8947,17 @@
       "invasive-group-a-streptococcus"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "clindamycin",
@@ -8289,8 +9049,17 @@
       "invasive-group-a-streptococcus"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "valaciclovir",
@@ -8376,8 +9145,16 @@
       "varicella-chickenpox"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-20T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "tramadol",
@@ -8460,8 +9237,16 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "ketorolac",
@@ -8555,8 +9340,16 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "anzca-acute-pain"
+    ]
   },
   {
     "id": "pantoprazole",
@@ -8637,8 +9430,15 @@
     "paediatricDosing": [],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise"
+    ]
   },
   {
     "id": "ergometrine",
@@ -8720,8 +9520,16 @@
       "antepartum-haemorrhage"
     ],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "ranzcog-guidelines"
+    ]
   },
   {
     "id": "box-jellyfish-antivenom",
@@ -8806,8 +9614,18 @@
     ],
     "relatedGuidelineIDs": [],
     "isFreeContent": true,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "anzca-acute-pain",
+      "toxinz"
+    ]
   },
   {
     "id": "amoxicillin",
@@ -8909,8 +9727,17 @@
       "diphtheria"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "australian-immunisation-handbook"
+    ]
   },
   {
     "id": "diphoterine",
@@ -8984,8 +9811,16 @@
       "eye-injury"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens"
+    ]
   },
   {
     "id": "acetylcysteine",
@@ -9061,7 +9896,16 @@
       "serotonin-syndrome"
     ],
     "isFreeContent": false,
-    "version": 1,
-    "lastUpdated": "2026-05-21T00:00:00Z"
+    "version": 2,
+    "lastUpdated": "2026-05-30T00:00:00Z",
+    "referenceIDs": [
+      "amh",
+      "therapeutic-guidelines",
+      "tga-product-information",
+      "aidh",
+      "nps-medicinewise",
+      "amh-childrens",
+      "toxinz"
+    ]
   }
 ]

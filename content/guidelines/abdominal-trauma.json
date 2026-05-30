@@ -3,7 +3,7 @@
   "title": "Abdominal Trauma",
   "category": "trauma",
   "isFreeContent": true,
-  "version": 5,
+  "version": 6,
   "lastUpdated": "2026-05-30T00:00:00Z",
   "tags": [
     "abdominal",
@@ -71,5 +71,13 @@
       "content": "- Pattern bruising, such as Cullen’s sign (bruising around the belly button) and Grey Turners sign (bruising to the flanks) may take hours to days to develop\n- Trauma that presents with eviscerated bowel should be covered with moist sterile pads or cling wrap",
       "sortOrder": 5
     }
+  ],
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
   ]
 }

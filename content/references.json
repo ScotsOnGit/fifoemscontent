@@ -257,6 +257,235 @@
           "url": "https://www.comcare.gov.au/claims/employer-information/return-to-work-employers"
         }
       ]
+    },
+    {
+      "category": "Core Clinical Governance",
+      "items": [
+        {
+          "id": "anzcor-guidelines",
+          "title": "ANZCOR Guidelines",
+          "subtitle": "Australian and New Zealand Committee on Resuscitation",
+          "url": "https://www.anzcor.org/home/guidelines/"
+        },
+        {
+          "id": "arc-guidelines",
+          "title": "Australian Resuscitation Council Guidelines",
+          "subtitle": "Resuscitation and emergency care guideline library",
+          "url": "https://resus.org.au/guidelines/"
+        },
+        {
+          "id": "therapeutic-guidelines",
+          "title": "Therapeutic Guidelines",
+          "subtitle": "Australian evidence-based treatment guidance",
+          "url": "https://www.tg.org.au/"
+        },
+        {
+          "id": "acsqhc-clinical-care-standards",
+          "title": "Clinical Care Standards",
+          "subtitle": "Australian Commission on Safety and Quality in Health Care",
+          "url": "https://www.safetyandquality.gov.au/standards/clinical-care-standards"
+        },
+        {
+          "id": "nsqhs-standards",
+          "title": "NSQHS Standards",
+          "subtitle": "Australian safety and quality standards for health service organisations",
+          "url": "https://www.safetyandquality.gov.au/standards/nsqhs-standards"
+        }
+      ]
+    },
+    {
+      "category": "Medication References",
+      "items": [
+        {
+          "id": "amh",
+          "title": "Australian Medicines Handbook",
+          "subtitle": "Australian independent medicines reference",
+          "url": "https://amh.net.au/"
+        },
+        {
+          "id": "amh-childrens",
+          "title": "AMH Children's Dosing Companion",
+          "subtitle": "Paediatric medicines dosing reference",
+          "url": "https://amh.net.au/"
+        },
+        {
+          "id": "tga-product-information",
+          "title": "TGA Product Information",
+          "subtitle": "Australian product information and consumer medicine information resources",
+          "url": "https://www.tga.gov.au/resources/resource/guidance/product-information"
+        },
+        {
+          "id": "aidh",
+          "title": "Australian Injectable Drugs Handbook",
+          "subtitle": "Injectable medicines preparation and administration reference",
+          "url": "https://www.shpa.org.au/australian-injectable-drugs-handbook"
+        },
+        {
+          "id": "nps-medicinewise",
+          "title": "NPS MedicineWise Medicine Finder",
+          "subtitle": "Australian medicines information and consumer resources",
+          "url": "https://www.nps.org.au/medicine-finder"
+        },
+        {
+          "id": "anzca-acute-pain",
+          "title": "Acute Pain Management: Scientific Evidence",
+          "subtitle": "ANZCA and FPM acute pain evidence reference",
+          "url": "https://www.anzca.edu.au/resources/college-publications/acute-pain-management"
+        }
+      ]
+    },
+    {
+      "category": "Emergency and Specialty Guidelines",
+      "items": [
+        {
+          "id": "surviving-sepsis",
+          "title": "Surviving Sepsis Campaign Guidelines",
+          "subtitle": "International guidelines for management of sepsis and septic shock",
+          "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+        },
+        {
+          "id": "heart-foundation-acs",
+          "title": "Heart Foundation ACS Guidance",
+          "subtitle": "Australian acute coronary syndrome professional resources",
+          "url": "https://www.heartfoundation.org.au/for-professionals/clinical-information/acute-coronary-syndromes"
+        },
+        {
+          "id": "stroke-foundation-guidelines",
+          "title": "Living Clinical Guidelines for Stroke Management",
+          "subtitle": "Stroke Foundation, Australia",
+          "url": "https://informme.org.au/guidelines/living-clinical-guidelines-for-stroke-management"
+        },
+        {
+          "id": "ascia-anaphylaxis",
+          "title": "ASCIA Acute Management of Anaphylaxis Guidelines",
+          "subtitle": "Australasian Society of Clinical Immunology and Allergy",
+          "url": "https://www.allergy.org.au/hp/papers/acute-management-of-anaphylaxis-guidelines"
+        },
+        {
+          "id": "ginasthma",
+          "title": "GINA Asthma Reports",
+          "subtitle": "Global Initiative for Asthma strategy reports",
+          "url": "https://ginasthma.org/gina-reports/"
+        },
+        {
+          "id": "gold-copd",
+          "title": "GOLD COPD Reports",
+          "subtitle": "Global Initiative for Chronic Obstructive Lung Disease",
+          "url": "https://goldcopd.org/"
+        },
+        {
+          "id": "rch-cpg",
+          "title": "Royal Children's Hospital Clinical Practice Guidelines",
+          "subtitle": "Paediatric emergency and clinical guidance",
+          "url": "https://www.rch.org.au/clinicalguide/"
+        },
+        {
+          "id": "ranzcog-guidelines",
+          "title": "RANZCOG Statements and Guidelines",
+          "subtitle": "Obstetric and gynaecology clinical guidance",
+          "url": "https://ranzcog.edu.au/resources/statements-and-guidelines-directory/"
+        },
+        {
+          "id": "australian-immunisation-handbook",
+          "title": "Australian Immunisation Handbook",
+          "subtitle": "Australian Government immunisation guidance",
+          "url": "https://immunisationhandbook.health.gov.au/"
+        },
+        {
+          "id": "mhfa-guidelines",
+          "title": "Mental Health First Aid Guidelines",
+          "subtitle": "Evidence-informed mental health first aid guidance",
+          "url": "https://mhfa.com.au/mental-health-first-aid-guidelines"
+        }
+      ]
+    },
+    {
+      "category": "Trauma, Burns and Toxicology",
+      "items": [
+        {
+          "id": "nice-major-trauma",
+          "title": "NICE Major Trauma Guidance",
+          "subtitle": "Major trauma assessment and initial management",
+          "url": "https://www.nice.org.uk/guidance/ng39"
+        },
+        {
+          "id": "stop-the-bleed",
+          "title": "Stop the Bleed",
+          "subtitle": "Bleeding control education and principles",
+          "url": "https://www.stopthebleed.org/"
+        },
+        {
+          "id": "racs-trauma",
+          "title": "RACS Trauma Resources",
+          "subtitle": "Royal Australasian College of Surgeons trauma resources",
+          "url": "https://www.surgeons.org/"
+        },
+        {
+          "id": "anzba-burns",
+          "title": "ANZBA Burns Resources",
+          "subtitle": "Australian and New Zealand Burn Association",
+          "url": "https://anzba.org.au/"
+        },
+        {
+          "id": "toxinz",
+          "title": "TOXINZ",
+          "subtitle": "Poisons information and toxicology reference",
+          "url": "https://www.toxinz.com/"
+        },
+        {
+          "id": "cdc-niosh-pocket-guide",
+          "title": "NIOSH Pocket Guide to Chemical Hazards",
+          "subtitle": "Chemical hazard recognition and exposure reference",
+          "url": "https://www.cdc.gov/niosh/npg/"
+        },
+        {
+          "id": "swa-confined-spaces",
+          "title": "Confined Spaces Code of Practice",
+          "subtitle": "Safe Work Australia model code of practice",
+          "url": "https://www.safeworkaustralia.gov.au/doc/model-code-practice-confined-spaces"
+        }
+      ]
+    },
+    {
+      "category": "Physiotherapy and Occupational Health Sources",
+      "items": [
+        {
+          "id": "apa-clinical-guidelines",
+          "title": "Australian Physiotherapy Association Resources",
+          "subtitle": "Professional physiotherapy practice and clinical resources",
+          "url": "https://australian.physio/"
+        },
+        {
+          "id": "nice-msk",
+          "title": "NICE Musculoskeletal Conditions Guidance",
+          "subtitle": "Evidence-based musculoskeletal condition guidance",
+          "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/musculoskeletal-conditions"
+        },
+        {
+          "id": "workcover-wa-rtw",
+          "title": "WorkCover WA Return to Work Resources",
+          "subtitle": "Western Australian workers compensation and injury management guidance",
+          "url": "https://www.workcover.wa.gov.au/"
+        },
+        {
+          "id": "safe-work-psychosocial",
+          "title": "Managing Psychosocial Hazards at Work",
+          "subtitle": "Safe Work Australia model code of practice",
+          "url": "https://www.safeworkaustralia.gov.au/doc/model-code-practice-managing-psychosocial-hazards-work"
+        },
+        {
+          "id": "swa-noise",
+          "title": "Managing Noise and Preventing Hearing Loss at Work",
+          "subtitle": "Safe Work Australia model code of practice",
+          "url": "https://www.safeworkaustralia.gov.au/doc/model-code-practice-managing-noise-and-preventing-hearing-loss-work"
+        },
+        {
+          "id": "apa-telehealth",
+          "title": "APA Telehealth Resources",
+          "subtitle": "Physiotherapy telehealth practice resources",
+          "url": "https://australian.physio/advocacy/telehealth"
+        }
+      ]
     }
   ],
   "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation. Some content in this app synthesises multiple sources and may not reproduce any single reference verbatim."

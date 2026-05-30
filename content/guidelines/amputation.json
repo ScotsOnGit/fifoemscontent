@@ -35,14 +35,14 @@
     {
       "id": "amputation-management-basic",
       "type": "management_basic",
-      "title": "Management \u2013 Primary",
+      "title": "Management – Primary",
       "content": "- Control catastrophic haemorrhage with tourniquet and direct pressure as required\n- Record vital signs and monitor closely for haemorrhagic shock\n- Provide reassurance, warmth, and positioning for comfort where possible\n- Gently dress the stump with sterile dressings\n- Retrieve the amputated part, wrap it in sterile moist gauze, place it in a sealed bag, then place that bag in a second container with a cool substance\n- Expedite transport and early consultation for retrieval or surgical destination planning",
       "sortOrder": 3
     },
     {
       "id": "amputation-management-advanced",
       "type": "management_advanced",
-      "title": "Management \u2013 Advanced",
+      "title": "Management – Advanced",
       "content": "- Establish IV or IO access\n- Consider IV fluids for shock or major blood loss\n- Provide IV analgesia and antiemetic therapy within scope\n- Consider antibiotics and tetanus advice in line with local protocol and senior direction\n- Escalate early if crush injury, prolonged extrication, or significant contamination is present",
       "sortOrder": 4
     }
@@ -50,6 +50,14 @@
   "relatedMedicationIDs": [],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z",
+  "referenceIDs": [
+    "therapeutic-guidelines",
+    "acsqhc-clinical-care-standards",
+    "ahpra-code",
+    "nice-major-trauma",
+    "racs-trauma",
+    "stop-the-bleed"
+  ]
 }
