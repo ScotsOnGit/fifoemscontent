@@ -515,20 +515,20 @@
             },
             {
               "label": "(b)",
-              "title": "AHA 2025 Guidelines for CPR and ECC — Part 9: Adult ALS",
+              "title": "AHA 2025 Guidelines for CPR and ECC, Part 9: Adult ALS",
               "subtitle": "American Heart Association, Circulation 2025",
               "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376"
             },
             {
               "label": "(c)",
               "title": "PARAMEDIC2 RCT: Epinephrine in Out-of-Hospital Cardiac Arrest",
-              "subtitle": "Perkins GD et al., NEJM 2018;379:711–721 — n=8,014; adrenaline improved ROSC and 30-day survival but not neurological recovery",
+              "subtitle": "Perkins GD et al., NEJM 2018;379:711–721. N=8,014; adrenaline improved ROSC and 30-day survival but not neurological recovery",
               "url": "https://pubmed.ncbi.nlm.nih.gov/29791857/"
             },
             {
               "label": "(c)",
               "title": "ALPS RCT: Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Cardiac Arrest",
-              "subtitle": "Kudenchuk PJ et al., NEJM 2016;374:1711–1722 — amiodarone and lignocaine improved survival to hospital admission vs. placebo in witnessed VF/pVT",
+              "subtitle": "Kudenchuk PJ et al., NEJM 2016;374:1711–1722. Amiodarone and lignocaine improved survival to hospital admission vs. placebo in witnessed VF/pVT",
               "url": "https://pubmed.ncbi.nlm.nih.gov/27043165/"
             }
           ],
@@ -547,8 +547,8 @@
             },
             {
               "label": "(b)",
-              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances — Accidental Hypothermia",
-              "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219 — No declaration of death until ≥32°C; withhold adrenaline below 30°C",
+              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances, Accidental Hypothermia",
+              "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219. No declaration of death until ≥32°C; withhold adrenaline below 30°C",
               "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
             },
             {
@@ -560,7 +560,7 @@
             {
               "label": "(c)",
               "title": "Accidental Hypothermia",
-              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938 — Swiss staging (HT I–IV) guides field decisions and hospital destination",
+              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938. Swiss staging (HT I–IV) guides field decisions and hospital destination",
               "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
             }
           ],
@@ -592,13 +592,13 @@
             {
               "label": "(b)",
               "title": "AHA 2023 Focused Update on Targeted Temperature Management",
-              "subtitle": "American Heart Association — Avoid fever >37.7°C for ≥72 h; prehospital cold IV infusion: no benefit (Class III)",
+              "subtitle": "American Heart Association. Avoid fever >37.7°C for ≥72 h; prehospital cold IV infusion: no benefit (Class III)",
               "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001149"
             },
             {
               "label": "(c)",
               "title": "TTM2 RCT: Hypothermia versus Normothermia After Out-of-Hospital Cardiac Arrest",
-              "subtitle": "Dankiewicz J et al., NEJM 2021;384:2283–2294 — No survival benefit for 33°C vs. 37.5°C; shifted practice toward fever avoidance",
+              "subtitle": "Dankiewicz J et al., NEJM 2021;384:2283–2294. No survival benefit for 33°C vs. 37.5°C; shifted practice toward fever avoidance",
               "url": "https://pubmed.ncbi.nlm.nih.gov/34133859/"
             }
           ],
@@ -630,25 +630,25 @@
             {
               "label": "(c)",
               "title": "CRASH-2 Trial: Tranexamic Acid in Trauma with Significant Haemorrhage",
-              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32 — TXA within 3 hours reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
+              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32. TXA within 3 hours reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/20554319/"
             },
             {
               "label": "(c)",
               "title": "PROPPR RCT: Transfusion Ratios in Severe Trauma",
-              "subtitle": "Holcomb JB et al., JAMA 2015;313:471–482 — 1:1:1 ratio improved haemostasis and 24-hour survival",
+              "subtitle": "Holcomb JB et al., JAMA 2015;313:471–482. 1:1:1 ratio improved haemostasis and 24-hour survival",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25647203/"
             },
             {
               "label": "(c)",
               "title": "Damage Control Resuscitation: Directly Addressing the Early Coagulopathy of Trauma",
-              "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310 — Original DCR framework; permissive hypotension and haemostatic resuscitation",
+              "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310. Original DCR framework; permissive hypotension and haemostatic resuscitation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/17297328/"
             },
             {
               "label": "(c)",
               "title": "Traumatic Cardiac Arrest: Who Are the Survivors?",
-              "subtitle": "Lockey DJ et al., Annals of Emergency Medicine 2006;48(3):240–244 — Informs criteria for initiating and continuing traumatic resuscitation",
+              "subtitle": "Lockey DJ et al., Annals of Emergency Medicine 2006;48(3):240–244. Informs criteria for initiating and continuing traumatic resuscitation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/16934644/"
             }
           ],
@@ -680,7 +680,7 @@
             {
               "label": "(c)",
               "title": "2022 International Consensus on CPR and ECC Science: Neonatal Life Support",
-              "subtitle": "Wyckoff MH et al., Circulation 2022;146(25) — Initiate at 21% O₂; 3:1 compression-to-ventilation ratio",
+              "subtitle": "Wyckoff MH et al., Circulation 2022;146(25). Initiate at 21% O₂; 3:1 compression-to-ventilation ratio",
               "url": "https://pubmed.ncbi.nlm.nih.gov/36325907/"
             }
           ],
@@ -723,19 +723,19 @@
             {
               "label": "(b)",
               "title": "GA2LEN Anaphylaxis 2024 Consensus Report",
-              "subtitle": "Journal of Allergy and Clinical Immunology, 2025 — New clinical criteria; epinephrine every 5–15 min as needed",
+              "subtitle": "Journal of Allergy and Clinical Immunology, 2025. New clinical criteria; epinephrine every 5–15 min as needed",
               "url": "https://www.jacionline.org/article/S0091-6749(25)00072-7/fulltext"
             },
             {
               "label": "(c)",
-              "title": "Adrenaline for the Treatment of Anaphylaxis — Cochrane Review",
-              "subtitle": "Sheikh A et al., 2008 — No RCT evidence for antihistamines/corticosteroids as first-line; adrenaline remains the only evidence-based first-line drug",
+              "title": "Adrenaline for the Treatment of Anaphylaxis (Cochrane Review)",
+              "subtitle": "Sheikh A et al., 2008. No RCT evidence for antihistamines/corticosteroids as first-line; adrenaline remains the only evidence-based first-line drug",
               "url": "https://pubmed.ncbi.nlm.nih.gov/19160185/"
             },
             {
               "label": "(c)",
               "title": "Incidence of Clinically Important Biphasic Reactions in Anaphylaxis",
-              "subtitle": "Grunau BE et al., Annals of Emergency Medicine 2014;63:736–744 — Biphasic reactions ~5%; supports minimum 4-hour observation",
+              "subtitle": "Grunau BE et al., Annals of Emergency Medicine 2014;63:736–744. Biphasic reactions ~5%; supports minimum 4-hour observation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/24768543/"
             }
           ],
@@ -767,19 +767,19 @@
             {
               "label": "(c)",
               "title": "Sepsis-3: The Third International Consensus Definitions for Sepsis and Septic Shock",
-              "subtitle": "Singer M et al., JAMA 2016;315(8):801–810 — Defines sepsis; qSOFA as prehospital screening tool",
+              "subtitle": "Singer M et al., JAMA 2016;315(8):801–810. Defines sepsis; qSOFA as prehospital screening tool",
               "url": "https://pubmed.ncbi.nlm.nih.gov/26903338/"
             },
             {
               "label": "(c)",
               "title": "ARISE RCT: Goal-Directed Resuscitation in Early Septic Shock",
-              "subtitle": "ARISE Investigators, NEJM 2014;371:1496–1506 — EGDT not superior to usual care; flexible resuscitation targets supported",
+              "subtitle": "ARISE Investigators, NEJM 2014;371:1496–1506. EGDT not superior to usual care; flexible resuscitation targets supported",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25272316/"
             },
             {
               "label": "(c)",
               "title": "SMART RCT: Balanced Crystalloids versus Saline in Critically Ill Adults",
-              "subtitle": "Semler MW et al., NEJM 2018;378:829–839 — Balanced crystalloids reduced major adverse kidney events vs. normal saline",
+              "subtitle": "Semler MW et al., NEJM 2018;378:829–839. Balanced crystalloids reduced major adverse kidney events vs. normal saline",
               "url": "https://pubmed.ncbi.nlm.nih.gov/29485925/"
             }
           ],
@@ -805,19 +805,19 @@
             {
               "label": "(b)",
               "title": "2025 ACC Expert Consensus Statement on Cardiogenic Shock",
-              "subtitle": "Morrow DA et al., JACC 2025 — Norepinephrine as first-line vasopressor; SCAI shock staging",
+              "subtitle": "Morrow DA et al., JACC 2025. Norepinephrine as first-line vasopressor; SCAI shock staging",
               "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.02.018"
             },
             {
               "label": "(c)",
               "title": "SOAP-II RCT: Dopamine versus Norepinephrine in Shock",
-              "subtitle": "De Backer D et al., NEJM 2010;362:779–789 — Dopamine had more arrhythmias and excess mortality in cardiogenic shock subgroup",
+              "subtitle": "De Backer D et al., NEJM 2010;362:779–789. Dopamine had more arrhythmias and excess mortality in cardiogenic shock subgroup",
               "url": "https://pubmed.ncbi.nlm.nih.gov/20200382/"
             },
             {
               "label": "(c)",
               "title": "CULPRIT-SHOCK RCT: PCI Strategies in Cardiogenic Shock",
-              "subtitle": "Thiele H et al., NEJM 2017;377:2419–2432 — Culprit-only PCI: lower 30-day mortality than immediate multivessel PCI",
+              "subtitle": "Thiele H et al., NEJM 2017;377:2419–2432. Culprit-only PCI: lower 30-day mortality than immediate multivessel PCI",
               "url": "https://pubmed.ncbi.nlm.nih.gov/28955301/"
             }
           ],
@@ -830,20 +830,20 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 — Critical Bleeding / Massive Transfusion",
+              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 (Critical Bleeding / Massive Transfusion)",
               "subtitle": "Australian Government NBA, 2011 (updated)",
               "url": "https://www.blood.gov.au/pbm-guidelines"
             },
             {
               "label": "(b)",
-              "title": "ATLS Advanced Trauma Life Support, 10th Edition — Chapter: Shock",
+              "title": "ATLS Advanced Trauma Life Support, 10th Edition, Chapter: Shock",
               "subtitle": "American College of Surgeons, 2018",
               "url": "https://www.facs.org/quality-programs/trauma/atls/"
             },
             {
               "label": "(b)",
               "title": "European Guideline on Management of Bleeding and Coagulopathy Following Major Trauma",
-              "subtitle": "Spahn DR et al., Critical Care 2019 — Permissive hypotension (SBP 80–90 mmHg) until haemostasis in penetrating trauma",
+              "subtitle": "Spahn DR et al., Critical Care 2019. Permissive hypotension (SBP 80–90 mmHg) until haemostasis in penetrating trauma",
               "url": "https://pubmed.ncbi.nlm.nih.gov/31488185/"
             },
             {
@@ -898,19 +898,19 @@
             {
               "label": "(c)",
               "title": "DETO2X-AMI RCT: Oxygen Therapy in Suspected Acute Myocardial Infarction",
-              "subtitle": "Hofmann R et al., NEJM 2017;377:1240–1249 — Routine O₂ in AMI with SpO₂ ≥90%: no mortality benefit at 1 year (n=6,629)",
+              "subtitle": "Hofmann R et al., NEJM 2017;377:1240–1249. Routine O₂ in AMI with SpO₂ ≥90%: no mortality benefit at 1 year (n=6,629)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/28844200/"
             },
             {
               "label": "(c)",
               "title": "AVOID RCT: Air Versus Oxygen in ST-Segment–Elevation Myocardial Infarction",
-              "subtitle": "Stub D et al., Circulation 2015;131:2143–2150 — Prehospital O₂ in STEMI increased myocardial injury and infarct size at 6 months",
+              "subtitle": "Stub D et al., Circulation 2015;131:2143–2150. Prehospital O₂ in STEMI increased myocardial injury and infarct size at 6 months",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25902037/"
             },
             {
               "label": "(c)",
               "title": "Prehospital Aspirin and Nitroglycerin for ACS: A Systematic Review",
-              "subtitle": "Holmberg MJ et al., Resuscitation 2022 — Prehospital aspirin associated with reduced 30-day mortality",
+              "subtitle": "Holmberg MJ et al., Resuscitation 2022. Prehospital aspirin associated with reduced 30-day mortality",
               "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9535127/"
             }
           ],
@@ -936,13 +936,13 @@
             {
               "label": "(c)",
               "title": "3CPO RCT: Noninvasive Ventilation in Acute Cardiogenic Pulmonary Edema",
-              "subtitle": "Gray A et al., NEJM 2008;359:142–151 — CPAP/NIPPV reduced dyspnoea; no 7-day mortality benefit vs. standard oxygen",
+              "subtitle": "Gray A et al., NEJM 2008;359:142–151. CPAP/NIPPV reduced dyspnoea; no 7-day mortality benefit vs. standard oxygen",
               "url": "https://pubmed.ncbi.nlm.nih.gov/18565860/"
             },
             {
               "label": "(c)",
               "title": "High-dose GTN in Sympathetic Crashing Acute Pulmonary Edema (SCAPE)",
-              "subtitle": "Levy P et al., medrxiv 2021 — High-dose nitroglycerin improved symptom resolution, reduced intubation",
+              "subtitle": "Levy P et al., medrxiv 2021. High-dose nitroglycerin improved symptom resolution, reduced intubation",
               "url": "https://www.medrxiv.org/content/10.1101/2021.10.17.21265081"
             }
           ],
@@ -974,7 +974,7 @@
             {
               "label": "(c)",
               "title": "REVERT RCT: Modified Valsalva Manoeuvre for Emergency Treatment of Supraventricular Tachycardias",
-              "subtitle": "Appelboam A et al., Lancet 2015;386:1747–1753 — Modified Valsalva (supine leg raise) doubled SVT cardioversion rate (43% vs 17%)",
+              "subtitle": "Appelboam A et al., Lancet 2015;386:1747–1753. Modified Valsalva (supine leg raise) doubled SVT cardioversion rate (43% vs 17%)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/26314489/"
             }
           ],
@@ -998,7 +998,7 @@
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Respiratory — Asthma",
+              "title": "Therapeutic Guidelines: Respiratory, Asthma",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1011,19 +1011,19 @@
             {
               "label": "(c)",
               "title": "PRACTICAL RCT: Budesonide-Formoterol as Needed for Mild Asthma",
-              "subtitle": "Beasley R et al., NEJM 2019;380:2020–2030 — As-needed ICS-formoterol superior to SABA alone; basis for ICS-formoterol reliever recommendation",
+              "subtitle": "Beasley R et al., NEJM 2019;380:2020–2030. As-needed ICS-formoterol superior to SABA alone; basis for ICS-formoterol reliever recommendation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/31112386/"
             },
             {
               "label": "(c)",
               "title": "3Mg RCT: IV or Nebulised Magnesium Sulphate versus Standard Therapy for Severe Acute Asthma",
-              "subtitle": "Goodacre S et al., Lancet Respiratory Medicine 2013;1:293–300 — Nebulised MgSO₄ improved lung function at 60 min in severe asthma",
+              "subtitle": "Goodacre S et al., Lancet Respiratory Medicine 2013;1:293–300. Nebulised MgSO₄ improved lung function at 60 min in severe asthma",
               "url": "https://pubmed.ncbi.nlm.nih.gov/24461892/"
             },
             {
               "label": "(c)",
-              "title": "IV vs. Nebulised Beta2-Agonists for Acute Asthma — Cochrane Review",
-              "subtitle": "Travers AH et al., Cochrane 2012 — No benefit of IV over nebulised salbutamol; nebulised preferred prehospital",
+              "title": "IV vs. Nebulised Beta2-Agonists for Acute Asthma (Cochrane Review)",
+              "subtitle": "Travers AH et al., Cochrane 2012. No benefit of IV over nebulised salbutamol; nebulised preferred prehospital",
               "url": "https://pubmed.ncbi.nlm.nih.gov/22592711/"
             }
           ],
@@ -1042,7 +1042,7 @@
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Respiratory — COPD",
+              "title": "Therapeutic Guidelines: Respiratory, COPD",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1055,7 +1055,7 @@
             {
               "label": "(c)",
               "title": "Effect of High Flow Oxygen on Mortality in COPD Patients in the Prehospital Setting",
-              "subtitle": "Austin MA et al., BMJ 2010;341:c5462 — Titrated O₂ (SpO₂ 88–92%) reduced prehospital COPD mortality by 58%",
+              "subtitle": "Austin MA et al., BMJ 2010;341:c5462. Titrated O₂ (SpO₂ 88–92%) reduced prehospital COPD mortality by 58%",
               "url": "https://pubmed.ncbi.nlm.nih.gov/20406912/"
             }
           ],
@@ -1093,7 +1093,7 @@
             {
               "label": "(c)",
               "title": "PEITHO RCT: Fibrinolysis for Patients with Intermediate-Risk Pulmonary Embolism",
-              "subtitle": "Meyer G et al., NEJM 2014;370:1402–1411 — Tenecteplase reduced haemodynamic decompensation but increased major bleeding",
+              "subtitle": "Meyer G et al., NEJM 2014;370:1402–1411. Tenecteplase reduced haemodynamic decompensation but increased major bleeding",
               "url": "https://pubmed.ncbi.nlm.nih.gov/24716680/"
             }
           ],
@@ -1118,31 +1118,31 @@
             {
               "label": "(b)",
               "title": "AHA/ASA Guidelines for the Early Management of Patients With Acute Ischemic Stroke",
-              "subtitle": "Powers WJ et al., Stroke 2019 (updated 2024) — BP <185/110 pre-thrombolysis; <180/105 for 24 h post-thrombolysis",
+              "subtitle": "Powers WJ et al., Stroke 2019 (updated 2024). BP <185/110 pre-thrombolysis; <180/105 for 24 h post-thrombolysis",
               "url": "https://pubmed.ncbi.nlm.nih.gov/31558551/"
             },
             {
               "label": "(c)",
               "title": "NINDS tPA Trial: Tissue Plasminogen Activator for Acute Ischemic Stroke",
-              "subtitle": "NINDS Investigators, NEJM 1995;333:1581–1587 — tPA within 3 h improved functional outcomes (NNT 8); foundation of thrombolysis",
+              "subtitle": "NINDS Investigators, NEJM 1995;333:1581–1587. TPA within 3 h improved functional outcomes (NNT 8); foundation of thrombolysis",
               "url": "https://pubmed.ncbi.nlm.nih.gov/7477192/"
             },
             {
               "label": "(c)",
               "title": "ECASS-3: Thrombolysis 3 to 4.5 Hours After Acute Ischemic Stroke",
-              "subtitle": "Hacke W et al., NEJM 2008;359:1317–1329 — tPA benefit extended to 4.5 h with acceptable safety",
+              "subtitle": "Hacke W et al., NEJM 2008;359:1317–1329. TPA benefit extended to 4.5 h with acceptable safety",
               "url": "https://pubmed.ncbi.nlm.nih.gov/18815396/"
             },
             {
               "label": "(c)",
               "title": "Effect of Treatment Delay, Age, and Stroke Severity on IV Thrombolysis: A Meta-Analysis",
-              "subtitle": "Emberson J et al., Lancet 2014;384:1929–1935 — Every 15-min delay reduces good outcome by ~1%; basis for time-to-needle urgency",
+              "subtitle": "Emberson J et al., Lancet 2014;384:1929–1935. Every 15-min delay reduces good outcome by ~1%; basis for time-to-needle urgency",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25106063/"
             },
             {
               "label": "(c)",
               "title": "DAWN and DEFUSE-3 Trials: Endovascular Thrombectomy with Late-Window Imaging Selection",
-              "subtitle": "Nogueira RG et al. / Albers GW et al., NEJM 2017–2018 — EVT benefit up to 16–24 h; supports rapid transport regardless of late presentation",
+              "subtitle": "Nogueira RG et al. / Albers GW et al., NEJM 2017–2018. EVT benefit up to 16–24 h; supports rapid transport regardless of late presentation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/28678201/"
             }
           ],
@@ -1155,7 +1155,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Neurology — Seizures and Status Epilepticus",
+              "title": "Therapeutic Guidelines: Neurology, Seizures and Status Epilepticus",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1168,19 +1168,19 @@
             {
               "label": "(c)",
               "title": "RAMPART RCT: Intramuscular versus Intravenous Therapy for Prehospital Status Epilepticus",
-              "subtitle": "Silbergleit R et al., NEJM 2012;366:591–600 — IM midazolam equally effective as IV lorazepam, faster to administer prehospital",
+              "subtitle": "Silbergleit R et al., NEJM 2012;366:591–600. IM midazolam equally effective as IV lorazepam, faster to administer prehospital",
               "url": "https://pubmed.ncbi.nlm.nih.gov/22236222/"
             },
             {
               "label": "(c)",
               "title": "Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults",
-              "subtitle": "Glauser T et al., Epilepsy Currents 2016;16(1):48–61 — Benzos first-line; underdosing is the critical failure mode",
+              "subtitle": "Glauser T et al., Epilepsy Currents 2016;16(1):48–61. Benzos first-line; underdosing is the critical failure mode",
               "url": "https://pubmed.ncbi.nlm.nih.gov/26900373/"
             },
             {
               "label": "(c)",
               "title": "ESETT RCT: Three Anticonvulsant Medications for Status Epilepticus",
-              "subtitle": "Kapur J et al., NEJM 2019;381:2103–2113 — Levetiracetam, fosphenytoin, valproate equally effective as second-line agents",
+              "subtitle": "Kapur J et al., NEJM 2019;381:2103–2113. Levetiracetam, fosphenytoin, valproate equally effective as second-line agents",
               "url": "https://pubmed.ncbi.nlm.nih.gov/31774958/"
             }
           ],
@@ -1200,7 +1200,7 @@
             {
               "label": "(b)",
               "title": "Guidelines for Prehospital Management of Traumatic Brain Injury, 3rd Edition",
-              "subtitle": "Brain Trauma Foundation, 2023 — SBP ≥110 mmHg; SpO₂ ≥90%; avoid hypocapnia",
+              "subtitle": "Brain Trauma Foundation, 2023. SBP ≥110 mmHg; SpO₂ ≥90%; avoid hypocapnia",
               "url": "https://pubmed.ncbi.nlm.nih.gov/37750693/"
             },
             {
@@ -1212,13 +1212,13 @@
             {
               "label": "(c)",
               "title": "CRASH-3 Trial: Effects of Tranexamic Acid in Traumatic Brain Injury",
-              "subtitle": "CRASH-3 Collaborators, Lancet 2019;394:1713–1723 — TXA within 3 h reduced head injury deaths in mild-moderate TBI",
+              "subtitle": "CRASH-3 Collaborators, Lancet 2019;394:1713–1723. TXA within 3 h reduced head injury deaths in mild-moderate TBI",
               "url": "https://pubmed.ncbi.nlm.nih.gov/31564415/"
             },
             {
               "label": "(c)",
               "title": "Prehospital Hypotension Doubles Mortality in Traumatic Brain Injury",
-              "subtitle": "Fuller G et al., JAMA Surgery 2014;149(11):1170–1176 — Even a single prehospital hypotensive episode (SBP <90) doubles mortality",
+              "subtitle": "Fuller G et al., JAMA Surgery 2014;149(11):1170–1176. Even a single prehospital hypotensive episode (SBP <90) doubles mortality",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25268441/"
             }
           ],
@@ -1236,7 +1236,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 — Critical Bleeding / Massive Transfusion",
+              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 (Critical Bleeding / Massive Transfusion)",
               "subtitle": "Australian Government NBA, current edition",
               "url": "https://www.blood.gov.au/pbm-guidelines"
             },
@@ -1248,8 +1248,8 @@
             },
             {
               "label": "(b)",
-              "title": "NAEMSP/ACEP/ACS-COT: Prehospital Tranexamic Acid Use for Traumatic Haemorrhage — Joint Position Statement",
-              "subtitle": "2024 — Recommends prehospital TXA in major trauma; safety data reassuring",
+              "title": "NAEMSP/ACEP/ACS-COT: Prehospital Tranexamic Acid Use for Traumatic Haemorrhage (Joint Position Statement)",
+              "subtitle": "2024. Recommends prehospital TXA in major trauma; safety data reassuring",
               "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12363306/"
             },
             {
@@ -1261,13 +1261,13 @@
             {
               "label": "(c)",
               "title": "CRASH-2 Trial: Tranexamic Acid in Traumatic Haemorrhage",
-              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32 — TXA within 3 h reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
+              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32. TXA within 3 h reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/20554319/"
             },
             {
               "label": "(c)",
               "title": "MATTERS Study: Military Application of Tranexamic Acid in Trauma Emergency Resuscitation",
-              "subtitle": "Morrison JJ et al., Archives of Surgery 2012;147:113–119 — TXA in combat trauma associated with improved survival, especially in massive transfusion",
+              "subtitle": "Morrison JJ et al., Archives of Surgery 2012;147:113–119. TXA in combat trauma associated with improved survival, especially in massive transfusion",
               "url": "https://pubmed.ncbi.nlm.nih.gov/22006072/"
             }
           ],
@@ -1293,13 +1293,13 @@
             {
               "label": "(b)",
               "title": "PHTLS Prehospital Trauma Life Support, 9th Edition",
-              "subtitle": "NAEMT, 2019 — Burns and thermal injuries chapter",
+              "subtitle": "NAEMT, 2019. Burns and thermal injuries chapter",
               "url": "https://www.naemt.org/"
             },
             {
               "label": "(c)",
               "title": "The Optimal Duration of First Aid Treatment for Partial Thickness Burn Injuries",
-              "subtitle": "Cuttle L et al., Burns 2010;36(7):916–923 — 20 min cool running water reduces pain, depth, and need for surgery",
+              "subtitle": "Cuttle L et al., Burns 2010;36(7):916–923. 20 min cool running water reduces pain, depth, and need for surgery",
               "url": "https://pubmed.ncbi.nlm.nih.gov/19900760/"
             },
             {
@@ -1310,8 +1310,8 @@
             },
             {
               "label": "(c)",
-              "title": "Hydrogel Dressings for Prehospital Burn Management — Systematic Review",
-              "subtitle": "Burns & Trauma 2021 — Hydrogel dressings effective for pain and cooling; preferred over wet towels in extended transport",
+              "title": "Hydrogel Dressings for Prehospital Burn Management (Systematic Review)",
+              "subtitle": "Burns & Trauma 2021. Hydrogel dressings effective for pain and cooling; preferred over wet towels in extended transport",
               "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949696/"
             }
           ],
@@ -1336,26 +1336,26 @@
             },
             {
               "label": "(b)",
-              "title": "ATLS Advanced Trauma Life Support — Spine and Spinal Cord Trauma Chapter",
+              "title": "ATLS Advanced Trauma Life Support, Spine and Spinal Cord Trauma Chapter",
               "subtitle": "American College of Surgeons, 10th Edition, 2018",
               "url": "https://www.facs.org/quality-programs/trauma/atls/"
             },
             {
               "label": "(c)",
               "title": "NEXUS: Validity of Clinical Criteria to Rule Out Cervical Spine Injury in Blunt Trauma",
-              "subtitle": "Hoffman JR et al., NEJM 2000;343:94–99 — 5 low-risk criteria; NPV 99.6% (n=34,069)",
+              "subtitle": "Hoffman JR et al., NEJM 2000;343:94–99. 5 low-risk criteria; NPV 99.6% (n=34,069)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/10944647/"
             },
             {
               "label": "(c)",
               "title": "Canadian C-Spine Rule versus NEXUS in Blunt Trauma",
-              "subtitle": "Stiell IG et al., NEJM 2003;349:2510–2518 — CCR more sensitive/specific than NEXUS in ambulatory stable patients",
+              "subtitle": "Stiell IG et al., NEJM 2003;349:2510–2518. CCR more sensitive/specific than NEXUS in ambulatory stable patients",
               "url": "https://pubmed.ncbi.nlm.nih.gov/14534335/"
             },
             {
               "label": "(c)",
               "title": "Out-of-Hospital Spinal Immobilisation: Its Effect on Neurologic Injury",
-              "subtitle": "Hauswald M et al., Academic Emergency Medicine 1998;5:214–219 — No benefit of routine immobilisation demonstrated; supports selective spinal management",
+              "subtitle": "Hauswald M et al., Academic Emergency Medicine 1998;5:214–219. No benefit of routine immobilisation demonstrated; supports selective spinal management",
               "url": "https://pubmed.ncbi.nlm.nih.gov/9523928/"
             }
           ],
@@ -1374,14 +1374,14 @@
             },
             {
               "label": "(b)",
-              "title": "ATLS Advanced Trauma Life Support — Thoracic Trauma Chapter",
+              "title": "ATLS Advanced Trauma Life Support, Thoracic Trauma Chapter",
               "subtitle": "American College of Surgeons, 10th Edition, 2018",
               "url": "https://www.facs.org/quality-programs/trauma/atls/"
             },
             {
               "label": "(b)",
               "title": "NAEMSP Prehospital Trauma Compendium: Traumatic Pneumothorax Care",
-              "subtitle": "NAEMSP, 2024 — Needle thoracostomy first-line; high failure rate at 2nd ICS MCL; 4th/5th ICS AAL emerging as preferred site",
+              "subtitle": "NAEMSP, 2024. Needle thoracostomy first-line; high failure rate at 2nd ICS MCL; 4th/5th ICS AAL emerging as preferred site",
               "url": "https://www.tandfonline.com/doi/full/10.1080/10903127.2024.2416978"
             },
             {
@@ -1405,7 +1405,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Opioid Toxicity",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology, Opioid Toxicity",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1418,13 +1418,13 @@
             {
               "label": "(b)",
               "title": "RCEM Acute Opioid Toxicity Best Practice Guideline",
-              "subtitle": "Royal College of Emergency Medicine UK, 2024 — Titrate naloxone to breathing, not consciousness; infusion for long-acting opioids",
+              "subtitle": "Royal College of Emergency Medicine UK, 2024. Titrate naloxone to breathing, not consciousness; infusion for long-acting opioids",
               "url": "https://rcem.ac.uk/wp-content/uploads/2024/05/Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf"
             },
             {
               "label": "(c)",
               "title": "The Optimal Initial Dose and Route of Naloxone Administration: A Systematic Literature Review",
-              "subtitle": "PMC 2024 — IM 0.4 mg and IN 2–4 mg comparable; IM has faster onset",
+              "subtitle": "PMC 2024. IM 0.4 mg and IN 2–4 mg comparable; IM has faster onset",
               "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10878679/"
             },
             {
@@ -1443,7 +1443,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Carbon Monoxide",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology, Carbon Monoxide",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1456,7 +1456,7 @@
             {
               "label": "(c)",
               "title": "Hyperbaric Oxygen for Acute Carbon Monoxide Poisoning RCT",
-              "subtitle": "Weaver LK et al., NEJM 2002;347:1057–1067 — HBO₂ vs. normobaric O₂ reduced cognitive sequelae at 6 weeks (25% vs 46%)",
+              "subtitle": "Weaver LK et al., NEJM 2002;347:1057–1067. HBO₂ vs. normobaric O₂ reduced cognitive sequelae at 6 weeks (25% vs 46%)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/12362006/"
             },
             {
@@ -1476,7 +1476,7 @@
             {
               "label": "(a)",
               "title": "Serotonin Toxicity: A Practical Approach to Diagnosis and Treatment",
-              "subtitle": "Isbister GK, Buckley NA, Whyte IM, MJA 2007;187(6):361–365 — Australian-authored; Hunter Criteria, cyproheptadine, benzodiazepines",
+              "subtitle": "Isbister GK, Buckley NA, Whyte IM, MJA 2007;187(6):361–365. Australian-authored; Hunter Criteria, cyproheptadine, benzodiazepines",
               "url": "https://pubmed.ncbi.nlm.nih.gov/17908026/"
             },
             {
@@ -1487,14 +1487,14 @@
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology — Serotonin Toxicity",
+              "title": "Therapeutic Guidelines: Toxicology, Serotonin Toxicity",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
             {
               "label": "(c)",
               "title": "The Hunter Serotonin Toxicity Criteria: Simple and Accurate Diagnostic Decision Rules",
-              "subtitle": "Dunkley EJC, Isbister GK et al., QJM 2003;96(9):635–642 — Hunter Criteria validated in prospective cohort; more specific than Sternbach criteria",
+              "subtitle": "Dunkley EJC, Isbister GK et al., QJM 2003;96(9):635–642. Hunter Criteria validated in prospective cohort; more specific than Sternbach criteria",
               "url": "https://pubmed.ncbi.nlm.nih.gov/12897292/"
             },
             {
@@ -1513,14 +1513,14 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology and Toxinology — TCA Toxicity",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology, TCA Toxicity",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
             {
               "label": "(c)",
               "title": "Tricyclic Antidepressant Overdose: A Review",
-              "subtitle": "Kerr GW, McGuffie AC, Wilkie S, Emergency Medicine Journal 2001;18:236–241 — NaHCO₃ narrows QRS and reverses hypotension via sodium channel blockade",
+              "subtitle": "Kerr GW, McGuffie AC, Wilkie S, Emergency Medicine Journal 2001;18:236–241. NaHCO₃ narrows QRS and reverses hypotension via sodium channel blockade",
               "url": "https://pubmed.ncbi.nlm.nih.gov/11350282/"
             }
           ],
@@ -1533,7 +1533,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Organophosphates",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology, Organophosphates",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1546,13 +1546,13 @@
             {
               "label": "(b)",
               "title": "AHA Management of Life-Threatening Poisonings 2023",
-              "subtitle": "American Heart Association — Atropine immediately for bronchospasm/secretions; pralidoxime as adjunct in early presentation",
+              "subtitle": "American Heart Association. Atropine immediately for bronchospasm/secretions; pralidoxime as adjunct in early presentation",
               "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001122"
             },
             {
               "label": "(c)",
               "title": "Pharmacological Treatment of Organophosphorus Insecticide Poisoning: The Evidence",
-              "subtitle": "Eddleston M et al., QJM 2004;97(8):525–531 — Atropine is the cornerstone; pralidoxime evidence base contested",
+              "subtitle": "Eddleston M et al., QJM 2004;97(8):525–531. Atropine is the cornerstone; pralidoxime evidence base contested",
               "url": "https://pubmed.ncbi.nlm.nih.gov/15256611/"
             }
           ],
@@ -1565,7 +1565,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Addiction Medicine — Alcohol Withdrawal",
+              "title": "Therapeutic Guidelines: Addiction Medicine, Alcohol Withdrawal",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1578,7 +1578,7 @@
             {
               "label": "(c)",
               "title": "Assessment of Alcohol Withdrawal: The CIWA-Ar Scale",
-              "subtitle": "Sullivan JT et al., British Journal of Addiction 1989;84:1353–1357 — Validated severity scale guiding benzodiazepine dosing",
+              "subtitle": "Sullivan JT et al., British Journal of Addiction 1989;84:1353–1357. Validated severity scale guiding benzodiazepine dosing",
               "url": "https://pubmed.ncbi.nlm.nih.gov/2597811/"
             }
           ],
@@ -1615,13 +1615,13 @@
             {
               "label": "(c)",
               "title": "WOMAN Trial: Effect of Early Tranexamic Acid on Mortality in Postpartum Haemorrhage",
-              "subtitle": "WOMAN Trial Collaborators, Lancet 2017;389:2105–2116 — TXA within 3 h reduced PPH mortality (RR 0.81, n=20,060)",
+              "subtitle": "WOMAN Trial Collaborators, Lancet 2017;389:2105–2116. TXA within 3 h reduced PPH mortality (RR 0.81, n=20,060)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/28456509/"
             },
             {
               "label": "(c)",
-              "title": "Uterotonic Drugs in Prevention and Management of PPH in Prehospital Deliveries — Systematic Review",
-              "subtitle": "Healthcare 2025 — Supportive evidence for prehospital oxytocin by EMS in unplanned OOH birth",
+              "title": "Uterotonic Drugs in Prevention and Management of PPH in Prehospital Deliveries (Systematic Review)",
+              "subtitle": "Healthcare 2025. Supportive evidence for prehospital oxytocin by EMS in unplanned OOH birth",
               "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12071287/"
             }
           ],
@@ -1653,7 +1653,7 @@
             {
               "label": "(c)",
               "title": "Magpie Trial: Do Women with Pre-eclampsia Benefit from Magnesium Sulphate?",
-              "subtitle": "Magpie Trial Collaborative Group, Lancet 2002;359:1877–1890 — MgSO₄ halved eclampsia risk (0.8% vs 1.9%), n=10,141",
+              "subtitle": "Magpie Trial Collaborative Group, Lancet 2002;359:1877–1890. MgSO₄ halved eclampsia risk (0.8% vs 1.9%), n=10,141",
               "url": "https://pubmed.ncbi.nlm.nih.gov/12057549/"
             }
           ],
@@ -1673,7 +1673,7 @@
             {
               "label": "(a)",
               "title": "Queensland Clinical Guidelines: Maternity and Neonatal",
-              "subtitle": "Queensland Health — Cord prolapse, preterm labour, shoulder dystocia, breech delivery",
+              "subtitle": "Queensland Health. Cord prolapse, preterm labour, shoulder dystocia, breech delivery",
               "url": "https://www.health.qld.gov.au/qcg"
             },
             {
@@ -1715,20 +1715,20 @@
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Endocrinology — Diabetes",
+              "title": "Therapeutic Guidelines: Endocrinology, Diabetes",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
             {
               "label": "(b)",
               "title": "American Diabetes Association Standards of Care in Diabetes 2024",
-              "subtitle": "Diabetes Care 2024 — Glucose 15–20 g oral if conscious; IV dextrose or IM glucagon if unconscious",
+              "subtitle": "Diabetes Care 2024. Glucose 15–20 g oral if conscious; IV dextrose or IM glucagon if unconscious",
               "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S295/153950/"
             },
             {
               "label": "(c)",
               "title": "Mechanisms of Hypoglycemia-Associated Autonomic Failure in Diabetes",
-              "subtitle": "Cryer PE, NEJM 2013;369:362–372 — Impaired counterregulatory response underpins severe hypoglycaemia risk",
+              "subtitle": "Cryer PE, NEJM 2013;369:362–372. Impaired counterregulatory response underpins severe hypoglycaemia risk",
               "url": "https://pubmed.ncbi.nlm.nih.gov/23883381/"
             }
           ],
@@ -1741,7 +1741,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Antibiotic — Central Nervous System Infections",
+              "title": "Therapeutic Guidelines: Antibiotic, Central Nervous System Infections",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -1760,7 +1760,7 @@
             {
               "label": "(c)",
               "title": "Dexamethasone in Adults with Bacterial Meningitis",
-              "subtitle": "de Gans J, van de Beek D, NEJM 2002;347:1549–1556 — Dexamethasone before/with first antibiotic reduced unfavourable outcomes (RR 0.59)",
+              "subtitle": "de Gans J, van de Beek D, NEJM 2002;347:1549–1556. Dexamethasone before/with first antibiotic reduced unfavourable outcomes (RR 0.59)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/12432042/"
             }
           ],
@@ -1792,7 +1792,7 @@
             {
               "label": "(c)",
               "title": "What Low Back Pain Is and Why We Need to Pay Attention",
-              "subtitle": "Hartvigsen J et al., Lancet 2018;391:2356–2367 — Active self-management superior to passive treatments; exercise first-line",
+              "subtitle": "Hartvigsen J et al., Lancet 2018;391:2356–2367. Active self-management superior to passive treatments; exercise first-line",
               "url": "https://pubmed.ncbi.nlm.nih.gov/29573870/"
             }
           ],
@@ -1805,20 +1805,20 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Emergency Medicine — Rhabdomyolysis",
+              "title": "Therapeutic Guidelines: Emergency Medicine, Rhabdomyolysis",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
             {
               "label": "(c)",
               "title": "Rhabdomyolysis and Acute Kidney Injury",
-              "subtitle": "Bosch X, Poch E, Grau JM, NEJM 2009;361:62–72 — Aggressive IV crystalloid (250–1000 mL/h) to maintain UO 200–300 mL/h prevents AKI",
+              "subtitle": "Bosch X, Poch E, Grau JM, NEJM 2009;361:62–72. Aggressive IV crystalloid (250–1000 mL/h) to maintain UO 200–300 mL/h prevents AKI",
               "url": "https://pubmed.ncbi.nlm.nih.gov/19571284/"
             },
             {
               "label": "(c)",
               "title": "Early Management of Shock and Prophylaxis of AKI in Traumatic Rhabdomyolysis",
-              "subtitle": "Better OS, Stein JH, NEJM 1990;322:825–829 — Aggressive IV fluids before extrication prevents acute kidney injury",
+              "subtitle": "Better OS, Stein JH, NEJM 1990;322:825–829. Aggressive IV fluids before extrication prevents acute kidney injury",
               "url": "https://pubmed.ncbi.nlm.nih.gov/2154698/"
             }
           ],
@@ -1848,14 +1848,14 @@
             },
             {
               "label": "(b)",
-              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances — Accidental Hypothermia",
+              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances, Accidental Hypothermia",
               "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219",
               "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
             },
             {
               "label": "(c)",
               "title": "Accidental Hypothermia",
-              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938 — Swiss staging guides field decisions; no death until warm and dead",
+              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938. Swiss staging guides field decisions; no death until warm and dead",
               "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
             }
           ],
@@ -1887,7 +1887,7 @@
             {
               "label": "(c)",
               "title": "Cold Water Immersion: The Gold Standard for Exertional Heatstroke Treatment",
-              "subtitle": "Casa DJ et al., Journal of Athletic Training 2007;42:333–334 — Ice-water immersion fastest cooling method (0.35°C/min); most effective for exertional heat stroke",
+              "subtitle": "Casa DJ et al., Journal of Athletic Training 2007;42:333–334. Ice-water immersion fastest cooling method (0.35°C/min); most effective for exertional heat stroke",
               "url": "https://pubmed.ncbi.nlm.nih.gov/18074294/"
             }
           ],
@@ -1906,26 +1906,26 @@
             },
             {
               "label": "(a)",
-              "title": "ANZCOR Guideline 9.4.1: First Aid Management of Australian Snake Bite and Guideline 9.4.8: Envenomation — Pressure Immobilisation Technique",
+              "title": "ANZCOR Guideline 9.4.1: First Aid Management of Australian Snake Bite and Guideline 9.4.8: Envenomation, Pressure Immobilisation Technique",
               "subtitle": "Australian Resuscitation Council, 2024",
               "url": "https://resus.org.au/guidelines/"
             },
             {
               "label": "(a)",
               "title": "NSW Health Snake and Spider Bites Clinical Management GL2024_007",
-              "subtitle": "NSW Health, 2024 — Updated clinical pathway for identification, antivenom selection, and monitoring",
+              "subtitle": "NSW Health, 2024. Updated clinical pathway for identification, antivenom selection, and monitoring",
               "url": "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/GL2024_007.pdf"
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Snake Bite",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology, Snake Bite",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
             {
               "label": "(c)",
               "title": "Snake Bite: A Current Approach to Management",
-              "subtitle": "Isbister GK et al., Australian Prescriber 2006;29(5):125–129 — Australian-specific clinical approach; antivenom selection and PIB evidence",
+              "subtitle": "Isbister GK et al., Australian Prescriber 2006;29(5):125–129. Australian-specific clinical approach; antivenom selection and PIB evidence",
               "url": "https://pubmed.ncbi.nlm.nih.gov/16930660/"
             }
           ],
@@ -1951,7 +1951,7 @@
             {
               "label": "(c)",
               "title": "Decompression Illness",
-              "subtitle": "Vann RD, Butler FK, Mitchell SJ, Moon RE, Lancet 2011;377:153–164 — 100% O₂ accelerates nitrogen elimination; HBOT remains definitive treatment",
+              "subtitle": "Vann RD, Butler FK, Mitchell SJ, Moon RE, Lancet 2011;377:153–164. 100% O₂ accelerates nitrogen elimination; HBOT remains definitive treatment",
               "url": "https://pubmed.ncbi.nlm.nih.gov/21239032/"
             }
           ],
@@ -1969,7 +1969,7 @@
           "sources": [
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Psychotropic — Acute Behavioural Disturbance",
+              "title": "Therapeutic Guidelines: Psychotropic, Acute Behavioural Disturbance",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -2007,7 +2007,7 @@
             },
             {
               "label": "(a)",
-              "title": "Therapeutic Guidelines: Psychotropic — Acute Behavioural Disturbance",
+              "title": "Therapeutic Guidelines: Psychotropic, Acute Behavioural Disturbance",
               "subtitle": "eTG Complete, 2024",
               "url": "https://tg.org.au/"
             },
@@ -2020,13 +2020,13 @@
             {
               "label": "(c)",
               "title": "DORM RCT: Droperidol versus Midazolam for Acute Agitation in the Emergency Department",
-              "subtitle": "Calver LA et al., Annals of Emergency Medicine 2015;66:447–449 — Droperidol 10 mg IM superior to midazolam for prehospital agitation",
+              "subtitle": "Calver LA et al., Annals of Emergency Medicine 2015;66:447–449. Droperidol 10 mg IM superior to midazolam for prehospital agitation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/25455068/"
             },
             {
               "label": "(c)",
               "title": "SIESTA Study: Droperidol plus Midazolam versus Either Alone for Extreme Agitation",
-              "subtitle": "Isbister GK et al., Annals of Emergency Medicine 2017 — Combination faster than either alone for extreme agitation",
+              "subtitle": "Isbister GK et al., Annals of Emergency Medicine 2017. Combination faster than either alone for extreme agitation",
               "url": "https://pubmed.ncbi.nlm.nih.gov/27993451/"
             }
           ],
