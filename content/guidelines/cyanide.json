@@ -51,7 +51,7 @@
       "id": "cyanide-additional-notes",
       "type": "additional_notes",
       "title": "Additional Information",
-      "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life- threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
+      "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life-threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
       "sortOrder": 5
     }
   ],
@@ -61,6 +61,6 @@
   ],
   "relatedGuidelineIDs": [],
   "isFreeContent": true,
-  "version": 3,
-  "lastUpdated": "2026-05-15T00:00:00Z"
+  "version": 4,
+  "lastUpdated": "2026-05-30T00:00:00Z"
 }

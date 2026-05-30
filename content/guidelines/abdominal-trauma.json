@@ -3,8 +3,8 @@
   "title": "Abdominal Trauma",
   "category": "trauma",
   "isFreeContent": true,
-  "version": 4,
-  "lastUpdated": "2026-05-16T09:59:02Z",
+  "version": 5,
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "tags": [
     "abdominal",
     "trauma",
@@ -33,7 +33,7 @@
       "id": "abdominal-trauma-overview",
       "type": "overview",
       "title": "Overview",
-      "content": "Abdominal trauma refers to any injury to the abdomen, resulting from blunt or penetrating mechanisms. It may involve damage to solid organs (e.g., liver, spleen), hollow viscera (e.g., bowel), blood vessels, or the abdominal wall. Abdominal trauma can lead to life- threatening internal bleeding and organ dysfunction. Many serious abdominal injuries my appear insignificant thus making it difficult to predict severity. The proximity of the organs within the torso makes distinguishing between abdomen, chest and pelvic injuries difficult.\nAssociated injuries outside that cavity should be considered in all patients.",
+      "content": "Abdominal trauma refers to any injury to the abdomen, resulting from blunt or penetrating mechanisms. It may involve damage to solid organs (e.g., liver, spleen), hollow viscera (e.g., bowel), blood vessels, or the abdominal wall. Abdominal trauma can lead to life-threatening internal bleeding and organ dysfunction. Many serious abdominal injuries may appear insignificant thus making it difficult to predict severity. The proximity of the organs within the torso makes distinguishing between abdomen, chest and pelvic injuries difficult.\nAssociated injuries outside that cavity should be considered in all patients.",
       "sortOrder": 0
     },
     {

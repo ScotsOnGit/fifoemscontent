@@ -4508,7 +4508,7 @@
                 "id": "cyanide-additional-notes",
                 "type": "additional_notes",
                 "title": "Additional Information",
-                "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life- threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
+                "content": "- Caution is advised if the cyanide compound is acetonitrile (found in industry), life-threatening toxicity can be delayed up to 24 hours later\n- Patients need to be tested (urine sample for thiocyanate) for chronic cyanide toxicity 2 -3 days after exposure so arrangements for this should be made\n- Always offer engagement with Mind Matters or EAP if applicable",
                 "sortOrder": 5
             },
             {
@@ -4525,8 +4525,8 @@
         ],
         "relatedGuidelineIDs": [],
         "isFreeContent": true,
-        "version": 1,
-        "lastUpdated": "2025-01-15T00:00:00Z"
+        "version": 4,
+        "lastUpdated": "2026-05-30T00:00:00Z"
     },
     {
         "id": "drug-induced-hyperthermia",
@@ -4906,7 +4906,7 @@
                 "id": "abdominal-trauma-overview",
                 "type": "overview",
                 "title": "Overview",
-                "content": "Abdominal trauma refers to any injury to the abdomen, resulting from blunt or penetrating mechanisms. It may involve damage to solid organs (e.g., liver, spleen), hollow viscera (e.g., bowel), blood vessels, or the abdominal wall. Abdominal trauma can lead to life- threatening internal bleeding and organ dysfunction. Many serious abdominal injuries my appear insignificant thus making it difficult to predict severity. The proximity of the organs within the torso makes distinguishing between abdomen, chest and pelvic injuries difficult.\nAssociated injuries outside that cavity should be considered in all patients.",
+                "content": "Abdominal trauma refers to any injury to the abdomen, resulting from blunt or penetrating mechanisms. It may involve damage to solid organs (e.g., liver, spleen), hollow viscera (e.g., bowel), blood vessels, or the abdominal wall. Abdominal trauma can lead to life-threatening internal bleeding and organ dysfunction. Many serious abdominal injuries may appear insignificant thus making it difficult to predict severity. The proximity of the organs within the torso makes distinguishing between abdomen, chest and pelvic injuries difficult.\nAssociated injuries outside that cavity should be considered in all patients.",
                 "sortOrder": 0
             },
             {
@@ -4955,8 +4955,8 @@
         ],
         "relatedGuidelineIDs": [],
         "isFreeContent": true,
-        "version": 1,
-        "lastUpdated": "2025-01-15T00:00:00Z",
+        "version": 5,
+        "lastUpdated": "2026-05-30T00:00:00Z",
         "relatedCalculatorIDs": [
             "revised-trauma-score",
             "crams",
@@ -5946,7 +5946,7 @@
                 "id": "spinal-trauma-cord-injury-considerations",
                 "type": "considerations",
                 "title": "Considerations",
-                "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to immobilise the spine even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life- threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- All immersion patients without a GCS of 15 should be considered to have a potential spinal cord injury until proven otherwise\n - Paramedics can safely apply the nexus criteria and transport patients without spinal immobilisation but should do so with caution >65 years old\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due the working environment being remote",
+                "content": "- This CPG should not replace clinical judgment as there may be compelling reasons to immobilise the spine even if all the criteria for a low probability of injury are met\n- Patients with spinal cord injury are at a high risk of concomitant shock, haemorrhage and traumatic brain injury\n- The KED is inappropriate when rapid extrication is required for patients with life-threatening injuries and/or vital sign alterations. In this circumstance, use manual inline stabilisation with all appropriate resources for extrication\n- Patients under the influence of drugs and/or alcohol require additional assessment and questioning before ruling out a c-spine injury and caution must be used in this instance\n- All immersion patients without a GCS of 15 should be considered to have a potential spinal cord injury until proven otherwise\n - Paramedics can safely apply the nexus criteria and transport patients without spinal immobilisation but should do so with caution >65 years old\n- Hypotensive and tachycardic; consider other injuries\n- There is the potential for patient deterioration during lengthy evacuation due the working environment being remote",
                 "sortOrder": 2
             },
             {

@@ -76,7 +76,7 @@
     "ecg-rhythms/wellens-syndrome": 3,
     "ecg-rhythms/wpw-wolff-parkinson-white": 3,
     "guidelines/abdominal-pain": 5,
-    "guidelines/abdominal-trauma": 4,
+    "guidelines/abdominal-trauma": 5,
     "guidelines/achilles-tendinopathy": 1,
     "guidelines/acute-aortic-dissection": 3,
     "guidelines/acute-coronary-syndrome": 3,
@@ -122,7 +122,7 @@
     "guidelines/corrosives": 3,
     "guidelines/croup": 4,
     "guidelines/crush-injury": 5,
-    "guidelines/cyanide": 3,
+    "guidelines/cyanide": 4,
     "guidelines/deconditioning-and-graded-reconditioning": 1,
     "guidelines/dental-pain-non-traumatic": 3,
     "guidelines/diastasis-recti-screening": 1,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878001
   },
-  "lastUpdated": "2026-05-26T11:01:26Z",
+  "lastUpdated": "2026-05-30T00:00:00Z",
   "version": 21
 }
