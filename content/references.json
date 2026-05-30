@@ -488,7 +488,7 @@
       ]
     },
     {
-      "category": "Resuscitation Evidence",
+      "category": "Resuscitation",
       "items": [
         {
           "id": "refs-adult-resuscitation",
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "category": "Shock Evidence",
+      "category": "Shock",
       "items": [
         {
           "id": "refs-anaphylaxis",
@@ -864,7 +864,7 @@
       ]
     },
     {
-      "category": "Cardiac Evidence",
+      "category": "Cardiac",
       "items": [
         {
           "id": "refs-acs",
@@ -983,7 +983,7 @@
       ]
     },
     {
-      "category": "Respiratory Evidence",
+      "category": "Respiratory",
       "items": [
         {
           "id": "refs-asthma",
@@ -1102,7 +1102,7 @@
       ]
     },
     {
-      "category": "Neurological Evidence",
+      "category": "Neurological",
       "items": [
         {
           "id": "refs-stroke-tia",
@@ -1227,7 +1227,7 @@
       ]
     },
     {
-      "category": "Trauma Evidence",
+      "category": "Trauma",
       "items": [
         {
           "id": "refs-haemorrhage",
@@ -1396,7 +1396,7 @@
       ]
     },
     {
-      "category": "Toxicology Evidence",
+      "category": "Toxicology",
       "items": [
         {
           "id": "refs-opioid-toxicity",
@@ -1587,7 +1587,7 @@
       ]
     },
     {
-      "category": "Obstetric Evidence",
+      "category": "Obstetric",
       "items": [
         {
           "id": "refs-postpartum-haemorrhage",
@@ -1700,7 +1700,7 @@
       ]
     },
     {
-      "category": "Medical Evidence",
+      "category": "Medical",
       "items": [
         {
           "id": "refs-hypoglycaemia",
@@ -1827,7 +1827,7 @@
       ]
     },
     {
-      "category": "Environmental Evidence",
+      "category": "Environmental",
       "items": [
         {
           "id": "refs-hypothermia",
@@ -1960,7 +1960,7 @@
       ]
     },
     {
-      "category": "Mental Health Evidence",
+      "category": "Mental Health",
       "items": [
         {
           "id": "refs-mental-health",
