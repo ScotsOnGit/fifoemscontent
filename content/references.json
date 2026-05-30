@@ -486,6 +486,1553 @@
           "url": "https://australian.physio/advocacy/telehealth"
         }
       ]
+    },
+    {
+      "category": "Resuscitation Evidence",
+      "items": [
+        {
+          "id": "refs-adult-resuscitation",
+          "title": "Adult Resuscitation",
+          "subtitle": "Evidence basis for CPR, defibrillation, and drug timing",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 11.1–11.10: Adult Advanced Life Support",
+              "subtitle": "ARC/ANZCOR, 2021–2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "ILCOR CoSTR: Adult Advanced Life Support",
+              "subtitle": "International Liaison Committee on Resuscitation, 2024",
+              "url": "https://www.ilcor.org/"
+            },
+            {
+              "label": "(b)",
+              "title": "ERC Guidelines 2021: Adult Advanced Life Support",
+              "subtitle": "Soar J et al., Resuscitation 2021;161:115–151",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33773825/"
+            },
+            {
+              "label": "(b)",
+              "title": "AHA 2025 Guidelines for CPR and ECC — Part 9: Adult ALS",
+              "subtitle": "American Heart Association, Circulation 2025",
+              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001376"
+            },
+            {
+              "label": "(c)",
+              "title": "PARAMEDIC2 RCT: Epinephrine in Out-of-Hospital Cardiac Arrest",
+              "subtitle": "Perkins GD et al., NEJM 2018;379:711–721 — n=8,014; adrenaline improved ROSC and 30-day survival but not neurological recovery",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29791857/"
+            },
+            {
+              "label": "(c)",
+              "title": "ALPS RCT: Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Cardiac Arrest",
+              "subtitle": "Kudenchuk PJ et al., NEJM 2016;374:1711–1722 — amiodarone and lignocaine improved survival to hospital admission vs. placebo in witnessed VF/pVT",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27043165/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-hypothermic-cardiac-arrest",
+          "title": "Hypothermic Cardiac Arrest",
+          "subtitle": "Evidence for field CPR decisions and rewarming",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.3.3: First Aid for Hypothermia",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances — Accidental Hypothermia",
+              "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219 — No declaration of death until ≥32°C; withhold adrenaline below 30°C",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
+            },
+            {
+              "label": "(b)",
+              "title": "Wilderness Medical Society Clinical Practice Guidelines: Accidental Hypothermia",
+              "subtitle": "McIntosh SE et al., 2024 update",
+              "url": "https://wms.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "Accidental Hypothermia",
+              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938 — Swiss staging (HT I–IV) guides field decisions and hospital destination",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-post-resuscitation-care",
+          "title": "Post-Resuscitation Care (ROSC)",
+          "subtitle": "Evidence for targeted temperature management and post-ROSC targets",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 11.7 & 11.8: Post-Resuscitation Therapy and TTM",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://www.anzcor.org/"
+            },
+            {
+              "label": "(b)",
+              "title": "ILCOR CoSTR: Post-Cardiac Arrest Care",
+              "subtitle": "International Liaison Committee on Resuscitation, 2024",
+              "url": "https://www.ilcor.org/"
+            },
+            {
+              "label": "(b)",
+              "title": "ERC and ESICM Guidelines for Post-Resuscitation Care 2021",
+              "subtitle": "Nolan JP et al., Intensive Care Medicine 2021;47:369–421",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33765189/"
+            },
+            {
+              "label": "(b)",
+              "title": "AHA 2023 Focused Update on Targeted Temperature Management",
+              "subtitle": "American Heart Association — Avoid fever >37.7°C for ≥72 h; prehospital cold IV infusion: no benefit (Class III)",
+              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001149"
+            },
+            {
+              "label": "(c)",
+              "title": "TTM2 RCT: Hypothermia versus Normothermia After Out-of-Hospital Cardiac Arrest",
+              "subtitle": "Dankiewicz J et al., NEJM 2021;384:2283–2294 — No survival benefit for 33°C vs. 37.5°C; shifted practice toward fever avoidance",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34133859/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-traumatic-resuscitation",
+          "title": "Traumatic Resuscitation",
+          "subtitle": "Evidence for TXA, blood product ratios, and damage control resuscitation",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 11.10.1: Traumatic Arrest",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(a)",
+              "title": "RACS Early Management of Severe Trauma (EMST) Course Manual",
+              "subtitle": "Royal Australasian College of Surgeons, current edition",
+              "url": "https://www.surgeons.org/"
+            },
+            {
+              "label": "(b)",
+              "title": "ATLS Advanced Trauma Life Support",
+              "subtitle": "American College of Surgeons, 10th Edition, 2018",
+              "url": "https://www.facs.org/quality-programs/trauma/atls/"
+            },
+            {
+              "label": "(c)",
+              "title": "CRASH-2 Trial: Tranexamic Acid in Trauma with Significant Haemorrhage",
+              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32 — TXA within 3 hours reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20554319/"
+            },
+            {
+              "label": "(c)",
+              "title": "PROPPR RCT: Transfusion Ratios in Severe Trauma",
+              "subtitle": "Holcomb JB et al., JAMA 2015;313:471–482 — 1:1:1 ratio improved haemostasis and 24-hour survival",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25647203/"
+            },
+            {
+              "label": "(c)",
+              "title": "Damage Control Resuscitation: Directly Addressing the Early Coagulopathy of Trauma",
+              "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310 — Original DCR framework; permissive hypotension and haemostatic resuscitation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17297328/"
+            },
+            {
+              "label": "(c)",
+              "title": "Traumatic Cardiac Arrest: Who Are the Survivors?",
+              "subtitle": "Lockey DJ et al., Annals of Emergency Medicine 2006;48(3):240–244 — Informs criteria for initiating and continuing traumatic resuscitation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16934644/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-newborn-life-support",
+          "title": "Newborn Life Support",
+          "subtitle": "Evidence for neonatal resuscitation in unplanned prehospital delivery",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 13.1–13.10: Neonatal Resuscitation",
+              "subtitle": "Australian Resuscitation Council, 2021",
+              "url": "https://www.anzcor.org/home/neonatal-resuscitation/"
+            },
+            {
+              "label": "(a)",
+              "title": "RANZCOG Neonatal Resuscitation Guidance",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, 2023",
+              "url": "https://ranzcog.edu.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ILCOR CoSTR: Neonatal Life Support",
+              "subtitle": "International Liaison Committee on Resuscitation, 2024",
+              "url": "https://www.ilcor.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "2022 International Consensus on CPR and ECC Science: Neonatal Life Support",
+              "subtitle": "Wyckoff MH et al., Circulation 2022;146(25) — Initiate at 21% O₂; 3:1 compression-to-ventilation ratio",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36325907/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Shock Evidence",
+      "items": [
+        {
+          "id": "refs-anaphylaxis",
+          "title": "Anaphylaxis",
+          "subtitle": "Evidence for IM adrenaline, dosing, and observation periods",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ASCIA Acute Management of Anaphylaxis Guidelines",
+              "subtitle": "Australasian Society of Clinical Immunology and Allergy, 2024",
+              "url": "https://www.allergy.org.au/hp/anaphylaxis"
+            },
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.2.5: First Aid for Anaphylaxis",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "World Allergy Organization Guidelines for the Assessment and Management of Anaphylaxis",
+              "subtitle": "Simons FER et al., World Allergy Organization Journal 2011;4:13–37",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23268426/"
+            },
+            {
+              "label": "(b)",
+              "title": "Anaphylaxis: A 2023 Practice Parameter Update",
+              "subtitle": "Lieberman P et al., Annals of Allergy, Asthma & Immunology, 2023",
+              "url": "https://www.annallergy.org/article/S1081-1206(23)01304-2/fulltext"
+            },
+            {
+              "label": "(b)",
+              "title": "GA2LEN Anaphylaxis 2024 Consensus Report",
+              "subtitle": "Journal of Allergy and Clinical Immunology, 2025 — New clinical criteria; epinephrine every 5–15 min as needed",
+              "url": "https://www.jacionline.org/article/S0091-6749(25)00072-7/fulltext"
+            },
+            {
+              "label": "(c)",
+              "title": "Adrenaline for the Treatment of Anaphylaxis — Cochrane Review",
+              "subtitle": "Sheikh A et al., 2008 — No RCT evidence for antihistamines/corticosteroids as first-line; adrenaline remains the only evidence-based first-line drug",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19160185/"
+            },
+            {
+              "label": "(c)",
+              "title": "Incidence of Clinically Important Biphasic Reactions in Anaphylaxis",
+              "subtitle": "Grunau BE et al., Annals of Emergency Medicine 2014;63:736–744 — Biphasic reactions ~5%; supports minimum 4-hour observation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24768543/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-sepsis",
+          "title": "Sepsis & Septic Shock",
+          "subtitle": "Evidence for early antibiotics, fluid resuscitation, and vasopressors",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Australian Sepsis Network / ACSQHC Sepsis Clinical Care Standard",
+              "subtitle": "Australian Commission on Safety and Quality in Health Care, 2022",
+              "url": "https://www.safetyandquality.gov.au/standards/clinical-care-standards/sepsis-clinical-care-standard"
+            },
+            {
+              "label": "(b)",
+              "title": "Surviving Sepsis Campaign International Guidelines 2021",
+              "subtitle": "Evans L et al., Intensive Care Medicine 2021;47:1181–1247",
+              "url": "https://www.sccm.org/survivingsepsiscampaign"
+            },
+            {
+              "label": "(b)",
+              "title": "Surviving Sepsis Campaign Guidelines 2026",
+              "subtitle": "Society of Critical Care Medicine / ESICM, 2026",
+              "url": "https://sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026"
+            },
+            {
+              "label": "(c)",
+              "title": "Sepsis-3: The Third International Consensus Definitions for Sepsis and Septic Shock",
+              "subtitle": "Singer M et al., JAMA 2016;315(8):801–810 — Defines sepsis; qSOFA as prehospital screening tool",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26903338/"
+            },
+            {
+              "label": "(c)",
+              "title": "ARISE RCT: Goal-Directed Resuscitation in Early Septic Shock",
+              "subtitle": "ARISE Investigators, NEJM 2014;371:1496–1506 — EGDT not superior to usual care; flexible resuscitation targets supported",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25272316/"
+            },
+            {
+              "label": "(c)",
+              "title": "SMART RCT: Balanced Crystalloids versus Saline in Critically Ill Adults",
+              "subtitle": "Semler MW et al., NEJM 2018;378:829–839 — Balanced crystalloids reduced major adverse kidney events vs. normal saline",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29485925/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-cardiogenic-shock",
+          "title": "Cardiogenic Shock",
+          "subtitle": "Evidence for vasopressor choice and mechanical support",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "NHF/CSANZ Guidelines for Prevention, Detection and Management of Heart Failure in Australia",
+              "subtitle": "National Heart Foundation & CSANZ, 2018",
+              "url": "https://www.heartfoundation.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2021",
+              "subtitle": "McDonagh TA et al., European Heart Journal 2021;42:3599–3726",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33959926/"
+            },
+            {
+              "label": "(b)",
+              "title": "2025 ACC Expert Consensus Statement on Cardiogenic Shock",
+              "subtitle": "Morrow DA et al., JACC 2025 — Norepinephrine as first-line vasopressor; SCAI shock staging",
+              "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.02.018"
+            },
+            {
+              "label": "(c)",
+              "title": "SOAP-II RCT: Dopamine versus Norepinephrine in Shock",
+              "subtitle": "De Backer D et al., NEJM 2010;362:779–789 — Dopamine had more arrhythmias and excess mortality in cardiogenic shock subgroup",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20200382/"
+            },
+            {
+              "label": "(c)",
+              "title": "CULPRIT-SHOCK RCT: PCI Strategies in Cardiogenic Shock",
+              "subtitle": "Thiele H et al., NEJM 2017;377:2419–2432 — Culprit-only PCI: lower 30-day mortality than immediate multivessel PCI",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28955301/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-hypovolaemic-shock",
+          "title": "Hypovolaemic Shock",
+          "subtitle": "Evidence for permissive hypotension, TXA, and fluid choice",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 — Critical Bleeding / Massive Transfusion",
+              "subtitle": "Australian Government NBA, 2011 (updated)",
+              "url": "https://www.blood.gov.au/pbm-guidelines"
+            },
+            {
+              "label": "(b)",
+              "title": "ATLS Advanced Trauma Life Support, 10th Edition — Chapter: Shock",
+              "subtitle": "American College of Surgeons, 2018",
+              "url": "https://www.facs.org/quality-programs/trauma/atls/"
+            },
+            {
+              "label": "(b)",
+              "title": "European Guideline on Management of Bleeding and Coagulopathy Following Major Trauma",
+              "subtitle": "Spahn DR et al., Critical Care 2019 — Permissive hypotension (SBP 80–90 mmHg) until haemostasis in penetrating trauma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31488185/"
+            },
+            {
+              "label": "(c)",
+              "title": "CRASH-2 Trial: Tranexamic Acid in Traumatic Haemorrhage",
+              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20554319/"
+            },
+            {
+              "label": "(c)",
+              "title": "Damage Control Resuscitation",
+              "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17297328/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Cardiac Evidence",
+      "items": [
+        {
+          "id": "refs-acs",
+          "title": "Acute Coronary Syndrome",
+          "subtitle": "Evidence for oxygen avoidance, aspirin, and prehospital treatment",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "NHF/CSANZ Guidelines for the Management of Acute Coronary Syndromes",
+              "subtitle": "National Heart Foundation & CSANZ, 2016 (updated)",
+              "url": "https://www.heartfoundation.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "NSW Health NSW Chest Pain Pathway",
+              "subtitle": "NSW Health, ACI, current edition",
+              "url": "https://aci.health.nsw.gov.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ESC Guidelines for the Management of Acute Coronary Syndromes 2023",
+              "subtitle": "Byrne RA et al., European Heart Journal 2023;44:3720–3826",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37622654/"
+            },
+            {
+              "label": "(b)",
+              "title": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes",
+              "subtitle": "Circulation 2025",
+              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309"
+            },
+            {
+              "label": "(c)",
+              "title": "DETO2X-AMI RCT: Oxygen Therapy in Suspected Acute Myocardial Infarction",
+              "subtitle": "Hofmann R et al., NEJM 2017;377:1240–1249 — Routine O₂ in AMI with SpO₂ ≥90%: no mortality benefit at 1 year (n=6,629)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28844200/"
+            },
+            {
+              "label": "(c)",
+              "title": "AVOID RCT: Air Versus Oxygen in ST-Segment–Elevation Myocardial Infarction",
+              "subtitle": "Stub D et al., Circulation 2015;131:2143–2150 — Prehospital O₂ in STEMI increased myocardial injury and infarct size at 6 months",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25902037/"
+            },
+            {
+              "label": "(c)",
+              "title": "Prehospital Aspirin and Nitroglycerin for ACS: A Systematic Review",
+              "subtitle": "Holmberg MJ et al., Resuscitation 2022 — Prehospital aspirin associated with reduced 30-day mortality",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9535127/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-heart-failure",
+          "title": "Acute Decompensated Heart Failure",
+          "subtitle": "Evidence for CPAP, nitrates, and oxygen in cardiogenic pulmonary oedema",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "NHF/CSANZ Guidelines for Prevention, Detection and Management of Heart Failure in Australia",
+              "subtitle": "National Heart Foundation & CSANZ, 2018",
+              "url": "https://www.heartfoundation.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2021",
+              "subtitle": "McDonagh TA et al., European Heart Journal 2021;42:3599–3726",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33959926/"
+            },
+            {
+              "label": "(c)",
+              "title": "3CPO RCT: Noninvasive Ventilation in Acute Cardiogenic Pulmonary Edema",
+              "subtitle": "Gray A et al., NEJM 2008;359:142–151 — CPAP/NIPPV reduced dyspnoea; no 7-day mortality benefit vs. standard oxygen",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18565860/"
+            },
+            {
+              "label": "(c)",
+              "title": "High-dose GTN in Sympathetic Crashing Acute Pulmonary Edema (SCAPE)",
+              "subtitle": "Levy P et al., medrxiv 2021 — High-dose nitroglycerin improved symptom resolution, reduced intubation",
+              "url": "https://www.medrxiv.org/content/10.1101/2021.10.17.21265081"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-cardiac-arrhythmia",
+          "title": "Cardiac Arrhythmia",
+          "subtitle": "Evidence for SVT management, antiarrhythmics, and cardioversion",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 11.2: Protocols for Adult Advanced Life Support (peri-arrest arrhythmias)",
+              "subtitle": "Australian Resuscitation Council, 2021–2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "ESC Guidelines for the Management of Patients with Ventricular Arrhythmias 2022",
+              "subtitle": "Hindricks G et al., European Heart Journal 2022;43:3997–4126",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34453416/"
+            },
+            {
+              "label": "(b)",
+              "title": "ACC/AHA/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation 2023",
+              "subtitle": "American College of Cardiology / AHA / HRS, 2023",
+              "url": "https://www.ahajournals.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "REVERT RCT: Modified Valsalva Manoeuvre for Emergency Treatment of Supraventricular Tachycardias",
+              "subtitle": "Appelboam A et al., Lancet 2015;386:1747–1753 — Modified Valsalva (supine leg raise) doubled SVT cardioversion rate (43% vs 17%)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26314489/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Respiratory Evidence",
+      "items": [
+        {
+          "id": "refs-asthma",
+          "title": "Asthma",
+          "subtitle": "Evidence for salbutamol, magnesium, adrenaline, and ICS-formoterol",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Australian Asthma Handbook",
+              "subtitle": "National Asthma Council Australia, Version 2.2, 2022 (updated 2024)",
+              "url": "https://www.asthmahandbook.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Respiratory — Asthma",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "GINA Global Strategy for Asthma Management and Prevention 2024",
+              "subtitle": "Global Initiative for Asthma, 2024",
+              "url": "https://ginasthma.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "PRACTICAL RCT: Budesonide-Formoterol as Needed for Mild Asthma",
+              "subtitle": "Beasley R et al., NEJM 2019;380:2020–2030 — As-needed ICS-formoterol superior to SABA alone; basis for ICS-formoterol reliever recommendation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31112386/"
+            },
+            {
+              "label": "(c)",
+              "title": "3Mg RCT: IV or Nebulised Magnesium Sulphate versus Standard Therapy for Severe Acute Asthma",
+              "subtitle": "Goodacre S et al., Lancet Respiratory Medicine 2013;1:293–300 — Nebulised MgSO₄ improved lung function at 60 min in severe asthma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24461892/"
+            },
+            {
+              "label": "(c)",
+              "title": "IV vs. Nebulised Beta2-Agonists for Acute Asthma — Cochrane Review",
+              "subtitle": "Travers AH et al., Cochrane 2012 — No benefit of IV over nebulised salbutamol; nebulised preferred prehospital",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22592711/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-copd",
+          "title": "Chronic Obstructive Pulmonary Disease",
+          "subtitle": "Evidence for titrated oxygen and bronchodilators in acute exacerbation",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Lung Foundation Australia COPD-X Plan",
+              "subtitle": "Lung Foundation Australia, 2024",
+              "url": "https://lungfoundation.com.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Respiratory — COPD",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "GOLD Global Strategy for the Diagnosis, Management, and Prevention of COPD 2024",
+              "subtitle": "Global Initiative for Chronic Obstructive Lung Disease, 2024",
+              "url": "https://goldcopd.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "Effect of High Flow Oxygen on Mortality in COPD Patients in the Prehospital Setting",
+              "subtitle": "Austin MA et al., BMJ 2010;341:c5462 — Titrated O₂ (SpO₂ 88–92%) reduced prehospital COPD mortality by 58%",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20406912/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-pulmonary-embolus",
+          "title": "Pulmonary Embolus",
+          "subtitle": "Evidence for risk stratification, anticoagulation, and thrombolysis",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Thrombosis & Haemostasis Society of Australia and New Zealand Clinical Practice Guidelines for VTE",
+              "subtitle": "THANZ, current edition",
+              "url": "https://www.thanz.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism 2019",
+              "subtitle": "Konstantinides SV et al., European Heart Journal 2020;41:543–603",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31504429/"
+            },
+            {
+              "label": "(b)",
+              "title": "ACC/AHA 2026 Acute Pulmonary Embolism Guideline",
+              "subtitle": "JACC 2025",
+              "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.12.023"
+            },
+            {
+              "label": "(c)",
+              "title": "Wells PE Score: Derivation of a Simple Clinical Model to Categorize Patients' Probability of Pulmonary Embolism",
+              "subtitle": "Wells PS et al., Thrombosis and Haemostasis 2000;83(3):416–420",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10737280/"
+            },
+            {
+              "label": "(c)",
+              "title": "PEITHO RCT: Fibrinolysis for Patients with Intermediate-Risk Pulmonary Embolism",
+              "subtitle": "Meyer G et al., NEJM 2014;370:1402–1411 — Tenecteplase reduced haemodynamic decompensation but increased major bleeding",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24716680/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Neurological Evidence",
+      "items": [
+        {
+          "id": "refs-stroke-tia",
+          "title": "Stroke & TIA",
+          "subtitle": "Evidence for thrombolysis timing, blood pressure targets, and EVT transport",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Stroke Foundation Living Clinical Guidelines for Stroke Management",
+              "subtitle": "Stroke Foundation Australia, 2023",
+              "url": "https://informme.org.au/guidelines"
+            },
+            {
+              "label": "(b)",
+              "title": "AHA/ASA Guidelines for the Early Management of Patients With Acute Ischemic Stroke",
+              "subtitle": "Powers WJ et al., Stroke 2019 (updated 2024) — BP <185/110 pre-thrombolysis; <180/105 for 24 h post-thrombolysis",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31558551/"
+            },
+            {
+              "label": "(c)",
+              "title": "NINDS tPA Trial: Tissue Plasminogen Activator for Acute Ischemic Stroke",
+              "subtitle": "NINDS Investigators, NEJM 1995;333:1581–1587 — tPA within 3 h improved functional outcomes (NNT 8); foundation of thrombolysis",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/7477192/"
+            },
+            {
+              "label": "(c)",
+              "title": "ECASS-3: Thrombolysis 3 to 4.5 Hours After Acute Ischemic Stroke",
+              "subtitle": "Hacke W et al., NEJM 2008;359:1317–1329 — tPA benefit extended to 4.5 h with acceptable safety",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18815396/"
+            },
+            {
+              "label": "(c)",
+              "title": "Effect of Treatment Delay, Age, and Stroke Severity on IV Thrombolysis: A Meta-Analysis",
+              "subtitle": "Emberson J et al., Lancet 2014;384:1929–1935 — Every 15-min delay reduces good outcome by ~1%; basis for time-to-needle urgency",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25106063/"
+            },
+            {
+              "label": "(c)",
+              "title": "DAWN and DEFUSE-3 Trials: Endovascular Thrombectomy with Late-Window Imaging Selection",
+              "subtitle": "Nogueira RG et al. / Albers GW et al., NEJM 2017–2018 — EVT benefit up to 16–24 h; supports rapid transport regardless of late presentation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28678201/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-seizures",
+          "title": "Seizures",
+          "subtitle": "Evidence for prehospital benzodiazepines and second-line agents",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Neurology — Seizures and Status Epilepticus",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "ILAE Updated Classification of Seizure Types",
+              "subtitle": "International League Against Epilepsy, 2017",
+              "url": "https://www.ilae.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "RAMPART RCT: Intramuscular versus Intravenous Therapy for Prehospital Status Epilepticus",
+              "subtitle": "Silbergleit R et al., NEJM 2012;366:591–600 — IM midazolam equally effective as IV lorazepam, faster to administer prehospital",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22236222/"
+            },
+            {
+              "label": "(c)",
+              "title": "Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults",
+              "subtitle": "Glauser T et al., Epilepsy Currents 2016;16(1):48–61 — Benzos first-line; underdosing is the critical failure mode",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26900373/"
+            },
+            {
+              "label": "(c)",
+              "title": "ESETT RCT: Three Anticonvulsant Medications for Status Epilepticus",
+              "subtitle": "Kapur J et al., NEJM 2019;381:2103–2113 — Levetiracetam, fosphenytoin, valproate equally effective as second-line agents",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31774958/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-traumatic-brain-injury",
+          "title": "Traumatic Brain Injury",
+          "subtitle": "Evidence for SBP targets, oxygenation, and TXA in prehospital TBI",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Alfred Health / National Trauma Research Institute TBI Guidelines",
+              "subtitle": "Alfred Health, current edition",
+              "url": "https://www.alfredhealth.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "Guidelines for Prehospital Management of Traumatic Brain Injury, 3rd Edition",
+              "subtitle": "Brain Trauma Foundation, 2023 — SBP ≥110 mmHg; SpO₂ ≥90%; avoid hypocapnia",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37750693/"
+            },
+            {
+              "label": "(b)",
+              "title": "Brain Trauma Foundation Guidelines for the Management of Severe TBI, 4th Edition",
+              "subtitle": "Carney N et al., Neurosurgery 2017",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26402408/"
+            },
+            {
+              "label": "(c)",
+              "title": "CRASH-3 Trial: Effects of Tranexamic Acid in Traumatic Brain Injury",
+              "subtitle": "CRASH-3 Collaborators, Lancet 2019;394:1713–1723 — TXA within 3 h reduced head injury deaths in mild-moderate TBI",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31564415/"
+            },
+            {
+              "label": "(c)",
+              "title": "Prehospital Hypotension Doubles Mortality in Traumatic Brain Injury",
+              "subtitle": "Fuller G et al., JAMA Surgery 2014;149(11):1170–1176 — Even a single prehospital hypotensive episode (SBP <90) doubles mortality",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25268441/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Trauma Evidence",
+      "items": [
+        {
+          "id": "refs-haemorrhage",
+          "title": "Haemorrhage Control",
+          "subtitle": "Evidence for TXA, blood product ratios, and prehospital haemorrhage management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "National Blood Authority Patient Blood Management Guidelines: Module 1 — Critical Bleeding / Massive Transfusion",
+              "subtitle": "Australian Government NBA, current edition",
+              "url": "https://www.blood.gov.au/pbm-guidelines"
+            },
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.1.5: First Aid for Severe Bleeding",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "NAEMSP/ACEP/ACS-COT: Prehospital Tranexamic Acid Use for Traumatic Haemorrhage — Joint Position Statement",
+              "subtitle": "2024 — Recommends prehospital TXA in major trauma; safety data reassuring",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12363306/"
+            },
+            {
+              "label": "(b)",
+              "title": "European Guideline on Management of Bleeding and Coagulopathy Following Major Trauma",
+              "subtitle": "Spahn DR et al., Critical Care 2019",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31488185/"
+            },
+            {
+              "label": "(c)",
+              "title": "CRASH-2 Trial: Tranexamic Acid in Traumatic Haemorrhage",
+              "subtitle": "CRASH-2 Collaborators, Lancet 2010;376:23–32 — TXA within 3 h reduces all-cause mortality (14.5% vs 16.0%, n=20,211)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20554319/"
+            },
+            {
+              "label": "(c)",
+              "title": "MATTERS Study: Military Application of Tranexamic Acid in Trauma Emergency Resuscitation",
+              "subtitle": "Morrison JJ et al., Archives of Surgery 2012;147:113–119 — TXA in combat trauma associated with improved survival, especially in massive transfusion",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22006072/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-burns",
+          "title": "Burns",
+          "subtitle": "Evidence for cooling, fluid resuscitation, and prehospital dressings",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZBA Emergency Management of Severe Burns (EMSB) Course Manual",
+              "subtitle": "Australian and New Zealand Burn Association, 19th Edition, 2024",
+              "url": "https://www.anzba.org.au/quality-care/management-of-burns/"
+            },
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.1.6: First Aid for Burns",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "PHTLS Prehospital Trauma Life Support, 9th Edition",
+              "subtitle": "NAEMT, 2019 — Burns and thermal injuries chapter",
+              "url": "https://www.naemt.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "The Optimal Duration of First Aid Treatment for Partial Thickness Burn Injuries",
+              "subtitle": "Cuttle L et al., Burns 2010;36(7):916–923 — 20 min cool running water reduces pain, depth, and need for surgery",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19900760/"
+            },
+            {
+              "label": "(c)",
+              "title": "Parkland Formula: Physiological Response to Crystalloid Resuscitation of Severe Burns",
+              "subtitle": "Baxter CR, Shires T, Annals of the New York Academy of Sciences 1968;150:874–894",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/4970180/"
+            },
+            {
+              "label": "(c)",
+              "title": "Hydrogel Dressings for Prehospital Burn Management — Systematic Review",
+              "subtitle": "Burns & Trauma 2021 — Hydrogel dressings effective for pain and cooling; preferred over wet towels in extended transport",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949696/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-spinal-trauma",
+          "title": "Spinal Trauma & Cord Injury",
+          "subtitle": "Evidence for selective spinal immobilisation, NEXUS, and haemodynamic targets",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.1.7: First Aid Management of Spinal Injury",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(a)",
+              "title": "NSW ITIM Spinal Trauma Management Guidelines",
+              "subtitle": "NSW Institute of Trauma and Injury Management",
+              "url": "https://aci.health.nsw.gov.au/networks/trauma"
+            },
+            {
+              "label": "(b)",
+              "title": "ATLS Advanced Trauma Life Support — Spine and Spinal Cord Trauma Chapter",
+              "subtitle": "American College of Surgeons, 10th Edition, 2018",
+              "url": "https://www.facs.org/quality-programs/trauma/atls/"
+            },
+            {
+              "label": "(c)",
+              "title": "NEXUS: Validity of Clinical Criteria to Rule Out Cervical Spine Injury in Blunt Trauma",
+              "subtitle": "Hoffman JR et al., NEJM 2000;343:94–99 — 5 low-risk criteria; NPV 99.6% (n=34,069)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10944647/"
+            },
+            {
+              "label": "(c)",
+              "title": "Canadian C-Spine Rule versus NEXUS in Blunt Trauma",
+              "subtitle": "Stiell IG et al., NEJM 2003;349:2510–2518 — CCR more sensitive/specific than NEXUS in ambulatory stable patients",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/14534335/"
+            },
+            {
+              "label": "(c)",
+              "title": "Out-of-Hospital Spinal Immobilisation: Its Effect on Neurologic Injury",
+              "subtitle": "Hauswald M et al., Academic Emergency Medicine 1998;5:214–219 — No benefit of routine immobilisation demonstrated; supports selective spinal management",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9523928/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-chest-trauma",
+          "title": "Chest Trauma & Pneumothorax",
+          "subtitle": "Evidence for needle decompression, finger thoracostomy, and chest seals",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.1.9: First Aid for Chest Injuries",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "ATLS Advanced Trauma Life Support — Thoracic Trauma Chapter",
+              "subtitle": "American College of Surgeons, 10th Edition, 2018",
+              "url": "https://www.facs.org/quality-programs/trauma/atls/"
+            },
+            {
+              "label": "(b)",
+              "title": "NAEMSP Prehospital Trauma Compendium: Traumatic Pneumothorax Care",
+              "subtitle": "NAEMSP, 2024 — Needle thoracostomy first-line; high failure rate at 2nd ICS MCL; 4th/5th ICS AAL emerging as preferred site",
+              "url": "https://www.tandfonline.com/doi/full/10.1080/10903127.2024.2416978"
+            },
+            {
+              "label": "(b)",
+              "title": "British Thoracic Society Guideline for Pleural Procedures and Management of Pneumothorax",
+              "subtitle": "BTS, 2023",
+              "url": "https://www.brit-thoracic.org.uk/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Toxicology Evidence",
+      "items": [
+        {
+          "id": "refs-opioid-toxicity",
+          "title": "Opioid Toxicity",
+          "subtitle": "Evidence for naloxone dosing, route, and titration",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Opioid Toxicity",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "WHO Community Management of Opioid Overdose",
+              "subtitle": "World Health Organization, 2014",
+              "url": "https://www.who.int/"
+            },
+            {
+              "label": "(b)",
+              "title": "RCEM Acute Opioid Toxicity Best Practice Guideline",
+              "subtitle": "Royal College of Emergency Medicine UK, 2024 — Titrate naloxone to breathing, not consciousness; infusion for long-acting opioids",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2024/05/Acute_Opioid_Toxicity_Best_Practice_Guideline_v1.pdf"
+            },
+            {
+              "label": "(c)",
+              "title": "The Optimal Initial Dose and Route of Naloxone Administration: A Systematic Literature Review",
+              "subtitle": "PMC 2024 — IM 0.4 mg and IN 2–4 mg comparable; IM has faster onset",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10878679/"
+            },
+            {
+              "label": "(c)",
+              "title": "Management of Opioid Analgesic Overdose",
+              "subtitle": "Boyer EW, NEJM 2012;367:146–155",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22784117/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-carbon-monoxide",
+          "title": "Carbon Monoxide Poisoning",
+          "subtitle": "Evidence for 100% oxygen, HBOT referral criteria, and delayed neurological sequelae",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Carbon Monoxide",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "UHMS Hyperbaric Oxygen Therapy Indications, 14th Edition",
+              "subtitle": "Undersea and Hyperbaric Medical Society, 2019",
+              "url": "https://www.uhms.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "Hyperbaric Oxygen for Acute Carbon Monoxide Poisoning RCT",
+              "subtitle": "Weaver LK et al., NEJM 2002;347:1057–1067 — HBO₂ vs. normobaric O₂ reduced cognitive sequelae at 6 weeks (25% vs 46%)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12362006/"
+            },
+            {
+              "label": "(c)",
+              "title": "Practice Recommendations for the Diagnosis, Management and Prevention of Carbon Monoxide Poisoning",
+              "subtitle": "Hampson NB et al., American Journal of Respiratory and Critical Care Medicine 2012;186:1095–1101",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23087034/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-serotonin-syndrome",
+          "title": "Serotonin Syndrome",
+          "subtitle": "Evidence for the Hunter Criteria and clinical management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Serotonin Toxicity: A Practical Approach to Diagnosis and Treatment",
+              "subtitle": "Isbister GK, Buckley NA, Whyte IM, MJA 2007;187(6):361–365 — Australian-authored; Hunter Criteria, cyproheptadine, benzodiazepines",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17908026/"
+            },
+            {
+              "label": "(a)",
+              "title": "Royal Children's Hospital Melbourne Clinical Practice Guidelines: Serotonin Toxicity",
+              "subtitle": "RCH Melbourne, 2021",
+              "url": "https://www.rch.org.au/clinicalguide/"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology — Serotonin Toxicity",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(c)",
+              "title": "The Hunter Serotonin Toxicity Criteria: Simple and Accurate Diagnostic Decision Rules",
+              "subtitle": "Dunkley EJC, Isbister GK et al., QJM 2003;96(9):635–642 — Hunter Criteria validated in prospective cohort; more specific than Sternbach criteria",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12897292/"
+            },
+            {
+              "label": "(c)",
+              "title": "The Serotonin Syndrome",
+              "subtitle": "Boyer EW, Shannon M, NEJM 2005;352:1112–1120",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15784664/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-tca-toxicity",
+          "title": "Tricyclic Antidepressant Toxicity",
+          "subtitle": "Evidence for sodium bicarbonate and supportive management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology — TCA Toxicity",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(c)",
+              "title": "Tricyclic Antidepressant Overdose: A Review",
+              "subtitle": "Kerr GW, McGuffie AC, Wilkie S, Emergency Medicine Journal 2001;18:236–241 — NaHCO₃ narrows QRS and reverses hypotension via sodium channel blockade",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11350282/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-organophosphate-toxicity",
+          "title": "Organophosphate Poisoning",
+          "subtitle": "Evidence for atropine titration and pralidoxime use",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Organophosphates",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Australian Clinical Guidelines for Acute Exposures to Chemical Agents of Health Concern",
+              "subtitle": "Australian Government Department of Health, 2022",
+              "url": "https://www.health.gov.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "AHA Management of Life-Threatening Poisonings 2023",
+              "subtitle": "American Heart Association — Atropine immediately for bronchospasm/secretions; pralidoxime as adjunct in early presentation",
+              "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001122"
+            },
+            {
+              "label": "(c)",
+              "title": "Pharmacological Treatment of Organophosphorus Insecticide Poisoning: The Evidence",
+              "subtitle": "Eddleston M et al., QJM 2004;97(8):525–531 — Atropine is the cornerstone; pralidoxime evidence base contested",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15256611/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-alcohol-withdrawal",
+          "title": "Alcohol Withdrawal",
+          "subtitle": "Evidence for CIWA-Ar assessment and benzodiazepine management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Addiction Medicine — Alcohol Withdrawal",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "NICE Alcohol-Use Disorders: Diagnosis and Management of Physical Complications CG100",
+              "subtitle": "National Institute for Health and Care Excellence UK, 2010 (updated 2017)",
+              "url": "https://www.nice.org.uk/guidance/cg100"
+            },
+            {
+              "label": "(c)",
+              "title": "Assessment of Alcohol Withdrawal: The CIWA-Ar Scale",
+              "subtitle": "Sullivan JT et al., British Journal of Addiction 1989;84:1353–1357 — Validated severity scale guiding benzodiazepine dosing",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2597811/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Obstetric Evidence",
+      "items": [
+        {
+          "id": "refs-postpartum-haemorrhage",
+          "title": "Postpartum Haemorrhage",
+          "subtitle": "Evidence for oxytocin, TXA, and active management of third stage",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "RANZCOG Clinical Guideline: Management of Postpartum Haemorrhage",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, 2023",
+              "url": "https://ranzcog.edu.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Queensland Clinical Guidelines: Postpartum Haemorrhage",
+              "subtitle": "Queensland Health, current edition",
+              "url": "https://www.health.qld.gov.au/qcg"
+            },
+            {
+              "label": "(b)",
+              "title": "WHO Recommendations for the Prevention and Treatment of Postpartum Haemorrhage",
+              "subtitle": "World Health Organization, 2012 (updated 2023)",
+              "url": "https://www.who.int/"
+            },
+            {
+              "label": "(c)",
+              "title": "WOMAN Trial: Effect of Early Tranexamic Acid on Mortality in Postpartum Haemorrhage",
+              "subtitle": "WOMAN Trial Collaborators, Lancet 2017;389:2105–2116 — TXA within 3 h reduced PPH mortality (RR 0.81, n=20,060)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28456509/"
+            },
+            {
+              "label": "(c)",
+              "title": "Uterotonic Drugs in Prevention and Management of PPH in Prehospital Deliveries — Systematic Review",
+              "subtitle": "Healthcare 2025 — Supportive evidence for prehospital oxytocin by EMS in unplanned OOH birth",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12071287/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-pre-eclampsia",
+          "title": "Pre-Eclampsia & Eclampsia",
+          "subtitle": "Evidence for magnesium sulphate and antihypertensive treatment",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "RANZCOG Clinical Guideline: Management of Hypertensive Disorders of Pregnancy",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, 2023",
+              "url": "https://ranzcog.edu.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Queensland Clinical Guidelines: Hypertensive Disorders of Pregnancy",
+              "subtitle": "Queensland Health, current edition",
+              "url": "https://www.health.qld.gov.au/qcg"
+            },
+            {
+              "label": "(b)",
+              "title": "ISSHP Classification of Hypertensive Disorders of Pregnancy 2018",
+              "subtitle": "International Society for the Study of Hypertension in Pregnancy",
+              "url": "https://www.isshp.com/"
+            },
+            {
+              "label": "(c)",
+              "title": "Magpie Trial: Do Women with Pre-eclampsia Benefit from Magnesium Sulphate?",
+              "subtitle": "Magpie Trial Collaborative Group, Lancet 2002;359:1877–1890 — MgSO₄ halved eclampsia risk (0.8% vs 1.9%), n=10,141",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12057549/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-obstetric-emergencies",
+          "title": "Obstetric Emergencies (Cord Prolapse, APH, Preterm Birth)",
+          "subtitle": "Evidence for prehospital management of obstetric emergencies",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "RANZCOG Clinical Guidelines: Antepartum Haemorrhage, Preterm Birth, Ectopic Pregnancy, Cord Prolapse",
+              "subtitle": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists, 2023",
+              "url": "https://ranzcog.edu.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Queensland Clinical Guidelines: Maternity and Neonatal",
+              "subtitle": "Queensland Health — Cord prolapse, preterm labour, shoulder dystocia, breech delivery",
+              "url": "https://www.health.qld.gov.au/qcg"
+            },
+            {
+              "label": "(b)",
+              "title": "RCOG Green-top Guideline No. 50: Umbilical Cord Prolapse",
+              "subtitle": "Royal College of Obstetricians and Gynaecologists UK, 2014",
+              "url": "https://www.rcog.org.uk/"
+            },
+            {
+              "label": "(b)",
+              "title": "RCOG Green-top Guideline No. 42: Shoulder Dystocia",
+              "subtitle": "Royal College of Obstetricians and Gynaecologists UK, 2012 (updated)",
+              "url": "https://www.rcog.org.uk/"
+            },
+            {
+              "label": "(b)",
+              "title": "WHO Recommendations: Intrapartum Care for a Positive Childbirth Experience",
+              "subtitle": "World Health Organization, 2018",
+              "url": "https://www.who.int/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Medical Evidence",
+      "items": [
+        {
+          "id": "refs-hypoglycaemia",
+          "title": "Hypoglycaemia",
+          "subtitle": "Evidence for dextrose, glucagon, and prehospital glucose management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Australian Diabetes Society Position Statements and Clinical Guidelines",
+              "subtitle": "ADS, current edition",
+              "url": "https://www.diabetessociety.com.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Endocrinology — Diabetes",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "American Diabetes Association Standards of Care in Diabetes 2024",
+              "subtitle": "Diabetes Care 2024 — Glucose 15–20 g oral if conscious; IV dextrose or IM glucagon if unconscious",
+              "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S295/153950/"
+            },
+            {
+              "label": "(c)",
+              "title": "Mechanisms of Hypoglycemia-Associated Autonomic Failure in Diabetes",
+              "subtitle": "Cryer PE, NEJM 2013;369:362–372 — Impaired counterregulatory response underpins severe hypoglycaemia risk",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23883381/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-meningococcal-meningitis",
+          "title": "Meningococcal Septicaemia & Bacterial Meningitis",
+          "subtitle": "Evidence for empirical antibiotics and dexamethasone",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Antibiotic — Central Nervous System Infections",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "CDNA National Guidelines for Public Health Units: Meningococcal Disease",
+              "subtitle": "Communicable Diseases Network Australia, 2023",
+              "url": "https://www.health.gov.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "NICE Meningitis (Bacterial) and Meningococcal Septicaemia: Recognition, Diagnosis and Management",
+              "subtitle": "National Institute for Health and Care Excellence UK, 2010 (updated)",
+              "url": "https://www.nice.org.uk/"
+            },
+            {
+              "label": "(c)",
+              "title": "Dexamethasone in Adults with Bacterial Meningitis",
+              "subtitle": "de Gans J, van de Beek D, NEJM 2002;347:1549–1556 — Dexamethasone before/with first antibiotic reduced unfavourable outcomes (RR 0.59)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12432042/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-back-pain",
+          "title": "Back Pain & Musculoskeletal Injury",
+          "subtitle": "Evidence for active management and avoiding over-medicalisation",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ACSQHC Low Back Pain Clinical Care Standard",
+              "subtitle": "Australian Commission on Safety and Quality in Health Care, 2022",
+              "url": "https://www.safetyandquality.gov.au/standards/clinical-care-standards/low-back-pain-clinical-care-standard"
+            },
+            {
+              "label": "(a)",
+              "title": "RACGP Guidelines for the Management of Acute Low Back Pain",
+              "subtitle": "Royal Australian College of General Practitioners, current edition",
+              "url": "https://www.racgp.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "NICE Low Back Pain and Sciatica in Over 16s: Assessment and Management NG59",
+              "subtitle": "National Institute for Health and Care Excellence UK, 2016 (updated 2020)",
+              "url": "https://www.nice.org.uk/guidance/ng59"
+            },
+            {
+              "label": "(c)",
+              "title": "What Low Back Pain Is and Why We Need to Pay Attention",
+              "subtitle": "Hartvigsen J et al., Lancet 2018;391:2356–2367 — Active self-management superior to passive treatments; exercise first-line",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29573870/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-rhabdomyolysis",
+          "title": "Rhabdomyolysis",
+          "subtitle": "Evidence for aggressive IV fluid resuscitation and AKI prevention",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Emergency Medicine — Rhabdomyolysis",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(c)",
+              "title": "Rhabdomyolysis and Acute Kidney Injury",
+              "subtitle": "Bosch X, Poch E, Grau JM, NEJM 2009;361:62–72 — Aggressive IV crystalloid (250–1000 mL/h) to maintain UO 200–300 mL/h prevents AKI",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19571284/"
+            },
+            {
+              "label": "(c)",
+              "title": "Early Management of Shock and Prophylaxis of AKI in Traumatic Rhabdomyolysis",
+              "subtitle": "Better OS, Stein JH, NEJM 1990;322:825–829 — Aggressive IV fluids before extrication prevents acute kidney injury",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2154698/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Environmental Evidence",
+      "items": [
+        {
+          "id": "refs-hypothermia",
+          "title": "Hypothermia",
+          "subtitle": "Evidence for staging, field rewarming, and CPR decisions",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.3.3: First Aid for Hypothermia",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(b)",
+              "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Accidental Hypothermia",
+              "subtitle": "2024 update",
+              "url": "https://wms.org/"
+            },
+            {
+              "label": "(b)",
+              "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances — Accidental Hypothermia",
+              "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
+            },
+            {
+              "label": "(c)",
+              "title": "Accidental Hypothermia",
+              "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938 — Swiss staging guides field decisions; no death until warm and dead",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-heat-stroke",
+          "title": "Hyperthermia & Heat Stroke",
+          "subtitle": "Evidence for rapid cooling and ice-water immersion in exertional heat stroke",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.3.4: First Aid for Heat-Induced Illness",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(a)",
+              "title": "Sports Medicine Australia Hot Weather Guidelines for Exertional Heat Illness",
+              "subtitle": "Sports Medicine Australia, current edition",
+              "url": "https://sma.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness",
+              "subtitle": "2019 (2024 update)",
+              "url": "https://wms.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "Cold Water Immersion: The Gold Standard for Exertional Heatstroke Treatment",
+              "subtitle": "Casa DJ et al., Journal of Athletic Training 2007;42:333–334 — Ice-water immersion fastest cooling method (0.35°C/min); most effective for exertional heat stroke",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18074294/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-snake-bite",
+          "title": "Snake Bite",
+          "subtitle": "Evidence for pressure immobilisation bandaging and antivenom",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "AVRU First Aid and Clinical Advice for Australian Snake Bite",
+              "subtitle": "Australian Venom Research Unit, University of Melbourne",
+              "url": "https://biomedicalsciences.unimelb.edu.au/departments/department-of-biochemistry-and-pharmacology/engage/avru"
+            },
+            {
+              "label": "(a)",
+              "title": "ANZCOR Guideline 9.4.1: First Aid Management of Australian Snake Bite and Guideline 9.4.8: Envenomation — Pressure Immobilisation Technique",
+              "subtitle": "Australian Resuscitation Council, 2024",
+              "url": "https://resus.org.au/guidelines/"
+            },
+            {
+              "label": "(a)",
+              "title": "NSW Health Snake and Spider Bites Clinical Management GL2024_007",
+              "subtitle": "NSW Health, 2024 — Updated clinical pathway for identification, antivenom selection, and monitoring",
+              "url": "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/GL2024_007.pdf"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Toxicology and Toxinology — Snake Bite",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(c)",
+              "title": "Snake Bite: A Current Approach to Management",
+              "subtitle": "Isbister GK et al., Australian Prescriber 2006;29(5):125–129 — Australian-specific clinical approach; antivenom selection and PIB evidence",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16930660/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-diving-emergencies",
+          "title": "Diving Emergencies",
+          "subtitle": "Evidence for 100% oxygen, DCS management, and HBOT referral",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "South Pacific Underwater Medicine Society (SPUMS) Diving Emergency Management Guidelines",
+              "subtitle": "SPUMS, current edition",
+              "url": "https://www.spums.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "UHMS Hyperbaric Oxygen Therapy Indications, 14th Edition",
+              "subtitle": "Undersea and Hyperbaric Medical Society, 2019",
+              "url": "https://www.uhms.org/"
+            },
+            {
+              "label": "(c)",
+              "title": "Decompression Illness",
+              "subtitle": "Vann RD, Butler FK, Mitchell SJ, Moon RE, Lancet 2011;377:153–164 — 100% O₂ accelerates nitrogen elimination; HBOT remains definitive treatment",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21239032/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
+    },
+    {
+      "category": "Mental Health Evidence",
+      "items": [
+        {
+          "id": "refs-mental-health",
+          "title": "Mental Health Presentations",
+          "subtitle": "Evidence for risk assessment, de-escalation, and pharmacological management",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Psychotropic — Acute Behavioural Disturbance",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "RANZCP Clinical Practice Guidelines",
+              "subtitle": "Royal Australian and New Zealand College of Psychiatrists, 2024",
+              "url": "https://www.ranzcp.org/"
+            },
+            {
+              "label": "(a)",
+              "title": "WA Health Mental Health Emergency Response Guidelines",
+              "subtitle": "WA Health, current edition",
+              "url": "https://www.health.wa.gov.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "beyondblue Clinical Practice Guidelines: Depression and Anxiety",
+              "subtitle": "beyondblue, 2023",
+              "url": "https://www.beyondblue.org.au/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        },
+        {
+          "id": "refs-chemical-restraint",
+          "title": "Disturbed Behaviour & Chemical Restraint",
+          "subtitle": "Evidence for droperidol, olanzapine, and midazolam in acute agitation",
+          "sources": [
+            {
+              "label": "(a)",
+              "title": "ACEM Guideline on the Management of Acute Behavioural Disturbance in Emergency Departments",
+              "subtitle": "Australasian College for Emergency Medicine, current edition",
+              "url": "https://acem.org.au/"
+            },
+            {
+              "label": "(a)",
+              "title": "Therapeutic Guidelines: Psychotropic — Acute Behavioural Disturbance",
+              "subtitle": "eTG Complete, 2024",
+              "url": "https://tg.org.au/"
+            },
+            {
+              "label": "(b)",
+              "title": "NICE Violence and Aggression: Short-Term Management NG10",
+              "subtitle": "National Institute for Health and Care Excellence UK, 2015",
+              "url": "https://www.nice.org.uk/guidance/ng10"
+            },
+            {
+              "label": "(c)",
+              "title": "DORM RCT: Droperidol versus Midazolam for Acute Agitation in the Emergency Department",
+              "subtitle": "Calver LA et al., Annals of Emergency Medicine 2015;66:447–449 — Droperidol 10 mg IM superior to midazolam for prehospital agitation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25455068/"
+            },
+            {
+              "label": "(c)",
+              "title": "SIESTA Study: Droperidol plus Midazolam versus Either Alone for Extreme Agitation",
+              "subtitle": "Isbister GK et al., Annals of Emergency Medicine 2017 — Combination faster than either alone for extreme agitation",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27993451/"
+            }
+          ],
+          "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
+        }
+      ]
     }
   ],
   "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation. Some content in this app synthesises multiple sources and may not reproduce any single reference verbatim."
