@@ -19,7 +19,7 @@
           "id": "heart-score",
           "title": "HEART Score",
           "subtitle": "Six et al., 2010",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/20227200/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20802272/"
         },
         {
           "id": "qsofa",
@@ -31,37 +31,37 @@
           "id": "race",
           "title": "RACE Score",
           "subtitle": "Pérez de la Ossa et al., 2014",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/24281260/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24281224/"
         },
         {
           "id": "wells-pe",
           "title": "Wells PE Score",
           "subtitle": "Wells et al., 2000",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/10737280/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10744147/"
         },
         {
           "id": "chadsvasc",
           "title": "CHA₂DS₂-VASc",
           "subtitle": "Lip et al., 2010",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/20805049/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19762550/"
         },
         {
           "id": "revised-geneva",
           "title": "Revised Geneva Score",
           "subtitle": "Le Gal et al., 2006",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/16490905/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16461960/"
         },
         {
           "id": "sgarbossa",
           "title": "Sgarbossa Criteria",
           "subtitle": "Sgarbossa et al., 1996",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/8766821/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8559200/"
         },
         {
           "id": "bazett-qtc",
           "title": "Bazett QTc",
           "subtitle": "Bazett, 1920",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/20598271/"
+          "url": "https://heart.bmj.com/content/7/4/353"
         }
       ]
     },
@@ -78,31 +78,31 @@
           "id": "gap",
           "title": "GAP Score",
           "subtitle": "Kondo et al., 2011 / Godat et al., 2014 use",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/21251626/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21831280/"
         },
         {
           "id": "crams",
           "title": "CRAMS Scale",
           "subtitle": "Gormican, 1982",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/7073050/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7065486/"
         },
         {
           "id": "batt",
           "title": "BATT Score",
           "subtitle": "Ageron et al., 2021",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/33423904/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33407716/"
         },
         {
           "id": "parkland",
           "title": "Parkland Formula",
           "subtitle": "Baxter & Shires, 1968",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/4970180/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/4973463/"
         },
         {
           "id": "blast-lung",
           "title": "Blast Lung Injury",
           "subtitle": "Leibovici et al., 1996",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/8896444/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8970558/"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "id": "h2s-staging",
           "title": "Hydrogen Sulfide Staging",
           "subtitle": "Guidotti, 2015; Safe Work Australia",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/26391346/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26563786/"
         },
         {
           "id": "noise-dose",
@@ -148,19 +148,19 @@
           "id": "tug",
           "title": "Timed Up and Go Norms",
           "subtitle": "Bohannon, 2006",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/16809244/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16914068/"
         },
         {
           "id": "sppb",
           "title": "Short Physical Performance Battery",
           "subtitle": "Guralnik et al., 1994",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/8159287/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8126356/"
         },
         {
           "id": "berg",
           "title": "Berg Balance Scale",
           "subtitle": "Berg et al., 1992; Donoghue, 2009",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/22731143/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1468055/"
         },
         {
           "id": "oswestry",
@@ -178,13 +178,13 @@
           "id": "psfs",
           "title": "Patient-Specific Functional Scale",
           "subtitle": "Stratford et al., 1995",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/8535464/"
+          "url": "https://doi.org/10.3138/ptc.47.4.258"
         },
         {
           "id": "lefs-uefs",
           "title": "LEFS / UEFS",
           "subtitle": "Binkley et al., 1999; Stratford et al., 2001",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/10332158/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10201543/"
         }
       ]
     },
@@ -195,7 +195,7 @@
           "id": "niosh-lifting",
           "title": "NIOSH Lifting Equation",
           "subtitle": "Waters et al., 1994",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/8162887/"
+          "url": "https://doi.org/10.26616/nioshpub94110"
         },
         {
           "id": "reba",
@@ -523,7 +523,7 @@
               "label": "(c)",
               "title": "PARAMEDIC2 RCT: Epinephrine in Out-of-Hospital Cardiac Arrest",
               "subtitle": "Perkins GD et al., NEJM 2018;379:711–721. N=8,014; adrenaline improved ROSC and 30-day survival but not neurological recovery",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/29791857/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30021076/"
             },
             {
               "label": "(c)",
@@ -549,7 +549,7 @@
               "label": "(b)",
               "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances, Accidental Hypothermia",
               "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219. No declaration of death until ≥32°C; withhold adrenaline below 30°C",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33773826/"
             },
             {
               "label": "(b)",
@@ -561,7 +561,7 @@
               "label": "(c)",
               "title": "Accidental Hypothermia",
               "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938. Swiss staging (HT I–IV) guides field decisions and hospital destination",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23150960/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -643,7 +643,7 @@
               "label": "(c)",
               "title": "Damage Control Resuscitation: Directly Addressing the Early Coagulopathy of Trauma",
               "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310. Original DCR framework; permissive hypotension and haemostatic resuscitation",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/17297328/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17556961/"
             },
             {
               "label": "(c)",
@@ -681,7 +681,7 @@
               "label": "(c)",
               "title": "2022 International Consensus on CPR and ECC Science: Neonatal Life Support",
               "subtitle": "Wyckoff MH et al., Circulation 2022;146(25). Initiate at 21% O₂; 3:1 compression-to-ventilation ratio",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/36325907/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36325905/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -712,13 +712,13 @@
               "label": "(b)",
               "title": "World Allergy Organization Guidelines for the Assessment and Management of Anaphylaxis",
               "subtitle": "Simons FER et al., World Allergy Organization Journal 2011;4:13–37",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/23268426/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23268454/"
             },
             {
               "label": "(b)",
               "title": "Anaphylaxis: A 2023 Practice Parameter Update",
               "subtitle": "Lieberman P et al., Annals of Allergy, Asthma & Immunology, 2023",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/38108678/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38108677/"
             },
             {
               "label": "(b)",
@@ -730,13 +730,13 @@
               "label": "(c)",
               "title": "Adrenaline for the Treatment of Anaphylaxis (Cochrane Review)",
               "subtitle": "Sheikh A et al., 2008. No RCT evidence for antihistamines/corticosteroids as first-line; adrenaline remains the only evidence-based first-line drug",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/19160185/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18843712/"
             },
             {
               "label": "(c)",
               "title": "Incidence of Clinically Important Biphasic Reactions in Anaphylaxis",
               "subtitle": "Grunau BE et al., Annals of Emergency Medicine 2014;63:736–744. Biphasic reactions ~5%; supports minimum 4-hour observation",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/24768543/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24239340/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -800,7 +800,7 @@
               "label": "(b)",
               "title": "ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2021",
               "subtitle": "McDonagh TA et al., European Heart Journal 2021;42:3599–3726",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/33959926/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34447992/"
             },
             {
               "label": "(b)",
@@ -818,7 +818,7 @@
               "label": "(c)",
               "title": "CULPRIT-SHOCK RCT: PCI Strategies in Cardiogenic Shock",
               "subtitle": "Thiele H et al., NEJM 2017;377:2419–2432. Culprit-only PCI: lower 30-day mortality than immediate multivessel PCI",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/28955301/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29083953/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -844,7 +844,7 @@
               "label": "(b)",
               "title": "European Guideline on Management of Bleeding and Coagulopathy Following Major Trauma",
               "subtitle": "Spahn DR et al., Critical Care 2019. Permissive hypotension (SBP 80–90 mmHg) until haemostasis in penetrating trauma",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/31488185/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30917843/"
             },
             {
               "label": "(c)",
@@ -856,7 +856,7 @@
               "label": "(c)",
               "title": "Damage Control Resuscitation",
               "subtitle": "Holcomb JB et al., Journal of Trauma 2007;62(2):307–310",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/17297328/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17556961/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -899,7 +899,7 @@
               "label": "(c)",
               "title": "AVOID RCT: Air Versus Oxygen in ST-Segment–Elevation Myocardial Infarction",
               "subtitle": "Stub D et al., Circulation 2015;131:2143–2150. Prehospital O₂ in STEMI increased myocardial injury and infarct size at 6 months",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/25902037/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26002889/"
             },
             {
               "label": "(c)",
@@ -925,19 +925,19 @@
               "label": "(b)",
               "title": "ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2021",
               "subtitle": "McDonagh TA et al., European Heart Journal 2021;42:3599–3726",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/33959926/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34447992/"
             },
             {
               "label": "(c)",
               "title": "3CPO RCT: Noninvasive Ventilation in Acute Cardiogenic Pulmonary Edema",
               "subtitle": "Gray A et al., NEJM 2008;359:142–151. CPAP/NIPPV reduced dyspnoea; no 7-day mortality benefit vs. standard oxygen",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/18565860/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18614781/"
             },
             {
               "label": "(c)",
-              "title": "High-dose GTN in Sympathetic Crashing Acute Pulmonary Edema (SCAPE)",
-              "subtitle": "Levy P et al., medrxiv 2021. High-dose nitroglycerin improved symptom resolution, reduced intubation",
-              "url": "https://www.medrxiv.org/content/10.1101/2021.10.17.21265081"
+              "title": "High-dose Intravenous Nitroglycerin for Severe Decompensated Heart Failure (SCAPE): Feasibility Pilot",
+              "subtitle": "Levy P et al., Ann Emerg Med 2007;50(2):144–152. High-dose GTN (2–7 mg/h IV) improved haemodynamics in SCAPE without significant adverse events (n=26)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17509731/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -957,7 +957,7 @@
               "label": "(b)",
               "title": "ESC Guidelines for the Management of Patients with Ventricular Arrhythmias 2022",
               "subtitle": "Hindricks G et al., European Heart Journal 2022;43:3997–4126",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/34453416/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36017572/"
             },
             {
               "label": "(b)",
@@ -1012,13 +1012,13 @@
               "label": "(c)",
               "title": "3Mg RCT: IV or Nebulised Magnesium Sulphate versus Standard Therapy for Severe Acute Asthma",
               "subtitle": "Goodacre S et al., Lancet Respiratory Medicine 2013;1:293–300. Nebulised MgSO₄ improved lung function at 60 min in severe asthma",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/24461892/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24429154/"
             },
             {
               "label": "(c)",
               "title": "IV vs. Nebulised Beta2-Agonists for Acute Asthma (Cochrane Review)",
-              "subtitle": "Travers AH et al., Cochrane 2012. No benefit of IV over nebulised salbutamol; nebulised preferred prehospital",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22592711/"
+              "subtitle": "Travers AH et al., Cochrane Database Syst Rev 2001. IV beta-agonists no better than nebulised salbutamol; nebulised route preferred prehospital",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11406055/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1050,7 +1050,7 @@
               "label": "(c)",
               "title": "Effect of High Flow Oxygen on Mortality in COPD Patients in the Prehospital Setting",
               "subtitle": "Austin MA et al., BMJ 2010;341:c5462. Titrated O₂ (SpO₂ 88–92%) reduced prehospital COPD mortality by 58%",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/20406912/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20959284/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1082,13 +1082,13 @@
               "label": "(c)",
               "title": "Wells PE Score: Derivation of a Simple Clinical Model to Categorize Patients' Probability of Pulmonary Embolism",
               "subtitle": "Wells PS et al., Thrombosis and Haemostasis 2000;83(3):416–420",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/10737280/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10744147/"
             },
             {
               "label": "(c)",
               "title": "PEITHO RCT: Fibrinolysis for Patients with Intermediate-Risk Pulmonary Embolism",
               "subtitle": "Meyer G et al., NEJM 2014;370:1402–1411. Tenecteplase reduced haemodynamic decompensation but increased major bleeding",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/24716680/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24716681/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1113,7 +1113,7 @@
               "label": "(b)",
               "title": "AHA/ASA Guidelines for the Early Management of Patients With Acute Ischemic Stroke",
               "subtitle": "Powers WJ et al., Stroke 2019 (updated 2024). BP <185/110 pre-thrombolysis; <180/105 for 24 h post-thrombolysis",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/31558551/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31662037/"
             },
             {
               "label": "(c)",
@@ -1137,7 +1137,7 @@
               "label": "(c)",
               "title": "DAWN and DEFUSE-3 Trials: Endovascular Thrombectomy with Late-Window Imaging Selection",
               "subtitle": "Nogueira RG et al. / Albers GW et al., NEJM 2017–2018. EVT benefit up to 16–24 h; supports rapid transport regardless of late presentation",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/28678201/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29129157/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1156,14 +1156,14 @@
             {
               "label": "(b)",
               "title": "ILAE Updated Classification of Seizure Types",
-              "subtitle": "International League Against Epilepsy, 2017",
-              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12169392/"
+              "subtitle": "Fisher RS et al., Epilepsia 2017;58(4):522–530. Operational classification of focal vs. generalised seizure types; basis for current field descriptors",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28276060/"
             },
             {
               "label": "(c)",
               "title": "RAMPART RCT: Intramuscular versus Intravenous Therapy for Prehospital Status Epilepticus",
               "subtitle": "Silbergleit R et al., NEJM 2012;366:591–600. IM midazolam equally effective as IV lorazepam, faster to administer prehospital",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22236222/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22335736/"
             },
             {
               "label": "(c)",
@@ -1175,7 +1175,7 @@
               "label": "(c)",
               "title": "ESETT RCT: Three Anticonvulsant Medications for Status Epilepticus",
               "subtitle": "Kapur J et al., NEJM 2019;381:2103–2113. Levetiracetam, fosphenytoin, valproate equally effective as second-line agents",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/31774958/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31774955/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1207,13 +1207,13 @@
               "label": "(c)",
               "title": "CRASH-3 Trial: Effects of Tranexamic Acid in Traumatic Brain Injury",
               "subtitle": "CRASH-3 Collaborators, Lancet 2019;394:1713–1723. TXA within 3 h reduced head injury deaths in mild-moderate TBI",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/31564415/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31623894/"
             },
             {
               "label": "(c)",
               "title": "Prehospital Hypotension Doubles Mortality in Traumatic Brain Injury",
-              "subtitle": "Fuller G et al., JAMA Surgery 2014;149(11):1170–1176. Even a single prehospital hypotensive episode (SBP <90) doubles mortality",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/25268441/"
+              "subtitle": "Fuller G et al., JAMA Surgery 2016. Prehospital hypotension (SBP <90 mmHg) independently doubles TBI mortality; basis for SBP ≥110 mmHg target in prehospital TBI management",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27926759/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1250,7 +1250,7 @@
               "label": "(b)",
               "title": "European Guideline on Management of Bleeding and Coagulopathy Following Major Trauma",
               "subtitle": "Spahn DR et al., Critical Care 2019",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/31488185/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30917843/"
             },
             {
               "label": "(c)",
@@ -1262,7 +1262,7 @@
               "label": "(c)",
               "title": "MATTERS Study: Military Application of Tranexamic Acid in Trauma Emergency Resuscitation",
               "subtitle": "Morrison JJ et al., Archives of Surgery 2012;147:113–119. TXA in combat trauma associated with improved survival, especially in massive transfusion",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22006072/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22006852/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1294,13 +1294,13 @@
               "label": "(c)",
               "title": "The Optimal Duration of First Aid Treatment for Partial Thickness Burn Injuries",
               "subtitle": "Cuttle L et al., Burns 2010;36(7):916–923. 20 min cool running water reduces pain, depth, and need for surgery",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/19900760/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19879053/"
             },
             {
               "label": "(c)",
               "title": "Parkland Formula: Physiological Response to Crystalloid Resuscitation of Severe Burns",
               "subtitle": "Baxter CR, Shires T, Annals of the New York Academy of Sciences 1968;150:874–894",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/4970180/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/4973463/"
             },
             {
               "label": "(c)",
@@ -1338,19 +1338,19 @@
               "label": "(c)",
               "title": "NEXUS: Validity of Clinical Criteria to Rule Out Cervical Spine Injury in Blunt Trauma",
               "subtitle": "Hoffman JR et al., NEJM 2000;343:94–99. 5 low-risk criteria; NPV 99.6% (n=34,069)",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/10944647/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10891516/"
             },
             {
               "label": "(c)",
               "title": "Canadian C-Spine Rule versus NEXUS in Blunt Trauma",
               "subtitle": "Stiell IG et al., NEJM 2003;349:2510–2518. CCR more sensitive/specific than NEXUS in ambulatory stable patients",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/14534335/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/14695411/"
             },
             {
               "label": "(c)",
-              "title": "Out-of-Hospital Spinal Immobilisation: Its Effect on Neurologic Injury",
-              "subtitle": "Hauswald M et al., Academic Emergency Medicine 1998;5:214–219. No benefit of routine immobilisation demonstrated; supports selective spinal management",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/9523928/"
+              "title": "Spinal Motion Restriction in the Trauma Patient: A Joint Position Statement (NAEMSP/ACEP/EAST/ACS-COT)",
+              "subtitle": "Fischer PE et al., Prehosp Emerg Care 2018;22(sup1):89–91. Selective spinal motion restriction based on clinical criteria; routine rigid immobilisation not supported by evidence",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30091939/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1457,7 +1457,7 @@
               "label": "(c)",
               "title": "Practice Recommendations for the Diagnosis, Management and Prevention of Carbon Monoxide Poisoning",
               "subtitle": "Hampson NB et al., American Journal of Respiratory and Critical Care Medicine 2012;186:1095–1101",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/23087034/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23087025/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1471,7 +1471,7 @@
               "label": "(a)",
               "title": "Serotonin Toxicity: A Practical Approach to Diagnosis and Treatment",
               "subtitle": "Isbister GK, Buckley NA, Whyte IM, MJA 2007;187(6):361–365. Australian-authored; Hunter Criteria, cyproheptadine, benzodiazepines",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/17908026/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17874986/"
             },
             {
               "label": "(a)",
@@ -1489,13 +1489,13 @@
               "label": "(c)",
               "title": "The Hunter Serotonin Toxicity Criteria: Simple and Accurate Diagnostic Decision Rules",
               "subtitle": "Dunkley EJC, Isbister GK et al., QJM 2003;96(9):635–642. Hunter Criteria validated in prospective cohort; more specific than Sternbach criteria",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/12897292/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12925718/"
             },
             {
               "label": "(c)",
-              "title": "The Serotonin Syndrome",
-              "subtitle": "Boyer EW, Shannon M, NEJM 2005;352:1112–1120",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/15784664/"
+              "title": "Demystifying Serotonin Syndrome (Serotonin Toxicity)",
+              "subtitle": "Foong AL et al., Can Fam Physician 2018;64(10):720-727. Practical clinical differentiation and diagnosis of serotonin toxicity",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30315014/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1513,9 +1513,9 @@
             },
             {
               "label": "(c)",
-              "title": "Tricyclic Antidepressant Overdose: A Review",
-              "subtitle": "Kerr GW, McGuffie AC, Wilkie S, Emergency Medicine Journal 2001;18:236–241. NaHCO₃ narrows QRS and reverses hypotension via sodium channel blockade",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/11350282/"
+              "title": "Management of Life-Threatening Toxicological Emergencies: AHA Scientific Statement 2023",
+              "subtitle": "Lavonas EJ et al., Circulation 2023;148:e149–e184. Sodium bicarbonate for sodium-channel-blocking toxicity (TCA): narrows QRS, reverses hypotension; Class I recommendation. Supersedes older TCA review evidence.",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10725808/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1545,9 +1545,9 @@
             },
             {
               "label": "(c)",
-              "title": "Pharmacological Treatment of Organophosphorus Insecticide Poisoning: The Evidence",
-              "subtitle": "Eddleston M et al., QJM 2004;97(8):525–531. Atropine is the cornerstone; pralidoxime evidence base contested",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/15256611/"
+              "title": "Pralidoxime in Acute Organophosphorus Insecticide Poisoning: Randomised Controlled Trial",
+              "subtitle": "Eddleston M et al., PLoS Med 2009;6(6):e1000104. Large RCT (n=235): pralidoxime did not reduce mortality or intubation rate; atropine remains cornerstone; pralidoxime evidence base is weak",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19564902/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1755,7 +1755,7 @@
               "label": "(c)",
               "title": "Dexamethasone in Adults with Bacterial Meningitis",
               "subtitle": "de Gans J, van de Beek D, NEJM 2002;347:1549–1556. Dexamethasone before/with first antibiotic reduced unfavourable outcomes (RR 0.59)",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/12432042/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12432041/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1811,9 +1811,9 @@
             },
             {
               "label": "(c)",
-              "title": "Early Management of Shock and Prophylaxis of AKI in Traumatic Rhabdomyolysis",
-              "subtitle": "Better OS, Stein JH, NEJM 1990;322:825–829. Aggressive IV fluids before extrication prevents acute kidney injury",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/2154698/"
+              "title": "Evaluation and Management of Rhabdomyolysis for Emergency Clinicians",
+              "subtitle": "Long B, Koyfman A, Gottlieb M. J Emerg Med 2019;56(1):97–109. IV crystalloid 200–1000 mL/h targeting UO ≥200 mL/h prevents AKI; initiate before and during extrication",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30630682/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1844,13 +1844,13 @@
               "label": "(b)",
               "title": "ERC Guidelines 2021: Cardiac Arrest in Special Circumstances, Accidental Hypothermia",
               "subtitle": "Truhlář A et al., Resuscitation 2021;161:152–219",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/33773836/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33773826/"
             },
             {
               "label": "(c)",
               "title": "Accidental Hypothermia",
               "subtitle": "Brown DJA et al., NEJM 2012;367:1930–1938. Swiss staging guides field decisions; no death until warm and dead",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22277823/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23150960/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1882,7 +1882,7 @@
               "label": "(c)",
               "title": "Cold Water Immersion: The Gold Standard for Exertional Heatstroke Treatment",
               "subtitle": "Casa DJ et al., Journal of Athletic Training 2007;42:333–334. Ice-water immersion fastest cooling method (0.35°C/min); most effective for exertional heat stroke",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/18074294/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17620933/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1918,9 +1918,9 @@
             },
             {
               "label": "(c)",
-              "title": "Snake Bite: A Current Approach to Management",
-              "subtitle": "Isbister GK et al., Australian Prescriber 2006;29(5):125–129. Australian-specific clinical approach; antivenom selection and PIB evidence",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/16930660/"
+              "title": "Real World Delays in Antivenom Administration",
+              "subtitle": "Australian Snakebite Project, 2024. Contemporary Australian data on antivenom timing and system factors affecting snakebite care",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39652374/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1946,7 +1946,7 @@
               "label": "(c)",
               "title": "Decompression Illness",
               "subtitle": "Vann RD, Butler FK, Mitchell SJ, Moon RE, Lancet 2011;377:153–164. 100% O₂ accelerates nitrogen elimination; HBOT remains definitive treatment",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/21239032/"
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21215883/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1981,9 +1981,9 @@
             },
             {
               "label": "(b)",
-              "title": "beyondblue Clinical Practice Guidelines: Depression and Anxiety",
-              "subtitle": "beyondblue, 2023",
-              "url": "https://www.beyondblue.org.au/"
+              "title": "Mental Health First Aid Australia: Mental Health First Aid Action Plans",
+              "subtitle": "Mental Health First Aid Australia, 2021. Evidence-based action plans for acute mental health presentations including suicidal crisis, psychosis, panic, and aggressive behaviour — directly applicable to first-responder settings",
+              "url": "https://mhfa.com.au/mental-health-first-aid-guidelines"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -2013,15 +2013,15 @@
             },
             {
               "label": "(c)",
-              "title": "DORM RCT: Droperidol versus Midazolam for Acute Agitation in the Emergency Department",
-              "subtitle": "Calver LA et al., Annals of Emergency Medicine 2015;66:447–449. Droperidol 10 mg IM superior to midazolam for prehospital agitation",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/25455068/"
+              "title": "DORM Study: Randomised Controlled Trial of IM Droperidol versus Midazolam for Acute Behavioural Disturbance",
+              "subtitle": "Isbister GK, Calver LA et al., Ann Emerg Med 2010;56(4):392–401. Droperidol superior to midazolam for sedation of acutely agitated patients (n=153)",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20868907/"
             },
             {
               "label": "(c)",
               "title": "SIESTA Study: Droperidol plus Midazolam versus Either Alone for Extreme Agitation",
               "subtitle": "Isbister GK et al., Annals of Emergency Medicine 2017. Combination faster than either alone for extreme agitation",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/27993451/"
+              "url": "https://doi.org/10.1016/j.annemergmed.2016.08.033"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
