@@ -109,7 +109,7 @@ Currency rules: prefer references <=5 years old; accept <=10 years where clinica
 | current-5y | refs-hypothermic-cardiac-arrest | Resuscitation | Hypothermic Cardiac Arrest | 2024 | https://resus.org.au/guidelines/; https://pubmed.ncbi.nlm.nih.gov/33773826/ |
 | current-5y | refs-newborn-life-support | Resuscitation | Newborn Life Support | 2024 | https://www.anzcor.org/home/neonatal-resuscitation/; https://ranzcog.edu.au/ |
 | current-5y | refs-post-resuscitation-care | Resuscitation | Post-Resuscitation Care (ROSC) | 2024 | https://www.anzcor.org/; https://www.ilcor.org/ |
-| current-5y | refs-traumatic-resuscitation | Resuscitation | Traumatic Resuscitation | 2024 | https://resus.org.au/guidelines/; https://www.surgeons.org/ |
+| current-5y | refs-traumatic-resuscitation | Resuscitation | Traumatic Resuscitation | 2026 | https://resus.org.au/guidelines/; https://www.surgeons.org/ |
 | current-5y | refs-anaphylaxis | Shock | Anaphylaxis | 2025 | https://www.allergy.org.au/hp/anaphylaxis; https://resus.org.au/guidelines/ |
 | current-5y | refs-cardiogenic-shock | Shock | Cardiogenic Shock | 2025 | https://www.heartfoundation.org.au/; https://pubmed.ncbi.nlm.nih.gov/34447992/ |
 | current-5y | refs-sepsis | Shock | Sepsis & Septic Shock | 2026 | https://www.safetyandquality.gov.au/standards/clinical-care-standards/sepsis-clinical-care-standard; https://www.sccm.org/survivingsepsiscampaign |
@@ -120,7 +120,7 @@ Currency rules: prefer references <=5 years old; accept <=10 years where clinica
 | current-5y | refs-serotonin-syndrome | Toxicology | Serotonin Syndrome | 2024 | https://pubmed.ncbi.nlm.nih.gov/17874986/; https://www.rch.org.au/clinicalguide/ |
 | current-5y | refs-tca-toxicity | Toxicology | Tricyclic Antidepressant Toxicity | 2024 | https://tg.org.au/; https://pmc.ncbi.nlm.nih.gov/articles/PMC10725808/ |
 | current-5y | batt | Trauma | BATT Score | 2021 | https://pubmed.ncbi.nlm.nih.gov/33407716/ |
-| current-5y | refs-burns | Trauma | Burns | 2024 | https://www.anzba.org.au/quality-care/management-of-burns/; https://resus.org.au/guidelines/ |
+| current-5y | refs-burns | Trauma | Burns | 2026 | https://www.anzba.org.au/quality-care/management-of-burns/; https://fsfhg.health.wa.gov.au/For-health-professionals/Refer-a-patient/Service-specific-referrals/State-Adult-Burns-Service-referrals |
 | current-5y | refs-chest-trauma | Trauma | Chest Trauma & Pneumothorax | 2024 | https://resus.org.au/guidelines/; https://www.facs.org/quality-programs/trauma/atls/ |
 | current-5y | refs-haemorrhage | Trauma | Haemorrhage Control | 2024 | https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding; https://resus.org.au/guidelines/ |
 | current-5y | refs-spinal-trauma | Trauma | Spinal Trauma & Cord Injury | 2024 | https://resus.org.au/guidelines/; https://resus.org.au/download/anzcor-guideline-9-1-6-management-of-suspected-spinal-injury-january-2016-0-1-mib/ |

@@ -622,6 +622,18 @@
               "url": "https://www.surgeons.org/"
             },
             {
+              "label": "(a)",
+              "title": "Royal Perth Hospital WA State Trauma System and Services",
+              "subtitle": "WA State Adult Major Trauma Service / Royal Perth Hospital, updated 2026. State trauma system, Level 1 adult major trauma service and transfer context",
+              "url": "https://rph.health.wa.gov.au/Services/Trauma-Service/WA-State-Trauma-System-and-Services"
+            },
+            {
+              "label": "(a)",
+              "title": "WA State Trauma Guiding Principles for Major Trauma Inter-hospital Transfer",
+              "subtitle": "State Trauma Office / WA Trauma Directors Committee, 2025. Major trauma transfer principles and State Major Trauma Service contact expectations",
+              "url": "https://royalperth.health.wa.gov.au/~/media/HSPs/EMHS/Hospitals/RPH/Documents/Services/Trauma/WA-State-Trauma-website-2025/WA-State-Trauma-Guidelines/Guiding-Principles-for-Major-Trauma-inter-hospital-transfer.pdf"
+            },
+            {
               "label": "(b)",
               "title": "ATLS Advanced Trauma Life Support",
               "subtitle": "American College of Surgeons, 10th Edition, 2018",
@@ -970,6 +982,18 @@
               "title": "REVERT RCT: Modified Valsalva Manoeuvre for Emergency Treatment of Supraventricular Tachycardias",
               "subtitle": "Appelboam A et al., Lancet 2015;386:1747–1753. Modified Valsalva (supine leg raise) doubled SVT cardioversion rate (43% vs 17%)",
               "url": "https://pubmed.ncbi.nlm.nih.gov/26314489/"
+            },
+            {
+              "label": "(c)",
+              "title": "LITFL ECG Library",
+              "subtitle": "Life in the Fast Lane ECG Library. Practical ECG pattern recognition support for arrhythmias; use as educational support alongside ANZCOR and formal cardiology guidelines",
+              "url": "https://litfl.com/ecg-library/"
+            },
+            {
+              "label": "(c)",
+              "title": "LITFL Supraventricular Tachycardia ECG Library",
+              "subtitle": "Life in the Fast Lane, updated educational ECG reference for SVT recognition and differential diagnosis",
+              "url": "https://litfl.com/supraventricular-tachycardia-svt-ecg-library/"
             }
           ],
           "disclaimer": "References are provided for clinician awareness and continuing practice support. Always consult current editions of referenced works, local employer protocols, and applicable legislation."
@@ -1277,6 +1301,24 @@
               "title": "ANZBA Emergency Management of Severe Burns (EMSB) Course Manual",
               "subtitle": "Australian and New Zealand Burn Association, 19th Edition, 2024",
               "url": "https://www.anzba.org.au/quality-care/management-of-burns/"
+            },
+            {
+              "label": "(a)",
+              "title": "Fiona Stanley Hospital State Adult Burns Service Referrals",
+              "subtitle": "Fiona Stanley Fremantle Hospitals Group, updated 2026. WA State Adult Burns Service referral pathway and burns registrar contact process for patients aged 16 years and older",
+              "url": "https://fsfhg.health.wa.gov.au/For-health-professionals/Refer-a-patient/Service-specific-referrals/State-Adult-Burns-Service-referrals"
+            },
+            {
+              "label": "(a)",
+              "title": "WACHS Endorsed FSH Burns Wound Management Resources",
+              "subtitle": "WA Country Health Service / Fiona Stanley Hospital, 2025. Endorsed Fiona Stanley Hospital burns wound management resources for clinical practice",
+              "url": "https://www.wacountry.health.wa.gov.au/~/media/WACHS/Documents/About-us/Policies/Fiona-Stanley-Hospital-FSH-Burns-Management-Resources-Endorsed-for-Use-in-Clinical-Practice-EUCP-Pol.pdf?thn=0"
+            },
+            {
+              "label": "(a)",
+              "title": "Perth Children’s Hospital Burns Service",
+              "subtitle": "WA paediatric burns service referral and follow-up information for children and adolescents",
+              "url": "https://www.health.wa.gov.au/en/sitecore/content/Hospitals/PCH/Home/Our-services/Burns"
             },
             {
               "label": "(a)",
