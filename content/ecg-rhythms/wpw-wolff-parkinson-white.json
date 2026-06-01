@@ -62,48 +62,48 @@
     "ecg-v2"
   ],
   "isFreeContent": false,
-  "version": 3,
-  "lastUpdated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "lastUpdated": "2026-06-01T02:28:52Z",
   "waveform": {
     "engineVersion": 2,
-    "rhythmFamily": "svt",
+    "rhythmFamily": "sinus",
     "previewOrientation": "portrait",
     "stripSmallBoxesPortrait": 83,
     "stripSmallBoxesLandscape": 140,
     "rrPattern": "regular",
-    "heartRate": 75,
+    "heartRate": 80,
     "atrialActivity": {
       "type": "discreteP",
-      "pAmplitudeMm": 1.1,
-      "pDurationMs": 80,
+      "pAmplitudeMm": 1.4,
+      "pDurationMs": 90,
       "prMs": 100,
-      "prSegmentMs": 25
+      "prSegmentMs": 70,
+      "prSegmentMorphology": "isoelectric",
+      "prSegmentElevationMm": -0.1
     },
     "qrs": {
-      "type": "deltaWave",
-      "amplitudeMm": 9,
-      "durationMs": 120,
-      "sAmplitudeMm": -3,
-      "qAmplitudeMm": -0.1
+      "type": "preExcited",
+      "qAmplitudeMm": -0.9,
+      "amplitudeMm": 13,
+      "durationMs": 86,
+      "sAmplitudeMm": -5.5
+    },
+    "jPoint": {
+      "elevationMm": 0,
+      "morphology": "normal",
+      "notchAmplitudeMm": 0,
+      "notchDurationMs": 40
     },
     "st": {
-      "elevationMm": -0.5,
+      "elevationMm": 0,
       "morphology": "flat",
-      "durationMs": 80
+      "durationMs": 105
     },
     "tWave": {
       "present": true,
-      "amplitudeMm": 2,
-      "durationMs": 160,
-      "shape": "inverted"
+      "amplitudeMm": 3.1,
+      "durationMs": 210
     },
-    "sourceUrls": [
-      "https://litfl.com/pre-excitation-syndromes-ecg-library/"
-    ],
-    "qaNotes": [
-      "Short PR interval, delta wave, widened QRS."
-    ],
-    "qaReviewedAt": "2026-05-24T00:00:00Z",
-    "qaConfidence": "pattern-reviewed"
+    "tpSegmentMs": 260
   }
 }
