@@ -74,7 +74,7 @@
     "ecg-rhythms/ventricular-tachycardia-stable": 3,
     "ecg-rhythms/ventricular-tachycardia-unstable": 3,
     "ecg-rhythms/wellens-syndrome": 3,
-    "ecg-rhythms/wpw-wolff-parkinson-white": 3,
+    "ecg-rhythms/wpw-wolff-parkinson-white": 4,
     "guidelines/abdominal-pain": 6,
     "guidelines/abdominal-trauma": 6,
     "guidelines/achilles-tendinopathy": 2,
@@ -365,6 +365,6 @@
     "mnemonics": 141952569,
     "references": 90878010
   },
-  "lastUpdated": "2026-05-31T11:58:00Z",
-  "version": 25
+  "lastUpdated": "2026-06-01T02:28:54Z",
+  "version": 26
 }
